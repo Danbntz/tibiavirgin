@@ -1,0 +1,55 @@
+ID              = 13100490
+Name            = "Lady Dalys"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,114-0-0-0)
+CurrentOutfit   = (137,114-0-0-0)
+LastLogin       = 1148175058
+LastLogout      = 1148176348
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32689,32310,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,235566,0,262600,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,146676,1100,157355,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,575,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21894,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,575,2000,750,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,152,2000,350,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,218,2000,350,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,80,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,519,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,11,15,16,17,19,22,27,29,38,44}
+QuestValues = {(67,1),(68,1),(70,1),(71,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3008},
+               3 Content={2854 Content={3577 Amount=7, 3160 Charges=1, 2874 ContainerLiquidType=10, 2853 Content={3198 Charges=5, 3189 Charges=2, 3189 Charges=2, 3198 Charges=5, 3191 Charges=2, 3191 Charges=2, 3189 Charges=2, 3198 Charges=1}}},
+               4 Content={3381},
+               5 Content={3073},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="lady dalys\nthais\n" Editor="Lady Dalys"}, 3504 Content={3507 String="lady dalys\nthais\n" Editor="Lady Dalys"}, 3502}, 
+               1 Content={2854 Content={3092}, 2866 Content={3074, 3075, 3072, 3071, 2853 Content={2981, 2984, 2989, 3658, 2393, 3505 String="hola mi conde\nte mando regalitos para k veas lo ucho k te aprecio y te kiero ojala y te gusten :).....\n\n>-(v)->" Editor="Elizabeth elita", 3507 String="lady dalys\ncarlin\n" Editor="Elizabeth elita"}}, 2854 Content={3189 Charges=1, 3152 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3155 Charges=1, 3174 Charges=4, 3174 Charges=4, 3174 Charges=5, 3164 Charges=2, 3174 Charges=5, 3174 Charges=5}, 2867 Content={3446 Amount=26, 3349, 3349, 3349, 3349, 3446 Amount=100, 3349, 3349, 3349, 3447 Amount=17, 3446 Amount=100, 3446 Amount=100}, 2871 Content={3357, 3351, 3351, 3357, 3359}, 2865 Content={3052, 3052 SavedExpireTime=1177, 3505, 2857 Content={3077}, 2857 Content={3026 Amount=3, 2969 KeyNumber=3033, 3056 RemainingUses=200, 3077}}, 3059, 2870 Content={3425, 3425, 2969 KeyNumber=5000, 3282, 3457, 2885}, 2854 Content={3492 Amount=3, 3483, 3483, 3003, 3056 RemainingUses=199, 3046 SavedExpireTime=1824, 3054 RemainingUses=200, 3551, 3012, 3012, 3097, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2970 KeyNumber=4503, 3483, 3457, 3050 SavedExpireTime=1635, 3012}, 3502 Content={3035 Amount=65}}, 
+               2 Content={3502}}

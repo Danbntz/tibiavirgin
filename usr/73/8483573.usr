@@ -1,0 +1,56 @@
+ID              = 8483573
+Name            = "Wihajster"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,95-57-57-76)
+CurrentOutfit   = (131,95-57-57-76)
+LastLogin       = 1146920788
+LastLogout      = 1146920805
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32667,31941,13]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,530381,0,548900,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,151215,3000,193600,1600)
+Skill = (2,460,560,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,46,160,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1095,1095,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,68660,1100,71890,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,58,0,10,0,0,0,0,0,0,0,48125,1100,52859,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5514,1100,5982,20)
+Skill = (14,0,1200,0,0,0,1074,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,2,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(17,1),(99,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3425, 3266, 3413, 3358, 3358, 3358, 3031 Amount=72, 3723 Amount=22, 3457, 2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3084 RemainingUses=237, 3003}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502 Content={2854 Content={3446 Amount=41}, 3359, 3483, 3093 SavedExpireTime=1797, 3275, 2854 Content={3457, 3003}, 3003, 3377, 3377, 3483, 3483, 3003, 3003, 2867, 3483, 3377, 3267, 3003}}, 
+               1 Content={3502 Content={2853 Content={3457, 3003}}}, 
+               2 Content={3502 Content={3035 Amount=2, 3264, 3097, 3264, 3286, 3266, 2853 Content={3358, 3358, 3358, 3358}, 3031 Amount=65, 3031 Amount=100, 3147, 3264, 3031 Amount=100, 2865 Content={3003, 3147}, 3267, 3577 Amount=15, 3504 Content={3504 Content={3507 String="Sky movie\nkazordoon" Editor="Sky movie"}, 3504 Content={3507 Editor="David Escipion"}, 3504}, 3582 Amount=29, 2868 Content={3457, 3003}}}, 
+               6 Content={2911 SavedExpireTime=2992, 3502 Content={3031 Amount=78, 3351, 3457, 3092, 3457, 3035 Amount=56, 3003, 2853, 2857 Content={3046, 3077}, 3043 Amount=2, 3504 Content={3504 Content={2853, 3507 String="Wihajster\nVenore" Editor="Wihajster", 2853}, 3504 Content={2853, 3507 String="Wihajster\nVenore" Editor="Wihajster"}, 3504 Content={2853, 3507 String="Wihajster\nVenore" Editor="Wihajster"}, 2853, 3507 String="Wihajster\nVenore" Editor="Wihajster"}, 2853, 2853, 2853, 2853, 2854 Content={3160 Charges=1}, 3003, 3483, 3003, 3097, 2920 SavedExpireTime=598}}}

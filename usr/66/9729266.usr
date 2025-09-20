@@ -1,0 +1,57 @@
+ID              = 9729266
+Name            = "Grister"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,28-124-124-48)
+CurrentOutfit   = (134,28-124-124-48)
+LastLogin       = 1147309247
+LastLogout      = 1147309295
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33214,32453,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,351448,0,368300,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,105154,1400,111701,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,340,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,125165,1100,128129,100)
+Skill = (7,72,0,10,0,0,0,0,0,0,0,111911,1100,121279,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,223,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,26,0,10,0,0,0,0,0,0,0,4580,1200,5296,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12337,1100,13052,20)
+Skill = (14,0,1200,0,0,0,188,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,196,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,11,20,29,42,44,76,79,81}
+QuestValues = {(20,1),(27,1),(46,1),(111,1),(112,1),(179,1),(180,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3035 Amount=2, 3446 Amount=100, 3457, 3003, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               6 Content={3349},
+               9 Content={3004},
+               10 Content={3446 Amount=48}}
+
+Depots      = {0 Content={2854, 3504 Content={3507 String="Grister\nThais" Editor="Bayzon"}, 2854 Content={2854}, 3504 Content={3507 String="Grister\nThais\n" Editor="Lord Hulkito", 3425, 3277 Amount=3}, 3502}, 
+               1 Content={3504 Content={3507 String="Grister\nCarlin"}, 3502 Content={}}, 
+               2 Content={3504 Content={3507 String="grister\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3350, 2866 Content={3062, 2949}, 3377, 3377, 3003, 3483, 3457, 3504 Content={3045 RemainingUses=199, 3483, 2865 Content={3457, 3372, 3097, 2969 KeyNumber=3033, 3425, 3097, 3093}, 3507 String="Grister\nEdron"}, 3552, 3502}, 
+               5 Content={3503 Content={3507}, 3582 Amount=15, 3091, 3658, 3093, 3028 Amount=1, 3301, 3093, 3449 Amount=4, 3502 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3492 Amount=16, 3483, 3031 Amount=97, 3031 Amount=70, 2868 Content={2869, 2867, 2867, 2854, 2868, 2865, 2868 Content={2854, 2854, 2854}, 2854, 2854, 2865, 2869, 2866, 2866}, 3078, 3287 Amount=4}}, 
+               6 Content={3504 Content={3507 String="Grister\nVenore" Editor="Dilshad"}, 3502}, 
+               7 Content={3502}}

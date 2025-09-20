@@ -1,0 +1,52 @@
+ID              = 13445751
+Name            = "Daro Kena"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-114-114-114)
+CurrentOutfit   = (130,0-114-114-114)
+LastLogin       = 1144239891
+LastLogout      = 1144239972
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32919,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,3466,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,26,1100,1600,1600)
+Skill = (2,120,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,30,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,27,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1073,1800,1118,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1175,1800,2063,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,477,1800,593,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,410,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,45,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(20,1),(22,1),(23,1),(35,1),(59,1),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2859 Content={2853, 3457, 3003}},
+               4 Content={3378},
+               5 Content={2911 SavedExpireTime=2852},
+               6 Content={3285},
+               7 Content={3362},
+               8 Content={3551},
+               10 Content={3410}}
+
+Depots      = {6 Content={3502 Content={3504 Content={3426, 3507 String="luffia\nvenore" Editor="Luffia"}, 3457, 3066, 3031 Amount=34, 3035 Amount=1, 3504 Content={3552, 3504, 3507 String="Angel faby\nvenore" Editor="Dark elf danae"}, 3426, 2873, 2873, 2911 SavedExpireTime=2994, 2911 SavedExpireTime=1147, 3504 Content={3504, 3504 Content={3507 String="Yojtas\nvenore" Editor="Wandal-czarodziej"}}, 3456, 3453, 3503 Content={3504 Content={3507 String="Royal Xuckel\nvenore" Editor="Sakruz"}, 2854, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="Destroyero\nVenore" Editor="Destroyero"}, 3264, 3504 Content={3507 String="satri\nvenore" Editor="Aldevarann"}, 3504 Content={3507 String="Hombre antorcha\nvenore" Editor="Thoon Dald"}}, 2924 SavedExpireTime=218, 2920, 2922 SavedExpireTime=257, 2920 SavedExpireTime=291, 2873, 2911 SavedExpireTime=1156, 3276, 3276, 3504 Content={3504 Content={3507 String="Silivano Lhauriegi\nVenore" Editor="Zack Reick"}, 3504 Content={3507 String="Silivano Lhauriegi\nvenore\n" Editor="Silivano Lhauriegi"}, 3507 String="Silivano Lhauriegi\nvenore" Editor="Luis of zanera", 3552}, 3559, 3267, 3031 Amount=21}}}

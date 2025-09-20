@@ -1,0 +1,60 @@
+ID              = 11877360
+Name            = "Zervero of the demon"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,114-114-114-114)
+CurrentOutfit   = (134,114-114-114-114)
+LastLogin       = 1148177201
+LastLogout      = 1148177517
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32393,31798,7]
+PlayerkillerEnd = 0
+
+Skill = (0,52,0,1,0,0,0,0,0,0,1,2155304,0,2215200,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,654548,1400,867181,1600)
+Skill = (2,618,625,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,341,695,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,121,121,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1350,1350,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,27960,1100,29912,100)
+Skill = (7,79,0,10,0,0,0,0,0,0,0,226235,1100,236624,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,643,1200,645,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,159,1200,181,50)
+Skill = (11,32,0,10,0,0,0,0,0,0,0,16185,1200,16311,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,47,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,42,44,45,49,51,76,78,81}
+QuestValues = {(14,1),(18,1),(46,1),(50,1),(56,1),(67,1),(68,1),(70,1),(71,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(112,1),(116,1),(117,1),(118,1),(129,1),(130,1),(131,1),(132,1),(133,1),(135,1),(136,1),(137,1),(151,1),(152,1),(154,1),(170,1),(171,1),(172,1),(173,1),(174,1),(175,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(213,1),(217,3),(223,1),(224,1),(292,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2866 Content={2969 KeyNumber=3620, 3003, 3446 Amount=100, 3457, 2868, 2857 Content={3177 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3446 Amount=61}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3504 Content={2853, 3504 Content={3286, 2868 Content={2853, 2853 Content={3349, 3264, 3349, 3349}, 2853, 3358, 2853 Content={2853 Content={3358, 3358, 3349}, 2853 Content={3425, 3358, 3266}, 2853 Content={2853 Content={3425, 3425, 3349}, 2853 Content={2853 Content={3723 Amount=1, 3358, 3425, 3349}, 3358, 3358, 3266}, 3358, 3266, 3358, 3358, 3266}, 3286}, 3358, 3358, 3349, 3349, 3349, 3377, 3358, 3358, 3358, 3358, 3377, 3349, 3286, 3286}}}}, 3349, 3413, 3413, 2853 Content={3349, 3305, 3425, 3349, 3425, 3425, 3425, 3425}, 3507 String="zervero of the demon\nthais" Editor="Chokis blackstikma"}, 2854, 3504 Content={2853 Content={3410, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3410, 3410, 3354, 3410, 2853 Content={3410, 3410, 3354, 3410}}, 3410}, 3410, 3354}, 3410, 2853 Content={3264, 3410, 3352, 3354, 3558, 3352, 2853 Content={3410, 3410, 3410, 2853 Content={3410, 3410, 3354, 3264, 3410}, 3410, 3349}, 3292}, 3354}, 2853 Content={3410, 3354, 3410, 2853 Content={2853 Content={3354, 3410, 3354, 3410, 3354, 3264}, 3410, 3410, 3410}, 2853 Content={3410, 3410}}, 3354, 3264, 3354}}, 3507 String="zervero of the demon\nthais" Editor="Zervero of the demon"}, 3504 Content={3507 String="Zervero of the demon\nthais" Editor="Andres lionblack", 3372}, 3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={3377, 3377}, 3377, 3377, 3377}, 3507 String="zervero of the demon\nthais" Editor="Zervero of the demon"}, 3504 Content={3425, 3507 String="zervero of the demon \nthais" Editor="Zervero of the demon"}, 2853 Content={2854 Content={2868 Content={2868, 2868, 2868, 2868, 2868}, 2866, 3582 Amount=4}}, 3507 String="zervero of the demon\nthais" Editor="Zervero of the demon"}, 2853 Content={3425, 2853 Content={3377, 2853 Content={3410, 3354, 2853 Content={3410, 2853 Content={3349, 3358, 3410, 3425}, 3425}, 3354, 3264}}}, 3507 String="zervero of the demon\nthais" Editor="Zervero of the demon"}, 3301, 3299, 3504 Content={3447 Amount=100, 3447 Amount=59, 3350, 3287 Amount=1, 3045 RemainingUses=200, 3507 String="zervero of the demon\nthais" Editor="Chokis blackstikma"}, 2874 ContainerLiquidType=6, 3147, 3448 Amount=15, 3504, 3012, 3502 Content={3349, 3421, 3059, 3599 Amount=6, 3350, 3457, 3384}}, 
+               1 Content={3449 Amount=3, 3572, 3457, 3003, 3457, 3504 Content={3507 String="zervero of the demon\ncarlin" Editor="Darminz"}, 3504 Content={3507 String="zervero of the demon\ncarlin" Editor="Darminz"}, 3031 Amount=1, 3504 Content={3031 Amount=1, 3507 String="zervero of the demon\ncarlin" Editor="Darminz arquero"}, 3504 Content={3046, 2868 Content={3287 Amount=3, 3349, 3349, 3447 Amount=1, 3349, 3010, 3373, 3093, 3039, 3004, 3007, 3017, 3007, 3007, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3287 Amount=1, 3350, 3349, 2871 Content={3147, 3147, 3147, 2853 Content={3287 Amount=1, 3425}}, 3507 String="zervero of the demon \ncarlin" Editor="Zervero of the demon"}, 3097, 3425, 3506 String="ZERVERO OF THE DEMON\nCARLIN\nfactodead(22) pally--- no premmy\n\nkito'pax(42)pally---no premmy  guild funeral\n\nsir pretorian(55) druid--no premmy\n\ndon soeck(42) master sorcere(protected by sirmarducky\n\ninsagui(72) elite kina--premmy guild colegas\n\nkyrhion(65) elite kina --premmy   no guild\n" Editor="Darminz arquero", 3349, 3208, 2472 Content={3065, 3279, 3279, 3349, 3277 Amount=3, 2868 Content={3305, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 3349, 3298 Amount=2, 3172 Charges=3, 3172 Charges=3, 2969 KeyNumber=5010}, 2473, 2469 Content={3031 Amount=2, 3026 Amount=1}}, 2869 Content={3301, 3027 Amount=3, 3065, 3065, 3076, 3287 Amount=51, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2973 KeyNumber=3520}, 2853 Content={2865 Content={3449 Amount=4, 1781 Amount=2, 3448 Amount=10, 3084 RemainingUses=250}}, 3349, 3059, 2853 Content={2842 String="los mejores amigos " Editor="Venus de'montecristo", 3008}, 3502 Content={2970 KeyNumber=3801, 2853 Content={2853 Content={2854 Content={2868 Content={2854}}, 3425, 3457}, 3352}, 2972 KeyNumber=3980, 3042 Amount=1, 2969 KeyNumber=4600}}, 
+               2 Content={3502 Content={3504 Content={3377, 3377, 3377, 3377, 3504 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2870 Content={2870 Content={3274, 3377, 2870 Content={2868 Content={2854 Content={2866 Content={2865 Content={2866 Content={2854 Content={3274, 2854 Content={2854 Content={3274, 3264, 3274, 2854 Content={2854 Content={3274, 2854 Content={3377, 3377, 2854}}}}}}}}}}}}}}}}}}}}}}}, 3507 String="Zervero of the demon\nkazordoon" Editor="Venus de'montecristo"}, 3075, 2853 Content={2854 Content={2868}, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2853, 2853 Content={2853 Content={2853 Content={3377, 2853 Content={3305, 3377, 3413, 3377, 3377, 3305, 3305}, 3377, 3377}, 3377, 3377}, 3377}}, 3092, 3305, 3457, 2874, 2874, 4871, 4871, 3286, 2970 KeyNumber=3800}}, 
+               3 Content={3502}, 
+               4 Content={3349, 3093, 3349, 3502}, 
+               5 Content={3349, 3502 Content={2857}}, 
+               6 Content={3034 Amount=1, 3031 Amount=6, 3504 Content={2853 Content={3583 Amount=40}, 3507 String="zervero of the demon\nvenore" Editor="Zervero of the demon"}, 3349, 3502 Content={3322}}, 
+               7 Content={3372, 3078, 3504 Content={3447 Amount=1, 3050}, 3172 Charges=2, 3502 Content={3003}}}

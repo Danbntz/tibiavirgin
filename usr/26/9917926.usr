@@ -1,0 +1,55 @@
+ID              = 9917926
+Name            = "Druid Ziom Nazgula"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,95-0-94-114)
+CurrentOutfit   = (128,95-0-94-114)
+LastLogin       = 1146914040
+LastLogout      = 1146914509
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31788,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,240319,0,262600,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,377256,1100,392762,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,519,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,32942,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,26,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,21034,1800,22252,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,62,1800,140,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,213,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,891,1100,911,20)
+Skill = (14,0,1200,0,0,0,1088,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,16,18,27,29,38,42,44,45}
+QuestValues = {(20,1),(37,1),(46,1),(93,1),(94,1),(95,1),(125,1),(126,1),(190,1),(191,1),(217,3),(226,1),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               3 Content={2868 Content={3582 Amount=5, 3003, 3457}},
+               4 Content={3380},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=543}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={2865 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147}, 3031 Amount=50, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3275, 3030 Amount=1, 3065, 3050 SavedExpireTime=1780, 3035 Amount=41, 2969 KeyNumber=5000, 3503 Content={3507}, 3008, 3299, 2827 String="The Akh'rah Uthun is the unity of that which cannot be united. The flawed Akh, which is our anchor to this mundane world, is generally weak. By giving in to the needs of the physical Akh, the Rah and the Uthun become enslaved to this world, even though their potential is such that they could transcend the physical world. However, the greatest flaw the Akh suffers from is its mortality. Why should we seek to satisfy its puny needs and its trivial urges if we know it is doomed to die? Yet this is how the Akh holds our spirit captive. It slowly poisons both the Rah as well as the Uthun.", 2992 Amount=5, 3050, 3287 Amount=1, 2854 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3077, 2857 Content={3083 RemainingUses=150, 3046, 3077}, 3008, 2667, 2656, 3448 Amount=6, 3586 Amount=4, 3590 Amount=6, 3598 Amount=5}, 3004, 2989, 3463, 2973 KeyNumber=3520}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

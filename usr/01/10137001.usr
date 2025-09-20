@@ -1,0 +1,61 @@
+ID              = 10137001
+Name            = "Sir Nelson picho"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (132,39-56-114-0)
+CurrentOutfit   = (132,39-56-114-0)
+LastLogin       = 1128399228
+LastLogout      = 1128399439
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,374268,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,154320,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,133,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,207553,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,73,1100,105,50)
+Skill = (10,67,0,10,0,0,0,0,0,0,0,117572,1100,125318,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,556,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(36,1),(86,1),(87,1),(96,1),(97,1),(98,1),(111,1),(112,1),(190,1),(191,1),(211,4),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2868 Content={3031 Amount=6, 3031 Amount=100, 3092 SavedExpireTime=745, 3587 Amount=2, 3031 Amount=100, 2970 KeyNumber=3899, 3457, 3504 Content={3543, 3542, 3543, 3537, 3542, 3536, 3536, 3537, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="sir nelson picho\nab'dendriel\n"}}, 3507 String="sir nelson picho\nab'dendriel"}, 3507 String="sir nelson picho\nab'dendriel\n\n"}, 3507 String="sir nelson picho\nab'dendriel"}, 3114 Amount=8, 3003}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3429, 3431, 3153 Charges=1, 3277 Amount=3, 2854 Content={}, 4290 Content={2885 ContainerLiquidType=0}, 2469 Content={3085 RemainingUses=200, 3059 String=""}, 2473 Content={2981, 2981, 2981, 2981, 2981, 2981, 2981, 2981, 2981}, 2473 Content={}, 2393, 3504 Content={3507 String="sir nelson picho\nthais\n\n"}, 3504 Content={3507 String="sir nelson picho\nthais"}, 3504 Content={3507 String="lord mil usos\nThais"}, 3502 Content={3035 Amount=2, 3031 Amount=98, 3003, 3457}}, 
+               1 Content={3502 Content={3372, 3413, 3273, 3273}}, 
+               2 Content={3446 Amount=2, 3504 Content={3507 String="lord mil usos \nkazordoon"}, 3504 Content={3507 String="lord mil usos\nkazordoon"}, 3502 Content={3293, 2853 Content={3585 Amount=3}, 3503 Content={3412}}}, 
+               3 Content={3502 Content={2906, 2865 Content={3285, 3350, 3349, 3275, 3425}, 2868 Content={3293, 3412, 3155 Charges=1}, 2865 Content={3266, 3492 Amount=35, 3266, 3266, 3075}, 2871 Content={3446 Amount=9, 3446 Amount=100, 3003, 3483, 3425, 3349, 3449 Amount=8, 3447 Amount=16, 3350, 3412, 3293}, 2867 Content={2868 Content={2865 Content={}}}, 3059 String="", 2857 Content={3084 RemainingUses=250, 3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}, 2865 Content={}, 3565, 3054 RemainingUses=200, 3054 RemainingUses=99, 3050 SavedExpireTime=0}}, 
+               4 Content={3504 Content={3003, 3457, 3582 Amount=6, 3507 String="che boludo\nedron\n"}, 3504 Content={3507 String="che boludo\nedron\n", 2871 Content={}}, 3504 Content={3507 String="che boludo\nedron\n\nputo!"}, 3502 Content={2854 Content={}, 2854 Content={}, 2854 Content={2866 Content={2865 Content={3471}}}, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=557}}, 
+               5 Content={3504 Content={3507 String="sir nelson picho\ndarashia"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="karson levin\ndarashia"}}, 3504 Content={3507 String="che boludo\nedron"}}, 3507 String="sir nelson picho\ndarashia"}, 3451, 3551, 3502 Content={3504 Content={3503 Content={3507 String=""}, 2471 Content={}}, 2473 Content={3042 Amount=1, 3097 SavedExpireTime=0, 2867 Content={}, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=1794, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0}, 3504 Content={3330, 3083 RemainingUses=145}}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3504 Content={3367, 3286, 3286, 3286, 3507 String="sir nelson picho\nankrahmun"}, 3502 Content={3577 Amount=27, 3301, 3265, 3504 Content={2871 Content={2871 Content={3740 Amount=1}}}, 3462, 3425, 3457}}}

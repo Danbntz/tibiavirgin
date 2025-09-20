@@ -1,0 +1,49 @@
+ID              = 8136969
+Name            = "Tomdim"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,95-95-95-95)
+CurrentOutfit   = (134,95-95-95-95)
+LastLogin       = 1145645153
+LastLogout      = 1145645238
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33211,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,124534,0,135100,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,73435,1100,81854,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,117,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14556,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,167,1800,302,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1061,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,17,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,61,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,6,10,11,20,25,29,42,81,84,88}
+QuestValues = {(217,3),(333,1)}
+Murders     = {1145516765}
+
+Inventory   = {2 Content={3572},
+               3 Content={2866 Content={2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3582 Amount=20, 2866 Content={2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866}},
+               8 Content={3552}}
+
+Depots      = {1 Content={3504 Content={3507 String="tomdim\ncarlin"}, 3300, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=578, 3503 Content={3507 String="Tomdim\ncarlin"}}, 3362, 3504 Content={}, 3457, 2920 SavedExpireTime=600, 3277 Amount=7, 2853 Content={}, 3502 Content={}}, 
+               5 Content={3457, 3046 SavedExpireTime=1823, 3504 Content={3070, 3384, 3557, 3416, 3375, 3425}, 3311, 3069, 3070, 3504 Content={3507 String="Tomdim\nDarashia" Editor="Tomdim"}, 2471 Content={3582 Amount=89, 3577 Amount=16, 3583 Amount=2}, 2853 Content={3372, 3066, 3413, 3093 SavedExpireTime=332, 3042 Amount=1}, 2866 Content={3147, 3147}, 2853 Content={2853 Content={3372, 2853 Content={3358, 3358, 3352}, 2853 Content={3409, 3558, 3413, 3350, 3352, 3352}, 2853 Content={2853 Content={3352, 3264}, 2853 Content={2853 Content={3358, 3352, 3264, 3286}}, 3264}, 3046 SavedExpireTime=1016, 3483, 3285}}, 2866, 3492 Amount=100, 3456, 3446 Amount=47, 3504 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 3507 String="Sox safadox\ndarashia" Editor="Raptor Soul"}, 2472 Content={3031 Amount=79, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3492 Amount=60, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3031 Amount=2, 3552, 3409}, 2970 KeyNumber=3802, 3504 Content={2853 Content={3138, 3144, 3135, 3135, 3135, 3135, 3135, 3136}, 2853, 2853 Content={2866 Content={2853 Content={3140, 3140, 3138, 2913, 2816 String="Tales of 111 Mystic Nights", 3136, 3136, 3138}, 2853 Content={3137, 3138, 3136, 3138, 3136, 3140}, 2853 Content={3136, 3140, 2911, 2815 String="bitch\n :)"}, 2853, 2853, 2853, 2853, 3274, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 2853 Content={3507 String="Eddi\ncarlin\n\nvc ta morto !!!!!1", 3507 String="female pallie of zenera\ncarlin\n", 3507 String="Takos Breca\nCarlin", 3507, 3507 String="triux\ncarlin", 3140, 3137, 3137}, 2853 Content={3140, 3138, 3138, 3655, 3655, 3144, 2981, 3292}, 2853 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}}, 2853, 2853 Content={3507 String="tomdim\ndarashia", 3138, 2853, 2853, 2853}, 2853 Content={3138, 3136, 3138, 3507 String="Bhylly\nCarlin", 3507 String="Maquina Verde\nCarlin", 3144, 3138, 2853 Content={2866 Content={2853 Content={2853, 2853, 2853, 2853 Content={2853, 2853 Content={2853, 2853}, 2853, 2853 Content={2853 Content={2853 Content={2853}}}, 2853, 2853, 2853, 2853}, 2853 Content={2853}, 2853, 2853, 2853 Content={2853, 2853, 2853}}, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 3504, 3504, 3504, 3507 String="scarfaze\ndarashia"}}}, 3504 Content={3507 String="Knight Brew\nThias\n", 3507 String="takkom pirk\ncarlin", 3507, 3507, 3507 String="Max\n", 3507 String="Gonjii\nCarlin", 3267, 3507 String="Shalavi\nCarlin", 3507 String="Apocalips of Wharlod\nCarlin", 3507 String="Shalavi\nCarlin"}, 2472 Content={3507 String="rkstein\ncarlin", 2881, 3137, 3138, 3140, 3138, 3144, 3507 String="Fredy De'Leon\ncarlin", 3138, 3138, 3140, 3140, 3137, 3138, 3136}, 2853 Content={3504 Content={3138, 3144, 3138, 3140, 3138, 3136, 3507, 3144, 2913, 3507 String="krivian\ncarlin\n"}, 2473 Content={2473 Content={3138, 3138, 3138, 3138, 2983, 3138, 3140, 3138, 3138, 3138}, 3504 Content={3138, 3138, 3138, 3507 String="Firrzox lvl 108!!!!\ncarlin!!!!\n", 2981, 2919, 3507 String="Gothreks\nCarlin", 3138, 3138, 3507 String="krivian\ncarlin"}, 3507 String="Lady Finch\nCarlin", 3507 String="Ayorios'rotch\ncarlin", 3138, 3138, 3140, 3138, 3138, 3143}, 2473 Content={3138, 2882, 3470, 3466, 2981, 2983, 2983, 2983, 2981, 2981}, 2853 Content={3140, 3138, 3138, 3140, 3138, 3138, 3138, 3138}, 2471 Content={3138, 3138, 3138, 3138, 3138, 3138, 3114 Amount=1, 3507 String="Mabelsita\nCarlin", 3507 String="Mozkitoxxe\nCarlin", 3507 String="senhora fontes\ncarlin", 3138, 3138, 3138, 3138, 3140}, 3138, 3138, 3138}, 2473 Content={3140, 3138, 2913, 3138, 3138, 3140, 2913, 3138, 3140, 3138}}, 3502}, 
+               6 Content={2991, 3463, 3286, 3502}}

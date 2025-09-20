@@ -1,0 +1,56 @@
+ID              = 8018370
+Name            = "Lythorn of Thorn"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,20-3-114-114)
+CurrentOutfit   = (129,20-3-114-114)
+LastLogin       = 1143063966
+LastLogout      = 1143063977
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33155,32764,6]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,141521,0,156200,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,102780,1400,111701,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,105,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,57769,1100,59240,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,34810,1100,34917,30)
+Skill = (8,31,0,10,0,0,0,0,0,0,0,12721,1200,13551,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,744,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1456,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,29,42,51,76,79}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(84,1),(85,1),(86,1),(87,1),(100,1),(128,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3054 RemainingUses=102},
+               3 Content={2854 Content={3447 Amount=100, 3483, 3492 Amount=31, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2920, 2920, 2920, 2920}, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3350},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3447 Amount=70}}
+
+Depots      = {0 Content={3502 Content={2853 Content={}}}, 
+               1 Content={3504 Content={3507 String="Lythorn of Thorn\nCarlin"}, 3502 Content={}}, 
+               4 Content={3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 07\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 07\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 07\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 07\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 07\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3504 Content={3507 String="Lythorn of Thorn\nEdron"}, 3507 String="Lythorn of Thorn\nEdron", 2853 Content={2853}}, 3502}, 
+               6 Content={3504 Content={3507 String="Lythorn of Thorn\nVenore\n"}, 3502 Content={3447 Amount=100, 3447 Amount=49}}, 
+               7 Content={3504 Content={3507 String="Lythorn of Thorn\nAnkrahmun", 2869 Content={2854, 3483, 2659, 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 07\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 2659, 2639, 2659, 2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Flat 07\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}, 2469 Content={3505 String="1. Eq\n2. Food\n3. Distance\n4. Geld\n5. Runes\n6. Deco\n7. Backpacks", 2869 Content={3505 String="1. Wapens\n2. Shields\n3. Amulets\n4. Helmets\n5. Boeken", 2869 Content={3316, 3300, 3286, 3286}, 2869 Content={3421, 3411}, 2869 Content={3012}, 2869 Content={3376}, 2854 Content={2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2816 String="Alistair Cropwell's Travel Notes\n\n...strange things I saw today! A mighty city, inhabited with fearsome beings. Dark rituals, the reason of which I could not discern. Are these people friend or foe? I do not know. I remain in hiding and observe.. and what is the meaning of this strange talisman that I found? The symbol appears everywhere, I fear it may have powers that could cause damage in the wrong hands.\n\nI have been travelling so long, I can hardly remember the features of my beloved ones. Will they recognise, will the remember me? What will they make of my tales? Oh, that I be back with them, walk the city again...\n", 2816 String="We have stolen the key to the large ancient temple hall under the city of Tibia. But the key is useless now, because the temple has been plundered by the humens. The temple is free, also for us, the trolls. The entrance is outside the human city.\n", 2816 String="So many evil creatures!\nI'm heavily injured.\nThese are my last words ...\nRevenge my death!\n\nGygil"}}, 2869 Content={3578 Amount=46}, 2869 Content={3446 Amount=23, 3349, 2853 Content={3287 Amount=2}}, 2854, 2869, 2869 Content={2644, 2644, 2644, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2644, 2644, 2644}, 2869}, 2869 Content={3425, 2659, 3083 RemainingUses=150, 3277 Amount=14, 3425, 3483, 2659, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147}}}, 3502 Content={3446 Amount=5, 2853 Content={2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=1, 3031 Amount=68}}}}

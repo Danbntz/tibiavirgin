@@ -1,0 +1,57 @@
+ID              = 8073590
+Name            = "Lord Of Jobster"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,11-33-109-12)
+CurrentOutfit   = (133,11-33-109-12)
+LastLogin       = 1146341562
+LastLogout      = 1146341991
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38510,0,47000,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,140502,1100,141595,1600)
+Skill = (2,185,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,28,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12196,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,10808,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,84,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8754,1100,8851,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,6,7,8,10,16,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(84,1),(85,1),(86,1),(87,1),(125,1),(126,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3056 RemainingUses=200},
+               3 Content={2854 Content={3274}},
+               4 Content={3358},
+               5 Content={3074},
+               6 Content={3412},
+               7 Content={3372},
+               10 Content={2854 Content={3003}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={2873 ContainerLiquidType=0, 2873 ContainerLiquidType=0, 3377, 3352, 3504 Content={3352, 3349, 2873 ContainerLiquidType=0, 3507 String="lord of jobster\nab'dendriel\n"}, 3457, 3453, 3349, 3352, 3362, 2853 Content={}, 3504 Content={3507 String="lord of jobster\nkazordoon\n"}, 3603 Amount=5, 3092 SavedExpireTime=1781, 3605 Amount=70, 3605 Amount=65, 3286, 2469 Content={}, 2471 Content={2969 KeyNumber=3033, 2853 Content={}}, 2970 KeyNumber=4601, 2469 Content={}, 3504 Content={3507 String="lord of jobster\nkazordoon"}, 3504 Content={3507 String="lord of jobster\nkazordoon"}, 3266, 3504 Content={3507 String="lord of jobster\nkazordoon\n"}, 3504 Content={3507 String="lord of jobster\nkazordoon\n"}, 3504 Content={3507 String="lord of jobster\nkazordoon"}, 2853 Content={3031 Amount=47}, 3377, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The Farms 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853 Content={}, 3502 Content={3031 Amount=1, 3031 Amount=100, 3035 Amount=3, 3031 Amount=100, 3031 Amount=100}}, 
+               3 Content={3031 Amount=23, 3031 Amount=100, 2853 Content={2853 Content={3031 Amount=9, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 2853 Content={3283, 3425}, 3502 Content={3507 String="lord of jobster\nab'dendriel\n"}}, 
+               4 Content={3411, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="lord of jobster\ndarashia"}, 3504 Content={3507 String="Lord of jobster\ndarashia"}, 3050, 2969 KeyNumber=3033, 2853, 3502}, 
+               7 Content={3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3578 Amount=24, 3465 ContainerLiquidType=0, 2992 Amount=4, 2827 String="The master of the games asked for 'greater challenges'. I cannot help the feeling that the fool is talking about djinns and demons. However, as long as I am chief advisor of the pharaoh this will not happen. If such a creature broke loose in the city, chaos would ensue. It would be a massacre. And I am convinced that certain elements would welcome such a 'misfortune' and even work towards it.", 2902 ContainerLiquidType=0, 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 3502 Content={}}}

@@ -1,0 +1,57 @@
+ID              = 8057619
+Name            = "Lady Statick"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (137,94-114-114-114)
+CurrentOutfit   = (137,94-114-114-114)
+LastLogin       = 1128917061
+LastLogout      = 1128917455
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,124507,0,135100,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,108480,1400,111701,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,135,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,37957,1100,40144,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,32097,1100,34917,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,59,1200,109,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,27,0,10,0,0,0,0,0,0,0,6197,1200,6405,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,464,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,1989,1100,2183,20)
+Skill = (14,0,1200,0,0,0,1167,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,15,20,29,30,42,44,48,51}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={},
+               3 Content={2867 Content={3577 Amount=8, 3582 Amount=7, 3147, 3031 Amount=8, 3003, 2870 Content={3198 Charges=5, 3198 Charges=5, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3147, 3147, 3147, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3350}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3317},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3004, 3502 Content={}}, 
+               2 Content={2853 Content={}, 3504 Content={2981, 2981, 3277 Amount=5, 3507 String="lady statick\nkazordoon"}, 3504 Content={3276, 3507 String="lady statick\nKazordoon"}, 1781 Amount=16, 3504 Content={2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3447 Amount=46, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2853 Content={3189 Charges=3, 3189 Charges=3, 3147, 3198 Charges=5, 3147}, 3483, 3446 Amount=38, 3349}, 3504 Content={3504 Content={3507 String="lady statick\nkazordoon\n"}, 3504 Content={3504 Content={2874 ContainerLiquidType=0, 3507 String="Lady statick\nthais"}, 3507 String="lady statick\nKazordoon"}, 3504 Content={3507 String="Lady Statick\nkazordoon"}, 3504 Content={}, 3507 String="Lady Statick\nKazordoon"}, 3502 Content={3031 Amount=81, 3723 Amount=35, 3035 Amount=21, 3492 Amount=7, 3026 Amount=1}}, 
+               3 Content={3507 String="lady statick\nAb'Dendriel", 3502 Content={}}, 
+               6 Content={3277 Amount=6, 3504 Content={2853 Content={3446 Amount=13, 2853 Content={}, 3504 Content={3266, 2471 Content={2471 Content={}}}}, 3507 String="lady statick\nvenore"}, 3578 Amount=2, 3502 Content={3578 Amount=30, 3447 Amount=70, 3285, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3457, 3448 Amount=10, 3446 Amount=5, 3012}}}

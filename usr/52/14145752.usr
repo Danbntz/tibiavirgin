@@ -1,0 +1,52 @@
+ID              = 14145752
+Name            = "Vetram"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (140,21-86-114-114)
+CurrentOutfit   = (140,21-86-114-114)
+LastLogin       = 1148231191
+LastLogout      = 1148231204
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,3159,0,4200,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,1828,1100,3360,1600)
+Skill = (2,180,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,1044,1500,1318,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,847,2000,1550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,144,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,31,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,64,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1}
+QuestValues = {(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               5 Content={3504 Content={3507 String="vinyanow\nthais" Editor="Jamarian"}},
+               6 Content={3430},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={3031 Amount=4, 3504 Content={3507 String="vetram\nthais\n" Editor="Stor Galki"}, 3504 Content={3507 String="vetram\nthais" Editor="Stor Galki"}, 3504 Content={3507 String="VETRAM\nTHAIS\n\n\n" Editor="Stor Galki"}, 3504 Content={3507 String="vetram\nthais\n" Editor="Stor Galki"}, 3504 Content={3507 String="vetram\nthais" Editor="Stor Galki"}, 3504 Content={3507 String="vetram\nthais\n" Editor="Stor Galki"}, 3504 Content={3507 String="vetram\nthais" Editor="Stor Galki"}, 3502 Content={3286, 3380, 3035 Amount=73, 3043 Amount=3, 3503, 2933, 2854 Content={2854 Content={3377}}, 3207 Amount=1, 3114 Amount=5, 2969 KeyNumber=4600, 3457}}, 
+               1 Content={3504 Content={3507 String="vetram\ncarlin" Editor="Stor Galki"}, 3502}, 
+               6 Content={3504 Content={3507 String="vetram\nvenore" Editor="Stor Galki"}, 3504 Content={3507 String="vetram\nvenore" Editor="Vetram"}, 3502}, 
+               8 Content={3502 Content={3003, 3147, 2854, 2854 Content={3031 Amount=90, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=77, 3725 Amount=50}}}

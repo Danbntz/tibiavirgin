@@ -1,0 +1,55 @@
+ID              = 8036453
+Name            = "Bochun Druid"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,76-95-114-95)
+CurrentOutfit   = (130,76-95-114-95)
+LastLogin       = 1129728341
+LastLogout      = 1129728402
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,42008,0,47000,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,118800,1100,127268,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,9326,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,6915,1800,12334,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,69,1800,140,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,227,1800,302,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,37,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4827,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,1,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,8,9,10,16,17,18,25,29,42,44,45}
+QuestValues = {(37,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3035 Amount=2, 2853 Content={2854 Content={3447 Amount=15, 3268, 3412, 3483, 3578 Amount=15, 3457, 3003}, 3578 Amount=10}, 2854 Content={3147, 3147, 3147, 3031 Amount=40, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3504 Content={3147, 3147, 2868 Content={2920 SavedExpireTime=0, 3411, 3003, 2906, 3447 Amount=3, 2920 SavedExpireTime=0, 3059 String="", 3457, 2970 KeyNumber=3800, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3003, 3031 Amount=43}, 3507 String="bochun druid\nthais"}, 3504 Content={3507 String="bochun druid\nthais"}, 3277 Amount=3, 3578 Amount=11, 2874 ContainerLiquidType=0, 3504 Content={2867 Content={3266}, 3372, 3316, 2854 Content={}, 3507 String="bochun druid\nthais"}, 2955, 2854 Content={}, 3502 Content={2854 Content={3350, 3735 Amount=1, 3003}, 2854 Content={3578 Amount=3, 3003}, 3447 Amount=98, 2853 Content={3565, 3605 Amount=27, 3292, 3578 Amount=25, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2868 Content={3375, 3375, 3552, 3375, 3483, 3003, 3457, 3277 Amount=5}, 2853 Content={3421, 3446 Amount=12, 3605 Amount=1, 3456, 3354, 3277 Amount=11}, 2868 Content={2866 Content={3447 Amount=100}, 2868 Content={}, 2866 Content={}}, 2865 Content={2906, 3093 SavedExpireTime=0, 3056 RemainingUses=200, 3083 RemainingUses=150, 3285, 3285, 3457, 3457, 3457, 3367, 3003, 3003, 3003}, 2854 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 2865 Content={3588 Amount=5, 3578 Amount=8, 3723 Amount=4, 3582 Amount=10, 3577 Amount=19, 3585 Amount=5, 3590 Amount=1, 3587 Amount=1}, 2865 Content={3283, 3283, 2387, 2388, 2973 KeyNumber=3520, 2970 KeyNumber=4601}, 2854 Content={}, 2868 Content={3085 RemainingUses=136, 3093 SavedExpireTime=728}, 2854 Content={3271, 3384, 3425, 3456}, 2854 Content={3425, 2920 SavedExpireTime=286, 3276}, 2853 Content={3483, 3350, 3430, 3003}, 3588 Amount=74, 3588 Amount=100, 2854 Content={3457, 3012, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3059 String=""}}}, 
+               6 Content={3502 Content={}}}

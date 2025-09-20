@@ -1,0 +1,55 @@
+ID              = 8842894
+Name            = "Kimba stone"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,114-60-114-79)
+CurrentOutfit   = (138,114-60-114-79)
+LastLogin       = 1148251449
+LastLogout      = 1148251478
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,87610,0,98800,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,139555,1100,141595,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,209,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35159,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,23950,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,618,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2278,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,6,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,16,18,20,29,30,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(67,1),(68,1),(70,1),(71,1),(100,1),(125,1),(126,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2870 Content={2874, 2874, 2874, 2874, 2874, 2874, 3031 Amount=17, 2969 KeyNumber=3033, 3492 Amount=1, 2870 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3147, 3147, 3147}}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3322},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={2922 SavedExpireTime=52}}
+
+Depots      = {1 Content={3031 Amount=43, 3358, 3031 Amount=100, 3411, 3033 Amount=1, 3353, 3409, 3353, 3375, 3351, 2472 Content={3483}, 3277 Amount=2, 2924 SavedExpireTime=155, 3457, 3502}, 
+               2 Content={2874, 3351, 2868 Content={2870}, 3503 Content={3507 String="Kimba stone\nAb'dendriel"}, 3503 Content={3507 String="Kimba stone\nAb'dendriel"}, 3502 Content={3031 Amount=28, 3031 Amount=100, 3031 Amount=100, 3446 Amount=6, 3031 Amount=100}}, 
+               3 Content={3483, 3003, 3337, 3723 Amount=22, 3285, 3031 Amount=67, 2870 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147}, 3031 Amount=100, 3507 String="Sombie\nBro of Hell: die mekisomatar", 2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3492 Amount=19, 2868 Content={3552, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2874, 2874, 3003}, 2853 Content={2924 SavedExpireTime=225, 3367, 3367, 2874, 2874, 2874, 2874}, 2853 Content={2870 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2920, 2870 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 3050 SavedExpireTime=1699, 2870 Content={3723 Amount=100}, 2870 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3446 Amount=8, 3447 Amount=12, 3502 Content={3599 Amount=8, 3031 Amount=100, 3059, 3286, 3411, 3286, 3367, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3264, 3264, 3031 Amount=100, 3286, 2870 Content={3582 Amount=11}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3286, 3286, 3031 Amount=100, 3504 Content={2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 3507 String="Kimba stone\nAb'dendriel\n"}, 2853 Content={3035 Amount=20}}}}

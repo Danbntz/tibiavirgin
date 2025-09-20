@@ -1,0 +1,54 @@
+ID              = 11151338
+Name            = "Nosferatus Alucard"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-94-132-114)
+CurrentOutfit   = (128,114-94-132-114)
+LastLogin       = 1146062995
+LastLogout      = 1146095006
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32592,31673,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,332389,0,368300,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,747248,1100,780562,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,543,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,64194,1500,87378,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,127,2000,210,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,14,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,47103,2000,51150,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,2998,1500,3744,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,56,0,10,0,0,0,0,0,0,0,16774,1100,17439,20)
+Skill = (14,0,1200,0,0,0,1073,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,0,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,8,9,10,15,16,17,19,20,21,23,27,44}
+QuestValues = {(16,1),(20,1),(32,1),(33,1),(96,1),(97,1),(98,1),(115,1),(125,1),(126,1),(190,1),(191,1),(217,3),(332,1),(333,1)}
+Murders     = {1143751962}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3578 Amount=69, 3492 Amount=62, 3308, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3198 Charges=3, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 2857 Content={3198 Charges=2, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               5 Content={3425},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3372, 2854 Content={3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2}, 2870, 3177 Charges=1, 2868 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2969 KeyNumber=3033, 3059, 2853 Content={2874, 2874, 2874, 3446 Amount=40}, 2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2870, 3483, 3502 Content={3349, 3358, 3358, 3358, 3358, 3358, 3358, 3358}}, 
+               3 Content={2853 Content={3318, 3419, 3316, 2970 KeyNumber=3802, 3391, 3415}, 3147, 3147, 3504 Content={3147, 3198 Charges=5, 2865 Content={3155 Charges=1, 2874 ContainerLiquidType=10, 2870 Content={3003, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3031 Amount=9, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3192 Charges=2, 3192 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3192 Charges=2, 3192 Charges=2, 3075, 3155 Charges=1, 3155 Charges=1, 3164 Charges=3, 3164 Charges=2, 3164 Charges=2}, 3092 SavedExpireTime=1766, 3092 SavedExpireTime=1590, 3188 Charges=3, 3188 Charges=3, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3507 String="nosferatus alucard\nab'dendriel" Editor="Kha'Zuz"}, 2970 KeyNumber=3802, 3059, 2868 Content={2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 2867 Content={2854 Content={3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=4}}}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 2870 Content={3031 Amount=100, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 2870 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={2867 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3092, 3003, 3264, 3003, 2991, 3003, 3291, 3308, 3349}, 3059, 3502 Content={3266, 2874, 3092, 3421, 3504 Content={3448 Amount=5, 3349, 3350, 3350, 3074, 3282, 3266, 3266}, 3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2871, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3003, 3293}}, 
+               6 Content={3502}}

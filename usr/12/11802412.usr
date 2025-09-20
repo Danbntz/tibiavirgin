@@ -1,0 +1,54 @@
+ID              = 11802412
+Name            = "Lord of dark chaos"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-58-114-58)
+CurrentOutfit   = (128,114-58-114-58)
+LastLogin       = 1148084946
+LastLogout      = 1148084992
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,95521,0,98800,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,60137,1400,78644,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,30583,1100,33003,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,20272,1100,21567,30)
+Skill = (8,25,0,10,0,0,0,0,0,0,0,4034,1200,4372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,29,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1885,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,84,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,11,15,29,42,44,48,51}
+QuestValues = {(18,1),(27,1),(32,1),(33,1),(34,1),(35,1),(37,1),(100,1),(106,1),(107,1),(125,1),(126,1),(128,1),(190,1),(191,1),(217,3),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3349, 3160 Charges=1, 3003, 3200 Charges=2, 3160 Charges=1}},
+               4 Content={3381},
+               5 Content={3277 Amount=4},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={4290 Content={2854, 3031 Amount=75, 2469, 2469 Content={3411, 3372, 3359, 3354, 3558, 3358, 3352, 2843 String="hola\n" Editor="Furon Lius", 2839, 2815 Editor="Kailalynn"}}, 2469 Content={2872 Content={2857, 3043 Amount=1, 3351, 3357, 3282, 3287 Amount=1, 3279, 3287 Amount=5, 2991, 3322, 3451, 3299}, 2867 Content={3301, 3289, 3379, 3299, 3289, 3449 Amount=2}, 2854, 2868 Content={2857 Content={3028 Amount=1, 3050, 3050 SavedExpireTime=1792, 3050 SavedExpireTime=1779, 3050 SavedExpireTime=1797, 3093 SavedExpireTime=1796, 3093, 3097 SavedExpireTime=3584}, 3046, 3085 RemainingUses=200, 3045 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3012, 3012, 3012, 3054 RemainingUses=200, 3084 RemainingUses=250, 3008, 3083 RemainingUses=144, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3078, 3463}, 2866 Content={3350, 3349, 3293, 3421, 3448 Amount=94, 1781 Amount=28, 2906, 3283, 3377, 3565, 3316, 3353, 3305, 3266}, 2857, 3301, 2992 Amount=6, 3275}, 2472 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3160 Charges=1, 3164 Charges=2, 3164 Charges=2, 3198 Charges=1, 3189 Charges=2, 3192 Charges=2, 3177 Charges=1, 3174 Charges=5, 3172 Charges=3, 3155 Charges=1, 3152 Charges=1, 3148 Charges=3}, 3148 Charges=3, 3059, 3174 Charges=5, 3189 Charges=2}, 2469 Content={3505, 2473 Content={2853 Content={3447 Amount=100, 3447 Amount=77}, 2853 Content={3292, 2882, 2901}}}, 2868 Content={2853 Content={3592, 3592, 2874 ContainerLiquidType=6, 2882, 3468}, 3582 Amount=2, 3736 Amount=2, 2877, 3578 Amount=2, 3597 Amount=5, 3588 Amount=38, 3592, 3592, 3595 Amount=8, 3129, 3585 Amount=24, 3602 Amount=1, 3587 Amount=1, 3601 Amount=5, 3740 Amount=1, 3600 Amount=10, 2885, 3599 Amount=7}, 3502 Content={2853 Content={3003, 2874}, 2854 Content={2473 Content={3483, 3483, 3457, 3483, 3457, 3457}, 2853 Content={3354, 3354, 3410, 3410, 3367, 3375, 3300}, 3316, 3551, 2839}, 3465, 3465}}, 
+               1 Content={3504 Content={2473 Content={3300, 3294, 3411, 3337, 3273, 3308, 3292}, 3507 String="lord of dark chaos\ncarlin\n" Editor="Lord of dark chaos"}, 3504 Content={3507 String="lord of dark chaos\ncarlin" Editor="Lord of dark chaos", 2473 Content={3300, 3267, 3300, 3451, 3286, 3374, 3367, 3276}, 2472 Content={2984, 3547 Amount=1, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Fibula Village, Tower Flat\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3661, 3551, 2983, 3291, 2856, 2856}}, 3504 Content={3507 String="lord of dark chaos\ncarlin" Editor="Lord of dark chaos", 2472 Content={2893, 3283, 3272, 3264, 3430}, 2473 Content={2917 SavedExpireTime=158, 2874, 2901, 3456, 2873, 3457}, 3534 Amount=1, 3533 Amount=1}, 3502}, 
+               2 Content={3502}}

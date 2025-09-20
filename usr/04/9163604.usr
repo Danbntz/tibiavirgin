@@ -1,0 +1,57 @@
+ID              = 9163604
+Name            = "Daell Elend"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,115-38-132-38)
+CurrentOutfit   = (133,115-38-132-38)
+LastLogin       = 1146752306
+LastLogout      = 1146752376
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32609,31925,4]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,149497,0,156200,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,170980,1400,222775,1600)
+Skill = (2,322,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,65,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,1993,1100,2138,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,38210,1100,38438,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,144,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1437,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1078,1100,1145,20)
+Skill = (14,0,1200,0,0,0,214,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,54,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,20,29,48,51,79}
+QuestValues = {(14,1),(15,1),(16,1),(31,1),(37,1),(55,1),(56,1),(61,1),(106,1),(107,1),(131,1),(140,1),(141,1),(190,1),(191,1),(217,3),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3349, 3031 Amount=24, 3446 Amount=2, 3092, 3447 Amount=32, 3447 Amount=100, 3507, 3503, 3447 Amount=100, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3003}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=64}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3031 Amount=29, 3031 Amount=100, 3035 Amount=22, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3447 Amount=1, 3502 Content={2870 Content={3492 Amount=15, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3349, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3298 Amount=2, 1781 Amount=1, 3287 Amount=50, 3446 Amount=48, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3448 Amount=3, 3448 Amount=100, 3448 Amount=100}, 3483, 2853 Content={2865, 2866}, 3453, 3456, 3308}, 2867 Content={3349, 3425, 3007, 3059, 3426, 3357, 2853 Content={3367, 3367, 3367, 3367, 3410, 3410}, 2853 Content={3377, 2853 Content={3377}, 3377, 3377, 3377, 3377, 3377, 3377}}, 2869 Content={2969 KeyNumber=3302, 2968 KeyNumber=3940, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3620, 2969 KeyNumber=3650, 2969 KeyNumber=3620, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3801, 2970 KeyNumber=3801, 2970 KeyNumber=4601, 2970 KeyNumber=4601, 2970 KeyNumber=4601, 2970 KeyNumber=3800, 2853 Content={3085 RemainingUses=200, 3083 RemainingUses=144, 3083 RemainingUses=125, 3012, 3012, 3085 RemainingUses=188, 3085 RemainingUses=149}, 2853 Content={3008, 3056 RemainingUses=200, 3054 RemainingUses=73, 3054 RemainingUses=200, 3054 RemainingUses=200}}, 2868 Content={3032 Amount=1, 3046 SavedExpireTime=2989, 2974, 2992 Amount=5, 3658, 2392, 2876 ContainerLiquidType=1, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2815, 3046, 2859 Content={2957, 3551, 3563, 3576}, 2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Nobility Quarter 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Daell Elend\nThais\n\nOMG!! i fucken got banned.... -.-\n\n\nwhat do i do...?\n\ngwen", 3506 String="Molch Silvertear\nThais\n\nSälj inte huset, har Premium nu så att du kan lämna över det till mig, såvida ingen bjuder över dig det vill säga.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 2, Flat 05\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Senja Village 6a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Outlaw Camp 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}, 2906, 3481, 3077, 2989, 3017, 3673, 2393}, 2865 Content={3723 Amount=7, 3599 Amount=2, 3582 Amount=1, 3724 Amount=1, 3598 Amount=27, 3592, 3597 Amount=1, 3593, 3583 Amount=1, 3587 Amount=57, 3591 Amount=3, 3601 Amount=3, 3584 Amount=5, 3585 Amount=13, 3595 Amount=30, 3589 Amount=4, 3585 Amount=2, 3588 Amount=50}}}, 
+               5 Content={3504 Content={3507 String="daell elend\ndarashia\n"}, 3502}, 
+               6 Content={3504 Content={3507 String="daell elend\nvenore\n"}, 3502 Content={}}, 
+               8 Content={3502 Content={}}}

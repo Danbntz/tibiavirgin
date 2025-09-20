@@ -1,0 +1,53 @@
+ID              = 10576168
+Name            = "Markez de sade"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,77-39-120-77)
+CurrentOutfit   = (134,77-39-120-77)
+LastLogin       = 1148094911
+LastLogout      = 1148095008
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32346,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,238445,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,75440,3000,193600,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,46945,1100,48785,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,125,1100,165,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,826,1100,926,50)
+Skill = (10,53,0,10,0,0,0,0,0,0,0,31018,1100,32632,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,19,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(49,1),(59,1),(99,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2854 Content={3274, 3293, 2868 Content={3425}, 3003, 3457}},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2854 Content={3606 Amount=100, 3606 Amount=100, 3606 Amount=12, 3606 Amount=100, 3606 Amount=100, 3606 Amount=100}}}
+
+Depots      = {0 Content={3504 Content={2854 Content={2853}, 3507 String="Markez de sade\nthais" Editor="Elder Saray"}, 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1255 gold\nfor your house \"Sorcerer's Avenue 1a\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Markez de sade\nthais"}, 3502 Content={3466}}, 
+               2 Content={3504 Content={3504 Content={3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 3507 String="Markez de sade\nkazordoon"}, 3502 Content={2867 Content={}, 2868 Content={}, 3457}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={2853 Content={3046 SavedExpireTime=3000}, 3507, 3504 Content={3507 String="Markez de sade\nVenore", 3505 String="hola mi amor:\n quiero decirte que me haces mucho falta y doy gracias d ios y ala vida por que me dio un hombre maravilloso que esta mi lado y que es el padre de mi hija, po reso y mucho mas te respeto, te quiero, te amo, te extraño y te admiro, eres mas que mi esposo , lo eres tdo en mi vida sin ti no se que haria, gracias por formar parte de mi familia y mi vida y mas que nada gracias por ese enorme sacrifio que estas haciendo por nosotras te amo chiquito, y aqui etsoy educando ala beba que nos necesita y esprandote cuando llegues para abrazarte,besarte y hacer el amor, porque me encantas , estoy enaorada de ti, te admiro mmmm tengo mucho amor en mi corazon y creo que tu lo sabes no sere la mujer perfecta pero si soy alguien que se quiere y que se respeta, y sobretdo que sabe amar asu esposo e hija, te quiero por sobretdas la scosas eso siempre tengo presente..\n\ntu esposa:\nLorely rdz de Uzacanga\n"}, 2991, 3003, 3483, 3492 Amount=8, 3502 Content={3412, 2969 KeyNumber=5010, 3291, 2969 KeyNumber=3033}}}

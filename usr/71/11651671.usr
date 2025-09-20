@@ -1,0 +1,53 @@
+ID              = 11651671
+Name            = "Eneh Stron"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (139,79-107-0-101)
+CurrentOutfit   = (139,79-107-0-101)
+LastLogin       = 1148192130
+LastLogout      = 1148192354
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32367,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,5475,0,6400,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,5438,3000,6400,1600)
+Skill = (2,158,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,2703,1100,2797,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,1822,1100,2027,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,41,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,373,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(33,1),(35,1),(59,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3507, 3507 String="frozen ugh\nthais" Editor="Gros Ugh", 3507 String="berger warrior\nthais" Editor="Berger warrior", 3507 String="ebon magician curran\nthais" Editor="Compayiculus afarensis", 3507 String="Bass Maniac\nThais" Editor="Armed'soek", 3507 String="Dulia Shika\nThais\n" Editor="Dulia Shika"}},
+               4 Content={3377},
+               5 Content={3421},
+               6 Content={3294},
+               7 Content={3362}}
+
+Depots      = {0 Content={3457, 2854 Content={3031 Amount=15, 3377, 2969 KeyNumber=4600, 3411, 2920 SavedExpireTime=508, 3268}, 2854 Content={3577 Amount=10, 3378, 2919, 3378, 3507 String="lol" Editor="Kober Druid", 3507 String="Niku Poli \nThais\n" Editor="Niku Poli", 3355, 3507 String="sir dagix\nthais" Editor="Sir Dagix", 3291, 3507 String="mendosa drago\nthais" Editor="Boldemox", 2853, 2853, 3003, 3003, 3457}, 2854 Content={3504, 3308, 3507 String="Slugang\nthais\n" Editor="Slugang", 3507 String="amrel\nthais" Editor="Sir marducky", 3507 String="Zabol Von Parkour\nThais" Editor="Zabol Von Parkour", 3378, 3276, 2853, 3504, 3504, 3507 String="Drake the Legend\nThais", 3376, 3552, 3277 Amount=1, 3559, 3559, 3003, 3504, 3503, 3507 String="delta sim\nthais" Editor="Shar Venon"}, 2854 Content={2853, 2853, 3378, 3308, 1781 Amount=1, 3507 String="huj wam w dupe \n\n\n\n\npodpis: themin dargon" Editor="Dziubs'on", 3504, 2853, 3507 String="zismo maniako\nthais" Editor="Nightmares'Angel", 3352, 3374, 3507, 3507 String="Incal\nThais\n\nsrry por el retraso :P\n" Editor="Fer Del'Tauren", 3507, 3507 String="zeuz'crow\nthais" Editor="Thor'sir", 3507 String="ece de maquer\nthais" Editor="Ece de maquer", 3507 String="mandalorian knight\nthais" Editor="Mandalorian Knight", 3378}, 3277 Amount=4, 3276, 3276, 3300, 3465, 2854 Content={3003, 3003, 2969 KeyNumber=3600}, 1781 Amount=1, 3446 Amount=3, 3293, 2873, 1781 Amount=1, 2873, 2853 Content={2853, 2854, 3375}, 3506 String="Eneh Stron\nThais\n\nBecareFul  You Don't want to go back to Rook.  WAtch your BACK.  Because I'll Stab you Through Ur Fucking HEad" Editor="Jun Feril", 2853 Content={3291, 3430, 3507 String="alpha gotss\nleave cave plz\nrespeten weyes\nmsn antes de entrar ok\n", 3293, 3505, 3012, 3012, 3336}, 3504 Content={3507 String="Elrisa Aidara\nThais" Editor="Pan Gilek", 3504, 3504, 3507 String="drut of light\nthais" Editor="Shahal of hell", 3507 String="chaplin caguamas\nthais\n" Editor="Chaplin Caguamas", 3559, 2853, 3507 String="Delta clipse\nthais" Editor="Semyours Soul", 3507 String="Aqua Hulcus \nThais" Editor="Aqua Hulcus", 3504}, 3504 Content={3504, 3504 Content={3507 String="zaitoo\nthais" Editor="Zaitoo"}, 3504, 3268, 3504 Content={3507 String="Shan Malius\nThais" Editor="Miroks"}}, 2473 Content={3507 String="Fatita Sniper\nThais" Editor="Wuamas", 3559, 2853, 3135, 2853, 3552, 3507 String="Fatita Sniper\nThais", 3507 String="magik shaman\nthais" Editor="Treacherous Tiger", 2473, 2472}, 3504 Content={2473, 2473, 3135, 2875, 2472, 2473 Content={3507 String="Fatita Sniper\nThais"}, 3337, 3300, 3308, 3289}, 3504 Content={3270, 3505 String="alpha gotss\nleave cave plx\nrespeten weyes oks\nmsn antes de entra oks\n", 3505 String="alpha gotss\nleave cave plx\nrespeten weyes\n msn antes de entrar oks\n", 2853, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3377, 3265}}}}}, 2853, 3507 String="Piranhia\nThais" Editor="Fellowship spear", 3507 String="Patriot-Denis\nthais" Editor="Chimera magoo", 3507 String="phon taros\nthais" Editor="Caldo Arwyn"}, 3504 Content={3293, 3504, 3504 Content={3507 String="lucky elo\nthais" Editor="Pawel elo"}, 3504 Content={3507 String="lucky elo \nthais" Editor="Pawel elo"}, 3504, 3504, 3504 Content={3507 String="sir garmu\nthais" Editor="Sir Oyster Bar"}, 3504 Content={3507 String="lucky elo\nthais" Editor="Lucky elo"}, 3504 Content={3507 String="Soul-Reaverr\nThais" Editor="Soul-Reaverr"}}, 2471 Content={3504 Content={3507 String="Dela scyzoryk\nThais\n" Editor="Dela scyzoryk"}, 3507 String="zeros of darcknes\nthais", 3507 String="sokcro\nthais" Editor="Sokcro", 3504 Content={3504 Content={3504}}, 3507 String="Elon Tyro\nThais" Editor="Elon Tyro", 2853 Content={3308, 3552, 2920}, 2853, 2853, 3559, 2853, 3552, 3504, 3507 String="lucky elo \nthais" Editor="Pawel elo", 3507 String="Sagarpa\nThais" Editor="Amaleki", 3507 String="Alasi Gilin\nThais" Editor="Alasi Delta"}, 2471 Content={3003, 3457, 2875, 2875, 3507 String="Taus Todran\nThais" Editor="Ancy Cara", 2853, 3504 Content={3507 String="nuggeteer\nthais" Editor="Nuggeteer"}, 2853 Content={2853 Content={2853 Content={2853}}}, 3504 Content={3504 Content={2853, 2853, 3507 String="Nana Tarix\nThais\n" Editor="Lard Xaya"}, 3507 String="Nana Tarix\nthais" Editor="Nana Tarix", 2853 Content={2853}, 2853}, 3504 Content={3507 String="lucky saint\nthais" Editor="Lucky Saint"}, 3003, 3412, 3411, 3411, 3274}, 2471 Content={3559, 2853, 3457, 3507 String="zanarkant\nthais" Editor="Liru lito", 3411, 2853, 3426, 3559, 3378, 3507 String="boembaa\nthais" Editor="Angel Dramielia", 3504, 3274, 3507 String="Czarnula\nThais" Editor="Batiar", 3507 String="perdril\ndarashia\n" Editor="Sir Oyster Bar", 3507 String="son of breaker\nthais" Editor="Poxus Skyth"}, 3502 Content={4067 RemainingExpireTime=868 Content={2853}, 3450 Amount=1, 3350, 3446 Amount=60}}, 
+               1 Content={3577 Amount=2, 2481, 2480, 3409, 3277 Amount=1, 1781 Amount=1, 3361, 3502}, 
+               3 Content={3504 Content={3337, 3504 Content={3507 String="eneh stron\nvenore" Editor="Eneh Stron"}, 3507 String="eneh stron\nAb'Dendriel" Editor="Eneh Stron"}, 3502}, 
+               6 Content={3502}}

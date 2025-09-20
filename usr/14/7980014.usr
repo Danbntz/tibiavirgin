@@ -1,0 +1,61 @@
+ID              = 7980014
+Name            = "Valrox of Music"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (129,114-58-114-95)
+CurrentOutfit   = (129,114-58-114-95)
+LastLogin       = 1128372100
+LastLogout      = 1128372143
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 1130194424
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,908727,0,917800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,168960,3000,193600,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,127619,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,64,0,10,0,0,0,0,0,0,0,89293,1100,94029,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,378,1100,385,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,49,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2014,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(111,1),(112,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(151,1),(152,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3504 Content={3507 String="valrox of music\nthais\n"}, 3502 Content={}}, 
+               1 Content={3502 Content={3286, 3411, 3286, 3367, 3507 String="valrox of music\ncarlin\n"}}, 
+               2 Content={3349, 3349, 2866 Content={}, 3349, 3349, 3349, 3349, 3349, 3349, 2866 Content={3349, 3349, 3349, 3349, 3349, 3056 RemainingUses=200, 3056 RemainingUses=200, 3349, 2868 Content={2854 Content={}}}, 3377, 3349, 3502 Content={}}, 
+               3 Content={3504 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=7, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3031 Amount=14, 3031 Amount=100, 3031 Amount=100, 3035 Amount=3, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2870 Content={3446 Amount=54, 3446 Amount=100, 3446 Amount=100, 3003}, 3507 String="valrox of music\nab'dendriel", 3419, 3382, 3381}, 3031 Amount=13, 3031 Amount=100, 3031 Amount=100, 3269, 3269, 3269, 2869 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2868 Content={3035 Amount=67, 3349, 3349, 2867 Content={}, 3308, 3492 Amount=5}, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 2853 Content={3349, 3349, 3349, 3349, 3349, 2853 Content={}}}, 2969 KeyNumber=3302, 2969 KeyNumber=3033, 3425, 3307, 3377, 2867 Content={3091 SavedExpireTime=103, 3093 SavedExpireTime=0, 3056 RemainingUses=199, 3056 RemainingUses=200, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3097 SavedExpireTime=3588, 3308, 2865 Content={3291}}, 3269, 3269, 2870 Content={2870 Content={}}, 2865 Content={3413, 3441, 2970 KeyNumber=3303, 2865 Content={2865 Content={}}}, 2865 Content={2865 Content={3003}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2865 Content={2865 Content={}}}, 2865 Content={2854 Content={3409, 3661, 3003, 3457}}, 2869 Content={3092 SavedExpireTime=0, 2853 Content={2854 Content={}, 3039, 2970 KeyNumber=3301, 2972 KeyNumber=3304}, 3097 SavedExpireTime=3581, 3092 SavedExpireTime=0, 3586 Amount=1}, 2866 Content={2472 Content={}, 2644, 2656, 2659, 2650, 2647, 2667, 2659, 2653, 2659}, 3502 Content={3265, 3350, 2857 Content={}, 2865 Content={3093 SavedExpireTime=0, 2868 Content={2854 Content={2866 Content={2854 Content={}}}}, 2853 Content={}}}}, 
+               4 Content={3504 Content={3507 String="valrox of music \nedron\n", 2860 Content={}}, 3504 Content={3507 String="valrox of music\nedron"}, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3031 Amount=52, 3031 Amount=100, 3557, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

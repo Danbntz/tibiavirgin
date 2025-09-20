@@ -1,0 +1,59 @@
+ID              = 13301164
+Name            = "Dark philos"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (140,78-72-16-72)
+CurrentOutfit   = (140,78-72-16-72)
+LastLogin       = 1148245485
+LastLogout      = 1148255862
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33259,32491,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,324797,0,330400,100)
+Skill = (1,43,0,0,0,0,0,0,0,0,0,979825,1100,1044225,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,461,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35673,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,55,1800,84,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,8,1800,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1569,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,251,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8550,1100,8851,20)
+Skill = (14,0,1200,0,0,0,941,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,74,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,6,7,8,9,10,11,12,16,20,25,26,29,31,38,39,42,44,76,81,84,87,88,89}
+QuestValues = {(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2865 Content={3578 Amount=1, 3578 Amount=1, 3578 Amount=1, 3578 Amount=1, 3578 Amount=1, 3578 Amount=1, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3065, 2853 Content={3492 Amount=57, 3492 Amount=100}, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3147},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3504 Content={3503 Content={3507}, 3507 String="Dark philos\nab'dendriel" Editor="Sox Safadox"}, 3502}, 
+               4 Content={3504 Content={3507 String="dark philos\nedron" Editor="Rko-Master"}, 3502}, 
+               5 Content={2853 Content={3031 Amount=57, 3293, 3483, 3492 Amount=19}, 3504 Content={3504 Content={3056 RemainingUses=200, 3483, 3465, 2876, 3457, 2981, 2857 Content={2970 KeyNumber=3802, 2970 KeyNumber=3800, 2853 Content={4871, 3039, 3061, 3093, 3093, 3093, 3007, 3050}, 2872 Content={2853 Content={3492 Amount=100, 3492 Amount=100}}, 2871 Content={2867, 2867, 2867, 2867, 2865, 2866}, 3061}, 3507 String="dark philos\nthais" Editor="Dark philos"}, 3504 Content={3507 String="dark philos\nthais" Editor="Dark philos", 3504 Content={3738 Amount=1, 3735 Amount=1, 3736 Amount=1, 3056 RemainingUses=200, 2863 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 2667, 2870 Content={2863 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 2867 Content={2865 Content={2868 Content={3008, 3177 Charges=1, 3050 SavedExpireTime=1664, 2866 Content={3059, 3602 Amount=2, 2877, 3592, 3592, 3003, 3077, 3077, 3084 RemainingUses=250, 2825, 3734 Amount=1, 2981, 2394, 2667, 2667, 2644, 2667, 2667}, 2644, 2667, 2667, 3590 Amount=14, 2992 Amount=4, 3740 Amount=1, 2991, 3673, 3607, 3588 Amount=100, 3723 Amount=14, 3601 Amount=2, 3587 Amount=7, 3592, 3592, 3600 Amount=5}, 2667, 2644, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2644}, 2644, 2644, 2644, 2644, 2635, 2638, 2644, 2644, 2644, 2667, 2667, 2667, 2667, 2644, 2667, 2667, 2667, 2667, 2667}, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 3097, 2393, 3092, 2393, 2393, 2393, 2393}}, 2853 Content={3277 Amount=1, 3350, 3277 Amount=1}, 2857 Content={3007, 3046 SavedExpireTime=2895, 3084 RemainingUses=250, 3077, 2856 Content={3028 Amount=2, 3033 Amount=4, 3029 Amount=4, 3568, 3010}, 2856 Content={3071, 2842 String="Con mucho cariño\npara mi kerido hijo sox safadox\n\nErick :\nLes deseo lo mejor a ti a dark philos :D\nespero nunca sufras porke mereces lo mejor \n\nTu mami \n\nafronovita il\nk te adoraaaa              faby" Editor="Afronovita Il", 2903, 2903, 3668}, 2856 Content={2955, 3061, 3007}, 3032 Amount=1}}, 3507 String="dark philos\ndarashia" Editor="Dark philos"}, 3502 Content={3035 Amount=35}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="dark philos\nport hope" Editor="Dark philos"}, 3056 RemainingUses=200, 3502}}

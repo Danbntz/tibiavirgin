@@ -1,0 +1,57 @@
+ID              = 9892179
+Name            = "Delisiosa"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,78-100-76-77)
+CurrentOutfit   = (137,78-100-76-77)
+LastLogin       = 1146467955
+LastLogout      = 1146469199
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31690,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,45404,0,47000,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,71737,1100,72958,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15778,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,9249,1800,12334,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,148,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1504,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,15,100,0,0,0,1,0,61,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,7,8,9,10,16,17,18,38,39,76,81,87,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(29,1),(30,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(217,3),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               3 Content={2853 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3155 Charges=1, 3035 Amount=2}},
+               4 Content={3377},
+               5 Content={3409},
+               6 Content={3066},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Delisiosa\nThais"}, 2867 Content={3008, 2885 ContainerLiquidType=3}, 2858 Content={3338, 2659, 2659, 2469 Content={}}, 2469 Content={2656, 2469 Content={}, 2656, 2656, 2469 Content={3031 Amount=10}, 2656, 2656, 2656, 2656, 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 2\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house."}, 3502 Content={2865 Content={}, 2865 Content={2865 Content={}, 2865 Content={}}}}, 
+               1 Content={3504 Content={3507 String="delisiosa\ncarlin\n" Editor="Beteiros"}, 3074, 3504 Content={3507 String="delisiosa\ncarlin" Editor="Argot de'Titan"}, 3504 Content={3507 String="Delisiosa\ncarlin"}, 3504 Content={3507 String="delisiosa\ncarlin"}, 3502}, 
+               3 Content={3504 Content={2853, 3507 String="delisiosa\nab'dendriel" Editor="Carcashi"}, 3070, 3483, 2853 Content={3374}, 3504 Content={2854 Content={2854 Content={3264, 3264, 3354, 3349, 3083 RemainingUses=150, 3085 RemainingUses=200, 3048 RemainingUses=20, 2970 KeyNumber=3800}, 2853 Content={2853 Content={3425, 3264, 2853 Content={3411, 3411, 2853 Content={2853 Content={3349}}}, 3354}, 3354, 3354, 3354}, 3354, 3354, 3354, 3286, 3286, 3286, 3286}, 3507 String="delisiosa\nab'dendriel" Editor="Beteiros"}, 3504 Content={3507 String="delisiosa\nab'dendriel\n" Editor="Jesika Scarlett"}, 3598 Amount=7, 3504, 2853, 3502}, 
+               4 Content={3504 Content={3507 String="delisiosa\nedron"}, 3264, 2854 Content={}, 3504 Content={3507 String="delisiosa\nedron"}, 3582 Amount=8, 2866 Content={3357, 3557, 3083 RemainingUses=150, 3046 SavedExpireTime=0, 2955, 3367, 3367, 3446 Amount=5, 3411, 3372, 3275, 3285, 3285, 3285, 3301, 2870 Content={}}, 3507 String="delisiosa\nedron", 3054 RemainingUses=151, 3502 Content={3287 Amount=3, 3054 RemainingUses=200, 3083 RemainingUses=150}}, 
+               7 Content={3504 Content={3507 String="delisiosa\nankrahmun"}, 2872 Content={3578 Amount=30}, 3504 Content={3507 String="delisiosa\nankrahmun"}, 3311, 3502 Content={}}}

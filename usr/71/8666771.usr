@@ -1,0 +1,55 @@
+ID              = 8666771
+Name            = "Markus Sidious"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-57-57-57)
+CurrentOutfit   = (134,0-57-57-57)
+LastLogin       = 1147370031
+LastLogout      = 1147370984
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31683,4]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,975450,0,992000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,237464,1400,313485,1600)
+Skill = (2,505,505,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,475,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1110,1110,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,17575,1100,18194,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,84475,1100,91044,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,71,1200,109,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,69,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,945,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2838,1100,2972,20)
+Skill = (14,0,1200,0,0,0,858,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,20,42,51,79,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(116,1),(117,1),(118,1),(124,1),(137,1),(190,1),(191,1),(216,1),(217,3)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={3391, 3349, 3370, 3483}},
+               5 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=61}}
+
+Depots      = {0 Content={3502}, 
+               2 Content={3504 Content={3504 Content={3507 String="Markus Sidious\nKazordoon"}, 3504 Content={3507 String="Markus Sidious\nKazordoon"}, 3504 Content={3507 String="Markus Sidious\nKazordoon"}, 3507 String="Markus Sidious\nKazordoon"}, 3502}, 
+               3 Content={3504 Content={3507 String="Markus Sidious\nab'dendriel" Editor="Markus Sidious", 2853 Content={3031 Amount=85, 3031 Amount=100, 3275, 3275, 3035 Amount=33}}, 2853 Content={3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3277 Amount=1, 3504 Content={3504 Content={3507 String="Markus Sidious\nab'dendriel" Editor="Markus Sidious", 2853 Content={2853}}, 3504 Content={3507 String="Markus Sidious\nAb'Dendriel"}, 3504, 3504 Content={3507 String="Markus Sidious\nAb'Dendriel"}, 3507 String="Markus Sidious\nab'dendriel"}, 3457, 3308, 3110, 3110, 3110, 3308, 2471 Content={2865 Content={3092, 3050 SavedExpireTime=1794, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3093, 3093, 3093, 3092, 3092, 3093, 2853 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 3192 Charges=1}, 2471 Content={3349, 3059, 3350, 2854, 3349, 3349, 3349, 3350, 3447 Amount=94, 3483, 3448 Amount=4}, 3588 Amount=8, 3300, 3502 Content={3413, 3208, 3377, 3031 Amount=22, 3035 Amount=19, 3457, 3587 Amount=3, 3599 Amount=8, 2970 KeyNumber=3012, 3035 Amount=100, 2969 KeyNumber=3033, 2971 KeyNumber=3702, 2859 Content={3034 Amount=1, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 3085 RemainingUses=200, 3083 RemainingUses=150, 3059, 2949}, 2857 Content={3053, 3046, 3077, 3084 RemainingUses=250}, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2969 KeyNumber=4603, 2970 KeyNumber=4601, 2969 KeyNumber=4600, 3457}}, 
+               4 Content={2469 Content={2469, 2469 Content={3492 Amount=4, 3483, 3588 Amount=9}}, 2469 Content={2469, 2469}, 2473 Content={2473, 2473, 2473}, 2824, 2824, 2824, 2825, 2825, 2825, 2825, 2829, 2829, 2829, 3504 Content={3504 Content={3507 String="Markus Sidious\nEdron", 2853}, 3507 String="Markus Sidious\nEdron" Editor="Markus Sidious"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magic Academy, Flat 5\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3447 Amount=18, 3449 Amount=7}}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={}}}

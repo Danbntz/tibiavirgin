@@ -1,0 +1,54 @@
+ID              = 11994376
+Name            = "Sowegiro Seta"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-114-114-19)
+CurrentOutfit   = (128,0-114-114-19)
+LastLogin       = 1134477751
+LastLogout      = 1134477895
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9810,0,13000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,8800,1100,9768,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,48,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2769,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3556,2000,6350,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,97,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,10,29}
+QuestValues = {(17,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2868 Content={2911 SavedExpireTime=2999, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2906, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3307},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3031 Amount=78}}
+
+Depots      = {1 Content={3031 Amount=100, 2865 Content={2906, 2920 SavedExpireTime=599, 3447 Amount=4, 3483, 3504 Content={3457, 3308, 3308, 3503 Content={2989, 3276, 3128, 3378, 3552, 3562, 3109}, 3374, 2985, 2983, 2983, 2983, 3507 String="Kavalto\nVenore\n"}, 3105}, 3504 Content={3507 String="Shaely\nVenore"}, 3503, 3456, 3377, 3305, 3035 Amount=2, 3504 Content={3378, 3374, 3300, 3367, 3273, 2874}, 3031 Amount=100, 2860 Content={3003, 3457, 3003}, 2481 Content={2875 ContainerLiquidType=3, 3003, 3003, 3457, 3003, 3147, 3375, 3375}, 3503 Content={2920 SavedExpireTime=127, 2973 KeyNumber=3520, 2911, 2911 SavedExpireTime=2367, 3446 Amount=4, 3551, 3375, 3300}, 3503 Content={2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2875, 2875, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2875, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=3, 3507 String="taur rago\ncarlin"}, 3502 Content={2875, 2882, 2882, 3457, 2473 Content={2985, 3291, 3050 SavedExpireTime=1797, 3558, 3056 RemainingUses=200, 2882}, 2911 SavedExpireTime=2687, 2875, 2875, 2875, 2920 SavedExpireTime=379, 3470, 2984, 3492 Amount=16, 3504 Content={2873 ContainerLiquidType=1, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2875 ContainerLiquidType=1, 2875 ContainerLiquidType=1}, 2853 Content={3003, 3457, 3661, 2981, 2983}, 2893 ContainerLiquidType=1, 3430, 3374, 2922 SavedExpireTime=275, 3003, 3003, 3505 String="\n", 3430}}, 
+               6 Content={3502}}

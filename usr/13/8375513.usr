@@ -1,0 +1,55 @@
+ID              = 8375513
+Name            = "Peligro"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,96-100-121-96)
+CurrentOutfit   = (130,96-100-121-96)
+LastLogin       = 1136321034
+LastLogout      = 1136322411
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32804,31946,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,45211,0,47000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,17435,3000,20800,1600)
+Skill = (2,238,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,70,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9070,1100,9834,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,45,1400,71,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,39,0,10,0,0,0,0,0,0,0,8053,1100,8224,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,36,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1639,1100,1769,20)
+Skill = (14,0,1200,0,0,0,727,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,47,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(96,1),(97,1),(98,1),(106,1),(107,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3008},
+               3 Content={2854 Content={3377, 2920 SavedExpireTime=595, 2920, 2920, 3003, 3308, 3577 Amount=6}},
+               4 Content={3377},
+               5 Content={3286},
+               6 Content={3421},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2912 RemainingExpireTime=770}}
+
+Depots      = {0 Content={2874 ContainerLiquidType=0, 2867 Content={}, 3502 Content={2867 Content={3362, 3411, 3374, 3378, 3374}, 2853 Content={3582 Amount=1, 3578 Amount=70, 3602 Amount=5, 3577 Amount=12, 3588 Amount=9}, 2853 Content={3035 Amount=1}, 2853 Content={2920 SavedExpireTime=0, 3003, 3457, 3457, 3003, 3308}}}, 
+               1 Content={3502 Content={3426, 3378, 3446 Amount=1, 3504 Content={3507 String="thiminy\ncarlin"}, 3456, 3374}}, 
+               6 Content={2867 Content={3430, 3410, 3358, 3558, 3358, 3374, 3552, 3552, 3559, 3378, 3430, 3430, 3430, 3367, 3367}, 2853 Content={3350, 3305, 3300, 3469, 3267, 3267, 3447 Amount=1}, 2853 Content={2853 Content={2853, 2853, 2853, 2853}, 3504 Content={3504, 3504 Content={3507 String="Karn silverheart\ndarashia"}, 3504 Content={3507 String="grandpappy\nvenore"}, 3504 Content={3507 String="Chololoo\nVenore"}, 3504 Content={3507 String="hu fong\nvenore"}, 3504 Content={3507 String="drakesito\nvenore"}, 3504 Content={3507 String="drakesito\nvenore"}, 3504 Content={3507 String="peligro \nvenore"}, 3504 Content={3507 String="Khazad of Markiz Amon\nvenore\n\nslick my dick loser"}, 3504 Content={3507 String="fireflail trivium\nvenore"}}}, 3502 Content={2867 Content={2853 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2853 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2853 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3084 RemainingUses=250, 2853 Content={3198 Charges=2, 3174 Charges=2, 3152 Charges=1, 3147, 3097 SavedExpireTime=3591, 3012, 3008}, 3207 Amount=1, 3293, 2853 Content={3003, 3003, 3003, 3003}, 3293, 2920, 2920, 2853 Content={2920, 2911 SavedExpireTime=2237, 2920, 2920, 2920}, 2906, 2815 String="www.geocities.com/kessler369/tibia/orclanguage.html\nHi-Charach\nBye-Futchi\nYes-Mok\nNo-Nok\nBuy-Goshak\nWeapon-Porack\nArmour-Bora\nShield-Dora\nStudded-Tulak\nLeather-Aka\nSword-burka bata\nSabre-charcha\nHatchet-hak hak\nShort sword-burka\nBow-batuk\nArrows-pixo\nStudded Armour-Tulak Bora\nLeather Armour-Aka Bora\nBrass Shield-Donga\nStudded Helmet-Grofa\nbruno me deve 20 gp\noffers\njob\nname\nhints\nmission\nutevo lux\nhttp://freepremiumacc.tk/\nmarducky", 3462, 3455, 2969 KeyNumber=4600, 3507}, 2853 Content={3577 Amount=42, 3578 Amount=100, 3578 Amount=100, 3582 Amount=25, 3577 Amount=100}, 2853 Content={3031 Amount=95, 3035 Amount=8}}}}

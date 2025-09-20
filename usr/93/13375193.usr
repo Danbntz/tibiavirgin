@@ -1,0 +1,58 @@
+ID              = 13375193
+Name            = "Jony-ziro"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,79-114-114-0)
+CurrentOutfit   = (134,79-114-114-0)
+LastLogin       = 1148239106
+LastLogout      = 1148239177
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32354,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15050,0,17600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,23317,1400,26118,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9055,1100,9834,100)
+Skill = (7,42,0,10,0,0,0,0,0,0,0,6452,1100,6667,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,15,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,125,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,939,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,349,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,76}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(100,1),(107,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={3152 Charges=1}},
+               4 Content={3381},
+               5 Content={3415},
+               6 Content={3277 Amount=12},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2968 KeyNumber=3940}}
+
+Depots      = {0 Content={3504 Content={3507 String="Jony-ziro\nThais" Editor="Joni-ciro", 3353, 3152 Charges=1, 3152 Charges=1, 3277 Amount=7, 3031 Amount=100, 3031 Amount=100, 3448 Amount=10}, 2469 Content={2873, 3453, 3605 Amount=14, 3600 Amount=21}, 2815 String="No me ha pagado nada el KoR.\n\n   Son    8    k\n\n21 dias" Editor="Jony-ziro", 3502 Content={2859 Content={3277 Amount=3, 3391}, 2866 Content={3031 Amount=90, 3035 Amount=2}, 2872 Content={3065, 3066, 3066, 2872}, 2870 Content={3577 Amount=1, 3604 Amount=3, 3598 Amount=1, 3590 Amount=4, 3597 Amount=1, 3593, 3585 Amount=2, 3599 Amount=2, 3129}, 2871 Content={2991, 3042 Amount=2, 3007, 3010, 3017, 3061, 2815 Editor="Jony-ziro", 2989, 3114 Amount=3, 2949, 3039, 2398, 2977, 2469, 4871, 3459, 3077, 3017, 3463, 2906}, 2868 Content={3050 SavedExpireTime=1730, 3085 RemainingUses=174, 3045 RemainingUses=183, 3056 RemainingUses=200, 3083 RemainingUses=145, 3056 RemainingUses=200, 3093, 3093 SavedExpireTime=1794, 3083 RemainingUses=150, 3083 RemainingUses=150, 3056 RemainingUses=198, 3008, 3050 SavedExpireTime=1193, 3097 SavedExpireTime=3551, 3083 RemainingUses=150, 3056 RemainingUses=198, 3054 RemainingUses=192}, 2865 Content={3446 Amount=5, 3287 Amount=9, 3298 Amount=2, 3447 Amount=13, 3446 Amount=100, 3447 Amount=100, 2865 Content={3349, 3349, 3350, 3349, 3350, 3349, 3349}, 3449 Amount=2, 3448 Amount=68}, 2867 Content={3563, 3299, 3299, 3551, 3282, 3307, 3313, 3275, 3551, 3275, 3275, 3282, 3307, 3563, 3275, 3119}, 2869 Content={2866 Content={3316, 3316, 3316, 3316, 3316, 3316, 3316, 3316}, 2866 Content={3377}, 2871 Content={3383, 3327, 3330, 3441}, 2867, 2854 Content={2854, 2854, 2854}, 2854, 2854, 2854, 2854 Content={2854, 2854 Content={3017}, 2854}, 2854, 2854, 2854 Content={2854, 3017}}, 2854 Content={2911 SavedExpireTime=2105, 3056 RemainingUses=194, 2969 KeyNumber=5010, 2969 KeyNumber=3600, 3492 Amount=96, 3003, 2970 KeyNumber=3802, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2969 KeyNumber=3600, 2969 KeyNumber=4600, 3308}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3155 Charges=1, 3059, 2854 Content={3147}, 2860 Content={3198 Charges=5, 3198 Charges=3}, 3059, 2857 Content={3188 Charges=3, 3172 Charges=1, 3172 Charges=3}, 3155 Charges=1, 3155 Charges=1, 3059, 2857 Content={3177 Charges=1, 3177 Charges=1}}}}, 
+               1 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               8 Content={3502}}

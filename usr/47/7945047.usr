@@ -1,0 +1,59 @@
+ID              = 7945047
+Name            = "Aire'sagradito"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-114-114-0)
+CurrentOutfit   = (134,0-114-114-0)
+LastLogin       = 1140127138
+LastLogout      = 1140127154
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32625,32745,7]
+PlayerkillerEnd = 0
+
+Skill = (0,47,0,1,0,0,0,0,0,0,1,1592274,0,1626200,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,708820,1400,867181,1600)
+Skill = (2,575,575,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,398,620,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,116,116,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1250,1250,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,73275,1100,79179,100)
+Skill = (7,77,0,10,0,0,0,0,0,0,0,180928,1100,195505,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,1173,1200,1297,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,81,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1147,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,10244,1100,10752,20)
+Skill = (14,0,1200,0,0,0,593,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,155,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,42,45,51,76,79,95}
+QuestValues = {(14,1),(15,1),(17,1),(19,1),(20,1),(21,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(37,1),(58,1),(59,1),(61,1),(70,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(108,1),(109,1),(111,1),(112,1),(121,1),(125,1),(126,1),(129,1),(130,1),(131,1),(137,1),(151,1),(152,1),(153,1),(156,1),(157,1),(158,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(218,1),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,1),(246,1),(249,4),(250,4),(251,3),(253,1),(257,1),(278,2),(280,2),(281,2),(282,2),(283,3),(284,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2870 Content={3031 Amount=63, 3031 Amount=100, 3446 Amount=13, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3578 Amount=25}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3504 Content={3578 Amount=50, 3507 String="Aire'sagradito\nThais"}, 3502 Content={}}, 
+               1 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Northport Village 6\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="aire'sagradito\ncarlin"}, 3504 Content={3507 String="aire'sagradito\ncarlin"}, 3502}, 
+               2 Content={3277 Amount=3, 3502}, 
+               3 Content={3349, 3409, 3301, 3502 Content={}}, 
+               4 Content={3504 Content={3507 String="Aire'sagradito\nKazordoon" Editor="Tapete bolador"}, 3083 RemainingUses=150, 3046, 3504 Content={3129, 3129, 3129, 3129, 3129, 3507 String="Aire'sagradito\nEdron\n\nFuma hierva de tu amigo Mutts"}, 3277 Amount=30, 2469 Content={2469 Content={3582 Amount=6, 3598 Amount=27}}, 3502 Content={3449 Amount=12, 2970 KeyNumber=4601, 2869 Content={3377, 3377, 3377}, 2866 Content={2870 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2865 Content={2857 Content={3084 RemainingUses=240, 3077}, 2969 KeyNumber=5010, 2973 KeyNumber=3520, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 3008}, 2870 Content={2870, 2856}, 3054 RemainingUses=200}}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="aire'sagradito\nvenore"}, 3003, 3502 Content={}}, 
+               7 Content={2865, 3504 Content={3552, 3295, 3507 String="aire'sagradito\nankrahmun"}, 2469 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656}, 2469 Content={2667, 2667, 2667, 2667, 2667, 2667, 2656, 2656, 2656, 2656}, 2469 Content={2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2667, 2667}, 2469 Content={2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647}, 2469 Content={3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3207 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3505 String="NO TOCAR LA BP!!! ninguna de las 2\n\n", 2394, 3377, 3338, 3031 Amount=1, 2396, 2647}, 2469 Content={2969 KeyNumber=3302, 3552, 3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2900 gold\nfor your house \"Thanah I d\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house."}, 2469 Content={3017, 3017, 3059, 2970 KeyNumber=3301, 2970 KeyNumber=3303}, 2469, 2469 Content={3012, 3012}, 2469, 2469, 2469, 2469, 3502}, 
+               8 Content={3502}}

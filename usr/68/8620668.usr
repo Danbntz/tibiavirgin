@@ -1,0 +1,57 @@
+ID              = 8620668
+Name            = "Nittrous Sped"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,114-114-114-114)
+CurrentOutfit   = (134,114-114-114-114)
+LastLogin       = 1148076389
+LastLogout      = 1148076392
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33220,32423,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8904,0,9300,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,49118,1100,50835,1600)
+Skill = (2,188,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3285,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2473,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {4,5,8,10,20,39}
+QuestValues = {(20,1),(31,1),(86,1),(87,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               2 Content={3008},
+               3 Content={2853},
+               5 Content={3411},
+               6 Content={3066},
+               8 Content={3552}}
+
+Depots      = {0 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Mill Avenue 1 (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3035 Amount=16, 3031 Amount=99, 3504 Content={3035 Amount=5, 3507 String="Nittrous Sped\nthais" Editor="Chamoi"}, 3502 Content={3147, 3147}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2865, 2853, 3504 Content={3507 String="Nittrous Sped\nab'dendriel\n"}, 3502}, 
+               4 Content={3003, 3457, 3502 Content={3578 Amount=24}}, 
+               5 Content={3504 Content={3031 Amount=43, 3035 Amount=3, 3507 String="nittrous sped\ndarashia" Editor="Chamoi"}, 3504 Content={3507 String="nittrous sped\ndarashia" Editor="Mistika'elf"}, 3502}, 
+               6 Content={3502}, 
+               8 Content={3502}}

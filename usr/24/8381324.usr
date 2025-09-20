@@ -1,0 +1,60 @@
+ID              = 8381324
+Name            = "Osito Cojo"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,91-94-79-81)
+CurrentOutfit   = (134,91-94-79-81)
+LastLogin       = 1148255656
+LastLogout      = 1148256305
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33226,31861,7]
+PlayerkillerEnd = 1148430901
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,550164,0,601800,100)
+Skill = (1,53,0,0,0,0,0,0,0,0,0,2687382,1100,2733951,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,219,815,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10096,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3412,1800,3763,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,25044,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,263,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,446,1100,490,20)
+Skill = (14,0,1200,0,0,0,1179,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,194,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,6,8,9,10,12,16,18,20,25,28,29,30,39,42,44,45,50,75,76,81,84,87,88,89,94}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(113,1),(114,1),(121,1),(124,1),(135,1),(136,1),(190,1),(191,1),(216,1),(217,3),(224,1),(332,1)}
+Murders     = {1145835332,1145838901,1148004012}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=157},
+               3 Content={2872 Content={3147, 3147, 3051 SavedExpireTime=560, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3200 Charges=3, 3195 Charges=2, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003, 3457, 3180 Charges=3}},
+               4 Content={3357},
+               5 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3069}}
+
+Depots      = {0 Content={3504 Content={3507 String="osito cojo\nthais" Editor="Shadow Spinal"}, 3504 Content={3507 String="Osito Cojo\nThais"}, 3504 Content={3507 String="osito cojo\nthais"}, 3504 Content={3507 String="osito cojo\nthais"}, 3502 Content={3457}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3507 String="osito cojo\nedron" Editor="Osito Cojo"}, 3504 Content={3504 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3507 String="osito cojo\nedron" Editor="Focus Pocus"}, 3583 Amount=1, 3277 Amount=15, 2969 KeyNumber=3033, 3039, 3061, 2393, 3502 Content={3035 Amount=28}}, 
+               5 Content={3502}, 
+               6 Content={3582 Amount=5, 3502 Content={3286, 3374, 3358, 3362}}, 
+               7 Content={3323, 3502}, 
+               8 Content={3502 Content={}}}

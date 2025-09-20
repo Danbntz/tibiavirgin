@@ -1,0 +1,58 @@
+ID              = 11542787
+Name            = "Solid shi"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,78-119-114-0)
+CurrentOutfit   = (128,78-119-114-0)
+LastLogin       = 1148253588
+LastLogout      = 1148257283
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32303,31766,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,621194,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,115320,3000,193600,1600)
+Skill = (2,590,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,116642,1100,128129,100)
+Skill = (7,18,0,10,0,0,0,0,0,0,0,1208,1400,1474,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,1025,1100,1069,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,86160,1100,94029,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,113,1100,165,50)
+Skill = (11,34,0,10,0,0,0,0,0,0,0,4630,1100,4917,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,383,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(36,1),(37,1),(59,1),(60,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(99,1),(100,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(128,1),(138,1),(139,1),(151,1),(152,1),(190,1),(191,1),(217,3),(223,1),(332,1)}
+Murders     = {1147566523,1147653227}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3279, 3093 SavedExpireTime=121, 3425, 3093 SavedExpireTime=1462, 2868 Content={3031 Amount=100, 3282}, 3723 Amount=9, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2868}, 3457}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3324},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="Solid shi\nThais" Editor="Darkshism"}, 3504 Content={3507 String="Solid shi\nThais" Editor="Solid shi"}, 3504 Content={3507 String="Solid shi\nThais" Editor="Solid shi"}, 3504 Content={3507 String="Solid shi\nThais" Editor="Solid shi"}, 3502 Content={3504 Content={3507 String="Solid shi\nThais" Editor="Solid shi"}}}, 
+               1 Content={2854 Content={3269, 3598 Amount=19, 3189 Charges=2, 3172 Charges=2}, 3504, 3504 Content={3507 String="Solid Shi\nCarlin" Editor="Selvaman", 3464, 3471, 3466, 3451}, 3506 String="Solid Shi\nCarlin\n\nO Programa Ana Maria Braga,\nGostaria que vc fizesse um peixe frito \ncom molho.\n\nLouro José" Editor="Selvaman", 3504 Content={3293, 3308, 3455, 3456, 3483, 3457, 3270, 3267, 3507 String="Solid Shi\nCarlin\n\nKit 1º Socorros" Editor="Selvaman"}, 3502 Content={2865 Content={3443, 3384, 2867 Content={3031 Amount=32, 3410, 3447 Amount=5, 3377, 2854, 3031 Amount=4, 3483, 3358, 2911 SavedExpireTime=1437, 3003}, 3270, 3447 Amount=94, 3003, 3084 RemainingUses=250, 2854 Content={3558, 3375, 3357, 2870 Content={3577 Amount=1, 3582 Amount=4, 2853, 3492 Amount=38, 3457}, 2854, 2853 Content={3282, 3059, 2874 ContainerLiquidType=10, 3147}, 2853, 3322, 3084 RemainingUses=250, 2853}, 2854 Content={3069, 2853 Content={3448 Amount=1, 2874, 2874, 3308}, 2973 KeyNumber=3520, 3147, 3147, 3147, 3031 Amount=27, 3723 Amount=100, 3483, 3492 Amount=30, 3457, 3188 Charges=3}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3174 Charges=3, 3174 Charges=1, 3492 Amount=45, 3147, 3147, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3380, 2857, 2970 KeyNumber=3142, 3447 Amount=100, 3447 Amount=51, 3585 Amount=16, 3277 Amount=34, 2854 Content={3353, 3003, 3349, 2970 KeyNumber=4601, 2868 Content={3188 Charges=3, 3413, 3413, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 3504 Content={3031 Amount=52, 3035 Amount=14, 2854 Content={3093, 3093, 3093, 3093, 3093, 3093}, 2854 Content={3093, 3093 SavedExpireTime=38, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093 SavedExpireTime=1230, 3093 SavedExpireTime=1797, 3093 SavedExpireTime=1399, 3093 SavedExpireTime=919, 3093 SavedExpireTime=1450, 3093 SavedExpireTime=953, 3093, 3093, 3093 SavedExpireTime=1765}}, 2867 Content={3074, 2853 Content={3282, 3372, 3282, 3003}, 2868 Content={3377, 3286}, 3092, 3050 SavedExpireTime=1671, 3282, 2853 Content={2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3174 Charges=1}}, 2868 Content={3350}, 2854 Content={3504 Content={3507 String="Robert Adio\nCarlin"}, 3504 Content={3507 String="alard nolia\ncarlin" Editor="Alard Nolia"}, 3504, 3504 Content={3507 String="Anakin Skawolker\nCarlin" Editor="Dart Moode"}}, 2867 Content={3147, 3147, 3147, 3147}, 2854 Content={3492 Amount=23}, 2854}, 3588 Amount=29, 2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3012, 3590 Amount=3, 2854 Content={2865 Content={3008, 3056 RemainingUses=200, 3572}, 2854}, 2853 Content={2969 KeyNumber=3033}, 2868 Content={3373, 3446 Amount=9, 3269, 2854 Content={3085 RemainingUses=200, 3447 Amount=10, 3285, 3008, 3054 RemainingUses=198, 3012, 3056 RemainingUses=200, 3353}, 3354, 3447 Amount=3, 3448 Amount=1, 3285, 3354, 3285, 3285, 3285, 3285, 2868 Content={3046 SavedExpireTime=2605, 3012, 3446 Amount=13}}, 2853, 3504 Content={3504, 3504, 3504 Content={3507 String="Moler Kyon\ncarlin" Editor="Yami Amidamaru"}, 3507 String="Solid Shi\nCarlin" Editor="Selvaman"}, 2854 Content={2955, 4871, 3059, 3674, 3674, 3658, 3658, 2991, 2991, 2991, 3092, 3046}, 2853 Content={3425, 3551, 3012, 3430}, 2853 Content={3456}, 2853 Content={3337, 3310, 3264, 2853 Content={3059, 3307, 3300}}}}, 
+               2 Content={3504 Content={3507 String="Solid Shi\nKazordoon\n\nsHiiiii" Editor="Selvaman"}, 3502 Content={2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox"}}, 
+               3 Content={3504 Content={3507 String="Solid shi\nAb'Dendriel" Editor="Solid shi"}, 3504 Content={3507 String="Solid shi\nAb'Dendriel" Editor="Solid shi"}, 3502 Content={3308}}, 
+               6 Content={3504 Content={3507 String="Solid shi\nVenore" Editor="Solid shi"}, 3502 Content={3577 Amount=4, 3286, 3354, 3354, 3410, 3031 Amount=70, 3457}}}

@@ -1,0 +1,60 @@
+ID              = 13059587
+Name            = "Shadow Warmen"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,116-120-0-113)
+CurrentOutfit   = (130,116-120-0-113)
+LastLogin       = 1148250621
+LastLogout      = 1148250629
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32646,32094,11]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,249211,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,121450,3000,193600,1600)
+Skill = (2,326,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,76,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,36972,1100,40144,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,52,1400,71,30)
+Skill = (8,55,0,10,0,0,0,0,0,0,0,36194,1100,39589,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,15,1100,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,81,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,80,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,937,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,49,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(29,1),(30,1),(31,1),(32,1),(33,1),(34,1),(38,1),(52,1),(53,1),(58,1),(59,1),(60,1),(61,1),(67,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(113,1),(114,1),(138,1),(139,1),(190,1),(191,1),(222,1),(225,1),(253,1),(254,1)}
+Murders     = {1146363713,1146621698,1147664218}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=18, 3031 Amount=17, 3457, 3031 Amount=26, 3282, 3147, 3147, 3572, 3091 SavedExpireTime=9, 2868, 3456, 2868 Content={3160 Charges=1}}},
+               4 Content={3370},
+               5 Content={3428},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3003}}
+
+Depots      = {0 Content={3447 Amount=100, 3349, 3349, 3349, 3349, 3504 Content={3507 String="shadow warmen\nthais" Editor="Pepenadora"}, 3504 Content={3507 String="shadow warmen\nthais" Editor="Pepenadora"}, 3504 Content={3507 String="shadow warmen\nthais" Editor="Pepenadora"}, 3502}, 
+               1 Content={3035 Amount=1, 3504 Content={3507 String="shadow warmen\ncarlin" Editor="Sir Gallito", 3572, 3353}, 3504 Content={3507 String="shadow warmen\ncarlin" Editor="Shadow Warmen", 3265, 3265}, 3504 Content={3473, 3507 String="shadow warmen\ncarlin" Editor="Shadow Warmen", 2853 Content={3425, 3425, 3425, 3377}, 3349, 3349}, 3504 Content={3425, 3083 RemainingUses=150, 3507 String="shadow warmen\ncarlin" Editor="Shadow Warmen", 3572, 3351}, 3384, 2911 SavedExpireTime=1918, 3492 Amount=74, 3092, 2872 Content={2991, 2868 Content={2865}}, 3457, 2868 Content={3056 RemainingUses=200, 3483}, 3291, 2659, 2870 Content={3444, 3444, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 3492 Amount=50}, 3077, 3277 Amount=2, 3085 RemainingUses=200, 2473 Content={3097 SavedExpireTime=3595}, 2857 Content={3046, 3077, 3084 RemainingUses=250}, 3502}, 
+               2 Content={3504 Content={3507 String="shadow warmen\nkazordoon" Editor="Shadow Warmen"}, 3502}, 
+               3 Content={3504 Content={3507 String="shadow warmen\nab'dendriel" Editor="Shadow Warmen"}, 3502}, 
+               4 Content={3504 Content={3507 String="shadow warmen\nedron" Editor="Barris"}, 3502}, 
+               5 Content={3504, 2854 Content={3035 Amount=1, 3492 Amount=100, 3582 Amount=2}, 3483, 3502 Content={2969 KeyNumber=4600}}, 
+               6 Content={3504 Content={3507 String="shadow warmen\nvenore" Editor="Shadow Warmen"}, 3504 Content={3507 String="SHADOW WARMEN\nvenore" Editor="Pepenadora"}, 3502}, 
+               8 Content={3504 Content={3507 String="shadow warmen\nport hope" Editor="Sir Gallito"}, 3589 Amount=2, 3449 Amount=6, 3502}}

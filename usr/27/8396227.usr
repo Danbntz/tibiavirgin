@@ -1,0 +1,53 @@
+ID              = 8396227
+Name            = "Ofchikitox"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,0-114-114-0)
+CurrentOutfit   = (130,0-114-114-0)
+LastLogin       = 1147969776
+LastLogout      = 1147970024
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32376,31754,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,86601,0,98800,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,158958,1100,174690,1600)
+Skill = (2,0,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,41,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21555,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,77,2000,90,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,58,2000,150,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,12037,2000,12750,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,162,2000,350,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,99,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3282,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,15,21,27,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(96,1),(97,1),(98,1),(217,3),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               4 Content={3565},
+               5 Content={3425},
+               6 Content={3075},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={2853, 3507 String="Ofchikitox\nCarlin\n" Editor="Zevi Griel"}, 3504 Content={2853 Content={3492 Amount=1, 3003}, 3507 String="Zevi Griel\ncarlin"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3074, 3504 Content={3031 Amount=13, 3507 String="ofchikitox\nAb'Dendriel" Editor="Ofchikitox"}, 3350, 3012, 2469 Content={2853 Content={3457, 3425, 3425, 3425}, 3012, 2853 Content={3046 SavedExpireTime=2999, 3046 SavedExpireTime=329, 3046 SavedExpireTime=2819, 3046 SavedExpireTime=2998}}, 3032 Amount=1, 3457, 4871, 3050 SavedExpireTime=1796, 3050 SavedExpireTime=1736, 3377, 3301, 3308, 3504 Content={3003, 2922 SavedExpireTime=58, 3410, 3507 String="Ofchikitox\nAb'Dendriel\n\n"}, 3050 SavedExpireTime=1732, 3026 Amount=1, 2866 Content={3092 SavedExpireTime=1728, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3097, 3097, 3050 SavedExpireTime=1695, 2920 SavedExpireTime=590, 2920 SavedExpireTime=585, 2920 SavedExpireTime=595, 2871 Content={3738 Amount=12, 3451, 3017, 3026 Amount=1, 3017, 3299, 3077, 3077}, 2866 Content={2970 KeyNumber=3301, 3012, 2973 KeyNumber=3520, 2955, 3658, 3658}, 2866 Content={3441, 2659, 2985, 2667, 2656, 2667, 2644, 3083 RemainingUses=150, 2865 Content={3056 RemainingUses=199, 2873, 3291, 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings.", 3465, 2820 String="Researchpaper 77-04 D\nThe 'move earth' spell seems to be ready to enter the stage of field testing. The results so far were quite convincing, and the priests were pleased. The recent studies we have carried out together have proven that we can indeed learn from each other. I must admit I would certainly like to add this useful little spell to my personal repertoire. After all, shovels and pickaxes are heavy and pretty unwieldy, and I would very much like to leave them at home. I envy the priests for the elemental powers they are wielding."}, 2955, 3447 Amount=6, 2969 KeyNumber=3033, 2985, 3292, 2815, 3565}, 2871 Content={2969 KeyNumber=4600, 3457, 3338, 2969 KeyNumber=3033, 3658, 3299, 3658, 2863 Content={2952, 2955, 2865 Content={3003, 2920 SavedExpireTime=146, 2853, 2857 Content={2853, 3077, 3077, 3084 RemainingUses=250}}}}, 2667, 2853 Content={2969 KeyNumber=3033}, 2667, 2667, 2659, 3046 SavedExpireTime=2964, 3349, 3447 Amount=14}, 3502 Content={3003, 3003, 2969 KeyNumber=3033, 3056 RemainingUses=200, 3504 Content={2973 KeyNumber=3520, 3504 Content={2969 KeyNumber=3033, 3507 String="Ofchikitox\nab'dendriel\n", 3003}}, 2969 KeyNumber=3033}}, 
+               6 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3504 Content={3507 String="ofchikitox\nvenore\n" Editor="Ofchikitox", 3504 Content={2853, 3507 String="OFCHIKITOX\nkazordoon\n" Editor="Ofchikitox"}}, 3504 Content={2871 Content={3349, 3349, 3349, 3349}, 3507 String="ofchikitox\nvenore " Editor="Ofchikitox"}, 3502}}

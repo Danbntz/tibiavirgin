@@ -1,0 +1,54 @@
+ID              = 13710615
+Name            = "Kiza Feoz"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-87-94-114)
+CurrentOutfit   = (129,79-87-94-114)
+LastLogin       = 1147995938
+LastLogout      = 1147996020
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31681,8]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,42078,0,47000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,24367,3000,64000,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,6,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,13909,1100,14863,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,30,1400,71,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,205,1100,232,50)
+Skill = (9,40,0,10,0,0,0,0,0,0,0,8709,1100,9097,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,381,1100,385,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,160,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,224,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(96,1),(97,1),(98,1),(208,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3054 RemainingUses=200},
+               3 Content={2865 Content={3412, 3270, 2969 KeyNumber=3033, 3425}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3502 Content={3147, 3147, 3147, 3147, 3285, 3285, 3285}}, 
+               3 Content={3504 Content={3507 String="Kiza Feoz\nab'dendriel" Editor="Dazern Ikif"}, 2865 Content={3031 Amount=71, 3035 Amount=31}, 2853 Content={3097 SavedExpireTime=3589, 3457, 3446 Amount=8}, 3502 Content={2865 Content={3558, 3377, 3282, 3377, 3322, 3377, 3377, 3377, 3359, 3425, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2969 KeyNumber=5010, 3054 RemainingUses=200}}}}

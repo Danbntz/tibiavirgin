@@ -1,0 +1,50 @@
+ID              = 8015725
+Name            = "Rhadamanthys Exiled"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,58-114-124-0)
+CurrentOutfit   = (128,58-114-124-0)
+LastLogin       = 1147758422
+LastLogout      = 1147758541
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32684,31690,5]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,301851,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,77436,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,71,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,56727,1100,59240,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,272,1400,328,30)
+Skill = (8,57,0,10,0,0,0,0,0,0,0,47307,1100,48008,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,93,1100,105,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,97,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,94,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,862,1100,911,20)
+Skill = (14,0,1200,0,0,0,448,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="Rhadamanthys Exiled\nthais" Editor="Rhadamanthys Exiled"}, 3504 Content={3507 String="Rhadamanthys Exiled\nthais\n" Editor="Calabazo"}, 3457, 3504 Content={3507 String="Rhadamanthys Exiled\nthais" Editor="Rhadamanthys Exiled"}, 3504 Content={3110, 3507 String="Rhadamanthys Exiled\nthais"}, 3502}, 
+               1 Content={3504 Content={3507 String="rhadamanthys exiled\ncarlin" Editor="Castora evil sin dientes"}, 3502 Content={2853, 2853, 2969 KeyNumber=3033}}, 
+               2 Content={3504 Content={3457, 2854, 3507 String="Rhadamanthys Exiled\nkazordoon" Editor="Rhadamanthys Exiled"}, 3504 Content={3507 String="Rhadamanthys Exiled\nkazordoon"}, 3504 Content={3507 String="Rhadamanthys Exiled\nkazordoon"}, 3502}, 
+               3 Content={3291, 2853, 3277 Amount=6, 3200 Charges=3, 3264, 3286, 3446 Amount=100, 3059, 3504 Content={3503 Content={3507}, 3504 Content={3507 String="Rhadamanthys Exiled\nAb'Dendriel" Editor="Cardo Zort"}, 3504, 3504 Content={3507 String="Rhadamanthys Exiled\nAb'Dendriel" Editor="Lord Drago of Darness"}, 3504, 3504, 3504 Content={3504 Content={3504}, 3503, 3504, 3507 String="Rhadamanthys Exiled\nAb'Dendriel" Editor="Cardo Zort"}, 3504 Content={3507 String="Rhadamanthys Exiled\nab'dendriel" Editor="Cardo Zort"}, 3504 Content={3507 String="Rhadamanthys Exiled\nAb'Dendriel" Editor="Rhadamanthys Exiled"}, 3507 String="rhadamanthys exiled\nab'dendriel" Editor="Rhadamanthys Exiled"}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3502 Content={3448 Amount=2, 3449 Amount=6, 3277 Amount=1, 1781 Amount=1, 3446 Amount=95, 3558, 3077, 2469 Content={3457, 2853 Content={2970 KeyNumber=3801, 2970 KeyNumber=3802, 2969 KeyNumber=3005, 2969 KeyNumber=3002, 2969 KeyNumber=3003, 2969 KeyNumber=3001}, 3327, 3299, 3310, 2473}}}, 
+               6 Content={3292, 3361, 3267, 3502}}

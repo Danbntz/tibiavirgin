@@ -1,0 +1,46 @@
+ID              = 12211857
+Name            = "Seliente"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,115-120-115-120)
+CurrentOutfit   = (129,115-120-115-120)
+LastLogin       = 1147790683
+LastLogout      = 1147790692
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,6395,0,6400,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,3692,1400,3839,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,3202,1100,3594,100)
+Skill = (7,29,0,10,0,0,0,0,0,0,0,1608,1100,1718,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,899,1200,1039,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,93,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(46,1),(60,1),(61,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {5 Content={3412}}
+
+Depots      = {1 Content={3350, 3148 Charges=3, 3003, 3003, 3350, 3273, 3412, 3336, 3661, 3661, 3661, 3658, 2911 SavedExpireTime=2326, 3661, 3661, 3658, 3661, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3114 Amount=1, 3455, 3502}, 
+               3 Content={3502}}

@@ -1,0 +1,54 @@
+ID              = 9056799
+Name            = "Craneo Grande"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,19-19-76-0)
+CurrentOutfit   = (128,19-19-76-0)
+LastLogin       = 1146964507
+LastLogout      = 1146965926
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32814,31925,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,20306,0,23200,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,6880,3000,20800,1600)
+Skill = (2,231,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,55,55,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6550,1100,7140,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,36,0,10,0,0,0,0,0,0,0,5806,1100,6054,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,138,1100,154,20)
+Skill = (14,0,1200,0,0,0,936,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,83,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(30,1),(32,1),(33,1),(34,1),(35,1),(98,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2854 Content={3602 Amount=3, 3358, 3358, 3031 Amount=72, 3585 Amount=2, 3723 Amount=3}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3557},
+               10 Content={3483}}
+
+Depots      = {1 Content={3504 Content={2853, 3507 String="Gorilla Flam\nCarlin\n" Editor="Gorilla Flam"}, 2874, 3283, 2853 Content={3031 Amount=80, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2920 SavedExpireTime=595, 3502 Content={3129, 3470, 3466, 3470, 2893}}, 
+               3 Content={3003, 3003, 3114 Amount=1, 3267, 3412, 2854 Content={3031 Amount=4, 3031 Amount=100, 2911 SavedExpireTime=2884}, 3316, 3377, 3046 SavedExpireTime=2655, 3377, 3504 Content={3447 Amount=7, 3507 String="Craneo Grande\nAb'Dendriel"}, 3504 Content={3507 String="Craneo Grande\nAb'Dendriel"}, 3504 Content={3350, 3507 String="Craneo Grande\nAb'Dendriel"}, 3308, 3287 Amount=1, 3446 Amount=4, 3307, 2911 SavedExpireTime=2786, 3425, 3502 Content={2874, 2874}}, 
+               6 Content={3207 Amount=1, 2920, 3003, 3003, 2853 Content={3375, 3558, 3003}, 3504 Content={3412, 3300, 3300, 3430, 3506 String="Sedorff\nVenore\n\nQue onda amor? porqe no has entrado    =( que t pasa? estas bien? necesito saber algo de tiiii\nTe kiero mucho te mando miles de besos =* BYe :D\natte: Eli =)"}, 3502 Content={3035 Amount=1, 3027 Amount=2, 3031 Amount=79, 3031 Amount=100, 2920, 2920 SavedExpireTime=119, 2920, 2920 SavedExpireTime=598, 2920 SavedExpireTime=377, 2969 KeyNumber=4600, 3374}}}

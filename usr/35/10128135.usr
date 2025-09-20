@@ -1,0 +1,57 @@
+ID              = 10128135
+Name            = "Hunter of Zanera"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,75-79-75-79)
+CurrentOutfit   = (134,75-79-75-79)
+LastLogin       = 1144955116
+LastLogout      = 1144955215
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32932,32078,8]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,49001,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,13975,3000,20800,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,75,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10470,1100,10918,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,60,1400,71,30)
+Skill = (8,41,0,10,0,0,0,0,0,0,0,9129,1100,10056,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,633,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(59,1),(84,1),(85,1),(96,1),(97,1),(98,1),(106,1),(107,1),(217,3),(223,1),(224,1),(292,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2867 Content={3031 Amount=9, 3031 Amount=100, 3035 Amount=1, 3003, 3457, 3267, 3578 Amount=5, 3291, 3308, 3291, 2920 SavedExpireTime=466, 3003, 3492 Amount=7, 3457}},
+               4 Content={3357},
+               5 Content={3418},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3264, 3264, 3506 String="Warning!\n\nThe monthly rent of 3810 gold\nfor your house \"Fibula Village 3\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3810 gold\nfor your house \"Fibula Village 3\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3810 gold\nfor your house \"Fibula Village 3\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3810 gold\nfor your house \"Fibula Village 3\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Fibula Village 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               4 Content={3502 Content={}}, 
+               6 Content={3502 Content={3412, 3582 Amount=1, 3577 Amount=2, 2920 SavedExpireTime=558, 3457, 3207 Amount=1, 3565, 2867 Content={2867}, 2865 Content={2867 Content={3084 RemainingUses=250, 2647, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3045 RemainingUses=200, 2906, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2872 Content={2872 Content={3083 RemainingUses=150, 3012, 2950, 2952, 2659, 2659, 2867, 2867}, 2854, 3084 RemainingUses=250, 3084 RemainingUses=250, 3337, 3083 RemainingUses=150, 3447 Amount=2, 3045 RemainingUses=200, 2647, 3045 RemainingUses=200, 3084 RemainingUses=250}, 2871 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 2667, 3084 RemainingUses=250, 2667, 2667, 3084 RemainingUses=250, 2659, 2647, 3337, 2667, 3054 RemainingUses=200, 3083 RemainingUses=150, 2647, 3084 RemainingUses=250}, 2870, 2868 Content={3447 Amount=12, 3083 RemainingUses=150}, 2857 Content={3084 RemainingUses=250}}, 3504 Content={3031 Amount=3, 3035 Amount=29, 3507 String="hunter of zanera\nvenore"}, 3142, 2924 SavedExpireTime=233, 2853 Content={2853}, 3421, 3083 RemainingUses=150, 3030 Amount=1, 3585 Amount=1}}, 
+               7 Content={3502 Content={}}}

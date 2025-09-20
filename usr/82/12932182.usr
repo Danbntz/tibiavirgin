@@ -1,0 +1,53 @@
+ID              = 12932182
+Name            = "Kragah"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,91-110-110-132)
+CurrentOutfit   = (130,91-110-110-132)
+LastLogin       = 1142255051
+LastLogout      = 1142255342
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32392,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,37844,0,47000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,24893,1100,25499,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,147,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6837,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2340,2000,3150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,54,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,383,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,29}
+QuestValues = {(35,1),(37,1),(59,1),(60,1),(61,1),(140,1),(141,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3083 RemainingUses=110},
+               3 Content={2854 Content={3358, 2973 KeyNumber=3520, 3031 Amount=51, 3031 Amount=100, 3492 Amount=7, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Kragah \nThais" Editor="Kragah", 3454, 2853 Content={2853 Content={2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3286, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 2955}, 3492 Amount=12, 3316, 3358, 2473 Content={3031 Amount=75, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=7}, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2853 Content={3582 Amount=10, 3578 Amount=12}, 3502 Content={3457, 3056 RemainingUses=199, 2853 Content={3299, 3283, 3362, 3377, 3425, 3285, 3285, 3285}, 3093, 3083 RemainingUses=150}}, 
+               1 Content={3502}}

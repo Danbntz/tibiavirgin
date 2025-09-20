@@ -1,0 +1,54 @@
+ID              = 9763770
+Name            = "Draur Kakerili"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,57-114-57-114)
+CurrentOutfit   = (137,57-114-57-114)
+LastLogin       = 1147598175
+LastLogout      = 1147601459
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32637,31895,10]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,180508,0,204800,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,197848,1100,214735,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,129,490,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,33240,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,27038,1800,40105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,67,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,1989,1100,2183,20)
+Skill = (14,0,1200,0,0,0,1046,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,1,0,104,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,4,5,8,10,16,25}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(35,1),(46,1),(59,1),(93,1),(94,1),(95,1),(99,1),(125,1),(126,1),(223,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3003, 3723 Amount=46, 3504, 3031 Amount=28, 2911, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={2912 RemainingExpireTime=915}}
+
+Depots      = {2 Content={3502 Content={3031 Amount=2, 3003, 3446 Amount=34, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3413, 3413, 2911, 2911, 4871, 2853 Content={2853 Content={2853 Content={2853 Content={3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3035 Amount=50, 1781 Amount=10}}, 
+               6 Content={3502 Content={2871 Content={2854 Content={2854 Content={3093, 3050 SavedExpireTime=1786, 3097, 3050, 3050, 3097, 3097, 3097, 3097, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3054 RemainingUses=120, 3085 RemainingUses=200, 3083 RemainingUses=150, 3056 RemainingUses=193, 3085 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3008, 3056 RemainingUses=200}, 3572, 3416, 3085 RemainingUses=129, 3415, 3391}, 2854 Content={3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=66}, 2865 Content={3280, 3320, 3285, 3285, 3311, 3299, 3310, 3313, 3322, 3268, 3316, 3293}, 2870 Content={2854 Content={3289, 3464, 2855 Content={2854 Content={2868, 2867, 2867, 2867, 2865, 2865, 2865, 2865, 2866, 2866, 2866, 2866, 2870}}, 3456, 3457, 3308, 3308, 2920, 2920, 3412, 3412}, 2969 KeyNumber=4600, 2970 KeyNumber=4601, 2969 KeyNumber=4603, 2969 KeyNumber=4055, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 3509, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 4871, 4871, 3658, 2656, 3059, 2952}, 2868 Content={2854 Content={3353, 3353, 3353, 3279, 3279}, 3073, 3071, 3072, 3074, 3046 SavedExpireTime=2997}, 2867 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854 Content={2854, 2854, 2854}, 2854 Content={3447 Amount=38, 3447 Amount=100, 3446 Amount=39, 3446 Amount=100, 3448 Amount=54, 3449 Amount=6}, 2868 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 2866 Content={3578 Amount=30, 3586 Amount=8, 3601 Amount=3, 3583 Amount=4, 3598 Amount=27, 3595 Amount=26, 3590 Amount=11, 3585 Amount=59, 3592, 3592, 3592, 3592}, 2869 Content={3035 Amount=17, 3031 Amount=60, 3043 Amount=4, 2854 Content={3413, 3286, 3286, 3286, 3286}, 3033 Amount=1}}}}

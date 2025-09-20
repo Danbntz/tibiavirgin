@@ -1,0 +1,60 @@
+ID              = 13758752
+Name            = "Darkormagic druid"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,77-132-132-0)
+CurrentOutfit   = (134,77-132-132-0)
+LastLogin       = 1148248508
+LastLogout      = 1148249225
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33195,32805,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,678683,0,717600,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,707027,1100,708148,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,127,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,45495,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,241,1800,302,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1195,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,457,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1705,1100,1769,20)
+Skill = (14,0,1200,0,0,0,82,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,147,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,15,20,25,29,39,44,45,50,75,76,81,84,85,87,88,89}
+QuestValues = {(17,1),(35,1),(59,1),(60,1),(61,1),(88,1),(89,1),(90,1),(112,1),(137,1),(151,1),(152,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2872 Content={3583 Amount=4, 3035 Amount=1, 3052 SavedExpireTime=1132, 3003, 3457, 3164 Charges=3, 3198 Charges=5}},
+               4 Content={3381},
+               5 Content={3067},
+               6 Content={3434},
+               7 Content={3371},
+               9 Content={3007},
+               10 Content={2869 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}, 2863 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3065, 2870 Content={3008, 3084 RemainingUses=250, 3045 RemainingUses=185, 3066}, 3003, 3003, 3425, 2872 Content={2857 Content={2856, 2860 Content={2973 KeyNumber=3520, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2973 KeyNumber=3520}, 3056 RemainingUses=200}, 2857, 2860, 2906, 2860 Content={3492 Amount=70}}, 2865 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3598 Amount=6, 3056 RemainingUses=200, 3003, 2955, 3350, 2920 SavedExpireTime=598, 3459, 3003}, 3502 Content={2871}}, 
+               2 Content={3502 Content={3457, 3457}}, 
+               3 Content={3349, 3504 Content={2853 Content={2853 Content={3457, 3457, 3457, 3446 Amount=4, 3446 Amount=7}, 2853 Content={2853 Content={2853 Content={2874}}}}, 3507 String="Darkormagic druid\nAb'Dendriel" Editor="Darkormagic druid"}, 3502}, 
+               5 Content={2872, 3582 Amount=4, 3502 Content={3492 Amount=27, 3483, 3448 Amount=15, 3092}}, 
+               6 Content={3502}, 
+               7 Content={2870, 2854 Content={3003, 3457, 3003, 3003, 3003, 3003}, 2867 Content={3046 SavedExpireTime=2993, 3483, 3350, 3350, 3003, 3543, 3003, 3054 RemainingUses=200, 3045 RemainingUses=200, 3017, 3045 RemainingUses=200, 3046 SavedExpireTime=2701, 3046 SavedExpireTime=2994}, 3502 Content={3507 String="darkormagic druid \nhunting here\nleave plis or msn me plis\nxD" Editor="Darkormagic druid", 3507 String="1785886\n3qn7wwc1\n3qn7wca" Editor="Darkormagic druid", 2870, 2870}}, 
+               8 Content={3502}}

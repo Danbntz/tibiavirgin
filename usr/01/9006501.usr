@@ -1,0 +1,55 @@
+ID              = 9006501
+Name            = "Holys Back"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (142,79-94-114-95)
+CurrentOutfit   = (142,79-94-114-95)
+LastLogin       = 1147992059
+LastLogout      = 1147992073
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33208,31813,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,4044,0,4200,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,3681,1100,5296,1600)
+Skill = (2,180,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,1086,1500,1318,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,66,1800,140,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,761,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,21,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {20,42}
+QuestValues = {(21,1),(22,1),(23,1),(27,1),(217,3),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               5 Content={3276},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="holys back\nthais"}, 3502 Content={}}, 
+               1 Content={3502}, 
+               2 Content={3349, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3265, 2970 KeyNumber=3802, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 3502 Content={}}, 
+               4 Content={2853 Content={3425, 3425, 3358, 3358}, 2853 Content={2871 Content={3286, 2853 Content={2853 Content={3409, 3349, 3285, 3285, 3409, 3285, 3409}, 3409, 3409, 3285, 3409, 3409, 3409, 3409}, 3286, 3409, 3349, 3349, 3583 Amount=96, 3286, 3409, 3409, 3409, 3409, 3409, 2853 Content={3409, 3409, 3286, 3409, 3285, 3286, 3409, 2853 Content={3409, 3301, 3349, 3286, 3301, 3409, 3557, 2853 Content={3286, 3286, 3286, 3286, 3275, 3409, 3351, 3409}}}, 3286, 3409, 3286, 3286, 3409, 3286}}, 2866 Content={2853, 2853, 2853, 2853, 3504, 3507 String="kussai\nedron" Editor="Kussai", 3507 String="kussai\nedron" Editor="Ushi the druid", 3507 String="hiukirisnay\nedron\n" Editor="Princesa Kachonda", 3505 String="LONA AMORM\n hunting here\nmggn me plis\nrespeten =)\n" Editor="Lona Amorm", 3507 String="ojos saint\nedron" Editor="Proffesor Roshi", 3507 String="Dartho\nEdron" Editor="Dartho", 2853, 2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evi" Editor="Quik Pirokaman", 2853, 2853, 2853, 2853, 2853, 2853}, 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 01\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3007, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Flat 01\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="Holys Back\nEdron"}, 3003, 2870, 2853 Content={2920, 2920, 2920, 2920, 2920}, 3502 Content={2868, 2853 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 2869 Content={2869, 2869, 2869, 2869}, 2854}}, 
+               5 Content={3502 Content={3375, 3457, 3377}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502}}

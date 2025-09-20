@@ -1,0 +1,55 @@
+ID              = 14140920
+Name            = "Sir Carlos de Zanera"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,97-120-0-113)
+CurrentOutfit   = (129,97-120-0-113)
+LastLogin       = 1148243745
+LastLogout      = 1148243886
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,84978,0,98800,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,139810,1100,141595,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,286,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15774,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,349,2000,350,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,3143,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,365,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4954,1100,5420,20)
+Skill = (14,0,1200,0,0,0,820,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,47,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,11,15,19,20,25,26,27,29,30,44}
+QuestValues = {(18,1),(35,1),(54,1),(59,1),(61,1),(93,1),(94,1),(95,1),(98,1),(99,1),(125,1),(126,1),(140,1),(141,1),(223,1),(333,1)}
+Murders     = {1148242112}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2867 Content={3031 Amount=55, 3074, 2868, 3003, 3148 Charges=3, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={2854 Content={3578 Amount=40, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2854 Content={3492 Amount=67, 3483, 2969 KeyNumber=3600}, 2868 Content={3350, 3003, 3299, 2874, 2920, 3583 Amount=1, 2853 Content={2853, 3463, 2989}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5}}, 2854, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2868 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2868 Content={3590 Amount=3, 3598 Amount=1, 3350, 3092 SavedExpireTime=1646, 3456, 2480 Content={3483, 3492 Amount=100}, 3447 Amount=6, 3035 Amount=33, 3153 Charges=1, 3056 RemainingUses=194, 3083 RemainingUses=149, 3059, 3456, 3046 SavedExpireTime=1855}, 3502 Content={3075, 3425, 3425, 3172 Charges=2, 2874, 2874, 3285, 3174 Charges=5, 3375, 3552, 2473 Content={3277 Amount=6}, 2471 Content={3012}, 2473 Content={3308}, 2473, 2970 KeyNumber=4503, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3093 SavedExpireTime=1796}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2868, 2868 Content={3375, 3308, 3174 Charges=5, 3059, 3059, 3375}, 2868}}}

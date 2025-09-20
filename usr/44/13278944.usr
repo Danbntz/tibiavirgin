@@ -1,0 +1,53 @@
+ID              = 13278944
+Name            = "Arwin Fyor"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (128,115-19-67-115)
+CurrentOutfit   = (128,115-19-67-115)
+LastLogin       = 1147855571
+LastLogout      = 1147856421
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32360,31788,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,230741,0,232500,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1303887,1100,1395159,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,545,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,46913,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5634,1800,6824,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,57,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,732,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,10,11,12,16,20,27,29,30,44}
+QuestValues = {(15,1),(16,1),(153,1),(190,1),(191,1)}
+Murders     = {1146207567,1146207759,1146552715,1147592090,1147592112,1147683322}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3031 Amount=95, 3457, 3003, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3357},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={3503 Content={3503 Content={3507}, 3504, 3503, 2853 Content={3053 SavedExpireTime=216, 2970 KeyNumber=3802, 3598 Amount=7, 2970 KeyNumber=3801, 3598 Amount=20}, 3350}, 2989}}, 
+               4 Content={2656, 2667, 3590 Amount=10, 3584 Amount=10, 3737 Amount=1, 3590 Amount=4, 3584 Amount=10, 3737 Amount=1, 3590 Amount=4, 3584 Amount=10, 3737 Amount=1, 3590 Amount=4, 3584 Amount=10, 3737 Amount=1, 3590 Amount=4, 3584 Amount=10, 3737 Amount=1, 3590 Amount=4, 3584 Amount=10, 3590 Amount=4, 2656, 2667, 3590 Amount=10, 2866 Content={2868 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3148 Charges=3}, 3504 Content={3504, 3504, 3503, 3504, 3504, 3503}, 3504 Content={2870 Content={3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 3507 String="Coyote Maloso\nedron" Editor="Coyote Maloso"}, 3504, 2868 Content={3583 Amount=11, 3582 Amount=18, 3582 Amount=100}, 3031 Amount=88, 3031 Amount=100, 3031 Amount=100, 3035 Amount=4, 3380, 2472 Content={2853 Content={2869, 2868, 2868, 4268}}, 2871 Content={2868, 2868 Content={2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Wood Avenue 10a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Stonehome Village 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3504 Content={3507 String="Arwin Fyor\ndarashia" Editor="Amrel"}, 3504 Content={2854, 3446 Amount=5, 2854, 3507 String="Arwin Fyor\ndarashia" Editor="Amrel"}, 3502}, 
+               6 Content={3504 Content={3507 String="Arwin Fyor\nVenore" Editor="Evancio"}, 3502}, 
+               8 Content={3502}}

@@ -1,0 +1,53 @@
+ID              = 12098619
+Name            = "Atlanus Darikylver"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,17-91-17-56)
+CurrentOutfit   = (128,17-91-17-56)
+LastLogin       = 1148136532
+LastLogout      = 1148136535
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32583,31972,9]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,36796,0,37800,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,56872,1100,57519,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,29,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5337,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1856,2000,3150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,138,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,172,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1278,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,64,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,10,11,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(35,1),(59,1),(60,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2860 Content={2821 String="Dear diary, \nthis nice ol' woman brought us some fine beer. \nI guess its ok to help her with this apple mailing service she wants to start. If only this human girl would shut up. We all regret to have granted her hospitality. This gal has the appetite of a rotworm and if ye' don't watch her every second she'll drinks all our beer and starts throwing things and demanding for some 'prince'.", 3456, 3723 Amount=3, 3003, 3031 Amount=77, 3457}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={2469 Content={3123, 2853 Content={3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2473 Content={2868, 2868, 2854}}}, 
+               6 Content={3502 Content={3035 Amount=42, 3049 SavedExpireTime=114, 3049 SavedExpireTime=14, 3053 SavedExpireTime=6, 3028 Amount=1, 3464, 3031 Amount=97, 3327}}}

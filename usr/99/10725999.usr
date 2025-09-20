@@ -1,0 +1,57 @@
+ID              = 10725999
+Name            = "Margarito'Force"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,114-16-114-16)
+CurrentOutfit   = (130,114-16-114-16)
+LastLogin       = 1148175609
+LastLogout      = 1148175635
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32475,32272,9]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,295924,0,330400,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,270505,1100,291109,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,87,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,26173,1500,38723,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,982,1800,1237,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,804,1800,1118,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,9089,1800,12334,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,142,1800,302,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,2151,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4048,1100,4445,20)
+Skill = (14,0,1200,0,0,0,841,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,31,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,12,14,15,16,17,20,25,27,29,30,31,38,42,44}
+QuestValues = {(37,1),(59,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3582 Amount=6, 3031 Amount=100, 3279, 3031 Amount=8, 3003, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2921 RemainingExpireTime=458}}
+
+Depots      = {0 Content={2868 Content={3492 Amount=19, 3483, 3447 Amount=3, 3264, 2874, 3457, 3003, 2920 SavedExpireTime=600, 2920 SavedExpireTime=599, 2920, 3059, 2854 Content={3065, 3075, 3155 Charges=1, 3155 Charges=1, 3074, 3066, 3070, 3067, 3033 Amount=1}, 2854 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2854 Content={3059, 3153 Charges=1, 3148 Charges=2, 3172 Charges=3, 3177 Charges=1, 3177 Charges=1}}, 2854 Content={3457, 3016, 3457, 3457, 3054 RemainingUses=200, 3083 RemainingUses=144, 3045 RemainingUses=200, 3012, 3457, 3457, 3012, 3012, 3054 RemainingUses=200, 3552, 3012, 2920 SavedExpireTime=45, 2920}, 2854 Content={2868 Content={3003, 3003, 3457, 3457, 3457, 3003}, 2854 Content={2854 Content={3285, 3457}, 3003, 3003, 3003, 3457, 2920, 2920, 2920, 2920, 2920, 3455, 3457, 2920 SavedExpireTime=261, 2920 SavedExpireTime=274, 2920 SavedExpireTime=305}, 2839, 3289, 3456, 3551, 3551, 3456, 3456, 3456, 2920, 2920, 2920}, 2854 Content={2867 Content={2854 Content={3031 Amount=60, 3031 Amount=100, 3031 Amount=100, 3035 Amount=40}, 2815 String="We espero no te enojes por haber tomada la bp pro me urge...no agarres nada we...si no te mata launo...cm cuate t lo digo no agarres nada sin permiso we...t tendre confianza we...\n" Editor="Margarito'Force", 3305}, 2969 KeyNumber=3650, 3453, 3059, 3465, 2857 Content={2854 Content={3097 SavedExpireTime=3596, 3098 SavedExpireTime=448, 3046 SavedExpireTime=2994, 3077, 3084 RemainingUses=250}}}, 2854 Content={2854 Content={3551, 3447 Amount=100, 3448 Amount=44, 1781 Amount=22, 3447 Amount=20, 3003, 3446 Amount=7, 3277 Amount=12}, 3349, 3350, 3350, 3457, 3350, 3003, 3270, 3289}, 2854 Content={2854 Content={3593, 3593, 3587 Amount=1, 3586 Amount=3, 3601 Amount=2, 3585 Amount=5, 3597 Amount=2, 3590 Amount=6, 3602 Amount=3, 3595 Amount=15, 3588 Amount=87, 3600 Amount=100, 3589 Amount=10, 3577 Amount=25, 3578 Amount=20, 3583 Amount=8, 3582 Amount=20}, 3592, 3592, 3606 Amount=1, 3579 Amount=1, 3592, 3114 Amount=8, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3605 Amount=8, 2977, 2977, 2977}, 2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3502 Content={2854 Content={3565, 3372, 3372}, 2870 Content={2854 Content={2854 Content={2854 Content={2854 Content={2853 Content={2853 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 2853 Content={2853 Content={3273, 3273}, 2853 Content={3273, 3273, 3273, 3264, 3264, 3264, 3264, 3264}, 2853 Content={3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273}}, 2853 Content={3358, 3358, 3358, 3358, 3358}, 2853 Content={2853 Content={3367, 3367, 3367, 3354, 3354, 3354, 3354, 3354}, 3413, 3413, 3354}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3377, 3375}, 2872 Content={2854 Content={2854 Content={3269, 3269, 3269, 3269, 3419, 3282, 3282, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=5}}}, 3505 Editor="Margarito'Force", 3283, 2906, 3349, 3316, 3349, 2906}, 2865 Content={2853 Content={3452, 3471, 3470, 3469, 3468, 3467}, 2853 Content={3452, 3454, 3471, 3464, 3470, 3467, 3468, 3469}, 3509, 2950, 3548 Amount=5, 3561, 2991, 3603 Amount=1, 3547 Amount=2, 2991, 2991, 3551, 3003}, 2854 Content={2920 SavedExpireTime=563, 2920 SavedExpireTime=596, 2920, 2920, 2920 SavedExpireTime=577}, 2854 Content={3483, 3003, 2920, 3003, 3506 String="Margarito'Force\nThais \n \n\ninche gay\n^^" Editor="Loki Force", 2911}, 2854 Content={3349, 3377, 3377, 3377, 3377, 3563}, 2854 Content={3059, 3059, 3059, 3059, 3059, 3059, 3059, 3059, 3059}, 2853 Content={2854 Content={3425, 3425, 3425, 3425, 3425}, 2853 Content={3377, 3421}}, 2853 Content={3421, 2854 Content={3351, 3357, 3384, 3384, 3384, 3557, 3384, 3384}}, 2914 SavedExpireTime=1453}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

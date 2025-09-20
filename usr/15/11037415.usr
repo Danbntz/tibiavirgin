@@ -1,0 +1,54 @@
+ID              = 11037415
+Name            = "Alynakons Drath"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,77-77-77-77)
+CurrentOutfit   = (137,77-77-77-77)
+LastLogin       = 1148249215
+LastLogout      = 1148251548
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,197194,0,204800,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,133510,1100,141595,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,504,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,29127,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,875,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,20,2000,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,144,2000,150,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,333,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,53,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,16,19,20,22,25,26,27,29,30,38,44}
+QuestValues = {(35,1),(59,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(106,1),(107,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3578 Amount=5, 3577 Amount=5, 3003, 3457}},
+               4 Content={3380},
+               5 Content={3075},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="alynakons drath\nthais" Editor="Dark ger"}, 3502}, 
+               1 Content={3425, 3587 Amount=2, 3590 Amount=3, 3092, 2991, 3463, 2868 Content={2828 String="Year 10 in the reign of Harrah II\nThe baker Thahon claimed that the wife of the merchant Habthi was guilty of witchcraft. Thahon could not bring forth convincing proof of her guilt and was sentenced to ten blows on his bare feet. The crafter Ziril claimed that the beggar Aukohl stole a cake from his open window. Although no proof was found there was a general sense of agreement that no proof was necessary since everybody was convinced of the beggar's guilt. In a rare display of mercy the judge sentenced him to a mere three years of work in the salt mines. The widow Zehmahil claimed that the travelling bard Todd Ballory had promised here mariage in\nexchange for certain services that have not been further elaborated on in the court's documents. The foreigner was found guilty without trial and sentenced to three years of work in the salt mines. The footsoldier Kamahl claimed his father Indril was guilty of witchcraft. Several obscure texts were found beneath the accused person's bed. Indril was banished from the city and his property was equally divided between the pharaoh and his heirs. The foreigner Todd Ballory was pronounced guilty of killing the overseer Barnak, a father of sixteen children and a respectable member of the local whipcrackers' association. The aforementioned convict was sentenced to a rather spectacular final appearance in the local arena.", 3077, 2952, 3155 Charges=1, 3084 RemainingUses=250, 3658, 3045 RemainingUses=186, 3595 Amount=3, 3083 RemainingUses=150, 3012, 3008, 3598 Amount=3, 3600 Amount=5}, 3504 Content={3012, 3551, 3507 String="alynakons drath\ncarlin\n..\n" Editor="Sergio adrian", 3074}, 2867 Content={3459, 2906}, 3147, 2989, 2860 Content={3598 Amount=6, 3658, 2393, 3504 Content={3279, 3198 Charges=5, 3191 Charges=2, 3198 Charges=5, 3075, 3736 Amount=1, 3093, 3265, 3507 String="Alynakons Drath\ncarlin \nskazi loko" Editor="Skazi Loko", 3075}, 2856 Content={3658, 2659, 3004, 3276, 2842 String="Alynakons Drath y Talegas de perro flam\nTe amo  mucho \nte extraño amor mio \nCada dia sin verte,\nes como morir, \npor que eres lo suficiente,\npara poder sobrevivir isamar :*y love" Editor="Talegas de Perro Flam"}, 3661, 3177 Charges=1, 3606 Amount=5}, 2857 Content={3008, 3077, 3098}, 3046 SavedExpireTime=2992, 2867 Content={3031 Amount=97, 3191 Charges=2, 3031 Amount=100, 3152 Charges=1, 3031 Amount=100, 3031 Amount=100, 3148 Charges=3, 3035 Amount=7, 3590 Amount=2}, 2854 Content={3198 Charges=4, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3506 String="alynakons drath\ncarlin\n    \npay 5 k or hunted\natte : zhaka saint" Editor="Toy pdo", 3506 String="alynakons drath\ncarlin\nyou are hunted" Editor="Toy pdo", 3505, 3505 String="ali juge con tu mona soy tu novio talegas solo te escribo para decirte que no estas de anaranjado que bien , verdad loq ue prometimos se rompio, pero ta bien veo que para ti no valgo nada.\nes todo bye . ademas te subia l level 21\nbye non te mando beso por que toy enojado bye\n" Editor="Alynakons Drath", 3505 String="hola miamor\njugue con tu mona soy talegas bueno es todo te amo miamor mua :*" Editor="Alynakons Drath", 3505, 3506 String="alynakons drath\ncarlin\n\n:D hola!! como estas? :D yop super bien bueno aver si luego platicamos asi de mm tu sabes no? :d bueno chau\natte: mariana :D ~:p cuidate" Editor="Eterr Mariana"}, 2868 Content={3031 Amount=18, 3030 Amount=2, 3359, 2911 SavedExpireTime=1664, 3456, 3012, 3008}, 2854 Content={3349, 3447 Amount=100, 3446 Amount=86, 3350, 3447 Amount=1, 3266, 3305, 3350, 2853 Content={3003}, 3056 RemainingUses=200}, 2867 Content={3425, 3357, 3377, 3421, 3463, 3004, 2955, 3056 RemainingUses=200, 2874, 2955, 3285, 2853}, 3502 Content={3074, 3148 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3492 Amount=83, 2880, 3272, 1781 Amount=1, 3123, 2874, 2874, 3308, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=1, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3, 3483}}, 
+               3 Content={3502}}

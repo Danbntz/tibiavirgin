@@ -1,0 +1,57 @@
+ID              = 8705600
+Name            = "Chaqueta de mono"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,114-114-114-114)
+CurrentOutfit   = (133,114-114-114-114)
+LastLogin       = 1148249497
+LastLogout      = 1148249537
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32340,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,529086,0,548900,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,432756,1400,440480,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,192,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,56,0,10,0,0,0,0,0,0,0,79883,1100,87197,100)
+Skill = (7,64,0,10,0,0,0,0,0,0,0,52061,1100,56417,30)
+Skill = (8,36,0,10,0,0,0,0,0,0,0,30360,1200,34092,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,166,1200,181,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,448,1200,496,50)
+Skill = (11,24,0,10,0,0,0,0,0,0,0,3388,1200,3601,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1551,1100,1590,20)
+Skill = (14,0,1200,0,0,0,790,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,51,200,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,11,15,29,30,42,44,48,49,51,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(46,1),(52,1),(53,1),(54,1),(59,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3147, 3449 Amount=6, 3031 Amount=19, 3160 Charges=1, 3148 Charges=2, 3148 Charges=3, 3160 Charges=1, 3148 Charges=2, 3160 Charges=1, 3457, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3381},
+               5 Content={3416},
+               6 Content={3280},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={3583 Amount=1}}
+
+Depots      = {0 Content={3189 Charges=1, 3031 Amount=5, 1781 Amount=3, 3446 Amount=100, 3502}, 
+               1 Content={3504 Content={2854 Content={2865, 2868, 2868, 2854, 2866, 2854, 2854, 2854, 2854}, 3507 String="Chaqueta de mono\ncarlin" Editor="Chaqueta de mono"}, 2469 Content={3050 SavedExpireTime=1612, 3148 Charges=3, 2853 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 2469 Content={3046 SavedExpireTime=1955, 3409, 3357, 2857 Content={3357, 3372, 3385, 3359, 3563}, 2868 Content={3275, 3282, 3282, 3271, 3297, 3283, 3307, 3307, 3307, 3266, 3266, 3266, 3275, 3275, 3285, 3285, 3285, 3285, 3269, 3289}}, 2469 Content={3349, 2853 Content={3277 Amount=68, 3277 Amount=100}, 2868 Content={3447 Amount=40, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3446 Amount=27, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3298 Amount=10, 2854 Content={3447 Amount=16, 3350, 3350, 3447 Amount=100, 2853 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 2853 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3350, 3449 Amount=58, 3449 Amount=100, 3449 Amount=100, 3448 Amount=98}}, 2469 Content={2973 KeyNumber=3520, 3093, 2866 Content={2969 KeyNumber=4600, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 2970 KeyNumber=4502, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 2969 KeyNumber=4600, 2969 KeyNumber=4600}, 2854 Content={3052, 3097, 3097, 3097, 3050, 2854 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3083 RemainingUses=37, 3054 RemainingUses=200, 3008, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3008, 3054 RemainingUses=200, 3054 RemainingUses=200, 3012, 3012}, 2853 Content={3509, 3207 Amount=1, 3077, 3046, 3026 Amount=4, 3027 Amount=2}, 2868 Content={3056 RemainingUses=200, 3084 RemainingUses=250, 3008, 3054 RemainingUses=200, 3054 RemainingUses=137, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012}}}, 2868 Content={3457, 3457, 3456, 3453, 3308, 3293, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003}, 3483}, 3502 Content={3492 Amount=19, 3492 Amount=100, 3492 Amount=100, 2868 Content={3030 Amount=1}, 3586 Amount=1, 3736 Amount=2, 3595 Amount=1, 3602 Amount=30, 3598 Amount=17, 3597 Amount=1, 3585 Amount=10, 2854 Content={2991, 2839 String="I tak wlasnie hujowo sie tu expi.... CDN !" Editor="Lord'Vicus", 3466, 3454, 2955, 2874 ContainerLiquidType=2, 2991, 3121, 2955, 3463, 3462, 3459, 2989, 2906, 3468, 3467, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3212 String="<the text seems to be a mostly ruined diary of some sort, found on the body of a dead monk. Most passages make no sense at all to you>\n... abbot still clueless abour my ...\n...\nAfter all those perils and puzzels I have located the throne of darkness at last. I will lead ...\n...\n... crypts and monsters ... found one of the caged demons that seem to be leached as a powersupply of some sort ...\n...\n... switches on the end of the scorpion path and the lair of the wicked web ... \n... died but I could make it to the throne. My wards are holding the howling ghosts and spectres at bay for now and I prepare to unleash the powers of the throne ... \n...\n... still impossible! My wards are fading and the ancient spirits feel that they will soon claim another victory. I failed the brotherhood and will soon join the howling hords in their eternal torment and madness. ...\n...\nhas stoped. I KNOW they are coming after me now. I can see the flickering of the shadows as they aproach. THEY ARE COMING", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 3059}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={2870 Content={3035 Amount=27, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 3446 Amount=1, 3349, 3446 Amount=100, 2865 Content={2854, 2854}, 1781 Amount=22, 3446 Amount=100, 3446 Amount=100, 3160 Charges=1, 3148 Charges=1, 3085 RemainingUses=198, 3350, 3277 Amount=61, 3449 Amount=6, 3723 Amount=30, 3160 Charges=1, 3160 Charges=1, 3446 Amount=100, 3446 Amount=100, 3349, 3447 Amount=29, 3583 Amount=13, 3502 Content={2973 KeyNumber=3520, 3551, 3470, 3473, 3054 RemainingUses=200, 3083 RemainingUses=150, 3372, 3354, 3054 RemainingUses=200, 3354}}}

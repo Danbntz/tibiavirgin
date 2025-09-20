@@ -1,0 +1,57 @@
+ID              = 9645542
+Name            = "Rollish"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-114-114-0)
+CurrentOutfit   = (134,0-114-114-0)
+LastLogin       = 1148194920
+LastLogout      = 1148198883
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32529,31649,7]
+PlayerkillerEnd = 1150789975
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,680443,0,717600,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,233792,1400,313485,1600)
+Skill = (2,465,465,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1030,1030,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9087,1100,9834,100)
+Skill = (7,65,0,10,0,0,0,0,0,0,0,57535,1100,62089,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,11,1200,50,50)
+Skill = (9,24,0,10,0,0,0,0,0,0,0,3517,1200,3601,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,265,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,820,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,30,30,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,130,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,11,20,29,42,76,79}
+QuestValues = {(84,1),(85,1),(151,1),(152,1),(190,1),(191,1),(217,3),(257,1)}
+Murders     = {1148195687,1148197523,1148197975}
+
+Inventory   = {2 Content={3572},
+               3 Content={2872 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3446 Amount=54, 3446 Amount=100, 3447 Amount=70, 3350, 3003, 3308, 3578 Amount=16, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3557},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3031 Amount=19, 3062, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3503 Content={3507 String="chinga tu madre\n"}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3060, 2903, 3265, 3046, 3046, 3046, 3046, 3046, 3060, 3060, 2903, 3060, 2903, 2903, 3042 Amount=1, 2656, 2639, 2664 RemainingExpireTime=9, 3506 String="Warning!\n\nThe monthly rent of 1765 gold\nfor your house \"Wood Avenue 3\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1765 gold\nfor your house \"Wood Avenue 3\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1765 gold\nfor your house \"Wood Avenue 3\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2854 Content={3017, 3306, 3085 RemainingUses=200, 2856}, 2869, 2853 Content={2853 Content={2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3447 Amount=41, 3447 Amount=100, 3457, 2968 KeyNumber=3940, 3350}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3723 Amount=74, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3582 Amount=60}, 3502 Content={3007, 3349, 3446 Amount=12, 3557, 2866 Content={2903, 2903, 3060, 2903, 3060, 2903, 2903, 3306, 3313, 3306, 2903, 2903, 3306, 2903, 3306, 2903, 3035 Amount=1, 3003, 3457}, 2869 Content={3026 Amount=1}, 2992 Amount=5, 2857 Content={3449 Amount=4, 3077, 3084 RemainingUses=250}, 3450 Amount=15}}, 
+               5 Content={2853 Content={3446 Amount=100, 3446 Amount=100}, 3446 Amount=3, 3446 Amount=100, 3502 Content={}}, 
+               6 Content={3446 Amount=100, 3446 Amount=100, 2854, 3502}, 
+               7 Content={3502}}

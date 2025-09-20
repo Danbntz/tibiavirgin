@@ -1,0 +1,60 @@
+ID              = 9404449
+Name            = "Kunta Knight"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,79-94-79-94)
+CurrentOutfit   = (134,79-94-79-94)
+LastLogin       = 1147962220
+LastLogout      = 1147962344
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32338,31785,6]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1015743,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,270797,3000,582400,1600)
+Skill = (2,670,670,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,118,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1280,1280,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,73,0,10,0,0,0,0,0,0,0,414340,1100,444791,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,16,1400,30,30)
+Skill = (8,74,0,10,0,0,0,0,0,0,0,233609,1100,244685,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2051,1100,2183,20)
+Skill = (14,0,1200,0,0,0,220,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(30,1),(32,1),(33,1),(34,1),(58,1),(60,1),(61,1),(69,1),(88,1),(89,1),(90,1),(99,1),(106,1),(112,1),(115,1),(116,1),(117,1),(118,1),(125,1),(126,1),(190,1),(191,1),(208,1),(217,3),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2871 Content={3349, 3003, 3031 Amount=49}},
+               4 Content={3370},
+               6 Content={3281},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3507 String="kunta knight\nthais" Editor="Kunta Knight"}, 3502 Content={3056 RemainingUses=200, 3377, 3377, 3377, 3377, 3377, 3377, 3354, 3354, 3413}}, 
+               1 Content={2656, 2393, 3599 Amount=1, 3351, 3061, 3034 Amount=1, 3492 Amount=2, 2644, 3576, 3351, 3061, 3034 Amount=1, 3033 Amount=4, 3492 Amount=2, 3032 Amount=1, 2656, 2656, 3492 Amount=2, 2656, 2393, 3599 Amount=1, 3351, 3061, 3034 Amount=1, 3492 Amount=2, 2647, 3492 Amount=2, 2992 Amount=5, 3738 Amount=1, 2876, 2656, 2393, 3599 Amount=1, 3074, 3034 Amount=1, 3492 Amount=4, 3034 Amount=1, 2656, 3734 Amount=1, 3351, 3061, 3034 Amount=1, 3492 Amount=2, 3034 Amount=1, 3492 Amount=2, 3384, 3034 Amount=2, 3061, 3085 RemainingUses=200, 3077, 2854 Content={2854 Content={2870 Content={3129}}, 2865 Content={3588 Amount=62, 3588 Amount=100, 3598 Amount=20}, 2854, 2854, 2667, 3062, 2854 Content={2856 Content={2854, 3316, 3003, 2992 Amount=5}, 3457}, 2857, 3097 SavedExpireTime=3575, 3097, 3004, 2957, 3083 RemainingUses=150, 2853 Content={2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11}, 2874 ContainerLiquidType=11, 2874, 2875}, 2854 Content={2667, 3481, 3505 String="yo te quiero un buen dame una oportunidad..! porfavor kunta no seas malo\n\n=( plz" Editor="Princess Lizbeth", 3505 String="Para liz: Ola linda no mas te escribo esta carta para decirte k tkm solo no mas kiero ver si la encuentras sola tk linda me an encantado tus cartas...\n\n\nGracias por todo kunta se que nunca me podras persona pero lo tengo q entender..q t la pases bien todo el tiempo..=) suerte y espero q t encuentres a alguien mejor que t peliast conmigo grax =) bye.\natte:liz" Editor="Princess Lizbeth", 3505 String="Ojala que me perdones =( yo creo que ya no pero muchas gracias por todo tqm.\natt:Liz" Editor="Princess Lizbeth", 3725 Amount=38, 3732 Amount=1, 2991, 3298 Amount=1, 3085 RemainingUses=200, 3050}, 3738 Amount=1, 2644, 3034 Amount=1, 3492 Amount=2, 2906, 3208, 3042 Amount=13, 2644, 2656, 3492 Amount=2, 3074, 3085 RemainingUses=200, 3673, 3577 Amount=9, 3044 Amount=6, 3077, 3492 Amount=2, 3421, 2992 Amount=12, 3287 Amount=1, 2644, 3074, 3577 Amount=43, 2659, 3039, 3027 Amount=1, 3405, 3033 Amount=1, 3577 Amount=100, 2856 Content={3658, 3505 String="Tkm Ojala me perdones Kunta\n=)\nAtt:Alguien triste" Editor="Princess Lizbeth", 2393}, 2650, 3586 Amount=2, 3738 Amount=1, 2876, 3583 Amount=13, 2638, 2656, 3506 String="Kunta Knight\nCarlin\nMil disculpas :'(\nPorfavor..!!\n=(\n" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nEstas enojado conmigo vdd? bueno espero que no no me dejes de hablar plz :( ahorita ando en depresion...pero aff bueno espero que me entiendas besos chau.\nAtt:Liz.." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nQ onda yo creo q quedamos como amigos esk sabes m  entere d q m quieren matar y no vaya a pasar algo peor asi q amigos?" Editor="Princess Lizbeth", 2865, 3271, 3504 Content={3507 String="kunta knight\ncarlin" Editor="Druidita Sary", 3572}, 3031 Amount=45, 2854, 3074, 2868 Content={3425, 3425, 3425, 3425, 3425}, 3502 Content={3492 Amount=100, 2969 KeyNumber=5010, 2868, 3483, 2868 Content={3506 String="Kunta Knight\nCarlin\nNo te preocupes sorry enserio no fue mi intencion pensar mal de ti Perdon\"! plz es que tuve miedo de perderte pero enserio sorry ='(\nAtt:\"La chik xD " Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nHable con ella..de hecho pero olvidemos eso ya..va tqm haber si mañana m puedo conectar =(...\nTe Amo\nAtt:La Chik" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nLo ultimo xD que me falto ayer estaba jugando xbox cn mi primo y un amigo su amigo me queria dar un beso y se lo dio a mi primo en la boca jajajajaja!! me quite  es lo bueno -.- y luego sus hermanos me tomaron una foto -.- eh no se vale..=P bueno en fin...eso era todo ya se me hizo tarde..\nBye..\nAtt: La Chik" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nHmm :S dime la neta hoy cuando entre vi a una tal Lokkita dime quien es porque la neta no estoy como para ponerme tan depre eh enserio soy una niña pero no tan tonta dime a neta si no me querias  dimelo pero no me hagas sufrir plz\nAtt : Liz" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nDoy lastima vdd bueno gracias..por ilusionarme mas...yo si estaba enamorada de ti eh...chale :S q feo me siento ='/" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nHola :D =) tkm quiero verte ='( pero no puedo uff t adoro espero q tu tmb m extrañes eh =P t cuidas bye te amo\natt : Liz\n" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nQ onda :D como estas? ya tenia tiempo q no me podia conectar porque le quitaron el inter a mi tio xD y me vine a cuernavaca y estaba super enferma :S\npero ya que estoy aqui te queria decir que t quiero mucho (un buen) y pues quiero  verte aunque solo me podre conectar..en las tardes =( te extrañe un buen no sabes espero que tu tambien te amo\nAtt:Liz" Editor="Princess Lizbeth", 3506 String="Kunta Knight \nCarlin\n\nQue onda mm creo que no te vere en todo el dia =/ tqm..no hagas travesuras en mi ausencia jajajaja ntc t amo\nAtt:Liz\n=*" Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nCon amor se hizo el mundo, con amor te quiero yo, con amor te quieren muchas pero nadie como yo." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin \nNo te digo algo bonito, te digo algo sincero, mi cariño es infinito y mi amor es verdadero." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nMirar al cielo es como mirarte a ti, y al mirarte a ti, mi corazón late intensamente, porque he descubierto que sin ti no puedo vivir, porque tu haces latir mi corazón." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nUn amigo te llama solo para decirte \"hola\", perdona tus errores y esta contigo incondicionalmente, esta ahí sólo para ti pero comprende que no todo el tiempo es para estar con él, te dice la verdad cuando tienes que saberla, te grita cuando lo necesitas, te valora y cuando es necesario te devuelve a la realidad." Editor="Princess Lizbeth", 3506 String="Kunta Knight \nCarlin\nEres la mágia de mi oscuridad, eres mi pensamiento alegre al despertar, eres como la tierra que se adora, eres el norte de mi caminar, eres la estrella blanca de mi libertad, eres como el flamenco que enamora." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nEstar contigo es lo mejor que me ha podido pasar en la vida. Eres lo más importante para mí y no quiero perderte por nada del mundo. Tú eres la razón de mi existencia y si tú me faltaras no sabría que hacer." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nEs bonito mirar en el agua y poderte reflejar, es bonito que te besen y también poder besar, pero ¿sabes que es lo más bonito? Tener un amigo en quien confiar." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nUn alma gemela es alguien cuyas cerraduras coinciden con nuestras llaves y cuyas llaves coinciden con nuestras cerraduras. Cuando nos sentimos lo bastante seguros como para abrir las cerraduras, surge nuestro yo más verdadero y podemos ser completa y honradamente quienes somos. Cada uno descubre la mejor parte del otro." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nEntraste en mi vida sin saber por qué, y ahora sin darme cuenta me enamoré de ti, me llenaste de alegría, pero no supe comprender que no eras para mi y mis lágrimas fueron el fin de lo que hubiese sido nuestro existir." Editor="Princess Lizbeth", 3506 String="Kunta Knight\nCarlin\nPensando en ti escribí este pequeño verso, tal vez la inspiración venga de tanto pensarte, tal vez del temor a decir lo que siento, porque los nervios se apoderan al instante, que al tenerte cerca hasta olvido quien soy y cual es mi nombre." Editor="Princess Lizbeth"}, 3738 Amount=1, 3293, 3277 Amount=15, 2866, 3084 RemainingUses=250, 2869 Content={2854 Content={2949, 2949, 3059, 3307, 3307, 2854}}}}, 
+               2 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801, 2868 Content={3446 Amount=100, 3446 Amount=64, 3446 Amount=100}, 3502 Content={2853 Content={2853}, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={3350, 2854 Content={2868 Content={2973 KeyNumber=3520, 2865}, 3299}}}, 
+               6 Content={3572, 3384, 2868, 3012, 3425, 2867 Content={3457}, 3291, 2854, 3502 Content={3503 Content={3503, 3503}, 3147, 3147, 2971 KeyNumber=3702, 3147, 3504 Content={3503}}}, 
+               7 Content={3504 Content={3507 String="kunta knight\nankrahmun" Editor="Sir Puas"}, 3502 Content={2853 Content={2920, 2920, 2920, 2920}, 3740 Amount=2, 3084 RemainingUses=250, 3384}}, 
+               8 Content={3502}}

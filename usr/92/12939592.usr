@@ -1,0 +1,58 @@
+ID              = 12939592
+Name            = "Taus Todran"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,79-113-114-114)
+CurrentOutfit   = (134,79-113-114-114)
+LastLogin       = 1148252393
+LastLogout      = 1148254785
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32275,32068,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,437111,0,452600,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,499362,1100,528063,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,725,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,47360,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,76,2000,150,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1070,2000,1550,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,1402,2000,1550,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,323,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1704,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,17,18,19,20,22,23,25,26,27,29,30,32,38,39,44,50,81,83,87,88}
+QuestValues = {(96,1),(97,1),(98,1),(100,1),(109,1),(153,1),(190,1),(191,1),(208,1),(253,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2854 Content={3457, 2853 Content={2874}, 2854 Content={3031 Amount=87}, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3577 Amount=15}}
+
+Depots      = {0 Content={3506 String="Taus Todran\nThais\n\nYou smell like a giant pile of bird crap.\n\n you like to stiff between little birdys butt cracks you sniff his turds RRRRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfrom your worst enemy >B_r_y<" Editor="Fadi Ryin", 2870 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 2853 Content={2854 Content={2854 Content={3188 Charges=3, 2869 Content={2854}}}, 3504 Content={3004, 3351, 3372, 3572, 3007, 3062, 3174 Charges=5, 3174 Charges=5}}, 3504 Content={2650, 3350, 3350, 3350, 3350, 3409, 2857 Content={3059, 3425, 3059, 3421, 3421, 3425}, 2969 KeyNumber=3600, 2853 Content={3299, 3299, 3299, 3350, 3059, 3059, 3359, 3350}, 3059}, 3502 Content={2854 Content={3483, 3483}, 2865 Content={3316, 3275, 3372, 3372, 2854 Content={3077, 3056 RemainingUses=200, 3054 RemainingUses=200, 3008, 3097, 3012, 3026 Amount=1, 3207 Amount=1, 3027 Amount=2, 3316, 3056 RemainingUses=197, 3054 RemainingUses=166, 3056 RemainingUses=200, 3008, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2853 Content={2969 KeyNumber=4600, 2969 KeyNumber=3033, 3316, 3316, 3316, 3316}, 2854 Content={3066, 3071, 3074, 3046 SavedExpireTime=2994, 3046, 3075}, 2853 Content={3266, 3083 RemainingUses=150, 3350, 3056 RemainingUses=200}}, 2854 Content={3558, 3483, 3483, 3483, 3578 Amount=77}, 2854 Content={2872, 3052, 3085 RemainingUses=200, 2854 Content={3035 Amount=4, 3031 Amount=84, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3042 Amount=1}}}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3502 Content={2854}}, 
+               6 Content={3502 Content={3031 Amount=100}}, 
+               7 Content={3264, 2857, 2867 Content={3017, 3045 RemainingUses=200, 3045 RemainingUses=200, 3050, 3050, 3050, 3050 SavedExpireTime=1797, 3050, 3483, 2853 Content={3046 SavedExpireTime=2771, 3046 SavedExpireTime=2977, 3046 SavedExpireTime=2996, 3046 SavedExpireTime=1936, 3372, 3372, 3349, 3349}, 3377, 3377, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046 SavedExpireTime=2993, 3046 SavedExpireTime=2996, 3046 SavedExpireTime=2981, 3046 SavedExpireTime=2993, 3046 SavedExpireTime=525, 3046 SavedExpireTime=2987}, 2656, 2853 Content={3012, 3299, 3377, 3045 RemainingUses=200, 3097, 3456}, 3502 Content={2871 Content={2868 Content={3351, 2854 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3200 Charges=3, 3200 Charges=3, 3191 Charges=2}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 3042 Amount=1, 2867 Content={2871}, 2853 Content={3583 Amount=20}}, 3003, 2854 Content={3031 Amount=100, 2868 Content={3035 Amount=52}}, 3457}}}

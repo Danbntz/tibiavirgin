@@ -1,0 +1,55 @@
+ID              = 12439412
+Name            = "Uzumaki Naruto-San"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,115-114-0-114)
+CurrentOutfit   = (128,115-114-0-114)
+LastLogin       = 1146492658
+LastLogout      = 1146492666
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32540,31772,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,42774,0,47000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,35869,1100,39236,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,130,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6053,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1073,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,35,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,94,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,25,26,44}
+QuestValues = {(18,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(93,1),(94,1),(95,1),(125,1),(126,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={2874, 2874, 3031 Amount=18, 3349, 3266, 3577 Amount=2, 3446 Amount=27, 3031 Amount=100, 3586 Amount=2, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={2865}, 3503 Content={3375, 2955, 3059, 3074, 3305, 3307, 3084 RemainingUses=250, 3056 RemainingUses=200}, 3504 Content={3492 Amount=62, 3008, 3492 Amount=9, 3483}, 2472 Content={3410, 3565, 3505 String="Caro amigo(a), voce esta sendo convidao para o casamento do ano:\n Ganico Dobilia e Lynlyn Hta\nque acontecera no dia: 24/02\n(a hora ainda nao sabemos)\nlocal: teatro de carlin\ncompareça\n(nao se esqueça do presente!) \ncarlin, 23 de fevereiro de 2005\n\n" Editor="Legendario Mago Azul", 3050 SavedExpireTime=1790, 3050}, 3504 Content={3447 Amount=6, 3588 Amount=70, 2875, 2920, 2920, 3466, 2911 SavedExpireTime=2020}, 3504 Content={2914 SavedExpireTime=494, 3454, 2911 SavedExpireTime=1677}, 2473 Content={3031 Amount=5, 3362, 2969 KeyNumber=4600, 2922 SavedExpireTime=250, 2911 SavedExpireTime=214, 2917}, 2473 Content={2911 SavedExpireTime=1426}, 2469 Content={3413, 3349, 3430, 3426, 3409}, 2471 Content={3285, 2471}, 2471 Content={2469, 3285}, 2471, 2471, 3502 Content={3446 Amount=6, 2922 SavedExpireTime=253, 2815 String="                      magias/spells\n\nutevo lux \nexura\nexura gran\n" Editor="Uzumaki Naruto-San"}}, 
+               3 Content={3502}}

@@ -1,0 +1,60 @@
+ID              = 8103670
+Name            = "Pegasus The Slayer"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,20-66-123-66)
+CurrentOutfit   = (219,0-0-0-0)
+LastLogin       = 1148080702
+LastLogout      = 1148088255
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,525364,0,548900,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,680946,1100,708148,1600)
+Skill = (2,310,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,343,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35753,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,27,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,5789,2000,6350,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,9567,2000,12750,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,92,2000,150,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,616,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4856,1100,4909,20)
+Skill = (14,0,1200,0,0,0,226,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,1,0,25,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,13,15,16,18,19,20,21,22,23,25,29,30,38,39,44,45,75,76,86,88,89}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(55,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(99,1),(111,1),(112,1),(125,1),(126,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(190,1),(191,1),(217,3),(292,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3083 RemainingUses=137},
+               3 Content={2865 Content={3031 Amount=32, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3003, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5}},
+               4 Content={3357},
+               5 Content={3418},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}}}
+
+Depots      = {0 Content={3035 Amount=5, 2853 Content={3275, 2853 Content={3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3275, 3351, 3275}, 3457, 2969 KeyNumber=3600, 3723 Amount=41, 3092, 3093, 2853 Content={3354, 3410, 3410, 3410, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 2853 Content={3410, 3410, 3410, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 3410, 3410, 3410, 3410}}}, 3003, 3075, 3502 Content={3059, 3350}}, 
+               1 Content={3502 Content={3504 Content={3507 String="pegasus the slayer\ncarlin"}}}, 
+               3 Content={3502 Content={3505, 3505, 3505}}, 
+               4 Content={3504 Content={3507 String="Pegasus the Slayer\nEdron"}, 3502}, 
+               5 Content={3504 Content={3507 String="pegasus the slayer\ndarashia"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Othehothep I c\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Othehothep I c\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Othehothep I c\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Othehothep I c\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3504 Content={3507 Editor="Pegasus The Slayer", 3507 Editor="Pegasus The Slayer"}, 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Othehothep I c\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3457, 3003, 3291}}, 
+               8 Content={3502}}

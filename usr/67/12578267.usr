@@ -1,0 +1,60 @@
+ID              = 12578267
+Name            = "Xerox Strike"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,114-128-127-114)
+CurrentOutfit   = (134,114-128-127-114)
+LastLogin       = 1148260228
+LastLogout      = 1148260355
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33123,32837,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,120844,0,135100,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,67498,1100,72958,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,389,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15406,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1428,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,990,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,2,0,2,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,10,20,29,42,44}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(31,1),(55,1),(84,1),(85,1),(86,1),(87,1),(100,1),(140,1),(141,1),(190,1),(191,1),(223,1),(224,1),(333,1)}
+Murders     = {1146698819,1147656342}
+
+Inventory   = {1 Content={3375},
+               2 Content={3084 RemainingUses=210},
+               3 Content={2854 Content={3003, 3031 Amount=41, 3031 Amount=100, 3577 Amount=4, 3457, 3582 Amount=2, 3031 Amount=100, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3505 String="Xerox Strike\nhunt'Here\nProtected by Asterit =)" Editor="Xerox Strike"}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3046 SavedExpireTime=1727}}
+
+Depots      = {0 Content={3504 Content={3507 String="xerox strike\nthais" Editor="Aztek Warrior"}, 3504 Content={3507 String="xerox strike\nthais" Editor="Aztek Warrior"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3504 Content={3507 String="Xerox Strike\nThais" Editor="Xerox Strike"}, 3507 String="Xerox Strike\nAb'Dendriel" Editor="Xerox Strike"}, 3502}, 
+               4 Content={2869, 3504 Content={3507 String="Xerox Strike\nEdron" Editor="Xerox Strike"}, 3504 Content={3507 String="Xerox Strike\nedron" Editor="Xerox Strike"}, 3492 Amount=4, 3457, 3504 Content={3507 String="Xerox Strike\nEdron" Editor="Archer Azteka", 2868 Content={3552}}, 2854, 3504 Content={3507 String="xerox strike\nedron" Editor="Braniaxs"}, 3504 Content={3374, 3507 String="xerox strike\nedron" Editor="Braniaxs"}, 3502}, 
+               5 Content={3031 Amount=3, 3035 Amount=4, 2866, 3031 Amount=100, 3275, 3558, 2857, 2854 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2920, 2920, 2920}, 2868 Content={3504 Content={3504 Content={3507 String="xerox strike\ndarashia" Editor="Braniaxs"}, 3504 Content={3066, 3411, 3507 String="xerox strike\ndarashia" Editor="Braniaxs"}, 2854 Content={2854 Content={3504 Content={3177 Charges=1, 3504 Content={3507 String="Xerox Strike\nThais" Editor="Lady Ycnan", 3355, 3412, 3377}, 3362, 3507 String="Xerox Strike\nthais" Editor="Aztek Warrior"}, 3059, 3505 String="eres puta\nthais\ne wey ya esta todo listo por si todavia quieres matar a mike volta\n\natte young buck\n" Editor="Sir Hell Zide", 3289, 3066, 2969 KeyNumber=3600, 3349, 3093, 3083 RemainingUses=150}, 2854}, 3507 String="Xerox Strike\nDarashia" Editor="Xerox Strike"}, 3504 Content={3507 String="Xerox Strike\ndarashia" Editor="Aztek Warrior"}, 3507 Editor="Xerox Strike", 3430, 3062, 3044 Amount=2, 3085 RemainingUses=200, 3070}, 3502}, 
+               6 Content={3504 Content={3507 String="Xerox Strike\nVenore" Editor="Elite Adicct"}, 3502}, 
+               7 Content={3502}}

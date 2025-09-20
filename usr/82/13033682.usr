@@ -1,0 +1,55 @@
+ID              = 13033682
+Name            = "Edlyn Knight Elf"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,0-87-0-87)
+CurrentOutfit   = (128,0-87-0-87)
+LastLogin       = 1144550363
+LastLogout      = 1144550387
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32229,6]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14088,0,17600,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2016,3000,6400,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,50,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6659,1100,7140,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,186,1100,232,50)
+Skill = (9,32,0,10,0,0,0,0,0,0,0,3856,1100,3977,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,29}
+QuestValues = {(59,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3054 RemainingUses=163},
+               4 Content={3377},
+               5 Content={3305},
+               6 Content={3425},
+               7 Content={3559},
+               8 Content={3551}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3456, 3504 Content={2653, 2667, 2656, 2656, 2659, 2667, 2656, 2656, 2656, 3507 String="Edlyn Knight Elf\nAb'dendriel\n" Editor="Arcturus the knight"}, 3114 Amount=1, 3507 String="miguel soy yo te sake todas las cosas\npor ke ya mero no eres premy\n" Editor="Arcturus the knight", 3504 Content={3507 String="Espernamecosin\nab'dendriel" Editor="Kaobin Haul"}, 3504 Content={3507 String="keko the devil\nab'dendriel" Editor="Keko the devil"}, 3504 Content={3507 String="Edlyn Knight Elf\nAb'dendriel" Editor="Arcturus the knight"}, 3504 Content={3507 String="Edlyn knight elf\nAb'dendriel" Editor="Arcturus the knight"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Shadow Caves 18\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2920 SavedExpireTime=264, 2854 Content={2969 KeyNumber=3008, 3066, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2969 KeyNumber=3008, 3054 RemainingUses=200, 2969 KeyNumber=5010}}}, 
+               5 Content={3502}, 
+               6 Content={3502}}

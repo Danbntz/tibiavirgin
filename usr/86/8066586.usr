@@ -1,0 +1,51 @@
+ID              = 8066586
+Name            = "Old Aramis"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,116-95-114-115)
+CurrentOutfit   = (133,116-95-114-115)
+LastLogin       = 1134673892
+LastLogout      = 1134673901
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,13116,0,17600,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,42800,3000,64000,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,50,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,545,545,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,100558,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,58,0,10,0,0,0,0,0,0,0,50347,1100,52859,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9351,1100,9757,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(28,1),(30,1),(59,1),(257,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={2853}},
+               4 Content={3361},
+               10 Content={2856}}
+
+Depots      = {0 Content={2992 Amount=4, 3209, 3287 Amount=1, 3091 SavedExpireTime=0, 3029 Amount=1, 3032 Amount=1, 3433, 3032 Amount=1, 3327, 3330, 3351, 3732 Amount=1, 3032 Amount=1, 3450 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1450 gold\nfor your house \"Alai Flats, Flat 16\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="Old Aramis\nab'dendriel"}, 3504 Content={3507 String="old aramis\nab'dendriel"}, 3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               6 Content={3031 Amount=85, 3483, 3349, 3502 Content={}}, 
+               7 Content={3042 Amount=1, 3033 Amount=1, 3504 Content={3077, 3046 SavedExpireTime=2999, 3425, 3317, 3504 Content={2970 KeyNumber=4601, 2969 KeyNumber=4603, 3457}, 3507 String="old aramis\nankrahmun"}, 3502 Content={}}}

@@ -1,0 +1,58 @@
+ID              = 8091254
+Name            = "Sockethe"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-114-114-0)
+CurrentOutfit   = (130,0-114-114-0)
+LastLogin       = 1116381889
+LastLogout      = 1116381894
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,20291,0,23200,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,166400,1100,174690,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,93,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8020,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,820,1800,1118,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,4874,1800,6824,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,10,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,63,0,10,0,0,0,0,0,0,0,31631,1100,34174,20)
+Skill = (14,0,1200,0,0,0,1035,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,5,8,16,20,42,76,88}
+QuestValues = {(19,1),(21,1),(22,1),(23,1),(27,1),(58,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(106,1),(107,1),(109,1),(111,1),(112,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3083 RemainingUses=138},
+               3 Content={2869 Content={3003, 3578 Amount=35}},
+               4 Content={},
+               5 Content={3421},
+               6 Content={3316},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="sockethe\ncarlin"}, 2469 Content={}, 3502 Content={3419, 3324, 3457, 3425, 3658, 3503 Content={3507 String=""}, 3557, 3075, 3578 Amount=64, 3578 Amount=100, 3578 Amount=100, 2973 KeyNumber=3520, 2955, 3093 SavedExpireTime=0, 3003}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={2393, 3483, 3046 SavedExpireTime=0, 3049 SavedExpireTime=0, 3311, 3351, 3590 Amount=2, 3425, 3077, 2393, 3042 Amount=4, 3033 Amount=1, 2393, 3330, 3084 RemainingUses=250, 2393, 3577 Amount=100, 2393, 2393, 2393, 3673, 2393, 3349, 2472 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3582 Amount=2}, 2393, 2393, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2393, 3449 Amount=10, 3008, 2393, 3271, 3301, 3603 Amount=1, 3572, 3098 SavedExpireTime=0, 3673, 3050 SavedExpireTime=0, 2472 Content={3031 Amount=4, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3504 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2469 Content={2866 Content={}, 2866 Content={}, 2866 Content={}}}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2659, 2469 Content={}, 2857 Content={2853 Content={3578 Amount=69}, 2914 SavedExpireTime=1997}, 3027 Amount=2, 2469 Content={}, 3583 Amount=4, 3588 Amount=15, 3026 Amount=1, 2469 Content={2914 SavedExpireTime=0, 3412}, 3421, 3330, 3084 RemainingUses=250, 2469 Content={3083 RemainingUses=97}, 3035 Amount=100, 2667, 2659, 2667, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 2, Flat 01\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="sockethe\ndarashia\n"}, 3502 Content={3483, 3457}}, 
+               6 Content={3502 Content={}}}

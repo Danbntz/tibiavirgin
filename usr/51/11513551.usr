@@ -1,0 +1,53 @@
+ID              = 11513551
+Name            = "Thor Kelux"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,58-114-114-0)
+CurrentOutfit   = (128,58-114-114-0)
+LastLogin       = 1135994803
+LastLogout      = 1135994946
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32683,31681,8]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,6469,0,9300,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2082,1100,3360,1600)
+Skill = (2,163,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,25,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3838,1500,4925,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,124,1800,181,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,7,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2146,1800,3763,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,64,1800,140,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,101,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,323,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,57,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,35,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,20}
+QuestValues = {(21,1),(22,1),(23,1),(59,1),(217,3),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3354},
+               2 Content={3085 RemainingUses=12},
+               3 Content={2853 Content={3003, 2920, 2920, 3308, 3031 Amount=49, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3327},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=315}}
+
+Depots      = {3 Content={3425, 3416, 2869 Content={3454, 2867 Content={3452, 3470, 3012, 3464, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses."}}, 3551, 3012, 3377, 2911 SavedExpireTime=2179, 3483, 4871, 3502 Content={3031 Amount=100, 3031 Amount=100}}}

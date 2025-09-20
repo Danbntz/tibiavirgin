@@ -1,0 +1,57 @@
+ID              = 7955206
+Name            = "Lady zenaida"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (140,114-76-10-95)
+CurrentOutfit   = (140,114-76-10-95)
+LastLogin       = 1148013915
+LastLogout      = 1148013918
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32620,32741,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,333245,0,368300,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,194228,1400,222775,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,114,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,21328,1100,22225,100)
+Skill = (7,62,0,10,0,0,0,0,0,0,0,44506,1100,46574,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,282,1200,372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,16,1200,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,61,1200,109,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1436,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,761,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,151,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,20,29,42,44,51,76,79}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(32,1),(33,1),(34,1),(72,1),(73,1),(74,1),(75,1),(87,1),(96,1),(97,1),(98,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3084 RemainingUses=182},
+               3 Content={2869 Content={3446 Amount=10, 3471, 3577 Amount=5, 3046, 3446 Amount=34, 3035 Amount=2, 3003, 3421, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3031 Amount=26, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3447 Amount=100}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=73}}
+
+Depots      = {0 Content={3504 Content={3504 Content={2865 Content={3504}, 3507 String="kibat sina\nab'dendriel"}, 3507 String="lady zenaida\nthais"}, 3504 Content={3507 String="lady zenaida\nthais"}, 3504 Content={2818 String="Identification Card\nsir: kibat sina\nYou are verga.", 3507 String="lady zenaida\nthais\n"}, 3504 Content={3504 Content={3507 String="lady zenaida\nthais"}, 3504 Content={3507 String="lady zenaida\nthais"}, 3504 Content={3507 String="lady zenaida\nthais"}, 3504 Content={3507 String="lady zenaida\nthais"}, 3504, 3504 Content={3507 String="lady zenaida\nthais"}, 3504 Content={3507 String="lady zenaida\nthais"}, 3504 Content={3507 String="lady zenaida\nthais\n"}, 3504 Content={3104, 3448 Amount=15, 2981, 3507 String="lady zenaida\nthais\n"}, 3504 Content={3507 String="lady zenaida\nthais\n", 3507 String="lady zenaida\nthais"}}, 2857 Content={3457, 3277 Amount=7, 3353, 3350, 3483, 3003}, 3502 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 2471 Content={2868 Content={3582 Amount=11, 3588 Amount=50}, 3077, 3084 RemainingUses=24, 3084 RemainingUses=250, 3084 RemainingUses=250}}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3449 Amount=9, 3504 Content={3097, 3030 Amount=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3507 String="lady zenaida\nab'dendriel"}, 3504 Content={3504 Content={2871 Content={3572, 3659, 3658, 3061, 2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!", 3097, 3082 RemainingUses=50, 3076, 3290, 3469, 3051, 3046 SavedExpireTime=2991, 2826 String="The tibian world-wonders!\nThe known and aknowledged world-wonders are:\nThe colossus of Kazordoon\nThe black pyramid of Dracoria\nThe great lighthousetree of Ab'dendriel\nThe thorntower of Shadowthorn\nThe undergroundcity of Mintwalin\nThe black city of skulls in hellsgate\nThe great lava falls in hellsgate\nThe pyramid city of Ankrahmun", 3083 RemainingUses=150, 3083 RemainingUses=136, 3085 RemainingUses=200, 3046, 3084 RemainingUses=250, 3084 RemainingUses=250, 3085 RemainingUses=200}, 2865 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=96, 3446 Amount=24, 3492 Amount=100, 3492 Amount=56}, 2867 Content={2865 Content={2865, 2865 Content={2865 Content={3054 RemainingUses=22}, 3492 Amount=65, 2969 KeyNumber=3033, 3003}, 3457}, 2866 Content={3349, 3349, 3349, 2865, 2868, 2867, 2871}, 2854 Content={2853 Content={3471, 3483, 3472, 3483}}, 2854 Content={3350, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3483, 3349}}}, 3504 Content={3044 Amount=4, 3589 Amount=26, 3034 Amount=32, 3042 Amount=30, 3032 Amount=15, 3026 Amount=4, 3039, 3033 Amount=17, 3028 Amount=1, 3029 Amount=5}, 3507 String="lady zenaida\nab'dendriel"}, 2991, 3447 Amount=100, 3097, 2874, 3457, 3084 RemainingUses=250, 3447 Amount=100, 3506 String="Lady zenaida\nAb'Dendriel\n\nTe invito a mi boda este Juevez a las\n 7:00 Pm\n\nNo faltes  Lugar Senha\n\nHuku y Kelia", 3502 Content={3504 Content={3504 Content={3507 String="lady zenaida\nab'dendriel"}, 3504 Content={3507 String="lady zenaida\nab'dendriel\n"}, 3507 String="lady zenaida\nab'dendriel\n"}, 3453, 3457}}, 
+               4 Content={3447 Amount=15, 3504 Content={3035 Amount=5, 3507 String="lady zenaida\nedron"}, 3504 Content={3446 Amount=100, 3350, 3031 Amount=5, 3446 Amount=100, 3507 String="lady zenaida\nedron\n"}, 3457, 3504 Content={3507 String="lady zenaida\nedron\n"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="lady zenaida\ndarashia"}, 3504 Content={3507 String="lady zenaida\ndarashia\n"}, 3504 Content={3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 01\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3507 String="lady zenaida\ndarashia"}, 3504 Content={3504 Content={3507 String="lady zenaida\ndarashia"}, 3504 Content={3507 String="lady zenaida\ndarashia\n"}, 3507 String="lady zenaida\ndarashia"}, 3449 Amount=3, 3457, 3003, 3504 Content={2866 Content={3308}, 3507 String="lady zenaida\ndarashia\n\n"}, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               8 Content={3502}}

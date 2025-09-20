@@ -1,0 +1,57 @@
+ID              = 13754553
+Name            = "Cerebelo Humano"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,1-114-57-116)
+CurrentOutfit   = (131,1-114-57-116)
+LastLogin       = 1148110717
+LastLogout      = 1148115630
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32332,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,156501,0,179400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,75655,3000,193600,1600)
+Skill = (2,410,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,110,110,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,845,845,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,147544,1100,155247,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,62,0,10,0,0,0,0,0,0,0,75619,1100,77623,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,125,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,6,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,46,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(28,1),(30,1),(32,1),(33,1),(34,1),(69,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2853 Content={3577 Amount=1, 3031 Amount=17, 3446 Amount=1, 3578 Amount=2, 3031 Amount=100, 2853 Content={3350, 3459, 3452, 3456}, 2901, 3588 Amount=6}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3374, 3300, 3502}, 
+               2 Content={3266, 3425, 3291, 3384, 3297, 3357, 3362, 3377, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3074, 3504 Content={3504}, 3502 Content={2854 Content={3723 Amount=100, 3582 Amount=4, 3577 Amount=36, 3585 Amount=2, 3598 Amount=10, 3602 Amount=10}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3446 Amount=97, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2870 Content={2857 Content={3046, 3077, 3084 RemainingUses=250}, 2857 Content={3008, 3046, 3077, 3084 RemainingUses=250}, 3084 RemainingUses=250, 3012, 3027 Amount=2, 3026 Amount=1, 3097, 3050, 3092, 3147, 3056 RemainingUses=200}, 2871 Content={3031 Amount=4, 3031 Amount=100, 3031 Amount=100, 3035 Amount=22}, 2853 Content={3292, 3003, 3003, 3457, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3503 Content={3003, 2920 SavedExpireTime=593, 3264}, 3483, 3457}, 3505 String="este es nuestro nuevo UH meker we\n\n3236371\nd25s6adj\n\ns6kgoavs\n\n4609941/s6kgoavs" Editor="Cerebelo Humano"}}, 
+               3 Content={3502 Content={2969 KeyNumber=4603, 2969 KeyNumber=3033, 3492 Amount=25, 3267, 3384, 3358, 3457, 3283}}, 
+               6 Content={3502}}

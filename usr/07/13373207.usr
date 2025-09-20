@@ -1,0 +1,54 @@
+ID              = 13373207
+Name            = "Paola alejandra of zanera"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (137,78-132-132-114)
+CurrentOutfit   = (137,78-132-132-114)
+LastLogin       = 1144709187
+LastLogout      = 1144709265
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32852,31909,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,108051,0,116000,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,72175,1400,78644,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11530,1100,12109,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18980,1100,19579,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,502,1200,645,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,291,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,380,1100,427,20)
+Skill = (14,0,1200,0,0,0,183,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,12,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,51}
+QuestValues = {(16,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(96,1),(97,1),(98,1),(115,1),(125,1),(126,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2867 Content={3031 Amount=5, 3585 Amount=1, 3447 Amount=60, 3031 Amount=100, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3277 Amount=10},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=100}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3447 Amount=23, 3425, 3031 Amount=100, 3577 Amount=1, 3031 Amount=100, 3578 Amount=3, 3457, 3502}, 
+               3 Content={3504 Content={2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="paola alejandra of zanera\nab'dendriel" Editor="Himus Zilix"}, 3502 Content={2854 Content={3602 Amount=6, 3582 Amount=2, 3492 Amount=39, 3588 Amount=36, 3577 Amount=12, 3585 Amount=4, 3590 Amount=3, 3595 Amount=2}, 2867 Content={3457, 3377, 3377, 3003, 3308, 3456, 3377, 3456, 3008, 3017, 3042 Amount=1, 3092, 3050, 2970 KeyNumber=3802, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 3085 RemainingUses=166}, 2854 Content={3507 String="te amo gracias:)" Editor="Paola alejandra of zanera", 3507 String="yo te amo y nunk lo are te amo mucho " Editor="Paola alejandra of zanera", 3031 Amount=22, 3507 String="te amo eres mi vida amor te extraño mucho" Editor="Paola alejandra of zanera", 3507 String="21:04 Paola alejandra of zanera: 21:04 You advanced from Level 18 to Level 19. " Editor="Paola alejandra of zanera", 3351, 3035 Amount=23}, 2865 Content={3447 Amount=4, 3349, 3446 Amount=61, 3446 Amount=100, 1781 Amount=5, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3350}, 2868 Content={3282, 3282, 3282, 3282, 3282, 3282, 3282, 3266, 3425, 3425, 3266, 3425, 3266, 3266, 3266, 3266, 3266, 3425}}}}

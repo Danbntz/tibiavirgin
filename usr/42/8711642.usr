@@ -1,0 +1,56 @@
+ID              = 8711642
+Name            = "Don'Pestinha"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (130,82-81-0-81)
+CurrentOutfit   = (130,82-81-0-81)
+LastLogin       = 1127054454
+LastLogout      = 1127055989
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,33660,0,37800,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,26320,1400,38165,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,15,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,10920,1100,12109,100)
+Skill = (7,47,0,10,0,0,0,0,0,0,0,10625,1100,10921,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,265,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1706,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,936,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(93,1),(94,1),(95,1),(99,1),(115,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={},
+               3 Content={2853 Content={3430, 3534 Amount=10, 3533 Amount=8, 3136, 3138, 3559, 3375, 3504 Content={3136, 3504 Content={3507 String="Edow tari\ncarlin", 3507 String="Lord axeiv dark\ncarlin"}, 3268}}},
+               4 Content={3377},
+               5 Content={},
+               6 Content={3268},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3447 Amount=11}}
+
+Depots      = {1 Content={3349, 3446 Amount=38, 3362, 3046 SavedExpireTime=2986, 3017, 3277 Amount=5, 3505 String="portugues                           tradução\n\noi voce vai demorar ai na cav ? = hi you will be long oh in the cav?\neu posso ser o proximo ?        = can I be the neighbor?\n\npor favor da licença ai to na cav = please of the license oh to in the cav\ndepois eu te chamo para ser o proximo beleza? = then I call you to be the next beauty\nnao sei se eu vo demora = I don't know if me vo is long\no manda o cara sai da minha cav por favor = it orders him the guy he please leaves my cav\n", 2865 Content={3374, 3357, 3377, 3377, 3377, 3377, 3457, 3483, 3362}, 3502 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3506 String="Lord Arbuzone\nCarlin\n\nZAMKNIJ RYJ TY PSI KUTASIE !!\nTY SIE WYCHOWALES W SMIETNIKU I ODDAWAJ TE 1000 GP !!!!!\n\n", 3277 Amount=11, 3384, 2920 SavedExpireTime=0, 3483}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

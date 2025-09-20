@@ -1,0 +1,53 @@
+ID              = 8805863
+Name            = "Orimu Sider"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,81-77-81-81)
+CurrentOutfit   = (128,81-77-81-81)
+LastLogin       = 1146343640
+LastLogout      = 1146344199
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32350,32219,6]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,191001,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,73610,3000,193600,1600)
+Skill = (2,415,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,112,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,50721,1100,53763,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,166,1400,213,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,129,1100,165,50)
+Skill = (9,54,0,10,0,0,0,0,0,0,0,35649,1100,35945,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,65,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,710,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(55,1),(58,1),(59,1),(99,1),(100,1),(106,1),(107,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3282},
+               7 Content={3558},
+               8 Content={3551},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={2865 Content={3282, 3003, 3093 SavedExpireTime=254, 3279, 3074, 3004, 3092, 3425, 3351, 3351, 3050 SavedExpireTime=1799}, 2854 Content={3457, 3504 Content={3504, 3504 Content={3507 String="Orimu Sider\nThais" Editor="Chris Kenned"}, 3504, 3504 Content={3507 String="Luke Piojoso\nThais\n" Editor="Feldex"}}, 3504 Content={3504, 3504}, 3456}, 3502 Content={2854 Content={2854 Content={3031 Amount=46}, 2857 Content={3483, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 2969 KeyNumber=3033}, 2867 Content={2854 Content={2906, 3046, 3124, 3046, 3123, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3115, 3077, 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2906, 2991, 3740 Amount=1}, 3054 RemainingUses=200, 3054 RemainingUses=200, 3012, 3056 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3054 RemainingUses=176}, 2868 Content={2854, 2854, 2854}, 2854 Content={3377, 3565, 3313, 2854 Content={3336, 3289}}, 2854 Content={3457}, 2854 Content={3093, 3093, 3097, 3093, 3093 SavedExpireTime=1763, 3097, 3093}}, 2853 Content={3504 Content={3504}, 3504 Content={2981, 2983, 3655, 3661, 3507 String="orimu sider\nthais" Editor="Max Sider"}, 3504 Content={2920, 2920, 2920 SavedExpireTime=600, 2920, 2920}, 3504 Content={3504 Content={3504}}, 2471 Content={3147, 3483, 2917, 3457, 3505, 2839, 2839, 3483, 3483, 2911}, 2471 Content={3455, 3483, 3451, 3466, 3464, 3470, 3293, 3308, 3451, 3462, 3454}}, 2854 Content={3579 Amount=1, 3585 Amount=15}}}, 
+               1 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

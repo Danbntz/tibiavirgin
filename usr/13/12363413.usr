@@ -1,0 +1,57 @@
+ID              = 12363413
+Name            = "Clang Roler"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,0-132-114-0)
+CurrentOutfit   = (129,0-132-114-0)
+LastLogin       = 1148248207
+LastLogout      = 1148248227
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32528,31794,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,109020,0,116000,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,103517,1100,114244,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,395,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,25872,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,16,2000,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,460,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,5835,1500,8549,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1039,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,15,19,20,25,26,27,29,44}
+QuestValues = {(18,1),(46,1),(54,1),(60,1),(67,1),(68,1),(70,1),(72,1),(73,1),(74,1),(75,1),(113,1),(114,1),(125,1),(126,1),(153,1),(190,1),(191,1),(223,1),(253,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3054 RemainingUses=2},
+               3 Content={2854 Content={3582 Amount=10, 3003, 3031 Amount=18, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}},
+               4 Content={3370},
+               5 Content={3072},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3075}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=61, 3457, 3035 Amount=4, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 
+               1 Content={3504 Content={2854 Content={2970 KeyNumber=4601, 3740 Amount=1, 3264}, 3507 String="clang roler\ncarlin" Editor="Clang Roler"}, 3504 Content={3003, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 2854, 3507 String="clang roler\ncarlin" Editor="Clang Roler"}, 3502 Content={2872 Content={3147, 3104, 3147, 3147, 3147, 3147, 3147, 3147, 3503 Content={3174 Charges=5, 3174 Charges=5, 3188 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3050 SavedExpireTime=1777, 2870 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2866 Content={3147, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3147, 3147}, 2867 Content={3190 Charges=4, 3189 Charges=1}, 2869 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 3446 Amount=5, 3740 Amount=1, 2865 Content={3174 Charges=2, 3174 Charges=2, 3174 Charges=5}, 3739 Amount=1, 3045 RemainingUses=198, 2854 Content={3147, 3147, 3147, 3147, 3147}, 3492 Amount=5, 2473 Content={3035 Amount=80, 3031 Amount=24, 3483, 3004, 2970 KeyNumber=4503}, 3301, 2955, 3456, 2656, 2659, 2853 Content={3457, 2853 Content={3083 RemainingUses=150, 3029 Amount=2, 3097}, 2853 Content={3028 Amount=2}, 3593, 2815, 3059}, 2473, 2868 Content={2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2901, 2901, 2901, 2901, 2901}, 2873 ContainerLiquidType=2, 2893, 2659, 3330, 2865 Content={3483, 2857 Content={3104, 3046, 3077, 3084 RemainingUses=250}, 3425, 3027 Amount=1, 3074, 3026 Amount=3, 3552, 3264, 2865 Content={3503 Content={3507}}, 3483, 2874, 3457}, 2473 Content={3291, 3308, 3308, 3456, 2991, 3056 RemainingUses=200, 3308, 3377, 3059}, 2473 Content={3578 Amount=24, 3582 Amount=14, 3492 Amount=9, 3492 Amount=100, 3606 Amount=35, 2874, 3579 Amount=12}, 3504 Content={3504 Content={3362, 2473 Content={3074}, 3552, 3375, 3075, 3372, 3377, 3425, 3507 String="clang roler\ncarlin" Editor="Retivor"}, 3504 Content={3503 Content={3507}, 3507 String="clang roler\ncarlin" Editor="Barbarete"}, 2871 Content={3447 Amount=39, 3448 Amount=4, 3446 Amount=9, 3585 Amount=4}, 3507 String="CLANG ROLER \nCARLIN" Editor="Clang Roler"}, 2856 Content={2659, 3097 SavedExpireTime=3590, 3059}}}, 
+               3 Content={3502 Content={3421, 3413, 3582 Amount=12, 3578 Amount=8, 2854 Content={3147}}}, 
+               6 Content={3502}}

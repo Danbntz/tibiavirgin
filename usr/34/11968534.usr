@@ -1,0 +1,55 @@
+ID              = 11968534
+Name            = "Knight Gelipe"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-132-114-0)
+CurrentOutfit   = (129,114-132-114-0)
+LastLogin       = 1148154600
+LastLogout      = 1148154603
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32692,32103,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,56474,0,57600,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,53322,1100,57519,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,275,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8608,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1085,2000,1550,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,162,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,84,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,672,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,55,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,11,20,25,26,29,44}
+QuestValues = {(14,1),(16,1),(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(28,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(96,1),(97,1),(98,1),(113,1),(114,1),(223,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2854 Content={3456}},
+               4 Content={3377},
+               5 Content={3074},
+               6 Content={3425},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="darth aguirre\nthais" Editor="Darth Aguirre"}, 3504, 3504 Content={3507 String="Andariel Druid \nThais " Editor="Typhoeux"}, 3504 Content={2853 Content={2853 Content={2853}}, 3507 String="ashia zata\nthais\n\n" Editor="Ashia Zata"}, 3504 Content={3507 String="Soul-Reaverr\nThais" Editor="Soul Reaver"}, 3502}, 
+               1 Content={3504, 3504 Content={3507 String="knight gelipe\ncarlin" Editor="Mata Tamales"}, 2874, 3502}, 
+               2 Content={3031 Amount=40, 3035 Amount=1, 2970 KeyNumber=3802, 3502}, 
+               3 Content={2853 Content={2871, 3454, 2989, 2989, 3059, 2991, 3740 Amount=2, 3736 Amount=1}, 3093 SavedExpireTime=410, 2854 Content={2866 Content={2867 Content={2865 Content={2869 Content={2865 Content={2868 Content={2865 Content={2866 Content={2865 Content={2865 Content={2868 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2854 Content={2865 Content={2854 Content={2869 Content={2865}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2867 Content={3059, 3198 Charges=5, 3097 SavedExpireTime=993, 3051 SavedExpireTime=471, 3092, 3148 Charges=3, 3147, 3147, 3046 SavedExpireTime=2993, 3448 Amount=67}, 2857 Content={2857, 2859, 2860, 2861, 2864}, 2868 Content={3308}, 3504 Content={3076, 3076}, 2869 Content={2970 KeyNumber=4601, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2972 KeyNumber=3304, 2969 KeyNumber=3302}, 2872 Content={2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=4}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3502 Content={1781 Amount=1, 2865 Content={3425, 3305, 3425, 3425}, 2866 Content={2868}, 3311, 3447 Amount=66, 3449 Amount=9, 3287 Amount=1, 1781 Amount=5, 3350, 3425, 3425}}, 
+               6 Content={3504 Content={3507 String="knight gelipe\nvenore" Editor="Pancho-Villa"}, 3369, 3502}}

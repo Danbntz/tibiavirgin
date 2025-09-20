@@ -1,0 +1,48 @@
+ID              = 8081698
+Name            = "Imnos"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-76-114)
+CurrentOutfit   = (129,114-114-76-114)
+LastLogin       = 1138451057
+LastLogout      = 1138451115
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32898,32034,6]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,44397,0,47000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,49062,1400,55031,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,140,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,5817,1100,6400,100)
+Skill = (7,38,0,10,0,0,0,0,0,0,0,4293,1100,4458,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,227,1200,268,50)
+Skill = (9,24,0,10,0,0,0,0,0,0,0,3548,1200,3601,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,182,1200,268,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,310,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,194,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,15,20,29,30,42,44,48,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(35,1),(37,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2867},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3457, 3003, 3447 Amount=8, 3003, 3285, 2920 SavedExpireTime=0, 3604 Amount=10, 3504 Content={3507 String="Lord of Mystical\nthais\n"}, 3504 Content={3507 String="Imnos \nThais"}, 2874 ContainerLiquidType=0, 2853 Content={}}}, 
+               3 Content={3502 Content={3504 Content={2853 Content={3147, 3577 Amount=3, 3031 Amount=40}, 3507 String=" imnos\n Ab'dendriel"}, 2853 Content={3354, 3410, 3358, 3358}}}, 
+               6 Content={3502 Content={3275, 3349, 3421, 3277 Amount=8, 2992 Amount=5, 3008, 2949, 3552, 2854 Content={2854 Content={2854 Content={3059, 3148 Charges=2, 2854 Content={2874, 2854 Content={3410, 3410, 2854 Content={3316, 3355, 2949, 2920, 2920, 3507 String="jag vill pk med dig =)\n", 3457, 3003, 3003, 3457, 2955, 2880, 3483, 2853 Content={2920, 2920, 2920 SavedExpireTime=180, 2920, 2920, 2920, 2920, 2920}, 3738 Amount=8}, 2854 Content={3504 Content={3457, 3565, 3463, 2854 Content={2854 Content={2869, 3483}, 3504 Content={2853 Content={3076}, 2867 Content={2853 Content={3277 Amount=8, 3421, 2867, 2914 SavedExpireTime=1995}, 2973 KeyNumber=3520, 3565, 3012, 3285}, 2667, 3507 String="Lord axeiv Dark\nthais\n"}, 3504 Content={3507 String="Imnos\nvenore\n"}, 2854 Content={2868 Content={2854 Content={3012, 2473 Content={3534 Amount=21, 3533 Amount=12, 2853 Content={3548 Amount=7, 3536, 3537, 3538, 3539, 3540, 3538, 3537}, 2853 Content={3536, 3535, 3535, 3535, 3535, 3535, 3535, 3535}, 3547 Amount=7, 3504 Content={3507 String="Estin \nThais"}, 2471, 2469}}, 2854 Content={3453, 2875, 3465, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2881, 2854 Content={2876, 1781 Amount=26, 3604 Amount=2, 3603 Amount=2, 3457, 2876, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3293}, 2920 SavedExpireTime=488}, 2853 Content={2920 SavedExpireTime=211, 2920 SavedExpireTime=463, 3003, 3430, 2920, 3012, 3483}, 2853 Content={1781 Amount=2, 3012, 3003, 2920 SavedExpireTime=155, 2920 SavedExpireTime=593, 2920 SavedExpireTime=307, 2920 SavedExpireTime=482}, 2853 Content={3465, 3547 Amount=4, 3548 Amount=4, 2866 Content={3147}, 3565, 2853 Content={3465, 2893 ContainerLiquidType=2}}, 2856 Content={2875 ContainerLiquidType=2, 2876}, 2901 ContainerLiquidType=3, 2901 ContainerLiquidType=2, 2920 SavedExpireTime=593, 3448 Amount=2, 3483, 3603 Amount=10, 3003, 3559, 3483, 3003}, 3059, 3465, 3465, 3465, 3465, 2893 ContainerLiquidType=2, 2922 SavedExpireTime=170, 3003, 3457, 3003, 2471 Content={3546, 3535, 3541, 3541, 3541, 3541, 3541, 3541, 3541, 3541, 3542, 3543, 3544, 3533 Amount=12, 3534 Amount=3}, 3542, 3545, 3544, 3543}, 2854 Content={3003, 2853, 3003, 3045 RemainingUses=200, 3457, 3003, 3375, 3093, 3050 SavedExpireTime=1798, 3003}, 3504 Content={3059, 3465, 3012, 3507 String="Imnos\nThais"}, 3003, 3003, 3448 Amount=32, 3003, 1781 Amount=2, 3003}, 2876, 3504 Content={3552, 2876, 3658, 3507 String="Imnos\nVenore"}, 3507 String="imnos\nvenore"}, 3507 String="XD XD XD LOL\n", 2920 SavedExpireTime=570, 2880, 2920 SavedExpireTime=10, 2814 String="I hate all humans! I will build a home and stay underground forever, they don't deserve my return!\n\nThe Beholders are my only friends. They respect me. I belong to them now. \nIn my dreams they have shown me the path to this underground base. When I sleep I can hear them whispering in my mind promises about eternal existence and immoratlity. My friends can feel myhunger for revenge on humanity and will supply me with the means to punish them an all living beeings. \nNever again i will wear that fancy armor and black shall be the color of my revenge", 3059, 2656, 3012, 2869 Content={2854 Content={2865}}}}, 2854 Content={2920, 2920, 2920, 2911 SavedExpireTime=2893, 2911 SavedExpireTime=2999, 2920 SavedExpireTime=115, 3046 SavedExpireTime=2998, 3285, 3285}, 3059, 2924 SavedExpireTime=172, 3003, 3003, 2869 Content={3492 Amount=81, 3492 Amount=100, 3059, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3003, 2914 SavedExpireTime=648, 2874, 2874, 2906, 2969 KeyNumber=5000}, 2874, 2854 Content={3003, 3147}, 3147, 3003}}}, 3003, 3457, 3504 Content={2854 Content={3003, 3285, 3492 Amount=2, 2920, 2920 SavedExpireTime=61, 3003}}, 3003, 3003, 3504 Content={3507 String="Imnos\nVenore\n", 3448 Amount=6, 3289, 3059, 2854 Content={3503, 3059, 3285, 3289, 3448 Amount=3, 2874, 2874, 2874, 2874, 2872, 3447 Amount=15, 3316, 3147, 3289, 3289, 3583 Amount=3}}, 3504 Content={3276, 3447 Amount=60, 3507 String="imnos\nvenore"}, 3504 Content={3507 String="imnos\nvenore"}, 3504 Content={3507 String="imnos\nvenore"}, 3504, 3285}}}}

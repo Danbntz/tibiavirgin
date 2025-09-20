@@ -1,0 +1,58 @@
+ID              = 8574883
+Name            = "Leonardo Blackheart"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,39-22-1-20)
+CurrentOutfit   = (133,39-22-1-20)
+LastLogin       = 1147569917
+LastLogout      = 1147573683
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33218,31755,6]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,346877,0,368300,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,210275,1400,222775,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,140,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,56,0,10,0,0,0,0,0,0,0,82494,1100,87197,100)
+Skill = (7,70,0,10,0,0,0,0,0,0,0,91315,1100,100178,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,97,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,24,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1289,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2112,1100,2183,20)
+Skill = (14,0,1200,0,0,0,997,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,10,0,1,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,11,20,29,30,42,44,51,76,79}
+QuestValues = {(46,1),(59,1),(86,1),(87,1),(111,1),(112,1),(124,1),(190,1),(191,1),(216,1),(217,3),(332,1)}
+Murders     = {1147570249}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2865 Content={3446 Amount=100, 3446 Amount=100, 3582 Amount=1, 3035 Amount=1, 2866 Content={3160 Charges=1}}},
+               4 Content={3380},
+               6 Content={3349},
+               7 Content={3557},
+               10 Content={3446 Amount=95}}
+
+Depots      = {0 Content={3504 Content={3507 String="leonardo blackheart\nthais" Editor="Shadow Spinal"}, 3447 Amount=28, 3350, 3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3504 Content={3457, 2854, 3507 String="Leonardo Blackheart\nkazordoon" Editor="Shadow Spinal"}, 3502}, 
+               3 Content={3504 Content={3507 String="leonardo blackheart\nab'dendriel" Editor="Shadow Spinal"}, 3305, 2969 KeyNumber=3008, 3502 Content={2969 KeyNumber=3033, 3483, 3277 Amount=59, 2815 String="Las cosas que dejaste em me casa.\n\ngood luck, i wait with u'll be happy\n\n4ever friends...thx for all.\n\nLuciana/lorenzza/hakadell\n\ntibia 30.08.05", 3377, 3447 Amount=100, 3447 Amount=100, 3447 Amount=54, 3083 RemainingUses=150}}, 
+               4 Content={3413, 3305, 3031 Amount=69, 3457, 3277 Amount=7, 3502 Content={2869 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2871 Content={3084 RemainingUses=112}, 4871, 3457, 4871, 3085 RemainingUses=175, 2992 Amount=5, 2969 KeyNumber=3033}}, 
+               5 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="leonardo blackheart\nport hope" Editor="Shadow Spinal"}, 3502}}

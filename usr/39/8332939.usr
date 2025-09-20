@@ -1,0 +1,52 @@
+ID              = 8332939
+Name            = "Arcto Zykee"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1144872746
+LastLogout      = 1144873127
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31686,6]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,39244,0,47000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,47213,1400,55031,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,40,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14271,1100,14863,100)
+Skill = (7,52,0,10,0,0,0,0,0,0,0,16758,1100,17772,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,203,1200,268,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,165,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,324,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1469,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,20,29,51}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(28,1),(30,1),(58,1),(59,1),(98,1),(121,1),(208,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3355},
+               3 Content={2853 Content={3160 Charges=1, 3504 Content={3507 String="darkedea\nab'dendriel" Editor="Chinok of gheider"}, 3504 Content={3507 String="bowtra tomiraz\nab'dendriel" Editor="Bowtra tomiraz"}, 3504 Content={3507 String="darkedea\nab'dendriel" Editor="Erak'saint"}, 3504 Content={3507 String="Archer Grifo\nAb'dendriel" Editor="Slayfer Of The Dragon"}, 3031 Amount=23}},
+               6 Content={3350},
+               10 Content={3447 Amount=66}}
+
+Depots      = {0 Content={3504 Content={3507 String="arcto zykee\nthais"}, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3056 RemainingUses=200, 3004, 3004, 2854, 3377, 2865, 3147, 3147, 3147, 3147, 3504 Content={3507 String="Arcto Zykee\nAb'dendriel", 2867 Content={2865 Content={3349, 3483, 3277 Amount=10, 3350, 3448 Amount=17}}}, 3504 Content={3507 String="Arcto zykee\nab'dendriel\n\n" Editor="Arcto Zykee"}, 3504 Content={3504 Content={3448 Amount=4, 3050, 3483, 3412, 3277 Amount=9, 3457, 3507}, 2856 Content={2867 Content={3155 Charges=1, 3730 Amount=1, 3285, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3598 Amount=4}}, 3507 String="arcto zykee\nab'dendriel"}, 2854 Content={3050 SavedExpireTime=1370, 2970 KeyNumber=4601}, 3502 Content={3031 Amount=20, 3031 Amount=100, 2854 Content={3492 Amount=71}, 2870 Content={3349}}}, 
+               6 Content={3502 Content={}}}

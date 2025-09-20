@@ -1,0 +1,53 @@
+ID              = 11168518
+Name            = "Cruzeirder"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-0-0-114)
+CurrentOutfit   = (128,114-0-0-114)
+LastLogin       = 1146174831
+LastLogout      = 1146174843
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,84820,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,45759,3000,64000,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,29491,1100,29912,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,51,0,10,0,0,0,0,0,0,0,25675,1100,26881,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,243,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(49,1),(58,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3012},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3268},
+               8 Content={3552},
+               10 Content={2853 Content={2924 SavedExpireTime=265, 3003}}}
+
+Depots      = {0 Content={3504 Content={3507 String="cruzeirder\nthais"}, 3504 Content={3349, 3507 String="cruzeirder\nthais\n\n"}, 3502 Content={3504 Content={3492 Amount=10, 3507 String="cruzeirder\nthais\n"}}}, 
+               1 Content={3506 String="Cruzeirder\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3502 Content={}}, 
+               2 Content={3504 Content={3507 String="cruzeirder\nkazordoon"}, 3504 Content={3492 Amount=1, 3507 String="cruzeirder\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3425, 2865 Content={3507 String="Cruzeider\nAb'Dendriel", 3031 Amount=90, 3031 Amount=100, 2969 KeyNumber=3033, 3457, 3492 Amount=6, 3723 Amount=2, 3003, 2854 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854}}}, 2472 Content={3447 Amount=12}, 2472, 2472 Content={2854 Content={2874, 2874, 2874, 2874, 2865}}, 2473 Content={2854 Content={3425, 3425, 3425}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3358, 3266, 3266, 3266, 3362, 3266, 3266, 3266, 3266, 3266}, 2856 Content={3457}}, 2473 Content={3504 Content={2854, 3507 String="cruzeirder\nab'dendriel"}}, 2473 Content={2857 Content={3084 RemainingUses=250, 2969 KeyNumber=5010, 3046 SavedExpireTime=1904}, 2969 KeyNumber=3033, 3056 RemainingUses=200, 3050, 2876, 3097 SavedExpireTime=3590, 3054 RemainingUses=200, 3097}, 2469 Content={3077, 3316, 2854 Content={3269, 2867}, 2865}, 2473 Content={2856 Content={3492 Amount=26, 3270, 2955, 3003, 2969 KeyNumber=3033}, 3003}, 3502 Content={3430, 3293, 2853 Content={3603 Amount=10}, 3483, 3350}}}

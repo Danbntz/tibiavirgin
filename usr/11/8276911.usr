@@ -1,0 +1,59 @@
+ID              = 8276911
+Name            = "Marn Stonebull"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (138,78-113-95-116)
+CurrentOutfit   = (138,78-113-95-116)
+LastLogin       = 1147819881
+LastLogout      = 1147827982
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32388,32006,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,362091,0,368300,100)
+Skill = (1,44,0,0,0,0,0,0,0,0,0,1138630,1100,1150247,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,665,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,84679,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,232,1800,302,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,54,1800,140,50)
+Skill = (10,21,0,10,0,0,0,0,0,0,0,66687,1800,72239,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,254,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,389,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,19,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {5,8,9,29,42,44,45,76,84}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(27,1),(33,1),(34,1),(60,1),(61,1),(67,1),(69,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={3483, 3457, 3577 Amount=6, 3031 Amount=2, 2922 SavedExpireTime=274, 3003, 2920 SavedExpireTime=393}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3323},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3069}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="marn stonebull\ncarlin", 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3572, 3425, 3377, 3351, 3557}, 3504 Content={3507 String="Marn Stonebull\nCarlin"}, 3504 Content={3507 String="Marn Stonebull\ncarlin\n"}, 2911 SavedExpireTime=794, 3504 Content={3504 Content={3507 String="Marn Stonebull\nCarlin"}, 3504 Content={3507 String="Marn Stonebull\nCarlin"}, 3504 Content={3504 Content={3276, 3507 String="Marn Stonebull\nCarlin"}, 3504 Content={3507 String="Marn Stonebull\nCarlin"}, 3505 String="", 3505 String="", 3430, 3507 String="Marn Stonebull\nCarlin"}}, 3310, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2955, 3502 Content={}}, 
+               2 Content={3031 Amount=24, 2920, 3292, 3264, 2853 Content={3283}, 3307, 3502 Content={3723 Amount=85, 2874, 2874}}, 
+               3 Content={3504 Content={3507 String="Marn Stonebull\nAb'Dendriel"}, 3502 Content={}}, 
+               4 Content={2469 Content={}, 2392, 2656, 2656, 3059 String="", 2656, 2469 Content={}, 2392, 3565, 2638, 2656, 2393, 3661, 3661, 2656, 2393, 3504 Content={3507 String="Marn Stonebull\nedron\n", 3031 Amount=80, 3035 Amount=1}, 3504 Content={3507 String="Marn Stonebull\nedron"}, 3502 Content={}}, 
+               5 Content={3035 Amount=15, 2866 Content={3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0}, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3282, 3317, 3056 RemainingUses=200, 2854 Content={2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}}, 3504 Content={2853 Content={2853 Content={3274, 2853 Content={3286, 3286, 3286, 2853 Content={3286, 3264, 3286, 3264, 3286, 3286, 3286, 3286}}, 3003, 3286, 2853 Content={3286, 3286, 3264, 3264, 3264, 3286, 3286, 3264}}, 3082 RemainingUses=50, 3291, 3292}, 3504 Content={2866 Content={3198 Charges=5, 3054 RemainingUses=143, 3164 Charges=1, 3155 Charges=1, 3155 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3578 Amount=60, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3425, 3507 String="Marn Stonebull\nDarashia"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Marn Stonebull\ndarashia"}, 3507 String="Marn Stonebull\ndarashia"}, 3507 String="Marn Stonebull\ndarashia"}, 3507 String="Marn Stonebull\ndarashia"}, 2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2882 ContainerLiquidType=0, 2853 Content={3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3050 SavedExpireTime=0, 3056 RemainingUses=200, 2857 Content={3098 SavedExpireTime=0, 3098 SavedExpireTime=0, 3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}}, 2874 ContainerLiquidType=0, 3723 Amount=47, 3583 Amount=1, 3723 Amount=100, 3502 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2984}}, 
+               6 Content={3504 Content={}, 3504 Content={3507 String="Marn Stonebull\nVenore"}, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

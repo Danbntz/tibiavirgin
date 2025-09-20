@@ -1,0 +1,58 @@
+ID              = 9074585
+Name            = "Chokis blackstikma"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,57-90-114-58)
+CurrentOutfit   = (129,57-90-114-58)
+LastLogin       = 1147564628
+LastLogout      = 1147564763
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,448534,0,452600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,196432,3000,582400,1600)
+Skill = (2,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,43,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1045,1045,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,69,0,10,0,0,0,0,0,0,0,282560,1100,303481,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,243,1100,305,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,69,0,10,0,0,0,0,0,0,0,148843,1100,151740,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,91,1100,92,20)
+Skill = (14,0,1200,0,0,0,785,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,16,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(61,1),(62,2),(69,1),(72,1),(73,1),(96,1),(97,1),(98,1),(121,1),(125,1),(126,1),(190,1),(191,1),(208,1),(217,3),(220,1),(221,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3373},
+               2 Content={3084 RemainingUses=71},
+               3 Content={2865 Content={3582 Amount=1, 3031 Amount=6, 3200 Charges=3, 3084 RemainingUses=250, 3003, 3446 Amount=2, 2973 KeyNumber=3520, 3457, 2854 Content={3198 Charges=3, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               5 Content={3318},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2871 Content={3290, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+
+Depots      = {0 Content={3003, 2868 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3504 Content={3507 String="chokis blackstikma\nthais" Editor="Darminz arquero", 2853 Content={2854 Content={2854 Content={3316, 3307, 3316, 3316, 3316, 3307, 3316, 3316, 3316, 3372, 3372, 3372, 3384}}}}, 3457, 2854 Content={3349, 3349, 3349, 3349}, 3504 Content={2853 Content={3316, 3307, 3377, 3377, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}, 3507 String="Chokis blackstikma\nthais"}, 3502 Content={2968 KeyNumber=3940, 2872 Content={2854 Content={3425, 3412, 3008}, 3579 Amount=2, 2857 Content={3046, 3077, 3084 RemainingUses=250}}, 3504 Content={2853 Content={2854 Content={3410, 3273, 3285, 3298 Amount=1, 3410, 3410, 3285}}, 3507 String="Davon Zeth\nthais"}, 2865 Content={3147, 2854, 2854, 2854, 3277 Amount=4, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 3008, 3147, 2854 Content={3056 RemainingUses=200, 3449 Amount=3, 3377, 3377, 3377, 3377, 3377, 3056 RemainingUses=200, 3050, 3056 RemainingUses=200, 3285, 3457, 3551, 3597 Amount=2}}, 3003, 2853 Content={3050, 3026 Amount=1, 3028 Amount=2}, 2853 Content={2853 Content={2853 Content={3026 Amount=1}, 3097}, 3027 Amount=2, 3008}, 2969 KeyNumber=5010}}, 
+               1 Content={3066, 2870 Content={3457, 3147, 3147, 3147, 3446 Amount=6, 3446 Amount=1, 2854}, 3492 Amount=38, 3317, 3050, 3492 Amount=100, 2854 Content={2867, 2854 Content={3012, 3008, 3316, 3451, 3083 RemainingUses=148, 3084 RemainingUses=250, 3008}}, 2870 Content={2868, 2854, 2854, 2868, 2854, 3504 Content={3504 Content={3504 Content={2853 Content={3349, 3377, 3349, 3277 Amount=21}, 3507 String="chokis blackstikma\nthais"}, 3507 String="chokis blackstikma\nthais" Editor="Chokis blackstikma"}, 3507 String="chokis blackstikma\ncarlin" Editor="Chokis blackstikma"}, 3361, 3349}, 3502 Content={3046 SavedExpireTime=2997, 2969 KeyNumber=4603, 2866, 2854 Content={3059, 2992 Amount=5}, 3268, 2853 Content={3293, 3274, 3083 RemainingUses=150, 3097, 3097, 3012}}}, 
+               2 Content={3504 Content={3507 String="chokis blackstikma\nkazordoon\n" Editor="Chokis blackstikma"}, 3276, 3504 Content={2865, 3507 String="Chokis blackstikma\nkazordoon"}, 3502 Content={2853}}, 
+               3 Content={3502 Content={3350, 3350, 3446 Amount=74, 2868 Content={2868, 2867 Content={3003}}, 2865, 3012, 3299}}, 
+               6 Content={3502}}

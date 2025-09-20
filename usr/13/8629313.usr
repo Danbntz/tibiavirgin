@@ -1,0 +1,54 @@
+ID              = 8629313
+Name            = "Mooka Marmwinco"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (139,115-114-114-115)
+CurrentOutfit   = (139,115-114-114-115)
+LastLogin       = 1146399255
+LastLogout      = 1146399266
+StartPosition   = [33217,31814,8]
+CurrentPosition = [32991,32370,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,78925,0,83400,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,68660,1400,78644,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,165,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,2549,1100,2797,100)
+Skill = (7,51,0,10,0,0,0,0,0,0,0,14893,1100,16129,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,536,1200,645,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,64,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,315,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,555,1100,559,20)
+Skill = (14,0,1200,0,0,0,297,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,51,79,81}
+QuestValues = {(61,1),(86,1),(87,1),(217,3),(224,1)}
+Murders     = {1145690100}
+
+Inventory   = {2 Content={3084 RemainingUses=181},
+               3 Content={2854 Content={3446 Amount=87, 2854 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3031 Amount=3}, 2854 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={2853, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3152 Charges=1, 3152 Charges=1}, 3200 Charges=3, 3198 Charges=3, 3188 Charges=1, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=25, 3350, 3447 Amount=8, 3457, 3003}},
+               6 Content={3349},
+               8 Content={3552},
+               10 Content={3072}}
+
+Depots      = {0 Content={3504 Content={3507 String="Mooka Marmwinco\nThais"}, 3504 Content={3507 String="Mooka Marmwinco\nThais"}, 3502 Content={}}, 
+               1 Content={2854 Content={3031 Amount=4, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3350, 3377, 3301, 2991, 3097 SavedExpireTime=2700, 3483, 3658, 3492 Amount=21, 2854 Content={2854, 3031 Amount=100, 3031 Amount=100, 3299, 3059}, 2969 KeyNumber=4600, 2868 Content={3008, 2868 Content={3492 Amount=33, 3492 Amount=100, 3492 Amount=100}, 2854 Content={3447 Amount=94, 3446 Amount=32, 2868 Content={3349, 3349, 3349, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3287 Amount=2}, 2854 Content={3351, 3357, 3372, 3008, 3084 RemainingUses=234, 3273, 3375, 3421, 3357, 3425, 3425, 3425}}, 2853, 3155 Charges=1, 2853 Content={3503 Content={3504, 3504, 3507 String="Mooka marmwinco\ncarlin" Editor="Mooka Marmwinco"}, 2833 String="Report 78ACFF04\nThe usual turmoil when the QUEEN GENOVEVA is in town - the sailors, drunk as always, stood out with their usual misbehaviour with the result that one of them spilled the beer of a local dwarf. In the following fight a lot of property was destroyed and even lives were endangered. I sent word to Thais that such events destroy the peace of our colony and that we would probably do better to rely on the more disciplined seamen of Venore who are more accustomed to the hardships of long journeys than the men of the Thaian marine. A letter written by the local traders strongly supporting my point has been enclosed. ", 3003}, 2856, 3504 Content={2471 Content={2471}, 2867 Content={3285, 3464, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2854, 2854 Content={3411, 3411, 3362, 3362, 3362, 3362, 3362, 3362, 3457}, 3483, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3504 Content={3503 Content={3152 Charges=1, 3164 Charges=2}, 3504 Content={3507 String="Mooka Marmwinco\nThais", 2473 Content={3588 Amount=54, 3590 Amount=1}}, 2471 Content={3590 Amount=2, 2973 KeyNumber=3520, 2920, 2922 SavedExpireTime=240, 2853 Content={3077, 3046}}, 3504 Content={2920, 2920, 3308, 3504 Content={3457}, 2920 SavedExpireTime=438, 3457, 3578 Amount=11, 3507 String="Leylor Jannes\nedron"}, 3504 Content={3003, 2920, 2868, 3588 Amount=3}, 2473, 2866 Content={3558, 3083 RemainingUses=150, 2868 Content={3410}}, 3483, 2920 SavedExpireTime=599, 3507 String="Mooka Marmwinco\nThais"}, 2854, 3503 Content={3503 Content={2471, 2471, 2471 Content={3503}}, 3503, 3503, 3503, 3503, 3504}, 3558}, 3147, 3147, 3147, 2853 Content={3310}, 3003, 3457, 3504 Content={3003}, 3723 Amount=8, 3588 Amount=17, 3502 Content={3503 Content={3507 String="Mooka marmwinco\ncarlin" Editor="Mooka Marmwinco"}, 3503 Content={3507 String="Ruxo\ncarlin" Editor="Rami Gambler"}, 3504 Content={3507 String="dig tempis\ncarlin" Editor="Drator Eagornor"}}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3503 Content={3503 Content={3507}, 3507}, 2853, 3492 Amount=4, 2854, 2853, 3504 Content={3507 String="evancio\nedron"}, 3446 Amount=30, 3552, 3375, 3372, 3377, 3504 Content={3507 String="Evancio\nEdron\n"}, 3504 Content={3507 String="Evancio\nedron"}, 3035 Amount=5, 3504 Content={3277 Amount=3, 3492 Amount=34, 3447 Amount=3, 3504}, 3097, 3504, 3447 Amount=100, 3447 Amount=100, 3285, 3492 Amount=69, 3446 Amount=100, 2853, 2853 Content={3582 Amount=6}, 3110, 3548 Amount=2, 3502}, 
+               8 Content={3504 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3507 String="Mooka marmwinco\nport hope" Editor="Mooka Marmwinco"}, 3377, 3447 Amount=20, 3447 Amount=100, 2853 Content={3578 Amount=1, 3582 Amount=9}, 2992 Amount=5, 3492 Amount=100, 3446 Amount=20, 3502}}

@@ -1,0 +1,53 @@
+ID              = 11869908
+Name            = "Ckarman"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,3-86-0-40)
+CurrentOutfit   = (134,3-86-0-40)
+LastLogin       = 1146960065
+LastLogout      = 1146960083
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32220,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,63450,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,19319,3000,20800,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7568,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,37,0,10,0,0,0,0,0,0,0,6475,1100,6710,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(68,1),(70,1),(71,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(100,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(121,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(226,1),(227,2),(253,1),(254,1),(257,1),(278,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3012}}
+
+Depots      = {0 Content={3502 Content={3453}}, 
+               1 Content={3116, 2853 Content={3031 Amount=21}, 3502}, 
+               2 Content={3504 Content={3446 Amount=4, 3507 String="ckarman\nkazordoon"}, 3502}, 
+               3 Content={3603 Amount=1, 3430, 3411, 2865 Content={3492 Amount=71, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2913, 3411, 4277, 3492 Amount=38, 1781 Amount=6, 2853, 3277 Amount=1, 3003, 4290, 2656, 3197 Charges=3, 2876, 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 2635, 3448 Amount=3, 3446 Amount=4, 2853 Content={3411, 3411}, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2667, 2473 Content={2853 Content={2853}, 2473 Content={3012}, 2473, 2473}, 2952, 2469, 2644, 2481, 2656, 2667, 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4b\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2865 Content={2970 KeyNumber=3800, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2969 KeyNumber=3033}, 2853 Content={2874 ContainerLiquidType=7, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=4, 2874, 2874, 2874}, 2853, 3502 Content={2969 KeyNumber=3302, 2972 KeyNumber=3304, 2970 KeyNumber=3301, 2970 KeyNumber=3303}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="ckarman\ndarashia" Editor="Siris Dous"}, 3502}, 
+               6 Content={3504 Content={3507 String="ckarman\nvenore" Editor="Elhuapilla"}, 3502}, 
+               7 Content={3504 Content={3507 String="ckarman \nankrahmun" Editor="Sir Pe'netreytor"}, 2469 Content={3455}, 3661, 2469, 3502}, 
+               8 Content={3504 Content={3507 String="Ckarman\nPort hope" Editor="Kholus el loco"}, 3502}}

@@ -1,0 +1,49 @@
+ID              = 13930511
+Name            = "Sauro the hero"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,0-0-0-0)
+CurrentOutfit   = (137,0-0-0-0)
+LastLogin       = 1148250497
+LastLogout      = 1148253596
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32912,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,396614,0,409000,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,375431,1100,392762,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,655,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,25908,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,33,1800,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,252,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,22,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,588,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2303,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,28,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,7,8,9,10,12,15,16,17,20,25,29,30,44}
+QuestValues = {(60,1),(69,1),(96,1),(97,1),(98,1),(190,1),(191,1),(333,1)}
+Murders     = {1146804559}
+
+Inventory   = {3 Content={2868 Content={3352, 3352, 3352, 3352, 3352, 3352, 3352, 3352, 3352, 3352, 3352, 3352, 3352, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Sauro the hero\nCarlin\n" Editor="Sauro the hero", 2854 Content={3031 Amount=85, 3031 Amount=100, 3031 Amount=27, 3035 Amount=44}}, 3504 Content={3035 Amount=68, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=55, 3507 String="Sauro the hero\nCarlin" Editor="Sauro the hero"}, 3349, 3264, 3318, 3504 Content={3507 String="Sauro the hero\nCarlin\n" Editor="Suem the hero"}, 3291, 3285, 3504, 3655, 3736 Amount=1, 3504 Content={2853 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425}, 3504}, 2853 Content={3492 Amount=100, 2853 Content={2853 Content={3492 Amount=22, 3492 Amount=50, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3362, 3377, 3377, 3377, 3272, 2853 Content={3377, 3377}, 3377}, 2868 Content={2650, 2659, 2393, 2991, 2853 Content={3308, 3379, 3056 RemainingUses=200, 3056 RemainingUses=200, 3505, 2970 KeyNumber=3802, 2853 Content={3054 RemainingUses=45, 3004, 2973 KeyNumber=3520, 3308, 3308, 3483, 2969 KeyNumber=3033, 2973 KeyNumber=3520}}, 2853 Content={3008, 3084 RemainingUses=250, 3045 RemainingUses=200, 3012, 3008, 3083 RemainingUses=150, 3008, 3056 RemainingUses=200}, 2853 Content={3056 RemainingUses=200, 3008, 2981, 2853 Content={2984, 3661, 3661, 3661, 2981, 2983, 2981}, 3661, 3661, 3661, 2983}, 2853 Content={3077, 3084 RemainingUses=250, 3012, 3054 RemainingUses=200, 3012, 3012, 3008, 3097}}, 3504 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3503 Content={3507 String="deimonos crow\nThais" Editor="Sauro the hero"}, 3092 SavedExpireTime=1719, 3504 Content={2853 Content={3198 Charges=5, 3198 Charges=5}, 3155 Charges=1, 3189 Charges=2, 3148 Charges=1, 2853}, 3504 Content={2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}, 2868 Content={3003, 3003, 3457, 3457, 3003, 3457, 2853 Content={3003, 3457, 3003, 3457, 3457, 3003, 3003, 3003}, 2853 Content={3003, 3003, 3003, 3003, 3457, 3457, 3457, 3003}, 2853 Content={3003, 3457, 3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}}, 3503 Content={3050 SavedExpireTime=1715, 3507}, 2868 Content={3446 Amount=8, 3446 Amount=100, 3605 Amount=7, 3446 Amount=100, 3446 Amount=100, 3447 Amount=12, 3504 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3603 Amount=92, 1781 Amount=33, 3277 Amount=71, 3287 Amount=3}, 3503 Content={3074, 3066, 3046, 3070, 3046, 3067, 3046, 3059}, 2868 Content={3585 Amount=2, 3602 Amount=1}, 3504 Content={3310, 3310, 3282, 3310, 2955, 3310, 3316}, 2872 Content={2866, 2868 Content={2860 Content={3198 Charges=4, 2860 Content={3031 Amount=46}}}, 2854 Content={2854 Content={2853}, 2854 Content={2853}}, 2871 Content={2863}, 2865 Content={2857 Content={2857 Content={3174 Charges=5}}}, 2867 Content={2867, 2867, 2867 Content={2859 Content={3191 Charges=2}}}, 2870}, 3502 Content={3031 Amount=32, 3031 Amount=100, 3035 Amount=62, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Sauro the hero\nAb'dendriel" Editor="Sauro the hero"}, 3502}, 
+               6 Content={3447 Amount=3, 3283, 3031 Amount=71, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=34, 3031 Amount=100, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3266, 2853 Content={3286, 3286, 3286}}, 2853 Content={3286, 3286}}, 2853 Content={3286, 3286, 3286, 2853 Content={3286, 3286, 3286, 3286, 3286, 3286}}}, 2853 Content={2853 Content={3286, 2853 Content={3286, 3286, 2853 Content={3286, 3286, 3286, 2853 Content={3286, 3264, 3286, 3264, 3264}, 2853 Content={3264, 3264, 3264, 3264, 3264, 3264, 3264, 3286}, 3264}, 3286, 3286, 3286, 3264}, 3286, 3286, 3286, 3286, 3286}, 2853 Content={3264, 3286, 3264, 3264, 3286, 3286, 3286}, 3286, 3286, 2853 Content={3286, 3286, 3264, 3286}}}}}, 3507 String="Sauro the hero\nVenore" Editor="Sauro the hero"}, 3502 Content={3065, 3416, 3384, 3370, 3557, 3552}}}

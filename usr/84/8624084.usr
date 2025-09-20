@@ -1,0 +1,55 @@
+ID              = 8624084
+Name            = "Talian Marquo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,114-0-114-0)
+CurrentOutfit   = (130,114-0-114-0)
+LastLogin       = 1130764981
+LastLogout      = 1130764983
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,9051,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,40,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,3101,1100,3177,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,25,1400,30,30)
+Skill = (8,27,0,10,0,0,0,0,0,0,0,2212,1100,2279,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,160,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,38,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,454,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(60,1),(61,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=200},
+               3 Content={},
+               4 Content={},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {1 Content={3502 Content={2854 Content={3031 Amount=18, 3035 Amount=5}, 2868 Content={3565, 3123, 3003, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=3, 2873 ContainerLiquidType=3, 3452, 3457}, 2867 Content={2968 KeyNumber=3940}, 3430, 3300, 3457, 2920 SavedExpireTime=457, 3003, 3470, 3466, 2955, 3577 Amount=3, 3375, 3582 Amount=1, 2973 KeyNumber=3520, 2874 ContainerLiquidType=0, 3578 Amount=5, 3456, 3430, 2955, 3277 Amount=26, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2, 3504 Content={3504 Content={3504 Content={}, 3504 Content={3507 String="dagaza\ncarlin"}, 3504 Content={}, 3504 Content={2853 Content={2853 Content={2853 Content={}}}, 3507 String="samuel airow\ncarlin\n"}, 3504 Content={}, 3504 Content={3507 String="samuel airow\ncarlin\n"}, 3504 Content={}, 3504 Content={3507 String="konneman\nvenore\n"}, 3504 Content={3504 Content={}, 3504 Content={3507 String="samuel airow\ncarlin\n"}, 3507 String="samuel airow \n carlin"}, 3504 Content={}}, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="oxy dorphania\ncarlin"}, 3504 Content={2853 Content={}, 3507 String="Lord Melvisky\nCarlin"}, 3504 Content={}, 3504 Content={3507 String="Envoy of the devil\ncarlin"}, 3504 Content={}, 3504 Content={3507 String="Angel Orb'Furious\ncarlin"}, 3504 Content={3504 Content={}, 3504 Content={3507 String="ziom\nCarlin"}, 3504 Content={3507 String="keri thor\ncarlin\n"}, 3504 Content={}}}}}, 
+               3 Content={3502 Content={}}}

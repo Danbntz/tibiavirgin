@@ -1,0 +1,57 @@
+ID              = 8397015
+Name            = "Astro Gaver"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,114-114-114-114)
+CurrentOutfit   = (133,114-114-114-114)
+LastLogin       = 1145556687
+LastLogout      = 1145557221
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32330,31780,6]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,352959,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,88753,3000,193600,1600)
+Skill = (2,500,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,120,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,71983,1100,79179,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,253,1400,328,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,58,0,10,0,0,0,0,0,0,0,48703,1100,52859,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,17,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(21,1),(22,1),(23,1),(54,1),(61,1),(72,1),(73,1),(74,1),(75,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3355},
+               3 Content={2853 Content={3582 Amount=1, 3031 Amount=16}},
+               4 Content={3377},
+               5 Content={3285},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3291}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3353, 3372, 3572, 3425, 3357, 3279, 3507 String="Astro Gaver\nCarlin\n\n" Editor="Midnight-knight"}, 2854 Content={3504}, 2868 Content={2868}, 2868 Content={3457, 3003}, 2868 Content={3172 Charges=2, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2853, 3415, 3504 Content={3507 String="sorceres do alyr\ncarlin" Editor="Alyr Zadin"}, 3504 Content={3421, 3504 Content={3507 String="kleo xirion\ncarlin\n" Editor="Kleo Xirion"}, 3504 Content={3507 String="hitor chura\ncarlin" Editor="Hitor Chura"}, 3504 Content={2853, 3507 String="Order of the Ebon'hand\ncarlin" Editor="Order of the Ebon'hand"}, 3504 Content={3507 String="kleo xirion\ncarlin\n" Editor="Kleo Xirion"}, 3507 String="Shusch\nCarlin" Editor="Smasched"}, 3504 Content={3507 String="Astro gaver\nCarlin" Editor="Midnight-knight"}, 3084 RemainingUses=250, 2973 KeyNumber=3520, 2857 Content={2868, 3003}, 2854 Content={3003, 3447 Amount=100, 3447 Amount=93}, 3504, 2854 Content={3031 Amount=6, 3425, 3074, 3277 Amount=2, 3372, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 2853}, 2857 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3448 Amount=58}, 2868 Content={3031 Amount=8, 3447 Amount=6, 3457, 3003}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3350, 3349, 3031 Amount=37, 3492 Amount=8, 3457, 3031 Amount=100, 3003}, 2854 Content={2922 SavedExpireTime=80, 3286, 2920, 2920, 2920}, 2868, 2868, 2866 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 2868, 2973 KeyNumber=3520, 3483, 3457, 3003}, 3588 Amount=9, 2853 Content={3350, 3447 Amount=7, 3277 Amount=8, 3031 Amount=47, 2973 KeyNumber=3520, 3003}, 2854 Content={2869 Content={3425}, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3504 Content={2969 KeyNumber=4600, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3384, 3357, 3282, 2854 Content={3205}, 3372, 3174 Charges=5, 3507 String="astro gaver\ncarlin\n"}, 3572, 3054 RemainingUses=111, 3349, 3502 Content={3056 RemainingUses=200, 3050, 3050 SavedExpireTime=1669, 2854 Content={3492 Amount=84, 3003, 3457}, 2857, 2853 Content={2922 SavedExpireTime=243}, 2870, 2866, 3050 SavedExpireTime=1746, 3097 SavedExpireTime=3391, 3357, 2854 Content={2854 Content={3492 Amount=5, 3147, 3457, 3483}, 3147}, 2865 Content={3307, 3457}, 3425, 2868 Content={2865, 2854, 2868, 2854, 2868, 2868, 2868, 2868, 2854, 2854, 2868, 2854}, 2868 Content={3572, 3447 Amount=52, 3349, 3483, 3350, 3003, 3028 Amount=2, 3425, 3059, 3084 RemainingUses=250, 3446 Amount=19, 3447 Amount=100, 3449 Amount=3, 3083 RemainingUses=131, 3578 Amount=28}, 2868, 2854 Content={3358, 3572, 3285, 3425, 3372, 3425, 3425, 3425, 3084 RemainingUses=242, 3084 RemainingUses=250, 3377, 3084 RemainingUses=5, 3275, 3483, 2920 SavedExpireTime=503, 2920 SavedExpireTime=599}, 2868 Content={3736 Amount=1, 3658, 3003, 2991, 3457}, 2868 Content={3147, 3147, 3147, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3372, 3282, 3275, 3357, 3357, 3265, 3269, 3357, 3357, 3357, 3357, 3357, 3372, 3357, 3265}, 2868 Content={3056 RemainingUses=200}, 2854 Content={3349, 3447 Amount=66, 3446 Amount=7, 3045 RemainingUses=200, 3483, 3483, 3483, 3377, 3084 RemainingUses=250, 3349, 3349, 3350, 3578 Amount=9, 3457, 3483}, 2857 Content={3415, 3085 RemainingUses=200, 3425, 3425, 3269}, 2854 Content={2955}, 2854 Content={3077}, 2865 Content={3077}, 2868 Content={3084 RemainingUses=250, 2969 KeyNumber=4600, 2970 KeyNumber=4503}, 2868 Content={3046 SavedExpireTime=2999}, 2868 Content={3351, 3357, 3030 Amount=1, 3084 RemainingUses=250}}}, 
+               2 Content={3506 String="Astro Gaver\nKazordoon\nCongratulations! \nDear Astro Gaver You have won in Tibia's Pacc lottery! You've been drawn from about 1000 members of Zanera server! Send your Account Number and Password to cipsoft@umpire.com and enjoy 90 days with Pacc! CipSoft.", 3504 Content={3507 String="astro gaver\nkazordoon\n"}, 3502 Content={}}, 
+               3 Content={3502 Content={3003}}, 
+               4 Content={3504 Content={3507 String="Astro Gaver\nEdron" Editor="Midnight-knight"}, 3502}, 
+               6 Content={3502 Content={}}}

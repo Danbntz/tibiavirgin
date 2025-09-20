@@ -1,0 +1,55 @@
+ID              = 13477527
+Name            = "Arturo Ambell"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,107-0-0-0)
+CurrentOutfit   = (129,107-0-0-0)
+LastLogin       = 1148227416
+LastLogout      = 1148228829
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32701,32282,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,91068,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,24921,3000,64000,1600)
+Skill = (2,285,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,20539,1100,22225,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,1400,30,30)
+Skill = (8,43,0,10,0,0,0,0,0,0,0,11644,1100,12273,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,66,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,323,1100,370,20)
+Skill = (14,0,1200,0,0,0,660,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(17,1),(20,1),(37,1),(55,1),(58,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1)}
+Murders     = {1146936334}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2871 Content={3359, 3353, 3031 Amount=36, 3577 Amount=13, 3003, 3492 Amount=30, 3457}},
+               4 Content={3370},
+               5 Content={3295},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=100, 3031 Amount=100, 3583 Amount=5, 2868 Content={3031 Amount=42, 3035 Amount=16, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3098 SavedExpireTime=444, 3093 SavedExpireTime=1794, 3097 SavedExpireTime=3598, 3031 Amount=100, 2969 KeyNumber=3600, 3123, 3083 RemainingUses=150, 3483, 3031 Amount=57, 2914 SavedExpireTime=1994, 3425, 3446 Amount=91, 2968 KeyNumber=3940}, 3577 Amount=27, 3056 RemainingUses=200, 2857 Content={3723 Amount=65, 3492 Amount=100, 3492 Amount=100, 3046 SavedExpireTime=2997, 3077, 3084 RemainingUses=250}, 3045 RemainingUses=16, 3316, 3410, 2854, 2868 Content={3198 Charges=3, 3198 Charges=2, 3198 Charges=5, 3198 Charges=4, 3164 Charges=2, 3164 Charges=1, 3164 Charges=1, 3164 Charges=1}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3597 Amount=6, 2854 Content={3483, 3367, 3354, 3483, 3483}, 2866 Content={2854 Content={2854 Content={3045 RemainingUses=200}}, 2854, 2854, 2868, 2866, 2854 Content={2854}}, 2854 Content={3425, 3350, 3031 Amount=8}, 3588 Amount=8, 3059, 3590 Amount=10, 3588 Amount=100, 3448 Amount=5, 3595 Amount=17, 3597 Amount=1, 3593, 3592, 3579 Amount=2, 3585 Amount=5}}, 
+               1 Content={3502}, 
+               2 Content={3502}}

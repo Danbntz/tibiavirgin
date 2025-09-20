@@ -1,0 +1,58 @@
+ID              = 7965398
+Name            = "Grevohar'Phoenix"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,3-86-38-86)
+CurrentOutfit   = (128,3-86-38-86)
+LastLogin       = 1143678997
+LastLogout      = 1143679045
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31783,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,108842,0,116000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,50946,3000,64000,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,43529,1100,44259,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,43,1400,71,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,27475,1100,29620,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,162,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,61,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1926,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(20,1),(22,1),(23,1),(24,1),(25,1),(26,1),(27,1),(34,1),(58,1),(59,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(111,1),(112,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               5 Content={3425},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3027 Amount=2}}
+
+Depots      = {0 Content={3507, 3507 String="Grevohar'Phoenix\nthais\n", 3502}, 
+               1 Content={3084 RemainingUses=221, 2868 Content={2868 Content={3198 Charges=4, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865}, 2860 Content={3003, 3377, 3291, 3003}, 2854 Content={3412, 3585 Amount=3}, 2969 KeyNumber=4600, 3270, 2955, 2868 Content={3350, 3349, 3350, 3349, 3349}, 3504 Content={3597 Amount=1, 3586 Amount=3}, 2854 Content={3285, 3054 RemainingUses=188, 3084 RemainingUses=250, 2792, 3483, 2854 Content={3056 RemainingUses=200, 3097 SavedExpireTime=3599, 3004, 3483}, 3483, 3447 Amount=5, 2868, 2973 KeyNumber=3520}, 3502 Content={3503, 2992 Amount=4, 3290, 3506 String="Grevohar'Phoenix\nThais\n\nContratulations!!\nYou are one of the random selected Zaneran players\nfor the gift of a Free premmium account!\nCipsoft made this for the reason of a free try premmium\nso can you feel free to explore new islands, make new\nexplorations and travel all around Tibia World.\nSend us your account number and password to the \nnext direction:\n cipsoft-premmium@hotmail.com\nCopyright by CipSoft GmbH. All rights reserved. ", 3289, 3377, 3447 Amount=1}}, 
+               2 Content={2854 Content={}, 3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3446 Amount=7, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={}}}

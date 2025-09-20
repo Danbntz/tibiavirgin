@@ -1,0 +1,58 @@
+ID              = 9393574
+Name            = "Arkane Astral"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,12-127-38-127)
+CurrentOutfit   = (134,12-127-38-127)
+LastLogin       = 1126968516
+LastLogout      = 1126969929
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33194,32853,8]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,162461,0,179400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,175520,1400,222775,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,101,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,31213,1100,33003,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,37771,1100,38438,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,237,1200,268,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,919,1200,1039,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1733,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,61,0,10,0,0,0,0,0,0,0,25825,1100,28208,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,42,51,76}
+QuestValues = {(86,1),(87,1),(192,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2871 Content={3308}},
+               4 Content={3377},
+               5 Content={3277 Amount=10},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {1 Content={2482 Content={}, 2482 Content={}, 3052 SavedExpireTime=0, 2472 Content={}, 2472 Content={}, 2481 Content={}, 2481 Content={}, 3052 SavedExpireTime=0, 2472 Content={}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Harbour Lane 2b (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="Arkane Astral\nCarlin"}, 3502 Content={}}, 
+               4 Content={3504 Content={3507 String="Arkane Astral\nEdron"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Sky Lane, Guild 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3083 RemainingUses=120, 3191 Charges=2, 2853 Content={3483, 3349, 2969 KeyNumber=4055, 3054 RemainingUses=200, 3307, 3585 Amount=1}}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3504 Content={3507 String="Arkane Astral\nAnkrahmun"}, 3504 Content={2868 Content={}, 3507 String="Blankies pa hmm"}, 2866 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3054 RemainingUses=200, 3003, 3003}, 3502 Content={}}}

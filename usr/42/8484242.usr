@@ -1,0 +1,56 @@
+ID              = 8484242
+Name            = "Unreal Kerin"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,97-0-0-0)
+CurrentOutfit   = (137,97-0-0-0)
+LastLogin       = 1148123295
+LastLogout      = 1148156584
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32230,5]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,627489,0,658000,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,678409,1100,708148,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,317,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,52246,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,20953,1800,22252,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,12,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,179,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1845,1100,1966,20)
+Skill = (14,0,1200,0,0,0,770,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,46,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,0,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,5,8,9,11,16,18,20,25,29,38,42,44,45}
+QuestValues = {(18,1),(35,1),(55,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(125,1),(126,1),(128,1),(151,1),(152,1),(153,1),(190,1),(191,1),(217,3),(253,1),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3085 RemainingUses=159},
+               3 Content={2854 Content={3582 Amount=2, 3160 Charges=1, 3160 Charges=1, 3069, 3160 Charges=1, 3160 Charges=1, 3191 Charges=2, 3191 Charges=2, 3198 Charges=1, 3155 Charges=1, 3155 Charges=1}},
+               4 Content={3370},
+               5 Content={3065},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3506 String="Unreal Kerin \nThais\nProsze o zaplate za pokuj w gh, Twoj pokuj jest warty 3 k. Jezeli nie chcesz pokoju na kolejny miesiac napisz do lidera. Jezeli namowisz wiecej osob na pokuj w gh kolejny miesiac bedzie mniej kosztowal cala gildie.Pieniadze prosze wyslac i podpisac od kogo do \nTelfir Nailo \nEdron" Editor="Telfir Nailo", 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3502 Content={2867 Content={3279, 3380, 3384, 3362, 3418, 3271, 3275, 3457, 3456, 2969 KeyNumber=3600, 3275, 3059}, 2854 Content={3586 Amount=34, 3590 Amount=49, 3587 Amount=18, 3589 Amount=12, 3583 Amount=16, 3585 Amount=52, 3593, 3588 Amount=100, 3577 Amount=19, 3582 Amount=85, 3598 Amount=2, 3596 Amount=5, 3606 Amount=12, 3607, 3592, 3595 Amount=22, 3723 Amount=16, 3601 Amount=13, 3600 Amount=16, 3579 Amount=70}, 2472 Content={2920, 2865 Content={3092, 3093, 3093, 3050 SavedExpireTime=1773, 3091 SavedExpireTime=212, 3052, 3052 SavedExpireTime=400, 3097 SavedExpireTime=3598, 3097 SavedExpireTime=3596, 3097 SavedExpireTime=3296, 3007, 3004, 3066, 3073, 3046, 3046, 3046 SavedExpireTime=2460}, 2856 Content={2659, 2656, 2653, 2650, 2632}, 2857 Content={3017, 3017, 2991, 2989, 3029 Amount=2, 3027 Amount=2, 3026 Amount=1}, 2859 Content={3734 Amount=1, 3658, 2914 SavedExpireTime=1994, 2974, 3483, 3483, 3492 Amount=51}, 2869 Content={3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3572, 2906}, 2853 Content={3077, 3077}}, 2471 Content={2854 Content={3153 Charges=1, 3174 Charges=1, 3164 Charges=3, 3200 Charges=1, 3174 Charges=5}, 2856 Content={3736 Amount=2, 3463, 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn..."}, 2853, 2815 Editor="Unreal Kerin"}, 2870 Content={3031 Amount=100, 3031 Amount=2, 2469 Content={3043 Amount=1, 3035 Amount=82, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}}, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502}}

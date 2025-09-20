@@ -1,0 +1,53 @@
+ID              = 10744465
+Name            = "Yerberito"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,94-88-82-114)
+CurrentOutfit   = (128,94-88-82-114)
+LastLogin       = 1147801477
+LastLogout      = 1147801653
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32680,31685,6]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,13034,0,17600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,3889,1400,6975,1600)
+Skill = (2,142,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,29,0,10,0,0,0,0,0,0,0,5319,1100,5727,100)
+Skill = (7,27,0,10,0,0,0,0,0,0,0,1348,1100,1367,30)
+Skill = (8,23,0,10,0,0,0,0,0,0,0,2760,1200,2959,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,171,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,42,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,220,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,218,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2853 Content={3578 Amount=6}},
+               4 Content={3358},
+               5 Content={3430},
+               6 Content={3277 Amount=13},
+               7 Content={3559},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={3504 Content={2920 SavedExpireTime=207, 3297, 2867 Content={3308, 2920, 3595 Amount=1, 3578 Amount=27, 3582 Amount=7, 3577 Amount=12}, 3507 String="Yerberito\nab'dendriel" Editor="Yerberito"}, 3504 Content={2854 Content={3003, 3350, 3283, 3050, 3056 RemainingUses=200, 3354, 2856 Content={3426, 3492 Amount=100}}, 2865 Content={3457, 3410}, 3507 String="Yerberito\nab'dendriel" Editor="Yerberito"}, 3504 Content={3448 Amount=4, 3350, 3447 Amount=15, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3349, 3349, 3349, 3507 String="Yerberito\nab'dendriel" Editor="Yerberito"}, 3504 Content={3003, 3492 Amount=30, 3277 Amount=10, 3507 String="Yerberito\nab'dendriel" Editor="Yerberito"}, 3504 Content={3031 Amount=1, 3031 Amount=100, 2854 Content={3277 Amount=20}, 3507 String="Yerberito\nab'dendriel" Editor="Yerberito"}, 3504 Content={3507 String="Yerberito\nab'dendriel" Editor="Uzumaki Naruto the Sorcerer"}, 3504 Content={3507 String="Yerberito\nab'dendriel"}, 3502}, 
+               6 Content={3502}}

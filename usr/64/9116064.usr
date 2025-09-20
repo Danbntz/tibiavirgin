@@ -1,0 +1,57 @@
+ID              = 9116064
+Name            = "Rey Kano"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,79-114-79-114)
+CurrentOutfit   = (134,79-114-79-114)
+LastLogin       = 1147818423
+LastLogout      = 1147820575
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32323,31636,7]
+PlayerkillerEnd = 0
+
+Skill = (0,53,0,1,0,0,0,0,0,0,1,2238472,0,2347900,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,813785,1400,867181,1600)
+Skill = (2,635,635,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,710,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,122,122,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1370,1370,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,45030,1100,48785,100)
+Skill = (7,77,0,10,0,0,0,0,0,0,0,181190,1100,195505,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,46,1200,50,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,2109,1200,2424,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,1200,50,50)
+Skill = (11,26,0,10,0,0,0,0,0,0,0,4994,1200,5296,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1437,1100,1590,20)
+Skill = (14,0,1200,0,0,0,694,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,106,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,15,20,29,30,42,44,45,51,76,79,81}
+QuestValues = {(23,1),(50,1),(59,1),(67,1),(68,1),(70,1),(71,1),(88,1),(89,1),(90,1),(91,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(115,1),(125,1),(126,1),(137,1),(140,1),(141,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(154,1),(170,1),(172,1),(173,1),(174,1),(190,1),(191,1),(208,1),(213,1),(214,1),(215,1),(217,3),(223,1),(226,1),(254,1)}
+Murders     = {1147819614}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2854 Content={3148 Charges=1, 3582 Amount=2, 3031 Amount=19, 3003, 3031 Amount=100, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3457, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3446 Amount=58, 3446 Amount=100, 3446 Amount=100, 3031 Amount=100, 3031 Amount=100, 3446 Amount=38, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3188 Charges=1, 3188 Charges=1}, 2866 Content={3049 SavedExpireTime=131, 3155 Charges=1, 3155 Charges=1, 3198 Charges=4, 3198 Charges=1, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=3, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3567},
+               5 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={2854 Content={3177 Charges=1, 3092, 3350}, 2867 Content={2868, 2854, 3557, 3357, 3318, 3503 Content={3377, 3377, 3377, 3377, 3377, 3507}, 3351, 3279, 3373, 3377, 3350, 3350, 3266, 2865 Content={2870}, 3266, 3330}, 2868 Content={3308, 3148 Charges=3}, 2870 Content={3351}, 2974, 2856 Content={2866 Content={2853 Content={3353, 3377, 3377, 3266, 3264, 3264, 3264, 3264}, 2868 Content={3410, 3410, 3276, 3410}, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3354, 3354, 3276, 3276, 3276, 3354}, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={2853}, 3659, 3658, 3658}, 2854, 2865 Content={3574}}, 3504 Content={2853, 3353, 3092, 3092, 3092}, 3504 Content={2853 Content={2853 Content={3266, 3349, 3425}, 3003}, 3507 String="rey kano\nthais\n" Editor="Sagrav"}, 3504 Content={2853 Content={3354, 3349, 3349, 3349, 3349, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349}, 3504 Content={3507 String="rey kano\nthais" Editor="Rey Kano"}, 3504 Content={3507 String="rey kano\nthais" Editor="Princess flakita", 2854}, 3504 Content={2853 Content={2868 Content={2859, 2871 Content={3003, 3457, 2862, 2857}}, 3457}, 3507 String="rey kano\nthais" Editor="Rey Kano"}, 2853 Content={2854 Content={3384, 3034 Amount=1}}, 3507 String="rey kano \nthais"}, 3504 Content={3003, 3177 Charges=1, 3177 Charges=1, 3507 String="rey kano\nthais"}, 3547 Amount=2, 3548 Amount=2, 3457, 3572, 3308, 2970 KeyNumber=3142, 2867 Content={3007, 3053 SavedExpireTime=493, 3051 SavedExpireTime=298, 3284 RemainingUses=1, 3046, 3097, 3082 RemainingUses=50, 3287 Amount=13, 3046 SavedExpireTime=2928, 2867}, 2865 Content={3350, 3350, 3350, 3457}, 2854 Content={2868 Content={3045 RemainingUses=200, 3046, 3046 SavedExpireTime=2999, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3046, 3046, 3046 SavedExpireTime=2999}}, 2872 Content={3092, 3092, 3092, 3092}, 2867 Content={2854 Content={3565, 3003, 3003, 3457, 3457, 3483, 3483, 3483, 3483, 3483, 3308, 3457, 3457, 3457, 3457}, 3077, 2914 SavedExpireTime=1996, 2885 ContainerLiquidType=6, 3563, 2991, 3076, 2977, 3076, 3463, 3455, 2991, 3470, 3505 String="KANO-NUDIWI-GANZITO HERE LEAVE!!!    -.-'"}, 3502 Content={2854 Content={3082 RemainingUses=32, 3053 SavedExpireTime=14, 3053 SavedExpireTime=61, 3045 RemainingUses=200, 3045 RemainingUses=200, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 3004, 3053 SavedExpireTime=16, 3085 RemainingUses=189, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150, 3056 RemainingUses=200, 3084 RemainingUses=250}, 2843, 2853 Content={3017, 3017, 3017, 3017}, 3429, 3098 SavedExpireTime=8, 3308, 2853 Content={3062, 3017}, 2870 Content={3449 Amount=21, 3298 Amount=9, 3287 Amount=90, 1781 Amount=23, 3448 Amount=45, 3449 Amount=100}, 2857 Content={2867 Content={2870}, 2854 Content={2871, 2854, 2854, 2854, 2854, 2865, 2866, 2865, 2854, 2865, 2854, 2854}, 2854 Content={2854, 2854, 2854, 2854, 2854}}}}, 
+               1 Content={2868 Content={3031 Amount=57, 3031 Amount=100, 3031 Amount=100, 3032 Amount=1}, 3053 SavedExpireTime=137, 3050 SavedExpireTime=1442, 3287 Amount=3, 3279, 3557, 2853 Content={3353}, 3286, 3384, 2853 Content={2853 Content={3377}, 2853}, 3504 Content={2853 Content={2853}, 3507 String="rey kano\ncarlin" Editor="Rey Kano"}, 2874, 3504 Content={3507 String="Kano-nudiwi-ganzito\ncarlin"}, 2853 Content={2853}, 3502}, 
+               2 Content={3504 Content={3507 String="rey kano\nkazordoon\n"}, 3503 Content={3507 String="rey kano\nthais"}, 3504 Content={3504 Content={3507 String="rey kano\nkazordoon"}, 3507 String="rey kano \nkazordoon"}, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3502}, 
+               3 Content={2865 Content={}, 3504 Content={3507 String="rey kano\nab'dendriel"}, 3502 Content={}}, 
+               6 Content={2861 Content={2868 Content={3449 Amount=28, 3583 Amount=13, 2866 Content={3286, 3286, 3286, 3286, 3286, 3351, 3349, 3349, 3349, 2871}}, 2854 Content={2865 Content={2871}}, 2870}, 2870 Content={2854 Content={2854 Content={2867 Content={2865 Content={2854 Content={2854}}}}}}, 3504 Content={3507 String="rey kano\nvenore" Editor="Rey Kano"}, 3037, 2853, 3277 Amount=5, 3456, 3504, 2853 Content={3593, 3563}, 3003, 3502}, 
+               7 Content={3461, 3449 Amount=9, 3504 Content={2854, 3507 String="rey kano\nankrahmun"}, 3441, 3502}}

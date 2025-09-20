@@ -1,0 +1,55 @@
+ID              = 8458244
+Name            = "Digimon-Ulimited"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,39-118-123-115)
+CurrentOutfit   = (128,39-118-123-115)
+LastLogin       = 1147881038
+LastLogout      = 1147881205
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32342,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,70031,0,83400,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,26227,3000,64000,1600)
+Skill = (2,257,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,27,85,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,18466,1100,20113,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,45,1100,50,50)
+Skill = (9,45,0,10,0,0,0,0,0,0,0,14041,1100,14956,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,57,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,452,1100,490,20)
+Skill = (14,0,1200,0,0,0,539,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(37,1),(59,1),(60,1),(61,1),(76,1),(77,1),(78,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(113,1),(114,1),(115,1),(121,1),(125,1),(126,1),(153,1),(190,1),(191,1),(208,1),(223,1),(226,1),(253,1)}
+Murders     = {1145980236}
+
+Inventory   = {1 Content={3355},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2867 Content={3270, 3277 Amount=1, 3031 Amount=3, 3290, 2857 Content={3003}}},
+               5 Content={3425},
+               6 Content={3282},
+               8 Content={3552},
+               10 Content={2860 Content={2860, 2865 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3147}}}
+
+Depots      = {0 Content={3425, 3504 Content={3559, 3384}, 3502}, 
+               1 Content={3008, 3446 Amount=3, 3074, 3504 Content={3559, 3507 String="Digimon-Ulimited\ncarlin" Editor="Kastorm"}, 3147, 3147, 3147, 3504 Content={3507 String="Digimon-Ulimited\ncarlin" Editor="Loperte"}, 3504 Content={3507 String="Digimon-Ulimited\ncarlin\n" Editor="Digimon-Ulimited"}, 2853 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033}, 3412, 3504 Content={3277 Amount=1, 3507 String="Digimon-Ulimited\ncarlin" Editor="Kastorm"}, 3504 Content={3507 String="Digimon-Ulimited\ncarlin\n" Editor="Digimon-Ulimited"}, 2969 KeyNumber=5010, 2857 Content={2865 Content={2970 KeyNumber=3012, 2872 Content={3017, 3457}, 2870 Content={2854 Content={2970 KeyNumber=3800, 2970 KeyNumber=3142, 2970 KeyNumber=3899, 2970 KeyNumber=3800, 2970 KeyNumber=3800, 2969 KeyNumber=4603, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 2868 Content={2969 KeyNumber=5010, 2969 KeyNumber=3033, 2857 Content={2868, 2854}}, 2854, 3031 Amount=2, 3003}}}, 3504 Content={3507 String="Digimon-Ulimited\ncarlin" Editor="Wens'down"}, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=4600, 3504 Content={2854, 3507 String="Digimon-Ulimited\ncarlin" Editor="Digimon-Ulimited"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={2853, 3507 String="Digimon-Ulimited\nAb'Dendriel\n"}, 2853 Content={2853}, 3308, 3308, 3504 Content={3507 String="Digimon-Ulimited\nAb'Dendriel\n"}, 3502 Content={3504, 3504, 3504}}, 
+               6 Content={3504 Content={3507 String="Digimon-Ulimited\nVenore" Editor="Goku of zanera"}, 3483, 3504 Content={3375}, 2865 Content={2867 Content={3293, 3003, 3457}, 3285, 3504}, 3504, 3504 Content={2865 Content={3410, 3410}, 3483, 3286}, 3502}}

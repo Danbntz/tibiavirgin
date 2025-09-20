@@ -1,0 +1,51 @@
+ID              = 10825346
+Name            = "Kursat'oz"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,0-127-119-120)
+CurrentOutfit   = (134,0-127-119-120)
+LastLogin       = 1139674010
+LastLogout      = 1139674022
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32919,32060,6]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,6195,0,6400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,7480,1100,9768,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,35,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4187,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,646,1800,1118,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2276,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,60,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,20}
+QuestValues = {(227,5),(228,2),(229,2),(249,1),(250,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2853 Content={3216, 3425, 3585 Amount=4, 3282, 3031 Amount=9, 3505 String="Mission 1\n1) Find \"Kevin\" between Cyclops Bridge and Dwarf Bridge\n2) Say hi-->mission-->yes-->yes-->yes *forgot how many times*\n3) Go to Thais 4) Take the boat to Carlin\n5) Go to the Magic carpet in Femur Hills\n6) Go to Edron from there\n7) Take the boat to Venore\n8) Walk to Kazordoon\n9) Take the steamboat to Cormaya\n10) Go to the small boat, to go to edron, and take the carpet to Femur Hills\n11) walk to Kevin, and say hi-->mission-->yes\n\nMission 2\n1) Get a Crowbar(Venore/Edron)\n2) Go to Folda\n3) Go north west to the mountain\n4) go to the top, and use the Crowbar on the Mailbox\n5) Go to Kevin, and say hi-->mission-->yes\n\nMission 3\n1) Go to Venore\n2) Go to the room below the depot\n3) Find \"A strange guy\"\n4) Say hi-->hat-->hat-->hat *couple more times*, till he summons Rabbits*-->bill\n5) Go to Kevin, and say hi-->mission-->advancement-->yes-->mission-->yes\n\nMission 4\n1) Go to either a Goblin/Skeleton spawn, and colect 20 bones\n2) Go to Kevin, and say hi-->mission-->all-->yes-->yes\n\nMission 5\n1) Open the blinky door to the right\n2) Open the chest\n3) DO NOT OPEN THE PRESENT\n4) Go to Fibula\n5) Go to Dermot, and say hi-->present-->yes\n6) Go to Kevin, and say hi-->mission-->yes\n\nMission 6\n1) Go to Venore\n2) Go find Hugo south east from the depot\n3) say hi-->new dress pattern *say a few times i think, until he says he will send a mail to Kevin*\n4) Go to Kevin, and say hi-->new dress pattern-->yes\n\nMission 7\n1) Go to Kazordoon\n2) Find Talphion\n3) Say hi-->new dress pattern *couple times till he admits he did outfits before*\n4) Go to Kevin, and say hi-->new dress pattern-->yes\n\nMission 8\n1) Go to the Queen in Carlin\n2) say Hello Queen-->uniforms-->yes\n3) Go to Kevin, and say hi-->new dress pattern-->yes\n" Editor="Kursat'oz", 2856 Content={3003, 2874, 2874, 3031 Amount=5}}},
+               4 Content={3378},
+               5 Content={3066},
+               6 Content={3035 Amount=13},
+               10 Content={2920 SavedExpireTime=292}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2867 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 3130, 3304, 3504 Content={3506 String="Kursat'Sackville\ncarlin\n\nMission 1\n1) Find \"Kevin\" between Cyclops Bridge and Dwarf Bridge\n2) Say hi-->mission-->yes-->yes-->yes *forgot how many times*\n3) Go to Thais 4) Take the boat to Carlin\n5) Go to the Magic carpet in Femur Hills\n6) Go to Edron from there\n7) Take the boat to Venore\n8) Walk to Kazordoon\n9) Take the steamboat to Cormaya\n10) Go to the small boat, to go to edron, and take the carpet to Femur Hills\n11) walk to Kevin, and say hi-->mission-->yes\n\nMission 2\n1) Get a Crowbar(Venore/Edron)\n2) Go to Folda\n3) Go north west to the mountain\n4) go to the top, and use the Crowbar on the Mailbox\n5) Go to Kevin, and say hi-->mission-->yes\n\nMission 3\n1) Go to Venore\n2) Go to the room below the depot\n3) Find \"A strange guy\"\n4) Say hi-->hat-->hat-->hat *couple more times*, till he summons Rabbits*-->bill\n5) Go to Kevin, and say hi-->mission-->advancement-->yes-->mission-->yes\n\nMission 4\n1) Go to either a Goblin/Skeleton spawn, and colect 20 bones\n2) Go to Kevin, and say hi-->mission-->all-->yes-->yes\n" Editor="Knight-chi", 3505 String="Mission 9\n1) Go get Moldy Cheese, a Banana Skin and a Piece of Fur\n2) Go to Thais Castle\n3) Talk to Noodles\n4) Say sniff moldy cheese-->Do you like that?\n5) Say sniff banana skin-->Do you like that?\n6) Say sniff piece of fur-->Do you like that?\n7) Go to Kevin, and say hi-->new dress pattern-->yes\n\nMission 10\n1) Go back to Hugo\n2) say hi-->new dress pattern-->yes\n3) Go to Kevin, and say hi-->mission-->advancement-->yes-->mission-->yes\n\nMission 11\n1) Take 12 arrows, Grapes and 5 gp with you.\n2) Go to Edron and say measurements to the NCP that's selling parcels.\n3) Go to Carlin and say measurements to the NCP that's selling parcels. You need 12 arrows here.\n4) Go to Kazordoon and say measurements to the NCP that's selling parcels. You have to talk to the armory seller for the parcel NCP's measurements here.\n5) Go to Thais and say measurements to the NCP that's selling parcels.\n6) Go to Venore and say measurements to the NCP that's selling parcels. You need the grapes here.\n7) Go to Ab'Dendriel and say measurements to the NCP that's selling parcels. You need the 5 gp here.\n\nMission 12\n1) Go to Thais Troll Caves (east of Thais)\n2) Open the shovel hole\n3) Go down, and go to the right\n4) On the branch, go north\n5) On the 2nd branch, go east\n6) Go up the ladder, and open the closed door to your left\n7) Open the corpse for the horn\n8) Go to kevin, and say hi-->mission-->advancement-->yes-->mission-->yes\n*Gets Postal Horn*\n\nMission 13\n1) Open the blinky door to the left now\n2) Open the chest(make sure you have 500 Cap)\n3) Go to Vega\n4) Go west\n5) USE the bag on the mailbox\n6) Go to kevin, and say hi-->mission-->yes\n\nMission 14\n1) Go to Mintwallin\n2) Say hi to Markin, LOOK OUT its summons Mion Archers, Mages and Guards if you say \"hi\" for the first time. Try to lure them to a door so you can kill them one for one!\n3) Say hi-->letter-->yes\n4) Go to Kevin, and say hi-->mission-->advancement-->yes\n*Gets the Possibility to use the Hidden Mailboxes*" Editor="Knight-chi", 3507 String="kursat'oz\ncarlin\n" Editor="Kursat'Sackville"}, 3504 Content={3503 Content={3507 String="kursat'^sackville\ncarlin" Editor="Kursat'oz"}, 3507 String="kursat'oz\ncarlin" Editor="Acas Gren"}, 3502 Content={2911}}}

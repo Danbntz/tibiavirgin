@@ -1,0 +1,49 @@
+ID              = 11494503
+Name            = "Heldi"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (140,79-71-110-71)
+CurrentOutfit   = (140,79-71-110-71)
+LastLogin       = 1146915148
+LastLogout      = 1146915190
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38169,0,47000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,9961,3000,20800,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,0,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7269,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,103,1100,105,50)
+Skill = (10,37,0,10,0,0,0,0,0,0,0,6122,1100,6710,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,153,1100,154,20)
+Skill = (14,0,1200,0,0,0,70,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {8 Content={3551}}
+
+Depots      = {0 Content={3552, 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"The City Wall 7b\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"The City Wall 7b\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"The City Wall 7b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"The City Wall 7b\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2955, 2906, 3463, 2877, 2659, 3316, 3483, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The City Wall 7b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2853}}, 
+               2 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               7 Content={3031 Amount=37, 3367, 3367, 3502 Content={}}, 
+               8 Content={3502 Content={}}}

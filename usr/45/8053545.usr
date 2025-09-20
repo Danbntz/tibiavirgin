@@ -1,0 +1,58 @@
+ID              = 8053545
+Name            = "Dante Of Zanera"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,114-119-126-114)
+CurrentOutfit   = (134,114-119-126-114)
+LastLogin       = 1145685595
+LastLogout      = 1145685661
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,142547,0,156200,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,223360,1100,237809,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,233,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,75186,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,1800,30,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,51540,1800,72239,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,67,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6099,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,6,8,10,16,18,20,45}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(84,1),(85,1),(86,1),(87,1),(100,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(223,1),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2869 Content={3066, 3031 Amount=5, 3152 Charges=1, 2869 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3160 Charges=1, 2853 Content={3200 Charges=2, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3457, 3003}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3271},
+               7 Content={3372},
+               8 Content={3551},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3449 Amount=1, 3447 Amount=7, 3350, 3507 String="Dante Of Zanera\nCarlin"}, 3502 Content={3411}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={3447 Amount=15, 2866 Content={}, 3454, 2869 Content={}, 2868 Content={}, 3054 RemainingUses=200, 3056 RemainingUses=200, 2857 Content={}, 2876 ContainerLiquidType=0}, 2469 Content={3552, 3291, 3283, 3456, 3456, 3375, 3083 RemainingUses=150, 3046 SavedExpireTime=2995, 3409, 3046 SavedExpireTime=2999}, 2469 Content={3585 Amount=1, 3592}, 2650, 3359, 3046 SavedExpireTime=0, 3084 RemainingUses=250, 3098 SavedExpireTime=0, 2644, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 2650, 3421, 3285, 3305, 3077, 3098 SavedExpireTime=0, 2856 Content={3563, 3083 RemainingUses=150, 3054 RemainingUses=22, 3035 Amount=100, 3035 Amount=43}, 2656, 3191 Charges=2, 2667, 2659, 3160 Charges=1, 2639, 2640, 2664 RemainingExpireTime=420, 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 26\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Flat 26\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}}

@@ -1,0 +1,57 @@
+ID              = 9009725
+Name            = "Angel Tiana"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (137,132-15-15-16)
+CurrentOutfit   = (137,132-15-15-16)
+LastLogin       = 1147145751
+LastLogout      = 1147145774
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31685,8]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,337243,0,368300,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,281200,1400,313485,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,1,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,29795,1100,29912,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,75427,1100,82740,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,389,1200,496,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,28,0,10,0,0,0,0,0,0,0,7662,1200,7736,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1089,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,51,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,10,20,29,42,49,51}
+QuestValues = {(17,1),(18,1),(60,1),(61,1),(62,1),(63,1),(64,1),(72,1),(73,1),(74,1),(75,1),(106,1),(107,1),(115,1),(125,1),(126,1),(190,1),(191,1),(217,3),(221,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2870 Content={2874, 2874, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3582 Amount=1, 3078, 3003, 2868 Content={3160 Charges=1, 3160 Charges=1, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3370},
+               6 Content={3349},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3446 Amount=68}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="Angel Tiana\nKazordoon" Editor="Angel Tiana", 2853 Content={3266, 3266, 3266, 3266}, 2853 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}}, 3504 Content={3507 String="Angel Tiana\nKazordoon" Editor="Natasha Devil", 3446 Amount=100, 3446 Amount=50}, 3504 Content={3507 String="Angel Tiana\nKazordoon" Editor="Natasha Devil"}, 3502 Content={2853 Content={3505 Editor="Angel Tiana", 3031 Amount=15}}}, 
+               3 Content={2854 Content={2853 Content={3031 Amount=1}, 2854 Content={2981, 3377, 2874, 2853 Content={3307, 3377, 3425, 2874, 2874}, 2853 Content={3207 Amount=1, 2853 Content={2969 KeyNumber=3033, 3412, 3308, 3503 Content={3507 String="EDRON\nFLKEEN" Editor="Darzhaw"}, 3599 Amount=8}, 3362, 3308, 3378, 3362, 2874}}, 2853 Content={3551, 3412, 3336, 3003, 3270, 3457, 3003, 2843 String=":O\n" Editor="Sir Colima"}, 2866 Content={3305, 3291, 3505 Editor="Angel Tiana", 2969 KeyNumber=3033, 3299, 3505, 3505, 3505, 2874, 2874, 3658, 3003, 3505 String="tu Mamá me MAMA\nTU PAPI CHULO\ntu mama le chorea wn -.-" Editor="Matsdip", 2874, 3308, 3291, 3661, 3659, 3003}, 2992 Amount=5, 3505 Editor="Angel Tiana", 3492 Amount=100, 3598 Amount=17}, 3502 Content={2469 Content={2867 Content={2867 Content={3447 Amount=30, 3447 Amount=100, 2853 Content={3003, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3350, 3350}, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3449 Amount=87}, 2867 Content={3446 Amount=64, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2867 Content={3084 RemainingUses=250, 3004, 3004, 3007, 3007, 3097, 3054 RemainingUses=200, 3008, 3084 RemainingUses=250, 3084 RemainingUses=14, 3084 RemainingUses=250, 3083 RemainingUses=150, 3082 RemainingUses=50, 3004, 3077, 2906, 3017, 3017, 3017, 3017}, 2867 Content={3282, 3084 RemainingUses=250, 3557, 3351, 3557, 3357, 2853 Content={3031 Amount=14, 2906, 3035 Amount=12}, 3046, 3349, 3450 Amount=1, 3148 Charges=1, 3568, 4290, 2393, 3313, 3077, 3287 Amount=4, 2991, 2955}}, 2868 Content={2865 Content={3473, 2949, 2949, 3045 RemainingUses=196, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3046, 3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046}, 2853 Content={3658, 3658, 3658, 3659, 3658, 3658}}, 2865 Content={3598 Amount=5, 3731 Amount=1, 3587 Amount=10, 3597 Amount=8, 3579 Amount=5, 3591 Amount=20, 3725 Amount=10, 3586 Amount=5, 3601 Amount=10, 3585 Amount=33}, 2869 Content={2871 Content={2872}, 2869, 2854 Content={2854, 2854, 2854, 2854, 2854}, 2867 Content={2867, 2867, 2867}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}, 2865 Content={2865, 2865}, 2870, 2866 Content={2866, 2866}}}, 2473 Content={2866 Content={3492 Amount=12, 3658, 3083 RemainingUses=150, 3350, 3350, 3350, 3350}, 2868 Content={2853 Content={2949, 3457, 3457, 3457}, 2853 Content={3658, 3483, 3308}, 2853 Content={3299, 3658, 3603 Amount=12, 3605 Amount=30, 3453}}, 2865 Content={2857 Content={3291, 3603 Amount=4, 3483, 2401}, 2857 Content={3456, 3658, 3603 Amount=6}, 2853 Content={3078}, 2853 Content={3602 Amount=5, 3585 Amount=5, 3598 Amount=18}, 2853 Content={3291}}, 2869 Content={2868 Content={3266, 3299, 3269, 3349, 3349}, 2866 Content={3658, 2393, 3658, 3658}}}}}, 
+               6 Content={3502 Content={}}}

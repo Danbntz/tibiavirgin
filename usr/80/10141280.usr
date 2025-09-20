@@ -1,0 +1,56 @@
+ID              = 10141280
+Name            = "Dark'rafael"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-114-0-114)
+CurrentOutfit   = (129,0-114-0-114)
+LastLogin       = 1142182845
+LastLogout      = 1142182894
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,122885,0,135100,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,124480,1400,157982,1600)
+Skill = (2,236,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,8949,1100,9834,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,14192,1100,14635,30)
+Skill = (8,28,0,10,0,0,0,0,0,0,0,7476,1200,7736,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,25,1200,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,139,1200,181,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,106,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2345,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,8,10,20,42,49,51}
+QuestValues = {(18,1),(35,1),(59,1),(60,1),(61,1),(121,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               3 Content={2854 Content={2920, 2920, 2920, 2922 SavedExpireTime=94, 2920, 2920, 3446 Amount=100, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 2920 SavedExpireTime=422}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3446 Amount=76}}
+
+Depots      = {0 Content={3504 Content={3507 String="Dark'rafael\nThais" Editor="Dark'rafael"}, 3502 Content={3504 Content={2911, 2911, 2911 SavedExpireTime=826, 2911 SavedExpireTime=2997, 2911}, 3031 Amount=90, 3035 Amount=23, 3003, 3097, 3457, 3504 Content={3507 String="Dark'rafael\n" Editor="Dark'rafael"}, 2854 Content={3446 Amount=100, 3198 Charges=5, 3198 Charges=4, 3198 Charges=2, 3160 Charges=1, 3425, 3271}, 3277 Amount=5, 3577 Amount=13, 3003}}, 
+               1 Content={2473 Content={3465 ContainerLiquidType=2, 3123, 3465, 3465, 3123, 3430, 3003}, 3502 Content={3031 Amount=30, 3599 Amount=8, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2870 Content={3448 Amount=49, 3447 Amount=56, 3349, 3350}, 3504 Content={3507 String="Dark'rafael\nThais" Editor="Dark'rafael"}, 3277 Amount=1, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2869, 2870, 2865, 2867, 2854}, 2854 Content={3299, 3425, 3353, 3377, 3384, 3359, 3353, 3269, 3285, 3353, 3413, 3377, 3359, 3377, 3359, 3359}, 2854 Content={3004, 3054 RemainingUses=200, 3054 RemainingUses=200, 3012, 3056 RemainingUses=200, 3054 RemainingUses=200}, 2860 Content={3155 Charges=1}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=32, 3483, 3483, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2867 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 2970 KeyNumber=4502, 2970 KeyNumber=4503, 2969 KeyNumber=4600, 2973 KeyNumber=3520}, 2854 Content={3577 Amount=43, 3582 Amount=21}, 2473 Content={2653}, 2473 Content={3030 Amount=1, 3028 Amount=1, 3293, 3736 Amount=5, 3740 Amount=1, 3738 Amount=2, 2955, 2955}, 2473 Content={2920, 2920, 2920 SavedExpireTime=595, 3277 Amount=2, 2853, 2920, 2920, 2920 SavedExpireTime=570}, 2473 Content={2853}, 2473 Content={2920, 2920, 2922 SavedExpireTime=236, 2920, 2920, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3457, 3457, 3457, 3457, 3456, 3456, 3456, 3456}}, 2473 Content={3059, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2920 SavedExpireTime=317, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=2, 3059, 3658}, 3059}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

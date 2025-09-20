@@ -1,0 +1,54 @@
+ID              = 8899692
+Name            = "Fara Gambler"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,4-68-95-114)
+CurrentOutfit   = (134,4-68-95-114)
+LastLogin       = 1148257573
+LastLogout      = 1148257636
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32222,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10862,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,5494,3000,6400,1600)
+Skill = (2,213,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,0,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,2065,1100,2138,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,25,0,10,0,0,0,0,0,0,0,1692,1100,1797,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,45,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(35,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2865 Content={3035 Amount=1, 3031 Amount=39, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3350, 3349, 3446 Amount=19, 3502 Content={}}, 
+               3 Content={3017, 2857 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 2815 String="You read in orcish:\nSecure this area and make sure that no enemy can enter our land. In case of an heavy attack call reinforcement by using the drum.", 3502}, 
+               5 Content={2864, 2864, 2853, 3448 Amount=1, 2639, 2853 Content={3147, 3507 String="chipi gambler\ndarashia" Editor="Chipi Gambler", 3483, 3012, 3046 SavedExpireTime=2998}, 3504 Content={3504 Content={3507 String="veckter gambler\ndarashia" Editor="Hypnoz", 3507 String="Hypnoz\nDarashia" Editor="Hypnoz", 3507 String="Hypnoz\nDarashia" Editor="Hypnoz"}, 3504 Content={3507 String="Hypnoz\nDarashia\nwe let me out next time so I can play too\nyou friend al k\nmamao" Editor="Acid Sky"}}, 2853 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3582 Amount=13, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3504, 3503 Content={3504, 3507}, 3504 Content={3507 String="vegeta druid\nthais\n" Editor="Veckter Gambler"}, 2632, 2853 Content={3504 Content={3507 String="chipi gambler\ndarashia" Editor="Chipi Gambler"}}, 3507 String="vegeta druid\ndarashia" Editor="Chipi Gambler", 3504, 2874, 3007, 3298 Amount=2, 3277 Amount=13, 3456, 3504, 2874, 3003, 2874, 2874, 3492 Amount=1, 3425, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 3506 String="Warning!\n\nThe monthly rent of 1780 gold\nfor your house \"Darashia 5, Flat 13\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1780 gold\nfor your house \"Darashia 5, Flat 13\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="fara gambler\ndarashia" Editor="Potro gol"}, 3502}}

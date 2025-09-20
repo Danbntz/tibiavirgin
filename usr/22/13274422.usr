@@ -1,0 +1,61 @@
+ID              = 13274422
+Name            = "Mata-Zanoz"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,77-78-114-0)
+CurrentOutfit   = (134,77-78-114-0)
+LastLogin       = 1148211211
+LastLogout      = 1148211375
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32344,31793,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,421766,0,452600,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,398273,1100,433638,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,192,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,31307,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,21,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,389,2000,750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,61,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,191,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,981,1100,1023,20)
+Skill = (14,0,1200,0,0,0,159,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,15,16,18,19,20,22,23,26,29,39,44,75,81,88,89}
+QuestValues = {(14,1),(15,1),(16,1),(24,1),(32,1),(33,1),(34,1),(36,1),(53,1),(54,1),(58,1),(59,1),(60,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(106,1),(107,1),(108,1),(113,1),(114,1),(140,1),(141,1),(190,1),(191,1),(223,1),(224,1),(227,2),(257,1),(332,1),(333,1)}
+Murders     = {1147353276,1147613639}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=100, 3031 Amount=74, 3003}},
+               4 Content={3370},
+               5 Content={3073},
+               6 Content={3428},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502 Content={3504 Content={2870 Content={2865 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3349, 3349, 3349, 3349}, 3507 String="Mata-Zanoz\nThais" Editor="Mata-Zanoz"}, 3504 Content={2869 Content={2854 Content={2869 Content={2854 Content={2871 Content={2871 Content={2868, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}}}}}}, 3507 String="Mata-Zanoz\nThais" Editor="Mata-Zanoz"}, 2854 Content={3492 Amount=85, 3457, 2874, 3003}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853, 3377, 3377}, 3377, 3377}, 3377}}}, 2853 Content={2853, 3377}, 2853, 2853 Content={2853}, 2870, 3507 String="Mata-Zanoz\nThais" Editor="Mata-Zanoz"}, 3504 Content={2853 Content={2853 Content={3505 Editor="Rikkuh", 3505 Editor="Mata-Zanoz", 3505 Editor="Mata-Zanoz", 3505 Editor="Mata-Zanoz", 3505 Editor="Mata-Zanoz", 3505 Editor="Mata-Zanoz", 3505 Editor="Mata-Zanoz", 2853}, 3483, 2853 Content={2853 Content={3377}}}, 3507 String="Mata-Zanoz\nThais\n" Editor="Mata-Zanoz"}, 2853 Content={2870 Content={2870, 2853 Content={2853, 2853, 2853, 2853}}, 2870 Content={2853 Content={2853}, 2853 Content={2853}, 2853 Content={2853 Content={3377}}, 2870}}}}, 
+               1 Content={3504 Content={3505 String="Toma, gracias x dejarmela\nP.D: me he comprado un warrior helmet ^^" Editor="Ashran The Necromantic", 3370, 3507 String="Mata-Zanoz\nCarlin" Editor="Ashran The Necromantic"}, 3506 String="Mata-Zanoz\nCarlin\n\nkillo ya no me hace falta la armadura me la dio un tio despues de darle una bote de vida  cuando no le kedaba nada y se lo iva a cargar un guard\n\n" Editor="Rhad Maron", 3502 Content={3418, 3577 Amount=2, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3457, 3411, 2871, 3504 Content={2853 Content={3411, 2853 Content={2853 Content={3411, 2853 Content={3411, 3411, 3411, 2853 Content={2853 Content={3411, 2853 Content={3411, 3411, 3411}}}}}}}, 2853 Content={2853 Content={3264, 3411, 3411, 3411, 2853 Content={3411, 3411, 2853 Content={3411, 3411, 3411, 3411, 2853 Content={3411}}}}}, 2853 Content={2853 Content={3411, 2853 Content={3411, 2853 Content={3411, 2853 Content={3411, 3411, 3411, 3411, 3411, 3411, 2853 Content={3411, 2853 Content={3411, 3411, 3411, 2853 Content={3411, 3411, 3264}}}}}}}}, 2853 Content={3411, 2853 Content={3411, 2853 Content={3411}}}, 2853 Content={3504 Content={2874, 2874, 2874, 2874, 2874, 2874, 3507 String="Kalashnikov Vaquero\nAnkrahmun" Editor="Kalashnikov Vaquero"}, 2853 Content={2853 Content={3411, 2853 Content={2853 Content={3411, 3411, 3411, 3411, 3411}}}}}, 2853 Content={3411, 2853 Content={2853 Content={3411, 3411, 2853 Content={2853 Content={3411, 3377}, 3411}}}}, 2853 Content={2853 Content={3411, 2853 Content={2853 Content={3264, 3411}}}}, 2853 Content={2853 Content={3411, 2920, 3264, 2853 Content={2853 Content={3411, 2853 Content={3264, 3411, 2853 Content={3411, 3411, 3411, 2853 Content={3264, 3411}}}}}}}, 3507 String="Mata-Zanoz\nCarlin" Editor="Mata-Zanoz"}, 3504 Content={2473 Content={3409, 3409, 3275, 2853 Content={3286, 3286}}, 2853 Content={2853 Content={3411, 3411, 2853 Content={3264, 3411, 3411, 3411}}}, 2853 Content={3409, 3409, 3301}, 3026 Amount=1, 2853 Content={3411, 3349, 3411, 2853 Content={2853 Content={3411, 3411, 2853 Content={3411, 2853 Content={3411, 3411, 3411}}}}}, 2853 Content={3411, 2853 Content={3411, 2853 Content={3313, 2853 Content={3411}}}}, 2853 Content={2870 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3301}, 3507 String="Mata-Zanoz\nCarlin" Editor="Mata-Zanoz"}, 2857 Content={3293, 3453}, 2853 Content={2853 Content={2853 Content={3375, 3375, 2853 Content={3375, 3375}, 3375, 3375, 3375, 3375}}}, 3003, 2854 Content={3350, 3003}, 2853 Content={2870, 2870 Content={2870, 2854, 2853 Content={2853 Content={2853}}, 3457}, 3349, 2853 Content={3507 String="Mata-Zanoz\nCarlin" Editor="Mata-Zanoz", 3507, 3507 String="Mata-Zanoz\nCarlin" Editor="Mata-Zanoz"}, 2870 Content={2870 Content={2870, 2870}}, 2854 Content={2870}, 2870 Content={2870 Content={2853, 2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}}, 2854 Content={3492 Amount=47, 3492 Amount=100, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3310, 3411}, 2868 Content={3003, 3457, 3104, 3105}, 2854 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2854}}}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 2853 Content={2853 Content={3457, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3114 Amount=4}, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}}}}}}, 
+               2 Content={3502 Content={3349, 2854, 3264, 3350, 3377, 3446 Amount=4, 3503 Content={3507 String="principe do vale\nkazordoon\n" Editor="Principe do Vale"}, 3147, 3003}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3457, 3507 String="mata-zanoz\nedron" Editor="Manueliyo"}, 3502 Content={3446 Amount=14, 3349, 3349}}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={2853 Content={3367, 3367, 3286, 3367, 2853 Content={3367, 3354, 3354, 3286, 3286, 3367, 3354, 2853 Content={3377, 3286, 3367, 3286, 3286, 3286, 3354, 3354}}}, 3031 Amount=95, 3035 Amount=16, 3551, 3147, 3350, 3338, 3456, 3503 Content={3507 String="Dark Gunman\nCarlin" Editor="Mata-Zanoz"}}}, 
+               8 Content={3502}}

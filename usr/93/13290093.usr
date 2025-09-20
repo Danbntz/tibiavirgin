@@ -1,0 +1,48 @@
+ID              = 13290093
+Name            = "Longswords"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (129,114-94-94-114)
+CurrentOutfit   = (129,114-94-94-114)
+LastLogin       = 1147371874
+LastLogout      = 1147371897
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32097,32189,5]
+PlayerkillerEnd = 0
+
+Skill = (0,5,0,1,0,0,0,0,0,0,1,1126,0,1500,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,170,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,20,20,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,74,74,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,440,440,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,1154,1500,1318,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,931,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,21,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,11,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(223,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={2853 Content={3453}, 2816 String="The orc - The green skinned orc is intelligent and able to use weapons and armor. They are warriors of some power and very dangerous in greater numbers. We are lucky not to have encountered any of the more dangerous orcs like warriors or berserkers on this isle.\n\nThe poison spider - Roughly only slightly tougher then the ordinary spider it can poison you. Try to avoid such fate since they usually live far from our base and you might not make it to our local monk for healing.\n\nThe bug - The bug is not that dangerous. More an annoyance then a threat to an adventurer of some experience. It might become a lethal threat to a perfect rookie. With some preparation they should not be worth to bother about.\n\nThe deer - Deers are a fine supply for food and are non-agressive animals and try to flee on sight. It might be difficult to catch them and you might easily enter the territory of a local predator while chasing them. \n\nThe rotworm - A creature of decay that lives underground like its small cousin, the earthworm. Its toothed maw is a formidable weapon and rotworms have torn more then one adventurer to pieces. A horde of them might kill anyone, so great caution is advised while encountering them.\n\nOther beasts - It is certain, that other beast live in the dungeons of our isle. But they are not numerous enough to become recognized yet. If you encounter any unknown beast it is certainly dangerous and a potential lethal enemy. Don't underestimate them.\n\nThe wasp - fast and deadly to the unexperienced. Their speed makes them dangerous, even more in high numbers", 2905, 3292, 2969 KeyNumber=4600}},
+               4 Content={3378},
+               6 Content={3277 Amount=10},
+               10 Content={3003}}
+
+Depots      = {}

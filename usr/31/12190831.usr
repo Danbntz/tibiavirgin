@@ -1,0 +1,55 @@
+ID              = 12190831
+Name            = "Dragonices"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,0-82-114-114)
+CurrentOutfit   = (133,0-82-114-114)
+LastLogin       = 1146954300
+LastLogout      = 1146955448
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32329,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,732693,0,780700,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,494830,1100,528063,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,336,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,42714,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,13,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3420,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,22,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,127,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1043,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,113,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,11,16,18,20,23,29,38,39,44,45,76,81}
+QuestValues = {(20,1),(23,1),(35,1),(59,1),(60,1),(61,1),(69,1),(71,1),(93,1),(94,1),(95,1),(125,1),(126,1),(137,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               3 Content={2868 Content={3577 Amount=4, 3031 Amount=40, 3003, 3457, 3031 Amount=100, 3200 Charges=3, 2868 Content={3147, 3505 String="Dragonices hunting here no down!\nrespect!\nmesage me!\n2 hours!" Editor="Dragonices", 3505 String="Dragonices hunting here no down!\nrespect!\n4 hours!\nmesaje me!\n" Editor="Dragonices"}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3370},
+               5 Content={3434},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3071}}
+
+Depots      = {1 Content={3327, 3003, 2853 Content={3425, 3349, 3349, 3425, 3425, 3425, 3425, 3425}, 3300, 2973 KeyNumber=3520, 3502 Content={2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3035 Amount=34, 3035 Amount=100, 3598 Amount=7, 3585 Amount=2, 3602 Amount=9, 3353, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3287 Amount=11, 3069, 3092, 2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3463, 2989, 3177 Charges=1, 2868 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3447 Amount=42, 2854 Content={3350, 3448 Amount=20, 3042 Amount=1, 3092, 3082 RemainingUses=50, 2991, 3092, 3085 RemainingUses=196, 3092, 3092, 3092, 3177 Charges=1, 3177 Charges=1, 2969 KeyNumber=4600, 3310, 2857 Content={3033 Amount=2, 3092, 3092, 3092, 3092, 3004, 3077, 3030 Amount=2}, 3509, 3074}, 3483, 3289, 2955}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

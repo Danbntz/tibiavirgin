@@ -1,0 +1,59 @@
+ID              = 10440265
+Name            = "Nullx"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,57-95-114-97)
+CurrentOutfit   = (134,57-95-114-97)
+LastLogin       = 1148249848
+LastLogout      = 1148254098
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32902,32027,7]
+PlayerkillerEnd = 0
+
+Skill = (0,61,0,1,0,0,0,0,0,0,1,3442056,0,3605100,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,594872,3000,1748800,1600)
+Skill = (2,980,980,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,242,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,130,130,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1795,1795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,74,0,10,0,0,0,0,0,0,0,471777,1100,489370,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,275,1400,328,30)
+Skill = (8,79,0,10,0,0,0,0,0,0,0,358498,1100,394373,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,343,1100,385,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,96,1100,105,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,684,1100,796,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2459,1100,2684,20)
+Skill = (14,0,1200,0,0,0,182,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,8,0,115,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(18,1),(33,1),(34,1),(46,1),(50,1),(62,2),(67,1),(69,1),(70,1),(71,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(112,1),(125,1),(126,1),(133,1),(135,1),(136,1),(137,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(154,1),(155,1),(170,1),(171,1),(172,1),(173,1),(174,1),(175,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(217,3),(225,1),(253,1),(257,1),(292,1),(324,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3031 Amount=7, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3200 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3003, 3583 Amount=3}},
+               4 Content={3377},
+               5 Content={3412},
+               6 Content={3291},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="nullx\nthais" Editor="Nullx"}, 3504 Content={3377, 3377}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Greenshore Village 6\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               1 Content={3504 Content={3035 Amount=1, 3507 String="nullx\ncarlin" Editor="Nullx"}, 3504 Content={3507 String="Nullx\nCarlin"}, 3504 Content={3507 String="nullx\ncarlin"}, 3502}, 
+               2 Content={3504 Content={3350, 3046 SavedExpireTime=58}, 3504 Content={3507 String="nullx\nKazordoon\n" Editor="Akas Seryuk"}, 3504 Content={2867 Content={2870 Content={3503 Content={3507}, 3285, 2970 KeyNumber=3142, 3046 SavedExpireTime=2436, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2853 Content={3505 String="NULLX HUNTING HERE\nPLZ DONT KILL DWARFS..\nMSG FIRST..\n                           l l\n                           l l\n                        _l l_\n                        \\    /\n                           v                           \n\nkill this noobs ryth-molino y \nlord malomx" Editor="Nullx", 3505 String="never\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNULLX HUNTING HERE\nPLZ DONT KILL DWARFS..\nMSG FIRST..\n                           l l\n                           l l\n                        _l l_\n                        \\    /\n                           v                           " Editor="Baxito'Cobain"}, 3483}, 3502 Content={2854 Content={2871 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2868 Content={3092 SavedExpireTime=1798}}, 3092, 3092, 3457}, 2867 Content={2973 KeyNumber=5050, 2972 KeyNumber=3980, 2970 KeyNumber=4601, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3801, 2969 KeyNumber=3610, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3650, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 3377, 3409, 3285, 3070}}, 
+               3 Content={3502 Content={3267, 3430}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3292, 2853 Content={3147, 3147, 3147, 3147}, 3035 Amount=68, 2854 Content={3357, 3093 SavedExpireTime=1352, 3383, 3425, 2667, 3273, 2667, 3349, 3349}, 3504 Content={3349, 3349, 3446 Amount=6, 3349, 3349, 3007, 3391, 3085 RemainingUses=200, 3050 SavedExpireTime=1092, 3416}, 2867 Content={3305, 2865 Content={2854 Content={2866 Content={3585 Amount=7, 3602 Amount=25, 2854 Content={3600 Amount=2, 3730 Amount=6, 3588 Amount=100}, 3586 Amount=2, 3584 Amount=1, 3591 Amount=1, 3587 Amount=9, 3590 Amount=100, 3590 Amount=100, 3588 Amount=19, 3723 Amount=16, 3579 Amount=27, 3724 Amount=1, 3598 Amount=21}, 3004, 3054 RemainingUses=200, 2854 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 2973 KeyNumber=3520, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 3097 SavedExpireTime=3579, 2973 KeyNumber=3520}, 2857 Content={3736 Amount=7, 3739 Amount=1, 3661, 3741 Amount=1, 3658, 2857 Content={3661, 3661, 3738 Amount=1, 3740 Amount=4, 3661}, 3735 Amount=5, 3738 Amount=10}, 2640, 3077, 3110, 3056 RemainingUses=200, 3008, 2969 KeyNumber=3302, 2842, 2868 Content={3287 Amount=3, 3316, 2877, 2901}}, 2853 Content={3293, 2853 Content={3453, 3453, 2920 SavedExpireTime=596, 3012, 2920, 2920}, 3012, 2920 SavedExpireTime=144, 3453, 3483, 3492 Amount=100}, 2868 Content={3008, 3083 RemainingUses=150, 3056 RemainingUses=200, 3483, 3453, 3293, 2969 KeyNumber=4600, 3456, 3507 String="Naleze do Bractwa Czarnych Magow!" Editor="Venom Irli"}, 2854 Content={2989, 3008, 2874 ContainerLiquidType=3, 3308, 3003, 3308, 2973 KeyNumber=3520, 2920, 1781 Amount=31, 3003, 2969 KeyNumber=5000, 2826 String="Mystic Rituals of the Ancient Trolls", 3008, 3377}, 3017, 3316}, 3551, 3379, 3316, 3045 RemainingUses=200, 3084 RemainingUses=201, 3077}, 3457, 3502 Content={2868 Content={2854 Content={2868 Content={2868 Content={2854 Content={2854 Content={2865 Content={2867 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3572, 2867 Content={3419, 3295, 3281, 3391, 3357, 3357, 3351, 3351}, 2869}, 3504 Content={2856 Content={2991}, 2876, 3066, 2853 Content={2853 Content={2853 Content={3084 RemainingUses=231, 3492 Amount=100}}}, 2853 Content={3421}}, 4871, 3012, 3093}}, 
+               7 Content={2853 Content={3077, 3291}, 3504 Content={3507 String="Nullx\nAnkrahmun" Editor="Akas Seryuk"}, 3502}, 
+               8 Content={3502 Content={3299, 3352, 3286, 3352}}}

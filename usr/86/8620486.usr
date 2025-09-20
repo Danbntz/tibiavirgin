@@ -1,0 +1,53 @@
+ID              = 8620486
+Name            = "Kai'tano"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,39-95-95-95)
+CurrentOutfit   = (133,39-95-95-95)
+LastLogin       = 1147404690
+LastLogout      = 1147404930
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32380,32172,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9790,0,13000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,12960,1100,15179,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,10,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7870,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,17,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,5945,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,4,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,27,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {8,10,20,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(86,1),(87,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3355},
+               2 Content={3083 RemainingUses=150},
+               3 Content={2866 Content={3003, 3031 Amount=4, 3003, 3457, 2866 Content={3198 Charges=2, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3378},
+               5 Content={3430},
+               8 Content={3552}}
+
+Depots      = {0 Content={3416, 3507 String=" tQm PrImIzhOu!! *La CouSine* e!a :D", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Alai Flats, Flat 23\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="Kai'tano\nthais"}, 3502 Content={}}, 
+               3 Content={2865 Content={3311, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3502 Content={}}, 
+               4 Content={3504 Content={3507 String="kai'tano\nedron"}, 3355, 3504 Content={3507 String="Kai'tano\nedron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="kai'tano\ndarashia"}, 3504 Content={3507 String="Kai'tano\ndarashia"}, 3504 Content={3507 String="Kai'tano\nDarashia"}, 3502 Content={}}}

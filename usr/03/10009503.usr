@@ -1,0 +1,59 @@
+ID              = 10009503
+Name            = "Foladorzinho"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,0-0-0-0)
+CurrentOutfit   = (133,0-0-0-0)
+LastLogin       = 1148245932
+LastLogout      = 1148249184
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33195,32827,6]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,832868,0,847400,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,958771,1400,1215653,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,107,107,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,68,0,10,0,0,0,0,0,0,0,260135,1100,275801,100)
+Skill = (7,82,0,10,0,0,0,0,0,0,0,300203,1100,315045,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,1162,1200,1297,50)
+Skill = (9,23,0,10,0,0,0,0,0,0,0,2549,1200,2959,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,73,1200,109,50)
+Skill = (11,22,0,10,0,0,0,0,0,0,0,2025,1200,2424,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5430,1100,5982,20)
+Skill = (14,0,1200,0,0,0,780,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,184,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,7,8,10,15,20,29,30,44,45,49,51,76,79,81}
+QuestValues = {(1,4),(2,6),(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(29,1),(30,1),(33,1),(34,1),(35,1),(41,1),(42,1),(43,1),(44,1),(46,1),(60,1),(61,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(115,1),(124,1),(125,1),(126,1),(153,1),(179,1),(180,1),(190,1),(211,4),(217,3),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3572},
+               3 Content={2868 Content={3583 Amount=4, 3446 Amount=70, 3446 Amount=100, 2866 Content={2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}},
+               4 Content={3567},
+               5 Content={3349},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={2866 Content={3265, 3275, 2865 Content={3446 Amount=67, 3380, 3557, 3351, 3357, 3065, 3265}, 3384, 3265, 3317, 3282}, 3507 String="Foladorzinho\nCarlin\n" Editor="Foladorzinho"}, 2854 Content={3483, 3003, 2969 KeyNumber=4600}, 3502 Content={3031 Amount=14, 3031 Amount=100, 3353, 3035 Amount=27}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="foladorzinho\ndarashia\n" Editor="Joeek"}, 3504 Content={3507 String="Foladorzinho\nDarashia\n" Editor="Lady Gret"}, 2659, 3215 Amount=1, 3483, 3444, 2853 Content={2903, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 3457, 2853 Content={3085 RemainingUses=200, 2971 KeyNumber=3702, 3049, 3558, 3049, 3084 RemainingUses=250}}, 3502}, 
+               6 Content={3504 Content={3507 String="Foladorzinho\nvenore" Editor="Femea Brax"}, 3502}, 
+               7 Content={2870 Content={2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=5010, 2969 KeyNumber=4603, 2969 KeyNumber=4600, 2973 KeyNumber=3520}, 3436, 3506 String="foladorzinho\nankrahmun\n\n\n\nbrigada tava precisando . Aceito sim suas desculpas mais n vai achar que é pra gente voltar " Editor="Alis Shis", 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={2857 Content={3046 SavedExpireTime=886, 3298 Amount=4, 3017, 3046, 3077, 3084 RemainingUses=250}, 2865 Content={4839}, 3447 Amount=10, 2870 Content={3557, 2860 Content={2857 Content={2857}, 2860 Content={2860}}}, 2866 Content={3062, 3353, 3353, 3353, 3353}, 2868 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 2868 Content={3166 Charges=2, 3166 Charges=4, 3166 Charges=4, 3166 Charges=4, 3166 Charges=4, 3166 Charges=3, 3166 Charges=4, 3166 Charges=2}, 2868 Content={3147, 3147, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3148 Charges=2, 3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2866 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2866 Content={3174 Charges=5}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=1, 3198 Charges=4}, 2867 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=1}}}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3584 Amount=86, 3739 Amount=1, 3598 Amount=9, 3602 Amount=10, 3585 Amount=43, 3598 Amount=100, 3595 Amount=50, 3588 Amount=11, 3601 Amount=7, 3586 Amount=25, 3587 Amount=29}, 3507 String="soul of zanera\nport hope" Editor="Son Saissu", 3507 String="Soul of Zanera\nAnkrahmun" Editor="Systeim Lancelot", 3507}, 2854 Content={3483, 3483, 3483, 3483, 3492 Amount=39, 3277 Amount=57, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3050, 2868 Content={3459, 3093 SavedExpireTime=678, 3350, 2991, 3093, 3059, 2903, 3061, 3061, 3061, 3061, 3577 Amount=1, 3008, 3350, 3093 SavedExpireTime=1788, 3266, 3059}, 2853 Content={3556, 3076, 3050, 3050, 3084 RemainingUses=250, 3056 RemainingUses=200, 3097, 3097}, 2853 Content={3403, 3589 Amount=25, 3577 Amount=35, 3008, 3097, 3092, 3448 Amount=12}, 2868 Content={2911 SavedExpireTime=2956, 3377, 3425, 3425, 3425}, 2872 Content={3551, 3007, 3327, 3082 RemainingUses=50, 3572}, 2868 Content={2864}, 2867 Content={3658, 3287 Amount=2, 3736 Amount=1, 3674, 2955, 2656}, 2854 Content={3059, 3582 Amount=8, 3590 Amount=9, 3601 Amount=5, 3588 Amount=10, 3602 Amount=5, 3605 Amount=1, 3584 Amount=2, 3586 Amount=4, 3595 Amount=3, 3591 Amount=3, 3585 Amount=7, 3600 Amount=5, 3606 Amount=3, 3587 Amount=3}, 3507, 3504 Content={2854 Content={3007, 3054 RemainingUses=8, 3301}, 2854 Content={2854, 2853 Content={3572, 3572, 3572, 3572, 3572, 3572}, 2815 Editor="Gemzis"}, 2854 Content={2667, 2647, 2650, 2667, 2653, 2667, 2659, 2653, 2659, 2659, 2659, 2659, 2659, 2656, 2656, 2644, 2644, 2656, 2667, 2656}, 2854 Content={3008, 2854, 3457, 3003}, 3507 String="foladorzinho \nankrahmun\n" Editor="Dragon caju"}, 3504 Content={2854 Content={3587 Amount=8, 3425}, 2854 Content={2854 Content={2854 Content={2854, 3056 RemainingUses=200, 2992 Amount=5, 3097 SavedExpireTime=3597}}, 2854, 2868 Content={2656, 3097 SavedExpireTime=2009, 3050 SavedExpireTime=1798, 3097 SavedExpireTime=2754}, 2854 Content={3377, 3658, 2955, 2991}, 2868 Content={3421, 3285}, 2854 Content={3330, 3330, 3327, 3285, 3003}, 2865 Content={2874, 2854}}, 3504 Content={2853 Content={3327, 3457}, 3507 String="star gogolak\ncarlin\n" Editor="Sir Capitos"}, 3507 String="foladorzinho \nankrahmun\n" Editor="Star gogolak"}, 3301, 2906, 3299, 3502 Content={3299, 3447 Amount=1, 3054 RemainingUses=200, 3421, 3367, 3297, 3050, 3042 Amount=1, 3283, 3449 Amount=27, 3457, 3367, 3044 Amount=2, 3275, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3053 SavedExpireTime=210, 3049 SavedExpireTime=285, 2857 Content={3007, 3071, 3436, 3416, 3035 Amount=72, 3033 Amount=1, 3007, 3017}, 2869 Content={2869 Content={2869 Content={2869, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3050, 3050, 3050, 3050}}, 
+               8 Content={2867, 3504 Content={3507 String="Foladorzinho\nPort hope" Editor="Lady Gret"}, 3505 String="ya me arte del dowe\nno lo aguanto\nno puedo decirle nada pq luego me regañan y ese estupido no mas espera el momento àra kererme matar solo una pregunta basto para hacerlo enojar..\n15:42 Wal'Master: te das a respetar\n15:42 Wal'Master: por tu lvl\n15:43 Wal'Master: o por la persona ke eres\n\n5:44 Shadow Spinal: no me interesa platicar contigo en  lo absoluto  asi   k    no   des lata y si  en todo lo k kieres  hay jerarquias tanto en rlcomo en lo k kieras hacer\n\nsabe lau una vez me dijo aulan \" tu te eskondes tras las faldas de laurita\" no kiero estar asi, si el kiere ke me retire de este server lo hare matando lo ke mas le hiere ..\nestoy ke me lleva la chin.." Editor="Wal'Master", 2872 Content={2949, 3093, 3004, 3039, 3563}, 2853, 2868 Content={3447 Amount=10, 3492 Amount=100, 3492 Amount=38, 3483, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2989, 3504 Content={3507 String="sword grann\ncarlin" Editor="Foladorzinho"}, 3042 Amount=1, 2865 Content={3483, 3031 Amount=20, 3350, 3291}, 3504 Content={3507 String="foladorzinho\nport hope" Editor="Nodestino cabra macho"}, 3428, 2871 Content={3031 Amount=91}, 3308, 3574, 3502}}

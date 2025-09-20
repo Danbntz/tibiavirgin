@@ -1,0 +1,57 @@
+ID              = 8895772
+Name            = "Mandalorian Knight"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,116-76-124-0)
+CurrentOutfit   = (128,116-76-124-0)
+LastLogin       = 1139775905
+LastLogout      = 1139775929
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32228,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,354934,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,108180,3000,193600,1600)
+Skill = (2,500,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,140,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,54213,1100,59240,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,45,1400,71,30)
+Skill = (8,56,0,10,0,0,0,0,0,0,0,40089,1100,43598,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1200,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(15,1),(18,1),(20,1),(22,1),(23,1),(35,1),(37,1),(55,1),(59,1),(60,1),(61,1),(96,1),(97,1),(99,1),(100,1),(106,1),(107,1),(113,1),(114,1),(121,1),(125,1),(126,1),(128,1),(129,1),(132,1),(140,1),(141,1),(190,1),(191,1),(208,1),(217,3),(223,1),(226,1),(227,1),(302,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={3503 Content={3507 String="mandalorian mage\nthais" Editor="Mandalorian Knight"}, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3280},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2914 SavedExpireTime=1970}}
+
+Depots      = {0 Content={3502 Content={2853 Content={3031 Amount=91, 3035 Amount=59, 2853 Content={2853 Content={3210}, 3483, 2815 String="RC owes me\n\nSpike Sword\nDark helmet\nBeholder Shield\n" Editor="Mandalorian Knight", 3308}}, 2867 Content={2868 Content={2854 Content={3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3600 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3504 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3600 Amount=100}, 3582 Amount=10, 3577 Amount=81, 3578 Amount=96, 3600 Amount=39, 3597 Amount=35, 3586 Amount=18, 3601 Amount=5, 3598 Amount=62, 3723 Amount=94, 3585 Amount=48, 3579 Amount=57, 3602 Amount=65, 3595 Amount=7, 3590 Amount=24}, 2471 Content={2854 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3059, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2853 Content={3200 Charges=3, 3147, 3147, 3147}, 2874 ContainerLiquidType=11, 3059, 3059, 3059}, 2471 Content={3301, 3285, 3316, 3316, 3275, 3330, 2853 Content={3316, 3301, 3330, 3316, 3275, 3285, 3330, 3330}, 3289, 3285}, 2471 Content={3353, 3425, 3375, 3375, 3375, 3375}, 2471 Content={3372, 3357}, 2471 Content={2853 Content={3291, 3412, 3355, 3361, 3559, 3552}, 3412, 3291, 2853 Content={3012, 3012, 3012, 3012, 3012, 3012, 3012}, 3291, 3412}, 2471 Content={3446 Amount=16, 3447 Amount=25, 3277 Amount=19}}, 2471 Content={3504 Content={2853 Content={2914 SavedExpireTime=1998, 2914 SavedExpireTime=1998, 2920, 2920, 2920, 2920}, 2853 Content={3003, 3003, 3003}, 2853 Content={3457, 3457, 3457}, 2853 Content={3293, 3453, 3453, 3483, 3483, 3483}, 2853 Content={3456, 3456, 3456, 3308, 3308}}, 2471 Content={2853 Content={2875, 2853, 2875 ContainerLiquidType=7, 2875 ContainerLiquidType=7, 2875 ContainerLiquidType=7, 2875, 2875}, 2853 Content={2875, 2875 ContainerLiquidType=7, 2875 ContainerLiquidType=7, 2875 ContainerLiquidType=7, 2875 ContainerLiquidType=7}, 2853 Content={2916, 2916, 2916, 2916, 2916, 2916}, 2911 SavedExpireTime=885, 2911 SavedExpireTime=1114, 2911 SavedExpireTime=666, 2911}, 2471 Content={2471 Content={3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}, 3503 Content={3507 Editor="Mandalorian Knight"}}, 3503 Content={3507}, 3505, 3505, 3505, 3505, 3505, 3505, 3505}}, 2471 Content={2867 Content={2854 Content={2854}, 2865, 2868 Content={2868}, 2867 Content={2867}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}}, 2856 Content={2856, 2856, 2856, 2856}, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504}, 2472 Content={2472, 2472, 2472, 2472, 2472}, 2469 Content={2469, 2469}, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 2473 Content={2473, 2473, 2473, 2473}, 2471 Content={2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471}, 2853 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}}, 2472 Content={2870 Content={2853 Content={2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=3600, 2970 KeyNumber=3303, 2972 KeyNumber=3304, 2969 KeyNumber=4600}, 2664 RemainingExpireTime=5, 2471 Content={2876, 2855 Content={2647, 2647, 2647, 2656}, 2855 Content={3658, 3725 Amount=1, 3728 Amount=1, 3724 Amount=2}, 2902 ContainerLiquidType=1, 2396, 2393, 3551, 2906, 3451, 3451, 2906, 2906}, 2853 Content={2853 Content={2815, 2815, 2815 String="Orc Language\n\nHi = Charach \nBye = Futchi \nYes = Mok \nNo = Nok \nOffers = Ikem goshak \nBuy = Goshak \nWeapon = Porak \nArmour = Bora \nShield = Dora \nStudded = Tulak \nLeather = Aka \n\nWeapons \n\nSword (85 GP) = burka bata \nSabre (25 GP) = charcha \nHatchet (85 GP) = hak hak \nShort sword (30 GP) = burka \nBow (400 GP) = batuk \nArrows (30 GP per 10)= pixo \n\nArmor \n\nStudded Armor (90 GP) = Tulak Bora \nLeather Armor (25 GP) = Aka Bora \nBrass Shield (65GP) = Donga \nStudded Helmet (65GP) = Grofa "}, 2471 Content={2839, 2839, 2839, 2839, 2839, 2839, 2839, 2839, 2839, 2839}, 2818 Editor="Mandalorian Knight", 2815 String="        /l_l\\\n      /         \\^,\n     [    (l)      ]\n      \\          /\n        \"\"\"\"\"\n\nMillenium Falcon", 2818, 2818}}, 2869 Content={3269, 3299, 3299, 3448 Amount=24, 3421, 3279, 3072, 3297, 3265, 3298 Amount=2, 3338, 3287 Amount=3}, 2868 Content={2854 Content={3062, 4871, 3076, 2992 Amount=15, 3027 Amount=1, 3026 Amount=4, 2991, 3207 Amount=9, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2955, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9, 2955, 2991}, 2857 Content={3463, 3463, 3463, 3463, 2989, 2989, 2989, 2989}, 2473 Content={3093, 3093, 3052, 2473 Content={3097 SavedExpireTime=3550, 3097 SavedExpireTime=3598, 3097, 3097, 3097, 3097, 3097, 3097, 3097, 3097}, 2473 Content={3050, 3050, 3050, 3050, 3050, 3050, 3050, 3050, 3050, 3050}, 3050, 3092, 3092 SavedExpireTime=1666, 3098}, 2867 Content={3083 RemainingUses=150, 3056 RemainingUses=200, 3082 RemainingUses=50, 3056 RemainingUses=200, 3083 RemainingUses=150, 3045 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3084 RemainingUses=250, 3008, 3008, 3054 RemainingUses=200, 3083 RemainingUses=150, 3054 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200}, 2865 Content={3599 Amount=6, 3046, 2473 Content={2853 Content={3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017}, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017}, 3077, 3077, 3077, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}}}}, 
+               1 Content={3502 Content={2853 Content={2853 Content={2853}, 2973 KeyNumber=3520, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 3503 Content={3507, 3503 Content={3507}}}}, 
+               2 Content={3502 Content={2853 Content={2853}, 2970 KeyNumber=3801, 2970 KeyNumber=3800}}, 
+               3 Content={3504 Content={2969 KeyNumber=3033, 3507 String="Mandalorian Knight\nab'dendriel" Editor="Mandalorian Knight"}, 3502}, 
+               6 Content={3502 Content={2853 Content={3308, 3377, 2969 KeyNumber=5010}, 2853 Content={2920, 2920, 2911 SavedExpireTime=1780, 2920, 2920}, 2853 Content={2853}}}}

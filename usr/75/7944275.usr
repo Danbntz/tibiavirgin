@@ -1,0 +1,56 @@
+ID              = 7944275
+Name            = "Hyuga Max"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-94-0-94)
+CurrentOutfit   = (134,0-94-0-94)
+LastLogin       = 1141435635
+LastLogout      = 1141435654
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,153977,0,156200,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,120880,1400,157982,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,24304,1100,24547,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,35497,1100,38438,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,533,1200,645,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,182,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1114,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5694,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,20,29,30,42,76,79}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(25,1),(26,1),(27,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(59,1),(61,1),(86,1),(87,1),(100,1),(109,1),(190,1),(191,1),(227,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2870 Content={3031 Amount=49, 3003, 3412, 3426, 3447 Amount=15, 3483}},
+               4 Content={3361},
+               6 Content={3349},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3446 Amount=38}}
+
+Depots      = {0 Content={3456, 3504 Content={3003, 2859, 3507 String="Hyuga Max\nThais"}, 3504 Content={2870 Content={3052 SavedExpireTime=1196, 3353, 2401, 2656, 2656, 3077, 3429, 3449 Amount=5, 2854 Content={2664 RemainingExpireTime=443, 2644, 2644, 2667, 2656, 2667, 2667, 2667, 2667, 2656, 2667, 2667, 2667, 2667, 3456, 3299, 2992 Amount=4, 2870 Content={2870, 2870}, 2854 Content={3046 SavedExpireTime=2977, 3299, 3045 RemainingUses=200}}}, 3507 String="Hyuga Max\nThais\n"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Beach Home Apartments, Flat 01\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               2 Content={3504 Content={3446 Amount=100, 3446 Amount=100, 3507 String="Hyuga Max\nKazordoon"}, 2970 KeyNumber=3801, 3277 Amount=7, 3502 Content={3031 Amount=8, 3031 Amount=100, 3031 Amount=100, 3035 Amount=2, 3097 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Hyuga Max\nDarashia"}, 2853 Content={2853 Content={2853 Content={}}, 3300, 2853 Content={3430, 3430, 3374, 3430, 3430}}, 3430, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Hyuga Max\nVenore"}, 3502 Content={}}, 
+               7 Content={3504 Content={3031 Amount=60, 3031 Amount=100, 3507 String="Hyuga Max\nAnkrahmun"}, 3045 RemainingUses=200, 3147, 3502 Content={}}}

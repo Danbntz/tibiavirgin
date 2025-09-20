@@ -1,0 +1,52 @@
+ID              = 8547818
+Name            = "Rover"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-88-0-88)
+CurrentOutfit   = (129,114-88-0-88)
+LastLogin       = 1145722886
+LastLogout      = 1145722921
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,32046,0,37800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,42737,1400,55031,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7614,1100,7954,100)
+Skill = (7,43,0,10,0,0,0,0,0,0,0,7083,1100,7364,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,585,1200,645,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,618,1200,645,50)
+Skill = (11,23,0,10,0,0,0,0,0,0,0,2469,1200,2959,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1206,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,20,29,44,48,51}
+QuestValues = {(18,1),(33,1),(34,1),(35,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               2 Content={3012},
+               4 Content={3358},
+               6 Content={3277 Amount=1},
+               7 Content={3559},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3349, 3446 Amount=1, 3350, 2854, 2471 Content={3430, 3123, 3316, 3504 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3123, 2471 Content={3412, 3267, 3409, 3462, 3300, 3308, 3361}, 3451, 3462}, 2868, 3059, 2480 Content={3457, 3464, 3457, 2875 ContainerLiquidType=6, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 3141, 3455, 3456}, 2471 Content={2920, 2917 SavedExpireTime=635, 2917 SavedExpireTime=2999, 2917, 2917, 2920, 2920, 2920}, 2472 Content={3506 String="Rover\nthais\n\nhola gordito!!!!1\noye pues esta cartita es solo para decirte que te amo demasiado demasiado pero asi un chorro no lo olvides nunca porfa.\n\natt. bren", 2815 String="hola!!!!\ncomo esta mi goldito preshiosho???\nque amo demasiado demasiado y al que extraño mucho y al que voy a extrañar\n mucho en su retirito???\n\n              TE AMO DEMASIADO\n\nat. bren", 2816 String="We have destroyed the key. It is of no use now.", 2472 Content={3599 Amount=8, 2815 String="te amo demasiado\natt. brendita" Editor="Rover", 2816 String="We have stolen the key to the large ancient temple hall under the city of Tibia. But the key is useless now, because the temple has been plundered by the humens. The temple is free, also for us, the trolls. The entrance is outside the human city.\n", 2473 Content={3504 Content={3507, 3507, 3507 String="\n", 3507 String="\n", 3507 String="\n", 3507 String="\n", 3507 String="\n", 3507, 3507, 3507 String="gelin-cabron\nthais"}, 3504 Content={3507 String="quiero mucho a mi noviecito bonito que se llama R - O *", 3507 String="brendita quiere mucho a su novio", 3507 String="preciosito!! por que te fuiste? bueno no importa te amo demasiado ok?. at. bren"}}, 2816 String="We have destroyed the key. It is of no use now.", 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 2839 String="hola miamor!!!!!!!!!!!!!!!!\nbueno este pequeño librito es para recordarte que te amo demasiado demasiado demasiado demasiado, pero asi un chorro.\n\ncuidate mucho siempre siempre siempre ok??.\n\npd. espero que me perdones\n\natt. bren", 2839 String="preciosito!!!!!!!!!!!!!!!!!!!!!\nperdoname gordito.... te amo demasiado, la vdd a veces no me fijo como digo las cosas en serio perdoname me siento muy mal... :(\nat. bren", 3506 String="rover\nthais\n\nmiamorsito te amo demasiado perdoname por que te hice enojar ok??\n\nte amo demasiado demasiado\n\natt. bren", 2815 String="hola preciosito!!!!!!\noye pues solo queria decirte que te amo demasiado demasiado demasiado y queria demostrartelo mediante esta pequeña cartita espero que nunca olvides que te amo demasiado ok??? cuidate mucho mucho mucho....\natt. tu preciosita\n\nFECHA DE LOS LIBROS Y DE LA CARTITA... 3 DE JUNIO DEL 2005", 2839 String="preciosito!!!!!!!!\nte consegui unos librillos para hacerte una cartita jajajajaj que tal!!!...\n\napuesto a que tu no puedes conseguir uno o no sabes donde :P.... \n\noye preciosito aunque casi ya no juegas y tal vez te tardes mucho en ver esta cartita no me importa yo como quiera te las hare para que cuando las veas tengas una gran sorpresota y digas wwwwwwwoooooowwwwwwwwwwww... jajajajjajajajajaja.\n\nbueno gordito no olvides que te amo demasiado ok?? cuidate mucho y cuando lo veas me das muchos besitos bonitos ok????\n\n                TE AMO DEMASIADO :D\n\n                            att. bren", 2838 String="hola gordito...!!!!\n\noye me acorde de que por mi culpa ayer te mataron 2 veces :( me perdonas hermosito andale si??? bueno yo se que si, pero me senti un poco triste cuando me di cuenta de que te habian matado 2 veces por mi culpa me perdonas???\n\nbueno miamor la verdad yo se que de seguro ahorita andas bien chiflado viendo todo lo que te mande jajajaj te lo puedo asegurar.\n\npero bueno la verdad esto era para decirte que te amo demasiado demasiado y para que veas que mientras juegas tibia me acuerdo de ti!!! \n\nbueno gordo como que ya alargue mucho esto no olvides que te amo demasiado ok???? cuidate mucho porfis..\n\nTE ADORO", 2853 Content={3507 String="biennnnnnnnnnnnnnnn volviste te amo demasiado.. att. bren", 3507 String="R - O * y Bren se aman", 3507 String="mi novio esta bien bueno y lo amo demasiado att. bren\n", 3507 String="te extraño demasiado miamorcito!!!!!! att bren", 3507 String="estas bien guapo preciosito!!!!\natt. bren", 3507 String="te amo rover!!!!\n\n\n\n\natt. bren", 3507 String="te tengo una sorpresita! es una botella de vino. Espero que la disfrutes.\nbren"}, 2853 Content={3507 String="me haces la mujer mas feliz del mundo gracias!!!!!!!!!!!!!!!! att. brendta", 3507 String="miamor nunca me dejes solita ok?? att. bren", 3507 String="preciosito perdoname por hacerte sentir mal :( te amo demasiado att. bren", 3507 String="amo a rover demasiado demasiado. att. bren", 3507 String="estas bien buenote!!!!!!!!!!!!!!\nte amo demasiado!!!!!!!!!!!!!!\natt. bren", 3507 String="quien quiere a mi niñito??? quien quiere a mi bebito??? pues yo la hermosa bren", 3507 String="amo a un chavo bien guapo bueno y cariñoso que se se llama rover at. bren", 3507 String="cuidate mucho siempre gordito!!!!!! te amo demasiado at. bren"}}, 3506 String="Rover\nThais\n\nhola preciosito!!!!!!!\noye miamor pues ya que ya tienes internet te voy a poder mandar todas las cartitas que tenia guardadas para ti :D, espero que cuando veas esto te pongas muy muy muy pero muy feliz.\n\nesta cartita solo es para decirte que te amo demasiado demasiado no lo olvides nunca ni cuando juegues tibia ok?\n\natt. bren   \n6/jul/05\n", 2826 String="Tales of Tibia", 2816, 2816, 2821, 3509, 2816, 2816, 2821, 2816 String="I've managed to imprison two cyclops in my secret dungeon under the lighthouse. I forced them to create some magic equipment. Soon I will be the mightiest warrior in Tibia.", 2821 String="The Bible\nU can not read it, because it is Latin"}, 2471 Content={2905, 2905, 2880, 3466, 3470, 3472, 3471, 3466, 2881, 3466, 3466, 3464, 3465, 3465, 3464}, 2471 Content={2853 Content={3548 Amount=1, 3547 Amount=1}, 3544, 3543, 3542, 3534 Amount=1, 3533 Amount=1, 3539, 3540, 3535, 3538, 3537, 3536, 3541, 3545, 3546}, 2471 Content={2853 Content={2983, 2981}, 3127, 3740 Amount=2, 3130, 3661, 3738 Amount=7, 3453, 3605 Amount=2, 3674, 3674, 3674, 3674, 3452, 3452}, 2472 Content={3078}}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}}

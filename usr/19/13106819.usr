@@ -1,0 +1,49 @@
+ID              = 13106819
+Name            = "Krol zywiolow"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,76-114-114-114)
+CurrentOutfit   = (130,76-114-114-114)
+LastLogin       = 1144818948
+LastLogout      = 1144819112
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,34454,0,37800,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,20855,1100,21727,1600)
+Skill = (2,207,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,190,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5219,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,534,2000,750,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1498,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,72,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10}
+QuestValues = {(96,1),(97,1),(98,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               8 Content={3552},
+               10 Content={3503}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3502 Content={3031 Amount=24, 3358, 3264}}, 
+               6 Content={3502 Content={3507, 3372, 3504 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3504, 3504}, 3723 Amount=51, 2983, 2920, 3492 Amount=100, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3349, 2991, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2920 SavedExpireTime=187, 2969 KeyNumber=4600}}}

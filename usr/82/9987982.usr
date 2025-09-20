@@ -1,0 +1,56 @@
+ID              = 9987982
+Name            = "Exby"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,5-43-81-119)
+CurrentOutfit   = (129,5-43-81-119)
+LastLogin       = 1147583172
+LastLogout      = 1147583189
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32274,32131,10]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,345963,0,368300,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,112029,1400,157982,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,14981,1100,16449,100)
+Skill = (7,61,0,10,0,0,0,0,0,0,0,40740,1100,42312,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,1399,1200,1607,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,60,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,6,1200,50,50)
+Skill = (11,27,0,10,0,0,0,0,0,0,0,6247,1200,6405,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,995,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,63,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,1,0,29,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,49,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,20,29,44,51}
+QuestValues = {(17,1),(22,1),(23,1),(37,1),(55,1),(59,1),(60,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(100,1),(109,1),(115,1),(128,1),(138,1),(139,1),(140,1),(141,1),(142,1),(190,1),(191,1),(217,3),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2867 Content={3350, 3447 Amount=84, 3577 Amount=2, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3031 Amount=52, 3425, 3446 Amount=58, 3446 Amount=100, 3447 Amount=44, 3003}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=73}}
+
+Depots      = {0 Content={3277 Amount=4, 3457, 2870 Content={3003}, 3465, 3046 SavedExpireTime=854, 3483, 3483, 3483, 3483, 2854 Content={3277 Amount=7, 3448 Amount=89}, 2854 Content={3070, 3093 SavedExpireTime=1542, 3093, 3082 RemainingUses=50, 3092 SavedExpireTime=1798, 3097, 3097, 3097 SavedExpireTime=3599, 3097, 3097, 3093, 3093 SavedExpireTime=1798, 3085 RemainingUses=200}, 3290, 3209, 3375, 2906, 3059, 2854 Content={2854, 2854, 2854, 2854}, 3502 Content={3492 Amount=18, 3492 Amount=100, 3483, 3504 Content={3504 Content={3507 String="exby\nthais" Editor="Exby"}, 3504 Content={3504 Content={3503, 2853}, 3507 String="exby\nthais\n" Editor="Makilador el rey"}, 3504 Content={3507 String="exby\nthais" Editor="Civer rovi"}, 3504 Content={3507 String="exby\nthais" Editor="Civer rovi"}, 3504 Content={3507 String="exby \nthais" Editor="Civer rovi"}, 3507 String="exby\nthais\n" Editor="Wachimorri la vaca copiona"}}}, 
+               1 Content={3507 String="exby\ncarlin", 3502}, 
+               2 Content={3502}, 
+               6 Content={3273, 3273, 3273, 3502 Content={3504 Content={3504 Content={3507, 3507 String="exby \nvenore" Editor="Makilador el rey"}, 3504 Content={3507 String="exby\nvenore\n" Editor="Makilador el rey", 3507 String="exby\nvenore\n" Editor="Makilador el rey"}}}}}

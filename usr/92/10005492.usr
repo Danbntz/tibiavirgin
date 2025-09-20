@@ -1,0 +1,59 @@
+ID              = 10005492
+Name            = "Sayn Elder"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,95-76-76-76)
+CurrentOutfit   = (133,95-76-76-76)
+LastLogin       = 1144984060
+LastLogout      = 1144984109
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32341,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,141850,0,156200,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,211288,1100,214735,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,83,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22133,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,11992,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,80,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1930,1100,1966,20)
+Skill = (14,0,1200,0,0,0,797,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,7,8,9,11,15,18,20,29,42,44,45,84,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(59,1),(60,1),(86,1),(87,1),(106,1),(107,1),(111,1),(112,1),(115,1),(190,1),(191,1),(208,1),(217,3),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3083 RemainingUses=148},
+               3 Content={2867 Content={3031 Amount=10, 3003, 3457, 2920 SavedExpireTime=216}},
+               4 Content={3377},
+               6 Content={3425},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={3046 SavedExpireTime=1766}}
+
+Depots      = {0 Content={3504 Content={3507 String="sayn elder\nthais" Editor="Aidi Quinrif"}, 3264, 3286, 2865 Content={3110, 3110, 3110}, 3502 Content={3446 Amount=27, 3264, 3273, 3059}}, 
+               1 Content={3502}, 
+               3 Content={3504 Content={3552, 3375, 3377, 3507 String="sayn elder\nab'dendriel\n"}, 3502}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502}, 
+               6 Content={2853 Content={2969 KeyNumber=3033, 2969 KeyNumber=5010}, 3504 Content={2969 KeyNumber=5010, 2659, 3507 String="sayn elder \nvenore" Editor="Sayn Tita"}, 3492 Amount=52, 3504 Content={3507 String="sayn elder\nvenore" Editor="Sayn Tita"}, 3504 Content={3504 Content={3507 String="sayn elder\nvenore" Editor="Sayn Tita"}, 3504 Content={3507 String="sayn elder\nvenore" Editor="Sayn Tita"}, 3507 String="sayn elder\nvenore" Editor="Sayn Tita"}, 3502 Content={2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3291, 3291, 3291}}, 
+               7 Content={3017, 3017, 3017, 3017, 3017, 3017, 3017, 3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3504 Content={3372, 3507 String="Sayn Elder \nAnkrahmun\n"}, 3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 2853 Content={3506 String="Warning!\n\nThe monthly rent of 780 gold\nfor your house \"Rathal I d\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house."}, 3502 Content={}}, 
+               8 Content={3031 Amount=91, 3447 Amount=2, 3502 Content={}}}

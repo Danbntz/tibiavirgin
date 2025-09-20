@@ -1,0 +1,54 @@
+ID              = 13942746
+Name            = "Aloa Eleveana"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (137,3-114-114-132)
+CurrentOutfit   = (137,3-114-114-132)
+LastLogin       = 1148254523
+LastLogout      = 1148254527
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32913,32078,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,130506,0,135100,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,144214,1400,157982,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,210,210,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,38388,1100,40144,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18962,1100,19579,30)
+Skill = (8,35,0,10,0,0,0,0,0,0,0,26313,1200,28368,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1236,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1721,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,42,44,51}
+QuestValues = {(17,1),(18,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3085 RemainingUses=189},
+               3 Content={2867 Content={3031 Amount=50, 2949}},
+               4 Content={3377},
+               5 Content={3271},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 3188 Charges=3, 3188 Charges=3, 2874 ContainerLiquidType=11}}}
+
+Depots      = {6 Content={3582 Amount=8, 2853, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 3502 Content={2872 Content={3447 Amount=100, 3003, 3350, 3457, 3447 Amount=49, 3285, 3655, 3655, 3350, 3308}, 2867 Content={3084 RemainingUses=250, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2856 Content={3668, 3160 Charges=1, 3056 RemainingUses=200, 3148 Charges=1, 3147}, 3164 Charges=2, 3083 RemainingUses=150}, 2865 Content={3598 Amount=2, 3582 Amount=20, 3577 Amount=100, 3577 Amount=36, 3601 Amount=2, 3578 Amount=20, 3590 Amount=36, 3723 Amount=17}, 2871 Content={3031 Amount=100, 3031 Amount=22, 2854 Content={3017, 3008, 3008, 3034 Amount=1, 3017, 2903}, 3031 Amount=100, 3035 Amount=56}, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2870 Content={3740 Amount=1, 3739 Amount=1}, 2869 Content={2901, 2854 Content={3541, 3541, 3541, 3541, 3541, 3535, 3535, 3534 Amount=7, 3533 Amount=5, 3546, 3542}, 3507 String="Fikumiku \n" Editor="Aloa Eleveana", 2911 SavedExpireTime=2396, 3463, 2869 Content={3008, 3008, 2856, 3017, 3017, 3092 SavedExpireTime=1785, 3026 Amount=1, 3092, 3050 SavedExpireTime=1789, 2393, 3008, 3507, 3046, 3046, 3507 Editor="Aloa Eleveana", 3507 Editor="Aloa Eleveana", 2992 Amount=1}, 2853 Content={2981, 2981, 2981, 2983, 2985, 2981, 2981, 2981}, 3010, 3058, 3061, 2991, 2911 SavedExpireTime=2992}, 2854 Content={3504 Content={3505, 3507 String="Aloa Eleveana\nVenore" Editor="Spyke Vold", 3505 Editor="Aloa Eleveana", 3505, 3503, 3503 Content={3507 Editor="Aloa Eleveana", 3507 Editor="Aloa Eleveana", 3507 Editor="Aloa Eleveana"}, 3507 String="aloa eleveana\nvenore" Editor="Naruto-the fox kyubi", 2815 String="hi aloa\nthx very much 4 this things, greetings from ab'driel, my sister send u a great \nHELLO!, and i too, i wana see u another time, kalina.\n\nP.S., if u can send me cards, i'll anwer u\nthousands of greetings kalina\nyour friend, gabriel\n\nP.S. 2, i am in a guild, XD, bye" Editor="Naruto-the fox kyubi", 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja"}, 2854 Content={2853, 2854, 2854}, 3483, 3492 Amount=97, 3446 Amount=100, 3446 Amount=21, 2867 Content={3375, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349}, 2853 Content={3307, 3301, 3291, 3300, 3283}, 3316, 3012, 3409, 3483, 3425}, 3349, 3457, 3456}}}}

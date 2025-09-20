@@ -1,0 +1,55 @@
+ID              = 8143239
+Name            = "Mistico Eternity"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,85-0-0-0)
+CurrentOutfit   = (129,85-0-0-0)
+LastLogin       = 1148173780
+LastLogout      = 1148179692
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32919,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,200338,0,204800,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,400567,1100,433638,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,141,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,58234,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,15,1800,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,33566,1800,40105,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,740,1800,1118,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,135,1800,140,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,580,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2430,1100,2684,20)
+Skill = (14,0,1200,0,0,0,253,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,49,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,7,8,9,10,11,12,16,17,18,20,25,28,29,33,38,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(93,1),(94,1),(95,1),(100,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2867 Content={2874, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3191 Charges=2, 3147, 3147, 3147, 3166 Charges=2, 3198 Charges=5, 3198 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3191 Charges=2, 3192 Charges=2}},
+               4 Content={3370},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2854}}
+
+Depots      = {0 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3582 Amount=1, 3457, 3658, 3502}, 
+               6 Content={3425, 2853 Content={2853}, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3421, 2948, 3097 SavedExpireTime=344, 2853 Content={2969 KeyNumber=4603, 3509, 3077, 2857, 3046, 3292}, 3551, 3483}, 2867 Content={2853 Content={3166 Charges=4, 3166 Charges=4, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3188 Charges=3, 3188 Charges=3, 3190 Charges=4, 3166 Charges=3, 3166 Charges=4}, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3190 Charges=1, 3198 Charges=2, 3198 Charges=4}, 2854 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2871 Content={2854, 2854}, 2469 Content={3483, 3457, 3003}, 2473 Content={3035 Amount=5, 3031 Amount=35, 3035 Amount=70}, 2471 Content={2867 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2867 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 3502}}

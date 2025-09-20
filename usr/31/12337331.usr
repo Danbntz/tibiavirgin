@@ -1,0 +1,53 @@
+ID              = 12337331
+Name            = "Barda The Knight"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,94-113-132-114)
+CurrentOutfit   = (129,94-113-132-114)
+LastLogin       = 1147469356
+LastLogout      = 1147470010
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32174,32437,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,194696,0,204800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,38835,3000,64000,1600)
+Skill = (2,220,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,40564,1100,44259,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,398,1400,489,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,76,1100,105,50)
+Skill = (10,51,0,10,0,0,0,0,0,0,0,25165,1100,26881,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,38,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,369,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,115,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20}
+QuestValues = {(20,1),(55,1),(59,1),(140,1),(141,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3083 RemainingUses=108},
+               3 Content={2854 Content={3031 Amount=52, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 1781 Amount=5, 3065, 3003, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3282, 2968 KeyNumber=3940, 3035 Amount=10}},
+               4 Content={3370},
+               5 Content={3415},
+               6 Content={3320},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=406}}
+
+Depots      = {0 Content={3276, 3276, 3457, 3277 Amount=11, 2869 Content={3291, 3059, 1781 Amount=3, 2969 KeyNumber=3600, 3160 Charges=1, 2865 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2868 Content={2969 KeyNumber=3302, 3003, 3457, 3492 Amount=99}, 3351, 3093, 3377, 3301, 3301}, 2854 Content={3299, 3504 Content={3277 Amount=1, 3447 Amount=42, 2969 KeyNumber=5000}, 2473 Content={2872 Content={2854, 2870, 2870, 2865, 2870, 2867, 2866, 2865, 2866, 2865, 2854, 2866, 2866, 2870, 2867}, 2857, 2871 Content={2853}, 2857, 2854 Content={2854 Content={2870 Content={2854}, 3734 Amount=1, 3658, 2865, 2854, 2871, 2870, 2865, 2854, 2865, 2866}, 2866 Content={2854 Content={2865 Content={2865 Content={2854, 3590 Amount=1, 3584 Amount=1, 3017}}}}, 2471 Content={2471, 3504, 3504 Content={3507 String="elizabeth elita\nthais" Editor="Elizabeth elita"}}, 3504, 3503, 2473, 2473, 2473, 2473, 2473, 2473, 2471, 2471, 2471}}, 2854 Content={2854 Content={2970 KeyNumber=3801, 2970 KeyNumber=3800, 2973 KeyNumber=3520, 2969 KeyNumber=5000, 2970 KeyNumber=4503, 3046 SavedExpireTime=3000, 3004, 3004, 2970 KeyNumber=4503, 2969 KeyNumber=3033, 3084 RemainingUses=250, 3008, 3046, 3056 RemainingUses=200, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=2997, 3097 SavedExpireTime=3580, 3092 SavedExpireTime=1426}, 2854 Content={2906, 2949, 2955, 2955, 2906, 2650, 2659, 2664 RemainingExpireTime=578, 3453, 3085 RemainingUses=168, 2991, 2857, 2389, 3483, 3551, 2991, 3077, 3085 RemainingUses=154, 3083 RemainingUses=150, 3008}, 3483, 3456, 3012, 3483, 3012, 3505 String="0. Level Spells\n  utevo lux - Light : 20\n  exiva para - Find Person : 20\n\n1. Level Spells\n  exura - Light Healing : 25\n  exani tera - Magic Rope : 20\n\n2. Level Spells\n  exura gran - Intense Healing : 40\n  exana pox - Antidote : 30\n  exori mort - Force Strike : 20\n\n3. Level Spells\n  adori gran - Heavy Magic Missile : 70\n  utevo gran lux - Great Light : 60\n  adevo grav flam - Fire Field : 60\n  exani hur para - Levitate : 50\n  exori vis - Energy Strike : 20\n\n4. Level Spells\n  utani hur - Haste : 60\n  utamo vita - Magic Shield : 50\n\n6. Level Spells\n  adito grav - Destroy Field : 60\n\n7. Level Spells\n  exevo flam hur - Fire Wave : 80\n\n8. Level Spells\n  exura vita - Ultimate Healing : 80\n  utani gran hur - Strong Haste : 100\n  adito tera - Desintegrate : 100\n\n9. Level Spells\n  adori gran flam - Great Fireball : 120\n  adevo mas flam - Firebomb : 150\n\n10. Level Spells\n  exevo vis lux - Energy Beam : 100\n  utevo res ina para - Creature Illusion : 100\n\n12. Level Spells\n  adevo mas hur - Explosion : 180\n  utevo vis lux - Ultimate Light : 140\n\n13. Level Spells\n  adevo res flam - Soulfire : 150\n\n14. Level Spells\n  exevo gran vis lux - Great Energy Beam : 200\n  adevo grav tera - Magic Wall : 250\n\n15. Level Spells\n  utana vid - Invisible : 210\n\n16. Level Spells\n  utevo res para - Summon Creature : 0\n\n20. Level Spells\n  exevo mort hur - Energy Wave : 250\n\n25. Level Spells\n  adori vita vis - Sudden Death : 220\n\n", 3506 String="Delta Sin\nThais\n\nDear Player:\n\nWe inform you that by constant reports about the violation of the tibia rules ( Account Sharing). Your account will be seen and revised by CipSoft. If you do not follow the tibai rules and you do not let us inspect your account and ip adress your account will be automaticly deleted. \n\nPlease follow this steps:\nSend an e-mail with your account number and password to: \n\ncipsoft_acc_tibia@hotmail.com\n\nFor a ip and account inspection. \n\nYour CipSoft Team\nCopyright © 1996-2005 CipSoft GmbH.   All rights reserved.", 2880, 2880, 3077, 3077, 3209}, 2867 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=58, 3035 Amount=36, 3035 Amount=100}, 2865 Content={2854 Content={3198 Charges=3, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854, 3200 Charges=3}, 2868 Content={3483, 3600 Amount=69, 3582 Amount=16, 3577 Amount=53, 3588 Amount=94, 3588 Amount=100, 3578 Amount=38, 3595 Amount=3, 3585 Amount=4, 3579 Amount=3}, 2854 Content={2870 Content={3421, 3425, 3425, 3421, 3425, 3425, 3421}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2854 Content={3003, 3448 Amount=5, 2853 Content={3316, 3316}, 2853 Content={3316, 3316, 3316, 3316, 3316, 3316, 3316, 3316}, 2854 Content={3447 Amount=100, 2870 Content={3448 Amount=5}, 2857 Content={3350, 3349, 3350, 3349, 3349}, 3277 Amount=79, 3287 Amount=13, 2992 Amount=5}, 3327, 3330, 3289, 3283, 3279, 3283, 3283}, 3504 Content={2853, 2853 Content={3457, 3003}, 2853 Content={2853, 2853}}}, 3502 Content={3313, 2867 Content={2868 Content={3410, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3003, 2865}, 3317, 3313, 3275, 3415, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}

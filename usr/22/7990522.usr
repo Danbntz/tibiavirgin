@@ -1,0 +1,59 @@
+ID              = 7990522
+Name            = "Iron Zalath"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,40-117-114-117)
+CurrentOutfit   = (134,40-117-114-117)
+LastLogin       = 1147982341
+LastLogout      = 1147982540
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32927,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,886310,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,280645,3000,582400,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,67931,1100,71890,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,28,1400,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,694,1100,796,50)
+Skill = (9,61,0,10,0,0,0,0,0,0,0,66396,1100,70521,50)
+Skill = (10,22,0,10,0,0,0,0,0,0,0,1172,1100,1226,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,234,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12622,1100,13052,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(31,1),(32,1),(33,1),(34,1),(37,1),(59,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(115,1),(134,1),(135,1),(136,1),(137,1),(140,1),(141,1),(142,1),(145,1),(146,1),(147,1),(151,1),(152,1),(156,1),(157,1),(158,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(224,1),(253,1),(254,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2866 Content={3093 SavedExpireTime=1798, 3160 Charges=1, 3031 Amount=37, 2867 Content={3483, 3492 Amount=100, 3054 RemainingUses=195, 2870, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3483}, 3492 Amount=9, 3425, 3336, 3457, 3003}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=525}}
+
+Depots      = {0 Content={3318, 3557, 2868 Content={3084 RemainingUses=250, 3505, 3506 String="Iron Zalath\nAnkrahmun\n\nIron Zalath Hunt Here, Leave plx.\nMsg me Before Enter.\nThanks.", 3505, 3505, 3506 String="Iron Zalath\nAnkrahmun\n\nIron Zalath Hunt Here, Leave plx.\nMsg me Before Enter.\nThanks."}, 3082 RemainingUses=27, 3031 Amount=73, 3046 SavedExpireTime=544, 2866, 3457, 3503 Content={3507 String="Iron Zalath\nthais"}, 3503 Content={3507 String="Iron Zalath\nthais"}, 3354, 3354, 3502 Content={3503 Content={3507 String="Iron Zalath\nvenore"}, 2868 Content={2865, 2866, 2854, 2854, 2865, 2854, 2854, 2867, 2854, 2870, 2854, 2865, 2867, 2867, 2866, 2870}, 2866 Content={2871 Content={2854, 2865, 2865, 2866, 2868, 2870, 2868}, 2868, 2854, 2854, 2868, 2868, 2868, 2866, 2871, 2866, 2854}, 3115, 3504 Content={3504, 3504, 3504 Content={3507}, 3504 Content={3507 String="sharim kirun\nankrahmun"}, 3504}, 2871, 2857 Content={2659, 2992 Amount=4, 3658}, 2866 Content={3505 String="Storm'bringer  Hunt Here. DOnt enter plx, respect. ty."}, 2869 Content={2854 Content={3377, 3377, 3377, 3377}, 2871 Content={3301, 3304, 3301, 3338, 3301, 3301, 3301, 3313}, 3425, 3447 Amount=100, 3447 Amount=100, 3425, 3425, 3308, 3425, 2853 Content={3572}, 2866 Content={3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017}, 3448 Amount=75, 3465, 2871 Content={3327, 3299, 3330, 3327, 3327, 3327, 3299, 3299, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330}}, 2865 Content={3337, 3412, 3336, 3412, 3336}, 2871 Content={3092, 3049 SavedExpireTime=343, 2853 Content={3097, 3097, 3097, 3097, 3097, 3097}, 2854 Content={3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=143}, 2870 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 2869 Content={3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 2868 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}}, 2854 Content={2853 Content={2853 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 2853 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}}, 3115, 3115, 3115, 3115}, 3483, 3483, 3003, 3003, 3457, 3483, 3003, 3483, 3483, 3456, 3456, 3456}, 3003, 3552}}, 
+               1 Content={3506 String="Iron Zalath\ncarlin\n\nHola, ¿¿¿Quieres entrar en un concurso en el que puedes GANARTE UN PREMMY ACC.??? es muy facil solo debes contestar la siguiente encuesta y mandar la respuesta a tibialatino@hotmail.com, tienes oportunidad de madar tu respuesta hasta el 30 de junio de 2005, se hara un sorteo entre todos los que respondan esta encuesta el 5 de julio del 2005, los ganadores del los 20 PREMY ACC. seran notificados por este mismo medio.\n\n                       Encuesta de Tibia\n\n1. Tu Char:\n2 Server:\n3 Pais de donde eres?\n4 Que Edad Tienes?\n5 Cuantas Horas Juegas a Tibia a la semana?\n6 Que profesion prefieres?\n7 Cual es la peor profesion? porque?\n8 Te gustaria un server totalmente en ESPAÑOL?\n9 Que es lo que mas te gusta de tibia?\n10 Que es lo que menos te gusta?\n11 Te parece buena la idea de quitar la magia Utevo Lux y en cambia dejar la vision siempre perfecta? (sin obscuridad)\n12 Que le agregarias a Tibia?\n13 Te gusta Matar a otras personas?\n14 Te gustaria que hubiecen mas formas de hacerte Premy Acc. como pagando dentro del juego?\n15 Te gustaria Hacerte Premy Acc. pagadon directamente en cualquier banco de tu pais?\n16 Cual es tu meta en Tibia?\n17 Tienes Guild?\n18 Sabes como llegar ser tutor o Game Master?\n19 Te gustaria ser Elite, Elder, Royal o Mater sin necesidad de ser premy?\n20 Te gustaria una pag Web donde concigas informacion como hacer tus Quest?\n\nSolo contesta estas preguntas y recuerda mandar tus respuesta al correo tibialatino@hotmail.com antes del 30-06-05 para que concurses en el sorteo de 20 Premy Acc. No hay respuestas incorrectas. Gracias", 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2469 Content={2865 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 3457, 2659, 3534 Amount=1, 3504 Content={}, 2659, 3572, 2913, 3504 Content={}, 3504 Content={3507 String="sird fox\nab'dendriel"}, 2659, 3504 Content={3507 String="princees gril\nab'dendriel"}, 3504 Content={3507 String="Erohs\nab'dendriel"}, 2854 Content={2854 Content={2865 Content={3277 Amount=34}}, 2969 KeyNumber=3033}, 3507 String="Rhisus Satori\ncarlin", 2853 Content={}, 3097 SavedExpireTime=0, 2667, 3097 SavedExpireTime=3592, 3120, 2867 Content={}, 2647, 2667, 3304, 3504 Content={3507 String="omar the grifo\nab'dendriel"}, 3504 Content={3507 String="Blaz Wizard\nab'dendriel"}, 3588 Amount=1, 3492 Amount=1, 3588 Amount=1, 3492 Amount=1, 3588 Amount=1, 3492 Amount=1, 3588 Amount=1, 3492 Amount=1, 3588 Amount=1, 3274, 3412, 3504 Content={3507 String=" Druid of draco del sur\nAb'dendriel"}, 3504 Content={3507 String="Galer angelus\nab'dendriel"}, 3507 String="angel cornhoolio\nab'dendriel", 3534 Amount=4, 2865 Content={3077, 3275, 2871 Content={2865 Content={2865 Content={2865 Content={2868 Content={}}}, 3457, 3350, 3447 Amount=100, 3447 Amount=100}}}, 3446 Amount=64, 2653, 3147, 3552, 3017, 2659, 3353, 3504 Content={3507 String="Blaz Wizard\nab'dendriel"}, 3504 Content={3507 String=""}, 2854 Content={}, 2659, 3374, 3504 Content={3507 String="Blaz Wizard\nab'dendriel"}, 3504 Content={3507 String="elchs\nab'dendriel"}, 3534 Amount=1, 2659, 2647, 2647, 2647, 2659, 2387, 3447 Amount=1, 2667, 2389, 3534 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1460 gold\nfor your house \"Underwood 7\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={}}}

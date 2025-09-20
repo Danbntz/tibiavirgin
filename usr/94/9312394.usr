@@ -1,0 +1,61 @@
+ID              = 9312394
+Name            = "Sir kaven"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-132-114-0)
+CurrentOutfit   = (134,0-132-114-0)
+LastLogin       = 1148087519
+LastLogout      = 1148088502
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32340,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,749685,0,780700,100)
+Skill = (1,47,0,0,0,0,0,0,0,0,0,1417192,1100,1536275,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,694,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,104937,1500,131168,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,34,1800,84,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,128,1800,140,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,70320,1800,72239,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,2370,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,11985,1100,13052,20)
+Skill = (14,0,1200,0,0,0,635,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,6,8,9,11,14,15,16,18,20,26,28,29,30,38,39,42,44,45,50,54,56,75,76,78,81,82,84,85,87,88,89}
+QuestValues = {(21,1),(22,1),(23,1),(80,1),(81,1),(82,1),(83,1),(100,1),(109,1),(115,1),(128,1),(137,1),(151,1),(152,1),(153,1),(178,1),(179,1),(180,1),(181,1),(183,1),(184,1),(185,1),(186,1),(190,1),(191,1),(217,3),(253,1),(292,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3012},
+               3 Content={2854 Content={3582 Amount=1, 3152 Charges=1, 3031 Amount=18}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={2853, 2853 Content={3138, 3140, 3507 String="xavier razorwind\nthais" Editor="Horobi Ascendant", 3507 String="Dawns Knight\nDarashia" Editor="Xavier Razorwind", 3140, 3507 String="Kuldan Azielmak\nThais" Editor="Kuldan Azielmak", 3507 String="Elon Tyro\nThais" Editor="Mohammed worierr", 2854 Content={3507 String="Silver Pal\nThais" Editor="Silver Pal", 3507 String="NObbS!!\n\nThIs!!!!!!" Editor="Lady gise", 3507 String="danakumir bonareen\nthais" Editor="Marek-Najemnik", 3507 String="chimera magoo\nthais" Editor="Chimera magoo", 3507 String="Miles Vorkosigan\nThais" Editor="Pi Carmelon", 3507 String="Mojahead\nThais\n" Editor="Mojahead", 3507 String="scorpi-knight\nthais" Editor="Scorpi-knight", 3144, 3507 String="Echicero Oscuro\nthais" Editor="Diki Machel", 3507 String="Galoman Etesa\nthais\n" Editor="Jakia Elwea", 3136, 3507 String="hjljhjlhj" Editor="Kyryn Alar", 3138, 3140, 3140, 3138, 3138, 3140, 3138, 2854 Content={3140, 3138, 3140, 3138, 3140, 3140, 3138, 3138, 3138, 3135, 3138, 3138, 3135, 3135, 3135, 3137, 3137, 3137, 3137, 2853 Content={3137, 2981, 2981, 3507 String="aren\nthais" Editor="Old Wrinkle", 2853 Content={2922 SavedExpireTime=206, 3113, 2892, 2894, 2892, 2894, 2913, 2981}, 3466, 3140, 3135}}}}, 3074, 2857 Content={2920, 2920, 2920, 2920, 2920}, 3059, 3166 Charges=4, 3147, 2868 Content={3092 SavedExpireTime=104, 2854, 3093 SavedExpireTime=1699, 3093, 3372, 3003, 3421, 3421}, 2472 Content={2854 Content={3384, 3046 SavedExpireTime=8, 3352, 3352, 3352, 3352, 2853 Content={3605 Amount=11, 3582 Amount=25}}, 2854 Content={2854}, 2854 Content={2854 Content={2914, 3012, 2854 Content={2854, 2854, 2854}, 3012}, 3273, 2854 Content={2854}, 3273, 3362, 2854 Content={3352, 3273, 3012, 3273, 3352, 3362, 3273, 3362, 2914 SavedExpireTime=1995, 3273}}}, 3504 Content={2473 Content={2914 SavedExpireTime=1998, 2920, 2920}, 3504 Content={2867 Content={2854}, 3507 String="sir kaven\nthais", 2865 Content={2853 Content={3410, 3410, 3410, 2853 Content={3354, 3410, 3410, 3410, 3410}}, 2667, 2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Wood Avenue 4b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magic Academy, Flat 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3451}}}, 3507 String="sir kaven\nthais", 2854 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2869, 2868, 2854 Content={2854}, 2854}}, 3457, 3456, 3502 Content={3289, 2471 Content={3574, 3377, 3385, 2868 Content={2854 Content={2869}}}, 2854 Content={3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 2394, 2394, 2396, 2395, 2396, 3593, 3593, 3593, 3593, 3597 Amount=6}, 2854 Content={3492 Amount=90, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2865 Content={3176 Charges=2, 3049 SavedExpireTime=45, 3044 Amount=2, 3177 Charges=1, 3192 Charges=1, 3177 Charges=1, 3053 SavedExpireTime=14, 3092 SavedExpireTime=1797, 3092 SavedExpireTime=1254, 3026 Amount=3, 3042 Amount=4, 3292, 3051 SavedExpireTime=573}, 2472 Content={2471 Content={3083 RemainingUses=150, 3384, 3017, 2880, 2881, 2875, 2853 Content={3084 RemainingUses=250, 3084 RemainingUses=25, 3085 RemainingUses=200, 3097, 3097, 3097, 3083 RemainingUses=150, 3083 RemainingUses=150}, 3349, 3003}, 2853 Content={3273, 3289, 3012, 3740 Amount=1, 3451, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2853 Content={3316, 3316, 3376, 3376, 3316, 3316, 3316}}, 3603 Amount=1, 2854, 2854 Content={2854 Content={3097, 3097 SavedExpireTime=3597, 3097 SavedExpireTime=3591}}, 2854, 3483, 2472 Content={2854 Content={2901}}}}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3504 Content={3507 String="sir kaven\nkazordoon"}, 3502 Content={}}, 
+               3 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3502 Content={3279}}, 
+               4 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Central Circle 7 (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3035 Amount=7, 3031 Amount=20, 3504 Content={3043 Amount=1, 3507 String="sir kaven\nedron" Editor="Drako Falm"}, 3504 Content={3507 String="sir kaven\nedron" Editor="Aken Moadik"}, 3504 Content={3507 String="sir kaven\nedron" Editor="Aken Moadik"}, 3502}, 
+               5 Content={2853 Content={3577 Amount=2, 3264, 3286, 3286, 3582 Amount=16, 3286}, 2853 Content={3264, 2853 Content={3286, 3352}, 3286, 3352, 3358, 3410, 3264}, 3492 Amount=50, 3035 Amount=1, 3504 Content={3507 String="sir kaven\ndarashia", 3031 Amount=46}, 3502 Content={3577 Amount=1, 3492 Amount=71}}, 
+               6 Content={3447 Amount=100, 3447 Amount=100, 3502}, 
+               7 Content={2853 Content={3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3577 Amount=50, 3502}, 
+               8 Content={3502}}

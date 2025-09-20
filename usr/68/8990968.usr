@@ -1,0 +1,58 @@
+ID              = 8990968
+Name            = "Nissassa"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,59-88-0-114)
+CurrentOutfit   = (134,59-88-0-114)
+LastLogin       = 1124526906
+LastLogout      = 1124526918
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33217,31814,8]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,309866,0,330400,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,488320,1100,528063,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,256,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16169,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,51581,2000,102350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,48,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,89,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7776,1100,8028,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,196,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,8,9,10,13,16,17,18,21,39,45,75,76,83,88}
+QuestValues = {(35,1),(59,1),(61,1),(62,2),(82,1),(83,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(121,1),(190,1),(191,1),(220,1),(221,1),(223,1),(224,1),(225,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={3054 RemainingUses=158},
+               3 Content={2854 Content={}},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={3035 Amount=8}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               4 Content={2854 Content={3147, 3200 Charges=3, 3147, 3200 Charges=3, 3200 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2869 Content={2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2866 Content={3483, 3376, 3426, 3378, 3362, 3551, 3426, 2868 Content={3147, 3147, 3147, 2868 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2869 Content={3198 Charges=5, 3198 Charges=5}, 2869 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2}}}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 3504 Content={3446 Amount=58, 3504 Content={2869 Content={2865 Content={}, 2865 Content={}, 3457, 2867 Content={3017, 3292, 2868 Content={3409, 3483}, 3012, 3291}, 3045 RemainingUses=200, 3077}}, 2866 Content={3049 SavedExpireTime=597, 3198 Charges=2, 3552, 3046 SavedExpireTime=150, 3572, 3299, 3372, 3483, 3017, 3265, 3031 Amount=100, 3059 String="", 2647}, 2870 Content={3447 Amount=15, 3056 RemainingUses=200}, 3504 Content={3504 Content={}, 3504 Content={}}, 3507 String="Nissassa\nEdron"}, 2867 Content={}, 3031 Amount=2, 3502 Content={}}, 
+               5 Content={3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 520 gold\nfor your house \"Darashia 2, Flat 12\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3031 Amount=100, 3502 Content={}}}

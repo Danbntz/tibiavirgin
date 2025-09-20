@@ -1,0 +1,62 @@
+ID              = 7948537
+Name            = "Alindy"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (142,116-119-19-113)
+CurrentOutfit   = (142,116-119-19-113)
+LastLogin       = 1146845626
+LastLogout      = 1146845724
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,221242,0,232500,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,777896,1100,780562,1600)
+Skill = (2,266,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,503,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14447,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,2000,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,12965,2000,25550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,19,2000,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,58,2000,150,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,318,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,62,0,10,0,0,0,0,0,0,0,29358,1100,31049,20)
+Skill = (14,0,1200,0,0,0,567,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,64,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,9,10,16,20,21,30,39,45,76,86}
+QuestValues = {(19,1),(21,1),(22,1),(23,1),(24,1),(25,1),(26,1),(27,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(37,1),(46,1),(58,1),(59,1),(61,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(111,1),(112,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(254,1),(292,1),(333,1)}
+Murders     = {1146059110}
+
+Inventory   = {1 Content={3367},
+               2 Content={3572},
+               3 Content={2867 Content={3035 Amount=15, 3578 Amount=12, 3457, 3492 Amount=43, 3148 Charges=2, 2868 Content={3191 Charges=2, 3191 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 2871 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3074},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3578 Amount=6, 3579 Amount=10, 2853, 3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2868, 3504 Content={3003, 3299, 2920, 3507 String="Krusty the'Archer\nab'dendriel"}, 2871, 3032 Amount=1, 3031 Amount=66, 3504 Content={3271, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2871 Content={2865 Content={3557, 3073, 3557, 3380, 3385, 3322, 3557, 3043 Amount=1, 3574}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}}}}}}, 3356, 3007, 3557, 3357, 3052}}, 3297, 3003, 2867 Content={3031 Amount=100, 3031 Amount=100, 2865}, 3304, 3457, 3282, 3301, 2969 KeyNumber=3033, 3502 Content={3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3031 Amount=87, 3504 Content={2857 Content={3084 RemainingUses=250}, 3507 String="Popeye plix\nAb'Dendriel"}}}, 
+               4 Content={2853 Content={2969 KeyNumber=4600, 3083 RemainingUses=59, 2969 KeyNumber=4603, 2970 KeyNumber=4601, 3083 RemainingUses=150, 2969 KeyNumber=3033, 3084 RemainingUses=250, 3054 RemainingUses=191}, 3504 Content={3507 String="alindy\nedron\n"}, 3504 Content={3504 Content={3507 String="alindy\nedron\n"}, 3507 String="alindy\nedron\n"}, 3502 Content={3504 Content={3504 Content={3507 String="alindy\nedron\n   \n\nahi esta pendejo xD\n"}, 3507 String="alindy\nedron\n\n\nYa no me pidas nada xD\n"}}}, 
+               5 Content={2853 Content={3446 Amount=42, 3358, 3264}, 2869 Content={2865 Content={}, 2872 Content={}, 2869 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2854 Content={}}, 2869 Content={3446 Amount=18, 2865 Content={3349, 2865 Content={3349, 3483, 3349, 3377, 3377}, 3349, 3349, 3349, 3276, 3349, 3483, 3349, 3349, 3349, 3349}, 3276, 3483, 3483, 3276, 3276, 3349, 3349, 3276, 3276, 3483, 3276}, 3502 Content={3031 Amount=10, 3557, 3372, 3457, 2869 Content={3349, 3349, 3330, 3349, 3349, 3349, 3349, 3349, 3349, 3276, 3276, 3349, 3377}, 3292, 3265, 2857 Content={3425, 3377, 3077, 3084 RemainingUses=250}, 3084 RemainingUses=250}}, 
+               6 Content={3504 Content={3507 String="alindy\nvenore\n"}, 3504 Content={3507 String="alindy\nvenore\n"}, 3504 Content={3507 String="alindy\nvenore\n"}, 3003, 2866 Content={}, 2868 Content={}, 3504 Content={3507 String="alindy\nvenore"}, 2865 Content={}, 2854 Content={}, 3502 Content={3448 Amount=5}}, 
+               7 Content={3504 Content={3507 String="alindy\nankrahmun\n"}, 3492 Amount=100, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={}, 3504 Content={3507 String="alindy\nankrahmun\n"}, 3504 Content={3483, 3492 Amount=23, 3492 Amount=100, 3507 String="Alindy\nAnkrahmun\n"}, 2854 Content={3457, 3483, 3483, 3483, 3003, 3447 Amount=55, 3447 Amount=100, 3447 Amount=100}, 2871 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2865 Content={2869 Content={}, 2866 Content={}, 2868 Content={}, 2867 Content={}, 2865 Content={}, 2871 Content={}, 2868 Content={}, 2870 Content={}, 2865 Content={}, 2865 Content={}, 2867 Content={}, 2866 Content={}, 2865 Content={}, 2854 Content={}, 2868 Content={}, 2869 Content={}}, 3502 Content={3492 Amount=15, 3003, 3456}}, 
+               8 Content={3034 Amount=2, 2872 Content={2866 Content={}}, 3483, 3552, 3377, 3552, 3297, 3457, 3502 Content={3043 Amount=5, 3004, 3098 SavedExpireTime=0, 3051 SavedExpireTime=333}}}

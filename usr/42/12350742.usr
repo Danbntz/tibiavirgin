@@ -1,0 +1,61 @@
+ID              = 12350742
+Name            = "Shirbia Ligon"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,0-126-95-115)
+CurrentOutfit   = (133,0-126-95-115)
+LastLogin       = 1148243158
+LastLogout      = 1148243193
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,102214,0,116000,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,92722,1100,102403,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,92,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21165,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,2565,1800,3763,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,10,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,392,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,417,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,7,10,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(59,1),(60,1),(61,1),(84,1),(86,1),(87,1),(190,1),(191,1),(217,3),(223,1),(224,1),(257,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2872 Content={2874, 3152 Charges=1, 3457, 3285, 3308, 3003}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=167}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2864 Content={2864, 2864, 2864, 2864, 2864, 2864, 2864}, 2860 Content={2860, 2868}, 3350, 3459, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3502 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}}, 
+               2 Content={3505, 3354, 3276, 3505 String=" no entry leave no entren level up" Editor="Sir julio borjas", 3505 Editor="Aidia Knight", 3603 Amount=1, 2874, 3276, 3503 Content={3505 Editor="Shirbia Ligon", 3507 Editor="Kanhy"}, 3505 String="me la pelas joto\n\n" Editor="Kimera Heart", 3276, 3276, 3276, 3276, 3276, 3276, 3502}, 
+               3 Content={3457, 3291, 3300, 3502}, 
+               4 Content={3502}, 
+               5 Content={3358, 3502}, 
+               6 Content={3572, 3502}, 
+               7 Content={3502}, 
+               8 Content={3483, 3578 Amount=75, 3502}}

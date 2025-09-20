@@ -1,0 +1,57 @@
+ID              = 8104751
+Name            = "Lordiwar"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,98-20-79-94)
+CurrentOutfit   = (129,98-20-79-94)
+LastLogin       = 1137799730
+LastLogout      = 1137800146
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32212,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,29904,0,37800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,6848,3000,20800,1600)
+Skill = (2,257,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7720,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,35,0,10,0,0,0,0,0,0,0,5272,1100,5459,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,99,1100,122,20)
+Skill = (14,0,1200,0,0,0,462,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(140,1),(141,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={3600 Amount=4, 2874, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11}},
+               4 Content={3383},
+               5 Content={3425},
+               6 Content={3336},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2853 Content={2469, 3031 Amount=10, 3577 Amount=1, 3031 Amount=100, 3375, 3270, 3003, 3031 Amount=100}}}
+
+Depots      = {0 Content={2857 Content={3457}, 3504 Content={3324, 3035 Amount=61, 3043 Amount=1, 3567, 3507 String="lordiwar\nthais" Editor="Sacred Druid of Zanera"}, 2924 SavedExpireTime=42, 3504 Content={3372, 3559, 3297, 3507 String="lordiwar\nthais"}, 3504 Content={3504 Content={3457, 2973 KeyNumber=3520, 2970 KeyNumber=3800, 3504 Content={2854 Content={2870 Content={3504 Content={3504 Content={3507 String="Albus De'maniak\nThais"}, 3507 String="Albus de'maniak\nthais"}}, 3483, 3059, 3349}, 3507 String="albus de'maniak\nkazordoon"}, 3507 String="ruben de'maniak\nthais"}, 2870 Content={3012, 3457, 3504 Content={3552}, 3457, 3483, 2970 KeyNumber=3801, 3457}, 3507 String="lordiwar\nthais\n"}, 3502 Content={3559, 3412, 3336, 3409, 3358, 3084 RemainingUses=250, 3305, 3093 SavedExpireTime=1796, 3012, 3046 SavedExpireTime=2769, 3409, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3084 RemainingUses=250, 3097 SavedExpireTime=3588, 3083 RemainingUses=112, 3056 RemainingUses=200, 3050 SavedExpireTime=1776, 3092, 3077, 3083 RemainingUses=150}}, 
+               1 Content={3504 Content={3507 String="lordiwar \ncarlin"}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={3375, 3559, 3336, 2911 SavedExpireTime=2998, 3031 Amount=2}}}

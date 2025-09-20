@@ -1,0 +1,59 @@
+ID              = 7951974
+Name            = "Crown Ska"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,38-3-5-3)
+CurrentOutfit   = (134,38-3-5-3)
+LastLogin       = 1139801468
+LastLogout      = 1139801870
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,291687,0,295200,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,98420,1400,111701,1600)
+Skill = (2,286,375,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,850,850,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2358,1100,2452,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,30869,1100,31715,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,128,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,57,1200,109,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,146,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,515,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,86,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,10,20,29,42,51,79}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(61,1),(84,1),(85,1),(86,1),(87,1),(109,1),(111,1),(112,1),(115,1),(125,1),(126,1),(135,1),(136,1),(137,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(179,1),(180,1),(190,1),(191,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3056 RemainingUses=198},
+               3 Content={2868 Content={3446 Amount=100, 3003, 3483}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3504 Content={3384, 3377, 3558, 3507 String="Crown Ska \nThais" Editor="Phard", 2868 Content={2870 Content={2869}}}, 3502 Content={3377}}, 
+               1 Content={3502 Content={3046 SavedExpireTime=2984, 3008, 3056 RemainingUses=200, 3350, 3349}}, 
+               2 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 3504 Content={3507 String="crown ska\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3425, 3447 Amount=30, 3350, 3447 Amount=100, 3349, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3349, 3504 Content={3507 String="Crown Ska\nAb'dendriel" Editor="Phard", 2853 Content={2853}}, 3483, 3289, 3061, 3287 Amount=9, 3266, 2857 Content={3446 Amount=82, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3017, 3046, 2853 Content={3277 Amount=10}, 3004, 3059, 3375, 3350, 3350, 3502}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3506 String="Crown Ska\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3504 Content={2854 Content={3031 Amount=82, 3031 Amount=100}, 3507 String="Crown Ska\nVenore"}, 3502 Content={}}, 
+               7 Content={3457, 3502 Content={}}}

@@ -1,0 +1,52 @@
+ID              = 9513765
+Name            = "Fufurufa"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,15-114-114-15)
+CurrentOutfit   = (137,15-114-114-15)
+LastLogin       = 1148114212
+LastLogout      = 1148115060
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32785,32032,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,915443,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,220059,3000,582400,1600)
+Skill = (2,-30,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,162155,1100,170871,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,36,1400,71,30)
+Skill = (8,66,0,10,0,0,0,0,0,0,0,108450,1100,113880,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1100,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,354,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4971,1100,5420,20)
+Skill = (14,0,1200,0,0,0,518,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,33,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(27,1),(32,1),(33,1),(34,1),(39,1),(57,1),(58,1),(67,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(115,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(129,1),(134,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(213,1),(214,1),(215,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {5 Content={3421},
+               6 Content={3291},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3507 String="fufurufa\nthais"}, 3504 Content={3507 String="Fufurufa\nThais"}, 3504 Content={3507 String="Fufurufa\nThais"}, 3507 String="fufurufa\nthais"}, 3502}, 
+               1 Content={3504 Content={3507 String="fufurufa\ncarlin"}, 3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Fufurufa\nab'dendriel"}, 2853, 3505, 3465 ContainerLiquidType=2, 2914 SavedExpireTime=1989, 3502 Content={2854 Content={3430, 3412, 3267, 3552}}}, 
+               6 Content={3046 SavedExpireTime=2154, 3449 Amount=4, 3503 Content={3503 Content={3507}, 3503, 3503 Content={3503}, 3503, 3503, 3503, 3507 String="Baseck\nVenore"}, 2473 Content={2854 Content={3266, 3425, 3425}, 2868 Content={3413, 3413, 3353, 3372, 3285, 3285, 3285, 3285, 3285}, 2867 Content={3097, 3083 RemainingUses=150, 3083 RemainingUses=150, 3384, 2853 Content={2920 SavedExpireTime=580, 2920 SavedExpireTime=587, 2920 SavedExpireTime=540, 2920 SavedExpireTime=410, 2920, 2920 SavedExpireTime=599, 2920 SavedExpireTime=592}, 3384}, 2867 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2868 Content={2854 Content={3446 Amount=18, 3446 Amount=100, 3446 Amount=100, 3447 Amount=18, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3547 Amount=2, 3548 Amount=1, 3738 Amount=2, 3453, 2866 Content={2885, 3455, 3452, 3454, 3551, 3310, 2984, 3483, 2876}}, 2471 Content={3457, 3003, 3483, 3483, 3483, 3483, 2867 Content={2865, 2865, 2867, 2854, 2854, 2868, 2869, 2867 Content={2868}, 2854, 2854, 2854, 2854, 2867, 2867, 2854}, 3147, 3147, 3147, 3147, 2471 Content={2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471}, 3307, 3300, 3283}, 3502 Content={3091 SavedExpireTime=436, 3037, 2863 Content={3391, 3434, 3295, 3382, 3381, 3031 Amount=57, 3035 Amount=58}, 2854 Content={2991, 2991, 2991, 2991, 2991, 2991, 2991, 2903, 3070, 3081 RemainingUses=5, 3563, 3014, 3210, 3061, 3450 Amount=2, 3405, 3740 Amount=5, 2843, 2857 Content={3279, 3725 Amount=2, 3724 Amount=1, 3734 Amount=1, 3738 Amount=1, 3739 Amount=2, 3732 Amount=4}}, 3049 SavedExpireTime=341, 3092, 3093 SavedExpireTime=1797, 3051, 2469 Content={2854 Content={3076, 3061, 3082 RemainingUses=50, 3076, 3029 Amount=6, 3026 Amount=2, 3033 Amount=4, 3042 Amount=16, 3027 Amount=3, 3028 Amount=10, 3034 Amount=2, 3030 Amount=6, 3097 SavedExpireTime=2398, 3050, 3017, 3062, 3736 Amount=17, 2865 Content={2906, 2950, 2955, 2954, 2952, 2949, 3299, 3292, 3298 Amount=1, 3470, 3463, 3467, 3469, 2989, 3287 Amount=1, 3078, 3471, 3004, 3735 Amount=1, 2865 Content={3083 RemainingUses=150, 3085 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3084 RemainingUses=250, 3056 RemainingUses=200, 3056 RemainingUses=200, 2855 Content={2873, 3208, 3451, 3453}}}}, 2857 Content={2872, 2865, 2867, 2869, 2868, 2870, 2854, 2871}, 2861 Content={3046, 3046 SavedExpireTime=1305, 3659, 3659, 3658}, 2867 Content={3593, 3598 Amount=100, 3588 Amount=100, 3606 Amount=100, 3602 Amount=100, 3600 Amount=100, 3597 Amount=100, 3595 Amount=100, 3591 Amount=100, 3587 Amount=100, 3584 Amount=100, 3605 Amount=100, 3604 Amount=100, 3603 Amount=100, 3723 Amount=100, 3590 Amount=98, 3586 Amount=31, 3585 Amount=90, 2854 Content={3601 Amount=1, 3597 Amount=4, 3595 Amount=7, 3593, 3588 Amount=21, 3598 Amount=45}, 3492 Amount=100}, 2856 Content={2874 ContainerLiquidType=2, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=3}, 2867 Content={3327, 2970 KeyNumber=3012}, 2857 Content={3046, 3084 RemainingUses=250, 3077, 3084 RemainingUses=250, 3077, 3505 String="TE AMO  eres lo mejor que tengo gracias por estar conmigo  :D" Editor="Fufurufa", 2839 String="pucharoncito! te amo kon lukura baby eres lo mejor k tengo en este mundo grax x estar a mi la do nunk m dejes !! :*******\n i pronto kumpliremos  8 meses :D", 2839 String="Miriam Eres Lo Mejor Que Me  A Pasado En Esta Vida Mil Gracias Por Darme Tu Amor TE AMO No Cambies\n\nY Por Tenerme Paciencia Tambien \n:D"}, 2854 Content={2656, 2644, 2393, 2659, 2659, 2659, 2659, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667}, 2970 KeyNumber=3012}, 2842 String="27-septiembre-2005\n\n02:32 You lose 209 hitpoints due to an attack by a dragon lord.\nEste fue mi primer dragon lord\nfufurufa lvl 38 :) nice~\n\nandube cazando con Don Delio,Don flavio.\n\nsaludo al elver-gas y a la arakanna\n\n\n", 3287 Amount=4, 2867 Content={2969 KeyNumber=3667, 3447 Amount=1, 3448 Amount=69, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 2969 KeyNumber=3610, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2970 KeyNumber=3303}}}}

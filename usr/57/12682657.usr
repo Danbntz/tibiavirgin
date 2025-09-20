@@ -1,0 +1,55 @@
+ID              = 12682657
+Name            = "Garadi"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1148233257
+LastLogout      = 1148233915
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32910,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,236514,0,262600,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,157932,1400,157982,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,153,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,830,830,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,39370,1100,40144,100)
+Skill = (7,65,0,10,0,0,0,0,0,0,0,61444,1100,62089,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,646,1200,824,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,1936,1200,1979,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1800,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1643,1100,1769,20)
+Skill = (14,0,1200,0,0,0,180,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,11,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,18,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,15,20,29,30,42,44,51}
+QuestValues = {(20,1),(21,1),(23,1),(24,1),(32,1),(33,1),(34,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(115,1),(121,1),(125,1),(126,1),(190,1),(191,1),(192,1),(208,1),(224,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3045 RemainingUses=138},
+               3 Content={2866 Content={3583 Amount=2, 3449 Amount=9, 3031 Amount=96, 3031 Amount=100, 3483, 3492 Amount=81, 2867 Content={2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3152 Charges=1, 3198 Charges=2, 3152 Charges=1, 3160 Charges=1, 3198 Charges=5, 3152 Charges=1, 3160 Charges=1, 3164 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2}, 3308, 3457, 3003}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3446 Amount=29}}
+
+Depots      = {0 Content={3502 Content={3504 Content={2853 Content={3349, 3350, 3349, 3349, 3350, 3349}, 3350, 3350, 3349, 3349, 3349, 3353, 3349, 3507 String="garadi\nthais" Editor="Garadi"}, 3277 Amount=13, 3375}}, 
+               1 Content={2853, 3504 Content={3507 String="garadi\ncarlin" Editor="Garadi"}, 3299, 3307, 3502 Content={3552, 3425, 3372, 3447 Amount=10, 3349, 2853, 3377, 3350, 3293, 3350, 3308, 3411, 3276, 3285, 2853 Content={2853 Content={2853 Content={2853 Content={2853, 2853, 3504 Content={2874, 3504 Content={3507 String="bley mari\ncarlin" Editor="Bley mari"}, 2853, 3507 String="Druid armagedonu\ncarlin" Editor="Daniel knight Zanery", 3138}, 2853, 3140, 2853, 3138, 3507 String="demons zaplik\ncarlin" Editor="Kibel Of Zanera"}, 2853}, 2853}, 3507 String="Kondzior Pall\nThais" Editor="Lolo-Knight", 2853, 2853 Content={2853 Content={3137, 3507 String="lord of mestre\ncarlin" Editor="Astrix Mistic"}}, 2853}}}, 
+               2 Content={3502 Content={2870, 2870 Content={3457, 3375, 3412, 3425}, 3059}}, 
+               6 Content={3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="Lady Xarlok\nVenore\n" Editor="Lady Xarlok"}, 3507 String="Garadi\nvenore\n" Editor="Bialy Panoramix"}, 3504 Content={3507 String="garadi\nvenore" Editor="Deeny"}, 3504 Content={3507 String="Garadi\nVenore" Editor="Deeny"}, 3504 Content={3507 String="Garadi\nVenore" Editor="Deeny", 2469}, 3504 Content={3507 String="garadi\nvenore\n" Editor="Qeny"}, 3504 Content={3507 String="garadi\nvenore\n" Editor="Garadi"}, 3504 Content={3507 String="Kaju kuszownik\nVenore" Editor="Kaju kuszownik"}, 3504 Content={3507 String="Kaju kuszownik\nvenore" Editor="Kaju kuszownik"}, 3507 String="garadi\nvenore" Editor="Deeny"}, 3502 Content={2469 Content={2867 Content={2854 Content={3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 3035 Amount=4, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3028 Amount=1}}, 2872 Content={2868, 2867, 2867, 2854, 2867, 2866, 2871}, 2867 Content={3723 Amount=25, 3585 Amount=7, 3583 Amount=4, 3598 Amount=9, 3577 Amount=8, 3590 Amount=2, 3729 Amount=5, 3730 Amount=13, 3600 Amount=10, 3602 Amount=24, 3595 Amount=21, 3586 Amount=16}, 2867 Content={2854 Content={2853 Content={3056 RemainingUses=200, 3054 RemainingUses=200, 3004, 4871, 3054 RemainingUses=200, 2991, 3056 RemainingUses=200}, 2853 Content={2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=5010, 2969 KeyNumber=4055, 2969 KeyNumber=5000}, 2853 Content={2989, 2989, 2989, 2989, 2989, 2989, 2989, 2989}}, 2906, 3453, 2873, 3453, 2901, 3293, 3483, 3492 Amount=69, 3003, 3003, 3552}, 2867 Content={3349, 3350, 3349, 3349, 3350, 3349, 3349, 2853 Content={3449 Amount=8, 3448 Amount=14}, 2853 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2853 Content={3277 Amount=43}, 2853 Content={1781 Amount=12, 1781 Amount=100, 1781 Amount=100, 1781 Amount=100, 1781 Amount=100, 1781 Amount=100, 1781 Amount=100, 1781 Amount=100}, 3287 Amount=1, 3350, 3349, 3349}, 2867 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2857 Content={2857, 2859}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3059, 3059, 3177 Charges=1, 3046 SavedExpireTime=2986, 2853 Content={3059, 3059, 3046, 3046, 3046}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}, 2854 Content={3084 RemainingUses=250, 3083 RemainingUses=147, 3084 RemainingUses=250, 3077, 3077, 3084 RemainingUses=250, 3050 SavedExpireTime=1797, 3045 RemainingUses=200, 3017, 3017, 2914 SavedExpireTime=1999, 3050 SavedExpireTime=1754, 3097 SavedExpireTime=3505, 3050 SavedExpireTime=1473}, 2867 Content={2867 Content={3418, 3297, 3357, 3282, 3351, 3299, 3357, 3282, 3425, 3557, 3282, 3385, 3357}, 3275, 3377, 3285, 3412, 3308, 3351, 3367, 3367}}}}

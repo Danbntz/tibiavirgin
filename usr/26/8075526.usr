@@ -1,0 +1,51 @@
+ID              = 8075526
+Name            = "Almighty Kamikaze"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,21-114-114-114)
+CurrentOutfit   = (133,21-114-114-114)
+LastLogin       = 1141269771
+LastLogout      = 1141270026
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32454,32069,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,35352,0,37800,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,101470,1100,102403,1600)
+Skill = (2,163,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,121,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6582,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,454,2000,750,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4973,2000,6350,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,2876,2000,3150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1073,1100,1145,20)
+Skill = (14,0,1200,0,0,0,375,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,96,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,8,10,20}
+QuestValues = {(18,1),(27,1),(111,1),(112,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2867 Content={3031 Amount=16}},
+               5 Content={3031 Amount=91},
+               6 Content={3074},
+               8 Content={3552},
+               10 Content={3035 Amount=1}}
+
+Depots      = {3 Content={3308, 3270, 3270, 3270, 3270, 3270, 3504 Content={2853 Content={2853 Content={}}, 2656, 3504 Content={3349, 3483, 3507 String="argonion\nab'dendriel"}}, 3504 Content={2472 Content={}, 2667, 3504 Content={3504 Content={}, 3507 String="Funyunz\nAb'dendriel"}}, 3457, 3457, 3457, 3457, 2667, 1781 Amount=3, 2656, 2667, 2471 Content={3655, 2656}, 2656, 2981, 3012, 3003, 2911 SavedExpireTime=578, 2471 Content={2667, 2656, 2667, 2667, 2656, 2656, 2667, 2853 Content={}, 2853 Content={}}, 2667, 2471 Content={3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1350 gold\nfor your house \"Mangrove 2\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 2471 Content={}, 2656, 2471 Content={3655}, 3362, 3003, 3362}, 2667, 3502 Content={3003, 3457}}, 
+               5 Content={3502 Content={3504 Content={3147, 3147, 3147, 3147, 3147, 3507 String="Doh'Dle\nDarashia"}, 3198 Charges=3, 2865 Content={}, 3483}}, 
+               6 Content={3502}}

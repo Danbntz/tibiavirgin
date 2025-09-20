@@ -1,0 +1,60 @@
+ID              = 8156775
+Name            = "Scriptum"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,114-76-114-91)
+CurrentOutfit   = (129,114-76-114-91)
+LastLogin       = 1148259221
+LastLogout      = 1148259598
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32681,31685,6]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1170664,0,1238400,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,585935,1400,618272,1600)
+Skill = (2,535,535,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,377,560,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1170,1170,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,104994,1100,105718,100)
+Skill = (7,75,0,10,0,0,0,0,0,0,0,152272,1100,161522,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,152,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1859,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12039,1100,13052,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,42,44,45,49,51,76,79,81}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(59,1),(77,1),(78,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(106,1),(107,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(137,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(292,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3583 Amount=1, 3052 SavedExpireTime=748, 3351, 3031 Amount=96, 3351, 3031 Amount=100, 3447 Amount=46, 3350, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3447 Amount=100, 3447 Amount=100, 3031 Amount=100, 3003, 3457}},
+               4 Content={3380},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=47}}
+
+Depots      = {0 Content={3504 Content={3507 String="scriptum\nthais"}, 3504 Content={3507 String="Scriptum\nThais", 2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}}, 3504 Content={3507 String="Scriptum \nThais", 2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={2869, 3504 Content={3507 String="Scriptum\nKazordoon" Editor="Scriptum"}, 3502}, 
+               3 Content={3349, 3504 Content={3446 Amount=90, 3446 Amount=100, 3446 Amount=100, 2853 Content={2853 Content={2853 Content={3349, 2853 Content={3377, 2853 Content={3377, 3349, 3349, 2853}}}}, 2853 Content={2853, 3349}, 3097 SavedExpireTime=3073}, 3507 String="scriptum\nab'dendriel" Editor="Scriptum"}, 2872 Content={2869 Content={2903, 3039, 3033 Amount=2, 3030 Amount=1, 3153 Charges=1, 3084 RemainingUses=250, 3284 RemainingUses=1, 3034 Amount=1}, 2853 Content={2853, 2867 Content={2868 Content={3208}}, 3449 Amount=16}, 3377, 3039}, 3506 String="Scriptum\nAb'Dendriel\n\nEstas cordialmente invitado al cumpleaños de Santiagoz ke se celebrara en el templo de Thais el viernes 15/sep/05 la fiesta sera a las 10:00 pm (hora tampico) (invitacion para 3 personas)", 3097 SavedExpireTime=3074, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3507 String="scriptum\nab'dendriel"}, 3349, 3506 String="Scriptum\nab'dendriel\n\nEstas Cordialmente Invitado al\nEnlace Matrimonial de:\nPou Fairy & Bruno Wevon\nEl dia 23 de junio del 2005.\na las 19 hrs. (mex)\n\n                                 2 personas.\n\nMesa de regalos: Depot ab'dendriel.", 3412, 2969 KeyNumber=3033, 3502 Content={3035 Amount=33, 2776, 2853, 3457, 2970 KeyNumber=3012, 3287 Amount=17, 3457, 2853 Content={3147, 3147}, 3084 RemainingUses=250}}, 
+               4 Content={2854 Content={3349, 3349, 3349}, 2854 Content={2853 Content={3275, 3275, 3275, 3275}}, 3061, 3031 Amount=12, 3504 Content={3377, 3377, 3377, 3377, 3377, 3377, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2853 Content={3409, 3583 Amount=6}, 3504 Content={3003, 3507 String="scriptum\nedron"}, 2865 Content={}, 3028 Amount=1, 3504 Content={3507 String="scriptum\nedron"}, 3504 Content={3507 String="scriptum\nedron", 2868 Content={}}, 3384, 3092 SavedExpireTime=191, 3492 Amount=10, 3506 String="Warning!\n\nThe monthly rent of 1765 gold\nfor your house \"Wood Avenue 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1765 gold\nfor your house \"Wood Avenue 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3551, 3448 Amount=60, 3425, 3504 Content={3507 String="Scriptum\nedron", 2853 Content={2853 Content={2853 Content={3301}}}}, 3504 Content={2853 Content={2853 Content={}, 3299}, 2868 Content={3311}, 3507 String="Scriptum \nedron", 3504 Content={3507 String="Scriptum\nAb'dendriel"}}, 2842 String="", 2857 Content={3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}, 3502 Content={3092 SavedExpireTime=0, 3285, 3285}}, 
+               5 Content={3504 Content={3507 String="Scriptum\ndarashia"}, 3504 Content={3507 String="Scriptum \ndarashia"}, 3502 Content={}}, 
+               6 Content={3357, 3287 Amount=4, 3091, 3091, 3557, 3502}, 
+               7 Content={3504 Content={3507 String="Scriptum\nankrahmun"}, 3502 Content={3351, 3483, 3425, 3277 Amount=26, 3449 Amount=4}}}

@@ -1,0 +1,55 @@
+ID              = 12076096
+Name            = "Sobres"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,19-76-77-115)
+CurrentOutfit   = (130,19-76-77-115)
+LastLogin       = 1147116409
+LastLogout      = 1147116440
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,98835,0,116000,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,66589,1100,72958,1600)
+Skill = (2,236,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,255,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,23000,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,13146,2000,25550,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,286,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,130,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2269,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,16,20,25,29,44}
+QuestValues = {(18,1),(20,1),(55,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3003, 3558, 3286, 3286, 3031 Amount=100, 3031 Amount=23, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2854 Content={3052 SavedExpireTime=811, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3586 Amount=1, 2866 Content={2866 Content={3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2865 Content={3071, 2854 Content={2854 Content={3293, 2656, 2969 KeyNumber=3033, 3483}, 2981, 3003, 3074, 3457, 3308, 3457, 2969 KeyNumber=4600, 3003, 2969 KeyNumber=3600, 2969 KeyNumber=3302, 3457, 3457, 3483, 3668, 3506 String="Maria-Felix\nab'dendriel\n\nEstas Cordialmente Invitado al\nEnlace matrimonial de:\nPou Fairy & Bruno Webon \nEl dia 23 de Junio del 2005\na las 19 hrs. (mex)\n\n                                   3 personas.\n\nMesa de regalos: Depot ab' dendriel", 3509}, 3457}, 2857 Content={2865 Content={3031 Amount=39, 3031 Amount=100, 2857 Content={3035 Amount=21, 3035 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 2853 Content={3483, 3492 Amount=67, 3578 Amount=16}, 3502 Content={3362, 2992 Amount=5, 2854 Content={3046 SavedExpireTime=2998, 3056 RemainingUses=200, 3084 RemainingUses=246, 3054 RemainingUses=43, 3077, 3098 SavedExpireTime=449, 3097 SavedExpireTime=3596, 3056 RemainingUses=199, 3054 RemainingUses=171}, 2854 Content={3375, 3375, 3552, 3551, 3279, 3299, 3551, 3425, 3279, 3313, 3425, 3446 Amount=54, 3377, 3285, 3283, 3374, 3430, 3430, 3358, 3559}}}}

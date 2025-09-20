@@ -1,0 +1,61 @@
+ID              = 12159053
+Name            = "Selukas"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-79-88-0)
+CurrentOutfit   = (134,0-79-88-0)
+LastLogin       = 1148246691
+LastLogout      = 1148247537
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32384,31769,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,549153,0,601800,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,730620,1100,780562,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,53,815,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,32492,1500,38723,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,233,1800,356,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2815,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,487,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,52,0,10,0,0,0,0,0,0,0,10782,1100,11848,20)
+Skill = (14,0,1200,0,0,0,1084,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,188,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,16,17,18,20,28,29,39,42,44,50,75,76,78,81,83,84,85,88,89,94}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(38,1),(46,1),(49,1),(53,1),(54,1),(60,1),(61,1),(67,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(113,1),(114,1),(115,1),(125,1),(126,1),(190,1),(191,1),(208,1),(217,3),(222,1),(223,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(333,1)}
+Murders     = {1145933424,1146256233,1147484400,1147673495,1147834715,1148199543}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2867 Content={3069, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 2854 Content={3160 Charges=1, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2871 Content={3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3042 Amount=2, 2867 Content={2854}, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457}},
+               4 Content={3567},
+               5 Content={3436},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="selukas\nthais" Editor="Selukas"}, 3502}, 
+               1 Content={3351, 2868, 3503 Content={3507 String="SELUKAS\nCARLIN\n" Editor="Selukas"}, 2870, 3350, 3504 Content={3504 Content={3504 Content={3507 String="selukas\ncarlin" Editor="Selukas"}, 3507 String="selukas\ncarlin\n" Editor="Selukas"}, 3504 Content={3504 Content={3507 String="selukas \ncarlin\n" Editor="Selukas"}, 3507 String="selukas \ncarlin" Editor="Selukas"}, 3507 String="selukas\ncarlin" Editor="Selukas"}, 2656, 2656, 2656, 2656, 2868 Content={3067, 2858 Content={3097, 2857}, 3350, 2872 Content={3045 RemainingUses=200, 3483, 3448 Amount=1, 3007, 3349, 3349, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3650, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2872 Content={2868 Content={2872 Content={2854}, 3056 RemainingUses=200, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\"."}, 2859 Content={3097 SavedExpireTime=3597, 3097}}, 3583 Amount=16, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2969 KeyNumber=3033}, 2872 Content={3205, 2868 Content={2866 Content={3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3}, 2854 Content={3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2}}, 2869 Content={2869 Content={3425, 2857, 2862}, 2869 Content={2869, 2869, 2869, 2869}}}, 2854 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3504 Content={2868 Content={3093 SavedExpireTime=1210, 3097 SavedExpireTime=3592, 3097, 2973 KeyNumber=3520, 3085 RemainingUses=166, 3313, 3572, 2659, 3077, 3045 RemainingUses=200, 3045 RemainingUses=193, 3576, 3271, 2667, 2659, 2857 Content={3097, 3042 Amount=11, 2667, 2906, 2818 Editor="Sir Colima", 3004, 2865 Content={2659, 3017, 3289, 3285, 3084 RemainingUses=159, 3322, 2659, 3085 RemainingUses=200, 3008, 3076, 2868 Content={3351, 3065, 3066, 2659, 3279, 2667, 3017, 3310, 2957, 2667, 3017, 2969 KeyNumber=5000, 3045 RemainingUses=200, 3003, 3277 Amount=5, 3483}, 2854 Content={3017, 3077, 3017, 3338, 3301, 2659, 3301, 3097 SavedExpireTime=3583, 3050, 3349, 2659, 3441, 2667, 2393, 3432, 3077, 3428, 3066, 3007, 2992 Amount=1}, 3077, 3349, 3350, 2854 Content={3421, 2659, 3017, 3084 RemainingUses=250, 2667, 2659, 3347, 3017}, 2970 KeyNumber=4503, 2970 KeyNumber=3899, 2970 KeyNumber=3802}, 2853 Content={2667, 3056 RemainingUses=200, 3077, 2969 KeyNumber=5010, 3457, 3003, 3003, 2970 KeyNumber=4503}}}, 2854 Content={2868 Content={3065, 2955, 3492 Amount=1, 3092, 2970 KeyNumber=4503, 3046 SavedExpireTime=2998, 3298 Amount=9, 2667, 3097, 3062, 3350, 2970 KeyNumber=4502, 3350, 2659, 3017, 3077}, 2869 Content={2667, 3404}, 2868, 2865}, 3507 String="selukas\ncarlin" Editor="Selukas"}, 3504 Content={3504 Content={3507 String="selukas\ncarlin" Editor="Selukas"}, 3504 Content={3507 String="selukas\ncarlin" Editor="Selukas"}, 3350, 3504 Content={3507 String="selukas\ncarlin" Editor="Gardian of Fenix"}, 3507 String="Selukas\nCarlin\n" Editor="Ishyru"}, 1781 Amount=7, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 3502 Content={3035 Amount=30, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 2973 KeyNumber=3520, 3456}}, 
+               2 Content={3504 Content={2853, 2853, 3507 String="selukas\nKazordoon" Editor="Selukas"}, 3504 Content={2853, 3507 String="selukas\nkazordoon" Editor="Selukas"}, 3502}, 
+               3 Content={3504 Content={2853, 3507 String="selukas\nAb'Dendriel" Editor="Selukas"}, 3502}, 
+               4 Content={3504 Content={3507 String="selukas\nedron" Editor="Selukas"}, 3502}, 
+               5 Content={3502 Content={3492 Amount=10, 3291}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

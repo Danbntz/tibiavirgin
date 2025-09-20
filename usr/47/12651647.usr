@@ -1,0 +1,57 @@
+ID              = 12651647
+Name            = "Dragon Tenebroso"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,78-120-0-94)
+CurrentOutfit   = (134,78-120-0-94)
+LastLogin       = 1147201230
+LastLogout      = 1147201234
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32812,31953,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,41003,0,47000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,14580,3000,20800,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,70,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,17566,1100,18194,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,42,0,10,0,0,0,0,0,0,0,10140,1100,11112,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,76}
+QuestValues = {(96,1),(97,1),(98,1),(99,1),(129,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3045 RemainingUses=191},
+               3 Content={2865 Content={2854 Content={3503 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147}, 3507 String="zazukke\nvenore" Editor="Zazukke"}, 3598 Amount=3, 2920, 2920, 3457, 3003, 2867 Content={3031 Amount=59}}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}},
+               4 Content={3357},
+               5 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3093}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3409, 3502}, 
+               4 Content={3504 Content={3507 String="Dragon Tenebroso\nedron\n" Editor="Miguelito cara de changuito"}, 3504 Content={3507 String="Dragon Tenebroso\nedron" Editor="Miguelito cara de changuito"}, 3502}, 
+               5 Content={3502 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3286}, 3410, 3286, 3410, 3410, 3264, 3352, 3264}, 3286, 3410, 3352, 3352, 3354, 3264, 3286}, 3264, 3410, 3354, 3358, 3358, 3264, 3410}, 3410, 3352, 3358, 3354, 3358, 3354, 3410}}}, 
+               6 Content={3083 RemainingUses=144, 3311, 3504 Content={3447 Amount=38, 3448 Amount=3, 3507 String="Dragon Tenebroso\nVenore\n" Editor="Dragon Tenebroso"}, 3097, 3008, 3504 Content={3507 String="Dragon Tenebroso\nVenore\n" Editor="Siousire", 2867 Content={3054 RemainingUses=200}}, 3506 String="Dragon tenebroso\nvenore\n\nHey pendejo soy el smigol\nya te encontre una casa chingona de la vecindad del chavo\n\nven a la casa para ponernos de acuerdo\n\nla pinche casa esta bien vara\nyo la pago\n¿cual es el pedo?\n\ntkm: Smigol'chingon" Editor="Smigol'sepsi", 3441, 3377, 3059, 3502 Content={3035 Amount=11, 3279, 3425, 3322, 3065, 2991, 3084 RemainingUses=250, 3270, 3483}}}

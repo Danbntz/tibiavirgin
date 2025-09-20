@@ -1,0 +1,58 @@
+ID              = 12616277
+Name            = "Shellsea"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (140,97-94-94-93)
+CurrentOutfit   = (140,97-94-94-93)
+LastLogin       = 1148231782
+LastLogout      = 1148236546
+StartPosition   = [32360,31782,7]
+CurrentPosition = [33224,32438,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,226085,0,232500,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,154460,1100,157355,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,542,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,26331,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1111,1800,1118,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,437,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,50,1100,66,20)
+Skill = (14,0,1200,0,0,0,955,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,35,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,12,20,26,29,42,44,76,81}
+QuestValues = {(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(125,1),(126,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2867 Content={3031 Amount=46, 3031 Amount=100, 3031 Amount=100, 3577 Amount=4, 3031 Amount=100, 2867 Content={3160 Charges=1, 3177 Charges=1, 3160 Charges=1, 3152 Charges=1, 3198 Charges=5, 3198 Charges=5, 3152 Charges=1, 3152 Charges=1, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3152 Charges=1, 3152 Charges=1}, 3457, 3031 Amount=100, 2874 ContainerLiquidType=10, 3285}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {1 Content={3504 Content={3507 String="shellsea\ncarlin" Editor="Ravena Stars", 2854 Content={3552, 3298 Amount=1, 3372}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Theater Avenue 5d\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3077, 3577 Amount=8, 3035 Amount=20, 3409, 3409, 2991, 2815, 3056 RemainingUses=200, 3577 Amount=5, 3074, 3056 RemainingUses=200, 3054 RemainingUses=163, 3065, 3409, 2970 KeyNumber=4601, 3446 Amount=3, 3070, 3291, 3578 Amount=10, 2868 Content={3421, 3084 RemainingUses=250, 3050, 3056 RemainingUses=200, 3572}, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3059, 3066, 3003, 3046 SavedExpireTime=2988}}, 
+               2 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               8 Content={3502}}

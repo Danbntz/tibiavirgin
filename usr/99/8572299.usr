@@ -1,0 +1,55 @@
+ID              = 8572299
+Name            = "Pascacio"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-114-123-0)
+CurrentOutfit   = (128,114-114-123-0)
+LastLogin       = 1147480751
+LastLogout      = 1147480758
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32647,31919,8]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4691,0,6400,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,4882,3000,6400,1600)
+Skill = (2,142,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2278,1100,2452,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,1948,1100,2027,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,177,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,46,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(30,1),(32,1),(33,1),(34,1),(35,1),(46,1),(58,1),(59,1),(60,1),(125,1),(126,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3031 Amount=3, 3003, 3267, 2973 KeyNumber=3520, 3267, 3412, 3003}},
+               4 Content={3378},
+               5 Content={3430},
+               6 Content={3300},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3409, 3507 String="pascacio\nthais", 3492 Amount=100, 3483, 3282, 3425, 3056 RemainingUses=200, 3372, 3375, 3357}, 3502 Content={}}, 
+               1 Content={3502 Content={3504 Content={2868, 2854, 2854, 2854, 2854}, 2865 Content={2868, 2865, 2870 Content={3283, 3198 Charges=5, 3457, 3003}, 3003}, 3504 Content={3003, 3483, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3003, 3456, 3003, 2969 KeyNumber=3033, 3565, 3504 Content={3308, 3003, 2853 Content={2955}, 3507 String="Kogotonaebawu\ncarlin"}, 3507 String="Lecroix Lancaster\ncarlin\n"}}}, 
+               2 Content={3502 Content={3349, 3446 Amount=34}}, 
+               3 Content={3502 Content={3031 Amount=10, 3031 Amount=100, 3374}}, 
+               6 Content={3502 Content={3504 Content={2471}}}}

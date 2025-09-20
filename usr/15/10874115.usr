@@ -1,0 +1,61 @@
+ID              = 10874115
+Name            = "Apoteu Von Zwinh"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,0-114-108-114)
+CurrentOutfit   = (133,0-114-108-114)
+LastLogin       = 1148260279
+LastLogout      = 1148260303
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32310,31798,7]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,918062,0,992000,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1286116,1100,1395159,1600)
+Skill = (2,345,345,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,970,970,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,109,109,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,790,790,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,69067,1500,87378,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,343,2000,450,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1764,2000,3150,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,11791,2000,12750,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,252,2000,350,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,5964,1500,8549,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4488,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,11,13,16,20,21,23,29,38,39,44,45,75,88}
+QuestValues = {(18,1),(20,1),(46,1),(53,1),(60,1),(61,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(106,1),(107,1),(109,1),(113,1),(114,1),(125,1),(126,1),(151,1),(152,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3210},
+               2 Content={3055},
+               3 Content={2871 Content={2863 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3577 Amount=10, 3492 Amount=100, 3587 Amount=10}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3071},
+               7 Content={3382},
+               8 Content={3079},
+               9 Content={3063},
+               10 Content={2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3505 String="Apoteu Von Zwinh Hunt Here !\nRespect\n" Editor="Apoteu Von Zwinh", 3505 String="Apoteu Von Zwinh Hunt Here !\nRespect\n" Editor="Apoteu Von Zwinh", 3505 String="Apoteu Von Zwinh Hunt Larva\nRespect\n" Editor="Apoteu Von Zwinh", 3505 String="Apoteu Von Zwinh Hunt Here !\nRespect" Editor="Apoteu Von Zwinh", 3003, 3457, 3483}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2854, 2867 Content={3582 Amount=10, 3590 Amount=100, 3578 Amount=100, 3578 Amount=100, 3579 Amount=1, 3586 Amount=20, 3585 Amount=5, 3587 Amount=25, 3577 Amount=70, 3600 Amount=60, 3723 Amount=5, 3588 Amount=100, 3578 Amount=20, 3598 Amount=5, 3606 Amount=10}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3658, 3658, 2815 Editor="Apoteu Von Zwinh", 2952, 3059, 3059, 3059, 2828 String="Rahmen Tah and the Vizier, Part I\nIn the second year of the reign of pharaoh Rahmen Tah there was a vizier who was said to consort with demons and to tamper with the powers of oblivion. He lived in a majestic tower that stood on a little island close the harbour. It was a marvel to behold, made of black glass and gold, and everybody who looked at it was filled with an eerie sense of foreboding. The vizier was rumoured to be so powerful that no one dared to bring him to justice. Even Rahmen Tah himself feared the power of his vizier, and he did not dare to send troops against the vizier. Finally he called for his chief astrologer and mathematician, the wise Athem, and asked him for advice. Athem listened quietly to the words of his pharaoh. After he had finished Athem ask his pharaoh for some time to think everything over. Reluctantly the pharaoh agreed.", 2839 Editor="Apoteu Von Zwinh"}, 2868 Content={2868 Content={3350, 3350, 3350, 3350, 3349, 3350, 3350, 3350, 3446 Amount=75}, 2868 Content={3448 Amount=30, 3447 Amount=100, 3447 Amount=95, 3446 Amount=100, 3349, 3349, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 2868 Content={2885}, 2868, 2868 Content={3066, 3066, 3738 Amount=1, 3345}, 2992 Amount=5, 3563}, 2868 Content={2865, 2868, 2868, 2866, 2856 Content={2856 Content={2815 String=" DOLLO te deseju um feliz natal xD\n     =]\nvo viaja mas voltu rapidinhu p/ joga tibia!!\n   Ow assim essi dollo foi complicadu pq consigui um cum a fulix...\nmas deu u update volto tudu so ki eu consigui d novu!!\n  aKABeIki perdi u acc dela\n        ... mas dei geiutu de pega um dollo p/ vc neh!!!\n    OW esperu ki vc gosteh...    xD\n\n        mesmu vc falandu mal dus dollos!!   eh meu amigu i merece 1!!\n\n               FELIZ NATAL!!\nki doloeza!!\n  num joga a cartinha fora naum!!\nguarda! um dia vc pode kere lê " Editor="Apoteu Von Zwinh", 2991, 2991}}, 2857 Content={2857, 2857}, 2859, 3421, 3077, 3046}, 2868 Content={2853 Content={2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2815 String="Jornal Tibia, Segunda edição!\nManchete: Quia de como ganhar mais gold:\n*matando rotworm(encontrado no esgoto);*matando hunter e vendendo as bow em folda(130gp);*matando amazon e vendendo as sabres em thais, bom é isso!\nClassificados: ganico dobilia vende steel helmet!, dwarven shield e 5 scale armor!!!(se vc quiser colocar algun clasificado aqui no jornal entre em contato com o legendario mago azul)\nbom é isso!\njornal original de legendario mago azul, ditetamente de carlin! 25/02/05\n" Editor="Legendario Mago Azul", 2815 String="Jornal Tibia\n\nManchete: Primeira ediçao do jornal tibia: de agora em diante, voce podera ler as melhores noticias de zanera atraves do jornal tibia. O jornal tibia será vendido á 10 gps(preço muitisimo barato!)e voce podera comprar durante toda a semana com o legendario mago azul! ( nao compre de outra pessoa, pode ser usado;))\nNoticias: Lista dos melhores da semana:\nLufia; Dufinin;Satri;Pirokamean\npois é, o jornal acabo, mas vc pode comprar o proximo emxemplar amanha!\n24/02/06" Editor="Legendario Mago Azul", 3148 Charges=3}}, 2473 Content={2853 Content={2667, 2659, 2659, 2659, 3076, 4871, 2955}, 2853 Content={2950, 3466, 3463, 2885 ContainerLiquidType=3, 3736 Amount=3, 3451, 3293, 3454}, 2853 Content={3452, 2955, 2955, 2955}}, 2473 Content={2853 Content={3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=135, 3085 RemainingUses=175, 3092, 3092, 3092, 3045 RemainingUses=200}, 2853 Content={3008, 3008, 3093, 3052, 3054 RemainingUses=200, 3054 RemainingUses=200}, 2853 Content={3026 Amount=3, 3052, 3097 SavedExpireTime=3598, 3008}, 2853 Content={2969 KeyNumber=3033, 2969 KeyNumber=4600, 2970 KeyNumber=4503}, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3098}}, 3043 Amount=1, 3035 Amount=42, 3492 Amount=100, 3492 Amount=100}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3349, 3349, 3583 Amount=4}}, 
+               8 Content={3502 Content={3582 Amount=15, 3577 Amount=35}}}

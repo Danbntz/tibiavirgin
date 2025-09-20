@@ -1,0 +1,59 @@
+ID              = 8171027
+Name            = "Rage of Gandor"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,0-0-0-114)
+CurrentOutfit   = (128,0-0-0-114)
+LastLogin       = 1148153773
+LastLogout      = 1148153960
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32915,32068,6]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,894960,0,917800,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,219247,1400,222775,1600)
+Skill = (2,495,495,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,500,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1090,1090,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8160,1100,8849,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,89424,1100,91044,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,155,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1066,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1114,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,170,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,42,44,49,51,76,79,81}
+QuestValues = {(14,1),(15,1),(31,1),(38,1),(55,1),(56,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(121,1),(125,1),(126,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(208,1),(213,1),(214,1),(215,1),(224,1),(253,1),(254,1)}
+Murders     = {1147494520}
+
+Inventory   = {1 Content={3385},
+               3 Content={2867 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3446 Amount=99, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={2869 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 3003, 3502 Content={2854 Content={2865, 2867, 2854, 2867, 2854, 2854, 2854, 2854, 2854, 2854}}}, 
+               1 Content={3502}, 
+               2 Content={3598 Amount=27, 3502 Content={2868, 2969 KeyNumber=3620, 2969 KeyNumber=3650, 3384, 2970 KeyNumber=3800, 2970 KeyNumber=3801}}, 
+               3 Content={3504 Content={3322, 3507 String="rage of gandor\nab'dendriel\n" Editor="Rage of Gandor"}, 3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3031 Amount=94, 3425, 2853 Content={3277 Amount=60, 3583 Amount=37}, 3447 Amount=10, 3072, 2969 KeyNumber=3600, 2969 KeyNumber=5010, 3003, 2870 Content={3097, 3093, 3093, 2854 Content={3062, 3042 Amount=9, 3290, 3078, 3081 RemainingUses=5, 3082 RemainingUses=50, 3097, 3051, 3083 RemainingUses=150, 3076, 2991, 3046 SavedExpireTime=1091, 3046 SavedExpireTime=976, 3046 SavedExpireTime=2998, 3097, 3077, 3084 RemainingUses=250, 3084 RemainingUses=250, 3083 RemainingUses=150}}, 2854 Content={2867 Content={3003, 3483, 2821 String="We finally made it to trick the foolish dragon and advance to some better part of earth. Here it is easy to dig a new dungeon. I hope we will find a new way out.\n\nThe way is long. We are digging for about 30 days.\n\nWe made it to advance to a stone wall! Tomorrow we will break it! The day we will see the sun again is close! Palker will be proud of me!\n\nYeah! This was the final blow. The wall is broken! But, what is that? Behind the wall, there is a human warrior. He seems dangerous. He has a glowing sword, a blue armor and green pants made of dragon-skin. He screams something like \"Tataah!\" and attacks! I don´t understand the humans! What does that mean?\nHE KILLS MY MINO-GUARDS! And now he turns towards me ...", 3003, 3457, 3457, 3456}, 3585 Amount=4, 3728 Amount=1}, 3502 Content={2867 Content={3275, 3275, 3351}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349}, 3284 RemainingUses=1, 2854 Content={2853 Content={3448 Amount=60, 3449 Amount=41, 3449 Amount=100, 3449 Amount=100}, 3287 Amount=9, 1781 Amount=1}, 2865 Content={2853 Content={3353, 3367, 3354, 3367, 3354, 3367, 3354, 3354}, 3311, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301}}}, 
+               7 Content={3457, 3502 Content={3327}}, 
+               8 Content={3502}}

@@ -1,0 +1,60 @@
+ID              = 9063448
+Name            = "Arcanthos de'maniak"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,13-114-114-12)
+CurrentOutfit   = (134,13-114-114-12)
+LastLogin       = 1147996299
+LastLogout      = 1147996310
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32557,31962,7]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,927813,0,992000,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,656145,1400,867181,1600)
+Skill = (2,505,505,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1110,1110,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,69842,1100,71890,100)
+Skill = (7,77,0,10,0,0,0,0,0,0,0,185206,1100,195505,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,151,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,28,1200,50,50)
+Skill = (11,22,0,10,0,0,0,0,0,0,0,2345,1200,2424,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9645,1100,9757,20)
+Skill = (14,0,1200,0,0,0,950,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,84,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,20,29,30,42,44,45,49,51,76,79,81}
+QuestValues = {(1,3),(2,6),(14,1),(20,1),(21,1),(22,1),(23,1),(35,1),(36,1),(41,1),(42,1),(43,1),(44,1),(59,1),(69,1),(71,1),(84,1),(85,1),(96,1),(97,1),(98,1),(109,1),(115,1),(125,1),(126,1),(137,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(211,4),(217,3),(227,2),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2869 Content={2868 Content={2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147}, 3425, 3447 Amount=84, 3447 Amount=100, 3577 Amount=4, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3174 Charges=5, 3174 Charges=4, 3188 Charges=1, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3446 Amount=73, 3349, 3446 Amount=100, 3447 Amount=100, 3723 Amount=2, 3583 Amount=2}},
+               4 Content={3377},
+               6 Content={3350},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=99}}
+
+Depots      = {0 Content={3504 Content={3507 String="Arcanthos de'maniak\nthais" Editor="Somby"}, 3504 Content={3507 String="Arcanthos de'maniak\nThais" Editor="Kiing Masters"}, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3504 Content={3507 String="Arcanthos de'maniak\nThais" Editor="Kiing Masters", 3426}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3385, 3383, 3504 Content={3507 String="arcanthos de'maniak\nthais" Editor="Heavy Storm"}, 3504 Content={2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 2853 Content={3276, 3276, 2853}}}}}, 3507 String="arcanthos de'maniak\nthais" Editor="Heavy Storm"}, 2872 Content={3504 Content={2870 Content={3377, 3377, 3377, 2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3093 SavedExpireTime=1753}, 2853 Content={3298 Amount=1, 2856 Content={3283}, 3492 Amount=100, 3492 Amount=100}, 3502 Content={2854 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 
+               1 Content={3504 Content={3507 String="arcanthos de'maniak\ncarlin"}, 3003, 2853 Content={}, 3483, 3504 Content={3507 String="arcanthos de'maniak\ncarlin\n"}, 2868 Content={3377}, 3504 Content={3507 String="Arcanthos de'maniak\ncarlin"}, 3559, 2853 Content={}, 3502 Content={}}, 
+               2 Content={3504 Content={2870 Content={3031 Amount=73, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=26, 3507 String="arcanthos de'maniak\nkazordoon" Editor="Arcanthos Recargado"}, 2870 Content={3449 Amount=49, 3578 Amount=1, 3003, 3492 Amount=55, 3483}, 3504 Content={3349}, 2854 Content={2868, 2870 Content={3504 Content={3507 String="elite sherek\nkazordoon"}, 3504, 3504, 3504 Content={3507 String="karin lokote\nkazordoon"}, 3504 Content={3507 String="elite sherek\nkazordoon"}, 3504 Content={3507 String="Elite sherek\nKazordoon"}, 3504 Content={3507 String="Elite sherek\nkazordoon"}, 3504 Content={3507 String="sir jesua rey\nkazordoon"}, 3504 Content={3507 String="lord gizamex\nkazordoon\n"}, 3504 Content={3507 String="perda\nkazordoon", 2853 Content={2853 Content={2853}}}, 3504, 3504 Content={3507 String="fernando almada trylogy\nkazordoon"}, 3504 Content={3507 String="keko the devil\n kazordoon"}, 3504 Content={3507 String="Neo Devarack\nKazordoon"}, 3504 Content={3507 String="elite sherek\nkazordoon"}}, 2970 KeyNumber=3800}, 2973 KeyNumber=3520, 3412, 3453, 3293, 3453, 3504 Content={3504 Content={3507 String="princesa valerie\nkazordoon\n"}, 3504 Content={3507 String="andresin de'maniak\nkazordoon"}, 3504}, 3504 Content={3050, 3507 String="arcanthos de'maniak\nkazordoon"}, 2969 KeyNumber=3033, 3504 Content={3507 String="arcanthos de'maniak\nkazordoon"}, 3502}, 
+               3 Content={2868 Content={3031 Amount=35, 3031 Amount=100, 3031 Amount=100}, 3430, 3502}, 
+               4 Content={3504 Content={3507 String="arcanthos de'maniak\nedron"}, 2853 Content={}, 3504 Content={2853 Content={}, 3507 String="arcanthos de'maniak\nedron"}, 3504 Content={3507 String="Arcanthos de'maniak\nedron"}, 3308, 3504 Content={3507 String="arcanthos de'maniak\nedron", 2870 Content={}}, 3504 Content={3507 String="arcanthos de'maniak\nedron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3277 Amount=76, 3277 Amount=100, 3507 String="arcanthos de'maniak\ndarashia"}, 3504 Content={1781 Amount=29, 1781 Amount=100, 1781 Amount=100, 3507 String="arcanthos de'maniak\ndarashia"}, 2853 Content={}, 3504 Content={3286, 3558, 3446 Amount=51, 3446 Amount=100, 3507 String="arcanthos de'maniak\ndarashia"}, 3483, 3483, 3504 Content={3578 Amount=27, 3578 Amount=100, 3507 String="arcanthos de'maniak\ndarashia"}, 2853 Content={}, 3050 SavedExpireTime=0, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="arcanthos de'maniak\ndarashia", 3502 Content={}}, 
+               6 Content={3504 Content={2854 Content={3504 Content={3367, 3367, 3350, 2853 Content={2870 Content={3358, 3264, 3358}, 3349, 3349, 3349, 3349, 3349, 3349}, 3358, 3409, 3093 SavedExpireTime=1799, 3358, 2859 Content={3349, 3409, 3349}}, 2870 Content={2868 Content={3035 Amount=20, 3031 Amount=100}, 3589 Amount=2, 2992 Amount=10, 3588 Amount=50, 3583 Amount=44, 3597 Amount=2, 3598 Amount=61, 3590 Amount=15, 3579 Amount=5, 3582 Amount=54, 3585 Amount=35, 3085 RemainingUses=200, 3600 Amount=4, 2870 Content={3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}}, 1781 Amount=60, 1781 Amount=100, 3277 Amount=35, 3446 Amount=74, 3349, 3449 Amount=41, 2861 Content={3051, 3034 Amount=32, 3017}, 3075, 3415, 3322, 3357, 3351, 3357, 3351, 3357, 3448 Amount=100, 3448 Amount=88}, 3507 String="Arcanthos de'maniak\nvenore\n" Editor="Arcanthos de'maniak"}, 3285, 3351, 3492 Amount=3, 3286, 3286, 3286, 3286, 3504 Content={3507 String="arcanthos de'maniak\nvenore"}, 3447 Amount=74, 3734 Amount=1, 3349, 3504 Content={3551, 3507 String="arcanthos de'maniak\nvenore"}, 3502 Content={3457}}, 
+               7 Content={3031 Amount=73, 3031 Amount=100, 2853 Content={3351, 3351, 3409, 3275, 3349, 3409, 3583 Amount=7, 3285}, 3492 Amount=14, 3031 Amount=100, 3046 SavedExpireTime=0, 2854 Content={}, 3457, 3504 Content={3507 String="arcanthos de'maniak\nankrahmun"}, 3502 Content={3042 Amount=1, 3504 Content={3457}}}, 
+               8 Content={3502 Content={}}}

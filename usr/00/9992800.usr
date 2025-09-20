@@ -1,0 +1,55 @@
+ID              = 9992800
+Name            = "Furie Abam"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,77-114-114-0)
+CurrentOutfit   = (134,77-114-114-0)
+LastLogin       = 1147667385
+LastLogout      = 1147667416
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1072354,0,1152200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,253608,3000,582400,1600)
+Skill = (2,695,695,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,111,111,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1320,1320,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,68,0,10,0,0,0,0,0,0,0,251767,1100,275801,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,23,1400,30,30)
+Skill = (8,69,0,10,0,0,0,0,0,0,0,147137,1100,151740,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,272,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,306,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,10190,1100,10752,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,81}
+QuestValues = {(72,1),(73,1),(74,1),(75,1),(151,1),(152,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2868 Content={3327, 3172 Charges=3, 3031 Amount=33, 2874, 2853, 3375, 2874, 3003}},
+               4 Content={3370},
+               5 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={2853, 3425, 3504 Content={3507 String="mala psita\ncarlin" Editor="Demon Dejmanos"}, 3504 Content={3507 String="Furie Abam\nCarlin\n" Editor="Furiza"}, 3598 Amount=5, 3504 Content={3507 String="Furie Abam\nCarlin" Editor="Konut"}, 3504 Content={3507 String="Furie Abam\nCarlin\n" Editor="Konut"}, 3409, 3504 Content={3507 String="Furie Abam\nCarlin" Editor="Konut"}, 3277 Amount=3, 3504 Content={3504 Content={3153 Charges=1, 3507 String="Vin dizel\ncarlin\n"}, 3507 String="Furie Abam\ncarlin"}, 3502 Content={2866 Content={3425, 2853}, 2868 Content={3003, 2853}, 2867 Content={2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 3028 Amount=1, 2868 Content={3285, 3285, 3269}, 2854 Content={3492 Amount=95, 3483, 2853 Content={3353, 3292, 2920}, 3084 RemainingUses=250, 3008, 2853 Content={3492 Amount=99, 3492 Amount=100}, 3736 Amount=1}, 3059, 3275, 2867 Content={3265, 3466, 3265, 3282, 2970 KeyNumber=4601, 3551}, 2868 Content={3119, 3289, 3279, 2920 SavedExpireTime=262, 2920 SavedExpireTime=314, 3003}, 2867 Content={2854}, 2853 Content={3375, 2853}, 2853 Content={2853 Content={2920, 3413, 3413}}, 2853 Content={3012, 3375, 3377, 2991}, 2868 Content={3565, 3084 RemainingUses=250}, 2868, 3308, 3308, 3308, 3465}}, 
+               3 Content={3425, 3358, 3358, 3292, 3031 Amount=100, 3031 Amount=100, 3301, 3412, 2854 Content={3012, 3447 Amount=4, 2920 SavedExpireTime=51, 3316, 3279, 3425, 3349, 3059, 3350, 3350, 3350, 3425, 3492 Amount=41, 3483, 2969 KeyNumber=3033}, 2853 Content={4290, 3299, 3305, 3081 RemainingUses=5, 2853}, 2854 Content={3265, 2854 Content={3301, 3301, 3301}, 3492 Amount=26, 2854 Content={3588 Amount=1}, 2853, 2853 Content={3269}, 3008, 2853, 3269, 2867, 3351, 3030 Amount=2}, 3308, 3483, 2853 Content={3483, 3056 RemainingUses=200, 3269, 3350, 3578 Amount=1, 3291, 3412}, 3291, 2865 Content={3003}, 2853 Content={3282}, 2853, 2865 Content={3266, 3552, 2920 SavedExpireTime=585, 3411, 3308}, 2854 Content={3375}, 3457, 2867 Content={2970 KeyNumber=3142, 2969 KeyNumber=4600, 3492 Amount=100, 3077}, 2868 Content={3375, 3492 Amount=63, 3350, 3563, 3375, 2920, 2920, 3457, 3003}, 2853 Content={3350, 3503 Content={2865}}, 3507 String="la bag esa de al lado tiene las cosas para train. atte el ivan ---->", 2853 Content={3147, 3147, 3425, 2874 ContainerLiquidType=10, 2853 Content={3059, 3028 Amount=2}, 3425, 3282}, 3277 Amount=3, 3152 Charges=1, 3502 Content={3012, 3358, 3354, 3358, 3354, 3736 Amount=1, 2857 Content={3492 Amount=6, 3085 RemainingUses=200, 3308, 3077, 3084 RemainingUses=250}, 3426, 2865 Content={3030 Amount=2, 3350, 3056 RemainingUses=200, 3349, 3003}, 2865, 2866 Content={3269, 3266, 3050 SavedExpireTime=1788, 3003, 2973 KeyNumber=3520, 3483}, 2866 Content={3266, 2854}, 2869, 2854, 2853 Content={3457, 3377, 3349, 3457, 3308, 3003}, 2865 Content={3357, 3357, 3269, 3269, 3375, 3375, 2914 SavedExpireTime=1999, 3375}, 3267, 3012, 3188 Charges=3}}, 
+               4 Content={3504 Content={3507 String="Furie Abam\nEdron\n" Editor="Necro princess"}, 3502}, 
+               6 Content={3502}}

@@ -1,0 +1,60 @@
+ID              = 11400101
+Name            = "Rafita devil"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,39-10-114-0)
+CurrentOutfit   = (134,39-10-114-0)
+LastLogin       = 1147807771
+LastLogout      = 1147808150
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32346,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,416813,0,452600,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,571764,1100,582469,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,253,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35055,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,9505,1800,12334,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,145,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,741,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4534,1100,4909,20)
+Skill = (14,0,1200,0,0,0,299,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,68,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,11,15,17,18,20,25,26,27,28,29,32,38,39,42,44,45,87,88}
+QuestValues = {(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3200 Charges=1, 3200 Charges=2, 3200 Charges=3, 2854 Content={3031 Amount=64, 3031 Amount=100, 3031 Amount=100, 3289, 3593, 3585 Amount=1, 3582 Amount=3, 3577 Amount=6, 3483, 3492 Amount=17, 3147, 3147}, 2854 Content={3198 Charges=5, 3198 Charges=3, 3198 Charges=1, 3198 Charges=3, 3198 Charges=4, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 3198 Charges=5, 3198 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}},
+               4 Content={3567},
+               5 Content={3416},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {0 Content={2854 Content={3350, 3350, 3269, 3269, 3350}, 3074, 3066, 3075, 3070, 3502 Content={2473 Content={2854 Content={3593, 2853 Content={2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2}, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2}, 2867 Content={3577 Amount=45, 3582 Amount=13, 3593, 3586 Amount=11, 3606 Amount=2, 3593, 3593, 3593, 3593, 3593, 3593, 3593, 3593, 3593, 3593, 3578 Amount=100, 3599 Amount=5, 3585 Amount=24, 3595 Amount=44, 3597 Amount=20}}, 2473 Content={2857 Content={2871 Content={2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871}}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2871 Content={2853 Content={3483, 3003, 3483, 3457}, 3457, 3059, 2906, 3505 String="puto el que lo lea y elp que no tambien\n" Editor="Zala Glafon", 3505 String="ok we no hay pedo cierro la puerta we  en lo k tu mama te da la compu we voy a estar matando trolls we te voy a comprar las p legs we ahora vuelvo\n\n" Editor="Demonio de Cabrito", 3505 Editor="Rafita devil", 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3483, 3492 Amount=67, 2950, 2955, 3551, 3003, 3456, 3030 Amount=3, 3017, 3042 Amount=1, 3028 Amount=3}, 2866 Content={3046 SavedExpireTime=2967, 3046, 3046, 2854 Content={3289, 3447 Amount=42, 3359, 3359, 3359, 3359, 3359, 3289, 3447 Amount=100, 3327, 3275, 3289, 3289, 3316, 3316, 3448 Amount=9, 3449 Amount=3, 3447 Amount=100, 3447 Amount=100, 3446 Amount=19}, 3330, 3330, 3285, 3283, 3283, 3077, 3077, 3299, 3305, 3305, 3299}, 2871 Content={3093, 3050, 3097, 3004, 3093, 3092 SavedExpireTime=1721, 3098, 3092}, 2865 Content={3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3082 RemainingUses=50, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=211, 3012, 3012}, 2871 Content={3409, 3409, 3421, 3421, 3425, 3425}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3286, 3059}}, 
+               3 Content={3502 Content={2853}}, 
+               6 Content={3285, 3322, 3279, 3502 Content={3583 Amount=1, 3299, 3492 Amount=100, 2854 Content={2853 Content={3287 Amount=1, 3350, 3003, 3275, 3277 Amount=4, 3446 Amount=4, 3448 Amount=3, 3447 Amount=29}, 2853 Content={3085 RemainingUses=200, 3052}}, 2854 Content={3035 Amount=6, 3035 Amount=100, 3035 Amount=100}, 3586 Amount=2}}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={2872, 2872 Content={3031 Amount=80, 2872}}}}

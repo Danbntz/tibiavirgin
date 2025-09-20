@@ -1,0 +1,51 @@
+ID              = 15062689
+Name            = "Azarth"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,86-114-76-95)
+CurrentOutfit   = (134,86-114-76-95)
+LastLogin       = 1148210370
+LastLogout      = 1148210619
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32532,31987,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9351,0,13000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,7730,1400,11366,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,29,65,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,79,79,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,2549,1100,2797,100)
+Skill = (7,41,0,10,0,0,0,0,0,0,0,5703,1100,6034,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,319,1200,372,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,147,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,395,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,629,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,27,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,72,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(21,1),(22,1),(23,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2869 Content={2853 Content={3031 Amount=8, 3097, 3446 Amount=3, 3359, 3031 Amount=100, 3447 Amount=9, 3447 Amount=100}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}},
+               4 Content={3360},
+               5 Content={3350},
+               8 Content={3079},
+               10 Content={3447 Amount=97}}
+
+Depots      = {0 Content={3502}, 
+               5 Content={3504 Content={3507 String="Azarth\ndarashia" Editor="Delta'Rage"}, 3504 Content={3507 String="Azarth\nDarashia" Editor="Delta'Rage", 2872 Content={2867 Content={2865 Content={3432, 3148 Charges=1, 3583 Amount=5, 3061, 3070, 3148 Charges=3}, 3046, 3046 SavedExpireTime=1164, 2872 Content={4839, 3153 Charges=1, 2833 String="Report 34DFOO12\nWe still cannot figure out who or what caused the disappearance of Oliver Holmes. Aforesaid mage from the Noodles Academy of Magic Arts came here to study the different cultures of the area. After three days of preparation and planning, his room was found empty. His bed was unused but his clothes lay neatly folded on a chair as if he had undressed. There were no signs of a fight and the door had been locked from within. It is a complete mystery why or how he disappeared. \n", 3061, 4839}, 3148 Charges=3, 3046, 3046}, 4867, 3349, 3349, 3209}}, 3502}}

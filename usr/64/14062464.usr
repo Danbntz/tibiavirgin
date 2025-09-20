@@ -1,0 +1,58 @@
+ID              = 14062464
+Name            = "Shadow Manser"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-128-129-114)
+CurrentOutfit   = (130,114-128-129-114)
+LastLogin       = 1147697945
+LastLogout      = 1147697968
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32354,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,59725,0,69700,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,34634,1100,39236,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,221,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8239,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,573,2000,750,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,66,2000,150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,6,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,636,1100,718,20)
+Skill = (14,0,1200,0,0,0,1043,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,15,25,29,44}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(58,1),(61,1),(98,1),(100,1),(106,1),(107,1),(109,1),(121,1),(125,1),(126,1),(128,1),(224,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3085 RemainingUses=23},
+               3 Content={2854 Content={3447 Amount=2, 3031 Amount=8, 2854 Content={3147, 3189 Charges=2, 3189 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3483, 3188 Charges=1, 3003}},
+               4 Content={3370},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3188 Charges=2}}
+
+Depots      = {0 Content={3504 Content={3505 String="Shadow Manser\nThais\n\nHey hunny...just wanted to let you know I love you and i found some more stuff...this stuff is kinda silly but still thought i would send it to you...cause i love you...and i thought about you\n\n<3 Stephanie" Editor="Alia Marie Secoy", 2906, 3465, 3507 String="Shadow Manser\nThais" Editor="Alia Marie Secoy", 2667, 2667, 2667, 2667}, 3504 Content={2853 Content={3505 String="Dear Rodney,\n\nI hope you like everything in your present...\n\nI tried my best...\n\nAnd I made the stuff myself..well at least one of the items\n\nIt only took me about  a week to gather it but it was hard...\n\nI LOVE YOU with all my heart and soul\n\n<3 Stephanie\n\nI hope you like it" Editor="Alia Marie Secoy", 2853 Content={3600 Amount=100, 3600 Amount=15}, 2860 Content={3738 Amount=100, 3673, 3597 Amount=6, 3606 Amount=1, 3578 Amount=100}, 2853 Content={3588 Amount=50, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100}, 2853 Content={3316, 3147, 3147, 3147, 3147, 3147}}, 3507 String="Shadow Manser\nThais" Editor="Alia Marie Secoy"}, 3504 Content={3031 Amount=100, 3277 Amount=4, 3507 String="shadow manser\nthais\n" Editor="Shadow Manser", 3504 Content={3031 Amount=36, 3425, 3092, 3723 Amount=13, 3446 Amount=76, 3483, 3507 String="Shadow Manser\nKazordoon" Editor="Alia Marie Secoy", 3578 Amount=100}}, 2854 Content={3056 RemainingUses=200, 3448 Amount=1, 3174 Charges=2, 2853 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3277 Amount=15, 3738 Amount=12, 3588 Amount=63, 3456}, 2867 Content={3289, 3299, 3308, 3285, 3282, 3285, 3285, 3448 Amount=1, 3305, 3285, 3350, 3285, 3266, 3046 SavedExpireTime=2998, 3350, 3155 Charges=1, 3350, 3350, 3074, 3148 Charges=1}, 2469 Content={3349, 3447 Amount=44, 3446 Amount=43, 3457}, 2473 Content={2870 Content={3506 String="Shadow Manser\nThais\n\nI just wanted to tell you I love you and I hope you dont ever forget that...you are my one and only\n\n<3 Stephanie" Editor="Alia Marie Secoy", 3003, 3577 Amount=1, 2920}, 3069, 3505, 3074, 2957, 2868 Content={3052 SavedExpireTime=737, 3084 RemainingUses=85, 3576, 2957}, 3075}, 2853 Content={2853 Content={3059, 2901, 3738 Amount=7, 3059, 3059, 3059}, 2853 Content={3003, 3003, 3003, 3003, 3114 Amount=28}, 3506 String="Shadow Manser\nCarlin\n\nOMG!! ITS RODNEY!!\n\n<smiles and kisses him>\n\nOnce more...I LOVE YOU!! \n\n<hugs>\n\n<3 Stephanie\n~*Sexy Cherry*~" Editor="Alia Marie Secoy", 3506 String="Shadow Manser\nCarlin\n\nHi...just wanted to tell you I love you...and I miss you horribly...also thanx for giving me your blanket...it makes me sleep a whole hellva lot better...even though your not here..\n\nI LOVE YOU \n<3 your one and only Stephanie...\nSexy Cherry" Editor="Alia Marie Secoy", 3506 String="Shadow Manser\nCarlin\n\nI wanted to tell you I love you...and I miss you...and I wish I was there to watch you play Tibia...even though you know I hate it...just being with you would make it worth while!\n\nI Love You\n\n<3 Stephanie\n~*Sexy Cherry*~" Editor="Alia Marie Secoy", 3506 String="Shadow Manser\nCarlin\n\nHey hunny I found these lyrics and I want you to know when i heard the song i thought of you I LOVE YOU\n\n<3 Stephanie\n\nYou are my one true love\nYou are the voice that is so sweet\nIn everything I do, you bring the best out of me\nYou are my wings to fly\nYou are the wind beneath them\nI miss you every night, when I close my eyes\nYou put your feelings down\nYou stopped your tears you brought me love\nYou held on to my heart\nYou held with hope to have me near\nSometimes I close my eyes\nSometimes I let my hunger rise\nI think of all you are, you are the love of my life\n\n(Chorus X3 )\nAll of my dreams and my passions\nAre in your hands\n\nYou reached me in my need\nYour rhythm flows under my skin\nI need you desperately,\nA sweet healing that will begin\nYou are my one true love\nYou are the voice that is so sweet\nIn everything I do, you bring the best out of me\nMy everything is you \nThe very motions that I move\nAnd everything with richness\nThe richness of the peace you bring\n\n(Chorus X3)\n\nAlways, always you are with me (X3)\n\n(Chorus X3)\n\nYou are the love of my life\nHe comes to find you on your knees" Editor="Alia Marie Secoy", 3506 String="Shadow Manser\nCarlin\n\nI Love you hunny....your  one sexy beast\n\n<3 you sexy Cherry" Editor="Alia Marie Secoy", 3506 String="Shadow Manser\nThais\n\nHi,....just wanted to say I love you and i hope you have a good rest of the day\n\n*hugs and kisses*" Editor="Alia Marie Secoy"}, 2469 Content={3003, 3457, 3308, 3457, 3457, 2853 Content={3085 RemainingUses=200, 3034 Amount=1, 3056 RemainingUses=200, 3054 RemainingUses=140, 3050, 3050 SavedExpireTime=1791, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2955, 3505 Editor="Alia Marie Secoy", 3308}, 2469 Content={3377, 3353, 3375, 3574, 3552}, 3502 Content={3592, 3593, 3585 Amount=11, 3579 Amount=2, 3595 Amount=3, 3736 Amount=1, 2874 ContainerLiquidType=11}}, 
+               1 Content={3504 Content={3507 String="Shadow Manser\nCarlin" Editor="Alia Marie Secoy"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2854 Content={3377, 3357, 3353, 3275, 2854 Content={2854}, 2854}, 2969 KeyNumber=5000, 3736 Amount=1}}}

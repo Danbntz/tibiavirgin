@@ -1,0 +1,57 @@
+ID              = 14423312
+Name            = "Dark Hearth"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,81-79-106-0)
+CurrentOutfit   = (128,81-79-106-0)
+LastLogin       = 1148243096
+LastLogout      = 1148258918
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32128,31601,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,84325,0,98800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,85359,3000,193600,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,132482,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,13,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,65692,1100,70521,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4159,1100,4445,20)
+Skill = (14,0,1200,0,0,0,857,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,14,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,70,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(35,1),(69,1),(96,1),(97,1),(98,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3272, 3285, 3578 Amount=42, 3572, 3003, 3457, 3031 Amount=38, 3492 Amount=85, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2469 Content={3164 Charges=3, 3035 Amount=100, 3035 Amount=85, 3147, 3147, 3164 Charges=3}, 3502 Content={2870 Content={2869 Content={3189 Charges=2, 3189 Charges=2, 3160 Charges=1, 3174 Charges=4, 3174 Charges=4, 3174 Charges=3, 3174 Charges=3, 3174 Charges=5}, 2870, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={2865 Content={3172 Charges=1}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2868 Content={2868}, 2867 Content={2867 Content={3188 Charges=2, 3188 Charges=3, 3188 Charges=3}, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}, 2869 Content={2870 Content={3556, 3093, 2839 String="Than ExIN\n" Editor="Than Exim", 3059, 3004, 3052}, 3381, 3007, 3419, 3092, 3307, 3050, 3051 SavedExpireTime=598, 3572, 3054 RemainingUses=200, 3084 RemainingUses=250, 3085 RemainingUses=200, 3030 Amount=6, 3097 SavedExpireTime=3598, 3056 RemainingUses=200, 3471, 3451, 3008}, 2865 Content={2870 Content={3299, 3267}, 2868 Content={3483, 2865 Content={3483, 3483, 3454, 3059, 2906, 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2970 KeyNumber=4601}, 3451, 2969 KeyNumber=4600, 3310, 3551, 3469, 2955, 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 2969 KeyNumber=4603, 2973 KeyNumber=3520, 2955, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard" Editor="Kaczor ziomek", 3463, 2977}, 2866 Content={3446 Amount=54, 3277 Amount=100, 1781 Amount=20, 3349}, 2865 Content={2853 Content={2857 Content={2857}, 2864 Content={2864}, 2861 Content={2861}, 2863 Content={2863}, 2858 Content={2858}, 2862, 2859 Content={2859, 2859}, 2860 Content={2860}}, 2854 Content={2869, 2868 Content={2868}, 2867 Content={2867, 2867}, 2865 Content={2865}, 2872 Content={2872}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2871 Content={2871}, 2866}}, 2867 Content={3031 Amount=11, 3031 Amount=20, 3602 Amount=29, 3602 Amount=10, 3577 Amount=9, 3602 Amount=21, 3586 Amount=2, 3600 Amount=1, 3597 Amount=2, 3593, 3585 Amount=1, 3592, 3601 Amount=2}}, 2868 Content={2868 Content={3050, 2868 Content={3008, 3008, 3008, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3572, 2865 Content={3056 RemainingUses=200, 3054 RemainingUses=61, 3084 RemainingUses=250, 3572, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008}, 3085 RemainingUses=114, 3054 RemainingUses=200, 3083 RemainingUses=148, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3097, 3050 SavedExpireTime=1798, 3052, 3097, 3097, 3052 SavedExpireTime=73, 3050 SavedExpireTime=1469, 3050 SavedExpireTime=1791, 3050 SavedExpireTime=1796, 3050 SavedExpireTime=1798, 3097, 3050 SavedExpireTime=1787, 3092, 3092}, 2865 Content={3410, 3305, 3349, 3066, 3425, 3557, 3299, 3059, 3357, 3357, 3349, 3350, 3421, 3059, 3409}}}}, 
+               2 Content={3504 Content={3425, 3425, 3425, 3425, 3425, 3507 String="Dark Hearth\nKazordoon" Editor="Dark Hearth"}, 2868 Content={3031 Amount=84, 3035 Amount=7, 2868}, 3502 Content={3457}}, 
+               6 Content={3502 Content={3003, 3267}}}

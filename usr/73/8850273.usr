@@ -1,0 +1,61 @@
+ID              = 8850273
+Name            = "Su Yask"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (140,58-114-100-1)
+CurrentOutfit   = (140,58-114-100-1)
+LastLogin       = 1148255435
+LastLogout      = 1148256417
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32679,32766,6]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,206984,0,232500,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,362546,1100,392762,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,146,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,28622,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5492,1800,6824,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,875,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,101,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3054,1100,3289,20)
+Skill = (14,0,1200,0,0,0,126,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,194,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,7,8,9,10,20,29}
+QuestValues = {(17,1),(20,1),(32,1),(33,1),(34,1),(35,1),(59,1),(60,1),(61,1),(84,1),(85,1),(125,1),(126,1),(190,1),(191,1),(223,1),(224,1),(257,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3069, 3160 Charges=1, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3725 Amount=28, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3003, 3457}},
+               4 Content={3381},
+               5 Content={3416},
+               6 Content={3147},
+               7 Content={3372},
+               8 Content={3556},
+               10 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Su yask\ncarlin" Editor="Su Yask"}, 3503 Content={3507}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3605 Amount=15, 3502 Content={2853, 2853}}, 
+               4 Content={3504 Content={2867 Content={2868 Content={3483, 3492 Amount=35}, 2854 Content={3301, 3359, 3008}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5}}, 3507 String="Su Yask\nEdron\n"}, 3502}, 
+               5 Content={2868 Content={3046, 3046 SavedExpireTime=2997, 3046, 3046, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=2998, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2867, 2870 Content={3372, 3046, 3352, 2870, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10}, 3188 Charges=1, 2872, 3725 Amount=100, 3725 Amount=100, 3504 Content={3505, 3505, 2874, 3507 String="Su yask\nDarashia\n" Editor="Fara Azien", 2871 Content={2853 Content={3576, 2853 Content={2853 Content={2876, 3283, 3411, 3582 Amount=11, 3264, 3483, 3160 Charges=1, 2853 Content={2853 Content={3264, 3264, 3264}, 2853, 2853 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286}, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2853 Content={2874, 2874, 2874}, 2853 Content={3411, 3160 Charges=1, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1}, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874}}}, 3492 Amount=98, 3153 Charges=1, 3153 Charges=1, 3153 Charges=1, 3153 Charges=1}, 2387, 2667}, 3293, 3084 RemainingUses=250, 3046, 2853 Content={2853 Content={2821 String="Chronicle of Mintwallin - the city of the Minotaurs\nwritten by Markwin, king of all Minotaurs\n\nVolume IV\n\nOur excursion is at the end. Today many of our best warriors died. Palkar encountered a dragon that killed many of my minos. It was Palkars fault. He will never lead an army again. And I will never see the light again.\n\nI can't calm Palkar. He is full of energy. And I can't calm my own people. Many don't listen to me but to him. He wants to fight.\n\nA human made his way through the labyrinth! How could he find us? I wanted to get that out of him - but I could not understand him. I have thrown him \nin the jail. He will never come out of it!\n\nThe black day of out chronicle. We had a fight within the walls of my beloved city. Minotaurs fought against Minotaurs - brothers against brothers - sisters against sisters. Palkar and his knights nearly won. But me and some others were able to defeat him. Now, he and his men are outcasts.\n\nDay of sorrow.\n\nThe outcasts stole the key to our secret laboratory! That is worst of all. Now we can't make our milk, the source of our power.\n\nI managed to bring a dragon from the dragon-pit at the outer entrance of our secret lab to guard it. He hurt me very hard. I needed much more power than I had. I am deadly injured. I hope this coughing will have an end.\n\nThe orcs and trolls conquered some caves back. Dammit! We are to weak now. We can´t defend ourselves. And my coughing gets worse and worse.\n\nSome of my men blocked the way from the secret lab to my chambers with a big rock. I think we are safe now.\n\nThe outcasts made an alliance with a tribe of cyclops. Now our former brothers are our worst enemies. They are hiding somewhere in the labyrinth.\n\nThe oldest Minotaur of the city told me that my written words have many mistakes and that I would write in a terrible form. I killed him. I am a fighter - not a teacher!", 3017, 2902, 3375, 3350}, 3655, 3410, 3017, 2853 Content={2857 Content={3017, 3017, 3300, 3046, 3077, 3084 RemainingUses=250}, 2859 Content={3017, 3304, 3457, 3003, 3120, 3105, 3104}, 3084 RemainingUses=250, 2853 Content={3017, 3017, 3017, 3483, 2920}, 3358, 3430, 3367, 3448 Amount=16}}, 3286, 2874, 2969 KeyNumber=3650, 3198 Charges=5}, 3446 Amount=15}, 2853 Content={2955, 3453, 2973 KeyNumber=3520, 3301, 3411, 3285, 3273, 3273}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=5, 3043 Amount=3, 3033 Amount=1, 3031 Amount=100}}, 
+               6 Content={2856, 3502}, 
+               7 Content={3577 Amount=2, 2869 Content={3031 Amount=100, 2867, 3003, 3054 RemainingUses=200, 3003, 3457}, 3502 Content={3031 Amount=85, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               8 Content={3410, 3410, 3354, 2866 Content={2866}, 3502 Content={3031 Amount=92, 3035 Amount=54}}}

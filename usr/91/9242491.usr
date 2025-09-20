@@ -1,0 +1,53 @@
+ID              = 9242491
+Name            = "Exoduks"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,0-123-114-57)
+CurrentOutfit   = (134,0-123-114-57)
+LastLogin       = 1147572864
+LastLogout      = 1147572915
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31682,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,108156,0,116000,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,136881,1100,141595,1600)
+Skill = (2,227,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,194,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,34181,1500,38723,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,85,1800,181,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,20919,1800,22252,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2466,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,277,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5391,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,5,8,10,15,16,29,38,42,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(59,1),(96,1),(97,1),(98,1),(125,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3045 RemainingUses=184},
+               3 Content={2869 Content={3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {2 Content={3504 Content={3507 String="Exoduks\nKazordoon\n", 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 3502 Content={}}, 
+               3 Content={2969 KeyNumber=3033, 2867 Content={3070, 3066}, 3003, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2857 Content={3050 SavedExpireTime=1781, 2867}, 2868 Content={3598 Amount=8, 2865 Content={3459}}, 2471 Content={3147, 3147, 3147, 3492 Amount=1, 3483, 2970 KeyNumber=3301, 2972 KeyNumber=3980, 2969 KeyNumber=3302, 3003, 3492 Amount=100, 3492 Amount=100, 3465}, 2856 Content={3357, 3297, 2856 Content={2854 Content={3077}, 2856 Content={3505 Editor="Exoduks", 2868 Content={2868, 2868, 2868}, 2865 Content={2865, 2865, 2865, 2865}, 2854, 2866 Content={2866}}}}, 3502 Content={3504 Content={2853 Content={3003, 3003}, 2853 Content={3300, 2991, 3469, 3291, 3456, 3455, 3308}, 2853 Content={3374, 3374}, 2853 Content={3277 Amount=1}, 2853 Content={3384, 3351}, 2853 Content={3311, 3311}, 2853 Content={3008, 3056 RemainingUses=200, 3056 RemainingUses=200}}, 3012, 3027 Amount=2, 3026 Amount=1, 3207 Amount=1, 3097, 3046, 3077, 3350, 3308, 3453, 3374, 3377, 3605 Amount=38}}}

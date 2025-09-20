@@ -1,0 +1,53 @@
+ID              = 12776911
+Name            = "Pirexian negator"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-94-114)
+CurrentOutfit   = (129,114-114-94-114)
+LastLogin       = 1148235047
+LastLogout      = 1148235287
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32118,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,48695,0,57600,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,36057,1400,38165,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,41,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6820,1100,7140,100)
+Skill = (7,46,0,10,0,0,0,0,0,0,0,9193,1100,9901,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,546,1200,645,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,255,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,129,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,529,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,91,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,11,15,20,29,42,44,48,51}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(32,1),(33,1),(35,1),(37,1),(58,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(115,1),(121,1),(138,1),(139,1),(190,1),(191,1),(226,1),(332,1)}
+Murders     = {1145665414}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               4 Content={3357},
+               6 Content={3350},
+               8 Content={3552},
+               10 Content={3448 Amount=5}}
+
+Depots      = {0 Content={3502 Content={3457, 3003, 2853}}, 
+               2 Content={3502 Content={3503 Content={3507}, 2854 Content={3031 Amount=73, 3723 Amount=35, 3577 Amount=52, 3350, 3349, 3349, 3189 Charges=2, 3457, 3457, 3457}}}, 
+               3 Content={3502}, 
+               6 Content={3661, 3270, 2865 Content={3447 Amount=99, 3448 Amount=15, 3304, 3304, 2969 KeyNumber=5000, 2853, 2854, 3287 Amount=5, 3349, 3449 Amount=4, 1781 Amount=19, 3349, 3277 Amount=53, 3349, 3492 Amount=14}, 3378, 3003, 3492 Amount=30, 3483, 3504 Content={3507 String="pirexian negator\nvenore\n" Editor="Ramonesmx"}, 3503 Content={2859 Content={3504, 3504, 3504, 3504 Content={3507 String="Alith Romi\nvenore" Editor="Alith Romi"}}, 2854 Content={3003}, 2854 Content={2870 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2856 Content={2854}, 2867, 2867 Content={2969 KeyNumber=3008, 2969 KeyNumber=4603, 2969 KeyNumber=5000, 2969 KeyNumber=5000, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 2970 KeyNumber=3802, 2969 KeyNumber=5000, 2854 Content={3456, 3483, 3483, 3483, 3308, 3483, 3456, 3003, 3003, 3003}, 2653, 2653}, 2854 Content={3008, 3097, 2854 Content={2853 Content={3046 SavedExpireTime=2997, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3017, 3046, 3046 SavedExpireTime=2196, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017}, 3077, 3008}, 2854 Content={3572, 3313, 3008, 3056 RemainingUses=200, 3291, 3056 RemainingUses=198, 3572}, 3077}, 3504 Content={3507 String="pirexian scuta\nvenore" Editor="Cazaconejos"}}, 3483, 3504 Content={3483, 3504, 3504 Content={3507 String="sakruz\nvenore" Editor="Royal Xuckel"}, 3504 Content={3504 Content={3507 String="arxito\nvenore" Editor="Blinblinera"}, 3507 String="arxito\nvenore" Editor="Lord Foqemon"}, 3507 String="pirexian negator\nvenore" Editor="Pirexian Scuta"}, 2854 Content={2853 Content={3266, 3413, 3358}, 2853 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2920 SavedExpireTime=599, 3349, 3558}, 3739 Amount=1, 3740 Amount=1, 3661, 2853 Content={3300, 3291, 3289, 3300, 3375}, 3502 Content={2867 Content={3031 Amount=100, 4871, 2854 Content={2867 Content={2870 Content={2854 Content={2854}}}}}, 2867 Content={3454}, 2854, 2473 Content={3504 Content={3077, 3046, 3097 SavedExpireTime=3047, 3542, 3012, 3012, 3003}, 3097 SavedExpireTime=3597, 3092 SavedExpireTime=1799, 3092 SavedExpireTime=1798, 3092 SavedExpireTime=1592, 3092 SavedExpireTime=1793, 3092 SavedExpireTime=1068, 2473 Content={3301, 3046 SavedExpireTime=2999, 2969 KeyNumber=5000, 3046 SavedExpireTime=2994, 3017}}, 2473 Content={2854 Content={2469 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3316, 3291, 3289}, 2867 Content={3008, 3289, 3350, 3291}}, 2472 Content={2857 Content={2862, 2862, 2862 Content={3291}, 2862, 2862, 2862}, 2869, 2870 Content={2870}, 2870, 2854}}}}

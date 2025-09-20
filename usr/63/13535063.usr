@@ -1,0 +1,52 @@
+ID              = 13535063
+Name            = "Krolowa Swiata"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,0-79-114-0)
+CurrentOutfit   = (137,0-79-114-0)
+LastLogin       = 1148232902
+LastLogout      = 1148232918
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31781,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,35228,0,37800,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,26856,1100,29649,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,171,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4489,1500,4925,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,250,2000,450,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,696,2000,750,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2898,2000,3150,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,77,2000,150,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,963,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,390,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,20,25,26,29}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(35,1),(54,1),(59,1),(60,1),(61,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2868 Content={2920 SavedExpireTime=526, 3003, 3723 Amount=1}},
+               4 Content={3359},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=440}}
+
+Depots      = {1 Content={2854 Content={3375, 3277 Amount=1, 3267, 3003, 2854 Content={3003, 3454, 2874, 3552}, 3308, 3559, 2874, 3492 Amount=18, 2874}, 2853 Content={3174 Charges=5, 3074, 2924 SavedExpireTime=183, 3074, 3308, 3456}, 3504, 3504 Content={2983, 2981, 3507 String="Krolowa swiata\nCarlin" Editor="Seba tuning"}, 3504 Content={3509, 2983, 2981, 2981}, 3504 Content={3507 String="Krolowa Swiata\ncarlin" Editor="Seba tuning"}, 3504 Content={3362, 2882, 2873, 2854 Content={2853 Content={2853}}, 3451}, 3504 Content={3308, 2874, 3362, 2973 KeyNumber=3520, 3507 String="Krolowa Swiata\ncarlin" Editor="Seba tuning"}, 3504 Content={2924 SavedExpireTime=244, 3362, 3003, 3003, 2853 Content={2969 KeyNumber=4600, 2970 KeyNumber=4601}}, 3504 Content={3457, 2853 Content={3300}, 3362, 3507 String="Krolowa Swiata\ncarlin" Editor="Seba tuning"}, 3504 Content={3003, 3003, 3003}, 3504 Content={3507 String="gred dran\ncarlin" Editor="Wket", 3559, 3003, 3003}, 3504 Content={2853, 3507 String="Krolowa Swiata\ncarlin" Editor="Prostotutka zartuje"}, 3504 Content={3308, 3507 String="Krolowa Swiata\nCarlin" Editor="Prostotutka zartuje", 3362, 2911 SavedExpireTime=1712}, 3504 Content={2922 SavedExpireTime=107, 2911, 3552}, 3502 Content={2955, 2970 KeyNumber=4601, 3456, 2881, 3454, 3293, 3492 Amount=16, 3507 String="Krolowa Swiata\ncarlin\n" Editor="Latajancy", 3267, 3736 Amount=1, 3430, 2970 KeyNumber=4503, 2882, 2893}}}

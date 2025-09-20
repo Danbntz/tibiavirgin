@@ -1,0 +1,60 @@
+ID              = 8168739
+Name            = "Ushi the druid"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,57-48-114-115)
+CurrentOutfit   = (134,57-48-114-115)
+LastLogin       = 1148179695
+LastLogout      = 1148179821
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32259,32317,9]
+PlayerkillerEnd = 0
+
+Skill = (0,58,0,1,0,0,0,0,0,0,1,2988731,0,3091400,100)
+Skill = (1,50,0,0,0,0,0,0,0,0,0,1953732,1100,2050079,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,1131,1535,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,127,127,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,78638,1500,87378,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,46,1800,84,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1066,1800,1118,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,21300,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,24,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,944,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5109,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,79,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,6,8,9,11,12,16,17,18,20,29,39,42,44,45,50,54,56,81,82,84,87,88,94}
+QuestValues = {(14,1),(15,1),(16,1),(19,1),(20,1),(21,1),(22,1),(23,1),(37,1),(46,1),(49,1),(50,1),(55,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(80,1),(82,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(115,1),(121,1),(125,1),(126,1),(131,1),(133,1),(135,1),(136,1),(137,1),(140,1),(141,1),(143,1),(144,1),(151,1),(152,1),(153,1),(154,1),(170,1),(171,1),(172,1),(173,1),(174,1),(175,1),(179,1),(180,1),(183,1),(184,1),(185,1),(186,1),(190,1),(191,1),(192,1),(200,1),(201,1),(202,1),(208,1),(217,3),(222,1),(224,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2),(253,1),(254,1),(292,1),(324,1),(332,1)}
+Murders     = {1147619286}
+
+Inventory   = {1 Content={3391},
+               3 Content={2853 Content={2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2}, 2854 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2870 Content={3147, 3200 Charges=3, 3200 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3504 Content={2854 Content={3503 Content={2854, 3507 String="Mirror Mirror on the wal\nThais" Editor="Mirror Mirror On The Wall"}, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 3031 Amount=55, 3003}},
+               4 Content={3567},
+               5 Content={3436},
+               6 Content={3067},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={3035 Amount=5}}
+
+Depots      = {0 Content={3504 Content={2868, 2870 Content={2854 Content={2870 Content={2854 Content={2872 Content={2866 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}}}}, 2866, 2854 Content={3483, 2854 Content={3307, 3307, 3307, 3307, 3307, 3301, 3307, 3301, 3307, 2854 Content={3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3301}}, 2854 Content={2867 Content={2865}}}, 3507 String="ushi the druid\nthais" Editor="Ushi the druid"}, 3502 Content={2854, 2472, 2868 Content={2867}}}, 
+               1 Content={3504 Content={3507 String="ushi the druid \ncarlin" Editor="Zeraldo"}, 3504 Content={3507 String="ushi the druid\ncarlin" Editor="Sakura tchann"}, 3504 Content={3507 String="ushi the druid\ncarlin"}, 3504 Content={3507 String="ushi the druid\ncarlin"}, 3502 Content={3492 Amount=5}}, 
+               2 Content={3504 Content={3507 String="ushi the druid\nKazordoon" Editor="Blan Woru"}, 3504 Content={3004, 3447 Amount=72, 2969 KeyNumber=3302, 3062, 3359, 3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid"}, 3504 Content={2867 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid"}, 2870 Content={2871 Content={2854 Content={2854 Content={2870, 2870, 2868, 2868, 2868, 2868, 2868, 2868, 2870, 2854}}, 3723 Amount=17, 3031 Amount=12, 3188 Charges=2, 3148 Charges=2, 3003}, 3198 Charges=5, 3031 Amount=100, 3723 Amount=39, 3723 Amount=100}, 3504 Content={3723 Amount=100, 3504 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 3507 String="ushi the druid\nkazordoon" Editor="Ece de maquer"}, 1781 Amount=7, 3600 Amount=14, 3066, 3277 Amount=3, 3577 Amount=2, 3582 Amount=3, 3723 Amount=100, 3446 Amount=6}, 3506 String="Ushi the Druid\nKazordoon\n\nu still havtn mailed me my 3k and bp of uh u might have 4gotten so this is just a reminder letter plz get back to me" Editor="Ueo", 3504 Content={2853 Content={3723 Amount=99, 3277 Amount=4, 3446 Amount=60, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3457, 3003, 3446 Amount=1, 3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid"}, 2970 KeyNumber=3802, 2872 Content={2854 Content={3307, 2854 Content={3307, 3372, 3307, 3307, 3301, 3307, 3307, 3307}}, 3147, 2854 Content={3372, 3307, 3307, 3307, 3307, 3307, 3307}, 3003, 3457}, 3504 Content={2865 Content={3492 Amount=28, 2854 Content={3003, 3457, 3147}, 3723 Amount=100, 3723 Amount=100, 3723 Amount=94, 3577 Amount=8, 3723 Amount=100}, 3147}, 3504 Content={3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid", 2870 Content={2872, 3072}, 3583 Amount=2, 2949}, 3504 Content={3504 Content={3059, 2854 Content={2854 Content={2854 Content={2854 Content={2854}}}, 2854 Content={1781 Amount=2, 3307, 3307, 3307, 3372, 3307, 3307, 3372, 3372, 3372, 3372, 3307, 3372, 3372, 3372, 3307, 3372, 3307}}, 3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid"}, 2854 Content={2854 Content={2868}}, 3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid"}, 3177 Charges=1, 3409, 2868, 3504 Content={2871, 2854 Content={2854 Content={2854, 2854, 2854, 2872, 2854, 2854, 2854, 2854, 2854}, 2858, 2865, 2856, 2857}, 2854 Content={2871 Content={2870 Content={2871 Content={2866 Content={2866 Content={2854 Content={2867}}}}}}, 3543, 3543, 3537, 3537, 3114 Amount=8, 3537, 3537, 3543, 3543, 3589 Amount=2, 3587 Amount=2, 3585 Amount=2, 3590 Amount=2}, 2854 Content={3308, 3003, 3456}, 3507 String="ushi the druid\nkazordoon" Editor="Ushi the druid"}, 2854 Content={3585 Amount=1, 3207 Amount=1, 2969 KeyNumber=4055, 2969 KeyNumber=3033}, 3502 Content={2854, 2854 Content={3031 Amount=72, 3349, 2870 Content={2854 Content={2854}}}, 3035 Amount=100, 3104, 3120, 3301, 2469 Content={3147, 3147, 2854, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3046, 2871 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2970 KeyNumber=3899, 2864 Content={2970 KeyNumber=3801, 2969 KeyNumber=5000, 2969 KeyNumber=5010}}}, 
+               3 Content={3504, 3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="Ushi the druid\ndarashia" Editor="Venus de'montecristo"}, 3502}, 
+               6 Content={2473 Content={2854}, 3504 Content={3457, 2854, 2854 Content={2854}, 3507 String="ushi the druid\nvenore" Editor="Ushi the druid"}, 3446 Amount=1, 3504 Content={3507 String="ushi the druid\nvenore" Editor="Ushi the druid"}, 3504 Content={3507 String="Ushi the druid\nvenore" Editor="Venus de'montecristo"}, 3504 Content={3507 String="ushi the druid\nvenore" Editor="Zeraldo"}, 3504 Content={3507 String="Ushi the druid\nvenore" Editor="Venus de'montecristo"}, 3504 Content={3507 String="ushi the druid\nvenore" Editor="Zeraldo"}, 3504 Content={3507 String="ushi the druid\nvenore" Editor="Zeraldo"}, 3504 Content={3507 String="ushi the druid\nvenore" Editor="Zeraldo"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

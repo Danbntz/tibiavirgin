@@ -1,0 +1,54 @@
+ID              = 13879587
+Name            = "Draco lord of dragons"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,57-130-129-129)
+CurrentOutfit   = (128,57-130-129-129)
+LastLogin       = 1148228786
+LastLogout      = 1148229399
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,109712,0,116000,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,87094,1100,91639,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,390,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12067,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1383,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,3,2000,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,56,2000,150,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,1103,1500,1608,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1220,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,11,15,19,20,25,26,27,29,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(32,1),(34,1),(35,1),(59,1),(106,1),(107,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3012},
+               3 Content={2854 Content={3152 Charges=1, 3164 Charges=2, 3198 Charges=3, 3578 Amount=5, 3492 Amount=34, 3483, 3155 Charges=1, 3189 Charges=1, 3164 Charges=3, 3164 Charges=3, 3188 Charges=1, 3164 Charges=2}},
+               4 Content={3380},
+               5 Content={3072},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2866 Content={3074, 3075, 3425, 3073, 3071, 3385, 3405, 3152 Charges=1, 3280, 3381, 3425}, 2868 Content={2854 Content={3164 Charges=3, 3164 Charges=3, 3188 Charges=3, 3164 Charges=3}, 3147, 3076, 3046 SavedExpireTime=2680, 3275, 2854 Content={3299, 3012, 3457, 3456, 2854 Content={3551, 3374, 3377, 3316, 3084 RemainingUses=250, 3552, 3283, 3283, 3448 Amount=4, 3447 Amount=10, 3590 Amount=1}, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 3483, 3003}, 3098, 3045 RemainingUses=183, 3083 RemainingUses=147}, 3054 RemainingUses=11, 3084 RemainingUses=250, 3421, 2955, 3483, 3046, 3449 Amount=1, 3046 SavedExpireTime=2964, 2874, 2906, 3046 SavedExpireTime=2991, 3097}, 2867 Content={3577 Amount=50, 3583 Amount=1, 3582 Amount=83, 3588 Amount=100, 3578 Amount=100, 3492 Amount=100, 3059, 3597 Amount=1, 3590 Amount=7, 3593, 3723 Amount=1}, 2865 Content={3031 Amount=57, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2872 Content={2656, 2949, 3083 RemainingUses=150, 2970 KeyNumber=4503, 2949, 3083 RemainingUses=150, 2854 Content={3147, 3147, 3147, 3147, 3147, 3056 RemainingUses=200, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3172 Charges=3, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2970 KeyNumber=4503, 3545, 3546, 3533 Amount=12, 3534 Amount=22, 2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3605 Amount=13, 3012, 2854 Content={3164 Charges=2, 3198 Charges=5, 3192 Charges=2, 3155 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3198 Charges=5, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 3605 Amount=100, 3003, 3003, 3003}, 3059, 3502 Content={3377, 3552, 3410, 3008, 2481 Content={2471 Content={2853 Content={3559, 3374, 3374}, 2853}, 2471}, 3507 String="u" Editor="Draco lord of dragons", 2815 String="hola\nhi?" Editor="Master of Pain of zanera", 3083 RemainingUses=150, 2854 Content={3535, 2860 Content={2853, 3504 Content={3507 String="juan druid\nthais\n" Editor="Juan Druid"}, 3504 Content={3504 Content={3507 String="juan druid\nthais\n" Editor="Juan Dilom"}}, 3503 Content={2853}}, 3565, 3552, 3457, 3003, 3535, 3535, 2920, 3457, 3273, 3456, 3468, 3077, 3056 RemainingUses=200, 3008, 3283, 3483}, 2853 Content={2901, 3551, 3547 Amount=4, 3504 Content={3504 Content={3507 String="nugetmaster\nthais" Editor="Igaboo Faith"}, 3471, 3504 Content={3504 Content={3507 String="savage spinal\nthais\n" Editor="Blan Woru"}, 3504 Content={3507 String="Jony-ziro\nThais" Editor="Joni-ciro"}, 3504 Content={3504 Content={3559}}, 3504 Content={3507 String="Rana Kusso\nThais" Editor="Rana Kusso"}, 3504 Content={3507 String="Bazix\nThais" Editor="Bazix"}, 3504 Content={3507 String="Jony-ziro\nThais" Editor="Joni-ciro"}, 3504, 3504 Content={3504, 3504 Content={3507 String="Stone'Speed\nthais\n" Editor="Ladys Tommy"}}, 3504 Content={3507 String="Sharyztim Mortem\nThais" Editor="Sharyztim Mortem", 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 3504 Content={3504, 3504 Content={3507 String="ashfaran vumbla\nthais" Editor="Ashfaran Vumbla"}, 3504 Content={3507 String="jhony travolta\nthais" Editor="Jhony travolta"}, 3504 Content={2853, 3507 String="Kito Pirikito\nCarlin" Editor="Arcor Opazer"}, 3504 Content={3507 String="Kito Pirikito\nCarlin" Editor="Arcor Opazer"}, 3504 Content={3507 String="jhony travolta\nthais" Editor="Lmo jones"}, 3507 String="jhony travolta\nthais" Editor="Javt"}, 3504 Content={3504 Content={3507 String="korn'murder\nthais" Editor="Korn'murder", 2853 Content={2853}}, 3504, 3504 Content={3507 String="Topoyiyoek\nThais" Editor="Wal'Master"}, 3504, 3504 Content={3507 String="Cannabuds\nThais" Editor="Niky Isafon"}, 3504, 3504}, 3003, 3003, 3299, 3661, 3507 String="quik pirokaman\nthais" Editor="Quik Pirokaman"}, 3273, 3085 RemainingUses=120, 3448 Amount=2}, 3456, 3410, 3552, 3003, 3457, 2973 KeyNumber=3520, 3012, 2973 KeyNumber=3520, 3300, 3374, 3483, 2853}}, 
+               1 Content={3502}}

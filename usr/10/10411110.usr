@@ -1,0 +1,59 @@
+ID              = 10411110
+Name            = "Elhuapilla"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,107-107-0-0)
+CurrentOutfit   = (134,107-107-0-0)
+LastLogin       = 1148249594
+LastLogout      = 1148254385
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31683,8]
+PlayerkillerEnd = 0
+
+Skill = (0,54,0,1,0,0,0,0,0,0,1,2348091,0,2485800,100)
+Skill = (1,52,0,0,0,0,0,0,0,0,0,2324247,1100,2483955,1600)
+Skill = (2,415,415,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,1405,1415,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,123,123,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,930,930,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,119111,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,13,2000,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,69487,2000,102350,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,147,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,21,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,93,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,758,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,190,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,9,10,11,13,15,16,18,19,20,21,23,25,26,29,39,44,45,81,86}
+QuestValues = {(46,1),(50,1),(59,1),(67,1),(68,1),(71,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(109,1),(115,1),(125,1),(126,1),(134,1),(137,1),(151,1),(152,1),(154,1),(170,1),(171,1),(172,1),(174,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(217,3),(253,1),(291,1),(333,1)}
+Murders     = {1147478796,1147478908}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2874 ContainerLiquidType=10, 3198 Charges=5, 2854 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3582 Amount=11, 3189 Charges=2}},
+               4 Content={3370},
+               5 Content={3071},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007}}
+
+Depots      = {0 Content={3506 String="elhuapilla\nthais\namorshiTO t kellO mushisisisisimo:****" Editor="Lic Mala Rodriguez", 3502}, 
+               1 Content={3504 Content={3507 String="elhuapilla\ncarlin" Editor="Elhuapilla"}, 3506 String="Elhuapilla\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3502}, 
+               2 Content={3502}, 
+               3 Content={2871 Content={2969 KeyNumber=5010, 3050, 3050 SavedExpireTime=1798, 3050, 3045 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=105, 3056 RemainingUses=200, 3056 RemainingUses=200, 3097, 3097, 3050, 2973 KeyNumber=3520, 3097 SavedExpireTime=3589, 3081 RemainingUses=5, 3083 RemainingUses=150, 3097, 3082 RemainingUses=50, 2865 Content={2970 KeyNumber=4503, 3045 RemainingUses=200, 3007, 3007, 3287 Amount=3, 3007, 3062, 2854 Content={3046, 3046, 3017, 3050, 3265, 3050, 3017, 3017, 3017, 3017, 3007, 2970 KeyNumber=3142, 3017, 3017, 3017, 3054 RemainingUses=159, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3017, 3045 RemainingUses=200, 3007, 2854 Content={3265, 3045 RemainingUses=200, 3056 RemainingUses=200, 3050, 3050, 2854 Content={2865 Content={2969 KeyNumber=3033, 3046 SavedExpireTime=355, 3007, 3046 SavedExpireTime=2079, 3050, 3046, 3007, 3046, 3046, 3046, 3327, 3265, 3046, 3046, 3046}, 3046, 3017, 3046, 3046, 3045 RemainingUses=200, 3045 RemainingUses=200, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3062, 3285, 3017}, 3042 Amount=7, 3050, 3050, 3050, 3050, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3017, 3017, 3017, 3017}, 3051, 3077, 3061, 3097 SavedExpireTime=3463, 3082 RemainingUses=50, 2970 KeyNumber=3012, 3085 RemainingUses=200, 2973 KeyNumber=5050}, 2968 KeyNumber=3940}, 2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2853 Content={2865 Content={3431, 3313, 3310, 3353, 3409, 3264, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3372, 3372}}, 2807, 3504 Content={3447 Amount=6, 3108, 3104, 3120, 2865 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 3304}, 2854 Content={2906, 3406, 3148 Charges=2, 3298 Amount=3, 3310, 3305, 3056 RemainingUses=200, 3188 Charges=1, 3299, 3174 Charges=5, 3074, 3074, 3164 Charges=3, 3560, 3017, 3403, 2991, 3347}, 2868 Content={2868 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={3429, 3318, 3369, 3428, 3381, 3381, 3385, 3419, 3418, 3282, 3282, 3284 RemainingUses=1, 3284 RemainingUses=1, 3271, 3282, 3289}, 2866 Content={2977, 3044 Amount=1, 2865 Content={3507 String="holaaa mensOO  tqmmmmm =) :****\npero no  t vueles =P jajaj ciAO!! ;)\n" Editor="Lic Mala Rodriguez", 3507 String="tqm huapillAaa\n" Editor="Lic Mala Rodriguez", 2865 Content={3563, 3276, 3276, 3276, 3276, 3276, 3316, 3305, 3658, 3283}, 3294, 3269, 3308, 3483, 3269, 3269, 3152 Charges=1, 3483, 3276, 3174 Charges=5, 3174 Charges=5, 3471, 3658, 3483, 3164 Charges=3}, 3456, 3305, 3483, 2874 ContainerLiquidType=2, 3076, 3509, 3104, 3104, 2874 ContainerLiquidType=1, 2901, 2991, 2818 Editor="Ckarman"}, 2865 Content={2870, 2854, 2868 Content={2854 Content={2869}, 2865 Content={2854 Content={2854, 2854, 2865}}}, 2865, 2865 Content={2865}, 2866 Content={2854}, 2871, 2865, 2869 Content={2865}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865}, 2854 Content={2854, 2854, 2854, 2854 Content={2854, 2854}}}, 3502 Content={3031 Amount=12, 3507 String="bb t kellOmusHOPPp:*****hermosO!!" Editor="Lic Mala Rodriguez", 3506 String="elhuapilla\nAb'dendriel\nHOlaaa  amorrrr te kierO muchisisisimoo bb EREs bien lindOOO :********  elhuapilla y liC mala foreveR =P\n11.mayO. cero sheis =)" Editor="Lic Mala Rodriguez", 3506 String="elhuapilla\nab'dendriel\nhOla amoshiTO  hermoOSoo t escriBo para decirte (   LOOOL ) jajaja:S bueNOo .. k te kierOOO mucho mucHOOOOO mucHOOo :***  y ke te  estrañOOOOO bb :(((((( ya konectateee ya me pasaronn mi l kosassss  me maataron ajajaj :S :((((( pero wenoooo.. andale entra entraaaaaaa i misss u MILLL  lalala nomas toy chekando el vipp viendo ke entressss-.- jajaja :**** bueno amorr bai apuraleeee orALEEEEE!.. atte tu bb :**" Editor="Lic Mala Rodriguez", 3031 Amount=100, 3031 Amount=25, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="te amo hermosHOO:*****" Editor="Lic Mala Rodriguez", 3507 String="te amo hermosooooO  =********" Editor="Lic Mala Rodriguez", 3507 String="te amo bb estoy contento de estar contigo, me la paso muy bonito contigo.\n" Editor="Elhuapilla", 3507 String="lic mala rOdriguez & el huapilla la paREja sensacionn d tiBIA !! jaja" Editor="Lic Mala Rodriguez", 2854 Content={2865 Content={2865, 2865 Content={2865 Content={2854 Content={2872 Content={2854 Content={2865 Content={2865 Content={2865 Content={3035 Amount=35, 3043 Amount=2, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3033 Amount=1, 3026 Amount=2, 3032 Amount=3, 3027 Amount=8, 3028 Amount=3}}}}}}}}}}}}, 
+               4 Content={3504 Content={3507 String="ELHUAPILLA\nEDRON" Editor="Balink"}, 3502}, 
+               6 Content={2656, 3502}, 
+               7 Content={2865, 3035 Amount=3, 3354, 3059, 3188 Charges=2, 3446 Amount=10, 3446 Amount=100, 3147, 2865, 2867 Content={2867, 3003}, 3502 Content={3003, 3507 String="elhuapilla huntig here!!!!!\n\n\nplx respect..... :D...." Editor="Elhuapilla", 3457, 3507 String="elhuapilla hunting here!!!\n\nplx respect.... xD!!!" Editor="Elhuapilla", 2854}}}

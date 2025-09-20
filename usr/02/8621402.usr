@@ -1,0 +1,56 @@
+ID              = 8621402
+Name            = "Thindori Drahezin"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,0-88-83-114)
+CurrentOutfit   = (137,0-88-83-114)
+LastLogin       = 1148221096
+LastLogout      = 1148221369
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,417413,0,452600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,155455,3000,193600,1600)
+Skill = (2,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1045,1045,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,56,0,10,0,0,0,0,0,0,0,85454,1100,87197,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,28,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,181,1100,232,50)
+Skill = (10,58,0,10,0,0,0,0,0,0,0,51655,1100,52859,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,99,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,774,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(36,1),(53,1),(54,1),(59,1),(61,1),(69,1),(72,1),(73,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2872 Content={3004, 3293, 3031 Amount=93, 3031 Amount=100, 3092 SavedExpireTime=800, 3092 SavedExpireTime=1798, 2922 SavedExpireTime=42, 3003, 2869 Content={3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3358},
+               5 Content={3425},
+               6 Content={3320},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3046 SavedExpireTime=455}}
+
+Depots      = {0 Content={3293, 3582 Amount=4, 3504 Content={3507 String="thindori drahezin \nthais" Editor="Thindori Drahezin"}, 2868 Content={2868, 2868}, 3504 Content={3507 String="thindori drahezin \nthais" Editor="Thindori Drahezin"}, 3367, 3425, 3504 Content={3305, 3305, 3507 String="thindori drahezin\nthais"}, 3504, 3502}, 
+               1 Content={3286, 2868 Content={3035 Amount=100, 3035 Amount=100}, 3504 Content={3507 String="thindori drahezin\ncarlin" Editor="Druid mistrza"}, 3269, 2865 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2865 Content={3266, 3413, 3266, 3483, 3504 Content={3565, 2868 Content={3269, 3409, 3074, 2992 Amount=10, 3483, 2865 Content={3059, 2970 KeyNumber=4502, 3456, 3739 Amount=1}}, 2868 Content={3147, 3147, 3147, 2868 Content={3568, 2882 ContainerLiquidType=3, 3658, 3658, 3658, 3658, 3003, 3003}, 2868 Content={3147, 3147, 3147, 3147, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 2868 Content={3097, 3598 Amount=6, 3097, 3052 SavedExpireTime=6, 3725 Amount=50, 3599 Amount=16, 3054 RemainingUses=200, 3097, 3097, 3050 SavedExpireTime=1340, 3097}, 3572, 3446 Amount=50, 2472 Content={2991, 3316, 2857 Content={2973 KeyNumber=3520, 2853 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2970 KeyNumber=4503}, 2970 KeyNumber=4503, 2970 KeyNumber=3899, 2969 KeyNumber=3610, 2969 KeyNumber=3620, 3277 Amount=6}, 2871 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2854 Content={2855, 3595 Amount=9, 3597 Amount=9, 3585 Amount=26, 3586 Amount=2, 3593, 3593, 3740 Amount=1, 3592, 3593, 3591 Amount=4, 2973 KeyNumber=3520, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3059, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3598 Amount=6, 3601 Amount=2, 3110, 3586 Amount=3}, 2854 Content={3492 Amount=80, 3492 Amount=100, 3723 Amount=100, 3723 Amount=100, 3586 Amount=2, 3723 Amount=100, 3723 Amount=100}, 2854 Content={3463, 3658, 3725 Amount=1, 2906, 2826 String="Mystic Rituals of the Ancient Trolls", 2902, 3308, 3453, 2874, 3056 RemainingUses=200, 2955, 2955, 2955, 3128, 3587 Amount=1, 2969 KeyNumber=4603, 3128}}, 3004}, 3285, 3285, 2853 Content={3285, 3410, 2853 Content={3410, 3410, 3410}}, 3074, 2865 Content={3077, 3307, 3457, 3483, 3457, 2868 Content={3077, 3289, 3084 RemainingUses=250, 3084 RemainingUses=250, 3483, 2638, 3012, 2955, 3077, 2906, 3046 SavedExpireTime=2996, 2874 ContainerLiquidType=3, 3084 RemainingUses=250, 2955, 3008, 3008, 3008, 3012}, 3046, 3085 RemainingUses=192, 3085 RemainingUses=200, 3301, 3330}}, 2991, 3457, 3446 Amount=16, 2853 Content={3349, 3349, 3349}, 3452, 2873, 3502 Content={3042 Amount=10, 2857 Content={3031 Amount=100, 3031 Amount=100}}}, 
+               2 Content={2870 Content={2868}, 2868 Content={2853, 2853}, 2870 Content={2868 Content={2853}}, 3502}, 
+               3 Content={3286, 3264, 3503 Content={3507 String="Speedyx'collins\nab'dendriel" Editor="Speedyx'collins"}, 2868 Content={2854}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2870 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 3504 Content={3507 String="thindori drahezin\nab'dendriel\n" Editor="Druid mistrza"}, 2865 Content={3264, 3264, 3266, 3349, 3349, 3266, 3425, 3425, 3097, 3598 Amount=18, 3585 Amount=6, 3425, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3084 RemainingUses=250, 3084 RemainingUses=250, 2393, 2393, 3275, 3413, 3425}, 3502 Content={3446 Amount=29, 3658, 3264}}}

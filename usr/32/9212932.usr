@@ -1,0 +1,57 @@
+ID              = 9212932
+Name            = "Kiff"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,80-0-99-0)
+CurrentOutfit   = (130,80-0-99-0)
+LastLogin       = 1147221402
+LastLogout      = 1147221420
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32914,32071,6]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,449475,0,452600,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,413746,1100,433638,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,498,700,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,71052,1500,87378,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,223,1800,356,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,36889,1800,40105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,2145,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,740,1100,810,20)
+Skill = (14,0,1200,0,0,0,152,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,45,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,5,8,9,10,11,16,17,18,20,25,27,29,42,44}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(32,1),(34,1),(54,1),(58,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(113,1),(114,1),(115,1),(190,1),(191,1),(217,3),(223,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3054 RemainingUses=7},
+               3 Content={2854 Content={3031 Amount=25, 3069, 3066, 3003, 3457, 3164 Charges=3, 3191 Charges=2, 3191 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3200 Charges=3, 3192 Charges=2, 3192 Charges=2, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={2853}}},
+               4 Content={3567},
+               5 Content={3065},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3200 Charges=3}}
+
+Depots      = {0 Content={3504 Content={3507 String="Kiff\nThais" Editor="Kiff"}, 3504 Content={3507 Editor="Johana-Dark"}, 3502}, 
+               1 Content={3504 Content={3507 String="Kiff\nCarlin" Editor="Kiff", 2853}, 3504 Content={3507 String="Kiff\nCarlin" Editor="Kiff", 3457, 3003, 2853}, 3502}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3492 Amount=7, 3483, 2853 Content={3504, 3504 Content={3504 Content={3507 String="Austin Demoniac\nVenore" Editor="Ylordo Elorfi"}, 3504 Content={3507 Editor="Darck Sorcere Of Zanera"}, 3507 String="Austin Demoniac\nVenore" Editor="Ylordo Elorfi"}, 3504 Content={3507 Editor="Darck Sorcere Of Zanera"}, 3504 Content={3507 String="Austin Demoniac\nVenore" Editor="Invisivel Demoniac"}, 3504 Content={3507 String="Kiff\nVenore" Editor="Kiff"}, 3504 Content={3507 String="Kiff\nVenore" Editor="Kiff"}, 3504 Content={3507 String="Kiff\nVenore" Editor="Kiff"}}, 3504 Content={3504 Content={3504}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2920, 2920 SavedExpireTime=57, 2920, 2853 Content={3308, 2911, 2920, 2920, 2911, 2911, 2911}, 2853 Content={2911 SavedExpireTime=2998, 2911 SavedExpireTime=2990, 2911, 2911, 2911 SavedExpireTime=1675}, 3507 String="Kiff\nCarlin" Editor="Kiff"}, 3502 Content={2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3411, 3035 Amount=22, 3375, 3563, 3551, 3465, 3067, 3003, 2853 Content={3723 Amount=4, 3577 Amount=100, 3577 Amount=5, 3578 Amount=74, 3582 Amount=79}, 2853 Content={3077, 2970 KeyNumber=4503, 2969 KeyNumber=5000, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2906}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3008, 3017, 3012}, 2868, 2853 Content={3031 Amount=42}, 2870 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2853 Content={3308, 3308, 3456, 3453}, 2865 Content={3074, 3322, 3357, 3416, 3308, 3362, 3372, 3003}, 2969 KeyNumber=5000, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2869 Content={2867 Content={3160 Charges=1, 3160 Charges=1}, 2867, 2867, 2867, 2867, 2867, 2867, 2853}, 2865 Content={3350, 3425, 3425, 3421, 3403, 3558, 3285, 3301, 3289, 3349, 3349, 3074, 3384}, 2857 Content={3084 RemainingUses=233, 3084 RemainingUses=250, 3084 RemainingUses=250, 3093, 3097 SavedExpireTime=3260, 3098, 3046}}}}

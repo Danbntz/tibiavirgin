@@ -1,0 +1,58 @@
+ID              = 8927281
+Name            = "Arty Galyn"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (141,0-87-0-0)
+CurrentOutfit   = (141,0-87-0-0)
+LastLogin       = 1146713249
+LastLogout      = 1146713882
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32541,32090,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,138696,0,156200,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,355111,1100,355602,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,366,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,18306,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,66,1800,84,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,2525,1800,3763,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,16039,1800,22252,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,454,1800,593,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,543,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5517,1100,5982,20)
+Skill = (14,0,1200,0,0,0,283,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,67,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,7,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,6,8,9,10,12,20,29,30,38,39,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(61,1),(72,1),(73,1),(75,1),(111,1),(112,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3083 RemainingUses=150},
+               3 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={3377},
+               5 Content={3430},
+               6 Content={3066},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={2868 Content={3031 Amount=14, 2874 ContainerLiquidType=2, 2866, 3031 Amount=84, 3003, 3457, 3578 Amount=22}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3430, 3412, 3268, 3552, 3559, 3504 Content={}, 2853 Content={3336, 3412}, 3374, 3504 Content={3504 Content={3507 String="Shadowek Sorcerer\nCarlin"}, 3504 Content={3507 String="Magic Kojox\ncarlin"}, 3504 Content={3507 String="Smart Royal\ncarlin"}, 3504 Content={}, 3507 String="Wilk infenssus\ncarlin"}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 3140, 3138, 3138, 3138, 3138, 3138, 3140, 3138, 3138, 3138, 3140, 3140, 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3504 Content={3507 String="arty galyn\ncarlin\n"}, 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Park Lane 4\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3658, 3658, 3658, 3603 Amount=10, 3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=599, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3504 Content={3507 String="Arty Galyn\nEdron", 2853 Content={}, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2853 Content={}}}, 3504 Content={3507 String="Arty Galyn\nedron"}, 3502 Content={}}, 
+               5 Content={3504 Content={2868 Content={2482 Content={3578 Amount=77, 3578 Amount=100, 3578 Amount=100}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Park Lane 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3054 RemainingUses=200, 2871 Content={3505, 3505, 3505, 3505, 3505, 3505, 3505, 2861, 2856, 2856, 2856}, 2857 Content={2857 Content={3350, 3349, 3349, 3012, 3291, 2857 Content={2857}}, 3056 RemainingUses=200, 3050, 3012, 3054 RemainingUses=200, 3056 RemainingUses=200}, 2860 Content={3266, 3350, 3349, 3349}, 3305, 3504 Content={3504}, 2920 SavedExpireTime=365, 3198 Charges=1, 3483, 2861 Content={3304}, 3483}, 3507 String="Arty Galyn\ndarashia\n"}, 3502 Content={3305}}, 
+               6 Content={3502 Content={}}}

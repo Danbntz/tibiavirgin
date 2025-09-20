@@ -1,0 +1,55 @@
+ID              = 11314248
+Name            = "Paklar"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-107-0-114)
+CurrentOutfit   = (128,114-107-0-114)
+LastLogin       = 1146277344
+LastLogout      = 1146277349
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32470,31758,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,21344,0,23200,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2858,3000,6400,1600)
+Skill = (2,163,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,55,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,26,0,10,0,0,0,0,0,0,0,3885,1100,4054,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,15,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,56,1100,105,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,536,1100,571,50)
+Skill = (10,31,0,10,0,0,0,0,0,0,0,3233,1100,3570,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,19,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(59,1),(60,1),(61,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3084 RemainingUses=233},
+               3 Content={2854 Content={3003}},
+               4 Content={3377},
+               5 Content={3322},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={3447 Amount=3, 3457, 2854 Content={2854 Content={3003, 3410}, 3577 Amount=3, 3505}, 2473 Content={2473}, 2853 Content={2853 Content={3273, 3273, 3273}, 3588 Amount=13, 3273, 2916, 3273, 3273, 3273, 3273}, 3502 Content={3031 Amount=94}}, 
+               1 Content={2854 Content={3503, 2853, 3503 Content={3507 String="paklar \n\ncarlin\n\n\n\n", 3330, 3377, 3289, 3310, 2916}, 2854 Content={3504 Content={2920, 2920, 2920, 2920, 2924 SavedExpireTime=198, 3533 Amount=10, 3534 Amount=10, 2853 Content={3378, 3565, 3293, 3426, 3559, 3268}}, 3483, 3378, 3273, 2920, 3268}}, 3012, 3003, 3457, 3264, 3264, 2861 Content={3031 Amount=76, 2911, 3457}, 3003, 2973 KeyNumber=3520, 3503, 2481 Content={3003, 2480 Content={2473 Content={3503, 3658, 3588 Amount=2, 2472 Content={2853 Content={3361, 3456, 3559}, 3426, 3505 String="HOLA PORFAVOR EL QUE TIENE LA ESPADA DE FUEGO Q LO ANOTE Q YO LO VOY A VENIR A VER CHAUUU BESOS\n                                                                                i  have  espada  de  fuego\n", 3504 Content={2911 SavedExpireTime=552, 3412, 3274, 2853 Content={3138, 3138, 3140}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3504 Content={2893, 3504 Content={3504, 3507 String="Wilder Kam\nCarlin\n\n"}, 3504 Content={3582 Amount=1, 3577 Amount=1}, 3504 Content={3504 Content={3507 String="Wilder Kam\nCarlin\n"}}, 3504 Content={3378, 2853 Content={2853}, 3503, 2471 Content={3300, 3299, 3267, 3308, 3336, 3559, 3337, 3291, 3300, 3559}, 3504}, 2853 Content={2853, 2853 Content={3492 Amount=1}}, 2473 Content={2853, 2853 Content={2471 Content={2853 Content={3507 String="paklar\ncarlin", 3552, 3552, 3268, 3336, 3552}, 2853 Content={3507, 3507, 3362, 3378, 3559, 2473, 3362, 3274}, 3552, 3308, 3552, 3336, 3374, 3412, 3273}}, 2473, 2471 Content={3453}, 2471 Content={3552, 2853, 3552, 3277 Amount=1, 2471 Content={2471}, 2471, 2471 Content={2471}, 2471}}, 2853, 2853 Content={2874, 2874, 2874}}, 2469 Content={2469, 2853, 2853, 2853, 2853 Content={3316, 3426, 3003, 3362, 3316, 3378, 3294}}}, 3504, 3504 Content={3504, 3504, 3504, 3504 Content={3504, 3504, 3504, 3504, 3504 Content={3559, 3552}, 3504 Content={3507}, 3504, 2853 Content={3504, 3504}}, 3504 Content={3374, 3456, 3362}}}, 3503 Content={3054 RemainingUses=200, 3274, 3605 Amount=3, 3552, 3378, 3374, 3507 String="velo draxel\n\nrookgaard"}, 2969 KeyNumber=3033, 3483, 3056 RemainingUses=200, 3277 Amount=2, 3565}, 3056 RemainingUses=200, 2854 Content={3030 Amount=1, 2395, 3454, 3599 Amount=1, 2853 Content={3430}, 3456}, 3374, 3504 Content={2969 KeyNumber=4600, 2824 String="Since the contamination of the water reservoirs became more and more of an issue, Pharaoh Unklath ordered that the position of the right honourable excreminator should be founded. This position was decreed to be considered as honourable as that of the royal astrologer or the pharaoh's animal trainer.", 2875, 3661, 3003, 3003, 3003, 3003, 3504 Content={3050 SavedExpireTime=384, 3457, 3505, 3457, 3505, 2984, 2853 Content={3470, 2991, 2853 Content={3003, 3308, 3559, 3559, 3565, 3559, 2853 Content={3003, 3003, 3003, 3457, 3207 Amount=1, 2875}}, 3056 RemainingUses=200}}, 2471 Content={2868, 2854}}, 3374, 3054 RemainingUses=200, 2471 Content={2473 Content={2473 Content={3003, 2991, 3273, 3273, 3505, 3505 String="czesc kto to czyta ten pedal\nchyj ci w dupe ten kto to napisal noob", 3430}}}, 2473}, 2469 Content={2469}, 2828 String="Rahmen Tah and the Vizier, Part I\nIn the second year of the reign of pharaoh Rahmen Tah there was a vizier who was said to consort with demons and to tamper with the powers of oblivion. He lived in a majestic tower that stood on a little island close the harbour. It was a marvel to behold, made of black glass and gold, and everybody who looked at it was filled with an eerie sense of foreboding. The vizier was rumoured to be so powerful that no one dared to bring him to justice. Even Rahmen Tah himself feared the power of his vizier, and he did not dare to send troops against the vizier. Finally he called for his chief astrologer and mathematician, the wise Athem, and asked him for advice. Athem listened quietly to the words of his pharaoh. After he had finished Athem ask his pharaoh for some time to think everything over. Reluctantly the pharaoh agreed.", 2481, 2481}, 3502 Content={3504 Content={3456, 3457, 3457}, 2970 KeyNumber=3800, 2875, 2853 Content={2473 Content={3376, 3376, 3374, 3354, 3355, 3376, 3376, 3376, 3374, 3374}, 2853 Content={3267, 3462, 3308, 3457, 3003, 3412, 3426}, 2853 Content={2853 Content={3059, 3507 String="Stor Galki\nThais"}}, 2473 Content={3412, 3411, 3426, 3411, 3412, 3412, 3412, 3412, 3426}, 2853 Content={2853 Content={2853, 2853}}, 2853 Content={3507 String="Maroki\ncarlin", 2873, 2983, 3110, 3509, 2875, 2983}}, 2471 Content={2955, 2955, 2911 SavedExpireTime=1411, 3504 Content={3174 Charges=3, 3152 Charges=1, 3198 Charges=4, 3198 Charges=1, 3200 Charges=3}}, 3504}}, 
+               2 Content={3502}, 
+               6 Content={2868 Content={2867, 2867}, 3502 Content={3030 Amount=1, 3147, 3577 Amount=6, 3588 Amount=3, 3031 Amount=3}}}

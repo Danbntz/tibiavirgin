@@ -1,0 +1,61 @@
+ID              = 9626144
+Name            = "Neftiz"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,40-76-114-95)
+CurrentOutfit   = (128,40-76-114-95)
+LastLogin       = 1148251511
+LastLogout      = 1148254658
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32643,31918,8]
+PlayerkillerEnd = 0
+
+Skill = (0,50,0,1,0,0,0,0,0,0,1,1890433,0,1965000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,475704,3000,582400,1600)
+Skill = (2,336,815,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,33,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,119,119,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1520,1520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,69,0,10,0,0,0,0,0,0,0,284258,1100,303481,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,19,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (9,72,0,10,0,0,0,0,0,0,0,200393,1100,202132,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,226,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,7048,1100,7280,20)
+Skill = (14,0,1200,0,0,0,886,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,81}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(38,1),(50,1),(55,1),(56,1),(59,1),(69,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(100,1),(121,1),(125,1),(126,1),(130,1),(131,1),(133,1),(137,1),(140,1),(141,1),(148,1),(149,1),(150,1),(154,1),(190,1),(191,1),(208,1),(217,3),(222,1),(226,1),(257,1),(332,1)}
+Murders     = {1145673821,1145674532,1145819563,1145991394,1147212378,1147376397}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2869 Content={3723 Amount=20, 3003, 2969 KeyNumber=5010, 2868 Content={2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}, 3457}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3324},
+               7 Content={3371},
+               8 Content={3079},
+               10 Content={3279}}
+
+Depots      = {0 Content={3504 Content={3504 Content={2854 Content={2865 Content={2854 Content={2854 Content={2867 Content={2870 Content={2868 Content={2854 Content={2870 Content={2870 Content={2868 Content={2854 Content={2866 Content={2868 Content={2868 Content={2854 Content={2865 Content={2872 Content={2870 Content={2854 Content={2865 Content={2866 Content={2870 Content={2866 Content={2854 Content={2871 Content={2866 Content={2867 Content={2865 Content={2867 Content={2868 Content={2866 Content={2865 Content={2870 Content={2868 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2866 Content={2868 Content={2870 Content={2854 Content={2868 Content={2870 Content={2870 Content={2854 Content={2869}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 3507 String="neftiz\nthais" Editor="Neftiz"}, 2853 Content={3377, 2853 Content={3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3003, 3177 Charges=1, 2920, 3270, 2911, 2911, 3503 Content={3503 Content={3507}, 3507}, 3276, 3502 Content={3301, 3003, 3457, 2920 SavedExpireTime=220}}, 
+               1 Content={3502 Content={3503 Content={3507}}}, 
+               2 Content={2911, 2870 Content={3403, 3403, 3446 Amount=15, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3357, 3058, 3347}, 2870 Content={3723 Amount=100, 3728 Amount=2, 3597 Amount=30, 3585 Amount=40, 3590 Amount=40, 3584 Amount=50, 3589 Amount=33, 3725 Amount=7, 3724 Amount=7, 3587 Amount=60, 3606 Amount=20, 3579 Amount=10, 3595 Amount=80, 3605 Amount=19, 3602 Amount=11, 3723 Amount=100, 3598 Amount=26, 3582 Amount=89, 3583 Amount=16, 2854 Content={3577 Amount=19, 3723 Amount=100, 3588 Amount=49, 3586 Amount=20, 2863}}, 2867 Content={2911, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3059, 2952, 3084 RemainingUses=250, 3083 RemainingUses=150, 3008, 4871, 3059, 2659, 2659, 2667, 2659, 2659, 2667}, 2854 Content={2970 KeyNumber=3800, 2969 KeyNumber=3033, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 2970 KeyNumber=3301, 3066, 2968 KeyNumber=3940, 3572, 3066, 4871, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=2997, 2969 KeyNumber=3650, 2969 KeyNumber=3033, 2969 KeyNumber=3600, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 2969 KeyNumber=3302}, 2868 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2870 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 3502 Content={3270, 2870 Content={2853 Content={3349, 2853 Content={2853 Content={2853 Content={3358, 3286, 3358, 3425, 3358, 3358}, 3266, 3358, 3358, 3377, 3358, 3358, 3425}, 3425, 3286, 3413, 3305, 3377, 3413, 3349}, 3425, 3377, 3358, 3358, 3358, 3413}, 2853 Content={3266, 3286, 3425, 3358, 3349, 3425, 3286}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2853 Content={3425, 3425, 3425, 3266, 3425, 3266, 3266, 2853 Content={3425, 3266, 3425, 3305, 3266, 3358, 3286, 2853 Content={3358, 3266, 3425, 3305, 3358, 3358, 3358, 2853 Content={3425, 3305, 3305, 3358, 3266, 3425, 3358, 2853 Content={3358, 3425, 3425, 3358, 3358, 3358, 3358, 2853 Content={3425, 3425, 3358, 3358, 3425, 3413, 3266, 2853 Content={3305, 3358, 3358, 3425, 3413, 3425, 3413, 2853 Content={3377, 3275, 3413, 3305, 3305, 3413, 3413, 2853 Content={3413, 3377, 3305, 3425, 3358, 3358, 3266, 2853 Content={3351, 3266, 3358, 3266, 3358, 3358, 3266, 2853 Content={3377, 3351, 3425, 3425, 3425, 3358, 3264, 2853 Content={3425, 3377, 3264, 3377, 3377, 3377, 3286, 2853 Content={3413, 3351, 3425, 3286, 3305, 3286, 3266, 2853 Content={3286, 3358, 3358, 3305, 3413, 3377, 3413, 2853 Content={3413, 3351, 3358, 3266, 3305, 3358, 3358, 2853 Content={3266, 3305, 3286, 3358, 3286, 3425, 3358, 2853 Content={3358, 3358, 3264, 3358, 3358, 3358, 3264, 2853 Content={3358, 3413, 3425, 3425, 3358, 3358, 3425, 2853 Content={3266, 3266, 3413, 3358, 3264, 3358, 3425, 2853 Content={3425, 3358, 3358, 3413, 3275, 3413, 3413, 2853 Content={3425, 3425, 3425, 3358, 3358, 3358, 3358, 2853 Content={3358, 3358, 3358, 3358, 3425, 3358, 3358, 2853 Content={3377, 3377, 3425, 3358, 3425, 3425, 3358, 2853 Content={3266, 3358, 3425, 3425, 3358, 3377, 3377, 2853 Content={3266, 3413, 3358, 3358, 3425, 3425, 3358, 2853 Content={3266, 3266, 3349, 3349, 3266, 3425, 3358, 2853 Content={3349, 3425, 3349, 3351, 3349, 3092, 3349, 2853 Content={3358, 3358}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2854 Content={3188 Charges=1, 3174 Charges=2}, 2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2868}}}}, 2868 Content={2853 Content={3032 Amount=1, 3030 Amount=4, 3017, 3028 Amount=3}, 2870 Content={3031 Amount=95, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2870 Content={2854 Content={3031 Amount=79, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2869 Content={2854 Content={2854}}}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3297, 2865 Content={2868 Content={2869 Content={2869 Content={2854 Content={2854 Content={2866 Content={2854, 2854}}}}}}}}, 3381, 3419, 3430}}, 
+               3 Content={3502}, 
+               4 Content={3502 Content={3582 Amount=20, 3577 Amount=20}}, 
+               5 Content={3502}, 
+               6 Content={3446 Amount=3, 3504 Content={2854 Content={2865 Content={3377, 3377, 3377, 3377, 3377}}, 3507 String="Neftiz\nVenore" Editor="Neftiz"}, 3502}, 
+               7 Content={2854 Content={3074, 3074, 3074, 2970 KeyNumber=3800, 2853 Content={3446 Amount=17, 3582 Amount=23}, 3373, 3425, 3003, 3052 SavedExpireTime=177, 2868 Content={3147, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147}}, 3046 SavedExpireTime=2997, 3505 Editor="Neftiz", 3061, 3313, 3448 Amount=100, 3026 Amount=1, 3033 Amount=3, 3449 Amount=72, 3448 Amount=15, 3082 RemainingUses=50, 3574, 3042 Amount=12, 3066, 3432, 3502 Content={3504 Content={3031 Amount=38, 3031 Amount=100, 3031 Amount=100}}}, 
+               8 Content={3502}}

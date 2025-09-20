@@ -1,0 +1,57 @@
+ID              = 11211234
+Name            = "Carllet Cain"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,132-114-114-132)
+CurrentOutfit   = (137,132-114-114-132)
+LastLogin       = 1148237634
+LastLogout      = 1148238363
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32931,32076,8]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,409114,0,452600,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,552391,1100,582469,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,413,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,37370,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1064,2000,1550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,126,2000,150,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,218,2000,350,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,572,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1295,1100,1428,20)
+Skill = (14,0,1200,0,0,0,1098,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,9,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,15,16,17,18,19,20,22,23,29,44}
+QuestValues = {(17,1),(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(99,1),(100,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(192,1),(217,3),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3492 Amount=13, 3578 Amount=11, 3075, 3457, 3003, 2854 Content={3191 Charges=2, 3191 Charges=2, 3200 Charges=3, 3200 Charges=3, 3191 Charges=2, 3200 Charges=3, 3191 Charges=2, 3200 Charges=3, 3198 Charges=3, 3189 Charges=2, 3189 Charges=1, 3191 Charges=1, 3198 Charges=1, 3198 Charges=2, 3198 Charges=1, 3198 Charges=3, 3198 Charges=3, 3198 Charges=5, 3198 Charges=2, 2854 Content={3191 Charges=2, 3191 Charges=2, 3200 Charges=3, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3192 Charges=2, 3192 Charges=1, 3155 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Carllet Cain\nThais" Editor="Nimfion"}, 3502 Content={2968 KeyNumber=3940, 2874, 2874, 2874 ContainerLiquidType=6, 2874, 3349, 3287 Amount=2, 2853 Content={3471, 2906, 3448 Amount=7, 3350}, 3308, 3384, 3421}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3504 Content={3507 String="Carllet Cain\nVenore" Editor="Atma Dros"}, 3492 Amount=66, 2874, 3505 String=":* for my Carllet" Editor="Carllet Cain", 2953, 2905, 3507 String="Carllet Cain\nVenore" Editor="Carllet Cain"}, 2854 Content={3457, 3738 Amount=12, 3552, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 2874, 2874, 2874, 2874}, 3504 Content={3308, 3457, 3504 Content={3504 Content={3507 String="Carllet Cain\nVenore" Editor="Carllet Cain"}, 3507 String="Carllet Cain\nVenore" Editor="Adicek", 3658}, 3059, 3059, 3059, 3059, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3059}, 3502 Content={2854 Content={3031 Amount=71, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=3}, 2867 Content={2854 Content={3198 Charges=5, 3172 Charges=1, 3198 Charges=5, 3200 Charges=3, 3200 Charges=3, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147, 3147}, 2854 Content={2854, 2854}, 2854 Content={3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5}}, 2854 Content={3031 Amount=40, 3578 Amount=50, 3590 Amount=6, 3732 Amount=1}, 2854 Content={2874, 3449 Amount=87, 2874, 2853 Content={3483, 3330, 2920, 2920, 2920}, 2853 Content={2920, 2920, 2920, 3483, 3492 Amount=100}, 3505, 3349, 2917 SavedExpireTime=1839, 3289, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2867 Content={3276, 2873, 3308, 3308, 3308, 3308, 2920 SavedExpireTime=598, 2920 SavedExpireTime=75}, 3071}, 2867 Content={3046 SavedExpireTime=2297, 2968 KeyNumber=3940, 2874 ContainerLiquidType=11, 2906, 2969 KeyNumber=4055, 2970 KeyNumber=4601, 2969 KeyNumber=5010, 3056 RemainingUses=191, 3658, 3083 RemainingUses=150, 3092, 3046, 3077, 3084 RemainingUses=250, 2906, 3463, 2989, 2857 Content={3084 RemainingUses=250, 3004, 3054 RemainingUses=200, 4871, 3050 SavedExpireTime=1795, 3004, 3017}, 3668, 3207 Amount=1}, 2867 Content={3410, 3410, 3275, 3265, 3349, 2854 Content={3093, 3074, 3373, 3357, 3282, 3279, 3056 RemainingUses=184, 3287 Amount=1, 3425, 3279, 3351, 3413, 3425, 3425, 3425, 3367}, 3425, 3377, 2853 Content={3273}, 2901, 3455, 3285, 3293, 3411, 3426, 3425, 3410, 3367}, 2854 Content={2854, 2854 Content={2868, 2868, 2870, 2868, 2854 Content={2854, 2854}, 2871}}}}}

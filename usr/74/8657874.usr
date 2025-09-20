@@ -1,0 +1,57 @@
+ID              = 8657874
+Name            = "Stifmashters"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,132-95-114-95)
+CurrentOutfit   = (134,132-95-114-95)
+LastLogin       = 1148055971
+LastLogout      = 1148055999
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32219,6]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,295544,0,330400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,182572,1400,222775,1600)
+Skill = (2,385,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,43,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,19078,1100,20113,100)
+Skill = (7,61,0,10,0,0,0,0,0,0,0,39125,1100,42312,30)
+Skill = (8,27,0,10,0,0,0,0,0,0,0,5449,1200,6405,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,386,1200,496,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,144,1200,181,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1555,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,6,1100,20,20)
+Skill = (14,0,1200,0,0,0,631,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,15,20,29,44,51}
+QuestValues = {(18,1),(27,1),(35,1),(37,1),(59,1),(67,1),(70,1),(71,1),(106,1),(107,1),(109,1),(125,1),(126,1),(190,1),(191,1),(192,1),(206,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3447 Amount=30, 3425, 3031 Amount=10, 2854 Content={2854}, 3446 Amount=58, 3483, 3003}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3446 Amount=73}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3050, 2874 ContainerLiquidType=11, 3031 Amount=26, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=13, 2853 Content={3056 RemainingUses=200, 3578 Amount=25, 1781 Amount=7}}, 3507 String="Stifmashters\nThais" Editor="Cataloniaknife"}, 2854 Content={2868 Content={2866 Content={3457, 2854 Content={2969 KeyNumber=4055, 3483}, 3301, 3301, 3301}, 3045 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=58, 3377, 3050 SavedExpireTime=1795, 2949, 3457, 3003, 3377}, 3377, 3457, 3003, 3283, 3457, 3558, 3031 Amount=1, 3031 Amount=100, 3552, 3483, 3425, 3377, 3353, 3558, 3075, 3577 Amount=1, 3582 Amount=6, 3003, 3153 Charges=1}, 3457, 2991, 3277 Amount=40, 3285, 3003, 2469 Content={2469}, 2854 Content={3384, 3377, 3377, 3558, 3283, 3362, 3421, 3377}, 2920, 3502 Content={3447 Amount=20, 2874, 2874, 3483, 3031 Amount=100, 3031 Amount=100, 3031 Amount=21, 3447 Amount=100, 3285, 3384, 3447 Amount=70, 3085 RemainingUses=200, 3558, 3456}}, 
+               1 Content={3504 Content={3507 String="stifmashters\ncarlin" Editor="Master Nadal"}, 3377, 3504 Content={3504 Content={2853 Content={3273, 3003, 3457}, 3362, 2868 Content={3503 Content={3421, 3412, 3362, 2854 Content={2854 Content={3492 Amount=38, 3492 Amount=80, 3003}, 3483, 3362}, 3003, 3374}, 2865 Content={3294, 3430, 3374}, 3504 Content={3411, 2870 Content={2911 SavedExpireTime=576, 2853 Content={2920, 2920, 3300, 3299, 3003}, 2922 SavedExpireTime=153, 3588 Amount=89, 2911 SavedExpireTime=2485, 3375}}, 2854 Content={3457, 2854 Content={3289, 3289, 3289}}}, 3507 String="Pollonman\nThais"}}, 3502}, 
+               2 Content={3504 Content={3507 String="Stifmashters\nKazordoon" Editor="Master Nadal"}, 3504 Content={3507 String="Stifmashters\nkazordoon" Editor="Stifmashters"}, 3504 Content={3507 String="Stifmashters\nkazordoon" Editor="Stifmashters"}, 3502}, 
+               3 Content={3502 Content={2992 Amount=5, 3285, 3031 Amount=90, 3035 Amount=2}}, 
+               4 Content={3504 Content={3507 String="Stifmashters\nEdron\n"}, 3502 Content={}}, 
+               7 Content={3277 Amount=2, 3426, 3503 Content={2853 Content={}, 2870 Content={2920 SavedExpireTime=504, 2920 SavedExpireTime=192, 2922 SavedExpireTime=95, 2922 SavedExpireTime=134, 2920 SavedExpireTime=412, 2920 SavedExpireTime=493, 2920 SavedExpireTime=4, 2922 SavedExpireTime=223}}, 3502 Content={}}}

@@ -1,0 +1,62 @@
+ID              = 9162866
+Name            = "Sabrozo"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,116-54-16-54)
+CurrentOutfit   = (133,116-54-16-54)
+LastLogin       = 1148087573
+LastLogout      = 1148087850
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32616,31921,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,525011,0,548900,100)
+Skill = (1,42,0,0,0,0,0,0,0,0,0,944189,1100,947841,1600)
+Skill = (2,310,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,461,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,38703,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,26,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,37,2000,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,22618,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,30,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,379,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9556,1100,9757,20)
+Skill = (14,0,1200,0,0,0,870,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,64,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,8,9,10,15,16,17,18,20,21,22,23,29,39,44,45,76,81,86,87,88,92}
+QuestValues = {(1,3),(2,6),(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(33,1),(36,1),(38,1),(41,1),(42,1),(43,1),(44,1),(46,1),(56,1),(59,1),(60,1),(61,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(116,1),(117,1),(118,1),(119,1),(125,1),(126,1),(153,1),(190,1),(191,1),(211,4),(213,1),(214,1),(217,3),(253,1),(254,1),(257,1),(269,1),(324,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2871 Content={3003, 3035 Amount=3, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3583 Amount=3, 3031 Amount=46, 3027 Amount=1, 3492 Amount=10, 3505 String="  sabrozoo    hunting here    respect plz" Editor="Sabrozo"}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2870 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3504 Content={3507 String="sabrozo\nthais\n" Editor="Von'Breaker"}, 2869 Content={3483}, 3504 Content={2853 Content={3444, 3097, 3492 Amount=50, 3492 Amount=100}, 3076, 3507 String="sabrozo\nthais" Editor="Sabrozo", 3297, 3557, 3033 Amount=4, 3504 Content={3449 Amount=20, 3034 Amount=1, 3734 Amount=2, 2992 Amount=10, 4839, 3032 Amount=2, 3322, 3042 Amount=11, 3507 String="sabrozo\ndarashia\n" Editor="Von'Breaker"}}, 3504, 3502 Content={3504 Content={3507 String="sabrozo\nthais", 3504 Content={3504 Content={3507 String="Joni of Predator\nDarashia"}, 3504, 3504 Content={3507 String="magnuc manowar\ndarashia"}, 3504}}}}, 
+               1 Content={3502}, 
+               2 Content={3505 String="                             saBRoZo \n                  hunting here plzz msg" Editor="Sabrozo", 3502 Content={3077, 3572, 2871, 3003}}, 
+               3 Content={3502}, 
+               4 Content={2856 Content={2865}, 3502 Content={3083 RemainingUses=150, 3739 Amount=1, 3457}}, 
+               5 Content={2833 String="Report 27AAF36\nAlthough offered with the best intentions, the reward the tradesmen from Venore had put on monkey tails was revoked after a while. Even though many adventurers and soldiers of fortune had been able to pick up their rewards, the situation was worse than ever as the ape raids came even more frequently and ferociously. The loss of lives and the senseless destruction of property had increased enormously. Sadly Jorgin Beargin, the spokesman of the Venoran traders, was called back to Venore to report about the recent losses.\nThe traders are now asking us to keep adventurers from provoking the ape men in any way. I fear we cannot offer much assistance in that matter since those \"tail hunters\" are numerous and usually well armed but we will try our best.\n", 3449 Amount=8, 2667, 2833 String="Report 34DFOO12\nWe still cannot figure out who or what caused the disappearance of Oliver Holmes. Aforesaid mage from the Noodles Academy of Magic Arts came here to study the different cultures of the area. After three days of preparation and planning, his room was found empty. His bed was unused but his clothes lay neatly folded on a chair as if he had undressed. There were no signs of a fight and the door had been locked from within. It is a complete mystery why or how he disappeared. \n", 3674, 3449 Amount=2, 3287 Amount=1, 3590 Amount=1, 3077, 3097, 3492 Amount=2, 3599 Amount=2, 3299, 3299, 2833 String="Report 67ABFG33\nCaptains report an increased activity of pirates on the routes from Port Hope to Thais and Venore. I support the traders' demand that the king should intervene. A well armed warship with some experienced fighters would not only secure the routes, but also boost our line of defence in Port Hope. With their support we could fight back such enemies like the ape men - or even capture Trapwood, an area rich in bamboo that is populated by those murderous dworcs. ", 3299, 2667, 2833 String="Report 67ZUFL90\nDeath caused by venomous local animals and by enemies using poisonous weapons against us are becoming more and more common. The traders of Venore gladly offered a vast supply of antidotes and suggested forming a monopoly to ensure the quality of the products and to stop scammers before their adulterated potions cause the deaths of innocents.", 3441, 2667, 3046 SavedExpireTime=2999, 2667, 3114 Amount=1, 2667, 3114 Amount=1, 2667, 3114 Amount=1, 2667, 2667, 3287 Amount=1, 3590 Amount=1, 3045 RemainingUses=200, 3077, 3097, 2667, 3114 Amount=1, 2667, 2833 String="Report 56IOLP56\nThe respectable mage Borsoz was able to provide us with a cure for the so-called 'jungle fever'. People repeatedly reported some kind of 'out-of-body experience'. While sleeping, they suddenly stood beside their own body and watched over it. The magician proved that the 'fever' actually was caused by a small bug. This bug injects a mildly toxic hallucinogen into the body of a sleeping person causing the mentioned phenomenon. Borsoz developed a paste that, when applied to the walls and the floor, keeps those bugs away. All settlers were provided with the paste and the \"fever\" has been efficiently eradicated. ", 3465 ContainerLiquidType=6, 3313, 3017, 3017, 3465 ContainerLiquidType=9, 3313, 3017, 2667, 3449 Amount=4, 3599 Amount=1, 3465 ContainerLiquidType=5, 3313, 3017, 2647, 2667, 2656, 2869 Content={3449 Amount=23, 3092, 3003}, 3457, 3504 Content={3507 String="sabrozo\ndarashia\n" Editor="Von'Breaker"}, 3578 Amount=36, 3504 Content={3507 String="sabrozo\ndarashia\n" Editor="Von'Breaker"}, 2868 Content={2869}, 2853 Content={3504 Content={3289, 3289, 2969 KeyNumber=3033, 3421, 2856 Content={2969 KeyNumber=3650, 2969 KeyNumber=3620}, 3050, 2853 Content={2853 Content={2853 Content={2857 Content={3457, 3457}, 2853}, 2853 Content={3483, 3327, 3083 RemainingUses=150, 3301, 3083 RemainingUses=150}, 3409, 3409, 3409, 3409, 3409, 2853 Content={2853 Content={2656, 2656, 2853 Content={3050, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}, 2853 Content={2644, 2644, 2644, 2644, 2644, 2644, 2644, 2853 Content={3301, 3330}}, 2853 Content={3330, 2644, 2644, 2644, 2644, 2644, 2644}}}, 2991, 2856 Content={2856 Content={2398, 2398}, 2856, 2856}}}, 2854 Content={2866, 2854, 2866, 2866, 2866}, 2862 Content={2831 String="The Djinn Wars V - Fa'hradin's Trick\n\nEven though many djinns had lost their lives during the fateful battle of Ankrahmun, the war was still undecided. Malor had lost many of his bravest warriors, but so had Gabel, and they both knew that another epic battle like that would bring the whole djinn race to the brink of destruction. In his desperation, Gabel turned to his trusted friend Fa'Hradin for advice. The old djinn suggested using a trick to eliminate Malor. Without their leader, he reasoned, the Efreet would end the rebellion. Gabel, who wanted to avoid further bloodshed, agreed. And so it came to pass that the magic lamp was created and, by means that are unknown to this very day, secretly placed in Malor's private chamber. The mighty Efreet never had a chance. When he went to sleep in what he thought was his private lamp he was trapped inside the lamp, which was soon enough smuggled out of Mal'Ouquah, the Efreets' fortress, and brought back to the Marid. Fa'hradin's trick had worked - Malor was Gabel's prisoner.", 2829 String="The Chronicles of Daraman I\n\nThat was the time when Daraman was captured by the djinns while he was fasting and meditating in the desert. They put him in heavy chains and brought him before Gabel's throne. There the old man stood, all haggard and torn, amidst the splendour of the djnns' court. And the djinns started teasing and tormenting the human with a thousand malicious tricks, trying to strike terror in his heart. But frail and crippled though he was, Daraman never so much as flinched under the pain, and his will could not be broken. Finally Malor, who was the most vicious and godless of the djinn, lost his patience and raised his hand to strike the final blow. But lo!, just when his deadly scimitar was about to strike the prisoner down Gabel's voice thundered through the hall, ordering Malor to stop. And though mighty Malor trembled with anger and spite, he did not dare challenge his king's authority.", 2955, 2842 String="buyi marikonnn!!!!!\n" Editor="Sabrozo", 2829 String="The Chronicles of Daraman III\n\nAnd so it came to pass that Gabel, the mighty king of the djinns, took interest in Daraman. Here was something that he, who had seen so many things, could simply not understand, and he was determined to find out more about it. In the beginning he was still convinced that the prophet, like all other humans, was driven by a secret weakness, and he tried to use many other temptations to test the prophet. He clad the old man in silk and offered him a thousand gifts. But Daraman was as unimpressed by the djinns' fabulous wealth as he had been unimpressed by their tortures, and he politely rejected all gifts. And when Gabel finally asked him if he did not appreciate his gifts Daraman answered \"Mylord, I am an old man who has little use for pretty baubles. And truly I have never valued a thing that could be bought for gold.\" It was then that Gabel realised that Daraman was indeed a holy man.", 2955, 3061, 3265}}, 3502 Content={2854, 2870 Content={2866}, 3287 Amount=1, 2970 KeyNumber=3801}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={2865}}, 
+               8 Content={3504 Content={3507 String="sabrozo\nport hope" Editor="Pipirisnaiz"}, 3502}}

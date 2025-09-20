@@ -1,0 +1,53 @@
+ID              = 8631352
+Name            = "Remura"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,0-114-114-114)
+CurrentOutfit   = (130,0-114-114-114)
+LastLogin       = 1145551956
+LastLogout      = 1145551967
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31783,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,101612,0,116000,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,142269,1100,157355,1600)
+Skill = (2,240,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,17069,1500,17099,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,973,2000,1890,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,21643,2000,25550,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3315,2000,6350,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,819,2000,1550,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,328,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1817,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,85,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,8,9,10,15,19,25,30,38,45}
+QuestValues = {(18,1),(20,1),(35,1),(54,1),(60,1),(61,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               5 Content={3421},
+               6 Content={3077},
+               8 Content={3552},
+               10 Content={2922 SavedExpireTime=172}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={3031 Amount=3, 2881, 2857 Content={3457}, 3066, 3504 Content={3483, 3507 String="remura\ncarlin" Editor="Enanescence"}, 3300, 3291, 3551, 3003, 3674, 2816 String="The elves are able to manipulate their unborn children by some kind of dream magic. This magic changes appearance and personality slightly, allowing elven parents to give birth to 'wish-kids'. In their shared dreams the elven parents seem to sculpture their child like a piece of art. Though most of the dream magic of the past is long forgotten, this rudimentary magic seems to be natural to the elves. It is possible to 'choose' things like hair or eye color and even gender. Even slight changes of the physique are possible, though considerable changes take place in the span of generations. Wise men assume this ability was a 'gift' of the gods to make more adaptable tools for the elves' war. But the mentality of the elves did not allow them to form their children in a 'convenient' way. Since most of this magic is instinctual, they form their children in an aesthetic way. On the other hand, what is seen as aesthetic is based on the philosophy of the parents and so their background changes this view dramatically. This is even more evident in the castes that were separated in the war. ", 3674, 3504 Content={3551, 3270, 2853 Content={3337}, 3003, 2863}, 3504 Content={2853 Content={3272, 3003}, 3504, 3504}, 3504 Content={3562, 2853 Content={3291, 3291, 3291, 3291}, 3507 String="remura\ncarlin"}, 3504, 3504 Content={3291, 2473, 3291}, 3504 Content={2973 KeyNumber=3520, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2917 SavedExpireTime=2958, 2917 SavedExpireTime=2991}, 3504 Content={3362, 3457}, 3504}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={3374, 3457, 3376, 2885, 3457, 3300, 3114 Amount=1, 3374, 3276, 3426, 3430, 3456, 3457}}, 
+               6 Content={3502 Content={}}}

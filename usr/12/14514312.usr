@@ -1,0 +1,57 @@
+ID              = 14514312
+Name            = "Raflez"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-114-114-81)
+CurrentOutfit   = (134,0-114-114-81)
+LastLogin       = 1148209322
+LastLogout      = 1148209327
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32550,31904,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,121683,0,135100,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,24237,3000,64000,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,0,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,53,0,10,0,0,0,0,0,0,0,63153,1100,65264,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,268,1100,305,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,54,0,10,0,0,0,0,0,0,0,35515,1100,35945,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,190,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2936,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,36,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(59,1),(86,1),(87,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3085 RemainingUses=139},
+               3 Content={2854 Content={2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3425, 3274, 2853 Content={3446 Amount=6, 3358, 3349}, 2853 Content={3092, 3092 SavedExpireTime=1261, 3092, 3152 Charges=1, 3152 Charges=1}}},
+               4 Content={3357},
+               5 Content={3419},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2401, 3504 Content={3504 Content={3507 String="raflez\nthais" Editor="Lucky elo"}, 3507 String="raflez\nthais" Editor="Mifoz"}, 3504 Content={3046 SavedExpireTime=2996, 2970 KeyNumber=3802, 3046 SavedExpireTime=1144, 2854 Content={3046 SavedExpireTime=1913}, 3189 Charges=2, 3188 Charges=3, 3504, 3504}, 3148 Charges=3, 3449 Amount=18, 3046, 2973 KeyNumber=3520, 3377, 3188 Charges=3, 2853, 2867 Content={2868 Content={3457}}, 3504 Content={3483, 3492 Amount=100, 3492 Amount=93, 3578 Amount=88, 3507 String="raflez\nthais" Editor="Raflez"}, 3268, 3502 Content={2865 Content={3031 Amount=18, 3035 Amount=12, 3031 Amount=100}, 2865 Content={3268, 3492 Amount=53, 3483, 3274, 2857 Content={3367, 3046, 3077, 3084 RemainingUses=250, 3098}, 3457, 3430, 2853 Content={3425}}, 2854 Content={2853, 2920, 3447 Amount=42, 3448 Amount=12}, 2865 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3003}, 2865 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3189 Charges=1}, 2868 Content={3492 Amount=100, 3504 Content={3503 Content={3504 Content={3503}}, 3507 String="Hunter Af Demon\nThais\n" Editor="Hunter af demon"}, 3723 Amount=10}, 3457}}, 
+               3 Content={3502 Content={3031 Amount=27, 3031 Amount=100}}, 
+               4 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

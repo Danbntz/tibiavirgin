@@ -1,0 +1,55 @@
+ID              = 8866173
+Name            = "Natuki"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,39-92-52-95)
+CurrentOutfit   = (138,39-92-52-95)
+LastLogin       = 1120645154
+LastLogout      = 1120647554
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,138215,0,156200,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,152640,1100,157355,1600)
+Skill = (2,233,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,258,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,91284,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,72032,2000,102350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,15,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,287,1100,318,20)
+Skill = (14,0,1200,0,0,0,39,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,15,17,25,27,29,30}
+QuestValues = {(17,1),(35,1),(93,1),(94,1),(95,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={2854 Content={3031 Amount=3, 3590 Amount=3, 3724 Amount=2, 3031 Amount=100, 3577 Amount=3, 3031 Amount=100, 3189 Charges=3, 3188 Charges=2, 3192 Charges=2, 3198 Charges=5, 3148 Charges=1, 3192 Charges=1, 3189 Charges=3, 3198 Charges=4, 3188 Charges=1, 2867 Content={3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3457, 3003}}},
+               4 Content={3377},
+               5 Content={3286},
+               6 Content={3409},
+               7 Content={3558},
+               8 Content={3552},
+               9 Content={},
+               10 Content={2920 SavedExpireTime=0}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               6 Content={2854 Content={}, 2874 ContainerLiquidType=0, 2854 Content={}, 2854 Content={}, 3456, 2854 Content={3192 Charges=2, 3192 Charges=2}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={2826 String="Mystic Rituals of the Ancient Trolls", 2906, 2815 String="", 3446 Amount=1, 3285}, 2853 Content={3054 RemainingUses=200, 3054 RemainingUses=200, 3456, 3463, 3004, 2989}, 3504 Content={}, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 3003, 3003, 3504 Content={2874 ContainerLiquidType=3, 3593, 3592, 3600 Amount=5, 3601 Amount=1}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3483, 3483, 3457}, 2853 Content={3374, 3359, 3374}, 2853 Content={3483, 3456, 3483, 3003, 3003, 3447 Amount=10, 3483, 3483}, 2853 Content={3374, 3559, 3378, 3426, 3426, 3430, 3286, 3286}, 3504 Content={3725 Amount=7, 3723 Amount=8, 3587 Amount=1, 3724 Amount=7, 3595 Amount=1, 3590 Amount=43, 3588 Amount=11, 3585 Amount=10, 3579 Amount=24, 3592}, 3502 Content={3031 Amount=35, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=20, 2867 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}

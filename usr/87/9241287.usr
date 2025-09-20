@@ -1,0 +1,56 @@
+ID              = 9241287
+Name            = "Bakacz Hashu"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,96-114-114-19)
+CurrentOutfit   = (128,96-114-114-19)
+LastLogin       = 1122398143
+LastLogout      = 1122398903
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10872,0,13000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,22640,1100,25499,1600)
+Skill = (2,194,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,52,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,1711,1500,2078,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,238,1800,302,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2025,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,17,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,165,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,449,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={},
+               5 Content={3198 Charges=1},
+               6 Content={3147},
+               7 Content={3372},
+               8 Content={},
+               9 Content={},
+               10 Content={3578 Amount=5}}
+
+Depots      = {0 Content={3502 Content={2854 Content={2854 Content={2853 Content={2853 Content={2955, 2920 SavedExpireTime=0, 3110, 2922 SavedExpireTime=188, 3110, 2922 SavedExpireTime=63, 2922 SavedExpireTime=282, 2969 KeyNumber=4600}, 3054 RemainingUses=200, 3054 RemainingUses=100, 3054 RemainingUses=200, 2981, 2981, 2981, 2981}, 2853 Content={2874 ContainerLiquidType=0}, 2853 Content={2853 Content={2853 Content={3308, 3267, 3374, 1781 Amount=6}, 3337, 3376}, 3283}, 3483, 3483, 3483, 3483}, 2854 Content={2854 Content={3147, 3147}}, 2854 Content={3375, 3503 Content={3578 Amount=14, 3483}, 2853 Content={2853 Content={3375, 3375, 2955, 2853 Content={3456, 3600 Amount=9}}, 3056 RemainingUses=200, 3375}, 3003}, 3050 SavedExpireTime=1791, 2870 Content={2922 SavedExpireTime=119}, 2868 Content={2973 KeyNumber=3520, 3590 Amount=2, 3003, 2955, 3483, 2854 Content={3097 SavedExpireTime=0, 3008, 2920 SavedExpireTime=295}, 1781 Amount=5, 2955}, 3504 Content={3600 Amount=4}, 2871 Content={3577 Amount=2, 3585 Amount=3}, 2854 Content={3572, 3457, 3327, 3003, 2920 SavedExpireTime=599}, 2853 Content={}, 2854 Content={3083 RemainingUses=150, 3054 RemainingUses=200, 3056 RemainingUses=200, 3046 SavedExpireTime=516, 3578 Amount=2}, 2867 Content={2853 Content={3723 Amount=8, 3585 Amount=7}, 2853 Content={2853 Content={}}, 2853 Content={}, 2853 Content={}}, 2854 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2854 Content={3598 Amount=6, 3330}, 2869 Content={2854 Content={3597 Amount=1, 3593, 2906}, 3085 RemainingUses=147, 3008, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={}, 2854 Content={2969 KeyNumber=4600}, 2854 Content={3457, 3410, 3483, 3003}, 2854 Content={2854 Content={}}, 2854 Content={3483}, 2854 Content={}, 2868 Content={2854 Content={3003, 2920 SavedExpireTime=0, 2969 KeyNumber=3600}}, 2854 Content={}, 2870 Content={3003, 2969 KeyNumber=3600, 3457, 3483, 3083 RemainingUses=150, 2868 Content={2874 ContainerLiquidType=0}}}, 2854 Content={3425, 3147}, 3577 Amount=12, 3578 Amount=10, 3425}, 3446 Amount=67, 2868 Content={3147}}}, 
+               1 Content={3504 Content={2854 Content={}}, 3502 Content={}}, 
+               3 Content={2854 Content={3054 RemainingUses=200, 3054 RemainingUses=200, 3379, 3050 SavedExpireTime=1785, 3273, 3504 Content={3507 String="Sir Dothy\nAb'dendriel"}, 3503 Content={}, 3504 Content={3507 String="Sir Dothy\nAb'dendriel"}}, 2854 Content={2906, 3449 Amount=1, 2989, 3092 SavedExpireTime=928, 3031 Amount=3, 3152 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={}}}

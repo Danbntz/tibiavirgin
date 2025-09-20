@@ -1,0 +1,58 @@
+ID              = 12237259
+Name            = "Lethal Wizard"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,0-95-76-95)
+CurrentOutfit   = (134,0-95-76-95)
+LastLogin       = 1143667139
+LastLogout      = 1143667163
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32334,31785,6]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,186546,0,204800,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,101499,1100,102403,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,515,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22100,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,19,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2348,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,23,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2056,1100,2183,20)
+Skill = (14,0,1200,0,0,0,340,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,15,20,29,81,87}
+QuestValues = {(17,1),(35,1),(84,1),(85,1),(86,1),(87,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2865 Content={3035 Amount=3, 3031 Amount=35, 3483, 3457, 3160 Charges=1, 3003}},
+               4 Content={3357},
+               5 Content={3072},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3075}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2974, 2472, 2472, 2472, 2659, 2469 Content={2469, 2469, 2854 Content={3505 String="pupa " Editor="Shon Oddo", 3054 RemainingUses=200, 2857, 3050, 3425, 3046 SavedExpireTime=2900}}, 2471 Content={2471, 2471}, 2471, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2397, 2397, 2393, 3598 Amount=7, 3077, 3114 Amount=1, 2656, 2656, 2656, 3492 Amount=100, 3492 Amount=100, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Senja Village 9\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               3 Content={3502}, 
+               4 Content={3054 RemainingUses=200, 3409, 3042 Amount=1, 2867 Content={3577 Amount=36, 3582 Amount=100}, 2869 Content={3189 Charges=2, 3189 Charges=2}, 2854 Content={3147, 3492 Amount=27, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2968 KeyNumber=3940, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3147, 3147}, 2854 Content={3074, 3308, 3552, 3289}, 3502 Content={3425, 3425, 3035 Amount=12, 3083 RemainingUses=150, 3372, 3372}}, 
+               5 Content={2853 Content={2853 Content={3577 Amount=4}, 2853}, 3502 Content={3503 Content={3507}}}, 
+               7 Content={3502}}

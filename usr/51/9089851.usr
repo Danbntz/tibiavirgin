@@ -1,0 +1,55 @@
+ID              = 9089851
+Name            = "Lucifer The Master"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,132-113-113-113)
+CurrentOutfit   = (130,132-113-113-113)
+LastLogin       = 1140905948
+LastLogout      = 1140905950
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32349,32230,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,117637,0,135100,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,168720,1100,174690,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,204,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,39451,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,2000,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,29819,2000,51150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,83,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,79,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,41,1100,42,20)
+Skill = (14,0,1200,0,0,0,794,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,60,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,16,20}
+QuestValues = {(24,1),(35,1),(100,1),(106,1),(107,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=91, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147}}},
+               4 Content={3370},
+               5 Content={3425},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {0 Content={3504 Content={2866 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=74, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3056 RemainingUses=199, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3507 String="Lucifer The MasteR\nThAiS\n\nBOEG!"}, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3421, 3271, 3723 Amount=100, 3723 Amount=13, 3723 Amount=100, 3504 Content={3349, 3377}, 2853 Content={3003, 3483, 3483, 3483, 3492 Amount=38}, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2480 Content={3031 Amount=15, 3059, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3285, 3377, 3377, 3509, 3337, 3471}, 2853 Content={3353, 3349, 3286, 3377, 3377, 3349, 3377}, 2853 Content={3287 Amount=8, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=30, 2970 KeyNumber=3801, 2969 KeyNumber=4600}, 2854 Content={3507 String="Lucifer the master\nthais\n", 3003, 3504, 3504 Content={3507 String="rubrah\nthais"}, 3504, 3098 SavedExpireTime=448, 2970 KeyNumber=4601, 2816 String="Royal Archives Criminal Offences 900 - 950 p.g\n\n900 p.g. Theft of duck by Threpwood Guybrush. Fine of 10 gold.\n\n911 p.g. Attempted assault by Nostradamus Untru. Fine 20 whippings.\n\n911 p.g. Robbery by Homer Vason. Prison sentence of 2 years.\n\n912 p.g. Robbery by Angus Krome. Prison sentence of 3 years.\n\n913 p.g. Assault by Nostradamus Untru. Prison sentence of 1 year.\n\n920 p.g. Burglary by Winston Roper. Prison sentence of 3 years.\n\n925 p.g. Theft by Alison Farmer. Fine of 30 gold.\n\n935 p.g. Poaching by Winston Roper. Fine of 70 gold.\n ", 2816 String="Royal Execution Archives 900 - 950 post genesis\n\n900 p.g Hanging of Isaac Brewton for claiming satanic influences rule the course of history. Especial notice is drawn to his assertion that all objects stay in place or move due to lucifer's plans.\n\n912 p.g Execution of Hamilton Fush on the stake for his continuing support of Brewton's thesis. Additional punishment for his claim that child sacrifice could change the course of satan's plans.\n\n913 p.g Hanging of Gabriel Fush, brother of Hamilton Fush, for his public support of his brother.\n\n943 p.g Execution of Alistair Cropwell. Originally in his majesty's service sent to further HRH glory by exploring the world, he became mad and claimed the existence of another empire besides that of our glorious sovereign. Because of his past services he was buried honorably in the graveyard dungeon.\n\n\n\n", 3578 Amount=12}, 2469 Content={3593, 3597 Amount=2, 3595 Amount=12, 3600 Amount=5, 3598 Amount=27, 3451, 3603 Amount=1, 3593, 3593, 3593}, 3502 Content={2853 Content={3592}, 3351, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3004, 3578 Amount=14, 2853 Content={2853}, 2821 String="Royal Archives - 943 p.g\n\nConcerns: City graveyard\n\nHRH has ordered an expansion of the city graveyard to the east, due to the increased demand for resting places. It is hoped that the eastward expansion will avoid problems with the undead experienced with previous graveyards closer to the city entrance.", 2816 String="Royal Archives\n\nAsmalat ovrir gogenol amabat hulut a sese sokol. Gogenol faresmal a sese ican.", 3425, 3305}}, 
+               1 Content={3504 Content={3507 String="lucifer the master\ncarlin", 3457, 3003}, 3502 Content={3483, 2472 Content={3582 Amount=9, 3031 Amount=4, 3031 Amount=100, 3031 Amount=100, 3286, 3285, 3035 Amount=7, 3031 Amount=100, 3003, 3031 Amount=67, 3031 Amount=100, 3046 SavedExpireTime=0, 3148 Charges=2}}}, 
+               2 Content={3502 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=540}}}

@@ -1,0 +1,54 @@
+ID              = 12780231
+Name            = "Laven Faxin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (131,114-114-114-114)
+CurrentOutfit   = (131,114-114-114-114)
+LastLogin       = 1148256129
+LastLogout      = 1148256457
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32337,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,122856,0,135100,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,78743,1100,81854,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,310,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,18779,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,23,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1859,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,73,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,13,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,15,19,25,27,29,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(60,1),(61,1),(96,1),(97,1),(98,1),(100,1),(125,1),(126,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=194},
+               3 Content={2854 Content={3565, 3308, 3723 Amount=9, 3031 Amount=9, 3164 Charges=1, 3147, 3003, 3457, 3152 Charges=1, 3147, 3174 Charges=5}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {1 Content={3505 String="rus if u go on dont kil me and stay at the dwaves caves until  you get 500gps and then deposit it\n" Editor="Laven Faxin", 3505 String="ok! live in Carlin if u want! I get u to lvl 20 but yesterday I hadn't much time. I do it today and tomorrow ok??\nIdrill.... ;) thank for geting me to lvl 20\nlaven plz dont take my war hammer \n" Editor="Laven Faxin", 3502 Content={3723 Amount=88, 2854 Content={3577 Amount=14, 3192 Charges=2, 3059, 3413, 3375, 3590 Amount=1, 2920, 2920, 2920, 2920, 3003, 3003, 2920, 3003, 3457}, 3279, 3362, 3425, 2973 KeyNumber=3520, 2853 Content={3072, 3352, 3446 Amount=5, 3352, 3467, 3468, 2853 Content={2853 Content={2853}}}, 3723 Amount=100, 3003, 2911 SavedExpireTime=2915, 3351, 2992 Amount=6, 3357, 3457, 3074, 2969 KeyNumber=5000, 2853 Content={2911, 3411, 3447 Amount=23, 3188 Charges=2, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3377, 3097, 3012}, 3035 Amount=26, 3056 RemainingUses=199, 3008, 3425, 3582 Amount=27, 3421, 3054 RemainingUses=200, 3413, 3350, 3447 Amount=27, 3349, 3446 Amount=24, 2970 KeyNumber=4601}}, 
+               2 Content={3502}, 
+               6 Content={3502 Content={3577 Amount=8}}}

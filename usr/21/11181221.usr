@@ -1,0 +1,62 @@
+ID              = 11181221
+Name            = "Fert Nekos"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,40-48-95-116)
+CurrentOutfit   = (134,40-48-95-116)
+LastLogin       = 1148241563
+LastLogout      = 1148242270
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32348,32229,8]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,882260,0,917800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,180200,3000,193600,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,70,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,137983,1100,141042,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,88,1400,130,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,54,1100,105,50)
+Skill = (9,63,0,10,0,0,0,0,0,0,0,85080,1100,85435,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,166,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3549,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(35,1),(38,1),(39,1),(55,1),(59,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(121,1),(134,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(217,3),(223,1),(257,1)}
+Murders     = {1147975705,1147980948}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=3, 3279, 3304, 3273, 3035 Amount=4, 3046 SavedExpireTime=2787, 3483, 3457, 3492 Amount=61, 3093 SavedExpireTime=1751, 3003}},
+               4 Content={3381},
+               5 Content={3324},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={2853 Content={3065, 3350}, 3504 Content={3507 String="Fert Nekos\nthais" Editor="Bebe Suave"}, 3504 Content={3507 String="Fert Nekos\nthais" Editor="Bebe Suave"}, 3504 Content={3558, 3603 Amount=40, 2969 KeyNumber=3610}, 2853 Content={3372, 3350, 3349, 3349, 2853 Content={2969 KeyNumber=3650, 2853}}, 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, 2nd Floor (Shop)\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3410, 2853, 2853, 3507 String="Fert Nekos \nthais\n" Editor="Bebe Suave"}, 3504 Content={3507 String="Fert Nekos \nthais\n" Editor="Pallus Invi"}, 3505 String="we agarre tus boh we, espero q no te enojes te las dejare ahi mismo we y si las usaras dime we para q te las de \ngracias we =)\n" Editor="Jacob Waltz", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Farm Lane, 2nd Floor (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={2854 Content={2854}, 3507 String="fert nekos \ndarashia" Editor="Luce Acris"}, 3504 Content={3507 String="Fert Nekos\ndarashia" Editor="Ricura Ganos"}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3367, 3367}}, 
+               6 Content={3504 Content={3507 String="fert nekos\nvenore" Editor="Oxsly"}, 3504 Content={3507 String="fert nekos\nvenore" Editor="Oxsly"}, 3504 Content={3552, 3507 String="fert nekos\nvenore\n" Editor="Oxsly"}, 3504 Content={3582 Amount=21, 3507 String="fert nekos\nvenore" Editor="Oxsly"}, 3502 Content={3602 Amount=2, 3736 Amount=1, 3598 Amount=6}}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={2854 Content={2854}, 3507 String="Fert Nekos\nport hope\n" Editor="Bebe Suave"}, 3502 Content={2868 Content={3556, 3436, 3380, 3568}, 3504 Content={3504 Content={3505 String="we te a garre tus boh ahi te las dejare antes q me vaya we\nok?\ngracias we las cuidare mucho\natte.  Fert Nekos" Editor="Fert Nekos", 3507 String="Fert Nekos\nport hope" Editor="Olis Iryar"}, 3504 Content={3504 Content={3506 String="Fert Nekos\nPort Hope\n\n\n\nwe cuando agarres algo deja una carta diciendo q agarraste,  faltan mis boh y mi warrior helmet. espero q los hayas tomado prestado nadamas" Editor="Sir-Daniels", 3507 String="Fert Nekos\nport hope" Editor="Protector Chicho"}, 3504 Content={3504 Content={3507 String="Fert Nekos\nport hope" Editor="Aiyana Juarias"}, 3504 Content={3507 String="Fert Nekos\nport hope\n" Editor="Chicho sayn"}, 3504 Content={3507 String="Fert Nekos\nport hope" Editor="Protector Chicho"}, 3504 Content={3504 Content={3172 Charges=2, 3265}, 3586 Amount=7, 3593, 3507 String="Fert Nekos \nport hope\n\n" Editor="Fert Nekitos"}, 3504 Content={3504 Content={3552, 3587 Amount=21, 3066, 3353, 3507 String="Fert Nekos \nPort Hope" Editor="Bebe Suave"}, 3507 String="Fert Nekos\nport hope" Editor="Tarrandas'Bar"}, 3507 String="Fert Nekos\nport hope\n" Editor="Olis Chico"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Jungle Edge 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3507 String="Fert Nekos\nport hope\n" Editor="Protector Chicho"}, 3504 Content={3504 Content={3507 String="Fert Nekos\nport hope\n\n" Editor="Ricura mayor"}, 3504 Content={3507 String="fert nekos\nport hope\n" Editor="Fert Nekitos"}, 3507 String="Fert Nekos\nport hope\n" Editor="Aiyana Juarias"}, 3506 String="fert nekos\nport hope\n\n\nwe no chingues deja las boh en mi casa plz" Editor="Jacob Waltz", 3507 String="fert nekos\nport hope\n" Editor="Nivort Aelus"}}}}

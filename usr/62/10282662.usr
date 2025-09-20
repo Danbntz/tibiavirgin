@@ -1,0 +1,54 @@
+ID              = 10282662
+Name            = "Dana Shanoon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (138,58-16-92-92)
+CurrentOutfit   = (138,58-16-92-92)
+LastLogin       = 1146708296
+LastLogout      = 1146708319
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31778,6]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,11493,0,13000,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,178,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7659,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,34,0,10,0,0,0,0,0,0,0,4761,1100,4917,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,91,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,334,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(35,1),(59,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2865 Content={3504 Content={3507 String="Dragon de luz\ncarlin\n" Editor="Drragon akua"}, 3504 Content={3507 String="grim reapir \ncarlin" Editor="Magik Shaman"}, 3504, 3504 Content={3507 String="Soda Pop Of the boo\nCarlin" Editor="Druid Zod"}, 3267, 3031 Amount=17}},
+               4 Content={3357},
+               5 Content={3285},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2874 ContainerLiquidType=11}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={3464, 3502 Content={2865, 3300, 3598 Amount=8, 3492 Amount=4, 3003, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3003, 3031 Amount=100, 3031 Amount=100, 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 3509, 3031 Amount=100, 3031 Amount=100, 3147, 3492 Amount=100, 3097 SavedExpireTime=3555}}}

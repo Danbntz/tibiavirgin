@@ -1,0 +1,61 @@
+ID              = 14035664
+Name            = "Sazuke De Asgar"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,77-114-114-114)
+CurrentOutfit   = (134,77-114-114-114)
+LastLogin       = 1148174486
+LastLogout      = 1148179787
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33231,32702,8]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,291980,0,295200,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,177188,1100,193759,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,489,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22339,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,351,1800,593,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,24,1800,50,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,983,1800,1118,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,219,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,122,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,8,0,1,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,9,10,11,20,29,39,76,81,84,88}
+QuestValues = {(21,1),(22,1),(23,1),(59,1),(69,1),(96,1),(97,1),(98,1),(115,1),(190,1),(191,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=55, 3033 Amount=1, 3065, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874}}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3457}}
+
+Depots      = {0 Content={3504 Content={3351, 3003}, 3502}, 
+               1 Content={3504 Content={3507 String="sazuke de asgar\ncarlin" Editor="Sazuke De Asgar"}, 3349, 3502}, 
+               2 Content={3504 Content={3507 String="sazuke de asgar\nkazordoon" Editor="Spirit'Reaper"}, 3504 Content={3098 SavedExpireTime=169, 2991, 3076, 3046 SavedExpireTime=2853, 3082 RemainingUses=50, 3351, 2867 Content={3588 Amount=54, 3457, 3052 SavedExpireTime=1046}, 3507 String="sazuke de asgar\nKazordoon\n" Editor="Sazuke De Asgar"}, 3502 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=91}}, 
+               3 Content={3502}, 
+               4 Content={3502 Content={3033 Amount=1, 3042 Amount=4, 3305, 3432}}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3557, 3351, 3351, 3357, 3507 String="sazuke de asgar\nvenore" Editor="Changoleon Rosado Del Ollo"}, 3065, 3425, 3548 Amount=1, 3547 Amount=1, 2991, 3077, 3012, 3046, 2853 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3349, 3504 Content={3007, 3507 String="sazuke de asgar\nvenore" Editor="Genur", 2857 Content={3097, 3504 Content={3045 RemainingUses=185, 3298 Amount=1, 3074, 2815 String="departe de   tu hermano  chtm" Editor="Charly'mcfly"}, 2867 Content={2865 Content={3017, 3017, 3017, 3017, 3017, 3017, 2985, 3590 Amount=1, 3602 Amount=1, 3585 Amount=4, 3598 Amount=6, 3589 Amount=10, 3674, 3668, 3119, 3008, 3056 RemainingUses=200, 2985, 2985}}, 3097 SavedExpireTime=3596, 3097, 3092, 3097 SavedExpireTime=3598, 3092}, 3446 Amount=10}, 2865 Content={3560, 3568, 3077, 3585 Amount=2, 3091 SavedExpireTime=1597, 3350, 3483, 3725 Amount=1, 3505 String="sazuke de asgar \nkazando leave plix\n\n\n=) respet" Editor="Sazuke De Asgar", 3505 String="sazuke de asgar \nkazando leave plix\n\n\n=) respet" Editor="Sazuke De Asgar", 3505 String="\nsazuke de asgar \nkazando leave plix\n\n\n=) respet" Editor="Sazuke De Asgar", 3505 String="sazuke de asgar \nkazando leave plix\n\n\n=) respet" Editor="Sazuke De Asgar", 3505 String="sazuke de asgar \nkazando leave plix\n\n\n=) respet" Editor="Sazuke De Asgar", 3505 String="sazuke de asgar \n\nhunting leave\n\n=) respet" Editor="Sazuke De Asgar", 3505 String="sazuke de asgar \nkazando leave plix\n\n\n=) respet" Editor="Sazuke De Asgar", 3008, 3317, 3066, 2968 KeyNumber=3940, 2968 KeyNumber=3940}, 3502 Content={3507 String="no tocar\nmine plz ^^\nreespect xD\ndejen mi bp \natt: joel  :D" Editor="Sazuke De Asgar", 2867 Content={3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147}}}, 
+               7 Content={4158 RemainingExpireTime=855, 2867 Content={3577 Amount=42}, 3502}}

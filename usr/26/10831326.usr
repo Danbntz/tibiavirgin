@@ -1,0 +1,59 @@
+ID              = 10831326
+Name            = "Cadia Leonyarya"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (140,78-113-0-113)
+CurrentOutfit   = (140,78-113-0-113)
+LastLogin       = 1147292022
+LastLogout      = 1147292213
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32916,32071,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,273817,0,295200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,126815,3000,193600,1600)
+Skill = (2,470,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,130,130,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,945,945,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,167467,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,63,1100,105,50)
+Skill = (10,64,0,10,0,0,0,0,0,0,0,87055,1100,94029,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,44,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5596,1100,5982,20)
+Skill = (14,0,1200,0,0,0,931,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(86,1),(87,1),(190,1),(191,1),(208,1),(224,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3083 RemainingUses=133},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="Cadia Leonyarya\nthais"}, 3504 Content={3507 String="Cadia Leonyarya\nthais"}, 3502 Content={}}, 
+               1 Content={3504 Content={3457, 3507 String="Cadia Leonyarya\ncarlin"}, 3502 Content={}}, 
+               2 Content={2868 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3504 Content={3507 String="Cadia Leonyarya\nkazordoon" Editor="Sharim Kirun", 3043 Amount=1, 3031 Amount=5}, 3502}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Cadia Leonyarya\ndarashia"}, 3502 Content={}}, 
+               6 Content={3504 Content={2867 Content={3031 Amount=65, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147}}, 3507 String="Cadia Leonyarya\nvenore" Editor="Sharim Kirun"}, 3578 Amount=42, 3293, 3318, 3415, 3031 Amount=100, 3483, 3465, 3465, 3465, 2868 Content={3447 Amount=15, 3350, 2471}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868, 2867 Content={3351, 3377, 2920, 2920, 3457, 3003}, 3504 Content={3507 String="Cadia Leonyarya\nvenore", 2853 Content={3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377}}}, 3457, 3412, 3504 Content={3507 String="Cadia Leonyarya\nvenore", 2857 Content={2864 Content={3593, 3587 Amount=14}, 2864 Content={3735 Amount=1, 3351, 2854, 3330, 3042 Amount=2, 3032 Amount=1}, 2872 Content={3031 Amount=10, 3377, 3377, 3377}}}, 3502 Content={3031 Amount=3, 2854 Content={2869 Content={2871}}, 3297, 3003, 2867 Content={2867, 3668, 3008, 3425, 3027 Amount=1}, 2853 Content={3492 Amount=67, 3492 Amount=1, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2867 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3503, 3598 Amount=1}}, 
+               7 Content={3264, 3286, 3502}, 
+               8 Content={2853 Content={3577 Amount=11, 3582 Amount=27, 3577 Amount=100}, 2920 SavedExpireTime=0, 3483, 2853 Content={3582 Amount=16, 3577 Amount=72}, 3502 Content={}}}

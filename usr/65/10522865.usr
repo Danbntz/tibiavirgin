@@ -1,0 +1,57 @@
+ID              = 10522865
+Name            = "Xedis Willstar"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,114-114-114-114)
+CurrentOutfit   = (130,114-114-114-114)
+LastLogin       = 1141574906
+LastLogout      = 1141575145
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32486,32091,6]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,308564,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,87675,3000,193600,1600)
+Skill = (2,475,475,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,130,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,955,955,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,95230,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,60,0,10,0,0,0,0,0,0,0,59163,1100,64064,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,39,1100,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,138,1100,165,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,94,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,341,1100,370,20)
+Skill = (14,0,1200,0,0,0,311,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,97,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(32,1),(33,1),(34,1),(35,1),(36,1),(67,1),(68,1),(69,1),(70,1),(71,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(208,1),(217,3),(223,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=17, 3031 Amount=24, 3577 Amount=12, 2867 Content={3031 Amount=100, 3188 Charges=3, 3188 Charges=3, 3198 Charges=5, 3160 Charges=1, 3188 Charges=1, 3198 Charges=3, 3198 Charges=5}, 3084 RemainingUses=33, 3457}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3267, 3291, 2970 KeyNumber=3899, 3504 Content={3349, 3349, 3349, 3349, 3349, 3349}, 2968 KeyNumber=3940, 2854 Content={3377}, 2981, 3466, 3291, 2981, 3409, 2854 Content={3736 Amount=1, 3674, 3291, 3291, 3504 Content={3504 Content={3507 String="Mizter Xander\nThais"}, 3504 Content={3507 String="snaft\nthais"}, 2473 Content={2473}}}, 3502 Content={2854 Content={2854}, 3286, 3292, 3412, 3551}}, 
+               1 Content={3502}, 
+               2 Content={3503 Content={3507 String="xedis willstar\nvenore" Editor="Xedis Willstar"}, 3502}, 
+               3 Content={3502}, 
+               6 Content={2868 Content={2969 KeyNumber=5010, 3457, 3457, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2920 SavedExpireTime=584, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=598, 2920, 2920}, 2865 Content={3147, 2867 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2866 Content={2871 Content={3188 Charges=3, 3188 Charges=3}, 2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 2869 Content={2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2868 Content={3446 Amount=30, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2969 KeyNumber=5010, 3447 Amount=51, 3447 Amount=100, 3448 Amount=8, 3449 Amount=4}, 2867 Content={3282, 3275, 3425, 3413, 3409, 3384, 3351, 3310, 3384, 3289, 3451, 3289}, 2854 Content={3413, 3359, 3429, 3380, 3565, 3359, 3377, 3377, 3375, 3375}, 2866 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=76, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2867 Content={3035 Amount=14, 3035 Amount=100}}, 2867 Content={3483, 3483, 3283, 3308, 2981, 2992 Amount=7, 3483, 3003, 3293, 3004, 3017, 2885 ContainerLiquidType=3, 3456, 3004, 3506 String="Xedis Willstar\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3012, 2989, 3287 Amount=4}, 2854 Content={2952, 3600 Amount=3, 3582 Amount=43, 3577 Amount=85, 3492 Amount=73, 3598 Amount=40, 3603 Amount=32, 3492 Amount=100, 3577 Amount=100, 3601 Amount=4, 3586 Amount=9, 3578 Amount=30, 3592, 3579 Amount=5, 3723 Amount=60, 3588 Amount=100, 3585 Amount=59, 3588 Amount=45, 3597 Amount=8, 3602 Amount=82}, 2854 Content={2854 Content={3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=19, 3046, 3030 Amount=1, 3029 Amount=2, 3026 Amount=1, 3027 Amount=2, 3097 SavedExpireTime=3597, 3097 SavedExpireTime=3516, 3097, 3097, 3097 SavedExpireTime=3574, 3093 SavedExpireTime=1793, 3092 SavedExpireTime=1796, 3050, 3050 SavedExpireTime=1762, 3098 SavedExpireTime=420, 3052 SavedExpireTime=980, 3077}, 2854 Content={3097, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=7, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3008, 3008, 3008, 3046 SavedExpireTime=2982, 3056 RemainingUses=199, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 2969 KeyNumber=3033}, 2854 Content={3300, 3285, 3307, 3273, 3291, 3456, 3291, 3300}, 3502 Content={2854, 2854, 2867, 2867, 2867, 2854, 2854, 2854, 2866, 2854, 2857, 2854, 2865, 2872, 2854, 2854, 2867, 2872, 2865}}}

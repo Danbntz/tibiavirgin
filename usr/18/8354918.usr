@@ -1,0 +1,58 @@
+ID              = 8354918
+Name            = "Ametista Quim"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (140,98-0-16-0)
+CurrentOutfit   = (140,98-0-16-0)
+LastLogin       = 1148236335
+LastLogout      = 1148236349
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32294,31797,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,157244,0,179400,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,110964,1100,114244,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,418,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,20513,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1791,2000,3150,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1181,1100,1280,20)
+Skill = (14,0,1200,0,0,0,1035,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,87,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,16,20,25,26,29,38,44,81,87,88,89}
+QuestValues = {(17,1),(20,1),(21,1),(23,1),(32,1),(33,1),(34,1),(46,1),(59,1),(72,1),(73,1),(74,1),(75,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2870 Content={3031 Amount=35, 3031 Amount=100, 3577 Amount=2, 3031 Amount=100, 2868 Content={3147, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3505 String="ametista quim hunt here\nplz respect and leave or msg me first" Editor="Ametista Quim", 3505 String="ametista quim hunt here\n plz respect and leave or msg me first\nrespect to be respect" Editor="Ametista Quim", 3505 String="ametista quim hunt here\n plz respect and leave or msg me first" Editor="Ametista Quim", 2866 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {1 Content={3504 Content={3507 String="ametista quim\ncarlin\n" Editor="Sir Blackk Fhyoda"}, 3504 Content={3504 Content={3507 String="ametista quim\ncarlin" Editor="Sir Blackk Fhyoda"}, 3507 String="ametista quim\ncarlin" Editor="Ametista Quim"}, 3502 Content={3504 Content={2870 Content={2870}, 3507 String="Ametista Quim\nCarlin\n\n\nVida, a legs eh pra vc e as bp's vc divide com o Marcelo" Editor="Selin Furic"}, 2854 Content={2870 Content={3028 Amount=2, 3035 Amount=5}, 2874 ContainerLiquidType=10, 3172 Charges=3}, 2865 Content={3074, 3591 Amount=1, 3059, 3425, 3282, 3124, 3056 RemainingUses=200, 3050}, 2870 Content={1781 Amount=2, 3358, 3285}, 2860 Content={3457, 3483}, 2860 Content={3505, 3505}, 2860 Content={2870 Content={3004, 2955, 2973 KeyNumber=3520, 3425, 3292, 3559, 3059}, 3129, 2916, 2969 KeyNumber=4600, 3471, 3003}, 3453, 3454, 3083 RemainingUses=150, 2955}}, 
+               3 Content={3502 Content={2874, 2969 KeyNumber=4600}}, 
+               5 Content={3504 Content={3504 Content={3507 String="ametista quim\ndarashia" Editor="Sir Blackk Fhyoda"}, 3504 Content={3504 Content={3507 String="ametista quim\ndarashia\n" Editor="Sir Blackk Fhyoda"}, 3507 String="ametista quim\ndarashia" Editor="Sir Blackk Fhyoda"}, 3504 Content={3507 String="ametista quim\ndarashia" Editor="Sir Blackk Fhyoda"}, 3504 Content={3507 String="ametista quim\ndarashia" Editor="Sir Blackk Fhyoda"}, 3507 String="ametista quim\ndarashia" Editor="Sir Blackk Fhyoda"}, 3502 Content={3457, 2866 Content={3191 Charges=1, 3191 Charges=2}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={3035 Amount=1}, 3042 Amount=1}}, 
+               6 Content={3504 Content={3507 String="ametista quim\nvenore" Editor="Sir Blackk Fhyoda"}, 3502}, 
+               7 Content={3504 Content={3507 String="ametista quim\nAnkrahmun" Editor="Sir Blackk Fhyoda"}, 3502 Content={2866 Content={2866, 2854 Content={2868}}, 3507 String="Sir Blackk Fhyoda\nHunts here, show respect and msg me! \n" Editor="Ametista Quim"}}}

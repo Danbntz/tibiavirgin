@@ -1,0 +1,56 @@
+ID              = 10265222
+Name            = "Rukia Moon"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (136,114-0-0-19)
+CurrentOutfit   = (136,114-0-0-19)
+LastLogin       = 1147472421
+LastLogout      = 1147474579
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31685,6]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,164244,0,179400,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,161797,1100,174690,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,329,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,39130,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,796,1800,1118,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,22311,1800,40105,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,226,1800,302,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,751,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,80,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,5,7,8,10,20,42}
+QuestValues = {(17,1),(18,1),(21,1),(22,1),(23,1),(96,1),(97,1),(98,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={2991, 3582 Amount=1, 2853, 3198 Charges=5, 3160 Charges=1, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3004},
+               10 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {1 Content={2854 Content={3601 Amount=1, 3457, 3578 Amount=2, 3565, 3505, 3454, 3270}, 3502 Content={3031 Amount=46, 3031 Amount=100}}, 
+               3 Content={3504 Content={3035 Amount=30, 3507 String="Rukia Moon\nAb'Dendriel" Editor="Rukia Moon"}, 2867 Content={2853 Content={3160 Charges=1}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={3483, 2867 Content={3322, 3066, 3066}, 2473 Content={3078, 2854 Content={3655, 2985, 3661, 3661, 3661, 3661, 3736 Amount=1, 2981, 3658, 3658, 3658, 3658, 3658}, 2857 Content={3661, 2981, 2985, 3736 Amount=1, 3658, 2984, 2983}}, 2865 Content={2854 Content={2857 Content={3454, 3454, 3454, 3454, 3454, 3454}, 2873, 2873, 3506 String="Rukia Moon\nAb'dendriel\n\nHula niña feaaa.... asi se mandan las kartas -.-\n \n:*\n\natte: Karix\nXD", 3505 String="hermana rukia sabias q ia no te quiero porq eres mala jaja no es cierto con esto te digoq te quiero musho q eres una exelente persona en rl y q nunca quisiera perder tu amistad si esq la hay vdd bueno es todo nunca me olvides bye" Editor="Rukia Moon", 3505 String="hola hermana espero q estas bien te quiero musho pero creeo q tu a mi no por eso y no te querre es todo Boo Wendy\n" Editor="Rukia Moon", 3505 String="Mire mujer io la quiero mucho pero en estos dias la he visto muy distante con migo ia ni me habla quien sabe porq pero eso no me gusta porq io no le he hecho nada pero la vdd si tiene algo digamelo porq me hace sentir mal atte.\n                                                      Boo boo" Editor="Rukia Moon"}, 2865 Content={3536, 3535, 3544, 3543, 3543, 3534 Amount=1, 3544, 3541}, 2473 Content={3077, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 3483, 2868 Content={3085 RemainingUses=189, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=183, 3008, 3008, 3008, 3008, 3008, 3008, 3008}, 2857 Content={3468, 3467, 3468, 3467}, 3092, 3097}, 2865 Content={2868, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2952, 2949, 3046, 3046 SavedExpireTime=688, 3046 SavedExpireTime=2983, 2875, 2992 Amount=4, 3059, 3059}, 3509, 2885, 2906, 2393, 3452, 2969 KeyNumber=3033, 2667, 2393}, 3552, 3483, 3605 Amount=3, 2815 String="\n", 3505, 3505, 2856 Content={2991, 3105, 3105, 2815 String="....................\nAb'Dendriel\n" Editor="Rukia Moon"}, 3459}, 2865 Content={3446 Amount=42, 2865 Content={3357, 3305, 3350, 3565, 2853 Content={3377, 3378, 3362, 3378, 3378, 3362, 3362}, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3447 Amount=16, 3350}, 2857 Content={2853 Content={2853 Content={2853 Content={3003, 3003, 3003}, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3425, 3266, 3266}, 2853 Content={3384, 3354, 3409, 3413, 3425, 3425, 3425, 3425}, 2853 Content={2853 Content={3457, 3457}, 3457, 3457, 3457, 3457, 3457, 3457, 3457}}, 2473 Content={2854 Content={3147, 3147, 3147, 3147, 3147}, 2853 Content={2853 Content={2853 Content={2853 Content={2920 SavedExpireTime=596, 2920 SavedExpireTime=352, 2920}, 2920, 2922 SavedExpireTime=21, 2920 SavedExpireTime=599, 2920, 2922 SavedExpireTime=119, 2920, 2920}, 2920, 2920, 2920, 2920 SavedExpireTime=234, 2920, 2920, 2920}, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2857 Content={2853 Content={2853 Content={3492 Amount=13, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2911 SavedExpireTime=2833, 2911}, 1781 Amount=2, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3291, 3603 Amount=14, 3289, 2874 ContainerLiquidType=7, 3293, 3273, 3352, 3308}, 2854 Content={3577 Amount=61, 2471 Content={2865 Content={2865 Content={3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592}, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592}, 2865 Content={2865 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}, 2865 Content={3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592}, 2865 Content={3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592}, 3723 Amount=100, 3577 Amount=100, 3577 Amount=100, 3582 Amount=100, 3723 Amount=100, 2857 Content={2977, 2977, 2977}}, 3723 Amount=21, 3582 Amount=41, 3598 Amount=1, 3586 Amount=2, 3606 Amount=1, 3602 Amount=54, 3600 Amount=49, 3599 Amount=1, 3578 Amount=92, 3595 Amount=6, 3601 Amount=66, 3585 Amount=95}, 3502 Content={2853 Content={3031 Amount=92, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=64, 3035 Amount=100}}, 
+               6 Content={2854 Content={3128, 3592, 3600 Amount=2, 3585 Amount=3, 3601 Amount=1, 3577 Amount=8}, 2471 Content={2815 String=">o< stoy secretamente enamorado de ti :P\natte: tu admirador secreto juju", 2854, 2981, 3492 Amount=90}, 3502 Content={3031 Amount=2, 3031 Amount=100}}}

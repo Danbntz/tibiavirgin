@@ -1,0 +1,59 @@
+ID              = 7947683
+Name            = "Ramk"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,40-79-114-79)
+CurrentOutfit   = (129,40-79-114-79)
+LastLogin       = 1138407372
+LastLogout      = 1138410485
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32444,32325,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,739294,0,780700,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,477075,1400,618272,1600)
+Skill = (2,472,475,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,286,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1050,1050,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,193758,1100,206965,100)
+Skill = (7,78,0,10,0,0,0,0,0,0,0,206468,1100,215085,30)
+Skill = (8,24,0,10,0,0,0,0,0,0,0,2961,1200,3601,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,29,0,10,0,0,0,0,0,0,0,8733,1200,9334,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,15170,1100,15835,20)
+Skill = (14,0,1200,0,0,0,591,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,63,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,49,51,76,79,81}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(35,1),(59,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(111,1),(112,1),(125,1),(126,1),(137,1),(151,1),(152,1),(190,1),(191,1),(223,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2866 Content={3447 Amount=2, 3350, 3031 Amount=5, 3582 Amount=1, 3577 Amount=4, 3448 Amount=9, 3003, 3035 Amount=100, 3043 Amount=3, 3277 Amount=3, 3059, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=86, 3349}},
+               4 Content={3381},
+               5 Content={3267},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=20, 3031 Amount=100, 3035 Amount=6, 3411, 3377, 3007, 3028 Amount=2, 3042 Amount=21, 3033 Amount=18, 3032 Amount=15, 3029 Amount=3}}, 
+               1 Content={2869 Content={}, 3502 Content={}}, 
+               2 Content={2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3502 Content={3031 Amount=50, 3035 Amount=6, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2854 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2869 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}}, 
+               3 Content={3430, 3457, 2969 KeyNumber=4600, 3502 Content={}}, 
+               4 Content={3504 Content={3507 String="ramk\nedron"}, 3502 Content={}}, 
+               5 Content={3012, 3504 Content={3376, 3507 String="", 2972 KeyNumber=3980, 3266, 3507 String="dienekes warrior\ndarashia\n"}, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 3085 RemainingUses=200, 3285, 3413, 3285, 2853 Content={}, 3078, 3056 RemainingUses=200, 3425, 2393, 3084 RemainingUses=250, 3265, 3092 SavedExpireTime=0, 3282, 3033 Amount=1, 3421, 3046 SavedExpireTime=0, 3338, 2653, 2854 Content={3456, 2659, 2659, 2650, 2650, 2659}, 3008, 3083 RemainingUses=150, 3277 Amount=1, 2667, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 7, Flat 14\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853 Content={3305, 3305}, 2853 Content={3413, 3349}, 3504 Content={2653, 3447 Amount=5, 3267, 2856 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3456}, 2969 KeyNumber=4600, 2876 ContainerLiquidType=0, 2469 Content={2853 Content={3503 Content={3264, 2853 Content={3264, 3264, 3264, 3264}, 3264}}}}, 3083 RemainingUses=150, 2389, 3425, 3583 Amount=4, 3056 RemainingUses=200, 2955, 2853 Content={}, 2853 Content={2853 Content={}}, 2659, 2469 Content={}, 3012, 3092 SavedExpireTime=0, 3299, 3017, 2854 Content={3552}, 2854 Content={}, 2972 KeyNumber=3304, 2969 KeyNumber=3302, 3092 SavedExpireTime=0, 2869 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 3425, 2971 KeyNumber=3702, 3316, 2853 Content={}, 3083 RemainingUses=150, 3313, 3449 Amount=5, 2853 Content={2853 Content={3286, 2853 Content={2853 Content={3286, 3264, 3286, 3286, 3286, 3286, 3264, 3286}, 3264, 3264, 3286, 2853 Content={3286, 3264, 3286, 3286, 3264, 3264, 3264, 3286}, 3264, 3286, 3286}, 2853 Content={3286, 3264, 3264, 3286, 3286, 3264, 3286}}, 3582 Amount=43, 3577 Amount=29}, 2647, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3017, 2969 KeyNumber=4600, 3299, 3046 SavedExpireTime=0, 3092 SavedExpireTime=0, 3028 Amount=1, 3092 SavedExpireTime=0, 3349, 3362, 3097 SavedExpireTime=3591, 2853 Content={}, 2853 Content={}, 3059 String="", 3077, 3299, 2667, 2656, 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2845 gold\nfor your house \"Darashia 8, Flat 04\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2866 Content={2868 Content={}}, 3483, 3506 String="Ramk\nDarashia\n\n          No te conosco hace tanto tiempo pero quiero q sepas q me caes muy bien. Se me hace q eres una muy buena persona y eso me agrada mucho. Te estoy cogiendo mucho aprecio, a veces entro y veo q no estas y me pongo triste, pues rapido me haces mucha falta. Me alegra el haberte conocido y espero q seamos amigos por mucho tiempo.... TQM tu nueva friend...         Vanessa  (K)(K)(K)(K)", 3502 Content={}}, 
+               6 Content={3502 Content={2853 Content={2853 Content={3264, 3264, 3264, 3264, 3286, 3286}, 3377, 3413, 3413, 3305, 3377, 3092 SavedExpireTime=0, 2853 Content={3413, 3413, 3377, 3413, 3413, 3413, 2853 Content={3305, 3413, 3377, 3377, 3377, 3413, 3305, 2853 Content={2853 Content={3377, 3377, 3413, 3377, 3377, 3377, 3377, 2853 Content={2853 Content={3377, 3377, 3305, 3377, 3413, 3413, 3305, 2853 Content={3377, 3305, 3305, 3377, 3377, 3305, 2853 Content={3377, 3377, 3092 SavedExpireTime=0, 3377, 3305, 3413, 3413, 2853 Content={3413, 3413, 3413, 3413, 3413, 3413, 3413, 2853 Content={3413, 3413, 3377, 3413, 3377, 3413, 3092 SavedExpireTime=0, 2853 Content={3305, 3413, 3377, 3377, 3377, 3413, 2853 Content={3377, 3305, 3305, 3413, 2853 Content={3377, 3377, 3377, 3305, 3377, 3377, 3377, 2853 Content={2853 Content={2853 Content={2853 Content={3305, 2853 Content={2853 Content={2853 Content={3413, 3305, 3413, 3377, 3413, 3305, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3413, 3377, 2853 Content={3377, 3092 SavedExpireTime=0, 3413, 3413, 3413, 3305}}}, 3358, 3358, 3358, 3358, 3358, 3358}, 3377, 3377, 3413, 3377, 3377, 3413, 3305}, 3377, 3413, 3413, 3413, 3413, 3377}, 3305, 3305, 3377, 3377, 3413, 3413}, 3413, 3377, 3377, 3413, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}}}}}}}, 3413, 3377, 3413, 3377, 3413, 3305, 3377}}, 3377, 3377, 3413, 3305, 3305, 3413, 3305}}}}}}, 
+               7 Content={3502 Content={}}}

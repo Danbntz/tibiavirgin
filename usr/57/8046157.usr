@@ -1,0 +1,48 @@
+ID              = 8046157
+Name            = "Chesky Vangore"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-114-114-114)
+CurrentOutfit   = (128,116-114-114-114)
+LastLogin       = 1137882617
+LastLogout      = 1137883190
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,113934,0,116000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,47680,1400,55031,1600)
+Skill = (2,288,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,12,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6821,1100,7140,100)
+Skill = (7,52,0,10,0,0,0,0,0,0,0,17206,1100,17772,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,30,1200,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,87,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,993,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,715,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,20,42,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(35,1),(59,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(121,1),(226,1)}
+Murders     = {}
+
+Inventory   = {6 Content={3349},
+               8 Content={3551}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3147, 3059, 2970 KeyNumber=4601, 2970 KeyNumber=3012, 3492 Amount=2, 3503 Content={3507 String="Mexiloko\nAb`dendriel\n\n"}, 2920 SavedExpireTime=466, 3492 Amount=1, 2866 Content={3305, 3265, 3265}, 3504 Content={2854, 3504 Content={3504 Content={3504, 3504, 3504, 3504, 3504 Content={3504 Content={3507 String="krusty the'archer\nab'dendriel\n"}}, 3504 Content={2471, 3504}, 3504, 3504, 3504, 3504}, 3507 String="runilla da'mighty\nab'dendriel\n", 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}, 3507 String="runilla da'mighty\nab'dendriel"}, 3412, 3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3507 String="Ishyru\nab'dendriel\n"}, 3504 Content={3507 String="ishyru\nab'dendriel\n"}, 3504 Content={3504 Content={3507 String="Phim Azaryx\nAb'Dendriel"}, 3504 Content={3507 String="Angel Astaroth\nAb'dendriel\n"}, 3504 Content={3507 String="Angel Astaroth\nAb'dendriel\n"}, 3507 String="Angel Astaroth\nAb'dendriel\n"}, 3504, 3504, 3504, 3504, 3504, 3504}, 3308, 3308, 3502 Content={3282, 3078, 3031 Amount=6, 3003, 3412, 2866 Content={2973 KeyNumber=3520, 3054 RemainingUses=200, 2876, 2969 KeyNumber=5000}, 2854 Content={3269}, 2869 Content={3283, 3552}, 3349, 3349}}}

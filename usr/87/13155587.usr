@@ -1,0 +1,58 @@
+ID              = 13155587
+Name            = "Zhanozuke"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,114-0-115-114)
+CurrentOutfit   = (129,114-0-115-114)
+LastLogin       = 1148162796
+LastLogout      = 1148162824
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32935,32082,6]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,281259,0,295200,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,271780,1100,291109,1600)
+Skill = (2,212,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,364,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30121,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,27,1800,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,5952,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,154,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,905,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,56,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,5,7,8,9,10,16,20,25,29,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(96,1),(97,1),(98,1),(115,1),(125,1),(126,1),(190,1),(191,1),(208,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=38, 2853 Content={2920 SavedExpireTime=228}, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147}, 2867 Content={3188 Charges=3, 3188 Charges=1, 3188 Charges=2, 3188 Charges=3, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3381},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2924 SavedExpireTime=287}}
+
+Depots      = {0 Content={3504 Content={3507 String="ZHANOZUKE \nTHAIS\n" Editor="Zhanozuke"}, 3504 Content={3507 String="sir rekien\nthais\n" Editor="Zhanozuke"}, 3003, 3457, 3502}, 
+               1 Content={3504 Content={3507 String="zhanozuke\ncarlin\n" Editor="Zhanozuke"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="zhanozuke\nab'dendriel" Editor="Gogo-Dogo"}, 3502}, 
+               6 Content={3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3577 Amount=6, 3035 Amount=100, 3035 Amount=20, 3507 String="zhanozuke \nvenore\n" Editor="Zhanozuke"}, 2920 SavedExpireTime=572, 3270, 3504 Content={3552, 2853 Content={2853 Content={3322}}, 3507 String="zhanozuke\nvenore" Editor="Gogo-Dogo"}, 3582 Amount=1, 3504 Content={3425, 3295, 3322, 3311, 3357, 3275, 3507 String="zhanozuke\nvenore" Editor="Zhanozuke"}, 3046 SavedExpireTime=2943, 2854 Content={3421, 3577 Amount=7, 3275, 3282, 3066, 3425, 3305}, 2969 KeyNumber=5010, 3504 Content={3017, 2920, 3092 SavedExpireTime=1628, 3050, 3056 RemainingUses=200, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="zhanozuke\nvenore" Editor="Cirrux Soul"}, 3504 Content={3377, 3353, 2969 KeyNumber=5010, 3483, 3492 Amount=98, 3483, 3483, 3559, 3374, 3507 String="zhanozuke\nvenore\n" Editor="Cirrux Soul"}, 3502 Content={2854 Content={2868}, 3446 Amount=40, 3504 Content={3031 Amount=100, 3031 Amount=100, 3035 Amount=6}, 3035 Amount=51, 2920 SavedExpireTime=598, 3353, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3066, 2922 SavedExpireTime=235, 3046 SavedExpireTime=2353, 2853 Content={3264, 3551, 3483, 2969 KeyNumber=5010, 3097, 3050, 3017}, 3308, 3003}}}

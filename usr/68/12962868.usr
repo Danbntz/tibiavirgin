@@ -1,0 +1,52 @@
+ID              = 12962868
+Name            = "Stoopid Stitch"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (129,95-114-95-114)
+CurrentOutfit   = (129,95-114-95-114)
+LastLogin       = 1138350658
+LastLogout      = 1138350696
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32062,32125,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,4141,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,162,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,30,30,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4286,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3284,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1037,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,4,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2854 Content={3582 Amount=1, 3031 Amount=56, 3031 Amount=100, 2920 SavedExpireTime=599, 2816 String="The mystic portal remains unstable so reinforcements from Mintwallin seldom arrive here. \nThe royal mage managed to impress the primitive local orcs though and we can use them as slaves and runefodder. The trolls surrendered immediately and can be used for lesser services.\nThe human base has to be destroyed since more and more arrive there. These enemies are not strong but their number might cause some problems. As long as they will be revived at this mystic vortex even they can ruin our plans. We have to figure out how to destroy the vortex first. The mage locked himself up in his quarters and wants not to be disturbed anymore. He entrusted me with the duty to coordinate all our actions here.", 3031 Amount=100, 2969 KeyNumber=4603, 3031 Amount=100, 3003}},
+               4 Content={3358},
+               5 Content={3430},
+               6 Content={3264},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={2922 SavedExpireTime=251}}
+
+Depots      = {}

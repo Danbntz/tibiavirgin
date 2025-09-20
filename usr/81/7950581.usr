@@ -1,0 +1,56 @@
+ID              = 7950581
+Name            = "Olivite"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,13-81-89-2)
+CurrentOutfit   = (134,13-81-89-2)
+LastLogin       = 1147737301
+LastLogout      = 1147738620
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32274,32294,7]
+PlayerkillerEnd = 1150330619
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,419167,0,452600,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,775398,1100,780562,1600)
+Skill = (2,283,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,148,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,49834,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,48,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,36508,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,240,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,59,0,10,0,0,0,0,0,0,0,22853,1100,23278,20)
+Skill = (14,0,1200,0,0,0,864,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,78,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,8,9,16,18,25,39,42,45,76,81,82,84,87,88,89}
+QuestValues = {(19,1),(20,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(35,1),(58,1),(69,1),(70,1),(84,1),(85,1),(86,1),(87,1),(100,1),(112,1),(190,1),(191,1),(254,1)}
+Murders     = {1147564425,1147737624,1147737638,1147737672,1147737952,1147738549,1147738619}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={3198 Charges=1, 2854 Content={2853 Content={3031 Amount=31, 3003, 3577 Amount=4}}, 3003, 3457, 3031 Amount=4, 2854 Content={2874, 3147}, 3188 Charges=1}},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="Olivite\nthais" Editor="Wayez"}, 3504 Content={3492 Amount=100, 3507 String="olivite\nthais" Editor="Cheryl"}, 3504 Content={3507 String="olivite\nthais"}, 3502}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2866 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3552, 3504 Content={3507 String="Olivite\nedron"}, 3502 Content={}}, 
+               5 Content={2866 Content={3270, 3492 Amount=100, 3147, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2992 Amount=10, 3585 Amount=17, 2667, 3583 Amount=60, 3457, 3578 Amount=93, 3097, 3601 Amount=11, 3590 Amount=15, 3577 Amount=62, 3582 Amount=2, 3578 Amount=100, 3578 Amount=49, 2853 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3446 Amount=85, 3446 Amount=100, 3446 Amount=100}, 3350, 3503 Content={3578 Amount=100, 3578 Amount=56, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=82, 3578 Amount=97, 3578 Amount=83, 3503 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=96, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3503 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 3507}, 3483, 2667, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3457, 2667, 3504 Content={2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3507 String="Olivite\ndarashia"}, 3092, 2866 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 3147, 2866, 3502 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3578 Amount=99, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=90, 3578 Amount=100, 3578 Amount=100, 3578 Amount=82, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2866}}, 
+               6 Content={3311, 3504 Content={3507 String="olivite\nvenore"}, 3502 Content={}}, 
+               7 Content={3504 Content={3507 String="olivite\nAnkrahmun\n"}, 3502 Content={}}}

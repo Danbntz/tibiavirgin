@@ -1,0 +1,57 @@
+ID              = 9556587
+Name            = "Danlink"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,114-86-105-124)
+CurrentOutfit   = (134,114-86-105-124)
+LastLogin       = 1147975698
+LastLogout      = 1147975743
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,55611,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,20080,3000,20800,1600)
+Skill = (2,294,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14006,1100,14863,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,351,1400,489,30)
+Skill = (8,45,0,10,0,0,0,0,0,0,0,14205,1100,14956,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,59,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,35,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,148,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(54,1),(59,1),(61,1),(96,1),(97,1),(98,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2854 Content={3031 Amount=1, 3307, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3265},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3425}}
+
+Depots      = {0 Content={3448 Amount=1, 2854, 2901, 3551, 2874, 2874, 2874, 3285, 3031 Amount=5, 3031 Amount=100, 3502 Content={3003}}, 
+               1 Content={3504 Content={3277 Amount=3, 3578 Amount=6, 2853 Content={2977, 2977, 2977, 2977, 2977}, 3050 SavedExpireTime=1797, 3008, 3457, 3507 String="danlink\ncarlin" Editor="Danlink"}, 2872 Content={2853 Content={3503 Content={2853 Content={2853 Content={2853 Content={3045 RemainingUses=200, 2873, 3457}, 3003, 3456, 2856 Content={3035 Amount=1, 3349, 2860 Content={3492 Amount=10, 3008}, 3483, 3658}, 2856 Content={3085 RemainingUses=200, 3591 Amount=1, 3587 Amount=5, 3590 Amount=20, 3505 String="HOLA! solo queria felicitarte por tu cumple :D! y que te la pases super con tus amigos y tu familia incluyendome como amiga eh aver si luego te dignas a conectarte aunque sea 10 segundos en el msn :p bueno chau besos te cuidas y me saludas a vero,aby,yax y a isa ok? bueno ahora si bye... jejeje  \n                        \n                *MARIANA*     :* <-(amigos)\n(no te comas toda la comida porque te vas a poner gordo y feo jajajaja)" Editor="Eterr Mariana"}, 2877, 3655, 3655}, 2647, 2647, 2656, 2656, 2650, 2644, 2667}, 3426, 2869 Content={3003, 3655, 3505 Editor="Eterr Mariana", 2955, 3449 Amount=1, 2882, 3308, 3470, 2392, 2473, 3114 Amount=1, 3452, 3451, 3454, 2857}, 3457, 3003}, 3453, 3377, 2667, 2873 ContainerLiquidType=1, 2873}, 3084 RemainingUses=250, 3008, 2656, 2664 RemainingExpireTime=386, 2656, 2667, 2647, 3003}, 2865 Content={3056 RemainingUses=200, 3026 Amount=2, 3097, 3050 SavedExpireTime=1794, 3077, 3008, 3008, 3012, 3056 RemainingUses=200, 3012}, 2870 Content={3457, 3044 Amount=1, 3017, 2911 SavedExpireTime=1382, 3291, 3289, 3285, 3374, 3300, 2992 Amount=5}, 2854 Content={3673, 3655, 3655, 3655, 3655, 2992 Amount=5, 2911 SavedExpireTime=3000, 3505 String="Se você estiver lendo essa mensagem...você é um....\nPUTO VIADO INFELIZ!\nXau =D\nsera el qlo puso  jajajajajaXDlol", 3505 String="Strider kiros hunting here!!\ngogogo level 40 ^^!need full resp!", 3003, 2911 SavedExpireTime=2135, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 3658, 2853 Content={2920, 2920, 2920, 2920, 2920}}, 2472 Content={3492 Amount=17}, 2473, 2473, 3502 Content={3459}}, 
+               3 Content={3502 Content={2853 Content={3031 Amount=67}, 3003}}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               8 Content={3502}}

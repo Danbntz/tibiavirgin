@@ -1,0 +1,50 @@
+ID              = 14347161
+Name            = "Wizard Ixidor"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,78-77-95-95)
+CurrentOutfit   = (128,78-77-95-95)
+LastLogin       = 1147410095
+LastLogout      = 1147410131
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32350,32219,5]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,73031,0,83400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,31834,1100,34214,1600)
+Skill = (2,114,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,246,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5462,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1763,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,44}
+QuestValues = {(21,1),(22,1),(23,1),(28,1),(55,1),(58,1),(140,1),(141,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3012},
+               3 Content={2870 Content={3349, 3446 Amount=53, 3031 Amount=1}},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3446 Amount=17, 2853 Content={3358, 3349, 3425, 3266, 3349}, 2955, 3504 Content={2870 Content={2870 Content={2870 Content={2870 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870}}}}}}}}, 2870 Content={2870 Content={2870 Content={2870 Content={2870}}}}, 2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={3358, 3358, 3358, 3358, 3377, 3377, 3377, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3377, 3377, 3377, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}}, 3507 String="Arcangel Chronos\nthais" Editor="Arcangel Chronos"}, 3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3413, 3031 Amount=13, 2853, 3507 String="Wizard Ixidor\nthais" Editor="Wizard Ixidor"}, 3147, 3007, 3504 Content={3093, 3147, 3093 SavedExpireTime=52, 3307, 3507 String="wizard ixidor\nthais" Editor="Slayer Dan"}, 2866 Content={3065, 3069, 3370, 3370, 3320, 3391, 3391}, 2471 Content={2870 Content={2871 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2866 Content={3377, 3377, 3377, 3377, 3377, 3377}}, 2854 Content={2865 Content={3582 Amount=2, 3031 Amount=44, 3446 Amount=18, 3003, 3505 String="al mazawa" Editor="Slayer Dan", 2865 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}}, 3425, 3287 Amount=7, 3046 SavedExpireTime=2997, 3046 SavedExpireTime=2997, 3425, 3075, 3074}, 2865 Content={2822 String="*You see a map of our world Tibia*", 2823 String="*You see a map of the surface of the Fields of Glory. There are many red lines and two golden points on it. You wonder what their meaning is.*", 3065, 3155 Charges=1, 2991}, 2853 Content={3568}}, 2854 Content={2471 Content={3577 Amount=100}, 2865 Content={3425, 3412, 3268, 3483, 2853 Content={3557, 3275, 3557}}, 2854 Content={2854 Content={3504 Content={3425}, 3075, 3425, 2991}}, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3582 Amount=77, 3582 Amount=100}, 3504 Content={3504 Content={2868 Content={3017, 3093, 3093}, 3582 Amount=4, 3504 Content={2853 Content={3425, 3425, 3349, 3425}, 2853 Content={3377, 3425, 3425, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3425}, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377}, 3377, 3377}, 3377, 3349, 3425, 3349}, 3377, 3377, 3377, 3425}, 3377, 3377, 3377, 3377, 3377}, 3377, 3377}, 3377, 3377}, 3425, 3377, 3377, 3377}, 3349, 3349}, 3425, 3425, 3349}, 3507 String="slayer dan\nedron" Editor="Slayer Dan"}, 3446 Amount=100, 3723 Amount=99, 3446 Amount=52, 2867 Content={3093, 3425}, 2871 Content={3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3577 Amount=70, 3582 Amount=60}}, 2868 Content={3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 2867 Content={3425, 3349}, 3507 String="Wizard Ixidor\nthais" Editor="Slayer Dan"}, 3504 Content={2968 KeyNumber=3940, 3492 Amount=13, 3492 Amount=100, 3507 String="wizard ixidor\nthais" Editor="Eternal Gaia"}, 3506 String="Moor Telix\nThais\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 3551, 2854 Content={3446 Amount=14, 2816 String="You can find the ancient treasures in the Adventurers Hall.", 3307, 3074, 3083 RemainingUses=150, 3093, 2816 String="So many evil creatures!\nI'm heavily injured.\nThese are my last words ...\nRevenge my death!\n\nGygil", 3367, 3367, 3286, 2969 KeyNumber=4600, 3579 Amount=3, 3585 Amount=1, 3585 Amount=1, 2969 KeyNumber=4603, 3506 String="Treasure of captain Iglue"}, 3502 Content={2868 Content={3031 Amount=100, 2872 Content={3031 Amount=100, 3031 Amount=100}, 3083 RemainingUses=11, 3031 Amount=70, 3031 Amount=7, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3037, 3029 Amount=37, 3034 Amount=1, 3033 Amount=2, 3028 Amount=7, 3061, 3061, 3061, 3061, 3061, 3044 Amount=1}, 2854 Content={2854 Content={2869 Content={2854}, 2854 Content={2868 Content={2854 Content={2866}}, 2866, 2871, 2854, 2868, 2868}, 2871, 2854, 2870, 2865, 2867, 2868, 2854 Content={2854}, 2854 Content={3003, 3457, 3003}, 2870 Content={2870 Content={2870, 2870, 2870, 2870 Content={2870}}}, 2866 Content={2854}, 2870, 2870}, 2869, 2869, 2869, 2871, 2869, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869, 2872, 2866, 2869, 2866, 2854, 2854, 2866, 2854, 2868, 2870, 2869, 2871 Content={2854 Content={2854, 2854}}}, 2871 Content={3007, 3007, 3007, 3007, 3007, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3085 RemainingUses=200, 3014}, 2854 Content={3031 Amount=24, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3043 Amount=4}, 3446 Amount=32, 2969 KeyNumber=3600}}, 
+               2 Content={3172 Charges=3, 3172 Charges=3, 3533 Amount=4, 3504, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3425, 3075, 3375, 3362, 3377, 3502 Content={3031 Amount=96, 3413}}, 
+               3 Content={3504 Content={3507 String="Wizard Ixidor\nAb'Dendriel" Editor="Wizard Ixidor"}, 3502}}

@@ -1,0 +1,50 @@
+ID              = 12633880
+Name            = "Si Te Casas Te Mato"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (142,79-94-0-114)
+CurrentOutfit   = (142,79-94-0-114)
+LastLogin       = 1147055753
+LastLogout      = 1147055780
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32679,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10841,0,13000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,17363,1100,18297,1600)
+Skill = (2,154,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,11,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3471,1500,4925,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,84,1800,181,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,1800,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,363,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,79,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,128,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(17,1),(18,1),(32,1),(33,1),(34,1),(46,1),(59,1),(61,1),(113,1),(114,1),(125,1),(126,1),(224,1),(333,1)}
+Murders     = {1144632621,1144633354,1144811095}
+
+Inventory   = {3 Content={2853 Content={2969 KeyNumber=3033, 3492 Amount=49}},
+               4 Content={3377},
+               6 Content={3271},
+               10 Content={3003}}
+
+Depots      = {1 Content={3425, 3066, 3502}, 
+               3 Content={2973 KeyNumber=3520, 2969 KeyNumber=3033, 3350, 3483, 3502 Content={3504 Content={3504 Content={3504 Content={3504 Content={3294}, 3504 Content={3507 String="ingus kadjico\nab'dendriel" Editor="Ordereid Aurkos"}}, 3504 Content={3507 String="fark tronner\nab'dendriel" Editor="Wiss Antront"}, 3504 Content={3457}, 3504, 3504 Content={3507 String="Zaida Lo\nAb'dendriel" Editor="Zaida Lo"}, 3504, 3504 Content={3507 String="Sox Safadox\nab'dendriel" Editor="Sox Safadox"}, 3504 Content={3507 String="Zaida Lo\nAb'Dendriel" Editor="Sir barba roja"}, 3504 Content={3507 String="chipi gambler\nab'dendriel\n" Editor="Dure Mitox"}, 3504}, 3507 String="si te casas te mato\nab'dendriel" Editor="Alcon Vare"}, 3504 Content={3504 Content={3507 String="si te casas te mato\nab'dendriel\n" Editor="Druid Malefica del hoy"}, 3504 Content={3507 String="si te casas te mato\nab'dendriel" Editor="Druid Malefica del hoy"}, 3507 String="si te casas te mato\nab'dendriel" Editor="Druid Malefica del hoy"}}}, 
+               6 Content={3502}}

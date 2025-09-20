@@ -1,0 +1,51 @@
+ID              = 12769060
+Name            = "Algos Tarius"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (131,38-83-116-13)
+CurrentOutfit   = (131,38-83-116-13)
+LastLogin       = 1147715923
+LastLogout      = 1147715927
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,30058,0,37800,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,38610,1100,39236,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5885,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,815,1800,1118,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,74,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1344,1100,1428,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,96,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,26,29,42,44}
+QuestValues = {(125,1),(126,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               4 Content={3377},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={3492 Amount=2, 3506 String="Algos Tarius\nCarlin\n\nTe rzeczy (itemy)wyslij mi paczka na adres!<bo i tak ci nie bedea potrzebne! ale wszystkie! bo mi sa one teraz cholernie potrzebne!\nAdres:\n\nMagic Maciek\nThais\nok?\nczekam\nna odpowiedz albo paczke!\n" Editor="Magic Maciek", 3506 String="Algos Tarius\nCarlin\n\n\nyoyoyoyoyoyo\n " Editor="Wuja skwara", 2893, 3003, 3502 Content={3031 Amount=55, 2857 Content={3172 Charges=2, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3, 3172 Charges=2}, 3504 Content={2955, 3299, 3552, 3507 String="Algos Tarius\nCarlin" Editor="Klechina", 2920, 3293, 2920 SavedExpireTime=208, 2917 SavedExpireTime=2857, 2873, 2874}, 3504 Content={3483, 3507 String="Algos Tarius\nCarlin" Editor="Gallis Falaya"}, 3504 Content={3507 String="Algos Tarius\nCarlin" Editor="Klechina"}, 2870 Content={3065, 3372, 2818 String="Rozdaje rzeczy! Wuja Skwara, Adam the master of druids, Algos Tarius i Wild Bagger sa uprawieni do ich wziecia!!" Editor="Klechina", 2862 Content={2880, 3465, 3740 Amount=1}, 3069, 3174 Charges=4, 2874 ContainerLiquidType=10, 3164 Charges=3, 3164 Charges=3, 3188 Charges=3}, 2865 Content={3035 Amount=13, 3293, 3457}, 2867 Content={3377, 3457, 3056 RemainingUses=200, 3056 RemainingUses=200, 3377, 2969 KeyNumber=4600, 3377, 3362, 3375, 2911 SavedExpireTime=2563, 3012}, 2868 Content={2872}, 2854 Content={3177 Charges=1, 3174 Charges=3, 3375, 3367, 3050, 3050, 2917 SavedExpireTime=2613, 3447 Amount=1, 3736 Amount=1, 3362, 3377}, 3504 Content={3362, 3012, 3300, 3377, 3300, 3430, 3277 Amount=10, 1781 Amount=32, 3003, 3003}, 3504 Content={3003, 3377, 2868, 3362, 3003, 2882 ContainerLiquidType=2, 3375, 3003}, 3504, 3504 Content={3300, 3300, 3457, 3605 Amount=5, 3362, 3066, 3377, 3042 Amount=1, 3050 SavedExpireTime=1780, 3008}, 3504 Content={3595 Amount=6, 3585 Amount=55, 3602 Amount=35, 3577 Amount=71, 3723 Amount=52, 3582 Amount=87, 3578 Amount=100, 3578 Amount=100, 3577 Amount=100}, 3504 Content={3003, 3374, 3430, 3374, 3374, 3003, 3430}, 3504 Content={2873}, 3504 Content={3188 Charges=1, 3189 Charges=1, 3189 Charges=2, 3164 Charges=3, 3188 Charges=3}, 3504 Content={1781 Amount=3, 3375, 3003, 3003, 3003, 3374}}}, 
+               3 Content={3502}}

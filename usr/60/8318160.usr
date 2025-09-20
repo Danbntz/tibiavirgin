@@ -1,0 +1,55 @@
+ID              = 8318160
+Name            = "Almada"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,39-94-94-0)
+CurrentOutfit   = (137,39-94-94-0)
+LastLogin       = 1147743142
+LastLogout      = 1147743148
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,144284,0,156200,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,373404,1100,392762,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,7233,1500,7488,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,49,1800,84,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3572,1800,3763,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,13568,1800,22252,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,69,1800,140,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,697,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1755,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,8,9,10,15,16,17,18,28,29,30,42,44,45}
+QuestValues = {(16,1),(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(59,1),(60,1),(109,1),(125,1),(126,1),(153,1),(190,1),(191,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2865 Content={3147, 3147, 3147, 3147, 3425, 3492 Amount=20, 3483, 3147, 3147, 3147, 3031 Amount=30}},
+               4 Content={3358},
+               6 Content={3070},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3003, 3577 Amount=3, 3578 Amount=10, 3447 Amount=10, 3350, 3502 Content={}}, 
+               1 Content={2853 Content={}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}, 2853 Content={2853 Content={}}}}}}}}}}, 3507 String="Almada\ncarlin"}, 3502 Content={2853 Content={2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}}}}, 
+               2 Content={3504 Content={3093, 3093, 3507 String="almada\nkazordoon" Editor="Reyco Arius"}, 3502}, 
+               3 Content={3658, 3504 Content={2991, 3551, 3310, 3327, 3317, 3051 SavedExpireTime=108, 3507 String="hola yo\nIbarra    =:(^.^):= es pero qe paser fe pati  =*  Bye" Editor="Almada"}, 3003, 3003, 3504 Content={2853, 2853 Content={2853 Content={2853 Content={3358, 3358, 3358, 3358}}}, 3507 String="almada\nab'dendriel" Editor="Fernando almada trylogy"}, 3504 Content={2854 Content={3092, 3264, 3585 Amount=1, 3059, 3092, 3092, 3723 Amount=39, 3384, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3507 String="almada\nab'dendriel" Editor="Fernando almada trylogy"}, 2854 Content={3446 Amount=4, 3264, 2853 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3447 Amount=19}, 3277 Amount=100, 3504 Content={3507 String="Almada\nab'dendriel\n" Editor="Zara Thaf"}, 3504 Content={2865 Content={3147, 3147, 3147}, 3507 String="almada\nab'dendriel" Editor="Fernando almada trylogy"}, 3504 Content={2865}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2868 Content={2853 Content={2853 Content={3447 Amount=4}, 3505 String="venore\n" Editor="Almada"}, 3483, 2854 Content={3483, 3208, 3085 RemainingUses=138, 3483, 3492 Amount=3, 3092}, 3457}, 3504 Content={3504 Content={3507 String="Almada\nAb'dendriel" Editor="Bley mari"}, 3507 String="almada\nab'dendriel" Editor="Fernando almada trylogy"}, 2865 Content={2969 KeyNumber=5000, 2854 Content={3336, 3430, 3559, 3270, 3456, 3559, 3552, 3457, 2955, 3003, 3505, 3505 String="fernando almada hunter \nleave plz\n13 julio2005\n", 3336, 3456}, 2816 String="The story of old Dragons mountain...\nAuthor: Anonymous\n\nIt is said, that near the swamp of the damned there is supposed to be a dragons lair in the mountains north of it. Legends speak about dragons with red scales and a fiery breath, which store great amounts of treasure in their lair. But since nobody will have the courage to go there, it will never be known, if the legends are true.", 3457, 3492 Amount=41}, 3502 Content={3483, 3300, 2868 Content={3734 Amount=1, 3659, 3061, 3457}, 2865, 2857 Content={3658, 3659, 3668, 3658, 2393, 3457, 3085 RemainingUses=199}, 2853 Content={3467, 3270, 2969 KeyNumber=5000, 3587 Amount=3, 2955, 3454, 3459, 3658}, 3336, 3505 String="nfbvgsebfjdzghdgtrGBFYEWGBA", 2854 Content={3374, 3337, 3277 Amount=4, 3457, 1781 Amount=3, 3457, 3559}, 2867 Content={3412, 2853 Content={3042 Amount=21, 3050, 3050, 2955, 3658, 3597 Amount=4}, 2870 Content={2818 String="Identification Card\n \ndragon scale fork y mady mitewel por este derecho del gobierno estan cazados hombre a mujer\n\n\ny nadien los puede separa y siempre seran marido y mujer\n", 3052 SavedExpireTime=38, 3078, 2949, 3668, 3668, 2950, 3668, 3668, 3658, 2949, 3659, 3658, 3083 RemainingUses=45, 3597 Amount=10, 3017, 3668, 3658}, 3374, 3561, 3457, 3003}}}, 
+               6 Content={3502 Content={}}}

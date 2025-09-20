@@ -1,0 +1,52 @@
+ID              = 13915799
+Name            = "Yuro Karyss"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,116-96-0-114)
+CurrentOutfit   = (128,116-96-0-114)
+LastLogin       = 1147819291
+LastLogout      = 1147847257
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32502,32194,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,300573,0,330400,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,329229,1100,355602,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,507,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22829,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,7,1800,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1459,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,240,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6794,1100,7280,20)
+Skill = (14,0,1200,0,0,0,830,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,1,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,16,17,20,25,27,29,30,42,44}
+QuestValues = {(37,1),(55,1),(109,1),(128,1),(140,1),(141,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3065, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3502 Content={3282, 3069, 3031 Amount=8, 2868 Content={3578 Amount=15, 3351}, 2866 Content={2854, 2854, 2854, 2854, 2854, 2868 Content={2869, 2868}}, 2871 Content={3046, 3585 Amount=1, 3586 Amount=3, 3077, 3046, 3042 Amount=1, 3059, 3059, 3059, 3059, 3061, 3070, 3059}, 2869 Content={3092, 3083 RemainingUses=149, 3085 RemainingUses=200, 3084 RemainingUses=250, 3098, 3084 RemainingUses=250, 3084 RemainingUses=250, 3092, 3092, 3092, 3052, 3085 RemainingUses=200, 3092, 3093 SavedExpireTime=1667}, 2867 Content={3492 Amount=5, 3483, 3003, 3003, 3003, 3483, 3457}, 3035 Amount=49, 2862 Content={2860, 2857}}}}

@@ -1,0 +1,51 @@
+ID              = 8091780
+Name            = "Spirit Valiant"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,59-114-114-0)
+CurrentOutfit   = (128,59-114-114-0)
+LastLogin       = 1146079040
+LastLogout      = 1146079048
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32370,32235,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,19343,0,23200,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,62000,1100,64871,1600)
+Skill = (2,75,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,11,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5058,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,107,2000,150,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4477,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,13,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4944,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10}
+QuestValues = {(27,1),(84,1),(85,1),(86,1),(87,1),(113,1),(114,1),(125,1),(126,1),(217,3),(224,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3504 Content={3507 String="Chats Noir\nEdron" Editor="Spirit Valiant"}, 2821 String="Royal Archives - 943 p.g\n\nConcerns: City graveyard\n\nHRH has ordered an expansion of the city graveyard to the east, due to the increased demand for resting places. It is hoped that the eastward expansion will avoid problems with the undead experienced with previous graveyards closer to the city entrance.", 2816 String="Royal Archives - Inhabitants Log 900-950 p.g\n(incomplete due to fire damages)\n\nHomer Vason, 905-939pg Sunset Homes, Flat B\n\nAlison Farmer,931-942 pg, Sunset Homes, Flat A\n\nThrepwood Guybrush, - 911pg, Sunset Homes,\nFlat C\n\nAlistair Cropwell, 919-930 pg,942-943 pg, Sunset Homes, Flat A\n", 2821 String="Royal Archives - 960 p.g\n\nConcerning: Graveyard rumours\n\nHRH has issued orders that the continuing rumours about a dungeon entrance at the graveyard be publicly denied and then ignored as they are obviously untrue.\n\nNo further action is to be taken.", 3504 Content={3507 String="roka nogar\nedron" Editor="Spirit Valiant"}}},
+               5 Content={2871 Content={2816 String="Royal Archives\n\nAsmalat ovrir gogenol amabat hulut a sese sokol. Gogenol faresmal a sese ican.", 2816 String="Royal Archives Criminal Offences 900 - 950 p.g\n\n900 p.g. Theft of duck by Threpwood Guybrush. Fine of 10 gold.\n\n911 p.g. Attempted assault by Nostradamus Untru. Fine 20 whippings.\n\n911 p.g. Robbery by Homer Vason. Prison sentence of 2 years.\n\n912 p.g. Robbery by Angus Krome. Prison sentence of 3 years.\n\n913 p.g. Assault by Nostradamus Untru. Prison sentence of 1 year.\n\n920 p.g. Burglary by Winston Roper. Prison sentence of 3 years.\n\n925 p.g. Theft by Alison Farmer. Fine of 30 gold.\n\n935 p.g. Poaching by Winston Roper. Fine of 70 gold.\n ", 2816 String="Royal Execution Archives", 2816 String="Royal Execution Archives", 2816 String="Royal Execution Archives 900 - 950 post genesis\n\n900 p.g Hanging of Isaac Brewton for claiming satanic influences rule the course of history. Especial notice is drawn to his assertion that all objects stay in place or move due to lucifer's plans.\n\n912 p.g Execution of Hamilton Fush on the stake for his continuing support of Brewton's thesis. Additional punishment for his claim that child sacrifice could change the course of satan's plans.\n\n913 p.g Hanging of Gabriel Fush, brother of Hamilton Fush, for his public support of his brother.\n\n943 p.g Execution of Alistair Cropwell. Originally in his majesty's service sent to further HRH glory by exploring the world, he became mad and claimed the existence of another empire besides that of our glorious sovereign. Because of his past services he was buried honorably in the graveyard dungeon.\n\n\n\n"}},
+               6 Content={3031 Amount=25},
+               10 Content={2911 SavedExpireTime=1907}}
+
+Depots      = {0 Content={3504 Content={3031 Amount=20, 3507 String="Spirit VAliant\nThais"}, 3504 Content={3507 String="Spirit Valiant\nThais"}, 3502}, 
+               1 Content={3502 Content={}}, 
+               4 Content={3502 Content={3160 Charges=1, 3301, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 
+               6 Content={3502 Content={}}}

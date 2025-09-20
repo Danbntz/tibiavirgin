@@ -1,0 +1,57 @@
+ID              = 12480724
+Name            = "Sorcerer Daron John"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,18-18-18-37)
+CurrentOutfit   = (128,18-18-18-37)
+LastLogin       = 1148252721
+LastLogout      = 1148253023
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32647,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,239622,0,262600,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,190973,1100,193759,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,509,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,27026,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,845,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,132,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,580,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,40,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,15,20,29}
+QuestValues = {(14,1),(16,1),(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(52,1),(53,1),(58,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(93,1),(94,1),(96,1),(97,1),(98,1),(109,1),(113,1),(114,1),(115,1),(125,1),(126,1),(138,1),(139,1),(190,1),(191,1),(192,1),(217,3),(226,1),(253,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2867 Content={3077, 3582 Amount=9, 3723 Amount=8, 3147, 3160 Charges=1, 2872 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3357},
+               5 Content={3073},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3004}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3031 Amount=5, 3035 Amount=2, 3446 Amount=2, 3003, 3504 Content={2865 Content={3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2870 Content={3147, 3148 Charges=2, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2867 Content={3046 SavedExpireTime=2999, 3209, 3308, 2969 KeyNumber=5000, 3457, 2853 Content={3046 SavedExpireTime=2420, 3017, 3030 Amount=2, 3028 Amount=2}, 3456}, 3507 String="sorcerer daron john\nkazordoon" Editor="Sorcerer Daron John"}, 2866 Content={3483, 3282, 2853 Content={3507 String="en donde esta mi BP de Hmm ¬¬¿?¿?¿?¿?\npor eso no pude levelear" Editor="Sorcerer Daron John", 3026 Amount=6, 2970 KeyNumber=4502}, 3384, 3298 Amount=4, 2970 KeyNumber=4501}, 3658, 2970 KeyNumber=4601, 2969 KeyNumber=4600, 2970 KeyNumber=3802, 3492 Amount=45, 2853 Content={3307, 3307, 2870 Content={3097, 2989, 3097, 3059, 3076, 3551, 3551, 2867 Content={3003}, 3129, 3059, 3287 Amount=1, 2969 KeyNumber=3033, 3310, 3003}, 3463}, 3504 Content={2870 Content={3004, 2853 Content={2853 Content={3003}}, 3448 Amount=6, 3447 Amount=66}, 2969 KeyNumber=4055, 3300, 2870 Content={3557, 3557, 3075, 3075, 3075, 3053, 3093, 3093 SavedExpireTime=1743, 3082 RemainingUses=50, 3074, 3085 RemainingUses=200, 3322}, 3507 String="Sorcerer Daron John\nkazordoon\n" Editor="Sorcerer Daron John"}, 3504 Content={2974, 3008}, 2473 Content={2854 Content={3316, 2867 Content={2854}, 3097, 3565, 2914 SavedExpireTime=383, 2854, 2970 KeyNumber=4601}}, 2469 Content={3056 RemainingUses=200, 3003, 3289, 3289, 3483, 3483, 2469 Content={2865 Content={3291, 2861 Content={3083 RemainingUses=150, 2857 Content={3083 RemainingUses=150, 3054 RemainingUses=198, 2991, 2991, 3046, 3077, 3046 SavedExpireTime=2999, 3084 RemainingUses=250}}, 2857 Content={3043 Amount=1, 3583 Amount=1}}}, 2854 Content={2870, 3153 Charges=1, 3590 Amount=1}}, 2473 Content={3316, 3012, 3050, 3008, 2970 KeyNumber=3800, 2969 KeyNumber=5000, 3291}, 2471 Content={2868 Content={3505 String="\n" Editor="Sorcerer Daron John", 3454, 2985, 3453}, 3097 SavedExpireTime=2644, 3603 Amount=26, 3483, 2853 Content={2853 Content={2853 Content={3310, 3310}}}}, 2469 Content={3362, 2893, 3599 Amount=8}, 3502 Content={2872 Content={2872, 2872, 2872, 2872, 2872}, 3457, 2970 KeyNumber=3802, 3457}}, 
+               3 Content={3502}, 
+               6 Content={3502}}

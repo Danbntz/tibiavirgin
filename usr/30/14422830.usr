@@ -1,0 +1,54 @@
+ID              = 14422830
+Name            = "Tiofilo Pancracio"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-0-0-0)
+CurrentOutfit   = (128,0-0-0-0)
+LastLogin       = 1147819234
+LastLogout      = 1147821936
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32613,32462,9]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,49709,0,57600,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,34906,1100,39236,1600)
+Skill = (2,135,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,147,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8083,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1620,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,79,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,27,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,10,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(55,1),(140,1),(141,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=198},
+               3 Content={2854 Content={3031 Amount=39, 2854 Content={3031 Amount=100}, 3586 Amount=2, 3097, 3003, 2854 Content={3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 2867 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}}, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3377},
+               5 Content={3409},
+               6 Content={3075},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={2968 KeyNumber=3940, 3147, 3147, 3147, 3147, 3147, 3074, 3503 Content={3507}, 3537, 3537, 3286, 3504 Content={3507 String="Tiofilo Pancracio\nthais" Editor="Maracu el papi", 3031 Amount=100, 2853 Content={3031 Amount=100, 3174 Charges=5, 3031 Amount=100, 3031 Amount=100, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3}}, 3504 Content={3504 Content={3504, 3507 String="Tiofilo Pancracio\nthais" Editor="Tiofilo Pancracio"}, 3504 Content={3507 String="Tiofilo Pancracio\nthais" Editor="Tiofilo Pancracio"}, 3507 String="Tiofilo Pancracio\nthais" Editor="Tiofilo Pancracio"}, 2969 KeyNumber=3600, 3093, 3083 RemainingUses=150, 3457, 3446 Amount=32, 3502 Content={3031 Amount=12, 3035 Amount=2, 3031 Amount=45, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               2 Content={3502}, 
+               6 Content={3031 Amount=25, 3031 Amount=100, 3031 Amount=100, 3457, 2969 KeyNumber=4603, 3483, 2969 KeyNumber=4600, 3502}}

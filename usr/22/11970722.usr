@@ -1,0 +1,57 @@
+ID              = 11970722
+Name            = "Olan the dark garrobo"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,114-114-114-40)
+CurrentOutfit   = (134,114-114-114-40)
+LastLogin       = 1148259320
+LastLogout      = 1148259366
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32072,7]
+PlayerkillerEnd = 1149052538
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,164423,0,179400,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,60393,1400,78644,1600)
+Skill = (2,278,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,10,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,25970,1100,27102,100)
+Skill = (7,46,0,10,0,0,0,0,0,0,0,9214,1100,9901,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,90,1200,109,50)
+Skill = (9,31,0,10,0,0,0,0,0,0,0,12674,1200,13551,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,59,1200,109,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,787,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,111,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,15,20,29,42,49,51}
+QuestValues = {(32,1),(33,1),(34,1),(55,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(115,1),(140,1),(141,1),(190,1),(191,1),(217,3),(302,1),(332,1)}
+Murders     = {1146450470,1146452305,1146460538}
+
+Inventory   = {3 Content={2866 Content={3031 Amount=40, 3457, 3003}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3446 Amount=33}}
+
+Depots      = {0 Content={3502 Content={3421, 3305, 3286, 3483, 3003}}, 
+               1 Content={3502 Content={3377, 3372, 3277 Amount=2, 3377, 1781 Amount=1}}, 
+               2 Content={3504 Content={3507 String="olan the dark garrobo\nkazordoon" Editor="Oxsly", 3582 Amount=5}, 3502 Content={3375, 3446 Amount=4}}, 
+               3 Content={3504 Content={2853, 3507 String="Olan the dark garrobo\nab'dendriel"}, 3502}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={2853 Content={3377}, 3375, 2853, 3377, 3377, 3377, 3377}}, 
+               6 Content={3504 Content={3507 String="olan the dark garrobo\nVenore" Editor="Rutilanus"}, 3504 Content={3507 String="olan the dark garrobo\nvenore" Editor="Zekhet"}, 2482 Content={2870 Content={3098 SavedExpireTime=449, 3097 SavedExpireTime=3599, 3097, 3012, 3046 SavedExpireTime=2921, 3097, 3045 RemainingUses=174, 3008, 3050, 3056 RemainingUses=200, 3012, 3085 RemainingUses=200, 3004, 3083 RemainingUses=149}, 2867 Content={3561, 3559, 3374}, 2854 Content={3337, 3305, 3300, 3264, 3285, 3308, 3276}, 2865 Content={3590 Amount=3, 3085 RemainingUses=194, 3509, 2968 KeyNumber=3940, 2969 KeyNumber=4600, 2855 Content={2656, 3598 Amount=4}}, 2854, 2866 Content={3285, 3045 RemainingUses=195, 3083 RemainingUses=48, 3483, 3285, 3046 SavedExpireTime=767, 3097, 3045 RemainingUses=200, 3059, 2969 KeyNumber=3033, 2853 Content={3425, 3097 SavedExpireTime=1625, 3425, 2853 Content={3421, 2853 Content={3411, 3354, 3354, 3411, 2853 Content={3354, 2853 Content={3411, 3411, 3411, 3354}}}}, 2853 Content={3276, 3276, 3276}}, 3308, 2920 SavedExpireTime=585}, 2867 Content={3056 RemainingUses=200, 3050 SavedExpireTime=1797, 2853 Content={2969 KeyNumber=4603, 3084 RemainingUses=250}, 2969 KeyNumber=4055}, 2854 Content={2914 SavedExpireTime=1406, 2874, 2853 Content={3446 Amount=8, 3457, 3003, 3045 RemainingUses=200}, 3725 Amount=20, 3097 SavedExpireTime=3280, 3003, 3456, 3483}, 2854}, 2656, 2472 Content={3738 Amount=1, 3506 String="Olan the dark garrobo\nvenore\n\nwey estas hunted por  rafa el cacher de la uvm asi que deja que te vea te mato  asi que cuidate por que te estoy vigilando  jajajajajjajajajajajajajajaajjajajajaja\nse donde vives nadie te va a yudar" Editor="Rafita devil", 2481, 2857 Content={3430, 3411, 3409}}, 2472 Content={2859, 2816 String="\"INTERESTING FACTS ABOUT KAZORDOON issue 1 \nAuthor: John Barrel \nOnce upon a time there came a horrible snakelike beeing to the deeper mines. It killed many miners, because that 'snake' was a bassilsk horrible beeing with a gaze that could turn living beeings into stone. Many heroes tried to kill it but none suceeded, some fled, most died.  One day a wise man which name is forgotten. (I did many studies but i looks like for some reason none wrote down his name) He had some knowledge about theese horrible creatures. He advised the miners to cover the minewalls with torches and lamps. Scared by the dispised bright light the basilisk retreated deeper and deeper into the mines until the mines managed to create a cave in behind him. If the miners I talked to did not make fun of me we have to assume that the bassilsk is still there...\"", 2853 Content={2857}, 2816 String="Dwarven Magic II\nBy Marokin \nFloatation \nThis spell will one day allow any dwarf that may not be a good swimmer the ability to almost walk on water. What we found out you would probably need are the remains of a slain stone golem, the branch of a willow, the wing of a wasp, and a flask full of slime. Pour the slime into a cold cauldron and add in the other ingrediants into the cauldron and boil it. This seems to be the base of a powerful potion, though the finalization and the spells needed to enchant it are still a riddle to be solved.\n", 2481 Content={2854 Content={3293, 3453, 2970 KeyNumber=4601, 2969 KeyNumber=5000, 3483, 3483, 3483}, 2868 Content={2914 SavedExpireTime=1177, 3469, 3464, 3304, 3602 Amount=2, 3595 Amount=1, 3472, 2989, 3463, 2949, 3547 Amount=5, 3548 Amount=5}, 2866 Content={3012, 3084 RemainingUses=250, 3074, 3046 SavedExpireTime=2013, 3046 SavedExpireTime=1700, 3059, 3059}}, 2473 Content={2854 Content={3374, 3300, 3289, 3289, 3289, 3289, 3338}}}, 2969 KeyNumber=3600, 3658, 2856 Content={2659, 3352}, 3483, 2667, 2659, 2472 Content={3207 Amount=1, 2853, 2853, 3441, 2839 String="Hola que onda como estan todos" Editor="Halist", 3285, 2867 Content={3483, 3097 SavedExpireTime=3594, 3097, 3054 RemainingUses=1, 3056 RemainingUses=200, 3559}}, 2872 Content={3457, 2816 String="War of Welcome Begins \nIt happened suddenly one morning. A group of Dwarves were passing by the Orc territory outside their mountain. They were on their way to Thais to sell off some of their jewels of the mountain. The orcs tried to ambush them but falied. The dwarves reacted quick and by valor and superior equipment defeated the raiders. This ensued the War of Welcome. After this incident the dwarves who claimed that the time had come to stand up for their beliefs and their treasure got the proof they needed to convince their brethren and sisters of their cause.  The orcs would not retreat though and prepared themselfes for war. After a year of battle the orcs were finaly crushed and the tribe scattered. The dwarves now again claimed dominance over the heart of the continent and all the land that 'where under the shadow of the big old one'. The humans of the thaian kingdom became allys to the dwarfen empires soon after theese wars and trade flourished. ", 2853 Content={2853 Content={2667, 2659, 3586 Amount=10}, 2857 Content={3300, 3378, 2989, 3441, 3083 RemainingUses=150, 3457}, 2853 Content={3463, 3012, 2906, 3093 SavedExpireTime=1657}}, 2853 Content={2872 Content={3354, 3735 Amount=1, 3454, 2640, 2659, 2659, 2472 Content={3003, 2969 KeyNumber=3620, 2970 KeyNumber=4503, 2970 KeyNumber=3899, 2970 KeyNumber=3802, 2969 KeyNumber=3650, 3031 Amount=8, 3492 Amount=4, 3354, 3354, 3410, 3410, 3505 String="Sr Olan Dark Garrobo:\n\nNos metimos arobar a su cuarto pero debido a que no vimos nada bueno dejamos todo espero que la proxima ves que deje abierta la puerta deje algo mejor \n\nATTTE:\nEl Incognito \n\nP.D. no fuimos ni chino ni el chelo ni chente.\n" Editor="Neospav"}, 2667, 3277 Amount=2, 2659, 2667, 3410, 2857 Content={3289, 2853 Content={3593, 3596 Amount=10, 3592, 3592}, 3083 RemainingUses=150}, 2859 Content={3083 RemainingUses=150, 3308, 3097 SavedExpireTime=3364, 3308}}, 3449 Amount=1, 3587 Amount=9, 2659, 3059}}, 2867 Content={2901 ContainerLiquidType=2}, 3004, 3084 RemainingUses=233, 3502 Content={4871, 3552, 3559, 3409, 3059, 3003, 2871, 3350, 2868 Content={3350, 3350, 3350, 3350, 3349, 3349, 3349, 3350, 3349}, 2854 Content={3349}, 2868 Content={3349, 3413, 3282, 3375, 3430, 3277 Amount=6, 3375, 3046, 3409, 3448 Amount=15, 3277 Amount=79, 3448 Amount=100, 1781 Amount=38}, 2857 Content={3097 SavedExpireTime=1346}, 3506 String="Olan the dark garrobo\nvenore\nolan asme vice de tu guild si no se desaparese o asme lider de la guild es mejor asi yo te ayudo pero ya invita  me rapido de parte de rafita devil acuerdate de poner a dracias fendar q esta protegido por nullx\n" Editor="Rafita devil", 3085 RemainingUses=158, 2854, 3093, 3093}}, 
+               8 Content={3502 Content={3457}}}

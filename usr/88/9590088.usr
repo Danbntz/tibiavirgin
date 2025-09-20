@@ -1,0 +1,57 @@
+ID              = 9590088
+Name            = "Master van Demonic"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-114-114-114)
+CurrentOutfit   = (129,79-114-114-114)
+LastLogin       = 1148060533
+LastLogout      = 1148060616
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32611,31957,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,390356,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,77027,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,145,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,37391,1100,40144,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,29030,1100,29620,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,81,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,90,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,681,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,49,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(37,1),(54,1),(55,1),(60,1),(61,1),(69,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(113,1),(114,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(192,1),(206,1),(217,3),(223,1),(224,1),(226,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3447 Amount=10, 3577 Amount=7, 2955, 3349, 3591 Amount=24, 3587 Amount=26, 3003, 3446 Amount=27, 2854 Content={3031 Amount=100, 3054 RemainingUses=158}, 2920, 3457}},
+               4 Content={3357},
+               5 Content={3280},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3031 Amount=77}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3308, 3308, 3285, 3502}, 
+               2 Content={3502 Content={2853}}, 
+               3 Content={3506 String="master van demonic \nab'dendriel\nobraziles sie  na mnie??????????????????????????????????????????????????????????????????????????????????????????????" Editor="Sylwia the zanera", 3506 String="master van demonic\nab'dendriel\nz nikim sie niechce pobrac a co ty chcesz?" Editor="Sylwia the zanera", 3736 Amount=1, 3502 Content={2854 Content={2854 Content={3046 SavedExpireTime=53, 3046 SavedExpireTime=1883, 3059, 3059, 3059, 3059, 3059, 3059, 2902}, 2854 Content={3447 Amount=24, 3447 Amount=100}, 2854 Content={3056 RemainingUses=200, 3056 RemainingUses=198, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 3008, 3008, 3012, 3012, 3054 RemainingUses=200}, 2869 Content={2868 Content={3446 Amount=14, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2868 Content={2973 KeyNumber=3520, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=5000, 2969 KeyNumber=4055, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=4055, 2970 KeyNumber=4503, 2970 KeyNumber=4503, 2970 KeyNumber=4503}, 2868 Content={3350, 3350, 3350}, 2868 Content={2853 Content={3505 String="Serdecznie zapraszam cie Mac'Garg na moja uroczystosc zareczynowa z Sylwia the Zanera ktora odbedzie sie w knajpie na wyspie SENJA serdecznie zapraszam!!!!!!!!! PREZETY MILEWIDZIANE:)\n\nMac'Garg\nCarlin" Editor="Master van Demonic", 3505 String="Serdecznie zapraszam cie Mac'Garg na moja uroczystosc zareczynowa z Sylwia the Zanera ktora odbedzie sie w knajpie na wyspie SENJA serdecznie zapraszam!!!!!!!!! PREZETY MILEWIDZIANE:)\n\nMac'Garg\nAb'Dendriel" Editor="Master van Demonic", 3505 String="Serdecznie zapraszam cie Smerf Leader na moja uroczystosc zareczynowa z Sylwia the Zanera ktora odbedzie sie w knajpie na wyspie SENJA serdecznie zapraszam!!!!!!!!! PREZETY MILEWIDZIANE:)\n\nSmerf Leader\nCarlin" Editor="Master van Demonic", 3505 String="Serdecznie zapraszam cie Smerf Leader na moja uroczystosc zareczynowa z Sylwia the Zanera ktora odbedzie sie w knajpie na wyspie SENJA serdecznie zapraszam!!!!!!!!! PREZETY MILEWIDZIANE:)\n\nSmerf Leader\nAb'Dendriel" Editor="Master van Demonic", 3505 String="Serdecznie zapraszam cie Shaman Ami da Maru na moja uroczystosc zareczynowa z Sylwia the Zanera ktora odbedzie sie w knajpie na wyspie SENJA serdecznie zapraszam!!!!!!!!! PREZETY MILEWIDZIANE:)" Editor="Master van Demonic", 3505 String="\n" Editor="Zyder Uniaka", 3505 String="lovin u not goin down hole cause im huntin\n" Editor="Zeirn Amormil", 3505}, 2656, 2659}, 2868 Content={3266, 3289, 3305, 3266, 3269, 3299, 3299, 3307, 3316}, 2868 Content={3004, 3004, 3093, 3093, 3092}, 2865 Content={2920, 3552, 3453, 3483}, 3582 Amount=3, 3583 Amount=3, 3035 Amount=38, 3282, 3266, 3266, 3425, 3505, 3147, 2874, 3277 Amount=14, 3421}, 3448 Amount=8, 3449 Amount=14}}}, 
+               6 Content={3502}}

@@ -1,0 +1,55 @@
+ID              = 13986192
+Name            = "Princesa de las Sombras"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (142,114-15-92-16)
+CurrentOutfit   = (142,114-15-92-16)
+LastLogin       = 1148076161
+LastLogout      = 1148076332
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33172,31813,8]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,32112,0,37800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,16924,1100,18297,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,155,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16337,1500,17099,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,429,2000,450,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,4666,2000,6350,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,67,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,202,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,11,20,26,29,44,76,81,87,88,89}
+QuestValues = {(18,1),(20,1),(35,1),(86,1),(87,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=47, 3003}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3551}}
+
+Depots      = {1 Content={3504 Content={3507 String="Princesa de las Sombras\nCarlin\n" Editor="Dark yeka"}, 3502}, 
+               4 Content={3504 Content={3507 String="Princesa de las Sombras\nEdron\n" Editor="Lady Abish"}, 3504 Content={3507 String="Princesa de las Sombras\nEdron\n" Editor="Dark yeka"}, 3502 Content={3074, 3054 RemainingUses=184, 3003, 2877 ContainerLiquidType=12, 3552, 3083 RemainingUses=150, 3457}}, 
+               5 Content={3504 Content={3411, 3507 String="Princesa de las Sombras\nDarashia\n" Editor="Dark yeka"}, 3504 Content={3377, 3507 String="Princesa de las Sombras\nDarashia" Editor="Dark yeka"}, 3504 Content={3375, 3507 String="Princesa de las Sombras\nDarashia\n" Editor="Dark yeka"}, 3504 Content={3507 String="Princesa de las Sombras \nDarashia" Editor="Dark yeka"}, 3504 Content={2866, 3559, 3378, 3507 String="Darashia\nDArk yekA\n" Editor="Princesa de las Sombras"}, 3502 Content={2854 Content={2866}}}, 
+               7 Content={3504 Content={3507 String="Princesa de las Sombras\nAnkrahmun\n" Editor="Dark yeka"}, 3502 Content={3507 Editor="Dread Elder", 3031 Amount=9, 3582 Amount=3}}}

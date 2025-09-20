@@ -1,0 +1,54 @@
+ID              = 8496174
+Name            = "Benedicto-valorizado"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,121-87-19-88)
+CurrentOutfit   = (129,121-87-19-88)
+LastLogin       = 1146971711
+LastLogout      = 1146971715
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31784,6]
+PlayerkillerEnd = 0
+
+Skill = (0,6,0,1,0,0,0,0,0,0,1,1802,0,2600,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,1033,1400,1600,1600)
+Skill = (2,33,165,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,75,75,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,430,430,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,23,1100,100,100)
+Skill = (7,18,0,10,0,0,0,0,0,0,0,406,1100,407,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,15,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,11,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,10,15,29,42,51}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(29,1),(30,1),(33,1),(34,1),(35,1),(58,1),(93,1),(94,1),(95,1),(115,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3421, 2920 SavedExpireTime=117}},
+               4 Content={3358},
+               5 Content={3430},
+               7 Content={3362},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3507 String="lucifer fulan\nvenore\n", 3466, 3003}, 3507 String="benedicto-valorizado\nthais", 3282, 3483, 3503 Content={3507}, 3507 String="benedicto-valorizado\nthais"}, 3502 Content={3349, 3349, 3050, 3056 RemainingUses=200, 3452}}, 
+               1 Content={3031 Amount=22, 3502 Content={3352, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2983, 2981, 2981, 3003}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2911 SavedExpireTime=302, 3056 RemainingUses=200, 3502 Content={2854, 2867, 3017, 2859, 2969 KeyNumber=3033, 3483, 2920, 2920, 2920 SavedExpireTime=599, 2873}}, 
+               6 Content={3062, 3504 Content={3507 String="benedicto-valorizado\nvenore" Editor="Arcus Leven"}, 3017, 3003, 3502 Content={2949}}}

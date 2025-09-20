@@ -1,0 +1,55 @@
+ID              = 13234411
+Name            = "Azakia"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-132-114-114)
+CurrentOutfit   = (129,114-132-114-114)
+LastLogin       = 1147885982
+LastLogout      = 1147886890
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32794,31936,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,195653,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,70603,3000,193600,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,33,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,54991,1100,59240,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,56,0,10,0,0,0,0,0,0,0,40334,1100,43598,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,128,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,123,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,0,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,8,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(35,1),(59,1),(96,1),(97,1),(98,1),(106,1),(107,1),(121,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3012},
+               3 Content={2867 Content={3031 Amount=2}},
+               4 Content={3370},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="Azakia\nthais" Editor="Slayer Dan"}, 3502}, 
+               1 Content={3337, 3502}, 
+               2 Content={3504 Content={3457, 3507 String="Azakia\nKazordoon" Editor="Gab-Doom"}, 3502}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2854 Content={3483}, 2867, 2854 Content={3003}, 2854 Content={3155 Charges=1, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian"}, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410}, 2853 Content={3492 Amount=52, 3577 Amount=34, 3582 Amount=26}, 2853 Content={3354}, 2854 Content={3052, 3031 Amount=16, 3035 Amount=35, 3035 Amount=100}, 2853 Content={3293, 3308, 3308, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 3084 RemainingUses=250, 3046}, 2853 Content={3164 Charges=3}, 2857 Content={3375, 3353, 3351, 3357, 3375, 3375}, 2853 Content={3272, 3285, 3277 Amount=10, 3264, 3267, 3074, 3291}, 2853 Content={3305}}}}

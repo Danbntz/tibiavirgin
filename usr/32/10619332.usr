@@ -1,0 +1,58 @@
+ID              = 10619332
+Name            = "Dixson"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,18-114-114-18)
+CurrentOutfit   = (134,18-114-114-18)
+LastLogin       = 1148258576
+LastLogout      = 1148258581
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33172,31811,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,870171,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,197786,3000,582400,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,167,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,118656,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,15,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,36,1100,50,50)
+Skill = (9,63,0,10,0,0,0,0,0,0,0,80358,1100,85435,50)
+Skill = (10,20,0,10,0,0,0,0,0,0,0,904,1100,926,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,83,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,841,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,66,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80}
+QuestValues = {(14,1),(15,1),(21,1),(22,1),(23,1),(59,1),(69,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(106,1),(107,1),(137,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(214,1),(217,3),(223,1),(224,1),(257,1),(324,1),(332,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3031 Amount=4, 2853, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="dixson\nthais" Editor="Ingeshu"}, 3504 Content={2870 Content={2870}, 3507 String="dixson\nthais" Editor="Dixson"}, 3504 Content={3492 Amount=14, 2870 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2870}, 3507 String="dixson\nthais" Editor="Ingeshu"}, 3504 Content={3507 String="dixson \nthais" Editor="Ingeshu", 3003}, 3504 Content={3507 String="dixson\nthais" Editor="Ingeshu"}, 3504 Content={2870 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3349, 3349, 3349, 3349}, 3507 String="dixson\nthais" Editor="Dixson"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3349, 3092, 3349}, 3377}, 3377}, 3377}, 3377, 3377, 3377}, 3377, 3377}, 3349, 3349}, 3507 String="dixson\nthais" Editor="Dixson"}, 3504 Content={2870, 3507 String="dixson\nthais" Editor="Dixson"}, 3276, 3504 Content={3507 String="dixson\nthais" Editor="Dixson"}, 3504 Content={2870 Content={2870 Content={2867 Content={3377, 3377, 3377, 3377, 2853 Content={2853 Content={2853 Content={2853}, 3377}}, 2853 Content={2853}}}}, 3507 String="dixson\nthais\n" Editor="Dixson"}, 3504 Content={2469 Content={3052 SavedExpireTime=1142, 3588 Amount=46, 3027 Amount=2, 3492 Amount=66}, 3507 String="dixson\nthais" Editor="Dixson"}, 3504 Content={2869 Content={2870 Content={2865}}}, 3504 Content={2854 Content={2854 Content={2870}, 2865}, 3507 String="dixson\nthais"}, 3502}, 
+               1 Content={3492 Amount=100, 3504 Content={3411, 3559, 3358, 3507 String="dixson\ncarlin"}, 3502}, 
+               2 Content={3599 Amount=8, 2991, 2396, 3091, 2397, 2866 Content={3298 Amount=5, 2920 SavedExpireTime=599, 3457, 3279, 3378, 3093 SavedExpireTime=1158, 3097}, 2870 Content={2656, 2656, 2656, 2656, 2656, 2656, 4871, 3457, 2949, 2949, 2949, 3046 SavedExpireTime=1801, 2949, 3492 Amount=100, 3492 Amount=100, 3077, 2395, 3097, 2394, 3097}, 2469 Content={2469 Content={2869, 3349, 3349, 2818 Editor="Dixson", 2870 Content={3298 Amount=1, 2656, 2656, 3046 SavedExpireTime=2995, 3046, 2949, 3093 SavedExpireTime=89}, 2870 Content={3264, 3446 Amount=8, 3552, 2893, 3661, 2870 Content={3588 Amount=5, 2469 Content={2872 Content={2871 Content={2469 Content={2864, 3447 Amount=10, 2864, 2469 Content={3598 Amount=17, 3084 RemainingUses=250, 2862, 2469, 2469, 3084 RemainingUses=250, 3083 RemainingUses=150, 3076, 2970 KeyNumber=3899}, 2469, 3084 RemainingUses=244, 2469}, 3307, 2854 Content={2865, 2870 Content={2864, 3287 Amount=2, 2872 Content={2872 Content={3129, 2853 Content={3330, 3330, 3330}, 3130}}}}, 3457, 2853}, 2854, 2854 Content={3345}, 2854 Content={4871, 3345}, 2854 Content={3588 Amount=5, 2833 String="Report 67ABFG33\nCaptains report an increased activity of pirates on the routes from Port Hope to Thais and Venore. I support the traders' demand that the king should intervene. A well armed warship with some experienced fighters would not only secure the routes, but also boost our line of defence in Port Hope. With their support we could fight back such enemies like the ape men - or even capture Trapwood, an area rich in bamboo that is populated by those murderous dworcs. ", 3441}, 2864, 2868 Content={3077}}}, 2469 Content={2469 Content={2469}, 2469 Content={2469}, 2469 Content={2469}, 2469 Content={3050, 3097, 3092, 3097}}, 2469, 2469 Content={2469, 2469 Content={2469, 3447 Amount=2}, 2469, 2469}, 2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469}, 2870 Content={3345, 3588 Amount=5, 2870 Content={2868 Content={3444, 2469, 2469, 2469, 3444, 2970 KeyNumber=3802}, 3587 Amount=50, 3345, 3017, 3345, 3345, 3017}, 2870 Content={2870 Content={2870}}}}}}, 2656, 2656, 2656, 2656, 2656, 2656, 3589 Amount=18, 4839}, 2870 Content={2393, 2393, 3042 Amount=5, 2395, 3287 Amount=1, 3591 Amount=12, 3052, 2393, 2393, 2968 KeyNumber=3940, 4871, 4871, 2968 KeyNumber=3940, 3658, 2656, 2656, 2656}, 3279, 3588 Amount=69, 3588 Amount=70, 3588 Amount=100, 3588 Amount=100, 3588 Amount=60, 3588 Amount=100, 3659, 2656, 2656, 2656, 3588 Amount=100, 2870 Content={2829 String="The Chronicles of Daraman V\n\nGabel told Daraman of the visions and dreams that haunted him and asked Daraman for advice. So Daraman asked him to open up his soul for him to see. And Gabel opened his heart and soul to him. When Daraman had seen deep into Gabel's soul he understood the pain and the confusion that lay hidden deep inside it, and he wept bitter tears of pity for Gabel and for the whole of his race, for he saw that the djinn were a forlorn race that had been cast away by its creator. So full of divine compassion were his tears that they froze into immaculate gemstones of pure blue crystal as soon as they left his eyes. It is said that that springs of clear freshwater sprang forth from the earth wherever one of them hit the ground. ", 3593, 3177 Charges=1}, 2870 Content={2656, 2664 RemainingExpireTime=513, 2656, 2656, 2656, 2656, 2656, 2974, 3188 Charges=3, 3191 Charges=2, 3593}, 2870 Content={3003}, 2870 Content={2831 String="The Djinn Wars III - The Great Battle, Pt. 2\n\nA number of Marid was caught and slaughtered on the spot, but much to Malor's disappointment the majority of Gabel's troops managed to escape southwards in what appeared to be a well-planned strategic withdrawal. And how much greater was his surprise to find that the Marid fled to the city of Ankrahmun where they appeared were expected! It was then that he realised that Gabel had suspected a ruse all along, and that he had prepared a counterstrategy. Malor immediately ordered his troops to abandon pursuit, but it was too late. The undead marched against Ankrahmun with all the determination of a mindless killing machine, and the Efreet, blinded by rage, did not lag behind, only to be met by ceaseless barrages of arrows and catapult stones. A cataclysmic battle ensued.  \nWave after wave of undead and Efreet stormed against Ankrahmun, and wave after wave broke at the huge fortifications of the ancient city. Both the Marid and the humans were well-prepared for this battle, and even though Malor's army wreaked havoc they never yielded. "}, 3502 Content={2870, 2870 Content={2870}, 3446 Amount=52, 3446 Amount=100, 2866 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2870 Content={2870}, 2870 Content={3093, 2854 Content={2870 Content={2870 Content={2870 Content={2870}}}}}, 2870, 2870 Content={2870 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3046 SavedExpireTime=2985, 3658, 3658, 3658}}}, 
+               3 Content={3504, 3504 Content={3507 String="DIXSON\nAB'DENDRIEL" Editor="Ingeshu"}, 3504 Content={2870, 3507 String="dixson\nab'dendriel" Editor="Ingeshu"}, 3504 Content={3507 String="dixson\nab'dendriel" Editor="Ingeshu"}, 3504 Content={3507 String="dixson\nab'dendriel" Editor="Ingeshu"}, 3504, 3504 Content={3507 String="dixson\nab'dendriel" Editor="Ingeshu"}, 3504 Content={2870 Content={2870}, 3507 String="dixson\nab'dendriel" Editor="Dixson"}, 3504 Content={2870 Content={2870 Content={3092}}, 2870 Content={2870 Content={2870}}}, 2870, 3504 Content={2867 Content={2870 Content={2870 Content={2870 Content={2854}}}}, 3507 String="dixson\nab'dendriel" Editor="Dixson"}, 3350, 3502}, 
+               4 Content={2866, 2866, 2861 Content={3270, 3430, 3378, 3270, 3310, 3430}, 2861, 3092, 3502 Content={2870 Content={2870 Content={2854}}}}, 
+               5 Content={3504 Content={3507 String="dixson\ndarashia" Editor="Ingeshu"}, 2853 Content={2863 Content={2870}}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="dixson\nankrahmun" Editor="Ingeshu"}, 2862, 3504 Content={3507 String="dixson\nankrahmun" Editor="Ryth-Molino"}, 2863 Content={3349, 2857 Content={3286, 3274, 3050 SavedExpireTime=1797}}, 2868 Content={2854, 2870}, 3502 Content={3505 String="dixson \nHunting here\nPlx respet" Editor="Dixson"}}, 
+               8 Content={3504 Content={3507 String="dixson\nport hope" Editor="Ingeshu"}, 2864, 2870 Content={2870 Content={2867}}, 2864, 2469 Content={2469, 2469}, 3502}}

@@ -1,0 +1,50 @@
+ID              = 12671571
+Name            = "Gamma Knight"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (132,21-132-132-132)
+CurrentOutfit   = (132,21-132-132-132)
+LastLogin       = 1147649082
+LastLogout      = 1147649086
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8425,0,9300,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,3996,3000,6400,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,40,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11786,1100,12109,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,288,1100,305,50)
+Skill = (10,40,0,10,0,0,0,0,0,0,0,8787,1100,9097,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,3,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,372,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10}
+QuestValues = {(224,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2854 Content={3072, 3074, 3410, 2991, 3003}},
+               4 Content={3358},
+               6 Content={3421}}
+
+Depots      = {3 Content={2853, 2853, 2393, 2393, 2393, 3492 Amount=1, 2854, 3268, 2667, 3492 Amount=1, 2865 Content={3504, 3504 Content={3507 String="elysitax\nthais" Editor="Elysitax"}, 3504, 3658, 3658}, 3056 RemainingUses=200, 3017, 2656, 3031 Amount=1, 2920 SavedExpireTime=552, 3114 Amount=2, 2853 Content={2853 Content={3483, 3354, 3354}, 3273, 3273, 3273, 3410, 3410, 3410, 3352}, 3114 Amount=2, 3277 Amount=1, 2920, 3114 Amount=2, 2853, 3504 Content={3504 Content={3507 String="choco leche\nab'dendriel" Editor="Andrej Manuel"}, 3507 String="burn'tiesto\nab'dendriel" Editor="Caldo de poillo"}, 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 1\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 1\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 1\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 1\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1495 gold\nfor your house \"Underwood 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3504 Content={3507 String="Gamma Knight\nAb'dendriel\n" Editor="Wingerah Farlylann"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Underwood 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="gamma knight\nab'dendriel" Editor="Angel-Gabriel"}, 3504 Content={3507 String="gamma knight\nab'dendriel" Editor="Angel-Gabriel"}, 3504 Content={3507 String="gamma knight\nab'dendriel" Editor="Dark Draikon"}, 3084 RemainingUses=250, 3378, 3502}, 
+               4 Content={3504 Content={3507 String="gamma knight\nedron" Editor="Angel-Gabriel"}, 3502}, 
+               5 Content={3502}}

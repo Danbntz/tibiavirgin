@@ -1,0 +1,55 @@
+ID              = 8558600
+Name            = "Thra Maum"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,86-114-114-114)
+CurrentOutfit   = (129,86-114-114-114)
+LastLogin       = 1146833150
+LastLogout      = 1146833162
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32535,31912,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,66169,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,16527,3000,20800,1600)
+Skill = (2,300,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,29,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12264,1100,13420,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,185,1100,232,50)
+Skill = (9,42,0,10,0,0,0,0,0,0,0,10103,1100,11112,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,19,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,369,1100,370,20)
+Skill = (14,0,1200,0,0,0,418,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,32,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,43,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(35,1),(59,1),(60,1),(61,1),(125,1),(126,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3457, 3264, 3003}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3093}}
+
+Depots      = {0 Content={3504 Content={3358, 3358, 3358, 3358, 3358, 3358, 3359, 3358, 3507 String="thra maum \nthais\n" Editor="Thra Maum"}, 3502 Content={2868 Content={3003, 2853 Content={3582 Amount=4, 3590 Amount=1, 3603 Amount=5, 3577 Amount=2, 3588 Amount=17, 3031 Amount=77}}}}, 
+               1 Content={3035 Amount=1, 3031 Amount=34, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3502 Content={2868 Content={3357, 3033 Amount=2, 3028 Amount=1, 3050, 3093 SavedExpireTime=1604, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3425, 3311, 3433, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3503 Content={2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=12}, 2872 Content={3483, 3492 Amount=63}, 2868 Content={3587 Amount=1, 3601 Amount=1, 2853 Content={3588 Amount=15, 3588 Amount=100, 3593, 3593, 3593, 3593}, 3492 Amount=30, 3732 Amount=2, 3492 Amount=50, 3585 Amount=7, 3577 Amount=67, 3590 Amount=27, 3597 Amount=10, 3579 Amount=50, 3723 Amount=10, 3492 Amount=100, 3492 Amount=100, 3578 Amount=70, 3595 Amount=15, 3582 Amount=30, 3602 Amount=25}, 2854 Content={3264, 3457, 3483, 2469}, 2854 Content={2992 Amount=5}, 2853 Content={3349, 3447 Amount=73, 1781 Amount=19, 1781 Amount=100, 3349, 3349}, 2853 Content={2969 KeyNumber=4600, 2973 KeyNumber=3520}, 2853 Content={3084 RemainingUses=250, 3083 RemainingUses=146, 3084 RemainingUses=250, 3084 RemainingUses=250}}}, 
+               3 Content={3502 Content={3585 Amount=2, 3031 Amount=25, 3031 Amount=100, 3003, 3031 Amount=100, 3492 Amount=30, 2853 Content={2853 Content={3447 Amount=12, 3446 Amount=4, 2853 Content={2853 Content={3358, 3358, 3358, 3358, 3358, 3358}, 3354, 3410, 3410}}, 2874, 2874, 2874, 2874}}}, 
+               6 Content={3502}}

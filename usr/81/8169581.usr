@@ -1,0 +1,57 @@
+ID              = 8169581
+Name            = "Fibo el Borracho"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,2-2-114-79)
+CurrentOutfit   = (128,2-2-114-79)
+LastLogin       = 1118101084
+LastLogout      = 1118102138
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,55048,0,57600,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,265520,1100,291109,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,275,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17540,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,12,1800,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,15771,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,275,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5623,1100,5982,20)
+Skill = (14,0,1200,0,0,0,324,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,5,8,12,16,20,29,38,42,45}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(46,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3085 RemainingUses=200},
+               3 Content={2865 Content={3160 Charges=1, 3582 Amount=7, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3311},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {0 Content={3425, 3377, 2865 Content={}, 3504 Content={3507 String="fibo el borracho\nthais\n"}, 3273, 2481 Content={}, 3504 Content={2853 Content={3097 SavedExpireTime=0, 3012}, 3293, 3583 Amount=1, 3507 String="fibo el borracho\nthais\n"}, 3588 Amount=24, 2857 Content={2875 ContainerLiquidType=0, 3572, 3046 SavedExpireTime=0, 3077}, 2865 Content={}, 2869 Content={}, 2869 Content={}, 2869 Content={3289}, 2854 Content={2853 Content={}}, 3506 String="Fibo el Borracho\nthais\n\nCongratulations you gained 3 months of P.A free for the lottery of the CIP Soft.  This is its private code.                                    \"gt44hji67qfo17\"                  sends its private code for the together email                                                                       \"pa_lottery_cipsoft@hotmail.com\" with its account to number and its password.  In 48 hours we will be activating its P.A\n", 3502 Content={2471 Content={3446 Amount=4, 3661, 3509, 2969 KeyNumber=4600, 3003, 2882 ContainerLiquidType=0, 3457}}}, 
+               2 Content={3502 Content={3582 Amount=1}}, 
+               3 Content={3504 Content={3507 String="Kaede Knightheart\nab'dendriel"}, 3504 Content={3507 String="Fibo el Borracho\nab'dendriel"}, 3504 Content={3507 String="Fibo el Borracho\nab'dendriel"}, 3502 Content={3582 Amount=2}}, 
+               6 Content={3502 Content={}}}

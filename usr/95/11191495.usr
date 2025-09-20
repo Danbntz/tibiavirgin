@@ -1,0 +1,47 @@
+ID              = 11191495
+Name            = "Rhir Gentor"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,0-76-114-79)
+CurrentOutfit   = (130,0-76-114-79)
+LastLogin       = 1147786732
+LastLogout      = 1147786737
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32349,32225,5]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,132146,0,135100,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,98525,1100,102403,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,325,325,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17943,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,142,2000,150,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,9256,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,44,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,347,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,15,16,20,22,25,27,29,38,44}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(55,1),(98,1),(100,1),(106,1),(107,1),(125,1),(126,1),(128,1),(140,1),(141,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502 Content={3483, 3492 Amount=3, 3059, 3582 Amount=4, 3003, 3492 Amount=28, 3483, 3377, 2874, 2874, 2874, 2874}}, 
+               1 Content={3502}, 
+               6 Content={3502 Content={3457, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses."}}}

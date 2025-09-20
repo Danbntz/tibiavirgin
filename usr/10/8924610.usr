@@ -1,0 +1,57 @@
+ID              = 8924610
+Name            = "Wurus sortel"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,95-95-95-95)
+CurrentOutfit   = (131,95-95-95-95)
+LastLogin       = 1147853098
+LastLogout      = 1147853202
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33058,32087,9]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,365230,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,140390,3000,193600,1600)
+Skill = (2,500,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,140,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,227899,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,67,0,10,0,0,0,0,0,0,0,125163,1100,125318,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,56,1100,105,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,205,1100,232,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,83,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9095,1100,9757,20)
+Skill = (14,0,1200,0,0,0,357,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,3,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,87,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(35,1),(37,1),(55,1),(59,1),(106,1),(107,1),(140,1),(141,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2868 Content={3503, 3031 Amount=52, 3492 Amount=41, 3031 Amount=100, 3457, 3003, 3483, 2854}},
+               4 Content={3377},
+               5 Content={3416},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3503 Content={3291, 3035 Amount=9}}}
+
+Depots      = {0 Content={3446 Amount=43, 2866 Content={2968 KeyNumber=3940, 3031 Amount=79, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3492 Amount=7, 3492 Amount=82, 3504 Content={3504 Content={3507 String="Tomaszeck\nThais" Editor="Gigois"}, 3504 Content={3507 String="Typhoeux\nThais" Editor="Typhoeux"}, 3504 Content={2853, 3507 String="Vauler\nthais" Editor="Vauler"}}, 3577 Amount=20, 3582 Amount=3, 3492 Amount=100, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920}}, 2854 Content={3367, 2854, 2854, 2854, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3349, 3349, 3291, 3354, 3286, 3354, 3286}}, 3003, 3504 Content={3504, 3483, 3411, 3507 String="Wurus sortel\nThais" Editor="Roxer Senori", 3505 String="Oye we soy Roxer Senori,we hay un ksa grande we pro esta en subasta nesecito el varo para pagarla we!dijismos q entra los dos son 5k mas la oferta son cm 8k we ya ya tengo 6.5 onlo demas tu we antes d q nos la ganen we!avisame si te llego este mensaje we es urgente we!\n" Editor="Roxer Senori"}, 3505, 2473, 2853 Content={3267, 3234, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2970 KeyNumber=4503}, 2854, 2854 Content={3285, 3285, 3285, 3285, 3285, 3285}, 2854 Content={3275, 3275, 3316, 3316}, 2854 Content={3289, 3313, 3289, 3289, 3289}, 3299, 3502 Content={3384, 3370, 3551, 3003, 2853 Content={3283, 3291, 3285, 3559, 3355, 3361, 3412, 3412}, 3457, 2853 Content={3012, 3012, 3012, 3300, 3017}, 2853 Content={2969 KeyNumber=3650}, 2969 KeyNumber=3600}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3504 Content={3507 String="Wurus sortel\nEdron"}, 3502 Content={}}, 
+               5 Content={3502}, 
+               6 Content={3502}}

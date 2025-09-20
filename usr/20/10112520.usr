@@ -1,0 +1,56 @@
+ID              = 10112520
+Name            = "Leonard Terry"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,126-79-101-0)
+CurrentOutfit   = (129,126-79-101-0)
+LastLogin       = 1147500812
+LastLogout      = 1147500839
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32324,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,118136,0,135100,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,29017,3000,64000,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,21541,1100,22225,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,103,1400,130,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,192,1100,232,50)
+Skill = (9,48,0,10,0,0,0,0,0,0,0,18488,1100,20072,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,49,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,57,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,493,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,29}
+QuestValues = {(18,1),(35,1),(60,1),(61,1),(106,1),(107,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2868 Content={3031 Amount=9, 2874, 3577 Amount=1, 2854, 3084 RemainingUses=79, 2874 ContainerLiquidType=11, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3031 Amount=23}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3353, 2969 KeyNumber=4600, 2870, 2867, 2868 Content={3188 Charges=3, 3172 Charges=3, 3174 Charges=3, 3174 Charges=3, 3174 Charges=3, 3172 Charges=2, 3172 Charges=3, 3172 Charges=2, 3188 Charges=1, 3188 Charges=2, 3188 Charges=3, 3188 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3294, 3362, 3362, 3483, 3316, 3003, 3492 Amount=88, 3457}, 2865, 2853 Content={3188 Charges=3, 3270, 3152 Charges=1}, 2862, 2859, 2857, 2860, 3502 Content={3279, 3604 Amount=35, 2873, 3305, 3600 Amount=14, 3586 Amount=1, 2853 Content={3425, 3372, 3092, 2874 ContainerLiquidType=11, 3504 Content={3276, 3410, 3430, 3374, 3362, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2853 Content={3421, 3084 RemainingUses=250, 3056 RemainingUses=200, 3447 Amount=12, 2853 Content={2875 ContainerLiquidType=1, 3453, 3294, 3035 Amount=12, 3031 Amount=1, 3291, 3552, 2839}, 3030 Amount=1, 3028 Amount=1, 2973 KeyNumber=3520}}, 2955, 3492 Amount=3, 3598 Amount=5, 3409, 3054 RemainingUses=200, 3590 Amount=2, 3097, 3097, 3050 SavedExpireTime=1785, 3282, 3492 Amount=100, 3459, 3454, 3559, 2853 Content={3505 String="Senhor Das Espadas\n\nCarlin\n\nentão tá como q se faz pra se desse brazucas????????????????????????????????????????????????????????????????????????????????+ eu vo se do br na veia tbm!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" Editor="Leonard Terry", 3505 String="craw" Editor="Demian Haberkorn", 3505 String="craw" Editor="Demian Haberkorn", 3505, 3505, 3505, 3505}, 2853 Content={3585 Amount=15, 3602 Amount=36, 2992 Amount=5, 3595 Amount=7, 3578 Amount=21, 3723 Amount=82, 3577 Amount=90, 3582 Amount=12}, 2853 Content={3375}, 2853 Content={3412}, 2853 Content={2920, 2920, 3293, 3457, 3456}, 2853 Content={2920 SavedExpireTime=494, 2920}, 2853 Content={3275, 2815 Editor="Dragonices"}}}, 
+               2 Content={3502}, 
+               3 Content={3502}}

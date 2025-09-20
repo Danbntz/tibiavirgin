@@ -1,0 +1,51 @@
+ID              = 8589248
+Name            = "Ady'Furisfight"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (140,79-114-94-114)
+CurrentOutfit   = (140,79-114-94-114)
+LastLogin       = 1147216317
+LastLogout      = 1147216322
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32237,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,47720,0,57600,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,125128,1100,127268,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,275,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5222,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,746,1800,1118,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3295,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,26,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,279,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,5,8,9,10,12,16,20,29,39,42,44,45,75,76,81,84,88}
+QuestValues = {(59,1),(61,1),(62,2),(67,1),(70,1),(71,1),(109,1),(190,1),(191,1),(217,3),(225,1),(324,1),(333,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={3507 String="Ady'Furisfight\nThais" Editor="Ken Thudor"}, 3502}, 
+               1 Content={2393, 2991, 2393, 2991, 3577 Amount=25, 3577 Amount=100, 3577 Amount=100, 3505 String="Nem preciso falar nada né ?\nOw entra pra conversarmos depois mano, num adianta chorar pelo leite derramado e acho q vc num deveria ir embora!\nAbraçao Ju  \nTe cuida mano \n" Editor="Ady'Furisfight", 3577 Amount=100, 3583 Amount=7, 3425, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Northport Village 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2469, 3349, 3349, 3425, 3349, 3349, 3425, 3425, 3425, 3503 Content={3507 String="Mit'Furisfight\nCarlin"}}}, 
+               3 Content={3577 Amount=17, 3582 Amount=24, 3502 Content={}}, 
+               4 Content={3504 Content={3503 Content={3507 String="ADY'FURISFIGHT\nEDRON"}, 3507 String="Ady'Furisfight\nEDRON"}, 3504 Content={3507 String="Ady'Furisfight\nEdron"}, 3205, 3502 Content={3492 Amount=44}}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="Ady'Furisfight\nVenore" Editor="Ken Thudor"}, 3502 Content={3504 Content={3507 String="Ady'Furisfight\nVenore"}}}, 
+               7 Content={3502}}

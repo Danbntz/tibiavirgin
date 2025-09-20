@@ -1,0 +1,59 @@
+ID              = 9725923
+Name            = "Pancha Francisca"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (137,79-87-79-87)
+CurrentOutfit   = (137,79-87-79-87)
+LastLogin       = 1148160495
+LastLogout      = 1148160568
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,659025,0,717600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,245430,3000,582400,1600)
+Skill = (2,605,605,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,126,175,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1170,1170,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,316924,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,17,1400,30,30)
+Skill = (8,71,0,10,0,0,0,0,0,0,0,175982,1100,183711,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,87,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1034,1100,1069,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7396,1100,8028,20)
+Skill = (14,0,1200,0,0,0,554,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29,76,81}
+QuestValues = {(16,1),(32,1),(33,1),(34,1),(59,1),(60,1),(61,1),(69,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(113,1),(114,1),(115,1),(125,1),(126,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={3411, 3308, 3582 Amount=19, 3035 Amount=2, 3031 Amount=19, 3003, 3483, 3457, 2870, 2969 KeyNumber=3033}},
+               4 Content={3380},
+               5 Content={3428},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3426, 3502 Content={2911 SavedExpireTime=1704}}, 
+               1 Content={3502}, 
+               2 Content={2920, 3502}, 
+               3 Content={2854, 2865 Content={3266, 3266, 3266, 3425, 3425, 3425, 3425, 3425, 3425}, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349}, 2865 Content={3269}, 2870 Content={3377, 3377, 3377, 3377, 3377, 3377}, 2870 Content={3290, 3291, 3449 Amount=3, 3085 RemainingUses=177}, 2854 Content={3509, 2398, 3741 Amount=1, 3739 Amount=1, 3551, 3282, 3083 RemainingUses=142, 3008, 3492 Amount=100}, 2867 Content={3053, 3053, 3097 SavedExpireTime=3132, 3097, 3097 SavedExpireTime=2662, 3092, 3092, 3092, 3052, 3052, 3050}, 2853, 2854 Content={2969 KeyNumber=3033, 3003}, 2865 Content={3483, 3003, 3446 Amount=91, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3074, 2969 KeyNumber=3033, 2469, 2866 Content={2911 SavedExpireTime=2997, 2893, 2826 String="Flora and Fauna of Darama"}, 2472 Content={2472}, 2969 KeyNumber=5000, 2855 Content={2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2862, 3017, 3598 Amount=11, 3732 Amount=1}}, 2853 Content={3457, 3056 RemainingUses=199, 3552, 3301, 3585 Amount=3, 3658, 3658}, 2868 Content={3076, 3421, 3301, 3432, 3351, 3265, 3301, 2471 Content={3464, 3283, 3509, 3056 RemainingUses=200, 2853 Content={2853 Content={2853}}, 3003, 3084 RemainingUses=250, 2969 KeyNumber=3033, 3084 RemainingUses=102}, 2854 Content={3289, 3097 SavedExpireTime=2932, 3447 Amount=65, 3350, 3350, 3412}, 3082 RemainingUses=50, 3147}, 2866 Content={3059, 3305, 3305, 3305, 2865 Content={3310, 3310, 2970 KeyNumber=3802, 2876, 2853 Content={3083 RemainingUses=150, 2973 KeyNumber=3520, 2815, 3308}, 2857 Content={3447 Amount=26, 3083 RemainingUses=150, 3327, 3447 Amount=100, 3447 Amount=100}, 3003, 3003, 2970 KeyNumber=3802, 3425}, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 3502 Content={3357, 3280, 3297, 3279, 3279, 3279, 3357, 3385, 3385, 3035 Amount=52}}, 
+               5 Content={3287 Amount=6, 3282, 3504 Content={3504 Content={3504 Content={3504 Content={}, 3504 Content={3507 String="Astrix Edu\ndarashia\n"}, 3504 Content={3507 String="kio'kue\ndarashia"}, 3504 Content={3507 String="torkas\ndarashia"}, 3507 String="bhecky\ndarashia"}, 3504 Content={3507 String="Wizard'Avatar\nDarashia"}, 3504 Content={3507 String="orfed\ndarashia"}, 3504 Content={3507 String="luck-skywalkers \ndarashia"}, 3504 Content={}, 3504 Content={3504 Content={}}}, 3504 Content={}, 3504 Content={3507 String=""}, 3507 String="Hanz Van Der Honz\ncarlin"}, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="pancha francisca\nvenore" Editor="Pancha Francisca"}, 3502}}

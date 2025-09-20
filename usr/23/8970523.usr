@@ -1,0 +1,60 @@
+ID              = 8970523
+Name            = "Axel Magno"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,114-114-114-132)
+CurrentOutfit   = (133,114-114-114-132)
+LastLogin       = 1148109046
+LastLogout      = 1148109112
+StartPosition   = [32732,31634,7]
+CurrentPosition = [33218,32460,8]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1033613,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,268513,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,92,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,331048,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,148,1100,165,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,218,1100,232,50)
+Skill = (10,72,0,10,0,0,0,0,0,0,0,190016,1100,202132,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,131,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,64,0,10,0,0,0,0,0,0,0,34790,1100,37611,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,119,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81,93}
+QuestValues = {(1,3),(2,6),(18,1),(36,1),(41,1),(42,1),(43,1),(44,1),(56,1),(59,1),(108,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(137,1),(151,1),(152,1),(179,1),(180,1),(190,1),(191,1),(211,4),(217,3),(253,1),(292,1)}
+Murders     = {1146886593}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={3031 Amount=18, 3092 SavedExpireTime=1175, 3092 SavedExpireTime=1589, 3457, 3003, 3492 Amount=92, 3031 Amount=100, 3031 Amount=100, 2854, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 3031 Amount=100}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3323},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3046 SavedExpireTime=2378}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={2835 String="mira ZhikitOo  =( ahh no siento k no me krees io soi sincera!!! t digo las cosas i de ezho tu t haz dado kuenta de ezO.......niño io t adoro pero siento k no me krees ke pzz io t digo io no tengo inconveniente termino kon eL si ezo es lo k dezeas mm.... i puez tu sabes k siempre haz estado presente en mi corazon i q fuiste de la persona k me enamore de la forma mas rara i nunca t cambiaria por nadie pero aveces las personas kometemos errores k por mas pekeños k sean parezen mui grandes pero io t lo prometo io no busko nada maz kon elL es encerio mi ceLoso io t lo dije una vez i t lo digO otra vEz io t kieRO ati aunketaLvez no podamos eZtar juntOs =/ iiiiii.........!!! aveces duele pero, aun azi no t dejare de kerer =) \n\nremember wherever u are always i stay here for u ;* t keRo un zhinGA maDraL =(!!", 3004, 3097 SavedExpireTime=3440, 3035 Amount=7, 3035 Amount=100, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2870 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2868 Content={2853 Content={3377, 3425}, 2853 Content={3353, 3353, 3377, 3377, 3377, 3425}, 2853 Content={3377, 2853 Content={3425}}, 3572, 3572, 3004, 3004, 3004, 3004, 3004, 3004, 3004, 3004, 3004, 3004, 2865 Content={2853 Content={2853 Content={3425, 2853 Content={3446 Amount=23, 3425}}}, 2853 Content={3377, 3425, 3425}, 2853 Content={3377, 3425}, 2853 Content={3377, 3425, 3377, 3377, 3377}, 2853 Content={3377, 3377}}}, 2853 Content={2853 Content={3377, 2969 KeyNumber=3033, 3377, 3377, 3349}, 2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377}}, 3377, 3425}, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3425, 3377, 3377, 3377, 3425}, 2969 KeyNumber=3620, 3077, 2839, 3084 RemainingUses=250, 2906, 3084 RemainingUses=250, 2969 KeyNumber=3610, 2916, 3502 Content={3504 Content={3504 Content={3504 Content={3504, 3504, 3658, 3659, 3658, 3658, 3659, 3658}}, 3507 String="Ekto Akrigosh\nab'dendriel\n" Editor="Lona Amorm"}, 2970 KeyNumber=3899, 3004, 3030 Amount=1, 2865 Content={2865}, 2865 Content={3412, 3293, 3483, 3483, 3293}}}, 
+               4 Content={2865 Content={2868, 2854, 2868, 2865}, 3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="axel magno\nvenore"}, 2870, 3502 Content={2857, 3572}}, 
+               7 Content={3377, 3045 RemainingUses=200, 2853, 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3000 gold\nfor your house \"Botham I b\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502}}

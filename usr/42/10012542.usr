@@ -1,0 +1,56 @@
+ID              = 10012542
+Name            = "Mala wesola druidka"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (136,97-48-117-1)
+CurrentOutfit   = (136,97-48-117-1)
+LastLogin       = 1123237808
+LastLogout      = 1123238199
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14222,0,17600,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,22800,1100,25499,1600)
+Skill = (2,133,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,98,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5039,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,283,1800,302,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3404,1800,3763,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,369,1800,593,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,130,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,945,1100,1023,20)
+Skill = (14,0,1200,0,0,0,406,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,20,29}
+QuestValues = {(35,1),(60,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3054 RemainingUses=190},
+               3 Content={2854 Content={3188 Charges=2, 3174 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3174 Charges=5, 3174 Charges=5, 3198 Charges=1, 3031 Amount=63, 3275, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3269},
+               6 Content={},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={2853 Content={}, 3375, 3004, 3483, 3505 String="oi....\neu caguei!\n\n\n", 2471 Content={3059 String="", 2471 Content={2985, 2981, 2981, 2983, 2985}, 2471 Content={}, 2471 Content={}, 2471 Content={}, 2471 Content={}}, 2472 Content={}, 2473 Content={3505 String="isildur of zanera\nhunting here\nplz respect", 3430, 3562, 3379}, 2473 Content={3456, 2911 SavedExpireTime=131, 2880 ContainerLiquidType=0, 2815 String="                         ", 3505 String="", 3505 String="", 3505 String="", 3505 String=""}, 2469 Content={2973 KeyNumber=3520, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3}, 2868 Content={}, 2853 Content={}, 2893 ContainerLiquidType=0, 2901 ContainerLiquidType=0, 2853 Content={3147, 3147, 2955, 2853 Content={2853 Content={}}, 2853 Content={2853 Content={}}}, 2871 Content={3147, 3147, 3147, 3147}, 2853 Content={}, 2859 Content={3578 Amount=3}}}, 
+               6 Content={3506 String="Mala wesola druidka \nvenore\n\nMASZ DOWNA!!! JAK WYJDZIESZ Z DP TO ZOBACZYSZ CIOTO OBESRANA ODDAWAJ WEDKE I CALA SWOJA FORSE B O INACZEJ BEDZIESZ MIAL NA KARKU PANA NARZECZONEGO I WIELU MOICH KOLEGOW!!!!!!!!!!!!!!!! ", 3502 Content={}}}

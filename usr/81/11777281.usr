@@ -1,0 +1,55 @@
+ID              = 11777281
+Name            = "Zeltus Serie"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,95-132-126-114)
+CurrentOutfit   = (128,95-132-126-114)
+LastLogin       = 1137404715
+LastLogout      = 1137404742
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32365,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,70559,0,83400,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,32274,3000,64000,1600)
+Skill = (2,294,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,71,85,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,675,675,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4095,1100,4559,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,15,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (9,39,0,10,0,0,0,0,0,0,0,7833,1100,8224,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2349,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(30,1),(35,1),(59,1),(60,1),(61,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3504 Content={3507 String="Dolphin of Death\ncarlin" Editor="Vin Dizel"}, 3504, 3285, 3031 Amount=86, 3031 Amount=100, 3003}},
+               4 Content={3357},
+               5 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3093 SavedExpireTime=1488}}
+
+Depots      = {0 Content={2854, 3577 Amount=3, 3552, 3454, 3456, 3502}, 
+               1 Content={3492 Amount=67, 3457, 3377, 3448 Amount=40, 3147, 3056 RemainingUses=200, 3308, 3285, 3078, 3504 Content={3551, 3012, 2853 Content={3483, 3578 Amount=8, 2870 Content={3336}, 3425, 3031 Amount=1, 3031 Amount=100, 3031 Amount=100}, 2853, 3008, 3349, 3316, 3377}, 2870 Content={3337, 3377, 3372, 3316, 3286, 3507 Editor="Zeltus Serie", 3287 Amount=1, 3266, 3565, 3286, 3552, 3097 SavedExpireTime=3474, 2870 Content={3286, 3425, 3507 Editor="Zeltus Serie", 3507 Editor="Zeltus Serie", 3507 Editor="Zeltus Serie", 3507 Editor="Zeltus Serie", 3507 Editor="Zeltus Serie"}, 3056 RemainingUses=200, 3350, 3050 SavedExpireTime=1723, 2992 Amount=1, 3349}, 3565, 2854 Content={2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 3456, 2920, 3291, 3457, 3003}, 3506 String="zeltus serie\ncarlin\n\nto zaproszeie na impreze oczywiscie bendzie alkohol;)\nz okazi no..... \nmozna powiedziec ze z okazi\nzblizaoncego sie sylwestra;) impreza odbendzie sie w noc tibijskom pszed dp\nzapraszam\nUland Malina:)" Editor="Uland Malina", 3282, 3056 RemainingUses=200, 2973 KeyNumber=3520, 2875, 2906, 2853 Content={3430, 3599 Amount=4, 3353, 3350}, 3050 SavedExpireTime=1790, 2874, 2394, 2394, 2992 Amount=5, 3456, 2854 Content={3375, 3003, 3003}, 3598 Amount=1, 3502 Content={3459, 3447 Amount=5, 3375, 2868, 3035 Amount=3, 3291, 3585 Amount=1, 2920 SavedExpireTime=290, 2920, 3046, 3084 RemainingUses=250, 3056 RemainingUses=200, 2635, 2920 SavedExpireTime=131, 2856 Content={3059, 2922 SavedExpireTime=188, 2922 SavedExpireTime=72}, 2399, 2873, 3456, 2853, 3003}}, 
+               3 Content={3502 Content={3264, 3031 Amount=100, 3358, 3358, 3413, 3350, 3031 Amount=100, 3031 Amount=100, 3285, 3446 Amount=22, 3447 Amount=15, 3285}}, 
+               6 Content={3502}}

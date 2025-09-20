@@ -1,0 +1,50 @@
+ID              = 9058976
+Name            = "Sir Behemoth"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,114-95-95-0)
+CurrentOutfit   = (130,114-95-95-0)
+LastLogin       = 1142296332
+LastLogout      = 1142296347
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31684,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,9162,0,9300,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,14207,1100,15179,1600)
+Skill = (2,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5730,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4349,1800,6824,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,409,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               4 Content={3377},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3577 Amount=2, 3003, 3502 Content={}}, 
+               3 Content={3264, 3412, 3483, 3147, 3147, 3147, 3147, 2853 Content={3578 Amount=92, 3578 Amount=98, 3577 Amount=2}, 3286, 3286, 3502 Content={2854 Content={3447 Amount=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3447 Amount=3, 3004, 3350, 3050, 3008, 3054 RemainingUses=83, 3056 RemainingUses=200, 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2920 SavedExpireTime=58, 2920, 2920, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2955, 3003, 2920 SavedExpireTime=53, 2920, 3456}, 2854 Content={3282, 3425, 3266, 3301, 3557, 3297, 3367, 3293, 3367, 3307, 3285, 3003, 3294, 3294, 3412, 3308}, 2854 Content={2854, 2854}, 2856 Content={3035 Amount=8, 3031 Amount=83, 2856 Content={2856}}, 3003}}}

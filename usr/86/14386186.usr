@@ -1,0 +1,55 @@
+ID              = 14386186
+Name            = "Meishuu"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,115-48-130-116)
+CurrentOutfit   = (138,115-48-130-116)
+LastLogin       = 1148255197
+LastLogout      = 1148258368
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31687,8]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,59922,0,69700,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,41137,1100,44759,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,285,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10716,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,466,2000,750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,66,2000,150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,13,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,729,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,55,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,10,20,25,26,29,44}
+QuestValues = {(18,1),(35,1),(54,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3056 RemainingUses=198},
+               3 Content={2865 Content={3031 Amount=77, 3031 Amount=100, 3031 Amount=100, 2867 Content={3188 Charges=1, 3188 Charges=3, 3188 Charges=3}, 3308, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={3502 Content={3605 Amount=48, 3661, 3447 Amount=15, 3505 String="lol me divierto. Ala ya casi me bajan nivel 13" Editor="Meishuu", 3492 Amount=50, 2983, 2985, 2981}}, 
+               3 Content={2880, 2949, 2876, 3466, 3469, 3463, 3308, 3502 Content={3492 Amount=42, 3582 Amount=6, 2973 KeyNumber=3520, 2873, 2969 KeyNumber=3033, 3035 Amount=34, 2868, 3003, 3446 Amount=26, 3446 Amount=100, 2871 Content={3446 Amount=100}, 2867, 3453, 2815, 2970 KeyNumber=4503, 3425, 3454, 3552, 3605 Amount=45, 3377, 2875, 2984}}, 
+               6 Content={3059, 3577 Amount=1, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2881, 3502}}

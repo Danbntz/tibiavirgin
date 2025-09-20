@@ -1,0 +1,60 @@
+ID              = 8676102
+Name            = "Lord Moicane"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,94-0-0-114)
+CurrentOutfit   = (134,94-0-0-114)
+LastLogin       = 1148235767
+LastLogout      = 1148235924
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32915,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,53,0,1,0,0,0,0,0,0,1,2248176,0,2347900,100)
+Skill = (1,56,0,0,0,0,0,0,0,0,0,3415739,1100,3644184,1600)
+Skill = (2,410,410,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,533,1385,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,122,122,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,74415,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,3,2000,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,37392,2000,51150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,1126,1500,1608,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,60,0,10,0,0,0,0,0,0,0,24171,1100,25625,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,13,16,17,18,20,21,24,29,30,39,44,45,75,76,78,81,88}
+QuestValues = {(27,1),(31,1),(61,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(129,1),(130,1),(131,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3012},
+               3 Content={2869 Content={3031 Amount=100, 3031 Amount=100, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=10, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}},
+               4 Content={3381},
+               5 Content={3071},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="lord moicane\nthais" Editor="Hitues"}, 3504 Content={3507 String="lord moicane\nthais" Editor="Hitues"}, 3502}, 
+               1 Content={3082 RemainingUses=28, 3282, 3265, 3072, 3504 Content={3507 String="Lord Moicane\nCarlin"}, 3504 Content={3507 String="Lord moicane\nCarlin"}, 3502 Content={2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}}, 
+               2 Content={3504 Content={3507 String="lord moicane\nkazordoon\n"}, 3504 Content={3507 String="lord moicane\nkazordoon\n"}, 3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2854 Content={3082 RemainingUses=50}, 3504 Content={3377, 3377, 3377, 2867 Content={3503 Content={3507 String="Meldrom\nAnkrahmun" Editor="Meldrom"}, 3457, 3003, 3084 RemainingUses=249}, 3507 String="Lord Moicane\nedron" Editor="Lord Dromars"}, 3457, 3003, 3457, 2853 Content={3583 Amount=25}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Basement Flat 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

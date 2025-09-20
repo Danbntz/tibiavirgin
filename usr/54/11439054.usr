@@ -1,0 +1,52 @@
+ID              = 11439054
+Name            = "Lianon Madruga"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,83-82-81-80)
+CurrentOutfit   = (130,83-82-81-80)
+LastLogin       = 1148214418
+LastLogout      = 1148214548
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32537,31929,8]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,215426,0,232500,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,177892,1100,193759,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,234,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,38540,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,225,1800,302,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,551,1800,593,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,401,1800,593,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,100,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,864,1100,911,20)
+Skill = (14,0,1200,0,0,0,826,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,26,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,74,100,0,0,0,2,0,40,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,7,8,9,10,15,16,25,26,27,29,38,42,44}
+QuestValues = {(35,1),(125,1),(126,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3085 RemainingUses=193},
+               3 Content={2868 Content={3031 Amount=39, 3003, 3723 Amount=5, 3446 Amount=19, 3582 Amount=2, 3031 Amount=100, 3198 Charges=1, 3198 Charges=5, 3577 Amount=10, 3147, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={3381},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={2867 Content={2865 Content={3604 Amount=1, 3723 Amount=40, 3602 Amount=2, 3723 Amount=100}, 3582 Amount=38, 3577 Amount=50, 3483, 3577 Amount=100, 3723 Amount=100, 3582 Amount=100, 3577 Amount=100, 3577 Amount=100, 3723 Amount=100, 3723 Amount=100, 3577 Amount=100, 3582 Amount=100, 3578 Amount=40, 3588 Amount=27, 3723 Amount=100, 3590 Amount=9, 3595 Amount=7}, 2868 Content={2853 Content={3174 Charges=2, 3174 Charges=4, 3189 Charges=2, 3189 Charges=2, 3174 Charges=1, 3189 Charges=1}, 3045 RemainingUses=200, 2857 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3077, 3084 RemainingUses=250, 3085 RemainingUses=200, 3077, 3084 RemainingUses=250}, 2857 Content={3046, 3046, 3046, 3046 SavedExpireTime=2971, 3066, 3069, 3070, 3065}, 3012, 3012}, 2868 Content={3350, 3446 Amount=100, 3413, 3447 Amount=55, 3362, 3377, 3377, 3349, 3446 Amount=100, 3377, 3565, 3287 Amount=2}, 2868 Content={3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3092, 3092, 3092, 3098 SavedExpireTime=296, 3097, 3097 SavedExpireTime=3588, 3093 SavedExpireTime=286, 3050, 3097 SavedExpireTime=3567, 3050, 3097 SavedExpireTime=3180, 3050 SavedExpireTime=1774}, 2868 Content={3266, 3351, 3266, 3297, 3285, 3305, 3308, 3425, 3349, 3349, 3279, 3425, 3425, 3425, 3293, 3357, 3351}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3031 Amount=27, 3035 Amount=80}, 2868 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}}}}

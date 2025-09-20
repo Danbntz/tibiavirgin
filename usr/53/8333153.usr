@@ -1,0 +1,51 @@
+ID              = 8333153
+Name            = "Eprtahes"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,45-64-84-66)
+CurrentOutfit   = (128,45-64-84-66)
+LastLogin       = 1147124555
+LastLogout      = 1147124569
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32925,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,44621,0,47000,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,730178,1100,780562,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,165,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5618,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,99,1800,140,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1999,1800,2063,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,8,10,20,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(109,1),(115,1),(116,1),(117,1),(118,1),(210,1),(213,1),(214,1),(215,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               5 Content={3415},
+               6 Content={3070},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2969 KeyNumber=4009}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               6 Content={2866 Content={3177 Charges=1, 3177 Charges=1, 3049 SavedExpireTime=558, 3003, 3457, 3582 Amount=1, 3164 Charges=1, 3190 Charges=4, 3172 Charges=3, 3180 Charges=4, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2867 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2871 Content={3028 Amount=70, 3031 Amount=35, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3049 SavedExpireTime=55}, 3031 Amount=90, 2969 KeyNumber=4022, 3429, 3035 Amount=9, 3504 Content={3582 Amount=2, 2870 Content={3577 Amount=86, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3507 String="eprtahes\nvenore\n" Editor="Lord Darigan"}, 2853 Content={3286, 3723 Amount=80, 2853, 3582 Amount=29}, 3504 Content={3425, 3572, 3046 SavedExpireTime=1153, 2868, 3507 String="Eprtahes\nvenore\n" Editor="Demoniac nightmare"}, 2867 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2}, 2868 Content={2853 Content={3172 Charges=3, 3180 Charges=4, 3180 Charges=4, 3180 Charges=1, 3177 Charges=1, 3180 Charges=4, 3180 Charges=4}, 3082 RemainingUses=25, 3192 Charges=2, 3192 Charges=2, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=1, 3176 Charges=4, 3176 Charges=3, 3172 Charges=3, 3172 Charges=3}, 3046 SavedExpireTime=2998, 3318, 2920 SavedExpireTime=153, 3502 Content={3504 Content={3507 String="Scarlett Garner\nvenore" Editor="Scarlett Garner", 3507 String="borinston\nvenore" Editor="Eprtahes", 3507 String="Eprtahes\nvenore" Editor="Eprtahes", 3507 String="Dunkel'Forces\nvenore" Editor="Dunkel'Forces", 3507 String="luffia\nvenore\n" Editor="Penerax of Markiz Amon", 3507 String="arcan devils\nvenore\n" Editor="Fran-Nackyto", 3507 String="Shapo'guzman\nvenore" Editor="Tason zanera", 3507 String="Leveron zeya\nvenore" Editor="Eprtahes", 3507 String="folox\ncarlin" Editor="Endo Carik", 3507 String="jesika scarlett\nvenore" Editor="Frios Galek"}, 3504 Content={3507 String="Knight'hype\nvenore" Editor="Knight'Hype", 3507 String="Yankee Druid\nVenore" Editor="Araiza-Can", 3507 String="hanyball\nvenore" Editor="Astaroth Valiant", 3507 String="princesa de los vampiros\nvenore" Editor="Princesa de los vampiros", 3507 String="shipou\nvenore\n" Editor="Karnak Sher", 3507 String="knight'hype\nvenore", 3507 String="tu compralos nos ve,mos como el 9 d enero subelo a 90 we\nno mms" Editor="Samawako", 3507 String="Knight'Hype\nvenore"}, 2874, 3447 Amount=12}}}

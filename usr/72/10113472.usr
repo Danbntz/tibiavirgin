@@ -1,0 +1,54 @@
+ID              = 10113472
+Name            = "Cronas Piva"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,0-0-0-0)
+CurrentOutfit   = (128,0-0-0-0)
+LastLogin       = 1132110739
+LastLogout      = 1132110749
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9399,0,13000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,18000,1100,18297,1600)
+Skill = (2,23,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4871,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1539,1800,2063,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2837,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,191,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,236,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {7,10,42}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2854 Content={3031 Amount=56, 3457, 3588 Amount=21, 2854 Content={3174 Charges=5}, 3003, 3492 Amount=20, 3483}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3282},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={2868 Content={3457, 3003}, 3372, 3425, 3738 Amount=9, 3285, 3377, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3502 Content={3492 Amount=100, 2865 Content={}, 3003, 2920 SavedExpireTime=595, 2815 String="crapidy crap i craped my self lol", 2866 Content={3031 Amount=66, 3031 Amount=100}, 3492 Amount=60, 3411}}}

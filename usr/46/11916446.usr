@@ -1,0 +1,54 @@
+ID              = 11916446
+Name            = "Mistrzowski Michal"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-94-114-114)
+CurrentOutfit   = (128,114-94-114-114)
+LastLogin       = 1147884253
+LastLogout      = 1147884496
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32340,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,242935,0,262600,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,209840,1100,214735,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,243,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,33778,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,24,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,15,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2665,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,2000,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,971,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,458,1100,490,20)
+Skill = (14,0,1200,0,0,0,118,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,80,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,16,17,18,20,27,29,30,38,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(46,1),(60,1),(61,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(128,1),(190,1),(191,1),(192,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2853 Content={2920 SavedExpireTime=289, 2920 SavedExpireTime=474}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3073},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3012, 3457, 3031 Amount=84, 3110, 3110, 3110, 3286, 3286, 3410, 3410, 3582 Amount=3, 3031 Amount=98}}, 
+               1 Content={3504 Content={3457, 3577 Amount=3, 3582 Amount=2, 3446 Amount=9, 3308, 3507 String="Mistrzowski Michal\nCarlin" Editor="Mistrzowski Michal"}, 3502 Content={2853 Content={3031 Amount=85, 3031 Amount=100, 3031 Amount=100, 3147, 3031 Amount=94, 3582 Amount=3, 3093 SavedExpireTime=319, 3093 SavedExpireTime=1791}, 2854 Content={3723 Amount=14, 3031 Amount=11}, 3152 Charges=1, 3456, 3148 Charges=3, 3059, 3591 Amount=2, 3012, 2955, 3481, 3004, 3505 String="Pozdrowienia od Michala\n\nps. dotrzymalem slowa :)" Editor="Mistrzowski Michal", 3504 Content={3110, 3468, 2867, 2867, 2867, 2867}, 2853 Content={2874, 3012, 3577 Amount=10, 3147}, 3503 Content={2955, 3503, 2659, 2969 KeyNumber=5010, 3056 RemainingUses=200, 3085 RemainingUses=167}, 3503 Content={2991, 2659, 2875 ContainerLiquidType=6, 2875 ContainerLiquidType=6, 2881 ContainerLiquidType=6, 3505, 2991, 2991, 3507 String="To jest eliksir zycia wypij go jak bedziesz mial malozycia\n\nPawlel Niewiadomski" Editor="Mistrzowski Michal", 2882 ContainerLiquidType=6}, 2865 Content={2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3198 Charges=5, 3191 Charges=2, 3198 Charges=5, 3198 Charges=5, 2853 Content={2860 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}, 2854 Content={3353, 2650, 2826 String="Mystic Rituals of the Ancient Trolls", 2839 String="damian smierdzi az tu czuc :P\n\n" Editor="Devon Galas", 2901, 2906, 3658}, 2857 Content={3066, 3071, 3075, 3074, 3074}, 3504 Content={3505 Editor="Nikithian", 3505, 3505, 3505 String="spierdalaj\n  \n\nWal sie" Editor="Dina Fres", 2991, 2873, 2854 Content={3098, 3050 SavedExpireTime=1780, 3505 String="a patryk czmiel to mistrz\n" Editor="Mistrzowski Michal", 3077, 3046, 3012, 3505 String="oie mandame mis cosas a carlin a pahoran ok" Editor="Mistrzowski Michal", 2825 String="20 Tricks to Get People's Money\n\n...", 3003, 2901, 3147, 2969 KeyNumber=4055, 3092, 3046, 3046}, 3507 String="Mistrzowski Michal\nCarlin" Editor="Mistrzowski Michal"}, 2854 Content={3008, 3008, 3092 SavedExpireTime=1795, 3097, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2865 Content={3148 Charges=2, 3148 Charges=2, 2853}, 2868 Content={3590 Amount=3, 2901 ContainerLiquidType=2, 2901 ContainerLiquidType=2, 2901 ContainerLiquidType=2, 2901 ContainerLiquidType=2, 2901 ContainerLiquidType=2, 2901 ContainerLiquidType=2, 2853 Content={3723 Amount=100, 3723 Amount=80}, 3583 Amount=1, 3604 Amount=1, 3453, 3598 Amount=2, 3587 Amount=1, 3585 Amount=2, 3454, 2914, 3586 Amount=3, 2914 SavedExpireTime=1995}, 2860 Content={3084 RemainingUses=250, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 3056 RemainingUses=200, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2969 KeyNumber=3008}, 2854 Content={3349, 3446 Amount=21, 3305, 3409, 3264, 3280, 3370, 3289, 3316, 3316, 3316, 3316, 3299, 3310, 3266, 3279, 2854 Content={3287 Amount=5, 3353, 3298 Amount=1, 3266, 3350, 3459, 3413, 3350, 3110, 3449 Amount=9, 3290, 3572, 3456, 3110, 3349, 3377, 3350, 3350}, 2857 Content={3446 Amount=24, 3448 Amount=11, 3447 Amount=22, 3446 Amount=100, 3447 Amount=100, 3289, 3266, 3279}, 2868 Content={3316, 3266, 3299, 3349, 2853 Content={3350, 3350, 3349, 3308, 3377, 3305}, 3375, 3285, 3349, 3377, 3565, 3349, 3349, 3563, 3349, 3349, 2853 Content={3316}, 3310}}, 2853 Content={3492 Amount=49, 2854 Content={3492 Amount=72, 3483}, 2868 Content={3457, 3483, 2853 Content={2873, 3003, 3003}}, 2853 Content={3453, 3483, 2920, 3483, 3003, 3003, 3003, 3003}, 2853 Content={3453, 3453, 2916, 3456, 3003}}}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3504 Content={3507 String="Mistrzowski Michal\nAb'Dendriel" Editor="Mistrzowski Michal"}}}, 
+               6 Content={3502 Content={3457}}}

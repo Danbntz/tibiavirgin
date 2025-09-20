@@ -1,0 +1,58 @@
+ID              = 14177120
+Name            = "Zkilerfamous"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,85-93-114-78)
+CurrentOutfit   = (134,85-93-114-78)
+LastLogin       = 1148253438
+LastLogout      = 1148253550
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33167,31813,9]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,116256,0,135100,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,86158,1100,91639,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,400,400,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14075,1500,17099,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,53,2000,90,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1811,2000,3150,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1169,2000,1550,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1595,2000,3150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,49,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,30,1100,42,20)
+Skill = (14,0,1200,0,0,0,548,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,7,10,15,20,25,26,29,81}
+QuestValues = {(20,1),(59,1),(106,1),(107,1),(128,1),(223,1),(333,1)}
+Murders     = {1146504908,1147632327}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2870 Content={3457, 3003}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3558},
+               8 Content={3552}}
+
+Depots      = {0 Content={2869, 2854 Content={3367, 3367}, 2868 Content={2815 Editor="Zkilerfamous", 2874, 3003, 3003}, 3605 Amount=12, 2869 Content={2868 Content={3074, 3189 Charges=2, 3349, 3174 Charges=5, 3083 RemainingUses=150, 3174 Charges=5, 3362}, 3425, 3349}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Sunset Homes, Flat 22\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2868 Content={3003, 2920 SavedExpireTime=417}, 3502 Content={2872 Content={3605 Amount=6, 3593, 3593, 3593, 3593, 3593, 3593, 3586 Amount=10, 3600 Amount=20, 3592, 3587 Amount=40, 3598 Amount=1}, 2857 Content={2861 Content={2865, 3316, 3285, 3050 SavedExpireTime=1582, 3289, 2870, 3457, 3446 Amount=4}, 2857}, 2866 Content={3148 Charges=3}, 2867 Content={2869 Content={3300, 3300, 3300, 3300, 3300, 3300}, 3074, 3421, 3305, 3266, 3046 SavedExpireTime=262}, 2869 Content={3075, 3266, 3072, 3075, 3046 SavedExpireTime=2990, 3066, 3283, 3283, 3305}, 2872 Content={3198 Charges=1, 3160 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3273, 2865 Content={3164 Charges=3}}, 2868 Content={2854 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 3316, 3050 SavedExpireTime=1554, 3597 Amount=1, 2874 ContainerLiquidType=2, 2920, 3093 SavedExpireTime=272, 3008, 3164 Charges=3, 3164 Charges=2, 3198 Charges=5}, 2870 Content={3593, 3593, 3592, 3592, 3592, 3592, 3592, 3592, 3593, 3593, 3593, 3349, 3268, 3275, 3054 RemainingUses=184, 3035 Amount=69, 3593, 3593, 3590 Amount=2}, 2854 Content={3362, 2868, 3661, 3377, 3551, 3483, 3003, 3441, 3191 Charges=1, 3003}, 2853 Content={3362, 3290, 3483, 2983, 3457, 3466, 3411}, 2853 Content={2868 Content={3413}, 2834 String="esto pertene la carlos no lo maten\n\n" Editor="Rey menor", 2901, 3661, 3563}, 2853 Content={2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2}, 2854 Content={3377, 3003, 2969 KeyNumber=4600, 2920, 2920 SavedExpireTime=595, 2920 SavedExpireTime=583, 3483, 2874, 3559, 3059, 2906, 3410, 3300, 3565, 2903, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 3547 Amount=1, 3003}, 2853 Content={2922 SavedExpireTime=166, 3367, 3294, 3551, 3031 Amount=21}, 2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Beach Home Apartments, Flat 14\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3374, 3352, 3352, 2853 Content={3673, 3003, 3430, 3003, 3367, 2920 SavedExpireTime=467}, 3012, 3375}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={2865 Content={3586 Amount=2, 3587 Amount=3, 3046, 3046, 3373, 3350}, 3502}, 
+               7 Content={3502 Content={3577 Amount=1}}, 
+               8 Content={2872 Content={2922 SavedExpireTime=123, 3577 Amount=100, 3582 Amount=28}, 3502 Content={3503 Content={3507}, 3552, 2872 Content={2920 SavedExpireTime=597, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2874}}}

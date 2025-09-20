@@ -1,0 +1,59 @@
+ID              = 8959421
+Name            = "Angel Ritual"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,60-132-114-75)
+CurrentOutfit   = (134,60-132-114-75)
+LastLogin       = 1148256582
+LastLogout      = 1148260432
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33121,32834,7]
+PlayerkillerEnd = 0
+
+Skill = (0,58,0,1,0,0,0,0,0,0,1,2990421,0,3091400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,532003,3000,582400,1600)
+Skill = (2,935,935,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,61,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,127,127,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1720,1720,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,74,0,10,0,0,0,0,0,0,0,459490,1100,489370,100)
+Skill = (7,16,0,10,0,0,0,0,0,0,0,516,1400,715,30)
+Skill = (8,76,0,10,0,0,0,0,0,0,0,295613,1100,296174,50)
+Skill = (9,24,0,10,0,0,0,0,0,0,0,1420,1100,1588,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,612,1100,678,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4982,1100,5420,20)
+Skill = (14,0,1200,0,0,0,1007,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,8,0,53,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,30,30,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80}
+QuestValues = {(49,1),(50,1),(56,1),(61,1),(84,1),(85,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(154,1),(156,1),(157,1),(158,1),(190,1),(191,1),(208,1),(257,1),(269,1),(292,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3577 Amount=38, 3031 Amount=69, 3505 String="angel ritual  msg me\n\n\nrespect" Editor="Angel Ritual", 2872, 2861, 3003, 2920 SavedExpireTime=599, 2871 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3674}, 3483, 3457, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874 ContainerLiquidType=10}}},
+               4 Content={3381},
+               6 Content={3281},
+               7 Content={3371},
+               8 Content={3079},
+               10 Content={3738 Amount=1}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="ritual de lo avitual\ncarlin"}, 3502}, 
+               2 Content={3504 Content={3507 String="angel ritual\nkazordoon" Editor="Angel Ritual"}, 3502 Content={3492 Amount=33, 3147}}, 
+               3 Content={3502}, 
+               4 Content={3275, 3446 Amount=27, 2871 Content={2871}, 2854 Content={2871 Content={2871, 2871}, 2867 Content={2867, 2867, 2867, 2867, 2867, 2867, 2867, 2867, 2867, 2867}, 2870 Content={2870, 2870, 2870, 2870}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2866 Content={2866, 2866}, 2872 Content={2872, 2872 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2872 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}}, 3449 Amount=2, 2843, 3492 Amount=10, 3552, 2867 Content={2853 Content={3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3266, 3275, 3349, 3425, 3425, 3425, 3349, 3349}, 2867 Content={3425, 3349, 3425, 3349, 3275, 3425, 3425, 3349, 3349, 3425, 3425, 3012}, 3502 Content={2865 Content={2854 Content={3492 Amount=87, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3578 Amount=4, 3582 Amount=82, 3577 Amount=100, 2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3583 Amount=6, 3593, 3582 Amount=100, 3577 Amount=14, 3595 Amount=4, 3593, 3593, 3593}, 2871 Content={3349, 3349, 3349, 3447 Amount=8, 3349, 3349, 3349, 3446 Amount=75, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3350, 3350, 3350, 3350, 3350}, 3287 Amount=3, 3298 Amount=2, 3446 Amount=100, 3446 Amount=100}, 2869 Content={2854 Content={2869, 2868, 2854, 2868, 2869, 2869, 2869, 2854, 2854, 2868, 2869}, 3457, 3457, 3457, 3457, 3457, 3457, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2868 Content={3658, 3658, 3425, 2871 Content={3264}, 3412, 3286, 3367, 3377, 3307, 2871 Content={3307, 3372, 3418, 3354, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384}, 3354, 3353, 3409, 3559, 3374, 3291, 3291, 3426, 3374}, 2868 Content={3061, 3061, 3093, 3093, 3093, 3092, 3092, 2901, 3465, 3085 RemainingUses=200, 3091, 3054 RemainingUses=200, 3054 RemainingUses=200, 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!", 3543, 3537, 3543, 3537}, 2854 Content={2871 Content={3093, 3092}, 3198 Charges=5, 3198 Charges=5, 3014, 3583 Amount=6, 3027 Amount=1, 3045 RemainingUses=200, 3026 Amount=2, 3081 RemainingUses=5, 3039, 3016, 3385}}}, 
+               6 Content={3059 String="", 3502 Content={}}, 
+               7 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3033 Amount=1, 3035 Amount=23, 2853 Content={3577 Amount=25, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3029 Amount=4, 3035 Amount=65, 3042 Amount=97, 2867 Content={3436, 3295, 2854, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 3032 Amount=29, 3033 Amount=53, 3349, 3301, 3301, 3301, 3301, 3449 Amount=39, 3583 Amount=25}, 2482 Content={2868 Content={3267, 3299, 3275, 3003, 3147, 3359, 3327, 3305, 3372, 3448 Amount=8, 3287 Amount=1, 3299, 3299, 3299}, 3503 Content={3503 Content={3507}, 3503 Content={3503 Content={3507}, 3507}, 3507}, 2870 Content={2854 Content={2854, 2854, 2854, 2854, 2854, 2854 Content={2920}}, 2857 Content={2857}, 2868 Content={2868, 2868}, 2871 Content={2871, 2871, 2871, 2871, 2871}, 2869 Content={2869, 2869, 2869, 2869, 2869}}, 2871 Content={2914, 2914, 2914, 2914, 2914 SavedExpireTime=2000, 2914, 2914, 2914, 2914, 2914, 2914, 2914, 2914, 2914, 2914, 2914, 2914, 2914}, 2854 Content={3457, 3323, 3297, 2869 Content={3369, 3370, 3419, 3280, 2862, 3375, 3307, 3429, 3425, 3287 Amount=4, 3433, 3313}, 3322, 3266, 3380, 3432, 3271, 3210, 3008, 3054 RemainingUses=200, 3351, 3356, 3338, 3283, 3359}, 2868 Content={3046, 3017, 3017, 3017, 3046, 3046 SavedExpireTime=2998, 3046, 3046, 3046 SavedExpireTime=2997, 3046, 3046 SavedExpireTime=2995, 3046, 3052, 3098, 3093, 2868 Content={2659, 2667, 2659, 2667, 3084 RemainingUses=250, 3077, 3046, 3097, 3093, 3045 RemainingUses=200, 3017, 3017, 3017, 3017, 3077, 3017, 3077, 3046, 3084 RemainingUses=250, 3098}, 3017, 3044 Amount=2}, 2865 Content={2969 KeyNumber=3666, 2969 KeyNumber=3620, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2972 KeyNumber=3304, 2969 KeyNumber=3302, 2969 KeyNumber=3302, 2972 KeyNumber=3304, 2970 KeyNumber=3303, 2970 KeyNumber=3301}, 2871 Content={3003, 3483, 2974, 3291, 3492 Amount=100}}, 2473 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3502}, 
+               8 Content={3504 Content={3507 String="ritual de lo avitual\nport hope"}, 3504 Content={3507 String="ritual de lo avitual\nport hope"}, 3502 Content={}}}

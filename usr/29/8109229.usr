@@ -1,0 +1,53 @@
+ID              = 8109229
+Name            = "Lord Suri"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (128,79-94-87-94)
+CurrentOutfit   = (128,79-94-87-94)
+LastLogin       = 1147929076
+LastLogout      = 1147929132
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32072,6]
+PlayerkillerEnd = 1150415810
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,191187,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,69305,3000,193600,1600)
+Skill = (2,-15,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,90785,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,57,0,10,0,0,0,0,0,0,0,44326,1100,48008,50)
+Skill = (10,43,0,10,0,0,0,0,0,0,0,11446,1100,12273,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2712,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(1,3),(2,6),(14,1),(15,1),(18,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(36,1),(41,1),(42,1),(43,1),(44,1),(49,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(96,1),(97,1),(98,1),(115,1),(121,1),(137,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(211,4),(291,1)}
+Murders     = {1147600025,1147821344,1147822308,1147822583,1147823460,1147823810}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={2853 Content={3268, 3426, 2856 Content={3276, 3412}}, 3502}, 
+               3 Content={3504 Content={2867, 3507 String="lord suri\nab'dendriel" Editor="Pegasus Diamond"}, 3502}, 
+               4 Content={2857 Content={3425, 3349}, 2471 Content={}, 3457, 3083 RemainingUses=150, 3502 Content={2853 Content={3425, 3349, 3349, 3425}, 2911 SavedExpireTime=0, 3492 Amount=66, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 
+               5 Content={3504 Content={3507 String="lord suri\ndarashia"}, 3283, 3502 Content={2853 Content={2853 Content={}}}}, 
+               6 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854, 3274, 3308, 3502}, 
+               7 Content={2952, 2920 SavedExpireTime=599, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2853 Content={3504 Content={3336}, 2853 Content={3031 Amount=4, 3377, 3377, 3377, 3377, 3377}, 2853 Content={2853 Content={3349, 3349, 2853 Content={3349, 3349, 2853 Content={3349, 3349, 3349}, 3367, 3276, 3276, 3367, 3354}, 3367, 3354, 3354, 3367, 3276}, 2853 Content={3411, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3276, 3276, 3411}, 3411, 3276, 3411}, 3276, 3276, 3411, 3276, 3276}, 3276, 3411, 3276, 3367, 3276}, 3276, 3411, 3411, 3276, 3276, 3367}, 3276, 3276, 3276, 3276, 3276, 3276}, 3411, 3276, 3367, 3411, 3367, 3276}}}, 2659, 2650, 2644, 2828 String="The secret of the high mask of the ancients was thought to be lost in time forever. But with the coming of the undying pharaoh its secrets were snatched away from the scarabs and the sands. Once more, masks were forged that contained the secret energies of lost aeons. Their true powers remained a mystery, but from the little that showed at first glance it was clear that they were most powerful indeed. Unfortunately, the pharaoh decreed that their powers were not meant for ordinary mortals, and ordered them to be destroyed. It is said that it was necessary to combine the powers of different ancient idols in order to create those legendary artifacts.", 2644, 2659, 2644, 2911 SavedExpireTime=1736, 2644, 2659, 3732 Amount=3, 3492 Amount=18, 2650, 2650, 2659, 2650, 2659, 3504 Content={3035 Amount=2, 3507 String="lord suri\nankrahmun"}, 3506 String="Warning!\n\nThe monthly rent of 1680 gold\nfor your house \"Unklath I d\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1680 gold\nfor your house \"Unklath I d\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1680 gold\nfor your house \"Unklath I d\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1680 gold\nfor your house \"Unklath I d\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3031 Amount=24, 3031 Amount=100}}, 
+               8 Content={3502 Content={}}}

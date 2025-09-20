@@ -1,0 +1,52 @@
+ID              = 11425209
+Name            = "Xibun Sorcerer"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,51-76-76-76)
+CurrentOutfit   = (134,51-76-76-76)
+LastLogin       = 1147094406
+LastLogout      = 1147094755
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32329,31784,8]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,169738,0,179400,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1285036,1100,1395159,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,273,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13321,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1576,2000,3150,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,10145,2000,12750,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,114,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,34,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,93,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,13,16,20,21,23,24,29,39,44,55,76,81,87,88,89}
+QuestValues = {(60,1),(61,1),(217,3),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={3507 String="xibun sorcerer \nthais" Editor="Oley of Markiz Amon"}, 3504 Content={3507 String="xibun sorcerer\nthais\n" Editor="Carlo of Markiz Amon"}, 3504 Content={2480, 2869, 3507 String="xibun sorcerer\nthais"}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3349}}, 3349, 3349}, 3358, 3349, 3349}, 3358}}, 3349, 3349}, 3358, 3349}, 3349}, 3358}, 3358, 3358}, 3358}, 3358, 3349}, 3358, 3349}, 3358, 3358, 3358}, 3349, 3358, 3358, 3349}, 3349}}, 3349, 3358}, 3358}, 3349, 3349, 3358, 3358}, 3349}, 3349}}, 3358, 3358}, 3358}}}}, 3349, 3358}, 3358}, 3358, 3358}, 3358, 3349}, 3358, 3358, 3358}}, 3349, 3352}, 3349, 3349, 3349}}, 3349}, 3349}, 3349, 3349}, 3349}, 3349}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853, 3349}, 3349}}}}}, 3349, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3349}, 3349}}, 3349}}}}, 3349, 3349}, 3349}, 3349}, 3349, 3349, 3349}, 3349, 3349}, 3349}}}}, 3349}}}, 3507 String="xibun sorcerer\nthais"}, 3502 Content={3358, 3358, 3003, 3457, 3506 String="Xibun sorcerer\nEdron\n\n#This message was generated automatically#\n\nWelcome!\nWe have broken database \nWe have this problem but new update is not ended exacly\nSorry for more problems\nPlease Loog Intro Page:\n\nhttp://Tibia-service.nasze.com\nTo See More Informations.\n\nCopyright 1996-2005 CipSoft GmbH.", 3506 String="xibun sorcerer\nedron\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH."}}, 
+               1 Content={3504 Content={3507 String="xibun sorcerer\ncarlin"}, 3504 Content={3507 String="xibun sorcerer\ncarlin"}, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="xibun sorcerer\nab'dendriel\n\n#This message was generated automatically#\n\nWelcome"}, 3502}, 
+               4 Content={3504 Content={3507 String="xibun sorcerer\nedron", 2865 Content={3369, 3557, 3357, 2868 Content={3446 Amount=54, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2866, 2854, 3092, 3092 SavedExpireTime=1161}}, 2854 Content={3583 Amount=1, 3449 Amount=4, 3446 Amount=10}, 2867, 2871 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3042 Amount=2, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Basement Flat 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3349, 3457, 3003, 2867 Content={2854 Content={2870 Content={3092, 3092 SavedExpireTime=1596, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 2868 Content={3092 SavedExpireTime=14, 3092 SavedExpireTime=586, 3092, 3092, 3092, 3097, 3097, 3097, 3097 SavedExpireTime=2042, 3097, 3097, 3097}}}}, 3502 Content={2854 Content={2869 Content={3177 Charges=1, 3192 Charges=2, 3192 Charges=2, 3166 Charges=4, 3188 Charges=1, 3188 Charges=1, 3152 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}}, 2865 Content={3483, 3003, 3457}}}, 
+               5 Content={3506 String="xibun sorcerer\ndarashia", 3502 Content={}}, 
+               6 Content={3072, 3075, 3277 Amount=25, 3502}, 
+               7 Content={3502 Content={}}}

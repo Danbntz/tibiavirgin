@@ -1,0 +1,53 @@
+ID              = 8842843
+Name            = "Debaalbek"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,115-19-76-19)
+CurrentOutfit   = (129,115-19-76-19)
+LastLogin       = 1147524587
+LastLogout      = 1147524646
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,67898,0,69700,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,56160,1400,78644,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51022,1100,53763,100)
+Skill = (7,45,0,10,0,0,0,0,0,0,0,8950,1100,8973,30)
+Skill = (8,32,0,10,0,0,0,0,0,0,0,13879,1200,16311,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,201,1200,268,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,98,1200,109,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,323,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1454,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,10,20,29,42,51}
+QuestValues = {(17,1),(18,1),(21,1),(22,1),(23,1),(35,1),(37,1),(59,1),(106,1),(107,1),(125,1),(126,1),(128,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854},
+               4 Content={3377},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3447 Amount=87}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=1, 3285, 3552, 3483, 3003, 3300, 2969 KeyNumber=3033, 3327, 2867 Content={}, 2471 Content={2473 Content={}, 2469 Content={}, 2473 Content={}, 2469 Content={}, 2856 Content={}, 2471 Content={}, 3504 Content={3507 String=""}, 2473 Content={}, 2471 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2472 Content={}}, 2869 Content={}, 3316, 2471 Content={3723 Amount=2, 3595 Amount=4, 3577 Amount=55, 3590 Amount=61, 3577 Amount=100, 3578 Amount=71, 3577 Amount=100, 3582 Amount=33}, 2854 Content={3447 Amount=73, 3449 Amount=21, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3287 Amount=4, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3448 Amount=32}, 2473 Content={2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}}, 2473 Content={2853 Content={3505 String="", 3505 String="", 3505 String=""}, 2853 Content={2874 ContainerLiquidType=0, 3308, 3457}, 2853 Content={3308, 3003, 3003, 2821 String="Royal Archives - 960 p.g\n\nConcerning: Graveyard rumours\n\nHRH has issued orders that the continuing rumours about a dungeon entrance at the graveyard be publicly denied and then ignored as they are obviously untrue.\n\nNo further action is to be taken.", 2821 String="Royal Archives - 943 p.g\n\nConcerns: City graveyard\n\nHRH has ordered an expansion of the city graveyard to the east, due to the increased demand for resting places. It is hoped that the eastward expansion will avoid problems with the undead experienced with previous graveyards closer to the city entrance.", 3003, 3457, 3003}, 2853 Content={2873 ContainerLiquidType=0, 2816 String="", 3003, 3003, 2911 SavedExpireTime=2587, 2901 ContainerLiquidType=0, 3457, 3457}, 2853 Content={3003, 2914 SavedExpireTime=1434, 3456, 2875 ContainerLiquidType=0, 3457, 3003, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 3451}, 2853 Content={2901 ContainerLiquidType=0, 2815 String="Só escrevendo pra dizer que foi muito bom conhecer você....\nEspero que possamos nos encontrar em breve, em Main...e desejo toda sorte do mundo pra você lá....\nMilhões de beijos Kayy Durst", 3506 String="Debaalbek\nThais\n\n...eu tinha medo de morrer, agora compreendo...era sensação antecipada de que ainda faltava te conhecer.\n...eu tinha medo de morrer, agora meu coração está em paz, e até a idéia de morrer não me amedontra mais...\nÉ como se afinal já tivesse cumprido meu destino e justificado meu viver...agora eu já posso até morrer!!!\nBeijos meu Lord\nKayy Durst", 2911 SavedExpireTime=2990, 3457, 3483, 3456, 3003}}, 2865 Content={3192 Charges=2, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3164 Charges=1, 3059 String="", 3059 String="", 3189 Charges=3, 3153 Charges=1}, 2473 Content={2471 Content={3354, 3411, 3411, 3410, 3410, 3354, 3411}, 3264, 3294, 3349, 3377, 3294}, 2473 Content={3264, 3265, 3285, 3349, 3285, 3277 Amount=84, 3301, 3446 Amount=59, 3349, 2854 Content={3374, 3351, 3552, 3425, 3300, 3372, 3425, 3421, 3375, 3375, 3421, 3430, 3377, 3558, 3375, 3358, 3362, 3411, 3410, 3430}}, 2473 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3056 RemainingUses=200, 3056 RemainingUses=200, 3035 Amount=20}}, 2906}}, 
+               1 Content={3504 Content={3447 Amount=100, 3350, 3350, 3446 Amount=15, 3447 Amount=36, 3449 Amount=5, 3507 String="Debaalbek\ncarlin\nque chato ter morrido ó...\nto meio triste com o char da suen!"}, 3502 Content={3377, 3447 Amount=28, 3456, 3457, 3003, 3003, 2471 Content={3577 Amount=17, 3578 Amount=66}, 2472 Content={3266, 3300, 3301, 3372, 2870 Content={3198 Charges=5, 3198 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3198 Charges=5, 3198 Charges=5, 3172 Charges=3, 3172 Charges=3}, 2870 Content={3374, 3375, 3286, 3410, 3264, 3375, 3362}, 3357, 3446 Amount=37, 3349, 3277 Amount=10, 3425, 3350}, 2473 Content={2868 Content={3031 Amount=80, 3031 Amount=13, 3035 Amount=5, 3031 Amount=100}}, 3504 Content={3361, 3273, 3507 String="Debaalbek\nCarlin"}, 2870 Content={}, 2870 Content={2853 Content={3661, 2911 SavedExpireTime=2797, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=1, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2920 SavedExpireTime=0}, 3505 String="", 3505 String="Dark Draikon hunts here dont go down", 3505 String="", 3505 String=""}, 2868 Content={}}}, 
+               2 Content={3502 Content={3031 Amount=36, 2473 Content={}, 2473 Content={}, 3286, 2870 Content={3446 Amount=14, 3349, 3349, 3349, 3349}, 3430, 2870 Content={3031 Amount=12, 3031 Amount=100}, 2870 Content={3505 String="", 3505 String="", 3505 String="PUTITA", 3505 String=""}, 3457}}, 
+               3 Content={3502 Content={3457, 3277 Amount=7, 3003, 3350, 3447 Amount=100, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 3504 Content={3593, 3600 Amount=12, 3577 Amount=10, 3300, 3300, 3507 String="Debaalbek\nab'dendriel"}, 2469 Content={}, 2472 Content={3285, 3265, 3349}, 2473 Content={3031 Amount=84, 3035 Amount=23}, 2865 Content={}, 2865 Content={3505 String="", 3505 String="", 3287 Amount=1, 3552, 3362}, 2865 Content={}, 3457, 3456, 2885 ContainerLiquidType=0}}}

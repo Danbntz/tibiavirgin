@@ -1,0 +1,57 @@
+ID              = 9733673
+Name            = "Alto carcelo"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,95-107-85-85)
+CurrentOutfit   = (133,95-107-85-85)
+LastLogin       = 1148255593
+LastLogout      = 1148255880
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32307,32091,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,330974,0,368300,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,470676,1100,478602,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,187,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30964,1500,38723,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,146,1800,181,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3387,1800,3763,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,122,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,423,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3147,1100,3289,20)
+Skill = (14,0,1200,0,0,0,881,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,6,7,8,9,10,11,12,15,16,17,20,25,26,27,29,30,38,39,42,44,76,77,78,81,83,84,87,88,89,91}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(55,1),(59,1),(99,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(128,1),(140,1),(141,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3085 RemainingUses=136},
+               3 Content={2866 Content={3578 Amount=2, 3265, 2854 Content={3160 Charges=1, 3191 Charges=2, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3174 Charges=3, 3198 Charges=5, 3147, 3147, 3147, 3147}, 3191 Charges=2, 3046 SavedExpireTime=303, 3350, 3449 Amount=26, 3492 Amount=58, 3003, 3457}},
+               4 Content={3370},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="alto carcelo\nthais" Editor="Alto carcelo", 3504 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3035 Amount=4, 3031 Amount=100, 3031 Amount=100, 3507 String="alto carcelo\ndarashia" Editor="Clark Quinrif"}}, 3504 Content={3507 String="alto carcelo\nthais" Editor="Alto carcelo", 3504 Content={3504 Content={3070, 3582 Amount=7, 3065, 3409, 3061, 2920 SavedExpireTime=29, 3289, 3507 String="alto carcelo \ndarashia\n" Editor="Clark Quinrif"}, 3504 Content={2853 Content={3265, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3492 Amount=53, 2853 Content={3056 RemainingUses=194, 3007, 3046 SavedExpireTime=352}, 2853 Content={3085 RemainingUses=200, 3052}, 2853 Content={3017, 3045 RemainingUses=200, 3045 RemainingUses=200}, 2853 Content={3351, 3351, 3351, 3177 Charges=1, 3050, 3050, 1781 Amount=9}}, 2876, 3330, 3039, 3492 Amount=2, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3507 String="alto carcelo\ndarashia" Editor="Janet carcelo"}, 2656, 2659, 3505 String="chabelon en la puta tarde k me kede leviando ai seme fue el puto internet y mori pero ya recupere el lvl sake 14k de loot y compre bps de bolst \n\n02:10 Asterit: pay or hunted. ese verga me hunteo asi de wuevos wey asu madra me gaste 1 bp de uhs corriendo    -.- . 02:17 Acko Bokiz: k page o kuello. kieren k page 20 k o mas pero ya me gaste el varo :S\nel rikkuh vera si me hace el paro mañana hablara con meldron \n\nNO SALGAS DEL DP  " Editor="Royal Xolor", 3354, 3354, 3354, 3003, 3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 3504 Content={3012, 2394, 2394, 2394, 2394, 2394, 2394, 2394, 3507 String="alto carcelo\ndarashia\n" Editor="Clark Quinrif"}}, 3504 Content={3507 String="alto carcelo \nthais " Editor="Sayn Abra"}, 3504 Content={3504 Content={3507, 3507, 3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 3504 Content={3504 Content={3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 3504 Content={3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 3504 Content={3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 2853, 3507 String="Alto Carcelo\nThais" Editor="Grillo carcelo"}, 3507 String="alto carcelo\nthais" Editor="Alto carcelo", 2853 Content={2853, 2853 Content={2853}}}, 3504 Content={3505 String="WE  Al tiro por ke me an estado amenazando\nxD\nahahha\nkabler.." Editor="Sir'filth", 3504 Content={2472, 3507 String="alto carcelo\nthais" Editor="Alto carcelo", 3505}, 3504 Content={3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 3504 Content={3507 String="alto carcelo\nthais\n\nwe cuida esto el cahrt se lo di preste a un amigo" Editor="Clark Quinrif"}, 3507 String="alto carcelo\nthais" Editor="Alto carcelo"}, 3547 Amount=4, 3548 Amount=5, 3502 Content={3410, 3012, 3551, 2854 Content={2870, 2867 Content={3589 Amount=1, 3593, 3578 Amount=1, 3600 Amount=1, 3601 Amount=1, 3120, 3599 Amount=1, 3586 Amount=1, 3587 Amount=2, 3592, 3593, 3595 Amount=1, 3594, 3596 Amount=2, 3579 Amount=1, 3597 Amount=1, 3583 Amount=1}, 2872 Content={3061, 3298 Amount=3, 1781 Amount=9}, 2866 Content={3049 SavedExpireTime=592, 3097, 3093 SavedExpireTime=1797, 3093}, 2854 Content={3264, 3264, 3289, 3289, 3119, 3316, 3291, 3285, 3307}, 2854 Content={3012, 3054 RemainingUses=200, 3084 RemainingUses=243, 3084 RemainingUses=250, 3084 RemainingUses=250, 3077, 3077, 3077}, 2854 Content={3377, 3377}, 2854 Content={3046, 3354, 3045 RemainingUses=105, 3066, 3066, 3046, 2876, 3454, 3451, 3451}, 2854, 2854}, 2949, 2991, 2858 Content={2857 Content={3059, 3059}, 2858 Content={3351, 3177 Charges=1}, 2858 Content={2856 Content={3291}, 2914 SavedExpireTime=1784, 2969 KeyNumber=3600}, 2858 Content={3354, 3354}}}}, 
+               5 Content={3502 Content={2866 Content={3353, 3046, 3282}}}, 
+               6 Content={3504 Content={3507 String="alto carcelo\nvenore" Editor="Mondor"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

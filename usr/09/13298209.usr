@@ -1,0 +1,59 @@
+ID              = 13298209
+Name            = "Claude Aldebaran"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,77-57-109-57)
+CurrentOutfit   = (128,77-57-109-57)
+LastLogin       = 1148231959
+LastLogout      = 1148251247
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32302,32236,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,586125,0,601800,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,710905,1100,780562,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,505,815,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,45733,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1488,1800,2063,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,425,1800,593,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,60,1800,140,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,954,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8785,1100,8851,20)
+Skill = (14,0,1200,0,0,0,1118,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,85,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,11,12,14,16,18,20,25,26,27,29,31,38,42,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(38,1),(39,1),(55,1),(59,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(115,1),(121,1),(140,1),(141,1),(142,1),(143,1),(144,1),(145,1),(146,1),(147,1),(190,1),(191,1),(223,1),(253,1),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2867 Content={3483, 3578 Amount=44, 3147, 3492 Amount=8, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147}, 3200 Charges=3, 3191 Charges=1, 3147, 3155 Charges=1, 3457, 3003, 3155 Charges=1, 3155 Charges=1}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+
+Depots      = {0 Content={2854 Content={3031 Amount=8, 3031 Amount=50, 3031 Amount=100, 3384, 3578 Amount=57, 3350, 3456, 3457, 3054 RemainingUses=200, 3457, 2920, 2920 SavedExpireTime=25}, 3504 Content={3308, 2854 Content={3093, 3066, 3668, 3658, 2914 SavedExpireTime=1997, 3337, 3658, 3093, 3289, 2856, 2854 Content={3336, 3412, 3093 SavedExpireTime=1798, 3093, 3093, 2969 KeyNumber=3600, 3668, 3658}, 3093 SavedExpireTime=1706, 3505, 3505 String="No pude llegar al 56 srry ia tengo mucho sueño y algo raro me esta pasando como que estoy  mutando, asi que me voy a dormir. Lo siento TQM\nCUIDATE PRESIOSA" Editor="Drana Juarias", 3505 String="Oye me tuve que ir tengo algo que hacer a las 6 y me tengoq ue bañar srry luego te lo entreno.\n03:46 Retorno delprincipe charro: m puedes dar tu correo\n03:49 Retorno delprincipe charro: andale\n03:49 Retorno delprincipe charro: o lloro\n03:51 Retorno delprincipe charro: te lo pido de rodillas\n04:20 Retorno delprincipe charro: estas ay\n04:25 Retorno delprincipe charro: hermosa\n04:32 Retorno delprincipe charro: oye hermosa\n04:32 Retorno delprincipe charro: te doy mi msn\n04:34 Retorno delprincipe charro: principe_cha-rro@hot\nChiale wuacala >.< " Editor="Drana Juarias", 3505 String="Aver si con esto no te matan amiga. Cuidate Pancha Federica.\n\nXD\n" Editor="Claude Aldebaran", 3505 String="Solo queria saludarte guapa y desirte que te quiero mucho bueno cuidate mucho no quiesiera que te pase algo adios lynda.\nle di las demas uh a diana espero que te queden mas ^^Chao TQM\nadios\nTu tienes un lugar especial en mi corazon que nadie ocupara" Editor="Drana Juarias", 3506 String="Drana Juarias\nThais\nOye me acorde de que ia no te habia escrito cartas de amor asi que te escribi esta^^ por que eres la mas chula de todas las chulas del mundo y eres mi cielo y mi corazon es tuyo solamente ee que no te quepa la menor duda ,amorsote  te bajaria el sol y la luna y las estrellas pero no seria suficiente para desirte cuanto te quiero .y Jamas habra otra que me emocione tanto como tu(en todas las formas que me puedas emocionar  estas bien sabrosa>.<) Bueno te quiero muchisimo chikita y la proxima carta sera mejor .Con todo cariño para la mas hermosa de las mujeres y la mas simpatica de tu admirador Nº1 Claude \nPD.Cuando pienso en que te perderia se me pone la piel de gallina de pensar que no te ubiera conocido como ahora mi presiosa.CUIDATE MUCHISIMO" Editor="Claude Aldebaran"}, 2854 Content={3506 String="Drana Juarias\nThais\nOye... lo siento, estoy teniendo problemas con mi computadora y no pude subir de nivel a edwin" Editor="Smallville Knight", 2857 Content={3077, 3003, 3457, 3093 SavedExpireTime=112, 3046, 3084 RemainingUses=250}, 3085 RemainingUses=79}}, 3504 Content={3351, 3351, 3003}, 3504 Content={3375, 3430, 2853 Content={3277 Amount=9, 3552}, 2969 KeyNumber=3600, 3283, 3374}, 2868 Content={3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3305, 3297, 3003, 3265, 2854 Content={3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3359, 3322, 3322, 3282, 3282, 3282, 3282, 3282, 3282, 3425, 2853 Content={3420, 3043 Amount=1, 3035 Amount=84, 2969 KeyNumber=3610, 2969 KeyNumber=3600, 2969 KeyNumber=3650, 3085 RemainingUses=90, 3358}}, 3287 Amount=11, 3271}, 2854 Content={3377, 3349, 3275, 3457, 3330, 3349, 2920, 3551, 3301, 2854 Content={3007, 3081 RemainingUses=5, 3284 RemainingUses=1, 3051, 3030 Amount=4, 3028 Amount=11, 3029 Amount=6, 3017, 3037, 3027 Amount=6, 3033 Amount=7, 3350, 3425, 3384, 3301}, 3505 String="claude sek\naki aldaito mio  xD\n\n\nalratito bengo  boy  a desayunar ke tengo habmre  si kieres esperame aki o vete a thais  tu niña ke se robo tu ekipo  \n\n\nte kiere mucho  aiyana juarias" Editor="Aiyana Juarias"}, 2875, 2853 Content={3483, 3456, 3483, 3483}, 3504 Content={3598 Amount=5, 2874 ContainerLiquidType=8, 2874 ContainerLiquidType=8, 3597 Amount=2, 3587 Amount=1, 3601 Amount=1, 3595 Amount=4, 3602 Amount=2, 3585 Amount=5}, 3502 Content={3505, 2854 Content={3082 RemainingUses=50, 3085 RemainingUses=200, 2872 Content={3098, 3070, 3446 Amount=7, 3447 Amount=99, 3003}, 2853 Content={3093 SavedExpireTime=1306, 3351, 3349, 3351}, 3598 Amount=3, 3456, 3285, 2906, 3082 RemainingUses=50}, 3059, 2473 Content={3583 Amount=14, 3457, 2853 Content={2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={2867 Content={2854, 3736 Amount=1, 2969 KeyNumber=5000, 3050}}, 2871, 2865 Content={3008, 3046 SavedExpireTime=203, 3505 String="Drana Juarias \nThais\nAver que tal esta\nMary ojala " Editor="Claude Aldebaran", 3384, 3054 RemainingUses=200, 3351}}, 3046, 3059, 2969 KeyNumber=3600}, 2854 Content={3074, 3074, 2920, 2920 SavedExpireTime=599, 2853 Content={3275, 2842, 3377, 3083 RemainingUses=150, 3459, 2914 SavedExpireTime=1465}, 3097, 3740 Amount=1, 3130, 3003}, 2885 ContainerLiquidType=8, 3299, 3559}}, 
+               1 Content={3031 Amount=12, 3031 Amount=100, 2659, 2864 Content={3563, 3093, 3447 Amount=6, 2991, 2639, 2989}, 3097, 3046, 3054 RemainingUses=165, 3083 RemainingUses=150, 3076, 3734 Amount=1, 3572, 3590 Amount=3, 2854 Content={3084 RemainingUses=250, 3271, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=98, 3031 Amount=100}, 3031 Amount=100, 3504 Content={3076, 2667, 2650, 2659, 2641, 2664 RemainingExpireTime=94, 2650, 3031 Amount=2, 3507 String="Claude aldebaran\nCarlin" Editor="Clause sek"}, 3504 Content={2635, 2659, 3586 Amount=2, 2640, 3053}, 3502 Content={3357, 3358, 1781 Amount=7, 3377, 3007, 3409, 3384, 3350, 3008, 3017, 2906, 2632, 2659, 2656, 2650, 2650, 3456, 3065, 3356, 3356, 3381, 3369, 3295, 3281, 3434, 3391}}, 
+               2 Content={3457, 3507, 3503, 3502 Content={3413, 3358, 2874, 1781 Amount=1, 3358, 3446 Amount=62, 2853 Content={3723 Amount=20, 3092, 3425, 3425, 3413, 3425}, 2969 KeyNumber=3600}}, 
+               3 Content={3502}, 
+               5 Content={3504 Content={3507 String="Claude Aldebaran\ndarashia" Editor="Aiyana Juarias", 3031 Amount=100, 3031 Amount=55, 3031 Amount=52}, 3502}, 
+               6 Content={3502}}

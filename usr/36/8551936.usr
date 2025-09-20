@@ -1,0 +1,55 @@
+ID              = 8551936
+Name            = "Sagoko"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,16-110-16-0)
+CurrentOutfit   = (128,16-110-16-0)
+LastLogin       = 1148158670
+LastLogout      = 1148168111
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32134,31606,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,265872,0,295200,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,383778,1100,392762,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,605,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,26156,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,689,2000,750,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,14005,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,159,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,57,0,10,0,0,0,0,0,0,0,17502,1100,19203,20)
+Skill = (14,0,1200,0,0,0,1021,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,2,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,7,8,9,10,13,16,18,21,25,26,27,29,30,38,44,45}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(35,1),(54,1),(59,1),(60,1),(61,1),(125,1),(126,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3578 Amount=7, 3031 Amount=22, 3492 Amount=62, 2874 ContainerLiquidType=11, 3457, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147, 3147, 3147}, 3003}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={2920 SavedExpireTime=315, 3507 String="\n" Editor="Sagoko", 2854 Content={2868 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3502}, 
+               1 Content={3504 Content={3504 Content={2854 Content={3457, 3483, 3276, 3003, 3283, 3506 String="Acan Mitona\nCarlin \nWelcome!\nYou were chosen to get a free premmium account!\nIt´s the newer system of CipTeam.\nFor guarantee you Premmium Account, enter in www.promotion.clic3.net and do what you need to get your prize!\nYour Premmium Account will be actived in a week.\nHave fun in Tibia with your Premmium advantage!" Editor="Acan Mitona", 3375, 2853, 3367, 3411, 3300}, 2853, 3367, 2650, 3552, 3504, 3504, 3504 Content={3507 String="zywy of sorcerer\nCarlin" Editor="Arkan Zalyn"}, 3504}, 3003, 3505 Editor="Culados", 2868 Content={3533 Amount=18, 3534 Amount=42, 3457, 3551, 2868 Content={2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2920, 3362, 3084 RemainingUses=40, 3207 Amount=1, 3056 RemainingUses=200, 3147, 3305, 3425, 3590 Amount=2, 2853 Content={3375, 3375, 3375, 3375, 3375, 3375, 3375}, 3353, 3050 SavedExpireTime=1788, 3349, 3483, 3375, 3147, 3147, 3147, 3147}, 3504 Content={3507 String="Acan Mitona\ncarlin" Editor="Culados", 3483, 2865 Content={2859 Content={2914 SavedExpireTime=1840, 3059, 3358, 2911 SavedExpireTime=1910, 2911 SavedExpireTime=2840, 2911, 2911, 2911}}}, 3504 Content={3425, 3008, 3074, 3377, 3362, 3507 String="Acan Mitona\nCarlin" Editor="Culados"}, 3582 Amount=1, 3583 Amount=5, 3031 Amount=33, 3552, 3362, 3054 RemainingUses=200, 3425, 3359, 3031 Amount=100, 3074, 3578 Amount=42}, 3507 String="sagoko\ncarlin" Editor="Acan Mitona"}, 3072, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 2970 KeyNumber=4503, 3003, 2868 Content={2853, 2854 Content={2868}}, 3052, 3457, 3052, 3052, 3447 Amount=45, 3409, 3502 Content={3456, 2955}}, 
+               3 Content={3502}}

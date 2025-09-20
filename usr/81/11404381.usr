@@ -1,0 +1,54 @@
+ID              = 11404381
+Name            = "Dante Necros"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-113-114-114)
+CurrentOutfit   = (129,0-113-114-114)
+LastLogin       = 1148166184
+LastLogout      = 1148167928
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32947,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,169695,0,179400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,115461,1400,157982,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,140,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,19399,1100,20113,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18420,1100,19579,30)
+Skill = (8,31,0,10,0,0,0,0,0,0,0,12033,1200,13551,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,199,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,349,1100,370,20)
+Skill = (14,0,1200,0,0,0,1108,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,92,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,10,11,20,29,48,51}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(190,1),(191,1),(217,3),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=195},
+               3 Content={2867 Content={3578 Amount=14, 3447 Amount=40, 3350, 3447 Amount=7, 3031 Amount=61, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3425, 3003, 3457, 3160 Charges=1}},
+               4 Content={3357},
+               5 Content={3483},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3492 Amount=63}}
+
+Depots      = {0 Content={3502 Content={3350, 3447 Amount=85, 2969 KeyNumber=5000, 2920, 3447 Amount=100, 3093, 2920 SavedExpireTime=229, 2870, 2870 Content={3359, 3377, 3359, 3359, 3558, 3372, 3384, 3413, 1781 Amount=3, 3413, 3269}, 2854 Content={3598 Amount=2, 3271, 1781 Amount=2, 3291, 3003, 3457, 3003, 3012, 2875 ContainerLiquidType=3, 3585 Amount=15, 3457, 3003, 3457, 3457}, 2854 Content={3349, 3448 Amount=8, 3448 Amount=100}}}, 
+               1 Content={3502}, 
+               6 Content={3502 Content={2865, 2867 Content={3350, 3350}, 3059, 2867 Content={2867, 2871}, 2854 Content={3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=15, 3031 Amount=100, 3035 Amount=100}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=1, 3448 Amount=23, 3448 Amount=100}, 2854 Content={3297, 3285, 3285, 3280, 3307, 3291, 3285, 3275, 3046, 3430, 3425, 3425}, 2857 Content={3724 Amount=1, 3595 Amount=1, 3585 Amount=1, 3598 Amount=1}, 2867 Content={3160 Charges=1, 3160 Charges=1}, 2867 Content={3370, 3372, 3377, 3353, 3558, 3362, 3375, 3374}, 2867 Content={3349, 3349, 3446 Amount=94, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3446 Amount=100, 3349, 3349, 3349, 3349}, 2867 Content={3027 Amount=2, 3008, 3097 SavedExpireTime=3170, 3736 Amount=1, 3030 Amount=1, 3459, 3052 SavedExpireTime=942, 3056 RemainingUses=200, 3097 SavedExpireTime=3596, 3054 RemainingUses=192, 2875 ContainerLiquidType=3, 2989, 3004, 3463, 3098, 3097 SavedExpireTime=3591, 3026 Amount=1, 3084 RemainingUses=250, 3077}, 2867 Content={3003, 3291, 3277 Amount=30, 1781 Amount=7, 3483, 3483}}}}

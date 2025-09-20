@@ -1,0 +1,61 @@
+ID              = 8008310
+Name            = "Tortas'chencho"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-114-116-114)
+CurrentOutfit   = (128,116-114-116-114)
+LastLogin       = 1147133821
+LastLogout      = 1147133830
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32220,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1382252,0,1423500,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,494490,1400,618272,1600)
+Skill = (2,555,555,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,208,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1210,1210,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,78796,1100,79179,100)
+Skill = (7,77,0,10,0,0,0,0,0,0,0,181575,1100,195505,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,116,1200,181,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,679,1200,824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,23,0,10,0,0,0,0,0,0,0,2867,1200,2959,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7832,1100,8028,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,11,15,20,29,30,42,44,49,51,76,79,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(37,1),(38,1),(39,1),(55,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(134,1),(137,1),(140,1),(141,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(156,1),(157,1),(190,1),(191,1),(217,3),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3349, 3577 Amount=1, 3061, 3582 Amount=15, 3492 Amount=15, 3085 RemainingUses=84, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 2854 Content={3188 Charges=1, 3003, 2920, 2920, 2920, 2920, 3188 Charges=2, 2920, 2920, 2920 SavedExpireTime=587, 2920}}},
+               4 Content={3370},
+               5 Content={3147},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=75}}
+
+Depots      = {0 Content={3031 Amount=2, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3492 Amount=47, 3483, 2867 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3114 Amount=1, 2869 Content={3349, 3349, 3349, 3367, 3367}, 3003, 2865 Content={3093, 3093, 3093, 3004, 3097, 3092, 3092, 3092, 3092, 3097 SavedExpireTime=3555, 3093, 3050 SavedExpireTime=1267}, 3483, 3483, 3003, 3003, 2853 Content={2969 KeyNumber=3600, 2969 KeyNumber=3650, 2970 KeyNumber=3800, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 3456}, 2854 Content={3085 RemainingUses=200, 3045 RemainingUses=200, 3059, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3056 RemainingUses=200}, 2473 Content={2906, 2854 Content={3377, 3377, 3377}, 2865 Content={3351, 3425, 3084 RemainingUses=250, 3391, 3357, 3421, 3083 RemainingUses=150, 3301, 3301, 3301, 3279, 3316, 3316, 3316, 3275, 3307}}, 2469 Content={2866 Content={3454, 2969 KeyNumber=3600, 1781 Amount=1, 3012}, 2870, 2854 Content={2854}, 2867, 2871, 2856 Content={2868, 2854, 2868 Content={2870, 2865, 2854, 2854}}}, 2870 Content={3457, 3457, 3457, 3457, 3483, 3483, 3483, 3483, 3078, 3483, 3456, 3456, 3003, 2969 KeyNumber=3600, 3003, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 3457, 3483}, 2867 Content={3350, 3287 Amount=4, 3277 Amount=20, 3449 Amount=63, 3447 Amount=30, 3350, 3349, 3349, 3287 Amount=100, 3448 Amount=29, 3350, 1781 Amount=15, 3505 String="tortas chencho hunt here\n\nRespect please\n\nMSG ME FIRST\n\nDont Go Down", 3505, 3505 String="Tortas Chencho\nhunt here\n", 3505, 3505}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=34, 3061, 3505 String="Tortas'chencho hunt here\n\nDon't go down \n\nmsg me first.\n\nleave.\n\nthx.\n", 3505 String="Tortas'chencho hunt here\n\nDon't go down \n\nmsg me first.\n\nleave."}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3425, 3425, 2866 Content={3349}, 3502 Content={}}, 
+               5 Content={3356, 3313, 3502 Content={3449 Amount=17}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}}

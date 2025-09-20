@@ -1,0 +1,59 @@
+ID              = 10623366
+Name            = "Cyrad"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,114-132-114-114)
+CurrentOutfit   = (134,114-132-114-114)
+LastLogin       = 1148239090
+LastLogout      = 1148239130
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32217,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,417930,0,452600,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,205204,1400,222775,1600)
+Skill = (2,231,415,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,12,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,930,930,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10766,1100,10918,100)
+Skill = (7,66,0,10,0,0,0,0,0,0,0,64075,1100,68328,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,5079,1200,5296,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,15,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,23,1200,50,50)
+Skill = (11,24,0,10,0,0,0,0,0,0,0,3404,1200,3601,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,670,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,88,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,30,42,44,49,51,76,79,81}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(38,1),(55,1),(56,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(77,1),(78,1),(84,1),(85,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(121,1),(125,1),(126,1),(140,1),(141,1),(143,1),(190,1),(191,1),(217,3),(222,1),(223,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(254,1),(292,1),(303,1),(325,2),(332,1)}
+Murders     = {1146098672,1147134114}
+
+Inventory   = {1 Content={3384},
+               2 Content={3085 RemainingUses=200},
+               3 Content={2872 Content={3160 Charges=1, 2868 Content={2860, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 3031 Amount=84, 3457, 3003}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3559},
+               10 Content={3446 Amount=53}}
+
+Depots      = {0 Content={3504 Content={3357, 3507 String="cyrad\nthais" Editor="Korn'murder"}, 3503 Content={3507}, 2854 Content={3114 Amount=22}, 3504 Content={1781 Amount=55, 2853 Content={2853 Content={3425, 3349, 2867 Content={3425, 3425, 3447 Amount=18, 3377, 3425, 3377}}, 3582 Amount=12, 3377}, 3507 String="cyrad\nthais" Editor="Cyrad"}, 3447 Amount=20, 3271, 3504 Content={3277 Amount=75, 3507 String="cyrad\nthais" Editor="Saga'Vith"}, 2854 Content={3349, 3350, 2969 KeyNumber=3620}, 2854 Content={3056 RemainingUses=200, 3097, 3148 Charges=3, 3148 Charges=3, 3148 Charges=1, 3074}, 3059, 3506 String="cyrad\nthais\n\ncituacion:retired \nsuerte wey\ncausas:\nme arto el tibiaxD :P eres gay" Editor="Royal Zane", 3502 Content={2957, 3050, 3049 SavedExpireTime=48, 3350, 3308, 3492 Amount=3, 3350, 2969 KeyNumber=3650, 3350, 3066, 3457}}, 
+               1 Content={3504 Content={3507 String="cyrad\ncarlin" Editor="Daur"}, 2842 String="\n" Editor="Gustavo the shadow master", 3017, 3003, 2906, 3502}, 
+               2 Content={3275, 3504 Content={3507 String="cyrad\nkazordoon" Editor="Sung feler"}, 2854, 3502}, 
+               3 Content={3409, 3504, 3502}, 
+               4 Content={3504 Content={3093 SavedExpireTime=1794, 3577 Amount=1, 3582 Amount=3, 3507 String="Cyrad\nEdron\n"}, 3658, 3505 String="Alex:\nMUCHAS FELICIDADES HOY EN TU CUMPLE!!!!!!!!!!!!!!!!\nEspero te la pases SUPER, no tengo mucho para regalarte pero son con mucho cariño.\nGRACIAS POR TODO.\nATTE...\nIvy\nP.D. Apurale que te gano =P\nuhasushasuhsauhsusahu\nFELIZ CUMPLEAÑOS AMIGO =D=D=D=D==D=D=D==D=D=D=D=D=D=D=D.", 3502 Content={3483}}, 
+               5 Content={3504 Content={3572, 3507 String="cyrad\ndarashia" Editor="Sung feler"}, 2854, 3502 Content={3297}}, 
+               6 Content={3502}, 
+               7 Content={2854 Content={3003, 2853 Content={3583 Amount=1, 3050}, 3287 Amount=1}, 3504 Content={3044 Amount=1, 3287 Amount=1, 3275, 3377, 3577 Amount=10, 3507 String="cyrad\nankrahmun" Editor="Sung feler"}, 2869 Content={3046 SavedExpireTime=2998, 3045 RemainingUses=200}, 3003, 3502 Content={3447 Amount=27, 3447 Amount=100}}, 
+               8 Content={3446 Amount=42, 3349, 3576, 2859, 3287 Amount=5, 3457, 2854 Content={3031 Amount=5}, 3504 Content={2854 Content={3587 Amount=13, 3593, 3586 Amount=7, 3589 Amount=2, 3577 Amount=21}}, 3502 Content={3349, 3085 RemainingUses=198, 2854}}}

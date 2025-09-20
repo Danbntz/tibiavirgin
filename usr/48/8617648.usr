@@ -1,0 +1,59 @@
+ID              = 8617648
+Name            = "Mago Azteka"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,116-97-95-116)
+CurrentOutfit   = (134,116-97-95-116)
+LastLogin       = 1147561166
+LastLogout      = 1147561262
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32674,32027,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,195579,0,204800,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,629838,1100,642316,1600)
+Skill = (2,209,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,117,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15048,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,19,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,106,1800,140,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,14167,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,711,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7605,1100,8028,20)
+Skill = (14,0,1200,0,0,0,235,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,15,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,16,18,20,25,26,29,38,39,44,76,84,88}
+QuestValues = {(1,4),(2,6),(18,1),(20,1),(21,1),(22,1),(23,1),(36,1),(37,1),(41,1),(42,1),(43,1),(44,1),(86,1),(87,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(111,1),(112,1),(115,1),(120,1),(121,1),(129,1),(130,1),(131,1),(153,1),(190,1),(191,1),(211,4),(217,3),(226,1),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3054 RemainingUses=124},
+               3 Content={2867 Content={3031 Amount=53, 3577 Amount=1, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3188 Charges=1, 3188 Charges=3, 3585 Amount=1, 3723 Amount=25, 3308, 3003, 3457}},
+               4 Content={3377},
+               6 Content={3279},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3505 String="Ahi estuvo we ya no puedo leveliar sin cosas, siempre me kitan las uhs  no mms..son para comprar hmms..me da una weba tener k hacerlas diario :S\n\n-LengUa-   bye . . . ", 2854 Content={2867 Content={3056 RemainingUses=200, 2949, 3483, 3446 Amount=3, 3059}, 3585 Amount=6, 3602 Amount=6}, 3502 Content={2857}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={}, 3349, 3502 Content={3457}}, 
+               3 Content={2472 Content={2853 Content={}, 3425}, 3502 Content={}}, 
+               4 Content={3502 Content={3358, 3358}}, 
+               5 Content={3492 Amount=99, 3492 Amount=100, 3502 Content={3504 Content={3507 String="mago azteka\ndarashia"}}}, 
+               6 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3502 Content={2854 Content={2854, 2866, 2866, 2854, 2854, 2854, 2854, 2854, 2854}, 3293, 3466, 2664 RemainingExpireTime=570, 3292, 2920 SavedExpireTime=270, 2920 SavedExpireTime=271, 3008, 3308, 3377, 3658, 2853, 3504 Content={3504 Content={3559, 3507 String="axasas\nvenore" Editor="Eigth immortal"}, 3504 Content={3504 Content={3504 Content={3507 String="sir rekien\nvenore" Editor="Elevasetk"}, 3504 Content={3507 String="sir rekien\nvenore" Editor="Sir Rekien"}, 3507 String="sir rekien\nvenore" Editor="Sir Rekien"}, 3507 String="your going to die if you dont drop this is 10 secs!!!........HA HA HA!! U NOOBS" Editor="Gath Madris", 2913, 3138, 2853 Content={3507 String="ab'dendriel\nSir Thari Romeo" Editor="Darzhaw", 3507 String="ab'dendriel\nsir thari romeo" Editor="Darzhaw"}, 3454, 2853 Content={3507 String="ab'dendriel\nsir thari romeo" Editor="Darzhaw"}}, 2853, 3003, 2853}, 2970 KeyNumber=3303, 3003, 3046 SavedExpireTime=2953, 3059, 2854 Content={2969 KeyNumber=3302, 2970 KeyNumber=3301}, 3503 Content={3358, 2853, 3507}, 3084 RemainingUses=250, 2953, 3076, 3504 Content={2854 Content={3003, 3457}, 3083 RemainingUses=150, 3275, 3349, 3507 String="mago azteka \nvenore\n" Editor="Raiden Logan", 2854 Content={3413, 3046 SavedExpireTime=464, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}}}}, 
+               7 Content={3042 Amount=1, 2853 Content={3377, 3377, 3377, 3448 Amount=4, 2853 Content={3372, 3270, 3349, 3349, 3349, 3349, 3349, 3349}}, 2853 Content={}, 2659, 2659, 2659, 2659, 3504 Content={2867 Content={}}, 3502 Content={}}}

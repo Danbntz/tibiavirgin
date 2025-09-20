@@ -1,0 +1,61 @@
+ID              = 9337855
+Name            = "Oxsly"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,79-116-114-116)
+CurrentOutfit   = (134,79-116-114-116)
+LastLogin       = 1148245309
+LastLogout      = 1148246587
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32670,32744,5]
+PlayerkillerEnd = 0
+
+Skill = (0,63,0,1,0,0,0,0,0,0,1,3820512,0,3977400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,348509,3000,582400,1600)
+Skill = (2,1000,1000,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,8,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,132,132,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1830,1830,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,73,0,10,0,0,0,0,0,0,0,439253,1100,444791,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,222,1400,328,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,213,1100,232,50)
+Skill = (9,77,0,10,0,0,0,0,0,0,0,302116,1100,325841,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (11,39,0,10,0,0,0,0,0,0,0,7725,1100,8224,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5075,1100,5420,20)
+Skill = (14,0,1200,0,0,0,873,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,42,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(18,1),(50,1),(59,1),(76,1),(77,1),(78,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(127,1),(134,1),(137,1),(140,1),(141,1),(143,1),(144,1),(151,1),(152,1),(154,1),(190,1),(191,1),(217,3),(223,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,3),(249,2),(250,2),(257,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3055},
+               3 Content={2870 Content={3031 Amount=34, 3031 Amount=100, 2853 Content={3286, 3294}, 3304, 3582 Amount=19, 3031 Amount=100, 3492 Amount=2, 3578 Amount=12, 3577 Amount=40, 3031 Amount=100, 3457, 3483, 3003, 3456}},
+               4 Content={3360},
+               5 Content={3324},
+               6 Content={3420},
+               7 Content={3364},
+               8 Content={3079},
+               9 Content={3004},
+               10 Content={2872 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866}}}
+
+Depots      = {0 Content={3504 Content={3507 String="Oxsly \nthais" Editor="Fert Nekos"}, 3502}, 
+               1 Content={3504 Content={3507 String="Oxsly\ncarlin" Editor="Fert Nekos"}, 3502}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={2853 Content={3582 Amount=2, 2914 SavedExpireTime=1998, 3723 Amount=4, 3350, 3447 Amount=18}, 3507 String="Oxsly\nport hope" Editor="Fert Nekos"}, 3504 Content={3507 String="Oxsly\nport hope" Editor="Olis Chico"}, 2969 KeyNumber=3600, 2853 Content={3582 Amount=6, 3582 Amount=74, 3577 Amount=17}, 3492 Amount=100, 3578 Amount=28, 2853 Content={3148 Charges=2, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3004, 2815 String="TE AMO MI NAVITA, NO SABES CUANTO TE QUIERO Y TE NECESITO ESPERO QUE NADA AFECTE NUESTRA AMISTAD Y LO QUE SENTIMOS,  SABES CUANTO TE DESEO Y LO MARAVILLOSO QUE HACES MIS DIAS; POR ESO Y MAS TUYA POR SIEMPRE. NADIE SERA MAS IMPORTANTE EN MI VIDA QUE TU, TE ADORO BESOS.\n\nATTE. LOLITA TU CHIKITA BONITA Y MENSA, PERO POR TI  LOKITO =D" Editor="Dark philos", 3004, 3507 String="Oxsly\nPort Hope\npara mi chikito bonito" Editor="Dark philos", 3502 Content={2970 KeyNumber=3012, 2969 KeyNumber=3001, 2969 KeyNumber=3002, 2969 KeyNumber=3004, 2969 KeyNumber=3005, 2969 KeyNumber=3006, 2969 KeyNumber=3007, 2969 KeyNumber=3008}}}

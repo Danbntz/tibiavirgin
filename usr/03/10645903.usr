@@ -1,0 +1,54 @@
+ID              = 10645903
+Name            = "Morlock The Destroyer"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,116-79-118-97)
+CurrentOutfit   = (129,116-79-118-97)
+LastLogin       = 1145463879
+LastLogout      = 1145464204
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32281,32125,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,81037,0,83400,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,65530,1100,72958,1600)
+Skill = (2,210,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,335,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11141,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,35,2000,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,184,2000,350,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,3325,2000,6350,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,34,1100,42,20)
+Skill = (14,0,1200,0,0,0,468,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,53,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,11,20,25,26,29}
+QuestValues = {(17,1),(18,1),(35,1),(59,1),(100,1),(217,3),(224,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3031 Amount=10, 3457, 3003}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={2854 Content={3031 Amount=60, 3043 Amount=1, 3035 Amount=27, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2856 Content={3349, 3349, 2856, 3074}, 2869 Content={3588 Amount=9, 3577 Amount=31, 3592, 3585 Amount=6, 3597 Amount=15, 3723 Amount=8, 3595 Amount=38, 3590 Amount=2, 3582 Amount=43, 3578 Amount=20, 3600 Amount=2, 3598 Amount=12, 3605 Amount=10, 3603 Amount=10}, 2854 Content={3577 Amount=84, 3593, 3582 Amount=100, 3577 Amount=100, 3577 Amount=99, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3593, 3593, 3593, 3593, 3607}, 2865 Content={3273, 3286, 3353, 3375, 3373, 3448 Amount=3, 3447 Amount=4, 3285, 3279, 3289, 3377, 3421, 3313, 3282, 3359, 3275, 3316, 3453, 2853 Content={3097 SavedExpireTime=3125, 3286, 3377, 3377, 3289, 3289}, 2853 Content={3316, 3285, 3285, 3285, 3285, 3285, 3375, 3375}}, 2872 Content={3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=181, 3012, 3012, 3012, 3012, 3012}, 2854 Content={2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=8, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=4, 2874 ContainerLiquidType=4, 2874 ContainerLiquidType=8, 2874 ContainerLiquidType=8}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3492 Amount=29, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2854 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457, 3003, 3003, 3003}, 2868 Content={2874, 2874, 2874, 3673, 3673, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3059, 2970 KeyNumber=3802, 2969 KeyNumber=5000, 2969 KeyNumber=4600, 2815 String="Merry Christmas!!!!!!!!!!!!!!!!!!\nLove Natalia\ni mean Breath of Heaven\ni mean josh...\nwell... u know what i mean" Editor="Morlock The Destroyer", 2906, 2991, 2949, 3551}, 2867 Content={2854 Content={2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854, 2854, 2854, 2870, 2854, 2854, 2854, 2854, 2854, 2854}}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={}}}

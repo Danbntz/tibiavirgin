@@ -1,0 +1,58 @@
+ID              = 12639266
+Name            = "Lord szatanski"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,114-114-114-114)
+CurrentOutfit   = (134,114-114-114-114)
+LastLogin       = 1148236726
+LastLogout      = 1148236737
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32639,31691,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,290580,0,295200,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,270842,1100,291109,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,400,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,44501,1500,58185,100)
+Skill = (7,16,0,10,0,0,0,0,0,0,0,2105,2000,3810,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3829,2000,6350,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,100,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,2000,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,1317,1500,1608,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9487,1100,9757,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,15,16,17,19,20,22,25,26,27,29,30,38,39,44,88,89}
+QuestValues = {(17,1),(18,1),(35,1),(59,1),(60,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(109,1),(113,1),(114,1),(115,1),(125,1),(126,1),(190,1),(191,1),(223,1),(224,1),(332,1),(333,1)}
+Murders     = {1146234298,1146234890,1146387514}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2865 Content={3578 Amount=14, 3198 Charges=5, 3031 Amount=13, 2868, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3003}},
+               4 Content={3381},
+               5 Content={3073},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2872 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}
+
+Depots      = {0 Content={3502 Content={3506 String="lord szatanski\nthais\n\nale z headriela idiota!!!!!!!! wyslal gosciowi knighty legsy i 10k bo chcial c legsy i dostal leather\nto trzeba byc debilem" Editor="Wkurzony ziom", 3504 Content={3507 String="lord szatanski\nthais" Editor="Lord szatanski"}}}, 
+               1 Content={3502 Content={3577 Amount=7, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 3004, 3483, 3483, 3357, 3557, 3552, 3351, 3415, 3506 String="Lord szatanski\nCarlin\n..." Editor="Magnon Souling", 3504 Content={3507 String="lord szatanski\ncarlin" Editor="Wkurzony ziom"}, 3504 Content={3507 String="lord szatanski\ncarlin" Editor="Lord szatanski"}, 3504 Content={3507 String="lord szatanski\ncarlin" Editor="Lord szatanski"}, 3504 Content={3507 String="lord szatanski \ncarlin" Editor="Lord szatanski"}}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3043 Amount=1, 3446 Amount=67, 3349, 2854 Content={3174 Charges=5, 3075, 3578 Amount=12, 3492 Amount=5, 3457, 2969 KeyNumber=3033, 3003}, 3503 Content={3507}, 2854, 2854 Content={3457}, 2865 Content={2865 Content={3586 Amount=1}, 3582 Amount=2, 3598 Amount=5, 3585 Amount=10, 3601 Amount=3, 3579 Amount=3, 3588 Amount=2, 3590 Amount=10}, 3504 Content={3269, 3507 String="Lord Szatanski\nAb'Dendriel\n\nTo za Noble Armor :)" Editor="Rycerz Kanalizacji"}, 2868 Content={3354, 3413}, 2854 Content={3308, 3661, 3289, 3289, 3551, 3661, 3350, 3285, 3359, 3457}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3448 Amount=5, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3147, 3147, 3147}, 2868, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3507, 2868 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 3503 Content={3504, 3504, 3504 Content={3507 String="Lord szatanski\nAb'dendriel" Editor="Lord szatanski"}, 3504 Content={3507 String="Lord szatanski \nAb'dendriel" Editor="Shaman Ami da Maru"}, 3504 Content={3572, 3572, 3572, 3507 String="lord szatanski\nab'dendriel" Editor="Lord szatanski"}, 3507 String="lord szatanski\nab'dendriel\n\nparcel" Editor="Lord szatanski"}, 2854 Content={3661, 3563, 2969 KeyNumber=3033, 3425, 3286, 3506 String="Ork Berk\nAB'dendriel\n\n\nnie wylaz z depo bo zaliczysz dead i nie mow o tym liscie szatanskimy bo go tez zabije wy noby " Editor="Lord szatanski", 3003, 3505, 3289, 3457, 2969 KeyNumber=3033, 3425, 3282, 2855, 3330}, 2911, 2911, 2867 Content={3658, 2874, 2874, 2874, 2874, 2881, 3668, 3668, 2981, 2880, 2880 ContainerLiquidType=1, 2880, 2905}, 2854 Content={3308, 3301, 3503 Content={3507 String="lord szatanski \nab'dendriel\n\ndom\n" Editor="Lord piekielny", 3544, 3535, 3541, 3544, 3546, 3541, 3541, 3503 Content={3543, 3542, 3545, 3541, 3535, 3535, 3541, 3541, 3542, 3507}}, 3425, 3350, 3605 Amount=71, 3507 String="lord szatanski\nab'dendriel" Editor="Lord szatanski", 2853 Content={3123, 3412, 3559}, 2853 Content={2853 Content={3505 String="hahahahahaha jestem w kryjuwce\n" Editor="Heff Blas", 3505, 3505 String="puto+\n" Editor="Dios buda"}, 2853 Content={3505 String="do chix dood" Editor="Sir Siq", 3505 String="gay el q lo lea\n" Editor="Evil Pyro", 3505 String="DO CHIX" Editor="Sir Siq", 3505 String="DO CHIX" Editor="Sir Siq", 3505, 3505 String="hunting here, please proceed back through the door u entered\n\nthank u \n" Editor="Zeirn Amormil", 3505 String="puto el ke lo lea\natte yo\n" Editor="Mark Boke", 3505 String="LEAVE\nSyo of Hell*\n¬¬" Editor="Thanal"}}, 3003, 3003, 3552, 2853, 3003, 3294, 3292, 3430}, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=3, 2885 ContainerLiquidType=3, 2885 ContainerLiquidType=3, 2885 ContainerLiquidType=3, 2885}, 2870 Content={3605 Amount=98, 3605 Amount=45, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483, 3483, 3603 Amount=85}, 2865 Content={2950, 2955, 2954}, 2865 Content={2955, 3483, 3307, 3505, 3349, 3003, 3349}, 2865 Content={3072, 3071, 3059, 3059, 3046}, 2865 Content={3412, 3349, 3077, 3453, 3293, 3003}}}, 
+               6 Content={3502 Content={3092, 3483, 2853 Content={2853 Content={3578 Amount=5}, 3504 Content={3507 String="Ebrethil\nab'dendriel\n" Editor="Zir Fox"}, 2853}, 3492 Amount=99, 3059, 2871 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2853, 2869 Content={2868 Content={2857 Content={4871, 3052, 3056 RemainingUses=200, 3050 SavedExpireTime=1791, 3056 RemainingUses=200, 3097, 3056 RemainingUses=200, 3085 RemainingUses=200}, 3012, 3017, 3077, 3056 RemainingUses=200, 3084 RemainingUses=250, 3052, 3085 RemainingUses=200}}, 2471 Content={3492 Amount=12, 3483, 3492 Amount=82, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}, 
+               8 Content={3502}}

@@ -1,0 +1,59 @@
+ID              = 7957509
+Name            = "Vidur'Carn"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,60-132-0-19)
+CurrentOutfit   = (134,60-132-0-19)
+LastLogin       = 1147568114
+LastLogout      = 1147568192
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32517,31965,10]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,520177,0,548900,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,352012,1400,440480,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,370,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,94205,1100,96017,100)
+Skill = (7,72,0,10,0,0,0,0,0,0,0,114152,1100,121279,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,407,1200,496,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1200,50,50)
+Skill = (11,27,0,10,0,0,0,0,0,0,0,6177,1200,6405,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,56,0,10,0,0,0,0,0,0,0,16650,1100,17439,20)
+Skill = (14,0,1200,0,0,0,1119,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,8,0,87,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,112,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,15,20,29,30,42,44,48,49,51,76,79}
+QuestValues = {(14,1),(15,1),(17,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(35,1),(36,1),(38,1),(39,1),(56,1),(59,1),(60,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(100,1),(106,1),(107,1),(115,1),(125,1),(126,1),(138,1),(139,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(153,1),(190,1),(191,1),(222,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2870 Content={3446 Amount=10, 3492 Amount=26, 3031 Amount=87, 2970 KeyNumber=3802, 3003, 3723 Amount=29, 2870 Content={3503 Content={3507 String="vidur'carn\nkazordoon" Editor="Vidur'Carn"}, 3503 Content={3507 String="vidur'carn\nkazordoon" Editor="Vidur'Carn"}, 3148 Charges=3, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}},
+               4 Content={3381},
+               5 Content={3425},
+               6 Content={3277 Amount=24},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3031 Amount=63, 3035 Amount=13, 3507 String="vidur'carn\nthais" Editor="Vidur'Carn"}, 3503 Content={3065, 3507 String="Nowa Ruda Knight\nkazzordon" Editor="Seswan Knight"}, 2868 Content={3031 Amount=3, 2920 SavedExpireTime=437}, 2866 Content={2865 Content={3351, 3092, 3052, 3093, 3093, 3093, 3307, 3384}, 2870 Content={3350, 2870 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}, 2866 Content={3372, 3377, 3377}, 3504 Content={3731 Amount=1}, 3502 Content={2869 Content={3209, 2955, 3287 Amount=27, 3421, 3083 RemainingUses=150, 3012, 3056 RemainingUses=200, 3084 RemainingUses=231, 2969 KeyNumber=5000, 2969 KeyNumber=3610, 2870 Content={3284 RemainingUses=1, 3081 RemainingUses=5, 3734 Amount=1, 3051, 3083 RemainingUses=150, 3097, 3017, 3062, 3078, 3056 RemainingUses=200}, 3012, 3012, 3012, 2857 Content={3077, 3029 Amount=6, 3028 Amount=4, 3030 Amount=2, 3327, 3084 RemainingUses=250}, 3059, 3059}, 2865 Content={3046, 3046}, 2969 KeyNumber=3620, 2868 Content={3449 Amount=10}, 2854 Content={3059, 2870 Content={2869, 2854, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 2870 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3504 Content={3457}}, 2969 KeyNumber=3650}}, 
+               1 Content={3277 Amount=6, 3502 Content={}}, 
+               2 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3277 Amount=2, 3504 Content={2870 Content={3147, 3147, 3483, 3483, 3050, 3409, 3147, 3147, 3147}, 2853 Content={3377, 3377, 3377}, 2853 Content={3056 RemainingUses=195, 3092, 3092, 3734 Amount=1, 3017, 3030 Amount=2, 3028 Amount=3}}, 3504 Content={3287 Amount=2, 3307, 3351, 3357, 3357, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3504 Content={2870 Content={2870, 2870}, 2870 Content={3349, 3446 Amount=16, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2870 Content={3492 Amount=35, 3492 Amount=100, 3492 Amount=100}, 2870 Content={3350, 3350, 3447 Amount=72, 3447 Amount=100, 3447 Amount=100}, 3457}, 3502 Content={3723 Amount=100, 3059, 2870 Content={2870 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2870 Content={3031 Amount=9, 3035 Amount=94}, 3506 String="vidur'carn\nkazordoon\n\nthanks for sticking with me bro ahuaheuaheauheuah\\uehaiuhdsu\ndefitatly better than mana sitting 8)", 2970 KeyNumber=3899}}, 
+               3 Content={3504 Content={3504 Content={3504, 3504, 3504, 3504, 3504}}, 3502}, 
+               4 Content={2853 Content={3504 Content={3409, 3409, 3409, 3409}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2854 Content={3031 Amount=58, 3035 Amount=67, 2853 Content={3059 String="", 3059 String="", 3059 String=""}}, 3504 Content={3277 Amount=29, 3350, 3349, 3349, 3350, 2854 Content={3447 Amount=81, 3447 Amount=100, 3447 Amount=100, 3449 Amount=6}, 2867 Content={3446 Amount=24, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 2866 Content={2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 3502 Content={2854 Content={3265, 3418, 3282, 2969 KeyNumber=3033}, 2869 Content={2854 Content={}, 2869 Content={}}, 2869 Content={3582 Amount=4, 3577 Amount=3, 3578 Amount=19, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2869 Content={3597 Amount=3, 3595 Amount=7, 3588 Amount=66, 3579 Amount=3, 3598 Amount=27, 3590 Amount=3}, 2854 Content={3483, 3293, 3308, 3457, 3003}, 2859 Content={2853 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801}, 2854 Content={3012, 2957, 3576, 3008, 3008, 3421, 3012, 2989, 3463, 2992 Amount=4, 3083 RemainingUses=150, 3054 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3050 SavedExpireTime=0, 3004}, 3304}, 3504 Content={3359, 3282, 3425, 3377}}}, 
+               5 Content={2853 Content={}, 3504 Content={3031 Amount=33}, 3277 Amount=4, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="vidur'carn\nvenore"}, 3502 Content={}}}

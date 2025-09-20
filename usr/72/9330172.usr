@@ -1,0 +1,61 @@
+ID              = 9330172
+Name            = "Sir Decker Cesar Aleks"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,116-0-86-116)
+CurrentOutfit   = (134,116-0-86-116)
+LastLogin       = 1128331275
+LastLogout      = 1128332135
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33213,32454,1]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,196544,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,83760,3000,193600,1600)
+Skill = (2,421,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,6,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,93142,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,47,1100,50,50)
+Skill = (9,59,0,10,0,0,0,0,0,0,0,53616,1100,58195,50)
+Skill = (10,30,0,10,0,0,0,0,0,0,0,2877,1100,3200,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,76,81}
+QuestValues = {(35,1),(59,1),(84,1),(85,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2866 Content={3457, 3160 Charges=1, 3031 Amount=69, 2866 Content={3268, 3276}, 3411, 3003, 3093 SavedExpireTime=0}},
+               4 Content={},
+               5 Content={3430},
+               6 Content={3316},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="sir decker cesar aleks\nthais"}, 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="sir decker cesar aleks\ncarlin"}, 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="sir decker cesar aleks\nab'dendriel"}, 3504 Content={3552, 3507 String="sir decker cesar aleks\nab'dendriel\n"}, 3504 Content={3507 String="sir decker cesar aleks\nab'dendriel"}, 3430, 3457, 3504 Content={3457, 2874 ContainerLiquidType=0, 3336, 3425, 3378, 3507 String="sir decker cesar aleks\nab'dendriel\n"}, 3502 Content={}}, 
+               4 Content={3504 Content={3507 String="sir decker cesar aleks\nedron\n"}, 2880 ContainerLiquidType=0, 2880 ContainerLiquidType=0, 3504 Content={3507 String="sir decker cesar aleks\nedron\n"}, 3504 Content={3507 String="sir decker cesar aleks\nedron\n"}, 3502 Content={}}, 
+               5 Content={3504 Content={}, 3147, 3054 RemainingUses=171, 3375, 3504 Content={}, 2869 Content={}, 2872 Content={3286}, 3504 Content={3507 String="sir decker cesar aleks\ndarashia\n"}, 3504 Content={3507 String="Sir Decker Cesar Aleks\ndarashia"}, 3504 Content={3504 Content={}, 3504 Content={}}, 2969 KeyNumber=3033, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3503 Content={3507 String=""}, 3031 Amount=9, 2872 Content={3492 Amount=100, 3492 Amount=76}, 2659, 2469 Content={3003, 3457, 3286, 3097 SavedExpireTime=3259, 3447 Amount=1}, 2659, 2469 Content={3441, 3412, 3447 Amount=8, 3449 Amount=1}, 2469 Content={}, 2659, 3093 SavedExpireTime=1484, 2659, 3311, 2659, 2480 Content={2388}, 2659, 2659, 3311, 2659, 2393, 2656, 2659, 2659, 2659, 2656, 2659, 2659, 2853 Content={3003, 3457, 3457, 2911 SavedExpireTime=364, 2872 Content={3589 Amount=6, 2471 Content={2471 Content={}}, 2473 Content={}, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3577 Amount=10}, 3003, 3502 Content={3412, 3425}}, 
+               8 Content={3504 Content={3507 String="sir decker cesar aleks\nport hope"}, 3502 Content={}}}

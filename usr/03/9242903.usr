@@ -1,0 +1,61 @@
+ID              = 9242903
+Name            = "Seshomarus of Zanera"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,78-114-125-114)
+CurrentOutfit   = (134,78-114-125-114)
+LastLogin       = 1138576625
+LastLogout      = 1138577607
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32953,32078,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,334253,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,163217,3000,193600,1600)
+Skill = (2,362,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,119,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,50043,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,57,0,10,0,0,0,0,0,0,0,45644,1100,48008,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,86,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3221,1100,3289,20)
+Skill = (14,0,1200,0,0,0,648,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,9,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(59,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(111,1),(112,1),(128,1),(190,1),(191,1),(208,1),(224,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3582 Amount=10, 3046 SavedExpireTime=1337, 3091 SavedExpireTime=1477, 3003, 3160 Charges=1, 3492 Amount=37, 3046, 3457, 2866 Content={3172 Charges=1, 3152 Charges=1, 3189 Charges=1, 3188 Charges=1, 3188 Charges=1, 3188 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               5 Content={3415},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2920 SavedExpireTime=589}}
+
+Depots      = {0 Content={3275, 3266, 2853 Content={3004, 3349, 3273}, 3008, 3008, 3502}, 
+               1 Content={3502 Content={3447 Amount=1, 3736 Amount=1, 3457}}, 
+               3 Content={3502 Content={3327, 3305}}, 
+               4 Content={3084 RemainingUses=250, 2858, 3084 RemainingUses=250, 3304, 3483, 3563, 2974, 3291, 3502 Content={3668, 3658, 2920 SavedExpireTime=402, 3083 RemainingUses=150, 3077, 3077}}, 
+               5 Content={2866, 3446 Amount=27, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=26}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3330, 3330, 3330, 3330}, 3504 Content={3292, 2871 Content={3003, 2867 Content={2389, 3003, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Paupers Palace, Flat 17\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3456, 2647, 3084 RemainingUses=250, 3287 Amount=1}, 3504 Content={2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 2969 KeyNumber=5000, 3507 String="lo q mas aprecio\n" Editor="Seshomarus of Zanera"}, 3504, 3059, 2869 Content={3093, 3054 RemainingUses=200, 3066}, 3503 Content={3507 String="ayorios'rotch\nvenore" Editor="Ayorios'rotch"}, 2854 Content={3598 Amount=5, 3349, 2969 KeyNumber=5010, 2920, 3054 RemainingUses=110}, 2865 Content={3412, 3031 Amount=2, 3504 Content={3507 String="luffia\nvenore" Editor="Luffia"}, 3504 Content={3507 String="Elite yantos\nvenore\n" Editor="Iron Maidenus"}, 3504 Content={3507 String="Elite yantos\nvenore" Editor="Iron Maidenus"}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3504 Content={2853}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2869 Content={3046 SavedExpireTime=2999, 3061, 3046}, 3504 Content={3552, 3300, 3559, 3507 String="seshomarus of zanera\nvenore\n" Editor="Enya Arrous"}, 3551, 3504 Content={3066}, 3504 Content={3507 String="Seshomarus of zanera\nVenore" Editor="Seshomarus of Zanera"}, 2867 Content={2869, 2860, 3449 Amount=1, 3597 Amount=1, 3308, 3054 RemainingUses=151, 2853 Content={3410, 3264, 3410}, 3552, 3031 Amount=1, 2920, 2920 SavedExpireTime=597, 2920, 2920, 3457, 3003}, 2857 Content={3093 SavedExpireTime=1788, 3097, 3097, 3049, 3052, 3098}, 2870 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3066}, 3034 Amount=1, 2854 Content={2865, 2874, 3046, 2872 Content={3283, 3305, 2955}, 2991, 3290, 3449 Amount=1, 3723 Amount=5, 2856 Content={3421, 2854 Content={3377, 3003}, 2854 Content={3504 Content={3507 String="Elite yantos\nvenore\n" Editor="Iron Maidenus"}, 3504, 3504 Content={3507 String="Elite yantos\nvenore" Editor="Iron Maidenus"}, 3008, 2876}}, 3349, 3586 Amount=4, 3551}, 2872 Content={3377, 3372, 3425, 2867 Content={2389, 3033 Amount=2, 3084 RemainingUses=250, 2386, 3042 Amount=6, 3026 Amount=3, 3028 Amount=1, 2991, 2387, 3065, 3027 Amount=6, 3076, 2872, 3003}, 2854 Content={3287 Amount=4, 3077, 2876, 3421, 3606 Amount=7, 2949, 3077, 3008, 2656, 2952, 2656, 2867, 3299, 3031 Amount=1, 3492 Amount=1, 3457, 3003}, 2656, 2653, 2955, 2950, 2952, 2949, 3579 Amount=4, 3066, 3289, 3403, 3384}, 2854 Content={3265, 2638, 2659, 2647, 2647, 2667, 2647, 2667, 2667, 2656, 2656}, 3507 String="Seshomarus of Zanera\nDarashia\n" Editor="Seshomarus of Zanera"}, 3298 Amount=1, 3504 Content={3042 Amount=1, 3031 Amount=64, 2854 Content={3558}, 3507 String="Seshomarus of zanera\nDarashia" Editor="Seshomarus of Zanera"}, 3091, 2874, 2854 Content={3056 RemainingUses=200}, 2853 Content={3285, 3409, 3285, 3409, 3409}, 2858 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3114 Amount=1, 3282, 3457}, 3273, 3504 Content={2858 Content={2858}}, 2854 Content={3308, 2981, 2981}, 2867 Content={2955, 3046 SavedExpireTime=2630, 3441, 3338, 3299, 3017, 3017, 3084 RemainingUses=2, 3307, 3563, 3349, 3409}, 3056 RemainingUses=200, 3084 RemainingUses=250, 2854 Content={3330, 3056 RemainingUses=200, 3447 Amount=1, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3586 Amount=2, 3097, 3483, 3483}, 2866 Content={3425, 3377, 1781 Amount=4, 3425, 3572}, 3504 Content={3289, 3289, 3377, 3056 RemainingUses=200, 3268, 3457, 3003, 3457}, 2857 Content={2868, 3457, 3003}, 3502 Content={2867, 2866 Content={3425, 2858 Content={3147, 3147, 3147}, 3463, 2853 Content={3003, 3457}}, 3505, 3505}}, 
+               6 Content={3148 Charges=1, 3267, 2874, 3582 Amount=1, 3267, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 3140, 2853, 1781 Amount=1, 3507 String="Mogwaixv\nVenore" Editor="Kourio", 2874, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 1781 Amount=1, 3582 Amount=1, 2853, 3362, 2853, 2853, 3552, 2874, 1781 Amount=1, 2853, 3012, 1781 Amount=1, 3456, 2874, 1781 Amount=1, 3035 Amount=7, 2867 Content={3003}, 2853 Content={2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3598 Amount=1}, 2920 SavedExpireTime=223, 3291, 3492 Amount=82, 3003, 2969 KeyNumber=4600, 2854 Content={3507 String="lord suri\nvenore" Editor="Lord Suri", 2920 SavedExpireTime=370, 3003, 3483, 3492 Amount=5}, 3732 Amount=1, 2969 KeyNumber=5000, 1781 Amount=36, 3598 Amount=4, 3425, 3483, 2659, 2653, 3568, 2667, 3507 String="Dragon Sepherous\nDarashia" Editor="Seshomarus of Zanera", 3046 SavedExpireTime=31, 2969 KeyNumber=5010, 3046 SavedExpireTime=194, 3502 Content={2659, 3147, 3059, 3598 Amount=1, 2659, 2659, 2659, 2659, 2854 Content={3507 Editor="Fairy Angels", 4839, 2653, 3007, 3097, 3289, 3077, 3046, 3059}, 3017, 3017}}, 
+               7 Content={3042 Amount=1, 2853 Content={3031 Amount=100, 3046 SavedExpireTime=2860, 2920, 2920, 2920, 2920, 2920, 2920}, 3375, 3084 RemainingUses=250, 2868 Content={3299, 3299, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3084 RemainingUses=236, 3291}, 3502 Content={2853 Content={2920, 2853 Content={2920, 2920, 2920, 2920}, 2920, 2920, 2920, 2920, 2920, 2920}}}, 
+               8 Content={3504 Content={3507 String="Seshomarus of Zanera\nPort hope" Editor="Zhaka la pipila"}, 3502}}

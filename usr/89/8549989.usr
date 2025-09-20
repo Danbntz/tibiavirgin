@@ -1,0 +1,55 @@
+ID              = 8549989
+Name            = "Maruchan Montecristo"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-114-114-94)
+CurrentOutfit   = (128,116-114-114-94)
+LastLogin       = 1148259126
+LastLogout      = 1148259885
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32398,32120,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,295878,0,330400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,121466,1400,157982,1600)
+Skill = (2,350,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,335,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,21994,1100,22225,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,90850,1100,91044,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,27,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,31,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,13,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,705,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2552,1100,2684,20)
+Skill = (14,0,1200,0,0,0,767,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,10,11,29,42,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(37,1),(38,1),(39,1),(55,1),(56,1),(59,1),(100,1),(106,1),(107,1),(109,1),(115,1),(140,1),(141,1),(143,1),(153,1),(190,1),(191,1),(222,1)}
+Murders     = {1145754291,1146899240,1146940373}
+
+Inventory   = {1 Content={3356},
+               2 Content={3012},
+               3 Content={2854 Content={3582 Amount=2, 3031 Amount=45, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={2991}}},
+               4 Content={3381},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=43}}
+
+Depots      = {0 Content={3284 RemainingUses=1, 3504 Content={3583 Amount=7, 2854, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3507 String="maruchan montecristo\nthais" Editor="Cholo Robin"}, 3085 RemainingUses=93, 3504 Content={2854, 2853 Content={2920, 2920, 2920, 2920, 2920 SavedExpireTime=151, 2920, 2920 SavedExpireTime=60}, 3074, 2853 Content={2870 Content={2969 KeyNumber=3600, 3291, 3293, 3316, 3097, 3050}, 3046, 3050 SavedExpireTime=1763, 3097, 3083 RemainingUses=150}, 3483, 2866 Content={3059, 3054 RemainingUses=35, 3077, 2972 KeyNumber=3304, 2970 KeyNumber=3801, 2969 KeyNumber=3600, 2969 KeyNumber=5000, 3457}, 3483, 2854 Content={3066}}, 3504 Content={3349, 3349, 3349, 3349, 3483, 2969 KeyNumber=3650, 3483, 2857 Content={2969 KeyNumber=3620, 3046, 3077, 3084 RemainingUses=250}}, 2853 Content={3416, 3425, 3003, 3059, 3349, 3450 Amount=5}, 3504 Content={3583 Amount=1, 2854 Content={2871}, 2859 Content={3446 Amount=18, 3446 Amount=100, 3357, 3351, 3380, 3483, 3349, 2969 KeyNumber=3610}, 2853 Content={3277 Amount=5, 3413}, 3457}, 3012, 3504 Content={3313, 3275, 3377, 3376, 3492 Amount=5, 3003}, 2920 SavedExpireTime=45, 3504 Content={3017, 2865 Content={3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 3734 Amount=1, 3448 Amount=5, 3449 Amount=26}, 3504 Content={3283, 3147, 3492 Amount=35, 2969 KeyNumber=3600, 2853 Content={3349, 3425, 3358, 3072}, 3147, 3147, 3147, 3147}, 3502 Content={3035 Amount=91, 3349, 2854 Content={3045 RemainingUses=198, 3552, 3505 String="Sir Willian-Wallace\nMaruchan Montecristo (Protect be Cholo Robin)\n\nHunt here\nRespet cave\nMsg plz" Editor="Sir Willian-Wallace", 3505 String="Sir Willian-Wallace and  Maruchan Montecristo (prptected by cholo robin)\n\n Hunting Here\nrespet cave DOwn" Editor="Maruchan Montecristo", 3505 String="Maruchan monte cristo (protcted by Cholo robin)\nand Sir Willian-Wallace \n\nhunting here plx leave" Editor="Maruchan Montecristo", 3505 String="Maruchan monte cristo (protcted by Cholo robin)\nand Sir Willian-Wallace \n\nhunting here plx leave" Editor="Maruchan Montecristo", 3301, 3384, 3377, 3425, 3362, 2854 Content={3031 Amount=100, 3031 Amount=100, 3268, 3492 Amount=14, 3316, 3085 RemainingUses=200, 3483, 3411, 3457}}}}, 
+               1 Content={3504 Content={3507}, 3502}, 
+               2 Content={3502}, 
+               6 Content={3502}}

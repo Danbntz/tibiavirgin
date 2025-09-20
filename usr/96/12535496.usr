@@ -1,0 +1,54 @@
+ID              = 12535496
+Name            = "Kies Fereey"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-114-59-114)
+CurrentOutfit   = (128,114-114-59-114)
+LastLogin       = 1148146550
+LastLogout      = 1148146583
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32039,31605,8]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,22079,0,23200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,15942,1400,17512,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,3298,1100,3594,100)
+Skill = (7,33,0,10,0,0,0,0,0,0,0,2621,1100,2654,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,13,1200,50,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,2059,1200,2424,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,90,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,146,1100,154,20)
+Skill = (14,0,1200,0,0,0,426,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,13,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,20,29,42,44,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(46,1),(54,1),(58,1),(59,1),(60,1),(93,1),(94,1),(95,1),(100,1),(106,1),(107,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3031 Amount=22, 3031 Amount=100, 3277 Amount=5, 3503 Content={3507}, 3031 Amount=100, 3457}},
+               4 Content={3358},
+               5 Content={3430},
+               6 Content={3305},
+               7 Content={3559},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {0 Content={3446 Amount=11, 3582 Amount=1, 3457, 3456, 3147, 3147, 3147, 3502 Content={1781 Amount=2, 3421, 3375, 3277 Amount=29}}, 
+               1 Content={3277 Amount=9, 3349, 3277 Amount=4, 3446 Amount=70, 3349, 3447 Amount=10, 3447 Amount=100, 1781 Amount=16, 2992 Amount=5, 3492 Amount=71, 3492 Amount=100, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2872, 3492 Amount=100, 3074, 2920 SavedExpireTime=203, 2955, 3502 Content={3552, 3277 Amount=2, 3291, 2970 KeyNumber=4503}}, 
+               3 Content={3502}}

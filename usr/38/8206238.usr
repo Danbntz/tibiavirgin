@@ -1,0 +1,56 @@
+ID              = 8206238
+Name            = "Irysi Mariusisa"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (138,79-10-0-0)
+CurrentOutfit   = (138,79-10-0-0)
+LastLogin       = 1148225871
+LastLogout      = 1148229213
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32713,31585,10]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,179457,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,66940,3000,193600,1600)
+Skill = (2,338,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,115,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,58614,1100,59240,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,55,0,10,0,0,0,0,0,0,0,37982,1100,39589,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,41,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2628,1100,2684,20)
+Skill = (14,0,1200,0,0,0,669,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,99,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(46,1),(55,1),(59,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3054 RemainingUses=186},
+               3 Content={2867 Content={3286, 3367, 3031 Amount=45, 3286, 3286, 3286, 3577 Amount=4, 3286, 3031 Amount=74, 2969 KeyNumber=3033, 3003, 3052 SavedExpireTime=1189}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2925 RemainingExpireTime=300}}
+
+Depots      = {0 Content={3502 Content={3035 Amount=63, 3031 Amount=37, 3285, 3035 Amount=100, 2839 String="quieres ser mi amigo ????\n\n", 2472 Content={2853 Content={3003, 3457, 3003, 3457, 3198 Charges=3, 3198 Charges=2, 3425}, 2870 Content={3354, 3012, 3077, 3572, 3084 RemainingUses=250, 3012, 3084 RemainingUses=223, 2868 Content={3050, 3673, 3736 Amount=1, 3289, 3045 RemainingUses=200, 3084 RemainingUses=250, 3077, 3004, 3287 Amount=4, 3056 RemainingUses=200, 3084 RemainingUses=250, 3097 SavedExpireTime=3432, 3093 SavedExpireTime=1043, 3097 SavedExpireTime=3593, 3097, 3097 SavedExpireTime=3522}, 3084 RemainingUses=250, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=176, 3008, 3085 RemainingUses=200, 3083 RemainingUses=150, 3008, 3085 RemainingUses=183, 3054 RemainingUses=74, 3085 RemainingUses=200, 3008}, 2868 Content={2969 KeyNumber=4600, 2970 KeyNumber=4503, 2969 KeyNumber=3600, 2970 KeyNumber=4503, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2969 KeyNumber=3033}, 2866 Content={3350, 3266, 3350, 3275, 3313, 3421, 3483, 2853 Content={2955, 2906, 2906, 2989, 3463, 2989, 3463}, 3451, 3505 String="Hula po mi washita vanita sexy ;)jejeje :P..weno en esta cartita kiero expresar lo ke siento x ti ^.^..weno tu eres para mi una persona muy bonita x dentro :P me as kaido super bien, tienes las caracteristika ke me gustan de una mujer jejejeje, aunke sienta ke me falta  conocerte :P..weno eso es lo ke siento x ti :S ya ke me tas precionando nose ke escribirte jajaja mentira.\n\nchau mi washa vanita\nPD: siempre tare con tigo cuando tu lo necesites\nHecho x tu washo pelao xD(Gonzalo)\n"}, 2854 Content={2865, 2854 Content={2854, 2854, 2854, 2854}, 2871, 2867 Content={2867}, 2868 Content={2860 Content={2853, 2862, 2857 Content={2857}, 2859, 2860}, 2868}, 2866 Content={2866}, 2870 Content={2870, 2870, 2870, 2870, 2870}}, 2865 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2860 Content={3287 Amount=1, 3355, 3412, 3559, 2969 KeyNumber=3033}, 2869 Content={2857 Content={3592, 3592, 3592, 3592, 3592, 3593, 3593, 3592}, 3592, 3592, 3590 Amount=23, 3591 Amount=10, 3595 Amount=31, 3593, 3585 Amount=3, 3590 Amount=8, 3582 Amount=13}}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3375}}, 
+               3 Content={3502 Content={3031 Amount=74, 2867 Content={2853}, 3035 Amount=21, 3377, 2968 KeyNumber=3940, 3301, 3294, 3267}}}

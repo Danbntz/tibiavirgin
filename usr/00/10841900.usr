@@ -1,0 +1,54 @@
+ID              = 10841900
+Name            = "Doya Reon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,0-0-0-0)
+CurrentOutfit   = (131,0-0-0-0)
+LastLogin       = 1130784341
+LastLogout      = 1130784347
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8676,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,104,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,40,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,1062,1100,1143,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,33,1400,71,30)
+Skill = (8,23,0,10,0,0,0,0,0,0,0,1327,1100,1398,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,135,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,29,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,276,1100,318,20)
+Skill = (14,0,1200,0,0,0,398,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,81,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(35,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={2853 Content={2853 Content={2853 Content={}}}},
+               4 Content={3377},
+               5 Content={3301},
+               6 Content={},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3031 Amount=49}}
+
+Depots      = {6 Content={3502 Content={3362, 3410, 3430, 3031 Amount=100, 3031 Amount=22, 3492 Amount=25, 3483, 3003, 2920 SavedExpireTime=437, 2920 SavedExpireTime=198, 2920 SavedExpireTime=544, 2917 SavedExpireTime=0, 3577 Amount=11, 3411, 3411, 3003, 2816 String="Orcs ARE intelligent. Though some dwarfes mumble about a shared hivemind of the greenskins, there is no evidence for that. Orcs have speech and are capable to learn other humanoids language quite well ... if they want, what almost never is the case. They lack a written language though. Some of the more educated orcs use human letters to write down orcish texts. Its rumored that the orcs we encounter now and then are just barbarians of their own kind and that there is a more 'civilized' orcish culture somewhere. There are some clues that the orcs indeed had a written language, but the modern orcs is unable to read it as we are.", 2969 KeyNumber=4600}}}

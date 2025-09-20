@@ -1,0 +1,56 @@
+ID              = 12186277
+Name            = "Juan Bodoque"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,97-97-78-117)
+CurrentOutfit   = (129,97-97-78-117)
+LastLogin       = 1148253617
+LastLogout      = 1148258786
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32422,31590,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,219727,0,232500,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,98489,3000,193600,1600)
+Skill = (2,440,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,104402,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,11,1400,30,30)
+Skill = (8,59,0,10,0,0,0,0,0,0,0,57977,1100,58195,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3887,1100,4022,20)
+Skill = (14,0,1200,0,0,0,978,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,7,0,50,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(20,1),(21,1),(23,1),(32,1),(33,1),(34,1),(59,1),(60,1),(125,1),(126,1),(190,1),(191,1),(217,3),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2854 Content={3264, 3267, 3578 Amount=39, 3492 Amount=21, 3003}},
+               4 Content={3357},
+               5 Content={3280},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="juan bodoque\nthais" Editor="Juan Bodoque", 3031 Amount=85, 3035 Amount=65, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3355, 3430, 3377, 3362, 3279, 3059, 3504 Content={3507 String="juan bodoque\nthais" Editor="Chica Arismendi", 2868 Content={3030 Amount=2, 3017}, 2854 Content={3147, 3147, 3147, 3056 RemainingUses=200, 3050 SavedExpireTime=1794, 3147, 3147, 3147, 3147, 3147, 2970 KeyNumber=3800, 4871}}, 3572, 2874, 2920, 2874 ContainerLiquidType=2, 3300, 3292, 3504 Content={3507 String="juan bodoque\nthais" Editor="Ardilla Master"}, 3291, 3003, 3674, 3556, 2839, 2472 Content={2853 Content={3447 Amount=8, 3447 Amount=100, 3447 Amount=100, 2472 Content={2472 Content={2473}, 2472 Content={2472, 2473}, 2472 Content={2472, 2473}, 2472 Content={2473}, 2472 Content={2473}, 2472}}}, 3502 Content={2472 Content={3031 Amount=5, 3031 Amount=100, 3031 Amount=100, 2473 Content={3035 Amount=4, 3035 Amount=100}, 2870, 3031 Amount=100}, 2480 Content={2853 Content={2968 KeyNumber=3940, 3504}}, 2872 Content={3583 Amount=2, 3738 Amount=12, 2854 Content={3577 Amount=14, 3582 Amount=19, 3578 Amount=88, 3723 Amount=4, 3578 Amount=100, 3578 Amount=100, 3588 Amount=91, 3578 Amount=100, 3578 Amount=100, 3588 Amount=100, 3577 Amount=100, 3723 Amount=100}, 3592, 3597 Amount=2, 2853 Content={3607, 3607, 3607, 3607}, 3590 Amount=4, 2853, 3595 Amount=2, 3578 Amount=100, 3582 Amount=100, 3577 Amount=100, 2992 Amount=5, 3588 Amount=100, 3585 Amount=5, 3602 Amount=7, 3723 Amount=100}, 2472 Content={3452, 3012, 2991, 2911, 2970 KeyNumber=3800, 2911 SavedExpireTime=1769, 2914 SavedExpireTime=1999, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 3282, 3054 RemainingUses=200, 3097, 3121, 3504 Content={3008, 2991, 4871, 2911, 2911, 2911, 2911, 2911, 2911, 3504 Content={3097, 3056 RemainingUses=200, 3285, 3504 Content={3077, 3084 RemainingUses=250, 3283, 3457, 3457, 3551, 3454, 3466, 3008, 3504 Content={3447 Amount=100, 3448 Amount=2, 2920 SavedExpireTime=599, 3012, 3285, 2901, 2901, 2901, 3285, 3504 Content={3046, 3091 SavedExpireTime=1629, 3467, 2911 SavedExpireTime=897, 2920 SavedExpireTime=598, 2920, 2920, 2920, 2920, 3504 Content={3291, 3285, 3464, 3472, 3471, 3470, 3466, 2911, 2873, 3504 Content={3059, 3059, 3289, 3121, 3012, 3289, 3291, 3291, 3504 Content={3300, 3282, 3285}}}}}}, 3056 RemainingUses=200, 3050 SavedExpireTime=1796, 2955}}}, 2865 Content={3189 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={2867 Content={2867}, 2868 Content={2868}, 2857 Content={2857}, 2854 Content={2854, 2854, 2854, 2854}}, 2854 Content={2853 Content={2853, 2853}, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 2853 Content={2853}}, 2853}, 2853 Content={2853, 2853, 2853, 2853, 2853, 2853}, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853 Content={2853, 2853}}, 2469 Content={2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 2473 Content={2473 Content={2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473}, 2473 Content={2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473}, 2473 Content={2473, 2473, 2473}, 2473, 2473, 2473, 2473, 2473, 2473, 2473}}}, 
+               1 Content={3031 Amount=1, 3602 Amount=1, 3585 Amount=2, 3358, 3504 Content={3507 String="juan bodoque\ncarlin\n" Editor="Juan Bodoque", 3385, 3419, 3380}, 3502 Content={3291, 3031 Amount=6, 3602 Amount=1, 3578 Amount=24, 3582 Amount=1, 3577 Amount=18}}, 
+               2 Content={2826 String="Mystic Rituals of the Ancient Trolls", 2853 Content={3075, 3349, 3483, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 2969 KeyNumber=5000, 3492 Amount=100, 3504 Content={3377, 2854 Content={3307, 3577 Amount=14, 3582 Amount=8, 3723 Amount=51}, 2854 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3504 Content={3504 Content={3504}}, 3502}, 
+               3 Content={3502}}

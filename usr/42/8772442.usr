@@ -1,0 +1,54 @@
+ID              = 8772442
+Name            = "Cavaleiro do Tecnico"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,0-128-127-79)
+CurrentOutfit   = (130,0-128-127-79)
+LastLogin       = 1145814806
+LastLogout      = 1145814836
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32219,6]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,13286,0,17600,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,15768,1100,18297,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7768,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,6795,2000,12750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,99,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {7,8,10,15,20,25}
+QuestValues = {(17,1),(18,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={3308, 3291}},
+               4 Content={3377},
+               5 Content={3307},
+               6 Content={3430},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3198 Charges=2}}
+
+Depots      = {0 Content={2882, 3502 Content={2854 Content={3274, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2906, 2874, 2874, 2874, 2865 Content={3505 String="é isso ai to em carlin\n     tarso", 3374, 3337, 3358, 3492 Amount=6, 3483, 2854, 3457, 3456, 3003, 2854, 3362, 3483, 3483}, 3059, 2854 Content={3012, 3447 Amount=5, 3349, 2873 ContainerLiquidType=1, 3453, 3448 Amount=5, 3283, 3456, 3483, 3456, 3411, 3411, 3367, 3264}, 2870 Content={3268, 3268, 3268}, 2472 Content={3507 String="ooo teu, toca uma reguera ai...", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Fibula Village 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2815 String="ooo teu... toca uma reguera ai... o bleg que te balança", 2917 SavedExpireTime=2992, 3509}, 2473 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2471 Content={3600 Amount=11, 3578 Amount=29, 2885 ContainerLiquidType=3, 2885 ContainerLiquidType=3, 3605 Amount=5, 3552, 3577 Amount=26, 3582 Amount=2, 3607, 3595 Amount=2}}}, 
+               1 Content={3502 Content={}}}

@@ -1,0 +1,60 @@
+ID              = 13236489
+Name            = "Profett"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,114-77-114-0)
+CurrentOutfit   = (134,114-77-114-0)
+LastLogin       = 1148240055
+LastLogout      = 1148247110
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32324,31790,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,337280,0,368300,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,279162,1100,291109,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,665,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,29265,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,11,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,16,2000,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,111,2000,150,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,118,2000,150,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,427,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3304,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,170,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,15,16,17,19,20,22,23,29,32,38,39,44,76,81,87,88,89}
+QuestValues = {(35,1),(61,1),(111,1),(112,1),(121,1),(125,1),(126,1),(190,1),(191,1),(223,1),(225,1),(253,1),(333,1)}
+Murders     = {1146941413,1147635275,1147730421}
+
+Inventory   = {1 Content={3391},
+               2 Content={3045 RemainingUses=164},
+               3 Content={2866 Content={3425, 3073, 3578 Amount=2, 3031 Amount=89, 3035 Amount=8, 3577 Amount=4, 3504, 3425, 3583 Amount=1, 3483, 3492 Amount=88, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3003}},
+               4 Content={3370},
+               5 Content={3198 Charges=5},
+               6 Content={3147},
+               7 Content={3557},
+               10 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3457, 3003, 3578 Amount=2, 2842, 3502}, 
+               1 Content={2871, 2970 KeyNumber=4503, 2854 Content={2868 Content={3147, 3147}, 3279, 3457}, 3504 Content={3008, 3045 RemainingUses=200, 3205, 3008, 3287 Amount=2, 3298 Amount=2, 3507 String="Profett\ncarlin" Editor="Torn Verie"}, 3506 String="Warning!\n\nYou have not enough gold to pay\nthe price for house \"Park Lane 1b\".\nTherefore the transfer is cancelled.", 3502}, 
+               2 Content={3425, 2854, 3425, 3425, 3504 Content={3507 String="profett\nKazordoon" Editor="Fenix Flam"}, 3502}, 
+               3 Content={3264, 3504 Content={3507 String="profett\ndarashia" Editor="Naigh Crafh"}, 2874, 2874, 3502}, 
+               4 Content={3502}, 
+               5 Content={3045 RemainingUses=200, 3483, 3045 RemainingUses=180, 3059, 2854, 2867, 3072, 2647, 3074, 2866 Content={2866}, 2865 Content={3572}, 2853 Content={3003, 3457, 3578 Amount=100}, 2866 Content={3447 Amount=31, 3350}, 2865 Content={2868 Content={3008, 3066, 3425, 3003, 3056 RemainingUses=200, 2868}}, 2868 Content={3003, 3286, 2854}, 2868 Content={3008, 2854 Content={2969 KeyNumber=3033, 3446 Amount=20}, 2854, 2854 Content={3449 Amount=2, 3425, 3265}, 3003, 3349, 3353, 1781 Amount=3}, 2865 Content={2870 Content={3483, 2864, 3287 Amount=9, 3410, 3077, 2667, 2861, 3349, 2858, 2667, 3066}, 2857, 2853, 2858, 2867, 3084 RemainingUses=250, 2857, 3412, 3349, 3350, 2853 Content={3425, 3029 Amount=2, 3083 RemainingUses=150, 3451, 3289}, 2868 Content={3289, 2857 Content={3509}}, 2854 Content={3046 SavedExpireTime=2986, 3409, 3077, 2970 KeyNumber=4503, 2969 KeyNumber=4600, 2969 KeyNumber=3033}, 2647, 3372}, 2866, 3502 Content={2866 Content={3457, 3147, 3147, 3147}, 2866}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Profett\nAnkrahmun\n" Editor="Torn Verie"}, 3504 Content={3354, 3046, 3045 RemainingUses=200, 3046, 3046, 3354, 3367, 3507 String="profett\nAnkrahmun" Editor="Sir'Boromir"}, 2853 Content={2865 Content={3577 Amount=88}}, 3502}, 
+               8 Content={3502}}

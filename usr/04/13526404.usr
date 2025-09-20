@@ -1,0 +1,59 @@
+ID              = 13526404
+Name            = "Tears of Fallen Angel"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,39-68-94-77)
+CurrentOutfit   = (133,39-68-94-77)
+LastLogin       = 1148248736
+LastLogout      = 1148252697
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32677,31672,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,586780,0,601800,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,715479,1100,780562,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,280,815,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,37117,1500,38723,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,891,1800,1237,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,2516,1800,3763,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,369,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,278,1100,318,20)
+Skill = (14,0,1200,0,0,0,1176,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,125,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,20,25,26,27,29,30,31,32,38,39,42,44,50,75,76,78,81,83,84,85,87,88,89,91,94}
+QuestValues = {(21,1),(22,1),(23,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3574},
+               2 Content={3572},
+               3 Content={2854 Content={3577 Amount=19, 3578 Amount=7, 3582 Amount=5, 3052, 2865 Content={3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3147},
+               7 Content={3362},
+               10 Content={3061}}
+
+Depots      = {0 Content={3504 Content={3507 String="tears of Fallen angel\nthais" Editor="Raptor Soul"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2866 Content={3069, 3079, 3557, 3434, 3567, 3507 String="Tears of Fallen Angel\n\nHunt Here\n\nRespect..." Editor="Tears of Fallen Angel", 3031 Amount=33, 3003, 3457, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}, 2867 Content={3147, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3147, 3147, 3147}, 3503 Content={3507 String="Tears of Fallen Angel\nAb'dendriel" Editor="Tears of Fallen Angel"}}, 3492 Amount=100, 3350, 3447 Amount=8, 2854, 2906, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={2869, 3505 String="Tears of Fallen Angel\nHunt Here\nLeave Plx\nHave a Nice Day :D\nusing 2 caves" Editor="Tears of Fallen Angel", 3505 String="Tears of Fallen Angel \nHunt Here \nLeave Plx\n Have a Nice Day :D \nusing 2 caves" Editor="Tears of Fallen Angel", 3503 Content={3507 String="tears of fallen angel\nab'dendriel" Editor="Tears of Fallen Angel"}}, 2869, 2867 Content={3503 Content={3507 String="Speedyx'collins\nab'dendriel" Editor="Speedyx'collins"}, 3457, 2870 Content={3447 Amount=6, 3505 String="Tears of Fallen Angel\nHunt Here\nleave plz" Editor="Tears of Fallen Angel", 2859, 2969 KeyNumber=3033, 2973 KeyNumber=3520}, 3483, 3351, 3003, 3351, 2969 KeyNumber=3033, 2853 Content={2865 Content={2868 Content={3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3}, 2867, 3120, 3576, 3105, 3104, 2854, 3003, 2872 Content={2854, 3505 String="Tears of Fallen Angel\nhunt here\nrespect\nleave plx\nHave a nice day :D" Editor="Tears of Fallen Angel", 3505 String="Tears of Fallen Angel\nhunt here\nrespect\nleave plx\nHave a nice day :D" Editor="Tears of Fallen Angel", 3505 String="Tears of Fallen Angel\nhunt here\nrespect\nleave plx\nHave a nice day :D" Editor="Tears of Fallen Angel"}}, 2866 Content={3505 String="Tears of Fallen Angel\nHunt Here\nleave plz" Editor="Tears of Fallen Angel", 3505 String="Tears of Fallen Angel\nHunt Here\nleave plz" Editor="Tears of Fallen Angel"}, 3447 Amount=27, 3350, 3277 Amount=3, 3085 RemainingUses=200}, 2853 Content={3507, 3505 Editor="Cryptopsy", 3505 String="Tears of Fallen Angel\n hunting here\nleave plx\nrespect" Editor="Tears of Fallen Angel", 3003}, 2865, 3070, 3065, 3067, 3351}, 3084 RemainingUses=250, 3077, 3046, 2857, 2853 Content={2853 Content={3266, 3425, 3425, 3266, 3425, 2853 Content={3425, 3266, 3425, 3275, 3266, 3425, 3425, 2853 Content={3305, 3305, 3266, 3305, 3305, 3305, 3305, 2853 Content={3305, 3425, 3266, 3425, 3266, 3305, 3266, 3266}}}}, 3308, 2853}, 2853 Content={3092, 3446 Amount=87, 2853 Content={3377, 2853 Content={3349, 2853 Content={3377, 3377, 3349, 3349, 2853 Content={3349, 3377, 3377, 3377, 3377, 3349, 3349}}}}}, 3351, 3483, 3349, 2865 Content={3358, 3358, 3410, 3084 RemainingUses=250, 3049, 3283, 3056 RemainingUses=200, 3056 RemainingUses=200, 3457, 3305, 3305, 3305, 3305, 3084 RemainingUses=250, 3056 RemainingUses=200, 3050, 2969 KeyNumber=3033}, 2865 Content={3446 Amount=5, 3357, 3446 Amount=100, 3446 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=36, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=100}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="Tears of Fallen Angel\ndarashia" Editor="Ruxo"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

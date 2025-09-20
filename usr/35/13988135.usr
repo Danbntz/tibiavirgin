@@ -1,0 +1,56 @@
+ID              = 13988135
+Name            = "Wes champion"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-121-0-94)
+CurrentOutfit   = (129,0-121-0-94)
+LastLogin       = 1148256743
+LastLogout      = 1148257772
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7045,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,1350,1400,1600,1600)
+Skill = (2,97,195,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,50,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4087,1100,4559,100)
+Skill = (7,30,0,10,0,0,0,0,0,0,0,1758,1100,1920,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,1418,1200,1607,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,96,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,305,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,161,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,73,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,86,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(35,1),(59,1),(106,1),(107,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2854 Content={3350, 3277 Amount=5, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3307},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=5}}
+
+Depots      = {0 Content={3300, 2874, 2874, 2874, 2874, 2874, 2874, 2866 Content={3031 Amount=8, 2874, 3035 Amount=7, 3008, 3375, 3031 Amount=100, 3031 Amount=100}, 2874, 3003, 2874, 2901, 2828 String="The secret of the high mask of the ancients was thought to be lost in time forever. But with the coming of the undying pharaoh its secrets were snatched away from the scarabs and the sands. Once more, masks were forged that contained the secret energies of lost aeons. Their true powers remained a mystery, but from the little that showed at first glance it was clear that they were most powerful indeed. Unfortunately, the pharaoh decreed that their powers were not meant for ordinary mortals, and ordered them to be destroyed. It is said that it was necessary to combine the powers of different ancient idols in order to create those legendary artifacts.", 3448 Amount=4, 3285, 3504 Content={3447 Amount=50, 3457, 3277 Amount=2, 3483, 3492 Amount=10, 1781 Amount=1, 3421}, 3446 Amount=60, 3289, 3565, 3413, 3559, 3421, 2874, 3074, 3074, 2984, 3457, 3502 Content={3372, 3377, 3375, 3425, 3349, 3552}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3059, 2854, 3502 Content={1781 Amount=1, 3003, 3286, 3577 Amount=4}}}

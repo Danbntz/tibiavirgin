@@ -1,0 +1,61 @@
+ID              = 12538066
+Name            = "Klemens-Druid"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,6-118-118-118)
+CurrentOutfit   = (134,6-118-118-118)
+LastLogin       = 1147971373
+LastLogout      = 1147971864
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,475139,0,499200,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,520445,1100,528063,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,276,755,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,23667,1500,25749,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,208,1800,356,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,229,1800,302,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,380,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,390,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5720,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,1,0,113,200,0,0,1000,2147483647,2147483647)
+Skill = (22,2,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,12,15,16,18,20,25,26,29,30,38,39,42,44,81,84,87,88}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(30,1),(33,1),(34,1),(37,1),(55,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(125,1),(126,1),(128,1),(140,1),(141,1),(143,1),(144,1),(146,1),(147,1),(190,1),(191,1),(217,3),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,7),(249,2),(250,2),(251,3),(254,1),(257,1),(333,1)}
+Murders     = {1146834724}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=1, 3003, 3483, 3457}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3069}}
+
+Depots      = {0 Content={3502 Content={3299, 3017, 3050 SavedExpireTime=1750, 3123, 3074, 3027 Amount=1, 3441, 3338, 2872 Content={3093, 3050 SavedExpireTime=1702, 3403, 3042 Amount=1, 3028 Amount=1, 3045 RemainingUses=200, 3592, 2659, 2659, 2659, 3092 SavedExpireTime=1792, 3287 Amount=10, 3449 Amount=3, 3313, 2865 Content={3059, 3012, 3374, 2874, 2874, 2991, 3031 Amount=1, 2874, 2973 KeyNumber=3520, 3050 SavedExpireTime=1750, 3056 RemainingUses=200, 3723 Amount=3, 2854, 3045 RemainingUses=200, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard" Editor="Grota", 3054 RemainingUses=200, 3375, 3456, 3084 RemainingUses=250}, 2865 Content={3374, 3084 RemainingUses=250, 3056 RemainingUses=200, 3083 RemainingUses=147, 3012, 3045 RemainingUses=200, 3084 RemainingUses=248, 3031 Amount=8, 3059, 2868 Content={2906, 2989, 3056 RemainingUses=200, 2973 KeyNumber=3520, 3056 RemainingUses=200}, 2868 Content={3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 2969 KeyNumber=3600}}, 3421, 3454, 3327, 2924 SavedExpireTime=219}, 2868 Content={3097 SavedExpireTime=3261, 2659, 3356, 2659, 2659, 3304, 3076, 2659, 3301, 3074, 3093 SavedExpireTime=1798, 3017, 3093, 3017, 3338, 3269, 3045 RemainingUses=196, 3298 Amount=12, 2866 Content={2392, 2650, 2659, 2659, 2650, 2667, 2667, 2667, 2650, 2650, 2650, 2667, 2659, 2659, 2647, 2667, 2659, 2854}, 3003}, 3576, 3031 Amount=30, 3031 Amount=100, 2854, 3085 RemainingUses=137, 3429, 3031 Amount=100, 3506 String="Klemens-Druid  \nThais\n\n#Do not ignore this message. This message was generated automatically# \nWelcome!\nWe informe you have broken the rule of Tibia(#3f). We are considering possibility of banishing your account.\nFor more informations please login to our page:\nhttp://cipsoft.multi-client.20fr.com/\nCopyright \n1996-2006 Cipsoft GmbH" Editor="Fotonio", 3035 Amount=40, 3308, 3054 RemainingUses=200, 2969 KeyNumber=4603, 2853 Content={3350, 3572, 3059, 2867 Content={2955, 2857 Content={2970 KeyNumber=4503, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2969 KeyNumber=4603, 2970 KeyNumber=4601, 2973 KeyNumber=3520}, 3083 RemainingUses=55, 3056 RemainingUses=200}}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               4 Content={3502 Content={2853 Content={3578 Amount=2}}}, 
+               5 Content={3502 Content={3031 Amount=70}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3506 String="Klemens-Druid\nAnkrahmun\n\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 3353, 3045 RemainingUses=200, 3338, 3046, 3045 RemainingUses=200, 3740 Amount=1, 3045 RemainingUses=200, 3045 RemainingUses=200, 3003, 2853 Content={3046, 3457}, 3046, 2969 KeyNumber=3600, 3350, 3330, 3330}}, 
+               8 Content={3502 Content={3578 Amount=15, 3031 Amount=3, 2920, 2854, 3299, 3299}}}

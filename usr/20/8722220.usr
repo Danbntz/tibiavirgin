@@ -1,0 +1,51 @@
+ID              = 8722220
+Name            = "Sacerdotisa Kykio of Zanera"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,114-94-94-39)
+CurrentOutfit   = (138,114-94-94-39)
+LastLogin       = 1136247714
+LastLogout      = 1136247752
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,30746,0,37800,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,69120,1100,72958,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14178,1500,17099,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,878,2000,930,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,11738,2000,12750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,526,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,198,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,15,19,25,26,30,44,45}
+QuestValues = {(20,1),(60,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2868 Content={3046, 2853 Content={3286, 3286, 3286, 3446 Amount=100, 3446 Amount=79, 3492 Amount=100, 3492 Amount=86}}},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={2853 Content={3349, 2853 Content={3504 Content={2969 KeyNumber=4600, 2874 ContainerLiquidType=0, 3492 Amount=9, 3198 Charges=2, 3198 Charges=1, 3507 String="", 3350, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2853 Content={}}, 2853 Content={3092 SavedExpireTime=1763, 3046 SavedExpireTime=2998, 3377, 3377}, 2853 Content={3266, 3409, 3425}, 3031 Amount=100, 3031 Amount=43}, 2920 SavedExpireTime=25, 3578 Amount=6, 3374, 3504 Content={2981, 2983, 3661, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}}, 3507 String=" PORQUE ABREN ESO\nCarlin"}, 2853 Content={2853 Content={2853 Content={3031 Amount=20, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3305, 3285, 3492 Amount=100, 3483, 3492 Amount=14}, 2853 Content={3289, 3374, 3322, 3300, 3300, 3301}, 3447 Amount=14, 3350}, 3483, 2853 Content={3505 String="luis te adoro meu amigo\n\nAYY PUTOTE\n", 2853 Content={3507 String="help me!!!!!!!", 3457}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}}, 3504 Content={3035 Amount=3, 3031 Amount=82, 3277 Amount=2, 2853 Content={3565, 2922 SavedExpireTime=282, 2882 ContainerLiquidType=0}, 3492 Amount=18, 3123, 2985, 2911 SavedExpireTime=2827, 3503 Content={3504 Content={2922 SavedExpireTime=67, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3507 String="Tampico'Sider\nAb'dendriel", 3003}, 2853 Content={3507 String="Lesiak Bielany\ncarlin\n", 3507 String="Love you David...\nI love you to....{}\n", 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3003, 3509, 2955}, 3003, 3459, 2920 SavedExpireTime=0, 3470, 3466, 3507 String="Bruninha de Zanera\nCarlin", 3504 Content={3507 String="Ziver Atthana\nCarlin"}, 3504 Content={3507 String="simon on zanera\ncarlin"}}, 2853 Content={3456, 2853 Content={2920 SavedExpireTime=0, 3507 String="Senya\nCarlin", 2955, 3507 String="Hunter Of Deamon \nhere i hunt ghoul no down plz\nbye \nthank you", 3507 String="Carlin\nRata \ndark\n\n"}, 2853 Content={3374, 3507 String="esto es un bolt\n", 3507 String="Punisher Angel\nCarlin"}, 2853 Content={}}}, 2853 Content={2911 SavedExpireTime=2133, 3507 String="sir herik\ncarlin\n", 3504 Content={3504 Content={}, 3504 Content={}, 3507 String="Miller'Sackville\ncarlin"}, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 3121, 3578 Amount=10}, 2853 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3507 String="mexicanos filhos da puta!!!!!!!!!\n\n", 3003, 3003, 3430}, 3504 Content={3350, 3509, 3506 String="Ponchoo Knight\nCarlin\naew", 3003, 3003, 3003, 3457, 3507 String="their luca\ncarlin"}, 2856 Content={1781 Amount=1, 3378, 3465 ContainerLiquidType=6, 2969 KeyNumber=4600, 2881 ContainerLiquidType=6}, 2981, 2920 SavedExpireTime=0, 3003, 3276, 2920 SavedExpireTime=46, 3559, 3003, 3003, 3003, 3504 Content={3507 String="Ange Baum\ncarlin\n", 2853 Content={}, 2853 Content={}, 3504 Content={3507 String="zant ligmord\ncarlin\n", 3507 String="kroxin\ncarlin", 3507 String="grucha sosnowiec\ncarlin", 3507 String="yuri el samurai\ncarlin", 3507 String="yuri el samurai\ncarlin\n", 3507 String="Najlepszy czarownik\ncarlin", 3507 String="Fallen'mith\ncarlin\n"}}, 2853 Content={3457, 3291, 3352, 3459, 3457, 2875 ContainerLiquidType=0}, 3447 Amount=5, 2853 Content={3412, 3552, 2815 String="\nmi amor\n", 3272}, 3504 Content={3059 String="", 2881 ContainerLiquidType=6, 3448 Amount=4, 3447 Amount=12, 2853 Content={3504 Content={2875 ContainerLiquidType=9, 3003, 3003, 2875 ContainerLiquidType=0, 2969 KeyNumber=4600, 3507 String="ultimus lokochon\ncarlin"}, 2853 Content={}}, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={}}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 3507 String="barman allmighty\ncarlin"}, 2922 SavedExpireTime=167, 3565, 2882 ContainerLiquidType=6, 3426}, 3003, 3507 String="rosette kevorkian\ncarlin"}}}, 
+               3 Content={3502 Content={3559, 2853 Content={}, 3507 String="brok zuar\nab'dendriel"}}}

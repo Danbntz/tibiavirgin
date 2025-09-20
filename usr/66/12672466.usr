@@ -1,0 +1,61 @@
+ID              = 12672466
+Name            = "Barris"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,78-114-114-0)
+CurrentOutfit   = (134,78-114-114-0)
+LastLogin       = 1148258628
+LastLogout      = 1148258640
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32392,31820,6]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,337642,0,368300,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,565569,1100,582469,1600)
+Skill = (2,281,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,177,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,25233,1500,25749,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,120,2000,210,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,365,2000,750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,52,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,286,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1465,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,23,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,17,20,22,23,25,27,29,38,39,44,81,87,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(36,1),(38,1),(55,1),(59,1),(60,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(106,1),(107,1),(190,1),(191,1),(226,1),(333,1)}
+Murders     = {1146474007}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2871 Content={3031 Amount=75, 2868, 3003, 2868, 2871, 2866 Content={3198 Charges=5, 3198 Charges=4, 3192 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3370},
+               5 Content={3073},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2973 KeyNumber=3520}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3483, 2859 Content={3070, 3349, 3017, 2868}, 2857, 2867 Content={4871, 3547 Amount=1, 3548 Amount=1, 3330, 3046, 3085 RemainingUses=200, 3301}, 2866 Content={3457, 3353, 3425}, 2870 Content={3092 SavedExpireTime=1756, 3093 SavedExpireTime=1796, 3084 RemainingUses=250, 3042 Amount=1, 3097 SavedExpireTime=3596, 3097 SavedExpireTime=3597, 3077, 3056 RemainingUses=200}, 2472 Content={2865 Content={2868 Content={2853 Content={3504 Content={3457, 3003, 3457, 3457, 3003, 3658, 3084 RemainingUses=250, 3504 Content={3447 Amount=100, 3447 Amount=37, 3447 Amount=100}, 2853}, 2952, 3597 Amount=1, 2650, 2647, 2647, 2644}, 2860 Content={2647, 2667, 2656, 2647, 2647, 2867 Content={2644}, 3425, 3074}, 2647, 2647, 2653}, 2868 Content={2867, 2991, 3074, 3074, 2865, 3409, 3074, 3066, 3066, 3589 Amount=2, 3593, 3077, 3066, 3077, 2871 Content={3267}, 3290}}, 3483, 2955, 3353, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Harbour Flats, Flat 22\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="barris\ncarlin\n \n       /)_/)\n     ( \"  ;  \" ) (\")      HOLA!!\n   º(\")_(\")\n\njiji q haces?\nespero q estes bien y q subas rapido!\njiji\ncya\n" Editor="Rakenel Villanueva", 2469 Content={2969 KeyNumber=3033, 2969 KeyNumber=4600, 2969 KeyNumber=4603, 2969 KeyNumber=3650, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 2970 KeyNumber=3800, 2970 KeyNumber=3899, 2970 KeyNumber=4601}, 3066}, 3502}, 
+               2 Content={3504 Content={3507 String="Barris\nKazordoon" Editor="Zawron"}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="barris\ndarashia" Editor="Rafa cent"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Barris\nAnkrahmun" Editor="Van Falleth"}, 3504, 3502}, 
+               8 Content={3502}}

@@ -1,0 +1,62 @@
+ID              = 10323391
+Name            = "Kamow Lan'skat"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,116-3-114-114)
+CurrentOutfit   = (133,116-3-114-114)
+LastLogin       = 1148237382
+LastLogout      = 1148244242
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33215,32855,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,609872,0,658000,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,667850,1100,708148,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,845,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,75807,1500,87378,100)
+Skill = (7,11,0,10,0,0,0,0,1,1,0,55,2000,90,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,23829,2000,25550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,79,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,154,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2798,1100,2972,20)
+Skill = (14,0,1200,0,0,0,774,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,16,18,20,21,29,39,44,45,76,81,87,88}
+QuestValues = {(1,4),(2,6),(14,1),(15,1),(16,1),(17,1),(20,1),(21,1),(23,1),(32,1),(33,1),(34,1),(36,1),(37,1),(40,1),(41,1),(42,1),(43,1),(44,1),(46,1),(59,1),(60,1),(61,1),(67,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(109,1),(111,1),(112,1),(115,1),(121,1),(128,1),(129,1),(132,1),(145,1),(146,1),(147,1),(151,1),(152,1),(156,1),(157,1),(158,1),(190,1),(191,1),(208,1),(211,4),(217,3),(222,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(253,1),(254,1),(300,3),(304,6),(305,6),(306,1),(307,1),(324,1),(325,4),(326,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3045 RemainingUses=200},
+               3 Content={2854 Content={3582 Amount=2, 3031 Amount=68, 3457, 2861 Content={3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}, 3003}},
+               4 Content={3381},
+               5 Content={3415},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2859 Content={3507 String="Kamow lan'skat\nHunting here \n\nººº leave plz ººº\n     Respect plz\nty :)" Editor="Kamow Lan'skat"}}}
+
+Depots      = {0 Content={3504 Content={3507 String="Kamow lan'skat\nthais" Editor="Cyrack"}, 3506 String="Kamow Lan'skat\nThais\n\nhola carnal, como estas?, buenbo espero que bien, te mando esta carta pues para no mas decirte que has sido un gran apoyo como compañero dentro y fuera de tibia.\nojala que el tiempo nos deje disfrutar mas de esta amistad, que nos valga la distancia.\nY sobre todo muchas gracias.\nbye..\ntu bro...." Editor="Pepe Lan'skat", 3504 Content={3507 String="Kamow Lan'skat\nThais" Editor="Kamow Lan'skat"}, 3504 Content={3507 String="Kamow Lan'skat\nThais\n" Editor="Kamow Lan'skat"}, 3504 Content={3507 String="kamow lan'skat\nthais" Editor="Kamow Lan'skat"}, 3504 Content={3507 String="Kamow Lan'skat\nThais" Editor="Irving Lan'skat"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={3352}}}}, 3507 String="Kamow lan'skat\nthais" Editor="Kamow Lan'skat"}, 3504 Content={3507 String="Kamow Lan'skat\nThais"}, 3504 Content={3507 String="kamow lan'skat\nthais"}, 3502 Content={3116}}, 
+               1 Content={3504 Content={3507 String="kamow lan'skat\ncarlin" Editor="Sakura tchann"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3045 RemainingUses=159, 3507 String="Kamow Lan'skat\nedron\n" Editor="Kamow Lan'skat"}, 3504 Content={2853}, 3504 Content={3507 String="kamow lan'skat\nedron"}, 3504 Content={2973 KeyNumber=3520, 3465}, 3502}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="Kamow Lan'skat\nDarashia" Editor="Kamow Lan'skat"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="Kamow Lan'skat\nDarashia" Editor="Kamow Lan'skat"}, 3504 Content={3507 String="Kamow Lan'skat\nDarashia" Editor="Andre Lan'skat"}, 3502 Content={2853 Content={3582 Amount=12}}}, 
+               6 Content={3504 Content={3507 String="Kamow Lan'skat\nVenore" Editor="Kamow Lan'skat"}, 3502}, 
+               7 Content={3504 Content={2969 KeyNumber=3701, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 2854 Content={3505 String="Kamow Lan'skat\nHunting here Plz Leave\n" Editor="Kamow Lan'skat", 3066, 2955, 3046, 3046, 3377, 3046, 3003, 2973 KeyNumber=3520}, 3507 String="Kamow Lan'skat\nankrahmun" Editor="Avatar Fire Master"}, 3502 Content={2871 Content={2853 Content={2863 Content={3043 Amount=2, 3035 Amount=87, 3046 SavedExpireTime=2998, 3084 RemainingUses=250, 2866 Content={2863 Content={3052, 3052, 3052, 3093 SavedExpireTime=1765}, 3483, 3425, 3356, 3507 String="Kamow Lan'skat hunting here." Editor="Jagan Da'Neon", 3308, 3552, 3375, 3377, 2970 KeyNumber=3899, 3003}}, 3046, 3046, 3046, 3007, 2992 Amount=4, 2874 ContainerLiquidType=9}, 3503 Content={3385, 3380, 3313, 3323, 3433, 3507 String="Thais" Editor="Kamow Lan'skat"}, 2859 Content={2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 3017, 2867 Content={3083 RemainingUses=150, 2853 Content={2469, 2911 SavedExpireTime=2995, 2911, 2911, 2853 Content={2974, 3316, 3504 Content={3299, 3504, 3350, 3448 Amount=5, 3105, 3104}, 2469 Content={3459, 2853, 2857 Content={2972 KeyNumber=3304, 2970 KeyNumber=3303, 3093}, 3084 RemainingUses=250, 3050}, 3377, 2471 Content={3375, 2469, 2469, 3115, 3115, 3115, 3115, 3115, 3446 Amount=7, 2873}}}, 2471 Content={2469 Content={3504 Content={2991, 2857 Content={2853 Content={3598 Amount=27}, 3077, 3084 RemainingUses=250}, 3507 String="kamow lan'skat\nedron"}, 3582 Amount=14, 3603 Amount=7, 3590 Amount=2}, 2471 Content={3372, 3372, 3372, 3483, 3446 Amount=2, 3289, 3375}, 2469 Content={2858, 2972 KeyNumber=3304, 2970 KeyNumber=3303}, 3054 RemainingUses=200, 3054 RemainingUses=200, 3350, 3448 Amount=5}, 3054 RemainingUses=144, 3446 Amount=6}, 3456, 2853 Content={2853 Content={3082 RemainingUses=50, 3053, 3082 RemainingUses=50, 3076, 3456, 3085 RemainingUses=200, 3052}}}, 2857 Content={3046, 3097, 3097, 3054 RemainingUses=200, 3583 Amount=8, 3449 Amount=28}, 3003}, 3504 Content={3504 Content={2871 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2871}, 3504 Content={3507 String="explos" Editor="Kamow Lan'skat", 2872 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2866 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2871 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2871 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}}, 3504 Content={3504 Content={3504 Content={3504, 3504 Content={3504 Content={3504}}, 3504 Content={3507 String="elixaa\nvenore" Editor="Kalimen", 2853}}, 3308}, 2856 Content={3052 SavedExpireTime=104, 3597 Amount=1, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3026 Amount=3, 3007, 3483, 3456, 3377, 3506 String="Cyrack\nThais\n\nCarnal, como estas?, espero que bien, solo queria decirte lo agradecido que estoy por averme aguantado tanto y apoyado en todo momento y mas por ser mi carnalin(gay), pero eres mi carnal..\nY pues espero que sigas aqui para continuar con las aventuras que hemos hecho xD.\nsale pues me despido con una ultima cosa\ngrazt bro...\natte. tu bro(pep)" Editor="Pepe Lan'skat"}}}}, 
+               8 Content={3502 Content={3577 Amount=17}}}

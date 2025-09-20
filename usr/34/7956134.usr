@@ -1,0 +1,60 @@
+ID              = 7956134
+Name            = "Maximo Gorki"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,77-0-114-100)
+CurrentOutfit   = (134,77-0-114-100)
+LastLogin       = 1136255426
+LastLogout      = 1136256306
+StartPosition   = [32732,31634,7]
+CurrentPosition = [33212,31848,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,199354,0,204800,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,303800,1400,313485,1600)
+Skill = (2,345,345,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,274,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,790,790,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,71175,1100,71890,100)
+Skill = (7,67,0,10,0,0,0,0,0,0,0,74470,1100,75191,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,714,1200,824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,1035,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2927,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,42,51,76,79,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(58,1),(59,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(111,1),(112,1),(121,1),(125,1),(126,1),(190,1),(191,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2868 Content={3446 Amount=53, 3446 Amount=100, 3446 Amount=100, 3035 Amount=5, 2854 Content={3152 Charges=1, 3152 Charges=1}, 3031 Amount=59, 3551}},
+               4 Content={3370},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3349}}
+
+Depots      = {0 Content={3277 Amount=2, 3483, 3582 Amount=41, 3502 Content={3350, 3447 Amount=84, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3483, 3492 Amount=17, 3377, 3350, 3492 Amount=100, 3264, 2867 Content={2865 Content={3446 Amount=73, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2868 Content={2865 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2859, 2857, 3061}}, 3277 Amount=2, 2969 KeyNumber=5010, 3504 Content={2854 Content={3483, 3483}, 3008, 3507 String="maximo gorki\nab'dendriel"}, 2857 Content={3266, 3042 Amount=1, 3046, 3077, 3084 RemainingUses=250}, 2870 Content={3091 SavedExpireTime=1496, 3299, 3457, 2969 KeyNumber=3033}, 2854 Content={3447 Amount=91, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3448 Amount=64, 3449 Amount=22}, 2871 Content={3031 Amount=40, 3031 Amount=100, 3147, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=46}, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377}, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2869 Content={3097, 2969 KeyNumber=3033, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046 SavedExpireTime=2785, 3056 RemainingUses=200, 3552, 3056 RemainingUses=200}, 1781 Amount=3, 3502 Content={3076, 3082 RemainingUses=50, 3029 Amount=2, 3447 Amount=100}}, 
+               4 Content={2867 Content={3425, 3583 Amount=8, 3003, 3582 Amount=2, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3287 Amount=2}, 2853 Content={3577 Amount=5, 3582 Amount=4}, 3502 Content={}}, 
+               5 Content={3372, 3050 SavedExpireTime=0, 3056 RemainingUses=200, 3483, 3483, 2472 Content={2870 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}, 2473 Content={}, 3483, 3349, 3504 Content={3507 String="maximo gorki\ndarashia"}, 3506 String="Warning!\n\nThe monthly rent of 1100 gold\nfor your house \"Darashia 3, Flat 13\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1100 gold\nfor your house \"Darashia 3, Flat 13\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 3, Flat 13\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={}}, 
+               6 Content={2853 Content={3349, 3582 Amount=3, 3577 Amount=16}, 3504 Content={3457, 3507 String="maximo gorki\nvenore"}, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

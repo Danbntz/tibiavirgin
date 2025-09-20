@@ -1,0 +1,58 @@
+ID              = 11477693
+Name            = "Panda-Plata"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-0-114-7)
+CurrentOutfit   = (128,114-0-114-7)
+LastLogin       = 1148079932
+LastLogout      = 1148080332
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32632,32344,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,91397,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,48360,3000,64000,1600)
+Skill = (2,295,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,79,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,36469,1100,40144,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,27326,1100,29620,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,51,1100,105,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,74,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,840,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,45,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(46,1),(59,1),(61,1),(93,1),(94,1),(95,1),(125,1),(126,1),(217,3),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3572},
+               3 Content={2865 Content={3031 Amount=63, 3286, 3577 Amount=2, 3286, 3286, 3286, 3286, 3286, 2874 ContainerLiquidType=10, 3286, 3286, 2874 ContainerLiquidType=10, 2920, 2920, 3003, 3031 Amount=100, 2874 ContainerLiquidType=10}},
+               4 Content={3359},
+               5 Content={3418},
+               6 Content={3280},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2920 SavedExpireTime=408}}
+
+Depots      = {0 Content={3291, 2854, 3502 Content={3035 Amount=7}}, 
+               1 Content={3035 Amount=1, 3359, 2874, 3308, 3297, 3504 Content={3507 String="panda-plata\ncarlin" Editor="Sazuke De Asgar"}, 3504 Content={3507 String="panda-plata\ncarlin" Editor="Sazuke De Asgar"}, 3504 Content={3507 String="panda-plata\ncarlin" Editor="Sazuke De Asgar"}, 3504 Content={3507 String="panda-plata\ncarlin" Editor="Sazuke De Asgar"}, 3504 Content={3507 String="panda-plata\ncarlin" Editor="Guerrero Naciente"}, 2920, 3061, 3308, 3291, 2920, 2920, 2868 Content={2854, 3265, 3285, 3307, 3003}, 2885, 2854 Content={3092 SavedExpireTime=1798, 3283, 3285}, 2911 SavedExpireTime=329, 2865 Content={3298 Amount=1, 3285, 2854 Content={3504 Content={3507 String="Andy stitzer\nCarlin" Editor="Hitues"}, 3504, 3504 Content={3507 String="Lilviperjrr\ncarlin" Editor="Lilviperjrr"}, 3504 Content={3507 String="Panda-Plata\ncarlin\n" Editor="Akisuki"}, 3504 Content={3507 String="Andy stitzer\nCarlin" Editor="Sergeant Horvath"}, 3504 Content={3507 String="Lilviperjrr\nCarlin" Editor="Lilviperjrr"}}, 3308, 3272, 3300, 3300, 3316, 3269, 3299}, 3502 Content={3054 RemainingUses=27, 2991, 2393, 3463, 2469 Content={3447 Amount=3}, 2955, 3674, 3459, 3050 SavedExpireTime=1709, 3453, 2969 KeyNumber=3033, 3536, 2815 String="im a fucker the paper is here any way the ass smells if ur tyson he picks his nose\n\n             ( . Y  . )\n               )       (\n                   l", 3457, 3483}}, 
+               2 Content={3502}, 
+               3 Content={3362, 2854, 3035 Amount=1, 2871 Content={2973 KeyNumber=3520, 2874, 3447 Amount=41, 3377, 3377, 3412}, 3066, 3502}, 
+               6 Content={2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=8, 3502 Content={3377, 2920}}}

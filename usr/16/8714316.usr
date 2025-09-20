@@ -1,0 +1,55 @@
+ID              = 8714316
+Name            = "Chebe"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,128-114-19-95)
+CurrentOutfit   = (129,128-114-19-95)
+LastLogin       = 1141488924
+LastLogout      = 1141489359
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,949431,0,992000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,286610,1400,313485,1600)
+Skill = (2,505,505,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1110,1110,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11700,1100,12109,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,77110,1100,82740,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,28,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1200,50,50)
+Skill = (11,27,0,10,0,0,0,0,0,0,0,5401,1200,6405,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,312,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,15,20,29,30,42,44,45,48,51,76,79,81,95}
+QuestValues = {(1,4),(2,6),(20,1),(21,1),(22,1),(23,1),(40,1),(41,1),(42,1),(43,1),(44,1),(49,1),(50,1),(55,1),(56,1),(79,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(108,1),(109,1),(111,1),(113,1),(114,1),(115,1),(116,1),(117,1),(118,1),(121,1),(124,1),(129,1),(130,1),(133,1),(137,1),(140,1),(141,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(154,1),(170,1),(171,1),(172,1),(174,1),(175,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(209,1),(211,4),(213,1),(214,1),(215,1),(216,1),(222,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1),(254,1)}
+Murders     = {1141488087}
+
+Inventory   = {1 Content={3353},
+               6 Content={3349},
+               7 Content={3372}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3349, 3502 Content={}}, 
+               2 Content={3504 Content={3507 String="chebe\nkazordoon"}, 3504 Content={3507 String="chebe\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3502 Content={3413}}, 
+               4 Content={2854 Content={3359, 2949, 2949, 3350, 3350, 3572, 3350, 3350, 3350, 3350, 3572, 2949, 2949, 3572, 3572, 2949, 2949, 2949, 3572}, 3504 Content={3507 String="chebe\nedron", 3504 Content={3313, 3410, 2853 Content={3410, 3275, 3275, 3410}, 2853 Content={3410, 3264, 3410, 3410, 3286, 3286, 3286, 3410}, 3507 String="chebe\nvenore"}}, 3502 Content={}}, 
+               5 Content={2868 Content={3305, 3305, 2868 Content={3282, 2867 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3031 Amount=39, 3147, 3308, 2867 Content={2867 Content={}}, 3492 Amount=11, 3003, 3457, 3148 Charges=1}, 3503 Content={3503 Content={}, 3504 Content={3504 Content={3507 String="Kawashi Salvavidas\nAb'Dendriel"}, 3504 Content={3291, 2922 SavedExpireTime=190, 3507 String="kawashi salvavidas\nab'dendriel"}, 3507 String="kawashi salvavidas\nab'dendriel"}}}, 2867 Content={3578 Amount=89, 3578 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2868 Content={2853 Content={3301, 3286}, 3409, 3301, 3301, 3301, 3286, 3349, 3286, 3349, 3286, 3409, 3409, 3409, 3409, 3409, 3409, 3409}, 3286, 3349, 3349, 3409, 3409, 3457, 3054 RemainingUses=200, 3299, 3502 Content={2853 Content={3503 Content={3503 Content={}}}}}, 
+               6 Content={3447 Amount=95, 3447 Amount=100, 3349, 3506 String="Warning!\n\nThe monthly rent of 3790 gold\nfor your house \"Salvation Street 2\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3790 gold\nfor your house \"Salvation Street 2\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3790 gold\nfor your house \"Salvation Street 2\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3429, 3504 Content={3507 String="chebe\nvenore", 2854 Content={2854 Content={3377, 3377, 3349}, 2865 Content={2853 Content={3354, 3354, 3354}, 3354, 3367, 3354, 3367, 3354, 3354, 3367, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3367}}}, 2867 Content={2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 3457, 3456, 3308}, 2854 Content={2853 Content={2853 Content={2853 Content={2853 Content={3353, 3353, 2853 Content={3353, 3353, 3353}}, 2865 Content={3349, 3425}, 3349, 3349, 3425, 3425}, 3504 Content={3503, 3503, 3504, 3504 Content={3507 String="Wrafty\nVenore"}, 3504 Content={3504}, 3504 Content={3504, 3504, 3504, 3504, 3503, 3503}}, 3349}, 3349, 3410, 3307, 3410}, 3354, 3353, 3354, 3353, 3354, 3354, 3354, 3353}, 2857, 3502 Content={3091, 3504 Content={3504 Content={3507 String="chebe\nvenore"}}, 3148 Charges=2, 2969 KeyNumber=5010, 3059}}, 
+               7 Content={3441, 3441, 3502 Content={3292, 3492 Amount=2, 3031 Amount=30, 3492 Amount=100, 3425, 3327}}, 
+               8 Content={3586 Amount=2, 3587 Amount=16, 3589 Amount=2, 3502 Content={}}}

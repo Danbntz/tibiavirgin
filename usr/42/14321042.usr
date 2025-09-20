@@ -1,0 +1,54 @@
+ID              = 14321042
+Name            = "Mephyo Crio"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1148167849
+LastLogout      = 1148171153
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31781,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,36754,0,37800,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,26230,1100,29649,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5324,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,585,2000,750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,17,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,31,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,45,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,29}
+QuestValues = {(18,1),(46,1),(59,1),(223,1),(333,1)}
+Murders     = {1148067942}
+
+Inventory   = {1 Content={3375},
+               3 Content={2868 Content={3577 Amount=2, 3003, 3457}},
+               4 Content={3358},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3308}}
+
+Depots      = {1 Content={2472 Content={3446 Amount=1, 3723 Amount=11, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=15, 3588 Amount=51, 2481 Content={3456, 3293, 3492 Amount=45, 2874, 2874, 2920, 2920 SavedExpireTime=599, 3293, 3285}, 3736 Amount=2}, 2469 Content={3503 Content={3507}, 3503 Content={3507 String="Slogen Carlin" Editor="Slogen"}, 3505, 3506 String="Marcin of Lyski\nCarlin\nDalem ci bolty tylko pomoz mi wand of fortex kupic \n" Editor="Kajoinlyski", 3505 String="te amo mimi\nerne" Editor="Darker Goddness", 3505, 3506 String="Ganso of Zanera\ncarlin\n\n\ne ai se me mandou p-legs \neu vi no site se matou ele vlw heim" Editor="Sarkbla Valliya Skull", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magician's Alley 5e\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2873}, 2472 Content={3483, 3492 Amount=100, 3457, 3465, 3465 ContainerLiquidType=7, 3300, 3273, 3294, 3430, 3293, 3456}, 3502 Content={2853 Content={2905}, 2853 Content={2853 Content={3293, 3273, 2893 ContainerLiquidType=12, 2874 ContainerLiquidType=12, 2882 ContainerLiquidType=12, 2882 ContainerLiquidType=12, 2874 ContainerLiquidType=12}, 2989, 3509, 3509, 2916, 2914 SavedExpireTime=1997, 2875 ContainerLiquidType=6, 2875 ContainerLiquidType=6}, 2853 Content={2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2875, 2875 ContainerLiquidType=6, 2875 ContainerLiquidType=6, 2873 ContainerLiquidType=6, 2874 ContainerLiquidType=6}, 2853 Content={2893, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2882 ContainerLiquidType=6, 2893 ContainerLiquidType=6, 2874 ContainerLiquidType=6}, 2853 Content={2874, 2875, 2875 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6}, 2853 Content={3658, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3505, 3453, 2914, 3454, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3505 Editor="Sir Zerrak"}, 2853 Content={3147, 3375, 3074, 3291, 3291, 2853 Content={3601 Amount=1, 3606 Amount=1, 2853 Content={3035 Amount=3, 3349, 3504 Content={3459, 4378 RemainingExpireTime=1089, 3358, 3602 Amount=1, 2875, 3468, 2815 String="haha" Editor="Kahesh Conshan"}, 3602 Amount=6, 3587 Amount=3, 3598 Amount=4, 3723 Amount=4, 3724 Amount=2}, 3595 Amount=1, 3577 Amount=24, 3578 Amount=3, 3590 Amount=9, 3586 Amount=8}}, 2853 Content={2874, 2874, 2853 Content={3003, 3003, 3003}, 3446 Amount=20, 3456, 3456}}}, 
+               3 Content={3502}, 
+               6 Content={2469 Content={2469 Content={2874 ContainerLiquidType=6, 3577 Amount=5, 3003}}, 3502 Content={3492 Amount=74, 3674, 2853 Content={2911, 2853 Content={2853 Content={2911 SavedExpireTime=2991, 2911 SavedExpireTime=2991, 2911 SavedExpireTime=2184, 2911 SavedExpireTime=2244, 2911 SavedExpireTime=2993, 2911 SavedExpireTime=2996, 2911 SavedExpireTime=2993, 2911 SavedExpireTime=2997}, 3129, 2981, 2981, 2983, 2981, 2983, 2981}, 2920 SavedExpireTime=598, 2920 SavedExpireTime=308, 2922 SavedExpireTime=294}, 3492 Amount=100}}}

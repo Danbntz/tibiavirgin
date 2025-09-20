@@ -1,0 +1,56 @@
+ID              = 10961552
+Name            = "Nena Lian chiquita"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,114-114-114-114)
+CurrentOutfit   = (137,114-114-114-114)
+LastLogin       = 1148246959
+LastLogout      = 1148250178
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32645,31918,8]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,109207,0,116000,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,84093,1100,91639,1600)
+Skill = (2,222,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,251,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13920,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,738,1800,1118,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,43,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,123,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,4,1100,20,20)
+Skill = (14,0,1200,0,0,0,939,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,30,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,23,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,7,10,12,15,25,26,27,29,30,42}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(59,1),(60,1),(69,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(115,1),(125,1),(126,1),(223,1),(226,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2870 Content={3582 Amount=2, 3457, 3003}},
+               4 Content={3358},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3031 Amount=100}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={2868 Content={3658, 2955, 3658, 3658, 3668, 3658, 2955, 3287 Amount=2, 2955, 2955, 3046 SavedExpireTime=1247}, 2865 Content={3425, 3425, 3418, 3425, 3410, 3421, 3409, 3416, 3425, 3425, 3425, 3425}, 2868 Content={3457, 3003, 3457, 3457, 3457, 3457, 3003, 3457, 3003, 3457, 3003, 3457, 3003, 3457, 3003, 3457, 3003, 3457}, 2854 Content={3375, 3375, 3375, 3354, 3354, 3351, 3351}, 2868 Content={3279, 3305, 3074, 3066, 3066, 3305, 3299, 3066, 3275, 3305, 3266, 3282, 3301, 3301, 3301, 3289, 3265, 3275, 3269, 3308}, 2868 Content={3457, 3457, 3003, 3457, 3457, 3457, 3308, 3457, 3457}, 2854 Content={4871, 3056 RemainingUses=200, 3012, 3045 RemainingUses=200, 3008, 3008, 3008, 3017, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200, 3050, 3004, 3008, 3097 SavedExpireTime=2964, 3050 SavedExpireTime=1797, 3097, 3056 RemainingUses=200, 3017}, 2865 Content={3059, 2659, 3059, 3059, 3059, 2659}, 2854 Content={3557, 3372, 3372, 3362, 3362, 3362, 3558, 3362, 3362, 3559, 3559, 3362, 3362, 3362, 3558, 3560, 3372, 3362}, 2854 Content={3358, 3359, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3357, 3357, 3358, 3377, 3377, 3377, 3359, 3377, 3377, 3377, 3377}, 2854 Content={3457, 3457, 3308, 3308, 3457, 3003, 3308, 3457, 3457, 3003, 3457, 3457, 3457, 3003, 3003, 3003, 3003}, 2867 Content={3724 Amount=1, 3585 Amount=2, 3725 Amount=1, 3590 Amount=12, 2970 KeyNumber=3800, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2969 KeyNumber=4600, 3738 Amount=2, 2968 KeyNumber=3940, 2969 KeyNumber=3600, 3028 Amount=3, 3030 Amount=2, 3598 Amount=14, 2969 KeyNumber=5000, 2970 KeyNumber=3800, 2969 KeyNumber=4600}, 2854 Content={3031 Amount=34, 3266, 3266, 3264, 3004, 3031 Amount=100, 3452, 3457, 3447 Amount=21, 3003, 3457, 3003, 3003}, 2867 Content={3031 Amount=100, 3160 Charges=1, 3004, 3031 Amount=100, 3035 Amount=100, 3050 SavedExpireTime=1798, 3056 RemainingUses=200, 3012, 3012, 3008, 3017, 3017, 4871, 3007, 3012, 3012, 3054 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=199, 3017}, 2854 Content={3285, 3266, 3266, 3446 Amount=38, 3349, 3075, 3280, 3322, 3311, 3285, 3308, 3299, 3330, 3285, 3316, 3316, 3285, 3282, 3459, 3310}, 3502 Content={2867, 2854, 2854, 2868, 2854, 2854, 2854, 2854, 2854, 2854, 2868, 2868, 2854}}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3374, 3374, 3378, 3336, 3507 String="nena lian chiquita\nvenore\n"}, 3504 Content={3504 Content={3507 String="Neo the Mercenary\nThais\n" Editor="Arkanio the Master Magician"}, 3534 Amount=1, 3507 String="nena lian chiquita\nvenore\n"}, 3504 Content={3507 String="nena lian chiquita\nvenore\n"}, 3502 Content={3457}}}

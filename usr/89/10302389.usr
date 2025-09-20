@@ -1,0 +1,58 @@
+ID              = 10302389
+Name            = "Deaths Mercenary"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,79-127-127-127)
+CurrentOutfit   = (134,79-127-127-127)
+LastLogin       = 1147215695
+LastLogout      = 1147216041
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32361,32158,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,102603,0,116000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,67610,3000,193600,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,1,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,19099,1100,20113,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,47,0,10,0,0,0,0,0,0,0,17896,1100,18202,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,25,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29,76,81}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(93,1),(94,1),(95,1),(100,1),(106,1),(107,1),(109,1),(125,1),(126,1),(128,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3572},
+               3 Content={2868 Content={3457, 3003, 3031 Amount=5}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={2854 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=337, 2920 SavedExpireTime=305, 2920 SavedExpireTime=366, 2920 SavedExpireTime=211, 2920 SavedExpireTime=594, 2920, 2920}, 2868 Content={3367, 3367, 3367, 3353, 3367, 3367}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={2857}, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={2854, 2854}}, 2865 Content={3291, 3291, 3299, 3457, 3456}, 2868 Content={2839, 2839, 2839, 2839, 2839, 2839, 2839, 2815 String="Hello,\nCongrats on owning this house !\n YOU suck !\n", 2839, 3505, 3505 String="hello\nhi", 3505 String="a code \nfasfgsafhasgfjargv auyrtatrasfSGdbsfsyfwriwd78yzdqj6ber7aw4y8t98tuw9687w9ey9twn y7et egyn8yur"}, 3502 Content={3483, 3027 Amount=1, 2992 Amount=5, 2853 Content={2388, 2955, 2906, 3308}, 2843 String="The way to the lands,\nWhere as a hero I stand,\nThe path where beauty met the beast,\nThe elvenpath.\n\nIt's the honesty of this worlds,\nRuled by magic and mighty swords,\nThat makes my soul long for the past,\nThe elvenpath.\n\nDruk Lartsa", 3483, 2869 Content={3416, 3280, 3556, 3385, 3084 RemainingUses=248, 3556, 3415, 2857 Content={3035 Amount=6, 3046, 3077, 3084 RemainingUses=250, 3098}, 3004, 3004, 3085 RemainingUses=200, 3735 Amount=1, 3741 Amount=1, 3349, 2854 Content={3463, 3658, 2906}, 3059, 3059}, 2871 Content={3077, 3083 RemainingUses=150, 3056 RemainingUses=199, 3008, 3083 RemainingUses=150, 3093, 3050}, 3304, 3483, 3483, 2854 Content={3289, 3289, 3289, 3289, 3289, 3289, 3289, 3289, 3059, 3594, 3594, 2917, 2917, 2917, 2917, 2917, 2917, 2917, 2917, 2917}, 2865, 3505 String="Pete buddy, i finally quit this game for good. In memory of our time together i want you to have some of my equipment. SO DONT FUCKING LOSE IT!\nI hope one day in the not too distant future you do kill Vana and that lord wanker. Good luck, and keep up the PKing\nSmeghead", 2854 Content={2854, 2865, 2854, 2854, 2854, 2871, 2854, 2854, 2867, 2854, 2854}, 2854 Content={2659, 2659, 3505 String="srry man i didn't mean to take the stuff it wazn't me that day it waz my damn cousin he does that kind of shit he just told me today i'm VERY srry he also told me he stole bp of hmms so he's 1.5k for them idk wat else he stole but w/e it is he's most of it he told me wat he stole srry man i didn't know or else i would of given the stuff back that day u told me i stole it i didn't mean for my cousin to steal something form my friends i honesty didn't know he messes with ne thing he also tried to piss off sylak on this char also idk wat else he did but w/e it is i'll find out soon enough once more srry and heres some stuff he also told me he stole fish like 200 or so so he's some worms for wat he stole i'm sending 300worms and something else just to prove i'm srry\n\nRhonix the Swordsman", 2656, 2647, 2667, 2659, 3076, 2667, 2647, 2647, 2647, 2667, 2667, 2647, 2647}}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

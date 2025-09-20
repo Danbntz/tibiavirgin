@@ -1,0 +1,48 @@
+ID              = 9480987
+Name            = "Renegade Roman"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-76-114-114)
+CurrentOutfit   = (129,114-76-114-114)
+LastLogin       = 1132477006
+LastLogout      = 1132477488
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15658,0,17600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,25440,1400,26118,1600)
+Skill = (2,101,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,26,0,10,0,0,0,0,0,0,0,3793,1100,4054,100)
+Skill = (7,35,0,10,0,0,0,0,0,0,0,2954,1100,3275,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,1200,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,416,1200,496,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,117,1200,181,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1052,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,493,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {8,10,51}
+QuestValues = {(18,1),(20,1),(23,1),(35,1),(106,1),(107,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={2854 Content={2853}, 2854, 2854}},
+               5 Content={3350},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3114 Amount=4, 3547 Amount=7, 3448 Amount=2, 3504 Content={3198 Charges=2, 3188 Charges=1, 3507 String="rafal elo\nthais"}, 1781 Amount=2, 3456, 3503 Content={2854 Content={2854 Content={2854, 2854, 2854, 2870, 2854, 2854, 2854, 2867, 2854, 2854, 2854, 2854, 2854, 2854}, 2839, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3456, 3003, 3003, 3003, 3003}, 2853 Content={2854 Content={3492 Amount=50, 3160 Charges=1, 3160 Charges=1, 2854 Content={3198 Charges=4, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147}, 3174 Charges=2, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2969 KeyNumber=3600, 3012, 3084 RemainingUses=250, 3054 RemainingUses=200, 2969 KeyNumber=3002, 2969 KeyNumber=3001}, 3483, 3600 Amount=23, 3587 Amount=14, 3578 Amount=25, 3577 Amount=33, 3582 Amount=6}, 3507 String="Undone\nAnkrahmun"}, 2854 Content={2906, 3316, 3308, 1781 Amount=5, 3446 Amount=4, 3277 Amount=21, 3273, 3377, 3375, 3270, 3273, 3289}}}}

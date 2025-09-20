@@ -1,0 +1,50 @@
+ID              = 8222624
+Name            = "Lyrox"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,97-80-104-0)
+CurrentOutfit   = (128,97-80-104-0)
+LastLogin       = 1141068392
+LastLogout      = 1141068397
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32342,32277,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,9203,0,9300,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,14797,1100,15179,1600)
+Skill = (2,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4579,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3345,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,211,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(58,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {6 Content={3074}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3031 Amount=8, 2869 Content={2870 Content={3457, 3003}, 3198 Charges=5, 2853 Content={3274, 3507 String="Telfir Nailo \nab'dendriel\n", 2853 Content={}, 2853 Content={}, 2853 Content={}, 3507 String="roka nogar\nedron", 3507 String="Mighty Durin\nEdron", 3507 String="orfed\nedron"}, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 2853 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1}, 3003}, 3502 Content={}}, 
+               2 Content={3504 Content={3031 Amount=7, 3507 String="lyrox\nkazordoon"}, 2853 Content={2853 Content={3507 String="Theodas\nKazordoon", 2853 Content={2853 Content={}}, 2853 Content={}, 2853 Content={}, 3559, 2853 Content={}}, 2853 Content={}, 2853 Content={}, 3507 String="xelva  laron", 2853 Content={}, 3507 String="ranzel'slayer\nkazordoon", 3507 String="alas of markiz amon\nkazordoon", 2853 Content={}}, 3031 Amount=1, 3483, 3504 Content={3507 String="lyrox\nkazordoon"}, 3504 Content={3507 String="lyrox\nkazordoon"}, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={2853 Content={2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276}, 3502 Content={3446 Amount=3, 3097 SavedExpireTime=0}}, 
+               3 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               7 Content={2871 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3723 Amount=60, 2871 Content={3147, 3147, 3147, 3147, 3147}, 3502 Content={}}}

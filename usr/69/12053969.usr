@@ -1,0 +1,56 @@
+ID              = 12053969
+Name            = "Satori San"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (129,115-114-114-115)
+CurrentOutfit   = (129,115-114-114-115)
+LastLogin       = 1147815098
+LastLogout      = 1147815201
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32075,31571,10]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,322833,0,330400,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,230072,1100,237809,1600)
+Skill = (2,262,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,17,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16544,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4972,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,465,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,305,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,86,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,20,26,29,39,81,88}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(31,1),(84,1),(85,1),(96,1),(97,1),(98,1),(128,1),(190,1),(191,1),(217,3),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2872 Content={3188 Charges=2, 3457, 2854 Content={2865 Content={2870}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}},
+               4 Content={3380},
+               5 Content={3421},
+               6 Content={3071},
+               7 Content={3557},
+               10 Content={3003}}
+
+Depots      = {0 Content={2854, 2854 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3074, 3279, 3066, 3093 SavedExpireTime=1744, 3492 Amount=2, 3042 Amount=4, 2853, 2854, 3502}, 
+               4 Content={3504 Content={2868, 2871 Content={3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3301, 3507 String="Satori San\nEdron" Editor="Sazuki San"}, 3504 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3507 String="sazuki san\nedron\n" Editor="Ojos Saint", 2872 Content={3457, 3003}}, 3504 Content={2871 Content={2865, 3504 Content={3507 String="Satori San\nAnkrahmun" Editor="Atreyo San", 3308}, 2853 Content={2853, 3294}, 3294, 2853 Content={2853, 2853 Content={3294, 3294}, 2853}}, 3507 String="Satori San\nEdron" Editor="Satori San"}, 3504 Content={3507 String="Satori San\nEdron" Editor="Sazuki San"}, 3502}, 
+               5 Content={2854, 2867, 3031 Amount=12, 3502}, 
+               6 Content={3504 Content={3507 String="Satori San\nVenore" Editor="Fearless San"}, 3003, 3457, 3147, 3504 Content={3267, 3046 SavedExpireTime=584, 3046, 3084 RemainingUses=239, 3271, 3507 String="Satori San\nVenore" Editor="Navana San"}, 2865 Content={3504 Content={3507 String="Satori san\nVenore" Editor="Begoldenator"}, 3008, 3506 String="Satori San\nVenore\n\n\nleave your guild and ill invite you asap" Editor="Carnage Saint", 3504 Content={3504, 3504 Content={3504}}}, 3502 Content={3457, 3483, 3279, 3292}}, 
+               7 Content={3504 Content={2853 Content={3367, 2853 Content={2853 Content={3276, 3276, 3276, 2853 Content={3276, 3264, 3354, 3264, 3276}, 2853 Content={3276, 3264, 3367, 3354, 3286, 3276, 3411}, 3367, 3276, 3367}, 2853 Content={3286, 3367, 3354, 3354, 3276, 3354, 3276}, 2853 Content={3276, 3411, 3286, 2853 Content={3276, 3411}, 3354, 3276, 3276, 3411}, 2853 Content={3276, 2853 Content={3286}, 2853 Content={3276, 3286, 3367, 3286, 3286, 3276}}, 2853 Content={3276, 2853 Content={2853 Content={3354, 3286, 3286, 3276, 3367, 3411}, 3354, 3276, 2853 Content={3276, 3411, 3276, 3367, 3411, 3276, 3411, 3286}}, 2853 Content={2853 Content={3411, 3286, 3367, 3286, 3367, 3354}}, 3276}, 2853 Content={3276, 3276, 3276, 2853 Content={3367, 3367, 3276}, 3354, 3411}, 2853 Content={3276, 3276, 3276, 3367, 3367, 3411, 3276, 3411}, 2853 Content={3367, 3367, 3411, 3286, 3276, 3411}}, 3367, 3286}, 3507 String="Satori San\nAnkrahmun" Editor="Zarhor San"}, 3017, 3504, 3504 Content={3507 String="satori san\nankrahmun" Editor="Puppet master of zanera"}, 3502 Content={3050, 2903, 3504 Content={2867 Content={2871 Content={2854}}, 3507 String="Satori San\nAnkrahmun" Editor="Atreyo San"}, 3050 SavedExpireTime=1697, 3050}}}

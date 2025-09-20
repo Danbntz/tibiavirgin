@@ -1,0 +1,57 @@
+ID              = 11379827
+Name            = "Allan kinight"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,114-114-114-0)
+CurrentOutfit   = (131,114-114-114-0)
+LastLogin       = 1147900911
+LastLogout      = 1147901082
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32432,31757,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,336005,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,94681,3000,193600,1600)
+Skill = (2,500,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,74,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,112106,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,68624,1100,70521,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4132,1100,4445,20)
+Skill = (14,0,1200,0,0,0,13,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,8,0,119,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(60,1),(61,1),(69,1),(75,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2870 Content={3031 Amount=8, 3492 Amount=17, 3457, 3483, 3003, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854}},
+               4 Content={3370},
+               6 Content={3281},
+               7 Content={3371},
+               8 Content={3551},
+               9 Content={3004},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2853 Content={1781 Amount=3, 3349, 3293, 2970 KeyNumber=4601, 2969 KeyNumber=4600}, 2854 Content={3483, 3492 Amount=80, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483, 3310, 2860 Content={3147, 3147, 3147, 3084 RemainingUses=250}, 3316}, 3504 Content={3504 Content={3504 Content={3507 String="babbul of zanera\ncarlin" Editor="Babbul of Zanera"}, 3504 Content={3507 String="babbul of zanera\ncarlin" Editor="Babbul of Zanera"}, 3504 Content={3507 String="babbul of zanera\ncarlin" Editor="Babbul of Zanera"}, 3504 Content={3507 String="madnio\nab'dendriel" Editor="Madnio"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 3507 String="babbul of zanera\ncarlin" Editor="Babbul of Zanera"}, 3504 Content={2853 Content={2853}, 3507 String="babbul of zanera\ncarlin" Editor="Babbul of Zanera"}, 3504, 3507 String="babbul of zanera\ncarlin" Editor="Babbul of Zanera"}, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Czester Waleczny\ncarlin" Editor="Gerudopro"}, 3504, 3504 Content={3506 String="brett van der honz\ncarlin\nhola mi amor me tienes olvidada no te has conectado mas la otraves me dejastes hablando sola bueno si ya no me quieres solo dimelo y te comprendo.... T.Q.M\nATTE:Lemir Maruanik\n", 3507 String="Lemir Marianik\ncarlin\n" Editor="Lemir Marianik"}, 3504, 3504 Content={3507 String="Zeus Nervoso\nCarlin" Editor="Bi Patricia"}, 3504}, 3507}, 3504, 3504 Content={3507 String="igis thil mage\ncarlin" Editor="Igis Thil"}, 3504 Content={2853 Content={2853}, 3426, 3507 String="mimee\ncarlin"}, 3504, 3504, 3504, 3504, 3504 Content={3507 String="Astrix Soad\nCarlin"}, 3504}}}, 3507 String="allan kinight\ncarlin" Editor="Allan kinight"}, 3502 Content={2472 Content={3050, 3287 Amount=1, 3299, 3077}, 2472 Content={3583 Amount=4, 3046}, 3504 Content={3031 Amount=94, 3031 Amount=100, 3035 Amount=19}}}, 
+               2 Content={3502 Content={3277 Amount=1}}, 
+               3 Content={3502}, 
+               6 Content={3502}}

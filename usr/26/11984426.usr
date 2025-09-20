@@ -1,0 +1,58 @@
+ID              = 11984426
+Name            = "Lancellot Phyros"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-132-114-132)
+CurrentOutfit   = (129,114-132-114-132)
+LastLogin       = 1147535802
+LastLogout      = 1147535807
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,32134,6]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,266713,0,295200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,74527,3000,193600,1600)
+Skill = (2,470,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,64,130,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,945,945,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,45192,1100,48785,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,33833,1100,35945,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,139,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(35,1),(37,1),(55,1),(59,1),(60,1),(61,1),(99,1),(106,1),(107,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=28, 3003, 2868 Content={3410, 3354, 3367, 3367, 3354, 3285}, 2868 Content={3031 Amount=100, 3031 Amount=100}}},
+               4 Content={3370},
+               5 Content={3428},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3504 Content={2853 Content={2853, 2853 Content={2853}}, 3507 String="Lancellot Phyros\nThais" Editor="Lancellot Phyros"}, 3504 Content={3504 Content={3504 Content={2853 Content={2853, 2853, 2853 Content={3446 Amount=16}, 2853}, 3507 String="Lancellot Phyros\nThais" Editor="Lancellot Phyros"}, 2853 Content={2853, 2853 Content={2853}}, 3507 String="Lancellot Phyros\nThais\n" Editor="Lancellot Phyros"}, 3504 Content={2853 Content={2853, 2853, 2853}, 3507 String="Lancellot Phyros\nThais" Editor="Lancellot Phyros"}, 3504 Content={3507 String="Lancellot Phyros\nThais" Editor="Lancellot Phyros"}, 3507 String="Lancellot Phyros\nThais" Editor="Lancellot Phyros", 2853 Content={2853 Content={2853, 2853, 2853}}}, 3502}, 
+               1 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Lancellot Phyros\nCarlin" Editor="Murdoc Phyros"}, 3507 String="Lancellot Phyros\nCarlin" Editor="Lancellot Phyros"}, 3507 String="Lancellot Phyros\nCarlin" Editor="Lancellot Phyros"}, 3504 Content={3507 String="Lancellot Phyros\nCarlin\n" Editor="Lancellot Phyros"}, 3504}, 3502 Content={2472 Content={3035 Amount=8, 2867, 3077, 3507 String="diego gobira\n  \n\n8\n" Editor="Foladorzinho", 2853 Content={2857, 2874}, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 3291}, 2868 Content={3046, 3046, 3028 Amount=1, 3097 SavedExpireTime=3595, 3097, 3097 SavedExpireTime=3596, 3050 SavedExpireTime=1799, 2647, 2647, 2647, 2647, 2667, 2667, 2667, 2667}, 2868 Content={3446 Amount=100, 3349, 3008, 3054 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3446 Amount=60}, 2868 Content={3441, 3409, 3293, 3074}}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3507 String="Lancellot Phyros\nvenore\n" Editor="Alan Garea"}, 3502}}

@@ -1,0 +1,57 @@
+ID              = 8604517
+Name            = "Zion Satori"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,40-95-76-0)
+CurrentOutfit   = (134,40-95-76-0)
+LastLogin       = 1142037979
+LastLogout      = 1142038215
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32220,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,724739,0,780700,100)
+Skill = (1,41,0,0,0,0,0,0,0,0,0,799839,1100,860219,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,904,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,117498,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,87937,2000,102350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,22,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3270,1100,3289,20)
+Skill = (14,0,1200,0,0,0,55,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,11,16,17,18,20,21,29,30,39,44,45,76,81,86,88}
+QuestValues = {(20,1),(23,1),(35,1),(54,1),(59,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               4 Content={3567},
+               5 Content={3416},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3031 Amount=9}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2868 Content={3578 Amount=14, 3545, 3377, 3457, 3008, 3457, 3003, 3003, 3492 Amount=30, 3483}, 3502 Content={2970 KeyNumber=4503, 3003, 3003}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3031 Amount=65, 3502 Content={}}, 
+               5 Content={2473, 2650, 2469, 3017, 2653, 2469, 2970 KeyNumber=4503, 2650, 2469, 3509, 2653, 2469, 2957, 2664 RemainingExpireTime=247, 2653, 2952, 2647, 2977, 2653, 2469 Content={2853 Content={2853 Content={2911, 2911 SavedExpireTime=2021, 2911 SavedExpireTime=1880, 2924 SavedExpireTime=242, 2924 SavedExpireTime=258, 2911 SavedExpireTime=2678}, 3606 Amount=2}, 3504 Content={3504, 3504, 3504, 3504 Content={3507 String="ZION SATORI HUNTING HERE   PLX RESPECT     LEAVE"}, 3504, 3504 Content={3507 String="Azgathrone\nAnkrahmun"}, 3504 Content={3507 String="Dragor Darksoul\nankrahmun"}, 3504}, 2853 Content={3483, 3483, 2853 Content={2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2853 Content={2853 Content={3492 Amount=25, 3492 Amount=100, 3483}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3483, 3483, 3483}, 2853 Content={2853 Content={2853 Content={3577 Amount=25}, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3577 Amount=100, 3577 Amount=100, 3577 Amount=94, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 2853 Content={2853 Content={2853 Content={3582 Amount=72}, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3492 Amount=42, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 2647, 2853, 2853, 2853, 3372, 3054 RemainingUses=197, 2650, 3456, 3595 Amount=4, 3056 RemainingUses=200, 3583 Amount=8, 3291, 3297, 2653, 3409, 3291, 3056 RemainingUses=200, 3292, 2650, 3409, 3330, 3056 RemainingUses=200, 3291, 2656, 2647, 3042 Amount=2, 2659, 3083 RemainingUses=150, 3469, 2650, 2469 Content={3552}, 2650, 3429, 3056 RemainingUses=200, 3114 Amount=1, 3074, 2653, 3377, 3448 Amount=1, 3056 RemainingUses=200, 2650, 3425, 3448 Amount=1, 3056 RemainingUses=200, 2653, 3425, 3448 Amount=1, 3056 RemainingUses=200, 3451, 2659, 3003, 2647, 2977, 2659, 2991, 2647, 2893, 2656, 3377, 3056 RemainingUses=200, 2653, 3275, 3056 RemainingUses=200, 2650, 3552, 3293, 2911 SavedExpireTime=1458, 2650, 2983, 2650, 2469, 2905, 3033 Amount=1, 2647, 3449 Amount=7, 2659, 3084 RemainingUses=250, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2647, 3308, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2471, 3739 Amount=1, 2664 RemainingExpireTime=77, 3031 Amount=90, 3035 Amount=3, 2860 Content={3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 3504 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3507 String="Zion Satori\nDarashia" Editor="Zion Satori", 3049 SavedExpireTime=517, 3051, 3483, 3492 Amount=100}, 3503 Content={3503, 3507}, 3507 String="Zion Satori\nDarashia" Editor="Zion Satori"}, 3003, 3457, 3003, 3456, 3059, 3507 String="zion satori hunt here plz respect", 3457, 3502 Content={3447 Amount=30, 3349, 3446 Amount=75, 3349, 3349, 3349, 3552, 3349, 3504 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}}, 
+               7 Content={3503 Content={3032 Amount=1, 3447 Amount=3, 3042 Amount=1, 3577 Amount=99, 3507 String="Zion Satori \nDarashia\n" Editor="Zion Satori"}, 3502}}

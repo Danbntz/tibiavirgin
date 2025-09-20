@@ -1,0 +1,54 @@
+ID              = 8706574
+Name            = "Xagarqueve the Smoko Slayer"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,82-95-105-95)
+CurrentOutfit   = (128,82-95-105-95)
+LastLogin       = 1148117733
+LastLogout      = 1148118575
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31782,5]
+PlayerkillerEnd = 1149438943
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,458510,0,499200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,94301,3000,193600,1600)
+Skill = (2,520,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,44749,1100,48785,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,35276,1100,35945,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,36,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2148,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(46,1),(52,1),(53,1),(54,1),(55,1),(60,1),(61,1),(69,1),(72,1),(73,1),(74,1),(75,1),(91,1),(92,1),(93,1),(94,1),(95,1),(98,1),(99,1),(106,1),(107,1),(109,1),(113,1),(114,1),(125,1),(126,1),(128,1),(140,1),(141,1),(190,1),(191,1),(192,1),(206,1),(217,3),(223,1),(332,1)}
+Murders     = {1146844675,1146846034,1146846943}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=14, 3003, 3723 Amount=23, 3457}},
+               4 Content={3381},
+               6 Content={3281},
+               7 Content={3371},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3291, 2969 KeyNumber=3600}}, 
+               1 Content={3502 Content={2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3384, 2872 Content={3188 Charges=1, 3188 Charges=2}, 2853 Content={3147, 3147, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2857 Content={3003, 3457, 3456, 2906, 3308}, 2854 Content={2854, 2854, 2868, 2854, 2854, 2854, 2854, 2854, 2868, 2868}, 2860 Content={2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2955}, 2868 Content={3291, 3483, 3506 String="Xagarqueve the Smoko Slayer\nCarlin\nHi Xagarqueve the Smoko Slayer its me Michael i am leaveing this world so u can have all my stuff share it with your bro plz thx for being my friend :p good luck with wot ever u do bye i wil be on say hi or bye " Editor="Zeimos", 3483, 3483, 3492 Amount=100, 3483, 3492 Amount=100, 3291, 3582 Amount=80, 3174 Charges=5, 3578 Amount=100}, 3504 Content={2865 Content={3358, 3413, 3413, 3413, 2853 Content={3286, 3286, 3286}, 3350, 3264, 3269, 3264, 2853 Content={3352, 3352, 3352, 3352}, 2853 Content={3425, 3425, 3425, 3425}, 2853 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2854 Content={3349, 3349, 3349, 3349}, 3351, 3307, 3307}, 2868 Content={3046, 3046, 2853 Content={3083 RemainingUses=150, 3083 RemainingUses=150, 2955, 2955, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}, 3085 RemainingUses=200, 3085 RemainingUses=200, 3008, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2853 Content={3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012}, 3054 RemainingUses=200, 2853 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2853 Content={3092, 3052, 3050, 3004, 3050, 3093, 3050}, 3045 RemainingUses=200, 3085 RemainingUses=200, 3008, 3054 RemainingUses=200, 3421, 3046 SavedExpireTime=423, 4871, 3008}}, 2854 Content={2868 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3436, 3295, 3110, 3110, 2854 Content={3505, 3505, 3505, 3505 String="Hunted forever\n\n   ;)" Editor="Zmok Kitad", 3505 Editor="Boembaa", 3505 String="ushi the druid here" Editor="Ushi the druid", 3505 String="ushi the druid here" Editor="Ushi the druid", 3505, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3035 Amount=13, 3035 Amount=100, 2853 Content={3448 Amount=90, 3449 Amount=48}, 2853 Content={3104, 3120, 3105, 2854 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}}, 3035 Amount=100, 2854 Content={2969 KeyNumber=3033, 2973 KeyNumber=3520, 2853 Content={2970 KeyNumber=4501, 2970 KeyNumber=4503, 2970 KeyNumber=4502}, 2969 KeyNumber=4055}, 2853 Content={3065, 3069, 2853 Content={3357, 3357}, 3301}, 2853 Content={2854 Content={3029 Amount=2, 3028 Amount=3, 3027 Amount=2, 3026 Amount=3, 3030 Amount=5, 3033 Amount=2, 3290, 3576, 3576, 3077, 3298 Amount=4, 2953}}}, 2853 Content={3503 Content={2868 Content={2853 Content={3593, 3593, 3593, 3593}, 2853 Content={3592, 3592, 3592, 3592, 3592}, 3585 Amount=31, 3725 Amount=1, 3602 Amount=20, 3598 Amount=57, 3600 Amount=82, 3602 Amount=100, 3585 Amount=100, 3586 Amount=9, 3590 Amount=37, 3595 Amount=22, 3598 Amount=100, 3601 Amount=9, 3587 Amount=4}}}, 2853 Content={3289, 2860 Content={3505 Editor="Zum Light", 3505 Editor="Xagarqueve the Smoko Slayer", 3505 String="Kasia sorry ze ci nawrzucalem w tibbi" Editor="Mamento", 3505, 3505, 3505, 3505}, 3377, 3377, 3503 Content={3310, 3299, 3310, 3299, 3299, 3299, 3377}, 3504 Content={3551, 3059, 3551, 3059, 3463, 2989, 3059}, 2853 Content={3421, 3471, 3451, 3377, 3412, 3308, 3375}}}}, 
+               2 Content={3502 Content={2970 KeyNumber=3802, 2853 Content={2970 KeyNumber=3801}, 2970 KeyNumber=3800}}, 
+               3 Content={3502 Content={3308, 2853 Content={2853}, 3483, 3503 Content={3504, 3504}, 3668, 3658, 3659, 2867 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3264, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3285}, 3453, 2969 KeyNumber=3033}}}

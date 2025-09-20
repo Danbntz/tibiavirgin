@@ -1,0 +1,60 @@
+ID              = 13538355
+Name            = "Armed'soek"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,19-80-124-124)
+CurrentOutfit   = (134,19-80-124-124)
+LastLogin       = 1148240208
+LastLogout      = 1148240819
+StartPosition   = [33217,31814,8]
+CurrentPosition = [32142,32389,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,362915,0,368300,100)
+Skill = (1,42,0,0,0,0,0,0,0,0,0,922387,1100,947841,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,12,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,36291,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,865,1800,1118,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,25585,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,49,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,30,1100,42,20)
+Skill = (14,0,1200,0,0,0,1002,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,197,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,11,20,29,39,42,44,81,84,88,89}
+QuestValues = {(32,1),(33,1),(34,1),(59,1),(98,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {1145659875,1145662051,1145836799,1147380853,1147382526}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3578 Amount=1, 3578 Amount=1, 3578 Amount=1, 3492 Amount=97, 3577 Amount=2, 3031 Amount=24, 2870 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3191 Charges=2, 3198 Charges=5, 3198 Charges=5, 3191 Charges=2, 3198 Charges=5, 3191 Charges=2, 3191 Charges=2, 3198 Charges=5, 3198 Charges=5, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2}, 3147, 3578 Amount=8, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3377, 3507 String="Armed'Soek\nThais" Editor="Koohen"}, 3504 Content={3504 Content={3425, 3507 String="Armed'soek\nThais" Editor="Blinblinera"}, 3504 Content={3507 String="Armed'Soek\nThais" Editor="Koohen", 2853 Content={3349, 2853 Content={3377, 3377, 2853 Content={3446 Amount=35, 3349, 2853 Content={3349}}}}}, 3504 Content={3507 String="Armed'Soek\nThais" Editor="Armed'soek"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Fibula Village, Bar\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3504 Content={3275, 2853, 3507 String="Armed'Soek\nThais" Editor="Bass Maniac"}, 3507 String="Armed'Soek\nThais" Editor="Armed'soek"}, 3457, 3504, 3507 String="Armed'Soek\nThais" Editor="Bass Maniac"}, 3502 Content={3092, 2853 Content={3003}}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="armed'soek\nkazordoon\n" Editor="Acko Bokiz"}, 3504 Content={3007, 3589 Amount=10, 3507 String="Armed'soek\nkazordoon\n" Editor="Acko Bokiz"}, 3502}, 
+               3 Content={3277 Amount=1, 3502}, 
+               4 Content={3504 Content={3507 String="Armed'Soek\nEdron" Editor="Bass Maniac"}, 3504 Content={3425, 3425, 3507 String="Armed'Soek\nEdron" Editor="Bass Maniac"}, 3502}, 
+               5 Content={3504 Content={3507 String="Armed'Soek\nDarashia" Editor="Bass Maniac"}, 2853 Content={3035 Amount=1, 3582 Amount=87, 3492 Amount=94, 3577 Amount=57, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3507 String="armed'soek\ndarashia\n" Editor="Asterit"}, 3504 Content={3507 String="armed'soek\ndarashia" Editor="Soul of Enrak"}, 3504 Content={3507 String="Armed'soek\ndarashia" Editor="Acko Bokiz"}, 2472 Content={3147, 3147, 3147, 3147, 3552, 3074, 3298 Amount=1}, 3502 Content={2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 3350, 3349, 3350, 3446 Amount=4, 3447 Amount=30, 3736 Amount=2, 3077, 2955, 3083 RemainingUses=44, 3483}}, 
+               6 Content={3504 Content={3507 String="Armed'Soek\nVenore" Editor="Bass Maniac"}, 3504 Content={2857 Content={3077, 3084 RemainingUses=250}, 3507 String="Lord Zuko\nvenore\n" Editor="Lord Zuko"}, 3502}, 
+               7 Content={3582 Amount=5, 3504 Content={3578 Amount=38, 3357, 3507 String="Armed'Soek\nAnkrahmun" Editor="Bass Maniac", 3507}, 3504 Content={3507 String="Armed'Soek\nAnkrahmun" Editor="Bass Maniac"}, 3504 Content={3507 String="Armed'Soek\nAnkrahmun" Editor="Bass Maniac"}, 3502 Content={3046 SavedExpireTime=2999, 3070}}, 
+               8 Content={3504 Content={3507 String="Armed'soek\nPort Hope" Editor="Armed'soek", 3504 Content={2869 Content={2869, 2869}}}, 3502}}

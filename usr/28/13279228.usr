@@ -1,0 +1,49 @@
+ID              = 13279228
+Name            = "Dark Nightmera"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,79-87-87-87)
+CurrentOutfit   = (129,79-87-87-87)
+LastLogin       = 1148226659
+LastLogout      = 1148226810
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31781,6]
+PlayerkillerEnd = 1150130486
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,92497,0,98800,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,72157,1100,72958,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12943,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,93,2000,210,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1233,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,33,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,200,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,15,19,20,25,26,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(61,1),(125,1),(126,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {1147537313,1147538129,1147538486}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="dark nightmera\ncarlin" Editor="Xarlon Shan"}, 3504 Content={3507}, 3504 Content={3507 String="Dark Nightmera\ncarlin" Editor="Anuar of zanera"}, 3504 Content={3507 String="dark nightmera\ncarlin" Editor="Xarlon Shan"}, 3504 Content={3507 String="Dark Nightmera\nCarlin\n" Editor="Xarlon Shan"}, 3504 Content={3507 String="dark nightmera\nCarlin" Editor="Xarlon Shan"}, 2854 Content={3349, 3349, 2854}, 2867, 3504 Content={3507 String="Dark Nightmera\ncarlin" Editor="Sir Netzsch"}, 2991, 3349, 3504 Content={3507 String="dark nightmera\ncarlin" Editor="Tiger of Zanera"}, 2870 Content={2865 Content={3457, 3003}, 3056 RemainingUses=200, 3457}, 2472 Content={2854, 3483, 2901}, 3059, 3552, 3003, 3552, 3097 SavedExpireTime=3583, 2854, 2854 Content={3085 RemainingUses=195}, 2854 Content={3577 Amount=10, 3582 Amount=33}, 2854 Content={3503, 3507 String="Knight Of Poznan\nCarlin" Editor="Severus Snape of Hogwart"}, 2906, 3552, 2992 Amount=2, 3056 RemainingUses=200, 3504, 3504, 3552, 3502 Content={3504 Content={3507 String="Dark Nightmera\ncarlin\n" Editor="Xydo Loila"}, 3603 Amount=4}}, 
+               2 Content={2853, 2868 Content={2867 Content={3092}, 3003}, 3349, 3349, 3349, 3502}, 
+               3 Content={3551, 3502}, 
+               6 Content={3502}}

@@ -1,0 +1,61 @@
+ID              = 13018844
+Name            = "Sorata Wingxz"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,94-114-114-0)
+CurrentOutfit   = (134,94-114-114-0)
+LastLogin       = 1148244029
+LastLogout      = 1148244081
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33266,32375,7]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1216759,0,1238400,100)
+Skill = (1,48,0,0,0,0,0,0,0,0,0,1676908,1100,1691503,1600)
+Skill = (2,360,360,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,468,1085,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,112,112,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,66771,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,11917,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,124,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,851,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,53,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,11,15,16,18,20,29,38,39,42,44,45,75,76,81,82,84,87,88,89}
+QuestValues = {(55,1),(109,1),(110,1),(111,1),(112,1),(140,1),(141,1),(143,1),(151,1),(152,1),(153,1),(190,1),(191,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(249,3),(250,3),(251,2),(254,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3055},
+               3 Content={2868 Content={3035 Amount=3, 3582 Amount=7, 3031 Amount=33, 2854, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874, 2874, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}}}},
+               4 Content={3567},
+               5 Content={3322},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3063},
+               10 Content={3031 Amount=57}}
+
+Depots      = {0 Content={3504 Content={3507 String="sorata wingxz\nthais" Editor="Perdril"}, 3457, 3061, 3504 Content={3507 String="sorata wingxz\nthais" Editor="Sir Oyster Bar"}, 3504 Content={3507 String="sorata wingxz\nthais" Editor="Sir Oyster Bar"}, 3504 Content={3507 String="sorata wingxz\nthais\n" Editor="Perdril"}, 3504 Content={3507 String="Sorata Wingxz\nthais" Editor="Sorata Wingxz"}, 3502 Content={2667, 3492 Amount=50}}, 
+               1 Content={3504 Content={3507 String="Sorata Wingxz\ncarlin" Editor="Anarkus'rotch"}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="sorata wingxz\nedron\n" Editor="Perdril"}, 3492 Amount=23, 3502}, 
+               5 Content={3504 Content={3507 String="sorata wingxz\ndarashia" Editor="Kakashi'Forces"}, 3504 Content={3507 String="Sorata Wingxz\ndarashia" Editor="Coronel Sir"}, 3504 Content={3507 String="sorata wingxz\ndarashia" Editor="Vithran"}, 3372, 3504 Content={3425, 3008, 3357, 3507 String="sorata wingxz\ndarashia" Editor="Sir Oyster Bar"}, 3083 RemainingUses=150, 2869, 2867, 2969 KeyNumber=3600, 3504 Content={3456, 3507 String="sorata wingxz\ndarashia" Editor="Sir Oyster Bar", 3582 Amount=26, 3582 Amount=100}, 2871 Content={3582 Amount=10, 2868}, 2970 KeyNumber=3142, 3003, 2871 Content={3046 SavedExpireTime=36, 3046 SavedExpireTime=372}, 3164 Charges=3, 3164 Charges=1, 3349, 3502 Content={3031 Amount=53, 2854}}, 
+               6 Content={3504 Content={3507 String="Sorata Wingxz\nvenore" Editor="Sorata Wingxz"}, 3502}, 
+               7 Content={2854 Content={2865 Content={2867}}, 2867 Content={2867}, 3287 Amount=1, 3502}, 
+               8 Content={3502}}

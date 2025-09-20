@@ -1,0 +1,59 @@
+ID              = 8200016
+Name            = "Pitufin"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-87-0-87)
+CurrentOutfit   = (134,0-87-0-87)
+LastLogin       = 1147217506
+LastLogout      = 1147217586
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32274,32062,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,630039,0,658000,100)
+Skill = (1,44,0,0,0,0,0,0,0,0,0,1106930,1100,1150247,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,328,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4380,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,381,1800,593,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,24819,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,245,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,5991,1100,6600,20)
+Skill = (14,0,1200,0,0,0,1001,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,1,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,4,5,8,9,10,12,16,17,18,20,29,30,39,42,44,45,56,76,77,78,81,82,83,84,85,87,88,91}
+QuestValues = {(62,2),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(108,1),(111,1),(112,1),(125,1),(126,1),(137,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(190,1),(191,1),(217,3),(224,1),(225,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3085 RemainingUses=191},
+               3 Content={2866 Content={3577 Amount=2, 3031 Amount=39, 3582 Amount=5, 3003, 3483}},
+               4 Content={3378},
+               5 Content={3425},
+               6 Content={3311},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3035 Amount=8}}
+
+Depots      = {0 Content={3504 Content={2854 Content={3061, 3017, 3004, 3576, 2957, 3574, 3098, 3017, 2473 Content={2970 KeyNumber=3301, 2867 Content={3559, 3552, 3355, 3412, 3003, 3426}, 2859, 2865 Content={2872, 2854 Content={2854}, 2870, 2871, 2866, 2869, 2867 Content={2867, 2867}, 2865 Content={2865, 2865, 2865}, 2868 Content={2868}}, 2857, 2853 Content={3587 Amount=39, 3723 Amount=2, 2853 Content={3586 Amount=10, 3724 Amount=13}}}, 3290, 3732 Amount=2, 3061, 3092, 2903, 3091, 3004, 3093, 3457, 2991, 2866 Content={3603 Amount=1, 3147, 2869 Content={2854}, 3728 Amount=1, 2869 Content={2867 Content={2867, 2866, 2867, 2866, 2867}, 2903, 3034 Amount=4, 2471 Content={3457, 3293, 3276, 3457, 3008, 2869 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 2853 Content={3449 Amount=8, 3449 Amount=100, 3449 Amount=100}, 2854 Content={3411, 3004, 3004, 3004, 3004, 3004, 3004, 3425, 3425}, 2869 Content={2970 KeyNumber=3142, 3457, 3012, 3059, 3059, 3446 Amount=23, 3446 Amount=100, 3372, 3059, 3307, 3330, 3447 Amount=60, 3084 RemainingUses=250, 3287 Amount=2, 3012, 1781 Amount=4, 3056 RemainingUses=200}, 2854 Content={3097, 3092}}, 3289, 2952, 3506 String="Pitufin\nEdron\n\nTired about being so gay?\nHave sex with a dog!", 3506 String="Pitufin\nEdron\n\nHey, do you think that your wife is not getting enough sexual pleasure??\nWell try Viagra - 5x this new formula gives 5x more sexual power.\nJust try it, dial 01 - 800 - sex 123, you will recieve a free sample.\n\nKind regards,\nYour Pfiser team.", 3483, 3506 String="Pitufin\nEdron\n\nHey are u tired about pepsi??\nyeah pepsi sucks, buy coca cola\n\n\nPowered by the coca-cola company\nCopyright - 2005", 3054 RemainingUses=200, 3083 RemainingUses=150, 3372, 3457, 3349, 3039, 3028 Amount=7, 3318, 2842, 3557}, 3447 Amount=34, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3350}}, 3507 String="Pitufin\nThais\n" Editor="Pitufin", 3589 Amount=3}, 3457, 3502 Content={}}, 
+               1 Content={3457, 3446 Amount=28, 2868 Content={}, 3502 Content={}}, 
+               3 Content={3031 Amount=10, 3582 Amount=2, 3502 Content={}}, 
+               4 Content={2853, 2857, 2865, 3502}, 
+               5 Content={2854 Content={3200 Charges=2, 3200 Charges=1, 3200 Charges=3, 3192 Charges=1, 3192 Charges=2, 3192 Charges=1}, 2867 Content={3160 Charges=1, 3147, 3147, 3147, 3147}, 2871, 3457, 3578 Amount=4, 3503 Content={3507, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2866 Content={3198 Charges=1, 3200 Charges=3}, 2868 Content={2865}, 2869 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2865, 3298 Amount=1, 2865, 2868 Content={2854 Content={2868, 2854, 2868}, 2865, 3353}, 3271, 3725 Amount=10, 2866 Content={2853 Content={3305, 3305, 3305, 3305, 2920}}, 2867, 3578 Amount=10, 3457, 3457, 2854, 3287 Amount=2, 3502 Content={2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=3}}, 
+               6 Content={3457, 3504 Content={3507 String="pitufin \nvenore"}, 3502 Content={}}, 
+               7 Content={3031 Amount=20, 3502 Content={}}}

@@ -1,0 +1,56 @@
+ID              = 8160109
+Name            = "Don Chacra"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,38-64-76-79)
+CurrentOutfit   = (128,38-64-76-79)
+LastLogin       = 1147975271
+LastLogout      = 1147975324
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32350,32233,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,122699,0,135100,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,65217,3000,193600,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,42167,1100,44259,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,1825,1100,2027,50)
+Skill = (9,51,0,10,0,0,0,0,0,0,0,26409,1100,26881,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,45,1100,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,728,1100,796,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,829,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2854 Content={3457, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3311},
+               7 Content={3557},
+               10 Content={3003}}
+
+Depots      = {0 Content={3577 Amount=11, 2816 String="I've managed to imprison two cyclops in my secret dungeon under the lighthouse. I forced them to create some magic equipment. Soon I will be the mightiest warrior in Tibia.", 2853 Content={3377, 3316, 3273}, 2853 Content={3286, 3273, 3273, 3273, 3273, 3286, 3286, 3286}, 2853 Content={2920 SavedExpireTime=598, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=498}, 3430, 2853 Content={2920 SavedExpireTime=426, 2920 SavedExpireTime=432, 2920, 2920, 2920, 2920, 2920, 2920}, 3598 Amount=2, 3577 Amount=100, 3582 Amount=55, 3467, 3468, 3469, 2867 Content={3050 SavedExpireTime=1797, 3003, 3031 Amount=7, 3056 RemainingUses=199, 3736 Amount=1, 3456, 3054 RemainingUses=115, 3457}, 3504 Content={3607, 3598 Amount=1, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3}, 2870 Content={3291, 3463, 2914 SavedExpireTime=1998, 3337, 3492 Amount=15, 3483, 2882, 3003, 2920 SavedExpireTime=591, 3457, 3003, 3597 Amount=1, 3362, 3291, 3375, 3003, 3336, 3276, 2826 String="Tales of Tibia", 2906}, 2854 Content={2853 Content={3270, 3355, 3552, 3561, 3559, 3412}, 3449 Amount=2, 3446 Amount=2, 3336, 3457, 3293, 3336, 3316, 3291, 3286, 3430, 3300, 3361, 3483, 3457, 3471, 3456}, 3502 Content={2473, 2473, 2473, 2473, 2473, 2473, 2473, 2473, 2854 Content={2854, 2854, 2854, 2854, 2854}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={2867}, 2865 Content={2865, 2865, 2865, 2865}, 2866 Content={3421, 3305, 3031 Amount=93, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3114 Amount=1, 3012, 3153 Charges=1, 2853 Content={3097 SavedExpireTime=3578, 3026 Amount=1, 3050, 3565, 3093 SavedExpireTime=1440, 3008, 3054 RemainingUses=200, 3027 Amount=2}, 3504 Content={3416, 3322, 3375, 3282, 3372, 3377, 3035 Amount=17, 3012, 3551, 3357}}, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 2868 Content={2859}}}, 
+               1 Content={3507 String="Don Chacra\nCarlin\n", 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

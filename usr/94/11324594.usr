@@ -1,0 +1,57 @@
+ID              = 11324594
+Name            = "Talan Alis"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,95-95-95-76)
+CurrentOutfit   = (128,95-95-95-76)
+LastLogin       = 1148238652
+LastLogout      = 1148252031
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32418,32360,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,616329,0,658000,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,440605,1100,478602,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,552,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,32136,1500,38723,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,136,2000,210,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,43,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4670,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,431,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2473,1100,2684,20)
+Skill = (14,0,1200,0,0,0,1041,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,14,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,17,18,19,20,22,25,26,27,29,30,38,44,45}
+QuestValues = {(14,1),(15,1),(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(39,1),(46,1),(54,1),(55,1),(58,1),(60,1),(61,1),(62,2),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(113,1),(114,1),(125,1),(126,1),(134,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(190,1),(191,1),(192,1),(206,1),(217,3),(223,1),(225,1),(253,1),(254,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3200 Charges=3, 3577 Amount=4, 3147, 3492 Amount=100, 3483, 3492 Amount=21, 2854 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3191 Charges=2, 3200 Charges=2, 3200 Charges=2, 3200 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3003}}
+
+Depots      = {0 Content={2868 Content={2869 Content={3457, 3282, 3453, 3483, 3308, 3308}, 2865 Content={3582 Amount=17}, 2861 Content={2854 Content={3198 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2865 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}}, 2872 Content={2868 Content={3351, 3275, 3275}, 2870 Content={3271, 3356, 3369}, 2854 Content={3076}, 2866 Content={2854 Content={3384, 3384, 3384, 3384, 3384, 3384}, 2854 Content={3572, 3572}}}, 3502 Content={2854 Content={2854 Content={2865, 2854, 2854}, 2857 Content={3035 Amount=7, 2970 KeyNumber=3142, 3035 Amount=100}}, 2854 Content={2854 Content={2868 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2969 KeyNumber=3033, 3056 RemainingUses=197, 2973 KeyNumber=3520, 4871, 3483}}, 2854 Content={3046 SavedExpireTime=2995, 3073, 3075, 3072, 3046, 3046 SavedExpireTime=2962, 3074, 3046 SavedExpireTime=2997, 3074}}}, 
+               1 Content={3506 String="Talan Alis \nCarlin\nProsze o zaplate za pokuj w gh, Twoj pokuj jest warty 2,5 k. Jezeli nie chcesz pokoju na kolejny miesiac napisz do lidera. Jezeli namowisz wiecej osob na pokuj w gh kolejny miesiac bedzie mniej kosztowal cala gildie.Pieniadze prosze wyslac i podpisac od kogo do \nTelfir Nailo \nEdron" Editor="Telfir Nailo", 3504 Content={3507 String="Talan Alis\nCarlin" Editor="Shirex Aelex"}, 2970 KeyNumber=4503, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

@@ -1,0 +1,59 @@
+ID              = 12885674
+Name            = "Dams"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,94-79-94-124)
+CurrentOutfit   = (134,94-79-94-124)
+LastLogin       = 1147915992
+LastLogout      = 1147916009
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32333,31835,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,319122,0,330400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,222295,1400,222775,1600)
+Skill = (2,353,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,8,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,705,1100,771,100)
+Skill = (7,63,0,10,0,0,0,0,0,0,0,46638,1100,51261,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,301,1200,372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,286,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3763,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,42,44,49,51,79,81}
+QuestValues = {(62,2),(86,1),(87,1),(108,1),(190,1),(191,1),(207,1),(208,1),(219,2),(225,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3405},
+               3 Content={2853 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520, 3447 Amount=10}},
+               4 Content={3357},
+               6 Content={3277 Amount=7},
+               7 Content={3362},
+               8 Content={3551},
+               10 Content={3446 Amount=26}}
+
+Depots      = {0 Content={3353, 2867, 2854, 3502}, 
+               1 Content={2656, 2469, 2469, 3449 Amount=1, 3425, 3425, 3425, 3425, 2656, 2469, 2469, 2856, 2656, 3287 Amount=1, 3046, 3449 Amount=3, 4871, 2656, 2469, 2469, 2656, 2469, 2469, 3449 Amount=3, 2656, 2856 Content={3598 Amount=2, 3046 SavedExpireTime=2997}, 3031 Amount=1, 3509, 2469, 2469, 2656, 2656, 2656, 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Harbour Flats, Flat 23\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3046 SavedExpireTime=2867, 3503, 3147, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Harbour Flats, Flat 23\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3046, 3147, 3277 Amount=25, 3059, 2970 KeyNumber=3142, 3502 Content={2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3046, 3046, 3046 SavedExpireTime=2997, 3552, 2865, 2920 SavedExpireTime=594, 2920}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="Dams\nedron" Editor="Mefhez"}, 3083 RemainingUses=150, 3054 RemainingUses=200, 3277 Amount=5, 3502}, 
+               5 Content={3147, 3557, 3504 Content={3507 String="dams\ndarashia\n" Editor="Aaron Maiden"}, 3446 Amount=100, 3446 Amount=100, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3483, 3350, 3447 Amount=66, 3504 Content={3507 String="dams\ndarashia\n" Editor="Aaron Maiden"}, 3449 Amount=3, 3492 Amount=1, 2969 KeyNumber=5010, 3502}, 
+               6 Content={3504 Content={2853, 3507 String="dams\nvenore" Editor="Dark'Masther"}, 3502}, 
+               7 Content={3504 Content={3507 String="dams\nankrahmun" Editor="Dark'Masther"}, 3504 Content={3412, 3353, 3507 String="dams\nankrahmun" Editor="Aaron Maiden"}, 3504 Content={3507 String="dams\nankrahmun" Editor="Enyoiner"}, 3046, 3425, 2906, 3214, 3503 Content={3507}, 3503 Content={3507}, 3504 Content={3507}, 3502}, 
+               8 Content={3502}}

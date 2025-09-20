@@ -1,0 +1,58 @@
+ID              = 9871233
+Name            = "Sytphrit inmortale"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,82-95-95-83)
+CurrentOutfit   = (129,82-95-95-83)
+LastLogin       = 1148236445
+LastLogout      = 1148241679
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32329,31781,6]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,420215,0,452600,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,765985,1100,780562,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,451,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,53039,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,42,1800,84,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,32059,1800,40105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,5,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,196,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,361,1100,370,20)
+Skill = (14,0,1200,0,0,0,734,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,4,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,8,9,10,12,16,17,18,20,25,28,38,42,44,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(69,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(121,1),(125,1),(126,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {1146327462,1147990697}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3578 Amount=2, 3582 Amount=2, 3069, 3147, 3147, 3287 Amount=1, 2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3200 Charges=3, 3200 Charges=2, 3155 Charges=1, 3190 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003}},
+               4 Content={3381},
+               5 Content={3436},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3031 Amount=66}}
+
+Depots      = {0 Content={3003, 3492 Amount=78, 3287 Amount=6, 3359, 3384, 2825 String="20 Tricks to Get People's Money\n\n...", 2968 KeyNumber=3940, 3266, 3457, 3502}, 
+               1 Content={2914 SavedExpireTime=1996, 2865 Content={3046 SavedExpireTime=2137, 3046, 3046, 3046}, 2865 Content={3030 Amount=1, 3174 Charges=1, 2969 KeyNumber=3033, 2865}, 2867 Content={2952}, 2854, 3504 Content={3277 Amount=7, 3372, 3377, 3425, 3384, 2854, 3507 String="sytphrit inmortale\ncarlin\n" Editor="Lord unfeel", 2867 Content={3307, 3492 Amount=46, 3446 Amount=7, 3447 Amount=75, 3286, 3349, 3350, 2871, 2868, 2865}}, 3446 Amount=1, 2854, 3085 RemainingUses=200, 3008, 3506 String="Sytphrit inmortale\nCarlin\n~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~\nt keria mostrar cuando subi ml, \npero no tabas =(\nasi q ahi t lo mando :p\n\n19:28 You advanced to magic level 44.\n                              27/04/06.-\n\n                   I         .+''+ . +''+.                                                 }--+    tkd   +-->                                                   ''+.         .+''                  \n                                  ''+.+''   YOU\n                                                           PaMe...\n~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~\n" Editor="Amorosita", 2867 Content={2667, 2656, 2667, 2667, 2667}, 3301, 2854 Content={3357, 3351, 3357, 3359, 3358, 3358, 3358, 3413, 3413, 3413, 3413, 3413, 3413, 3286, 3282}, 3003, 3457, 3506 String="Sytphrit inmortale\nCarlin \n:D hola \nes la primera carta q m dan los dwarf...\ny c la escribo a ute :p  mmm...\n noc q escribir :S jaja \nespero q estes bn y \nno olvides  q t kero muxio ... \n la tas leyendo ahora ... \npero t la escribi el mart :/ lol\nweno cuidec arto =**** \ntkm bastian :p\n\n                                                 pame..." Editor="Shiknight", 2920 SavedExpireTime=595, 3449 Amount=8, 2969 KeyNumber=3033, 2981, 2853 Content={3059, 3447 Amount=11, 3084 RemainingUses=250}, 2854 Content={2867 Content={2867}, 2866, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2870 Content={2870}, 2869 Content={2869}, 2860 Content={2864 Content={2864}, 2857 Content={2857, 2857, 2857}, 2860 Content={2860, 2860, 2860}}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}, 2865 Content={2865, 2865, 2865, 2865 Content={2865}, 2865, 2865, 2865, 2865}}, 2469 Content={3504 Content={2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2868 Content={2854 Content={3409, 3097, 3077, 3098, 3054 RemainingUses=194, 3097, 3085 RemainingUses=51, 3457, 3455, 3451, 3455, 3349, 3313, 3289}, 3585 Amount=10, 3008, 3050, 2865, 3740 Amount=1, 3736 Amount=1}, 2865 Content={3658, 3059, 3552, 3287 Amount=1, 3310, 3177 Charges=1, 3085 RemainingUses=200, 2839 String="lul\nñeñeñe" Editor="Dragor Darksoul", 3658, 3658, 2955, 2955, 2955, 3054 RemainingUses=106}, 3507 String="sytphrit inmortale\ncarlin" Editor="Lord maury"}, 3504 Content={2969 KeyNumber=3033, 2969 KeyNumber=4600, 3507 String="Sytphrit inmortale\nCarlin\n"}, 3504 Content={3551, 3507 String="sytphrit inmortale\ncarlin\n"}, 2473 Content={2977, 3447 Amount=1, 3066, 2835 String="\nSigo siendo libre \nnada es complicado a tu lado \ntu me haces libre \nestoy irreconocible desde que te conoci \nmas vivo y mas sensible \nporque estas aqui \ncontando tus segundos junto a mi \ny esto lo escribi pensando en ti \nporque te quiero porque te quiero \npor encima de cualquier pero \nmas alla del poderoso caballero don dinero \ntu renaces al amante y adormeces al guerrero \nhaces que solo sepa hablar con el corazon primero \ny te quiero \neres la luz de mi agujero \nesa manta que me arropa en este frio mes de enero " Editor="Sytphrit inmortale", 2977, 2992 Amount=5}, 2920 SavedExpireTime=352}, 3502 Content={2870 Content={3093, 3054 RemainingUses=85, 3287 Amount=3, 3050 SavedExpireTime=1736, 3050, 2857 Content={3004, 3085 RemainingUses=198, 3008, 3050 SavedExpireTime=1741, 3062, 3077}}, 2870 Content={3035 Amount=7, 3035 Amount=100}}}, 
+               2 Content={3504 Content={3275, 3266, 2868 Content={3266}, 3266, 3275, 3266, 3507 String="sytphrit inmortale\nKazordoon " Editor="Sytphrit inmortale"}, 3502}, 
+               3 Content={3502 Content={3028 Amount=2, 3425, 3449 Amount=8, 3282, 3372}}, 
+               6 Content={3502}}

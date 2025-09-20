@@ -1,0 +1,61 @@
+ID              = 12413306
+Name            = "Forfiman'Zanera"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,39-113-95-0)
+CurrentOutfit   = (134,39-113-95-0)
+LastLogin       = 1148259582
+LastLogout      = 1148259613
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33125,32834,7]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,796020,0,847400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,237571,3000,582400,1600)
+Skill = (2,539,635,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,18,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,107,107,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1220,1220,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,160908,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,65,0,10,0,0,0,0,0,0,0,97668,1100,103482,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,43,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,395,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(14,1),(15,1),(16,1),(19,1),(20,1),(21,1),(22,1),(23,1),(35,1),(55,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(96,1),(97,1),(98,1),(125,1),(126,1),(134,1),(137,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(223,1),(257,1),(324,1),(332,1)}
+Murders     = {1146006549,1147667513}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2869 Content={3031 Amount=67, 3046, 3046, 3308, 2854, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2865 Content={2866 Content={2865 Content={3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3198 Charges=2}, 2870 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874, 2874, 2874}, 3003, 3457}},
+               4 Content={3381},
+               5 Content={3420},
+               6 Content={3324},
+               7 Content={3371},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3046 SavedExpireTime=1390}}
+
+Depots      = {0 Content={3504 Content={3507 String="Forfiman'zanera\nThais\n" Editor="Forfiman'Zanera"}, 2920 SavedExpireTime=335, 3504 Content={3507 String="Forfiman'Zanera\nThais\n" Editor="Forfiman'Zanera"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={2853, 2854, 2865, 2871, 3505 String="Forfiman'zanera\nhunting here\nrespect plx" Editor="Forfiman'Zanera", 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3003}, 3504 Content={3507 String="Forfiman'zanera\nkazordoon" Editor="Forfiman'Zanera"}, 4871, 3504 Content={3507 String="Forfiman'zanera\nkazordoon" Editor="Guard Azteka"}, 3507 String="1899666\n98_xporno;" Editor="Elite Adicct", 2867 Content={3308, 3083 RemainingUses=150, 3147, 3147, 3147, 3147}, 3270, 2854 Content={3446 Amount=46}, 3003, 3552, 3505 String="Sir Xorius, Trowa Bartons, Oselth, Heero Falls, Duo Falls, Alex Qoz me mataron al final de la quest de los 10k hunteds\n" Editor="Forfiman'Zanera", 2991, 2854 Content={3097}, 3289, 2854 Content={3599 Amount=8, 2920, 2920, 2955, 2862, 3308}, 3502 Content={3056 RemainingUses=199, 3483, 2969 KeyNumber=3600, 2906, 3457, 3056 RemainingUses=194, 3008, 3097, 3097 SavedExpireTime=2756, 3097 SavedExpireTime=3443}}, 
+               3 Content={3504 Content={2868, 3507 String="Forfiman'zanera\nAb'dendriel" Editor="Forfiman'Zanera"}, 2867, 3504 Content={3507 String="Forfiman'zanera\nAb'dendriel" Editor="Forfiman'Zanera"}, 3504 Content={3507 String="Forfiman'zanera\nab'dendriel" Editor="Fred Booth"}, 3504 Content={3507 String="Forfiman'zanera\nAb'Dendriel" Editor="Warrior Adicct"}, 2862 Content={3092 SavedExpireTime=1672, 3092, 3092, 3092, 3092}, 3504 Content={3507 String="Forfiman'zanera\nAb'dendriel\n" Editor="Knight Lafa"}, 3504 Content={2866 Content={3299}, 2854, 2869 Content={2955, 3078, 3077, 3046, 2876, 2906, 3046 SavedExpireTime=2991, 2991}, 2865 Content={2876, 2656, 3061, 2973 KeyNumber=3520, 2991, 3449 Amount=5, 3448 Amount=19, 2955}, 2867 Content={3084 RemainingUses=220, 3085 RemainingUses=200, 3084 RemainingUses=250, 3054 RemainingUses=200, 3008, 3056 RemainingUses=200, 3054 RemainingUses=175, 3085 RemainingUses=139, 3008, 3056 RemainingUses=200, 3008}, 2867 Content={3588 Amount=100, 3598 Amount=60, 3586 Amount=44, 3724 Amount=5, 3597 Amount=2, 3593, 3595 Amount=5, 3585 Amount=22, 3587 Amount=10, 3590 Amount=10, 3591 Amount=9, 3579 Amount=12, 3605 Amount=15, 3592}}, 3349, 3349, 3446 Amount=15, 3084 RemainingUses=250, 3504 Content={3507 String="Forfiman'zanera\nAb'dendriel" Editor="Forfiman'Zanera"}, 3017, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Treetop 3 (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3504 Content={3507 String="Forfiman'zanera\nAb'dendriel" Editor="Forfiman'Zanera"}, 3504 Content={3507 String="Forfiman'Zanera\nAb'dendriel" Editor="Zparck"}, 3504 Content={3507 String="Forfiman'zanera\nAb'dendriel\n" Editor="Guard Azteka"}}, 3457, 3502}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={2870}}, 
+               6 Content={3502}, 
+               7 Content={3282, 3429, 3583 Amount=17, 2853 Content={3372, 3350, 3367, 3367, 3367, 3372, 3367, 3367}, 3557, 3035 Amount=24, 4839, 3279, 3279, 3279, 3446 Amount=13, 3502 Content={3042 Amount=3, 2970 KeyNumber=3142, 3045 RemainingUses=200, 3287 Amount=1}}}

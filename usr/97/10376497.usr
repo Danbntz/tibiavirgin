@@ -1,0 +1,61 @@
+ID              = 10376497
+Name            = "Ephraim or zanera"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,62-114-112-114)
+CurrentOutfit   = (134,62-114-112-114)
+LastLogin       = 1148247875
+LastLogout      = 1148248884
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32601,32761,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,602634,0,658000,100)
+Skill = (1,48,0,0,0,0,0,0,0,0,0,1537026,1100,1691503,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,81,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,44045,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,48,1800,84,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,15643,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,1007,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1899,1100,1966,20)
+Skill = (14,0,1200,0,0,0,607,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,170,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,5,6,7,8,9,10,14,20,29,38,39,42,44,76,81,84,87,88,89}
+QuestValues = {(1,3),(2,6),(14,1),(17,1),(18,1),(36,1),(41,1),(42,1),(43,1),(44,1),(59,1),(61,1),(99,1),(111,1),(112,1),(153,1),(179,1),(180,1),(181,1),(185,1),(186,1),(190,1),(191,1),(211,4),(217,3),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(253,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3572},
+               3 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3067, 3031 Amount=41, 3035 Amount=1, 2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3583 Amount=2, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={2874}, 3505 String="leave plz\n\nEphraim or zanera \n\nhunting here\n\nplz respect" Editor="Ephraim or zanera", 2872 Content={3160 Charges=1, 3160 Charges=1, 3457, 3160 Charges=1, 3160 Charges=1, 3003}, 3049 SavedExpireTime=400, 3148 Charges=2}},
+               4 Content={3567},
+               5 Content={3420},
+               7 Content={3382},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3069}}
+
+Depots      = {0 Content={3492 Amount=22, 3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="ephraim or zanera\nkazordoon" Editor="Dog of the darck"}, 3504 Content={3507 String="ephraim or zanera\nkazordoon" Editor="Dog of the darck"}, 3504 Content={3507 String="ephraim or zanera\nKazordoon" Editor="Dog of the darck"}, 3504 Content={3507 String="Ephraim or zanera\nKazordoon" Editor="Helen Of Troya"}, 3504 Content={3507 String="Ephraim or zanera\nkazordoon" Editor="Alatolha"}, 3502 Content={2853 Content={3535, 3535}, 3457, 3114 Amount=6, 3359}}, 
+               3 Content={3502 Content={2853}}, 
+               4 Content={3502 Content={3505 String="las bp de uh" Editor="Ephraim or zanera", 3507 String="Ephraim or zanera\nedron" Editor="Ephraim or zanera", 3505 String="las bp de sd" Editor="Ephraim or zanera"}}, 
+               5 Content={3330, 2874, 2874, 3003, 3502 Content={3308}}, 
+               6 Content={3502}, 
+               7 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Harrah I\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2864 Content={2857 Content={3506 String="Ephraim or zanera\nVenore\n\n                REGLAS DE LA GUILD\n1.-Guild channel siempre abierto (con saludo y despedida riguroso).\n2.-No buscar pleitos.\n3.-Primera amenaza de guild hunteada, se cerrara automáticamente.\n4.-No faltarse al respeto, tres faltas se sacara de la guild.\n5.-Asistir a las juntas en el guild channel (se notificara dos dias antes)\n\n              Atte.\n\n                               Sepsi Astral.\n                          (Nueva guild lider)." Editor="Sepsi Astral", 3277 Amount=15, 3451, 3451, 4295 Content={3350, 3471, 3451}, 3505 String="dog soy el fit=juan diego\nagarre el dinero k me debias i t sube magic lvl chaito :)\n" Editor="Ephraim or zanera"}, 3505 String="ten w pa k ia no te prostitullas\nXD\n .          ¸,.~'( ^.^ )`~.,¸                                             ¸,..,¸  (  .   ) (   .  )  ¸,..,¸                                       /   ,   \\ )     .     (   /   ,  \\                                        / \\         V        / \\     `                                               ~.,¸_'_¸,.~'                jajajaja" Editor="Tekt", 2865 Content={2901, 3457, 3377, 3350, 3483, 3741 Amount=1, 2977, 3350, 3551, 3483, 3604 Amount=11, 3658, 2989, 3463, 3537, 3463, 3658, 3119}, 2870 Content={3285, 3311, 3085 RemainingUses=200, 3359, 3353, 2989, 3084 RemainingUses=250, 2949, 3061, 3017, 2977, 2903, 3330, 3285, 3308, 3308, 3308, 3289}, 2866 Content={3066, 3316, 3003, 3003, 3003, 3003, 2857 Content={3454, 3084 RemainingUses=250, 3327, 3003, 3084 RemainingUses=250, 3308, 2857 Content={3457, 3008, 2989, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 3375, 3446 Amount=3}}, 3085 RemainingUses=200, 3533 Amount=1, 3084 RemainingUses=250, 3077, 3066, 3353, 3551, 3449 Amount=5, 2981, 3661}, 3349, 2857 Content={2969 KeyNumber=5000, 3457, 3313, 3483, 3349, 3330, 2856 Content={3059, 3350, 3084 RemainingUses=30, 3307, 3077}, 2870 Content={3349, 3059, 3059, 2973 KeyNumber=3520, 2867 Content={3085 RemainingUses=200, 3316, 3275, 3457, 3059, 3003, 3172 Charges=3, 3172 Charges=3, 4290 Content={3472, 3658, 3077, 3308, 3350, 3552, 3350}, 3457, 3466, 2647, 4290 Content={3330, 3330, 3330, 2902}, 4290 Content={3603 Amount=1, 3454, 3084 RemainingUses=250, 3059, 3299, 3658}, 3330, 3330}, 2854 Content={3289, 3056 RemainingUses=200, 2981, 3077, 3084 RemainingUses=214, 3003, 3457, 2839, 3465, 3446 Amount=5, 3308, 3003, 3308, 3308, 2839, 3337, 3285, 3469, 3457, 3003}, 2973 KeyNumber=3520, 3066, 3470, 3655, 3077, 3084 RemainingUses=250, 2969 KeyNumber=4603, 2970 KeyNumber=4601}}}, 2872 Content={2853 Content={3359, 3359, 3358, 3446 Amount=61, 3286, 3264, 3410, 3410}, 3352, 2853 Content={3446 Amount=28, 3358, 2853 Content={3410, 3352, 3410, 3264, 3410, 2853 Content={3354, 3286, 3410, 3286, 3358, 3410, 3286, 3286}, 3446 Amount=100, 2853 Content={3377, 3358, 3359, 3410, 3286, 3377, 3413, 3349}}, 3410, 3354, 3286, 3410, 2853 Content={3410, 3264, 3352, 3358, 3354, 3286, 3352, 3264}}, 3457, 3264, 3583 Amount=3, 3425, 3425, 3354, 3410}, 3502 Content={2871 Content={3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3079, 3031 Amount=45, 3035 Amount=14, 3035 Amount=100, 3035 Amount=100, 3503 Content={2854, 3330, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2868 Content={2868 Content={2871 Content={2871 Content={2871 Content={2854 Content={2867 Content={2394, 2394, 2854}}}}, 2874}, 3003, 3543, 3537, 2970 KeyNumber=3800, 2970 KeyNumber=3899}}}, 2871 Content={3046 SavedExpireTime=2989, 3046, 3083 RemainingUses=150, 3097, 3056 RemainingUses=200, 3074, 3074, 3046, 3093, 3050 SavedExpireTime=1796, 3098, 3029 Amount=3, 3033 Amount=3, 3030 Amount=1, 2867 Content={3073, 3310, 3298 Amount=3, 3039, 3075, 3065, 3071, 3072, 3042 Amount=100, 2992 Amount=10, 3160 Charges=3, 3406, 3574, 2872 Content={2393, 3050}, 3027 Amount=2, 3284 RemainingUses=1, 3034 Amount=33, 3070}, 3032 Amount=2, 3028 Amount=1, 2638}, 3507 Editor="Ephraim or zanera"}, 3049, 2869 Content={3587 Amount=17, 3403, 3441, 3391, 3052 SavedExpireTime=994, 2970 KeyNumber=3012}, 2853 Content={3282, 3046, 3046, 3046, 3046 SavedExpireTime=2652, 2853 Content={3578 Amount=53}, 2865 Content={3583 Amount=20, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100}}, 3084 RemainingUses=250, 2870 Content={3568, 2872 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2871, 2853 Content={2871 Content={3198 Charges=1}, 2854 Content={2872}, 2871, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 2872 Content={2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3732 Amount=1}}, 
+               8 Content={3502}}

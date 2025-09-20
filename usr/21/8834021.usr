@@ -1,0 +1,57 @@
+ID              = 8834021
+Name            = "Amaleki"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,45-0-86-0)
+CurrentOutfit   = (128,45-0-86-0)
+LastLogin       = 1148234669
+LastLogout      = 1148236384
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32349,31826,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,313162,0,330400,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,246647,1100,263190,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,517,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,29619,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,17,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,102,2000,150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,101,2000,150,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,247,2000,350,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,129,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1179,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,55,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,13,15,16,19,20,22,27,29,38,44}
+QuestValues = {(16,1),(18,1),(20,1),(21,1),(23,1),(32,1),(33,1),(34,1),(35,1),(46,1),(54,1),(59,1),(69,1),(72,1),(73,1),(96,1),(97,1),(100,1),(106,1),(107,1),(109,1),(125,1),(126,1),(190,1),(191,1),(217,3),(332,1),(333,1)}
+Murders     = {1146065642,1146065750,1147190727,1147192811,1147866020}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2865 Content={2874 ContainerLiquidType=10, 3052 SavedExpireTime=81, 3031 Amount=42, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+
+Depots      = {0 Content={2870, 3504 Content={2870, 2867 Content={3358}, 3507 String="amaleki\nthais" Editor="Amaleki"}, 3504 Content={3507 String="amaleki\nthais" Editor="Amaleki", 3446 Amount=11}, 2868, 3410, 3410, 3410, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3432, 1781 Amount=2, 2992 Amount=5, 3384, 3355, 3085 RemainingUses=200, 3052, 3372}, 2854 Content={3605 Amount=3, 3655, 3593, 3593, 3590 Amount=3, 3602 Amount=3}, 2854 Content={3172 Charges=1, 3483, 3578 Amount=100, 3578 Amount=100}, 2854 Content={2853 Content={3350}, 3003}, 3446 Amount=31, 3502 Content={2854 Content={2854, 2854}}}, 
+               1 Content={3074, 3007, 3446 Amount=28, 2867 Content={3353, 3359, 3353}, 2866 Content={3349, 3349, 3349, 3349, 3349, 3349}, 2973 KeyNumber=3520, 3282, 3078, 2472 Content={3446 Amount=26, 3448 Amount=100, 3448 Amount=35, 3447 Amount=86, 3093, 2969 KeyNumber=4600}, 3097 SavedExpireTime=784, 3502 Content={3035 Amount=4, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3074, 3052, 2991, 3078, 3565, 3565, 3483, 2955, 2872 Content={3059}, 2867 Content={3367, 3367, 3367, 3367, 3367, 3354, 2867 Content={3578 Amount=5, 2874, 2874}, 2969 KeyNumber=3033, 3565, 3287 Amount=7, 3289}}}, 
+               2 Content={3583 Amount=2, 3372, 3723 Amount=10, 3492 Amount=46, 2872 Content={3384, 3174 Charges=4, 3174 Charges=5}, 4120 RemainingExpireTime=962, 3504 Content={3507 String="amaleki\nkazordoon" Editor="Darth'Vergon", 3265, 3446 Amount=12}, 2969 KeyNumber=4600, 2853 Content={3349, 3349}, 3456, 3483, 2969 KeyNumber=3033, 3504 Content={3507 String="amaleki\nkazordoon\n" Editor="Amaleki"}, 3502 Content={2870 Content={3093 SavedExpireTime=842, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3097, 3050 SavedExpireTime=1384, 3318}, 2870 Content={3446 Amount=19, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2872 Content={2853 Content={3071, 3075, 2815 String="(\\(\\                        /)/)\n(>'.')      L@vE      ('.'<) \n(=(\")(\")           (\")(\")~)\n\nxD Faro Amor xD" Editor="Faro Amor", 3072, 3070}, 2860, 2862 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3164 Charges=2, 3164 Charges=3, 2872 Content={2854 Content={3535, 3538, 3535, 3537, 3538, 3535, 3535, 3537, 3540, 3535, 3536, 3535, 3535, 3536, 3535, 3539}, 3542, 3541, 3541, 3541, 3544, 3546, 3542, 3541, 3544, 3541, 3543}, 2977, 3059, 3164 Charges=3, 3448 Amount=9, 3059}, 2870 Content={3357, 3357, 3357}, 2854 Content={3447 Amount=23, 3600 Amount=2, 2667, 3457, 3483, 3585 Amount=14, 3598 Amount=6, 3590 Amount=14}}}, 
+               3 Content={2857, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3035 Amount=12, 3507 String="amaleki\nab'dendriel" Editor="Limhi"}, 3504 Content={3507 String="amaleki\nab'dendriel" Editor="Amaleki", 2853 Content={2853 Content={3313, 3377}, 3279}}, 2854 Content={3425, 3266, 3351, 3425, 3349}, 3504 Content={2853 Content={3410, 3413, 3413, 3377, 3377, 3264, 3286}, 3507 String="amaleki\nab'dendriel" Editor="Amaleki"}, 2853 Content={3454, 3293, 3075, 3293, 2854}, 3114 Amount=3, 3504 Content={3277 Amount=3, 3507 String="Amaleki \nAb'dendriel\n" Editor="Amaleki"}, 2854 Content={3446 Amount=15, 3279, 3097, 3054 RemainingUses=200, 3287 Amount=1, 1781 Amount=6, 3074, 3279, 3054 RemainingUses=200, 3307, 3483, 3298 Amount=4}, 2853 Content={3602 Amount=2, 3588 Amount=3, 3597 Amount=2, 3586 Amount=3, 3585 Amount=2}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=66, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2949, 3035 Amount=86, 3035 Amount=100, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3449 Amount=2, 2991, 2874, 2991, 2969 KeyNumber=3033, 3097, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3446 Amount=39, 3083 RemainingUses=150, 3083 RemainingUses=150, 3425, 3305}, 2869 Content={3177 Charges=1, 3180 Charges=1, 3174 Charges=4, 3174 Charges=3}, 3457, 2911 SavedExpireTime=2991, 2857 Content={3046 SavedExpireTime=2412, 2853, 2920 SavedExpireTime=110, 3012}}}, 
+               6 Content={3504 Content={3507 String="Amaleki\nVenore" Editor="Limhi", 3003}, 3502}}

@@ -1,0 +1,49 @@
+ID              = 12650329
+Name            = "Mefist"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,91-126-126-91)
+CurrentOutfit   = (128,91-126-126-91)
+LastLogin       = 1147890819
+LastLogout      = 1147890959
+StartPosition   = [32360,31782,7]
+CurrentPosition = [33021,32054,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,61657,0,69700,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,55348,1400,78644,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,96,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7751,1100,7954,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18746,1100,19579,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,1127,1200,1297,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1698,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,465,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,20,29,51}
+QuestValues = {(61,1),(72,1),(73,1),(74,1),(75,1),(253,1)}
+Murders     = {1145481306}
+
+Inventory   = {8 Content={3551},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3277 Amount=2, 2969 KeyNumber=3033, 3492 Amount=9, 3502}, 
+               6 Content={2865 Content={3447 Amount=58, 3264, 3409, 2970 KeyNumber=3899, 2949, 3287 Amount=1}, 3504 Content={2853 Content={2853 Content={3425, 3425, 3425, 3425, 3425}, 3446 Amount=31, 3446 Amount=100, 3349, 3349, 3349, 3350, 3349}, 3349, 3446 Amount=57, 3349, 3277 Amount=17, 3446 Amount=100}, 3504 Content={1781 Amount=32, 3507 Editor="Mefist"}, 3502 Content={2867 Content={3350, 2872 Content={3457, 3003}}, 3308, 2854 Content={2969 KeyNumber=3667, 2857 Content={3308, 3003}, 3504 Content={2853 Content={3358}, 3504 Content={2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 3012, 3457, 3092, 3425, 3085 RemainingUses=200, 3045 RemainingUses=199, 3083 RemainingUses=150, 2970 KeyNumber=3899, 3507 String="kigura batusay\nvenore\n" Editor="Kigura Batusay"}, 3504 Content={2969 KeyNumber=3033, 2871 Content={2865 Content={2853 Content={2969 KeyNumber=3033, 2970 KeyNumber=3801, 2969 KeyNumber=5010}, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2656, 2656, 2656, 2656, 2656}, 2867 Content={2659, 2659, 2659, 2659, 2659, 2656, 2659, 2659, 2656, 2659, 2659, 2659, 2659, 2656, 2659, 2659, 2659, 2659, 2656, 2659}, 2872 Content={3353, 3046, 2393, 2393, 3307, 3539, 3509, 2955, 3535, 3076, 2400, 2393, 3066}, 3046 SavedExpireTime=524, 2656, 2656, 2659, 2656, 2656, 2659, 2659, 2857 Content={2969 KeyNumber=5000, 2969 KeyNumber=3033, 2970 KeyNumber=3142, 2970 KeyNumber=3802, 2970 KeyNumber=3303, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 2972 KeyNumber=3304}, 2393, 3074, 3046, 3046}, 2854 Content={2868 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377}}}, 2969 KeyNumber=3033, 2969 KeyNumber=3008, 2969 KeyNumber=3033, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 2854 Content={3447 Amount=100, 3447 Amount=100, 3350, 3308, 2872 Content={2857}}}, 3507 String="kigura batusay\nvenore" Editor="Kigura Batusay"}}}}}}

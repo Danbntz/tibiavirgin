@@ -1,0 +1,60 @@
+ID              = 7960190
+Name            = "Demon Zilax"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,95-116-0-114)
+CurrentOutfit   = (133,95-116-0-114)
+LastLogin       = 1146295952
+LastLogout      = 1146296207
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,848637,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,405008,3000,582400,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,11,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,69,0,10,0,0,0,0,0,0,0,284636,1100,303481,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,84,1400,130,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,132,1100,165,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (10,71,0,10,0,0,0,0,0,0,0,170802,1100,183711,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,231,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,14774,1100,15835,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(19,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(38,1),(39,1),(60,1),(61,1),(69,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(115,1),(125,1),(126,1),(132,1),(138,1),(139,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(217,3),(222,1),(224,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1),(257,1),(269,1),(278,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3084 RemainingUses=248},
+               3 Content={2872 Content={2853 Content={3358, 3358, 3358, 3358, 3286}, 3031 Amount=41, 3293, 3483, 3092 SavedExpireTime=1585, 2853 Content={3031 Amount=9}, 3492 Amount=20, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2857 Content={3198 Charges=3, 3198 Charges=5}, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3443},
+               6 Content={3323},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3349, 3349, 3349, 3349}, 3416, 3504 Content={3350}, 3446 Amount=34, 2969 KeyNumber=5010, 3504 Content={3507 String="demon zilax\nthais"}, 3504 Content={3507 String="demon zilax\nthais"}, 2853, 3502}, 
+               1 Content={2868 Content={3050, 3091, 3050 SavedExpireTime=1309, 3050, 3092 SavedExpireTime=129, 3097, 3050, 3050, 3092, 3098 SavedExpireTime=55, 3052 SavedExpireTime=50, 3093 SavedExpireTime=1054, 3092}, 2868 Content={3003, 3457, 2870 Content={3003, 3483, 3457, 3003, 3003, 3293, 3457, 3003, 3457, 3457, 3003, 3483, 3483, 2920 SavedExpireTime=254, 3457, 3457, 3457, 3003, 3483, 3483}, 3457, 2874 ContainerLiquidType=9, 3308, 3483, 3483, 3457, 3483, 3483, 3457, 3483, 3457, 3003, 3483}, 2868 Content={2953, 3207 Amount=2, 3077, 3078, 3078, 2991, 2991, 2991, 2991, 2991, 2991, 2991, 2991, 2991, 2991, 2991}, 2473 Content={2970 KeyNumber=4601, 3298 Amount=1, 3308, 2970 KeyNumber=3142, 2871 Content={2871, 2871 Content={2871, 2870, 2854, 2868, 2854, 2871, 2854, 2868, 2871, 2871, 2854, 2871, 2871, 2868, 2854, 2868, 2854 Content={2868}, 2866, 2868, 2854}, 2871 Content={2870, 2854, 2854, 2865, 2870, 2871, 2870, 2854, 2854, 2854, 2866, 2854, 2854, 2865, 2869, 2854, 2868, 2870, 2866, 2854}, 2871 Content={2870, 2870, 2870, 2854 Content={2868, 2854, 2866, 2867, 2869, 2869, 2865, 2866, 2868, 2865, 2865, 2868, 2870, 2870, 2870}, 2868, 2867, 2871, 2865, 2854, 2870, 2870, 2870, 2870, 2854, 2865, 2870, 2870, 2870, 2870, 2871}, 2871 Content={2869, 2867, 2870, 2868, 2865, 2872, 2854, 2871, 2854, 2869, 2854, 2865, 2865, 2865, 2865, 2865, 2872, 2866, 2872, 2870}, 2871 Content={2853, 2870, 2868, 2853 Content={3035 Amount=10}, 2871, 2857, 2854, 2866, 2865, 2865, 2854, 2854, 2854, 2854, 2871, 2865, 2868}, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871}, 2972 KeyNumber=3304, 2853 Content={2972 KeyNumber=3304, 2970 KeyNumber=3800, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=3610, 2969 KeyNumber=3650}, 2853 Content={2970 KeyNumber=3800, 2853 Content={3008, 3082 RemainingUses=50, 3077, 3085 RemainingUses=113, 3045 RemainingUses=200}, 3084 RemainingUses=250, 3085 RemainingUses=200, 3084 RemainingUses=250, 3077, 3084 RemainingUses=250}}, 2871 Content={3556, 3556, 3576, 3429, 3310, 3431, 2957, 3284 RemainingUses=1}, 2469 Content={3046 SavedExpireTime=1927, 3046 SavedExpireTime=2993, 3046 SavedExpireTime=2562, 3046 SavedExpireTime=581, 3046 SavedExpireTime=551, 3046 SavedExpireTime=671}, 2854 Content={3481, 3268}, 2854 Content={3590 Amount=99, 3578 Amount=40, 3732 Amount=1, 3585 Amount=39, 3598 Amount=100, 3736 Amount=2, 3740 Amount=1, 3739 Amount=1, 3590 Amount=10, 3586 Amount=17, 3587 Amount=8, 3582 Amount=30, 3577 Amount=100}, 2871 Content={3280, 3369, 3324, 3074, 3072, 3069, 3066, 2854 Content={3073, 3066, 3323, 3066, 3373, 3373}, 3356}, 2867 Content={3377, 3372, 3377, 3353, 3377, 3377, 3377, 3409, 3409, 3377, 3421, 3285, 3372}, 2854 Content={3350, 3266, 3446 Amount=37, 3449 Amount=18}, 2867 Content={3349, 3074}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3506 String="demon zilax\ncarlin\n\nyo matt saturday is my tibia pary\nits  by the building rigt of carlin dp\ni dont know the time by you so i cant tell it", 3502 Content={3503, 3293, 3192 Charges=1, 2868 Content={3191 Charges=2, 3174 Charges=5, 3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3188 Charges=3, 3172 Charges=1, 3172 Charges=3}, 3155 Charges=1, 3155 Charges=1, 2992 Amount=15}}, 
+               2 Content={3492 Amount=3, 3483, 2859 Content={3446 Amount=37}, 3502}, 
+               3 Content={3031 Amount=55, 3449 Amount=3, 3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853}}, 3507 String="demon zilax\ndarashia"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="demon zilax\ndarashia"}, 3504 Content={3507 String="demon zilax\ndarashia"}, 3504 Content={3507 String="demon zilax\ndarashia"}, 3502}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={}}}

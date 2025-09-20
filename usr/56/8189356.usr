@@ -1,0 +1,52 @@
+ID              = 8189356
+Name            = "Yuri Archer"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-0-114-0)
+CurrentOutfit   = (129,0-0-114-0)
+LastLogin       = 1147626072
+LastLogout      = 1147626074
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32010,31567,7]
+PlayerkillerEnd = 1149551578
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,63624,0,69700,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,89660,1400,111701,1600)
+Skill = (2,231,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,66,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,9909,1100,10918,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,20363,1100,21567,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,31,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,41,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,754,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2682,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,76,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,64,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,8,10,42,51}
+QuestValues = {(35,1),(59,1),(60,1),(61,1),(98,1),(113,1),(114,1),(125,1),(126,1)}
+Murders     = {1146936995,1146937085,1146938263,1146938315,1146959454,1146959578}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={3350, 3031 Amount=51, 3031 Amount=100, 3357, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003, 3031 Amount=100, 3031 Amount=100, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 3470, 3457}},
+               4 Content={3357},
+               6 Content={3277 Amount=1},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=15}}
+
+Depots      = {1 Content={3504 Content={3507 String="yuri archer \ncarlin\n"}, 3504 Content={3507 String="yuri archer \ncarlin\n"}, 3502 Content={3286, 3277 Amount=6, 3029 Amount=1, 3035 Amount=12, 3658, 3409, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3059, 3026 Amount=3, 3050 SavedExpireTime=1771, 3008, 3008, 3456, 2868 Content={3483, 3003, 3602 Amount=4, 3457, 3301, 3457, 3457, 3375, 3457, 3027 Amount=2, 3457, 3457, 3293, 3012, 3375}, 3578 Amount=15, 3003, 3377, 3050 SavedExpireTime=1791, 3056 RemainingUses=200, 2885 ContainerLiquidType=6, 2969 KeyNumber=3033, 2955, 2868 Content={2868 Content={3349, 3446 Amount=65, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3056 RemainingUses=200, 3298 Amount=4, 3277 Amount=10, 2911 SavedExpireTime=2998, 3349, 2911 SavedExpireTime=2382}}, 3457, 3565, 2973 KeyNumber=3520, 2969 KeyNumber=4600}}, 
+               3 Content={3502 Content={3457, 3035 Amount=3, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3578 Amount=35, 2865 Content={2865 Content={3349, 3350, 3349, 3350, 3198 Charges=4}, 3031 Amount=57, 3299, 2914 SavedExpireTime=1989, 3147, 3457, 3503 Content={}, 3503 Content={}, 3503 Content={3507 String="Ulster\nAb'dendriel\n"}, 2816 String="Dwarven report XII\nEnemy territory and settlements\n\nOur scouts recently discovered a great number of elven hideouts within the \"deeper woodlands\". They also have a great city, comparable to a capital, there, which is called Ab'Dendriel, and is mainly inhabitated by Deraisim and Cenath. The defenses are rather weak, and it seems like a lot of nomads and wanderers pass through the region.\n\nWe also found ruins within the hidden mystic valley, the structure of the buildings is typically elven. The ruins seem to be the result of a harsh thunderstorm of magic, but it was too long ago for us to find closer traces.\n\nMore interesting should be the fact, that the volcanic regions beyond the thundery mountains seem to be colonised by the elves as well. There dwells a race called Kuridai, and they seem to be the most aggressive and militant elves we encountered yet.\n\nSuggestions about possible assault targets if war will be at hand are envoiced in sub-report EY-01.\n", 2816 String="We could not confirm the extinction of the Chelabdil. On the other hand we found no living beeing in the area. We met strong orcish presence there. Some of the orcs we killed had elvish items on them so it might be possible that all of the so called Chelabdil were wiped out by the orcish hords. One proof more our way is the right one.", 2816 String="The Kuridai took refuge in a volcanic area, inhabited by vile monsters and ravaged by the eruptions of the mountains. Stripped of almost any possesions, they hid in the caves and learned to become very secretive. They had to work very hard, had to fight for almost any goods with nature and ferocious beasts. Most beasts that could live in such livethreatening circumstances were that powerfull that direct attacks proved to be futile. So the elves begun to develop a more devious way to fight, with assaults, traps and hit and run tactics. After over hundred years they had enough resources to leave the burning lands and adopted their way of live to their new enviroment. So they became the secretive people under the hills. They were fierce fighters whenever their new home was threatened. Some hundred years they fought off all intruders until their explorers made contact with the other remaining elven casts. Under the growing pressure of the more and more powerful waves of orcish attacks they left their homes to join forces with the other elves in an uneasy alliance.\nTheir apperance had changed to a even more slender Version of the normal elves. Their skin is very pale, their hair pure white or pitch black. The younger members of that cast often color strands of their hair in unusual clors like red, blue or purple. Red, albinotic eyes are common, but in general all kinds of eyecolors are existent.\n"}, 3003}}}

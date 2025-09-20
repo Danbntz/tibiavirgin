@@ -1,0 +1,58 @@
+ID              = 12913529
+Name            = "Mifoz"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,69-69-0-0)
+CurrentOutfit   = (128,69-69-0-0)
+LastLogin       = 1148231736
+LastLogout      = 1148234028
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32522,31927,10]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,323011,0,330400,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,363811,1100,392762,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,288,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,26391,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,63,1800,140,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,162,1800,302,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,54,1800,140,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,286,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12335,1100,13052,20)
+Skill = (14,0,1200,0,0,0,631,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,29,42,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(55,1),(140,1),(141,1),(190,1),(191,1),(333,1)}
+Murders     = {1146232490,1146492823,1146494341,1147436026,1148222077}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={2867 Content={3031 Amount=55, 3425, 3035 Amount=4, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3446 Amount=13, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3160 Charges=1, 3160 Charges=1, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=3, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3097}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3065}}
+
+Depots      = {0 Content={2853, 2868 Content={3492 Amount=100, 3492 Amount=41, 3483, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2667, 2667}, 3504 Content={3035 Amount=88, 3031 Amount=56, 3035 Amount=100, 3031 Amount=100}, 3578 Amount=32, 3504 Content={2853 Content={3582 Amount=1}, 3507 String="mifoz\nthais\n" Editor="Mifoz"}, 3070, 2874, 2874, 2874, 2874, 2969 KeyNumber=3600, 3275, 3504 Content={3189 Charges=1, 2857 Content={3189 Charges=1, 3189 Charges=2, 3046, 3077, 3084 RemainingUses=250}, 2854 Content={3059, 3301, 3012, 3077, 3084 RemainingUses=250, 3576, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 3054 RemainingUses=200, 2970 KeyNumber=3142, 2969 KeyNumber=3610, 2970 KeyNumber=4503, 3084 RemainingUses=30, 3084 RemainingUses=250, 3084 RemainingUses=250, 3054 RemainingUses=120, 2853 Content={2857 Content={2857 Content={3012, 2973 KeyNumber=3520, 3083 RemainingUses=150, 3056 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=71}}, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3084 RemainingUses=250, 3012}}, 2871 Content={3504 Content={3504, 3504, 3504, 3504 Content={3507 String="Junior of darck shadow\nthais" Editor="Calabazo", 3505 String=": ) sorry noob \nsuck my dig  hehehe\n\n\n: )" Editor="Calabazo"}, 3507 String="lucas sorcere\nthais\n" Editor="Braga Sorcere"}, 3045 RemainingUses=152, 3077, 3084 RemainingUses=250}, 3507 String="Mifoz \nthais" Editor="Mifoz"}, 3502 Content={3457, 3578 Amount=31, 3316, 3483, 3012, 3483, 3075, 3492 Amount=100, 2969 KeyNumber=3600}}, 
+               1 Content={3502}, 
+               2 Content={3446 Amount=4, 3446 Amount=100, 3357, 3578 Amount=8, 3502}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={3425, 3504 Content={2874, 2874, 2874, 2874, 2969 KeyNumber=5010, 3050 SavedExpireTime=1798, 3507 String="mifoz\nvenore" Editor="Patrickus elo"}, 3507 String="mifoz\nvenore" Editor="Patrickus elo"}}}

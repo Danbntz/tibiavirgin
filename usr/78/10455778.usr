@@ -1,0 +1,54 @@
+ID              = 10455778
+Name            = "Golan Iulas"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,79-94-94-94)
+CurrentOutfit   = (128,79-94-94-94)
+LastLogin       = 1147099198
+LastLogout      = 1147099298
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32217,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,33125,0,37800,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,26738,1100,29649,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,154,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5511,1500,7488,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,52,2000,90,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,126,2000,150,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,522,2000,750,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,275,2000,350,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,24,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,8,10,20,26,29,44}
+QuestValues = {(18,1),(37,1),(60,1),(61,1),(69,1),(125,1),(126,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3012},
+               3 Content={2854 Content={3425, 3582 Amount=2, 3411, 3551}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={2912 RemainingExpireTime=23}}
+
+Depots      = {0 Content={3504 Content={3507 String="Golan Iulas\nThais" Editor="Khora Saingeno"}, 3504 Content={3504 Content={3507 String="Golan Iulas \nthais" Editor="Khora Saingeno"}, 3504 Content={3507 String="Golan Iulas\nThais\n" Editor="Khora Saingeno"}, 3504 Content={3507 String="golan iulas\nthais" Editor="Jhony travolta"}, 3504 Content={3507 String="Golan Iulas\nthais\n" Editor="Golan Iulas"}, 3507 String="Golan Iulas \nThais\n\n" Editor="Golan Iulas"}, 3502 Content={3083 RemainingUses=89, 3582 Amount=1, 2911, 2853, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={3457, 3673, 3468}, 2906, 2865 Content={3003, 3269, 3441, 2873, 3152 Charges=1, 3198 Charges=2, 2853 Content={2874, 3448 Amount=5, 3350}, 3582 Amount=11, 2866 Content={2955, 3031 Amount=36, 3377, 3066, 3035 Amount=21}, 3483, 3492 Amount=64, 2815 String="utevo lux\nexura gran \nexiva\nutamo vita\n\n" Editor="Golan Iulas"}, 2853, 3350, 2853, 3362, 2854 Content={3074, 3174 Charges=4, 3425, 3425, 3266, 3310, 3425, 3377, 2911, 2911 SavedExpireTime=2234, 2911}, 3003, 3300, 3003, 2868 Content={2882, 3456, 3452, 3003, 3003, 3003, 3552, 3505 String="eres un maldito n o q entras diario de 9:30 a 12:00\n\n" Editor="Golan Iulas", 1781 Amount=9, 2955, 3050 SavedExpireTime=1489, 3454}, 3307, 3350, 3050, 3300, 3003, 3003}}, 
+               1 Content={3504 Content={3507 String="Golan Iulas\nCarlin" Editor="Khora Saingeno"}, 3504 Content={3507 String="Golan Iulas\ncarlin"}, 3502 Content={3736 Amount=1, 3505}}, 
+               3 Content={3502 Content={}}}

@@ -1,0 +1,53 @@
+ID              = 9801022
+Name            = "Fernando-Delgadillo"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,81-0-77-58)
+CurrentOutfit   = (134,81-0-77-58)
+LastLogin       = 1139793842
+LastLogout      = 1139793859
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,402305,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,117360,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,98,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,75441,1100,79179,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,58,0,10,0,0,0,0,0,0,0,48016,1100,52859,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1677,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76}
+QuestValues = {(35,1),(59,1),(96,1),(97,1),(98,1),(111,1),(112,1)}
+Murders     = {}
+
+Inventory   = {5 Content={3304},
+               10 Content={2924 SavedExpireTime=39}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={2469 Content={}, 2656, 3449 Amount=42, 3195 Charges=1, 3304, 3589 Amount=8, 3017, 3008, 3029 Amount=2, 2469 Content={2854 Content={3097 SavedExpireTime=0, 3270, 3097 SavedExpireTime=0, 3457, 3286, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3352, 3270, 3411}}, 2656, 3180 Charges=3, 3061, 3030 Amount=1, 3049 SavedExpireTime=260, 3740 Amount=1, 3330, 3027 Amount=2, 3447 Amount=81, 3026 Amount=1, 2469 Content={2854 Content={2667, 2667, 2667, 2647, 2647, 2647, 2667, 2667, 2667, 2667, 2647, 2647, 2647}}, 2469 Content={2868 Content={2866 Content={3056 RemainingUses=200, 2871 Content={3056 RemainingUses=200}}, 2867 Content={}, 2865 Content={}, 2868 Content={3054 RemainingUses=200, 3552, 3056 RemainingUses=200, 3056 RemainingUses=200, 3457}}}, 2656, 3380, 3097 SavedExpireTime=0, 3033 Amount=1, 3603 Amount=1, 2920 SavedExpireTime=596, 2469 Content={3446 Amount=25, 2854 Content={2854 Content={2854 Content={3003}, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3578 Amount=100}}, 2656, 3603 Amount=1, 3507 String="NO C DONDE SE CAMBIA EL GOLD!!!!!!", 2469 Content={2472 Content={}, 2868 Content={2973 KeyNumber=5050, 3492 Amount=3, 2854 Content={}, 2869 Content={}}, 3349, 3349, 3349, 3349, 3349, 2853 Content={2853 Content={}}, 2868 Content={}}, 2667, 3083 RemainingUses=150, 3483, 2826 String="Flora and Fauna of Darama", 3603 Amount=1, 2469 Content={2472 Content={}}, 2650, 2469 Content={2854 Content={2647, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 3084 RemainingUses=250, 3084 RemainingUses=250, 2853 Content={3004, 3084 RemainingUses=250, 3083 RemainingUses=150, 3084 RemainingUses=250}, 3084 RemainingUses=250, 3457, 3003}}, 3059 String="", 3205, 3603 Amount=1, 3603 Amount=1, 3483, 3330, 3603 Amount=1, 3483, 3330, 3050 SavedExpireTime=0, 3483, 3330, 3031 Amount=83, 3603 Amount=1, 3603 Amount=1, 3454, 3031 Amount=68, 3603 Amount=1, 3603 Amount=1, 2656, 3603 Amount=1, 3324, 2867 Content={}, 3114 Amount=4, 3207 Amount=1, 2469 Content={2865 Content={}, 2867 Content={2868 Content={}}, 2868 Content={2867 Content={2955, 3736 Amount=1, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3}, 2859 Content={2853 Content={3093 SavedExpireTime=528}}, 2866 Content={2868 Content={}}, 3147}}, 2656, 3062, 3085 RemainingUses=197, 2469 Content={2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0}, 3585 Amount=25, 3026 Amount=1, 3017, 3008, 3207 Amount=1, 3092 SavedExpireTime=0, 3603 Amount=2, 3603 Amount=1, 3483, 3483, 3327, 3603 Amount=1, 3483, 3330, 3603 Amount=1, 3503 Content={3507 String="Raimbow Sorcerer\nCarlin\n"}, 2469 Content={}, 2647, 3492 Amount=76, 3033 Amount=1, 3076, 3032 Amount=1, 3026 Amount=1, 3492 Amount=27, 3603 Amount=1, 3507 String="", 3279, 3603 Amount=1, 3155 Charges=1, 3155 Charges=1, 3031 Amount=4, 3003, 3505 String="\nSry, no sabia que habia 2 vampires 2 demon skeleton y 1 ghost en en Ghost ship =(", 3603 Amount=1, 2868 Content={3552, 3572, 2867 Content={2867 Content={}}, 2920 SavedExpireTime=587, 3483, 3457, 3003, 2858 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=549, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3492 Amount=68, 3492 Amount=100}, 2469 Content={}, 2656, 3062, 3085 RemainingUses=200, 3585 Amount=45, 3298 Amount=1, 3576, 3042 Amount=4, 2469 Content={}, 2647, 3590 Amount=5, 3092 SavedExpireTime=0, 3026 Amount=1, 3045 RemainingUses=200, 3042 Amount=1, 3077, 3598 Amount=2, 2469 Content={}, 2647, 3448 Amount=64, 3574, 3049 SavedExpireTime=0, 3017, 3658, 3446 Amount=100, 3446 Amount=66, 3056 RemainingUses=200, 3286, 2871 Content={2869 Content={}}, 2854 Content={2869 Content={}}, 2865 Content={}, 2854 Content={}, 2868 Content={3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327, 2868 Content={3327, 3330, 3330, 3330, 3330, 3330, 3330, 3327, 3327, 3330, 3330, 3327, 3330, 3330, 3330, 3330, 3330, 3327, 3330}}, 2480 Content={2469 Content={2854 Content={2865 Content={}, 2868 Content={2868 Content={2854 Content={2869 Content={}}}}, 2871 Content={}, 2854 Content={}, 2868 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2865 Content={2854 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2868 Content={2854 Content={}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2868 Content={2868 Content={}}, 2868 Content={2868 Content={2866 Content={2867 Content={2869 Content={2868 Content={2865 Content={2867 Content={2868 Content={}}}}}}}}}}}, 2473 Content={3483, 3377, 2854 Content={2857 Content={3505 String="...flicidads xDDD Stare jeton asi k t djo flicitado d una vz... T dare 5k ia k n rl no t dare ni un pito :D Gratz!\n\n\nEl gordo bello-.-"}}}}, 3503 Content={3507 String="Bass knight\nCarlin"}, 2854 Content={}, 3059 String="", 3027 Amount=4, 3450 Amount=1, 2949, 3661, 3509, 2866 Content={2868 Content={}}, 3197 Charges=1, 3061, 3082 RemainingUses=50, 3027 Amount=2, 3551, 3419, 3377, 3031 Amount=20, 3504 Content={3507 String="Fernando-Delgadillo\nDarashia"}, 3504 Content={3507 String="Fernando-Delgadillo\nDarashia"}, 3504 Content={3507 String="Fernando-Delgadillo\nDarashia"}, 2868 Content={2867 Content={}, 2865 Content={}, 2854 Content={2865 Content={}}}, 3054 RemainingUses=154, 3492 Amount=91, 1781 Amount=36, 2872 Content={}, 2872 Content={}, 2867 Content={}, 3492 Amount=100, 3492 Amount=100, 3587 Amount=2, 3492 Amount=100, 2871 Content={}, 3504 Content={2471 Content={2867 Content={3291, 3308, 2868 Content={}}, 2854 Content={3059 String="", 3012, 3012, 3012, 3012, 3012, 3012}, 2870 Content={}, 3552, 3551, 3456, 3378, 3277 Amount=1, 2876 ContainerLiquidType=0}, 2868 Content={2853 Content={3507 String="Duke Bruce\nVenore", 3430, 3411, 3454, 3012, 3454}, 3276, 2868 Content={2901 ContainerLiquidType=0, 2853 Content={3456, 2874 ContainerLiquidType=0, 3507 String="Duke Bruce\nVenore", 3362, 3507 String="Duke Bruce\nCarlin", 2893 ContainerLiquidType=0, 3003, 3565}, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it."}, 2853 Content={}, 2818 String="\n                         ", 3736 Amount=1}}, 3502 Content={3492 Amount=36, 3492 Amount=100, 3492 Amount=100, 3059 String="", 2854 Content={}}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3031 Amount=100, 1781 Amount=1, 3502 Content={3286, 3286, 3286, 3286, 3286}}, 
+               8 Content={2780, 3502 Content={}}}

@@ -1,0 +1,58 @@
+ID              = 8681746
+Name            = "Coosha"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (137,79-92-92-92)
+CurrentOutfit   = (137,79-92-92-92)
+LastLogin       = 1148259594
+LastLogout      = 1148259605
+StartPosition   = [32732,31634,7]
+CurrentPosition = [33232,32449,6]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,760116,0,780700,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,855918,1400,867181,1600)
+Skill = (2,475,475,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,380,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1050,1050,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8217,1100,8849,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,81364,1100,82740,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,427,1200,496,50)
+Skill = (9,23,0,10,0,0,0,0,0,0,0,2666,1200,2959,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,142,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9501,1100,9757,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,42,49,51,76,79,81,95}
+QuestValues = {(14,1),(15,1),(16,1),(39,1),(49,1),(61,1),(76,1),(77,1),(78,1),(83,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(121,1),(137,1),(138,1),(139,1),(143,1),(145,1),(146,1),(147,1),(153,1),(179,1),(180,1),(190,1),(208,1),(217,3),(226,1),(257,1),(324,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2870 Content={3447 Amount=100, 3350, 3450 Amount=2, 3449 Amount=6, 3447 Amount=100, 3447 Amount=4, 2866 Content={3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=3, 2869 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=1, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}},
+               4 Content={3380},
+               5 Content={3287 Amount=10},
+               6 Content={3031 Amount=21},
+               7 Content={3557},
+               10 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3367, 3031 Amount=60, 3502}, 
+               1 Content={3504 Content={3507 String="coosha\ncarlin\n"}, 3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={3492 Amount=1, 2874, 2856 Content={2874, 3505 String="a little present whit a great hug :*\n love u criss :*" Editor="Coosha"}, 3502}, 
+               4 Content={3504 Content={3507 String="coosha\nedron\n\n" Editor="Reflection'Spinal"}, 3425, 2867 Content={3031 Amount=60}, 2869, 3349, 3504 Content={3372}, 3504 Content={3507 String="coosha\nedron" Editor="Coosha", 3504 Content={3507 String="coosha\nedron" Editor="Reflection'Spinal", 2853 Content={3410, 2853 Content={3056 RemainingUses=200, 3410, 3410, 2853 Content={2867, 3354, 2853 Content={3410, 3354, 2853 Content={3410, 2853 Content={3354, 3410}}}}}}, 3507 String="coosha\ndarashia" Editor="Coosha"}}, 2853 Content={3377, 3377, 3377, 3377}, 2853 Content={3354, 3354, 3354, 3367, 2853 Content={3301, 3410, 3410, 3410, 2853 Content={3301, 3301, 3301, 2853 Content={3410, 3410, 3483, 2853 Content={3410, 3354, 2853 Content={3410, 3410, 3410, 2853 Content={3410, 3410, 3354, 3410}}, 3410, 2853 Content={2853 Content={3410, 3410, 3354, 3354, 3410, 3410}}}, 3410}, 3354, 3410}}, 2853 Content={2853 Content={3410, 2853 Content={3354, 3410, 3410, 3410, 3354, 3410, 3410, 3354}}}}, 2867 Content={3599 Amount=8, 3046 SavedExpireTime=2626, 2853 Content={2989, 3017, 2920}, 3285, 3285, 3285, 3301, 2857 Content={2853 Content={3367, 3367, 3285, 3285}}, 3301, 3301, 2842}, 3502 Content={2471 Content={2854 Content={2647, 2647, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644, 2644}, 3448 Amount=1, 2870 Content={3448 Amount=86, 3277 Amount=68, 3448 Amount=100}, 2861 Content={2858}, 3492 Amount=1, 2872, 2647}, 2469 Content={3349, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3287 Amount=1, 2870 Content={3447 Amount=63, 3350, 3457, 3003}, 3425, 2854 Content={3425, 3425}, 3350, 2854 Content={3350, 3350}}, 2469 Content={3050 SavedExpireTime=1796, 2867 Content={3097 SavedExpireTime=3585, 3050, 3097, 3097 SavedExpireTime=3405, 3004}, 2969 KeyNumber=5010, 2867 Content={2969 KeyNumber=5010, 2969 KeyNumber=3610, 2969 KeyNumber=5000, 2969 KeyNumber=5010}, 3054 RemainingUses=200, 2854 Content={3054 RemainingUses=200, 2867 Content={3056 RemainingUses=200, 3084 RemainingUses=235, 3056 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3572, 3083 RemainingUses=150, 3083 RemainingUses=144}, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3084 RemainingUses=250, 3083 RemainingUses=150, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=175, 3054 RemainingUses=200, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3054 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=191}}, 2469 Content={3003, 3003, 3003}, 2856, 2868 Content={2866 Content={3301, 3059, 2856 Content={2856 Content={2856}}, 2861 Content={3285, 3285, 3367, 3367, 3367, 3367}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3276, 3276, 3367, 3411, 3276}}, 3411, 3276, 3276, 3276, 3276, 3411}, 3276, 3411}, 3276, 3276, 3411, 3276}, 3275, 2857 Content={3084 RemainingUses=250, 3046, 3084 RemainingUses=250}, 3050, 3350, 3017, 3045 RemainingUses=200}, 3354, 2866 Content={3354, 3658, 2843, 2815, 2815, 3658, 3658, 3658, 3658, 2949, 2949, 2949, 2949}, 2869 Content={2853 Content={2874, 2920, 2920, 3367, 3276, 3354}, 2854 Content={2870 Content={3505 Editor="Coosha", 3658, 2644, 3463, 2970 KeyNumber=3801, 2973 KeyNumber=3520, 2853 Content={2874 ContainerLiquidType=7, 2874 ContainerLiquidType=7, 2970 KeyNumber=3801, 2970 KeyNumber=3800}, 3739 Amount=3, 3740 Amount=8, 3012, 3012}, 3367, 2854 Content={3410, 3354, 3367, 3367, 3367, 3354, 3367, 3354, 3354, 3354, 3505 String="\n" Editor="Coosha"}, 3367, 3367, 3377, 3377, 3354, 3377, 3354, 3354}, 2853 Content={2853 Content={3410, 3410, 2853 Content={2853 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354}, 2853 Content={2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 3410, 3410, 3410, 3410, 3410, 3410, 3410}}}, 2853 Content={2853 Content={2853 Content={3354, 3354, 3354, 3410, 3410, 3354}, 3264, 3264}, 2853 Content={2853 Content={3358, 3286, 3358, 3352, 3264}, 3264, 3286, 2853 Content={3358, 3358, 3286, 3264, 3352, 3352, 3286}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={3354, 3410, 3410, 3410, 3410, 2853 Content={3410, 3410, 3410, 3354, 3354, 3354, 3410, 3410}, 3410, 3354}, 2853 Content={3410, 3354, 3354, 3410, 3354, 3354, 3410, 3410}}, 3349, 3349, 3276}}, 2853 Content={3483, 3483, 3483, 3354, 3410, 3354, 2853 Content={3483, 2853 Content={3410, 3483, 3410, 3410, 3410, 3410, 3410, 3410}, 3410, 3354}}, 3274, 3003, 3003}, 3059, 3301}}}, 
+               5 Content={3504 Content={2870 Content={2955, 3483, 3457, 3003, 3483, 3083 RemainingUses=150, 3083 RemainingUses=150, 2870 Content={3056 RemainingUses=200, 3083 RemainingUses=150, 3059, 2870 Content={3377, 3377, 3377, 3377, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3349, 3349, 3349, 3448 Amount=34, 3349, 3349}}, 3507 String="coosha\ndarashia" Editor="Jeff bolter", 2854 Content={3483, 3492 Amount=48, 3003}}, 3504 Content={3349, 3447 Amount=100, 3446 Amount=9, 3447 Amount=1, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3502 Content={2854 Content={2865 Content={2973 KeyNumber=3520}, 3056 RemainingUses=200, 3483}, 2865}}, 
+               6 Content={3502}, 
+               7 Content={3502}}

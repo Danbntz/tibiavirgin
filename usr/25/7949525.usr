@@ -1,0 +1,54 @@
+ID              = 7949525
+Name            = "Nax Legolas the Elf"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,3-79-79-79)
+CurrentOutfit   = (134,3-79-79-79)
+LastLogin       = 1148045544
+LastLogout      = 1148045549
+StartPosition   = [32649,31925,11]
+CurrentPosition = [33125,32845,7]
+PlayerkillerEnd = 0
+
+Skill = (0,44,0,1,0,0,0,0,0,0,1,1290026,0,1328800,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,836698,1400,867181,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,221,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,113,113,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1190,1190,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,222756,1100,227761,100)
+Skill = (7,73,0,10,0,0,0,0,0,0,0,128259,1100,133437,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,92,1200,109,50)
+Skill = (9,42,0,10,0,0,0,0,0,0,0,91362,1200,102296,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,755,1200,824,50)
+Skill = (11,24,0,10,0,0,0,0,0,0,0,3104,1200,3601,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,58,0,10,0,0,0,0,0,0,0,19531,1100,21143,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,134,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,30,42,44,51,76,79,81,95}
+QuestValues = {(14,1),(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(60,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(76,1),(77,1),(78,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(125,1),(126,1),(133,1),(137,1),(138,1),(139,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(209,1),(217,3),(226,1),(227,5),(228,2),(253,1),(269,1),(292,1),(332,1)}
+Murders     = {}
+
+Inventory   = {6 Content={3031 Amount=6},
+               10 Content={3504 Content={3578 Amount=20, 3035 Amount=4}}}
+
+Depots      = {0 Content={3504 Content={2870 Content={3350, 3447 Amount=30, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3507 String="Nax Legolas the Elf\nThais" Editor="Amiga Merlin"}, 2866, 2868 Content={2854 Content={2870 Content={2870 Content={2866 Content={2866 Content={2866}}}}}, 2868 Content={2870 Content={2870}, 3375}, 2868 Content={2868 Content={2865 Content={2865}}}}, 3504 Content={3359, 2868 Content={2868 Content={2870 Content={2870 Content={2870 Content={2870 Content={2868 Content={2870}}}}}}}, 2870 Content={2867 Content={2867 Content={2870 Content={2870 Content={2870}}}}}, 2868, 3507 String="Nax Legolas the Elf\nThais\n" Editor="Nax Legolas the Elf"}, 3502 Content={2866 Content={2868 Content={2870, 2870, 2870}}, 3552, 3457, 3003, 3059, 2853 Content={3577 Amount=7, 3582 Amount=38}}}, 
+               1 Content={3003, 3502 Content={2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3504 Content={2868, 3507 String="Nax Legolas the Elf\nCarlin"}, 3003}}, 
+               2 Content={3504 Content={3354, 3507 String="Nax Legolas the Elf\nKazordoon" Editor="Sir Ritihag"}, 3316, 3349, 3367, 3504 Content={3507 String="Nax Legolas the Elf\nKazordoon" Editor="Nax Legolas the Elf", 3354, 3367, 3367, 3367, 3367, 3367, 3367}, 3349, 3502}, 
+               3 Content={3031 Amount=19, 3277 Amount=1, 3502}, 
+               4 Content={3377, 3502 Content={}}, 
+               5 Content={3506 String="Warning!\n\nThe monthly rent of 2660 gold\nfor your house \"Darashia 1, Flat 03\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2660 gold\nfor your house \"Darashia 1, Flat 03\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3031 Amount=5}}, 
+               6 Content={3504 Content={3507 String="Nax legolas the elf\nVenore" Editor="Son Danilo"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3031 Amount=25, 3035 Amount=26, 2853 Content={3031 Amount=6, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3483, 3507 String="NAX LEGOLAS THE ELF\nPORT HOPE" Editor="Brutality the Druid"}, 2871 Content={3003, 2874 ContainerLiquidType=10}, 3446 Amount=20, 3447 Amount=100, 3457, 3504 Content={3446 Amount=100, 3447 Amount=100, 3446 Amount=100, 3507 String="Nax Legolas the Elf\nport hope" Editor="Soul of Vampire"}, 3084 RemainingUses=250, 2870 Content={3587 Amount=2, 3003, 3308, 3425, 3446 Amount=74, 3097}, 3502 Content={2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}

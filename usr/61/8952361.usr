@@ -1,0 +1,59 @@
+ID              = 8952361
+Name            = "Vegeta Druid"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,94-114-114-94)
+CurrentOutfit   = (133,94-114-114-94)
+LastLogin       = 1148252279
+LastLogout      = 1148252284
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33272,32431,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,853489,0,917800,100)
+Skill = (1,54,0,0,0,0,0,0,0,0,0,2911623,1100,3008946,1600)
+Skill = (2,340,340,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,133,965,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,780,780,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,65114,1500,87378,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,40,1800,84,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,23218,1800,40105,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1029,1800,1118,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,370,1800,593,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,4036,1500,5666,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3093,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,7,8,9,10,11,12,15,16,18,20,25,26,27,29,30,31,38,39,42,44,45,76,77,78,81,82,84,85,87,88,89}
+QuestValues = {(1,2),(2,6),(36,1),(41,1),(42,1),(43,1),(44,1),(77,1),(78,1),(88,1),(89,1),(90,1),(111,1),(112,1),(125,1),(126,1),(137,1),(151,1),(152,1),(190,1),(191,1),(211,4),(217,3),(225,1),(324,1),(332,1),(333,1)}
+Murders     = {1146619882}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2866 Content={3081 RemainingUses=5, 3492 Amount=49, 3031 Amount=32, 3069, 3003, 3450 Amount=1, 2842, 3051 SavedExpireTime=531, 2866 Content={3155 Charges=1, 2874, 2874, 2874, 2874, 2874, 2874}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2864 Content={3081 RemainingUses=3, 3457, 3032 Amount=1, 3054 RemainingUses=200, 3051, 3084 RemainingUses=250}}},
+               4 Content={3567},
+               5 Content={3067},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="vegeta druid\nthais" Editor="Chipi Gambler"}, 3502}, 
+               1 Content={3504 Content={3507 String="vegeta druid\ncarlin" Editor="Chipi Gambler"}, 3504 Content={3507 String="Vegeta Druid\nCarlin"}, 3502}, 
+               3 Content={3492 Amount=100, 3502}, 
+               4 Content={3504 Content={2870 Content={2868}, 3507 String="Vegeta Druid\nEdron" Editor="Vegeta Druid"}, 3502}, 
+               5 Content={3504 Content={3507 String="vegeta druid\ndarashia" Editor="Veckter Gambler"}, 3504 Content={2853 Content={3035 Amount=100, 3035 Amount=80}, 3507 String="vegeta druid\ndarashia" Editor="Chipi Gambler"}, 2667, 2866, 3076, 3066, 3061, 3028 Amount=1, 3056 RemainingUses=200, 2854 Content={2854}, 2866, 3077, 2853, 2970 KeyNumber=3142, 2867 Content={2667}, 2667, 2667, 2867, 2667, 3447 Amount=12, 3502 Content={2969 KeyNumber=3667, 2969 KeyNumber=3650, 2969 KeyNumber=3033}}, 
+               6 Content={3504 Content={3507 String="vegeta druid\nvenore" Editor="Chipi Gambler"}, 2853, 3504 Content={3507 String="Vegeta Druid\nvenore"}, 3502}, 
+               7 Content={3502}}

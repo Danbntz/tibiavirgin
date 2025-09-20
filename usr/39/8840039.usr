@@ -1,0 +1,53 @@
+ID              = 8840039
+Name            = "Dark'Piraton"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,79-114-114-114)
+CurrentOutfit   = (134,79-114-114-114)
+LastLogin       = 1147677969
+LastLogout      = 1147677978
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31683,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,134665,0,135100,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,73280,1400,78644,1600)
+Skill = (2,71,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,20,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14484,1100,14863,100)
+Skill = (7,55,0,10,0,0,0,0,0,0,0,23744,1100,23753,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,91,1200,109,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,228,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,949,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,846,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,29,44,51,76,79}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(37,1),(59,1),(86,1),(87,1),(106,1),(107,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               4 Content={3361},
+               10 Content={3349}}
+
+Depots      = {0 Content={3504 Content={3507 String="dark'piraton\nthais"}, 3504 Content={3507 String="dark'piraton\nthais"}, 2854 Content={}, 3504 Content={3507 String="dark'piraton\nthais"}, 2968 KeyNumber=3940, 2853 Content={}, 3457, 3147, 3504 Content={3003, 3507 String="dark'piraton\nthais"}, 3502 Content={2854 Content={3003}, 2853 Content={}}}, 
+               1 Content={2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3504 Content={3507 String="dark'piraton\ncarlin\n\n\n"}, 3286, 3504 Content={3507 String="Dark'Piraton\ncarlin\n"}, 3502 Content={}}, 
+               2 Content={3504 Content={3507 String="dark'piraton\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="dark'piraton\nab'dendriel"}, 3504 Content={3507 String="dark'piraton\nab'dendriel"}, 3504 Content={3507 String="dark'piraton\nab'dendriel"}, 3504 Content={3507 String="dark'piraton\nab'dendriel"}, 3504 Content={2853 Content={2853}, 3507 String="dark'piraton\nab'dendriel"}, 3502 Content={2854, 2854 Content={3003, 3457}, 2854 Content={3286, 2920 SavedExpireTime=218, 2920 SavedExpireTime=218, 2920 SavedExpireTime=217, 3003}}}, 
+               5 Content={2868 Content={}, 3447 Amount=3, 3447 Amount=100, 3447 Amount=100, 3446 Amount=31, 3349, 3447 Amount=100, 3358, 3358, 3301, 3504 Content={2853 Content={3358, 3358, 3358, 3358, 3358, 2853 Content={2853 Content={3358, 2853 Content={3358}, 3358, 3358}}, 3358, 3358}, 3507 String="dark'piraton\ndarashia"}, 3502 Content={3410}}, 
+               7 Content={3504 Content={2857 Content={}, 3507 String="dark'piraton\nankrahmun"}, 3504 Content={3507 String="dark'piraton\nankrahmun"}, 3504 Content={3507 String="dark'piraton\nankrahmun"}, 3447 Amount=54, 3350, 3084 RemainingUses=250, 3077, 2853 Content={}, 3502 Content={2854 Content={3147, 3147, 3147, 3147, 3147}, 2854 Content={3287 Amount=1}, 3046 SavedExpireTime=2997}}, 
+               8 Content={3502 Content={}}}

@@ -1,0 +1,55 @@
+ID              = 9236829
+Name            = "Miu Di Papilon"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,0-0-114-114)
+CurrentOutfit   = (133,0-0-114-114)
+LastLogin       = 1129041154
+LastLogout      = 1129041157
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7074,0,9300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,8400,1100,9768,1600)
+Skill = (2,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,40,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6098,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3609,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10}
+QuestValues = {(86,1),(87,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3354},
+               2 Content={3045 RemainingUses=196},
+               3 Content={},
+               4 Content={3378},
+               5 Content={3430},
+               6 Content={3286},
+               7 Content={3372},
+               8 Content={3551},
+               9 Content={},
+               10 Content={2920 SavedExpireTime=0}}
+
+Depots      = {3 Content={3502 Content={}}, 
+               4 Content={3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 4th Floor, Flat 04\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 4th Floor, Flat 04\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 4th Floor, Flat 04\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 4th Floor, Flat 04\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Castle, 4th Floor, Flat 04\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3372, 3411, 2867 Content={}, 3031 Amount=15, 2920 SavedExpireTime=0, 3083 RemainingUses=150}}}

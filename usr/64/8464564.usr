@@ -1,0 +1,56 @@
+ID              = 8464564
+Name            = "Allie Calhoun"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (138,79-0-88-0)
+CurrentOutfit   = (138,79-0-88-0)
+LastLogin       = 1148255209
+LastLogout      = 1148255231
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33235,31867,6]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,613969,0,658000,100)
+Skill = (1,48,0,0,0,0,0,0,0,0,0,1571886,1100,1691503,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,657,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,11437,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,37752,1800,40105,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,2127,1800,3763,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,802,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,785,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,185,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,5,6,8,10,20,29,42,76,84}
+QuestValues = {(84,1),(85,1),(124,1),(190,1),(191,1),(216,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3055},
+               3 Content={2854 Content={3583 Amount=4, 3198 Charges=4, 3052 SavedExpireTime=1131, 3031 Amount=20, 3191 Charges=2, 3049, 2859 Content={2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3191 Charges=2, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3052 SavedExpireTime=979, 3191 Charges=2}}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3067},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3583 Amount=3, 3504 Content={3043 Amount=1, 3507 String="allie calhoun\nthais" Editor="Allie Calhoun", 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3035 Amount=41, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Greenshore Village, Villa\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               4 Content={3384, 3507 String="allie calhoun\nedron" Editor="Morn Yamir", 2856 Content={3505 String="HAPPY BIRTHDAY ALLIE !!!\n\nMORN and LANDO" Editor="Morn Yamir", 3598 Amount=99, 3568, 3002, 3599 Amount=6}, 3593, 3502 Content={2868 Content={3447 Amount=100}, 3093, 3092, 3034 Amount=100, 3035 Amount=62, 2949, 3059, 2853 Content={3166 Charges=3, 3164 Charges=3, 3164 Charges=2, 3059, 2971 KeyNumber=3702}, 3425, 3297, 3083 RemainingUses=150, 3077, 2991, 3577 Amount=10, 3093, 3049 SavedExpireTime=588, 2842 String="like i care" Editor="Allie Calhoun", 2856 Content={3034 Amount=100, 3034 Amount=100, 3034 Amount=59, 2870 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3034 Amount=100}, 3066, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 4839, 3046, 3054 RemainingUses=200, 3409}}, 
+               5 Content={3502 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3035 Amount=11, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               7 Content={3502}}

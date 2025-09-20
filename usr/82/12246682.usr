@@ -1,0 +1,57 @@
+ID              = 12246682
+Name            = "Sir Serpent"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (142,79-48-0-48)
+CurrentOutfit   = (142,79-48-0-48)
+LastLogin       = 1148203553
+LastLogout      = 1148209951
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32267,32063,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,245919,0,262600,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,749832,1100,780562,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,177,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15174,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,3,1800,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,171,1800,302,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,3658,1800,3763,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,150,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,14,1100,20,20)
+Skill = (14,0,1200,0,0,0,1159,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,12,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,15,16,20,26,29,38,39,44,84,88}
+QuestValues = {(14,1),(15,1),(20,1),(32,1),(33,1),(34,1),(55,1),(109,1),(111,1),(112,1),(140,1),(141,1),(190,1),(191,1),(217,3),(222,1),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2872 Content={3065, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3003}},
+               5 Content={3425},
+               9 Content={3007},
+               10 Content={3577 Amount=6}}
+
+Depots      = {0 Content={3504 Content={3029 Amount=1, 3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="Sir Serpent\nThais" Editor="Venom Vanth"}, 3504 Content={3507 String="Sir Serpent\nThais" Editor="Nahzgul"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3003, 3504 Content={2866 Content={3084 RemainingUses=250, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 3003, 2866 Content={2864, 2866 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 2969 KeyNumber=3600, 3083 RemainingUses=150, 3045 RemainingUses=200, 3441, 3384}, 3504 Content={3483, 3504 Content={3504 Content={3411, 3483, 3276, 3374, 3316, 3507 String="Sir Serpent\nThais" Editor="Venom Vanth"}, 3507 String="sir serpent\nvenore" Editor="Sir Serpent"}, 3504 Content={3012, 3377, 3308, 2955, 3507 String="Sir Serpent\nVenore" Editor="Venom Vanth"}, 3504 Content={3059, 3507 String="Sir Serpent\nVenore" Editor="Venom Vanth"}, 3507 String="Sir Serpent\nDarashia" Editor="Sir Serpent"}, 3504 Content={3505, 3507 String="sir serpent\nvenore" Editor="Sir Serpent", 2853}, 3457, 3551}, 3507 String="sir serpent\nthais" Editor="Sir Serpent"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Zelda'Dynasty"}, 3504 Content={3504 Content={3507 String="sir serpent\nkazordoon" Editor="Venom Vanth"}, 3507 String="sir serpent\nthais" Editor="Sir Serpent"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3503 Content={3446 Amount=9, 3031 Amount=100, 3503}, 2970 KeyNumber=3800, 4871, 2970 KeyNumber=3801}}, 
+               3 Content={3504 Content={3507 String="sir serpent\nab'dendriel" Editor="Venom Vanth"}, 3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="sir serpent\ndarashia" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Sir Raiven"}, 3504 Content={3507 String="sir serpent\ndarashia\n" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Xarth Deon"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Sir Serpent"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Sir Serpent"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Sir Serpent"}, 3504 Content={3412, 3507 String="sir serpent\ndarashia" Editor="Sir Serpent"}, 3504 Content={3507 String="sir serpent\ndarashia" Editor="Venom Vanth"}, 3504 Content={3504 Content={3507 String="Sir Serpent\nPort Hope" Editor="Venom Vanth"}, 3504 Content={3507 String="Strong Junior\nPort Hope" Editor="Strong Junior"}, 3507 String="sir serpent\ndarashia" Editor="Sir Serpent"}, 3504 Content={3504 Content={3507 String="Sir Serpent\nThais" Editor="Venom Vanth"}, 3504 Content={3377, 3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nthais" Editor="Venom Vanth"}, 3504 Content={3507 String="Sir Serpent\nThais" Editor="Venom Vanth"}}, 3502}, 
+               6 Content={3504 Content={3507 String="sir serpent\nvenore" Editor="Sir Serpent"}, 3504 Content={3504 Content={3507 String="sir serpent\ndarashia" Editor="Sir Serpent"}, 3507 String="sir serpent\nvenore" Editor="Sir Serpent"}, 3504 Content={3507 String="sir serpent\nvenore" Editor="Venom Vanth"}, 3504 Content={3507 String="sir serpent\nvenore" Editor="Focus Pocus"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="sir serpent\nport hope" Editor="Venom Vanth"}, 3504 Content={3349, 3507 String="sir serpent\nport hope" Editor="Alcon Vare"}, 3504 Content={3039, 3093, 3507 String="sir serpent\nport hope" Editor="Alcon Vare"}, 3504 Content={2853, 3507 String="sir serpent\nport hope" Editor="Alcon Vare"}, 3504 Content={3504 Content={3507 String="Dokuh Hell\nVenore" Editor="Sir Serpent"}, 3507 String="sir serpent\nport hope" Editor="Dokuh Hell"}, 3502}}

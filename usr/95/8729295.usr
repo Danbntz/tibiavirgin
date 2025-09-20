@@ -1,0 +1,51 @@
+ID              = 8729295
+Name            = "Turko Julian"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (131,102-122-0-113)
+CurrentOutfit   = (131,102-122-0-113)
+LastLogin       = 1146960319
+LastLogout      = 1146962698
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32354,31769,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,47400,0,57600,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,182160,1100,193759,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,275,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15192,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,87,1800,181,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,12701,1800,22252,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,64,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,31,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,228,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,646,1100,718,20)
+Skill = (14,0,1200,0,0,0,252,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,27,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,4,5,7,8,11,12,14,17,20,25,26,29,30,31,42,44,45}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(35,1),(46,1),(52,1),(53,1),(54,1),(59,1),(60,1),(61,1),(113,1),(114,1),(125,1),(126,1),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2865},
+               4 Content={3359},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={2853 Content={3507 String="Dennise De Sakarum\nCarlin" Editor="Princesa caliente", 3504 Content={3507 String="Ayorios'rotch\ncarlin" Editor="Ayorios'rotch"}, 3504 Content={3507 String="Dolitano Tyran\nCarlin" Editor="Toro Mimozo"}, 3507 String="Brother of corn Destroyer\ncarlin" Editor="Master Biggest Elite Jessica", 3504 Content={3507 String="armed naiz\ncarlin" Editor="Armed Naiz", 3504 Content={2853, 3507 String="Armed Naiz\nport hope" Editor="Armed Naiz"}}, 3507 String="Ze da rossa\nCarlin" Editor="Ze da rossa", 3507 String="Knight of Alite Army\ncarlin" Editor="Fire Jeck"}, 3483, 2920 SavedExpireTime=151, 3503 Content={3492 Amount=8, 3507, 3374, 3378, 3507 String="Vrolok \nCarlin" Editor="Culados"}, 3378, 3114 Amount=28, 3565, 3059, 2906, 2469 Content={2853 Content={3291, 3457, 2815 String="0. Level Spells\n  exevo pan - Food : 30\n\n1. Level Spells\n  (R)adori - Light Magic Missile : 40\n\n2. Level Spells\n  exura gran - Intense Healing : 40\n  (R)adevo grav pox - Poison Field : 50\n  exana pox - Antidote : 30\n\n3. Level Spells\n (R)adori gran - Heavy Magic Missile : 70\n  (R)adevo grav flam - Fire Field : 60\n\n4. Level Spells\n  utamo vita - Magic Shield : 50\n\n6.Level Spells\n(R)adito grav - Destroy Field : 60\n\n9.Level Spells\n  (R)adevo mas flam - Firebomb : 150\n11. Level Spells\n (R) adura vita - Ultimate"}, 2853 Content={3578 Amount=12, 2914 SavedExpireTime=1985, 3582 Amount=31, 3582 Amount=100}, 2469}, 3502 Content={3059, 2865, 2472 Content={2853 Content={3593, 3606 Amount=1, 3598 Amount=1, 3587 Amount=1, 3601 Amount=1, 3578 Amount=100, 3578 Amount=100}, 2857 Content={3492 Amount=46, 3492 Amount=100}, 3577 Amount=28, 3578 Amount=48, 3590 Amount=2, 3602 Amount=10, 3582 Amount=4, 3595 Amount=5, 3723 Amount=22, 3587 Amount=5, 3603 Amount=2, 3600 Amount=32, 3579 Amount=6, 3588 Amount=21, 3585 Amount=27}, 2472 Content={3505, 2853 Content={3505, 3505, 3505, 3505, 3505, 3505, 3505, 3505}, 2853 Content={3505 String="Vaya Kevin\nputo:P", 3505 String="HI,i sell u hmm's,ok answer   heare!!!\nWhen u buy msg to Fuel Sigode\n\n", 3505, 3505, 2853 Content={3505 String="Renesita ..her !\n\ndon't down !\n", 3505, 3505, 3505, 3505 String="III            IIIII      III\nIII           II   II      III\nIII           II   II     III\nIIIIIIII   IIIII       IIIIIII", 3505 String="zlata hunting here plz leave\n", 3505 String="MARLO RODRIGUEZ RIVAS ¡ hunting here\n hunting here\n", 3505 String="lols los k lo lean putos\n"}, 3505 String="tadinhu d vc o meu amigo ta nervosinhu e eu q to escutando ow paga ou fika sem equipes e num precisa mais joga no meu char nem vo mais da a senha pq tu e vacilao axa q eu so obrigado a fika treinando todo dia pra vc q c foda noob =D ja ta avisado meu amigo q jogo com o char ontem xau... cya  em vez de caça vai runa pra me devolver o q tu perdeu bye", 3505, 3505}, 3503 Content={3503}, 3504 Content={3505, 3504, 3504 Content={3507 String="Turko Julian\nCarlin"}, 3504 Content={3507 String="Turko Julian\nCarlin"}, 3504 Content={3507 String="Turko Julian\nCarlin"}, 3506 String="turko julian\ncarlin\n\noye we ke krees soy un pendejo y bueno luego te cuento ke me paso, buscame como saint'hito", 3506 String="turko julian\ncarlin\n\nke pedo we, chingon entrar despues del server, consegui 4 vikings, 1 brass, mate varios ghouls, skeletons y todo trankilamente, jajaja, te compre un escudo, para turkonick, ahi nos vemos mañana vale, te lo mande por correo, bye cuidate ke no te kiten de nuevo el escudo"}}, 2472 Content={2872 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3198 Charges=5, 3177 Charges=1, 3200 Charges=3}}, 2472 Content={2857 Content={3271, 3384, 3374, 3367, 3353, 3351}, 2868 Content={3410, 3351, 3357, 3557, 3411, 3354, 3359, 3372, 3430, 3352, 3358, 3558, 3426, 3376, 3378, 3362, 3412, 3355, 3361, 3559}, 2865 Content={3421, 3425, 3409, 3425, 3413, 3426}, 2865 Content={3091 SavedExpireTime=1791, 3097 SavedExpireTime=3462, 3092, 3050 SavedExpireTime=1355, 3050 SavedExpireTime=1791, 3050 SavedExpireTime=1799, 3050, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3012, 3085 RemainingUses=197, 3084 RemainingUses=250, 3026 Amount=6}, 2865 Content={3383, 3357, 3551, 3377, 3551, 3377, 3565, 3565, 3552, 3552}, 2853 Content={2970 KeyNumber=4601, 2973 KeyNumber=3520, 2970 KeyNumber=4502, 2970 KeyNumber=4501}}, 2472 Content={3483, 3483, 2867 Content={3286, 3362, 2854, 3003, 3003, 3003, 3300, 2854, 2854, 2854, 2868, 2868, 2868, 2868, 2865}, 2853 Content={3457, 3457, 3457, 3457, 3456, 3456, 3456, 3456}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2870 Content={3337, 3268, 3274, 3276, 3336, 3116}, 2865 Content={3453, 3304, 3293, 3293}, 2869 Content={3066, 3350, 3350, 3349, 3349, 3349}, 2867 Content={2868 Content={3308, 3283, 3294, 3291, 3301, 3301, 3308, 3283}, 3284 RemainingUses=1, 3272, 3273, 3264, 3119, 3271, 3291, 3267, 3301, 3285, 3300, 3283, 3308, 3294, 3292}, 2859 Content={3275, 3282, 3266, 3266, 3316}}}}, 
+               2 Content={3457, 3502 Content={}}, 
+               3 Content={3502 Content={}}}

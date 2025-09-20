@@ -1,0 +1,51 @@
+ID              = 9710647
+Name            = "Lady Susann"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (139,114-114-114-114)
+CurrentOutfit   = (139,114-114-114-114)
+LastLogin       = 1148249252
+LastLogout      = 1148249261
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32680,31685,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,2733,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,170,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,30,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,445,445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,924,1100,948,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,349,1100,385,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,240,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,18,1100,20,20)
+Skill = (14,0,1200,0,0,0,299,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3655}}
+
+Depots      = {0 Content={3503 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Lady Susann\nThais"}, 3507 String="Lady Susann\nThais"}, 3507 String="Lady Susann\nThais"}, 3507 String="Lady Susann\nThais\n"}, 3507 String="Lady Susann\nThais"}, 3507 String="Lady Susann\nThais\n"}, 3507 String="Lady Susann\nThais"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Lady Susann\nThais"}, 3507 String="Lady Susann\nThais\n"}, 3507 String="Lady Susann\nThais"}, 3507 String="Lady Susann\nThais"}}, 3502 Content={3003, 2473 Content={3276, 3504 Content={3507 String="Dinami Vaniro\nThais", 3453, 3374, 3375, 3376, 3507}, 3504 Content={3492 Amount=1, 3600 Amount=30, 3031 Amount=2, 3035 Amount=6}, 3504 Content={3507 String="Juan mak\nThais"}, 3503 Content={2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2885, 2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 3509, 3509, 2882}, 3003}, 2473 Content={3547 Amount=4, 3539, 3540, 3545, 3546, 3539, 3540, 3546, 3545}, 2473 Content={2911 SavedExpireTime=2993, 2875, 3466, 2885, 3466, 2885, 2885}, 2856 Content={3093 SavedExpireTime=1727, 2985, 3003, 3457, 2920 SavedExpireTime=588}, 2471 Content={3374, 3425, 3362, 3377, 3285, 3559, 3286, 3188 Charges=1, 2882, 3054 RemainingUses=200, 3425, 3273, 3308, 3358, 3430}, 2471 Content={3605 Amount=100, 3605 Amount=52}, 2471 Content={2981, 2991, 2853 Content={2853 Content={2881, 2873, 2873}, 3661, 2920 SavedExpireTime=597, 2659, 2656, 2656, 2983, 3378}, 2969 KeyNumber=4600, 3003, 3483, 3456, 2893 ContainerLiquidType=3, 2985, 2983}}}, 
+               3 Content={3502 Content={3265, 2825 String="20 Tricks to Get People's Money\n\n...", 3600 Amount=25, 3374, 3276, 3378, 3362, 2873, 2854 Content={3035 Amount=2, 3031 Amount=90, 3453, 3446 Amount=1, 3003}, 3377, 3372, 3286, 3447 Amount=8, 3350}}, 
+               6 Content={3502 Content={2981, 2983}}}

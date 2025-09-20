@@ -1,0 +1,57 @@
+ID              = 12209922
+Name            = "Ricardon"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,115-113-107-76)
+CurrentOutfit   = (133,115-113-107-76)
+LastLogin       = 1148157795
+LastLogout      = 1148157799
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32222,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,244778,0,262600,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,232978,1100,237809,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,575,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30307,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1436,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,25,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,72,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1223,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,11,16,19,20,26,29,38,44,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(55,1),(106,1),(107,1),(109,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               3 Content={2867 Content={3578 Amount=7, 2920, 3003, 3582 Amount=5, 3031 Amount=92, 3492 Amount=96, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3457}},
+               4 Content={3357},
+               5 Content={3073},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3059, 3507 String="Ricardon\nThais\n" Editor="Ricardonn"}, 3504 Content={2853 Content={2853, 2853, 2853}, 3507 String="Ricardon\nThais" Editor="Tricktock"}, 3504 Content={2854 Content={2857, 3377, 3374, 3264, 3276, 3448 Amount=4, 3273, 3003, 3003, 3605 Amount=1, 3003, 3012, 3552, 3077, 3557, 3351, 3425, 3377, 3577 Amount=2, 2881}, 3297, 2853 Content={3421, 3300, 3012, 3377, 3266, 3425, 3372, 3301}, 3377, 3286, 3353, 3074, 3507 String="ricardon\nthais\n" Editor="Salazaryus"}, 3072, 3074, 3075, 3504 Content={3507 String="ricardon\nthais\n" Editor="Ricardonn"}, 3509, 3504 Content={3059, 3507 String="ricardon\nthais\n" Editor="Halacio"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Beach Home Apartments, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853 Content={3298 Amount=1, 3457, 2969 KeyNumber=3600}, 3457, 3457, 3457, 3456, 3276, 2992 Amount=5, 2969 KeyNumber=4600, 3374, 3502 Content={3031 Amount=36, 3035 Amount=3}}, 
+               1 Content={3506 String="Ricardon\nCarlin\nSien etre estos 2 dias no hay en el dp de ab'dendriel 5k y 5 items mas baliosas q 1k estas huntiado moriras minimo 5bese sminimos eso es minimo pero quisas 10 bese 20 nose sabe solo al lo q tedije   en bia los 5k ilos 5items a Rip Master" Editor="Master Dunk", 3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3046, 3084 RemainingUses=137, 3307, 3301, 3504 Content={3507 String="ricardon\ndarashia" Editor="Harry Putterr"}, 2969 KeyNumber=3600, 3083 RemainingUses=58, 2922 SavedExpireTime=275, 3283, 2857 Content={3503 Content={2803, 3507 String="ricardon\nthais" Editor="Ricardon"}, 3503 Content={3359, 3507 String="don din\nthais\n" Editor="Ricardon"}, 3046, 3077, 3084 RemainingUses=250}, 3362, 3502}, 
+               6 Content={3502}}

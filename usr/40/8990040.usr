@@ -1,0 +1,56 @@
+ID              = 8990040
+Name            = "Marksy Anus"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,116-38-38-38)
+CurrentOutfit   = (128,116-38-38-38)
+LastLogin       = 1138904557
+LastLogout      = 1138907040
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32414,32207,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,55464,0,57600,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,23700,3000,64000,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,75,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,18592,1100,20113,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1400,30,30)
+Skill = (8,46,0,10,0,0,0,0,0,0,0,15697,1100,16501,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(55,1),(59,1),(100,1),(106,1),(107,1),(128,1),(129,1),(132,1),(140,1),(141,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2866 Content={3031 Amount=5, 3577 Amount=5, 3003}},
+               4 Content={3357},
+               5 Content={3271},
+               6 Content={3418},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2920}}
+
+Depots      = {0 Content={3502 Content={3504 Content={3492 Amount=27, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483}, 2853 Content={3031 Amount=57, 3035 Amount=55}, 2854 Content={3093, 3083 RemainingUses=150, 2991, 3457, 3279, 3316, 3425, 3285, 3375, 3421, 3285, 3457, 3412, 3308, 3456, 3291, 3003, 3374, 3558, 3377}, 2854 Content={3582 Amount=8, 3577 Amount=16, 3577 Amount=100}, 2853 Content={3503 Content={3507 Editor="Marksy Anus"}, 3503 Content={3507 Editor="Marksy Anus"}, 2969 KeyNumber=3600, 2972 KeyNumber=3304, 2970 KeyNumber=3303}, 2471 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=519, 2920, 2920 SavedExpireTime=598, 2920}, 3504 Content={2853}}}, 
+               1 Content={3506 String="Marksy Anus\nCarlin\n\nYou Are Hunted!\nNext Time I See You, I Will Kill You Noob!", 3502 Content={}}, 
+               2 Content={3506 String="Marksy Anus\nKazordoon\n\nYou Are Hunted!\nNext Time I See You, I Will Kill You Noob!", 3502 Content={}}, 
+               3 Content={3506 String="Marksy Anus\nAb'dendriel\n\nYou Are Hunted!\nNext Time I See You, I Will Kill You Noob!", 3502 Content={}}, 
+               6 Content={3506 String="Marksy Anus\nVenore\n\nYou Are Hunted!\nNext Time I See You, I Will Kill You Noob!", 3502 Content={}}}

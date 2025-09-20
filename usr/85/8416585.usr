@@ -1,0 +1,57 @@
+ID              = 8416585
+Name            = "Second Son of Riadin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,78-69-58-76)
+CurrentOutfit   = (128,78-69-58-76)
+LastLogin       = 1116160416
+LastLogout      = 1116163956
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32649,31925,11]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,36387,0,37800,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,144080,1100,157355,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,148,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14223,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,11966,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,270,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1200,1100,1280,20)
+Skill = (14,0,1200,0,0,0,70,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,10,17,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(35,1),(37,1),(55,1),(58,1),(100,1),(106,1),(107,1),(140,1),(141,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3578 Amount=23, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3155 Charges=1, 3160 Charges=1, 2853 Content={}, 3003, 3148 Charges=2, 2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2862 Content={3192 Charges=2, 3192 Charges=2, 3147, 3147, 3147}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3578 Amount=23, 3311, 3483, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3351, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3093 SavedExpireTime=0, 3349, 3093 SavedExpireTime=0, 2969 KeyNumber=3600, 3035 Amount=29, 3483, 3457, 3083 RemainingUses=150, 3502 Content={2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}}, 
+               6 Content={3502 Content={}}}

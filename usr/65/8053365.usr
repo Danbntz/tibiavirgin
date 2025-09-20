@@ -1,0 +1,57 @@
+ID              = 8053365
+Name            = "Guadalupi"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,55-92-88-17)
+CurrentOutfit   = (128,55-92-88-17)
+LastLogin       = 1147986244
+LastLogout      = 1147986256
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32836,31963,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,371757,0,409000,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,571823,1100,582469,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,93,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,40947,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,13,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,130,2000,150,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,27996,2000,51150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,211,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,57,0,10,0,0,0,0,0,0,0,18751,1100,19203,20)
+Skill = (14,0,1200,0,0,0,686,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,16,17,18,20,21,25,27,29,30,38,44,45}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(37,1),(55,1),(58,1),(59,1),(60,1),(61,1),(67,1),(70,1),(71,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(217,3),(224,1),(253,1),(254,1),(333,1)}
+Murders     = {1146003806,1146003822}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=9, 3003, 3457, 3147, 3147, 3147, 3147, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3577 Amount=2, 2853 Content={3147, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3031 Amount=57}},
+               4 Content={3383},
+               5 Content={3425},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={2911 SavedExpireTime=1402, 3105, 3504 Content={2656, 3507 String="Guadalupi\nThais" Editor="Druida Malefiko"}, 2865 Content={2854 Content={3188 Charges=1, 3147, 3147, 3147}}, 2866, 2866 Content={3031 Amount=100, 3031 Amount=84, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3577 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2991, 3595 Amount=2, 3590 Amount=3, 3583 Amount=19, 3593, 3593}, 3078, 3504 Content={2473, 3504, 3504 Content={3507 String="Sir helrek\nthais"}, 3504 Content={3507 String="runeitor walker\nthais"}, 3504 Content={3507 String="Fre'dao\nThais"}, 3504 Content={3504 Content={3507 String="Rammstein hell\nThais"}, 3504 Content={3507 String="guadalupi\nthais"}, 3504 Content={3507 String="politie\nthais"}, 3504 Content={3507 String="conde-monte cristo\nthais"}, 3507 String="guadalupi\nthais"}, 3504, 3504 Content={3507 String="Guadalupi\nthais"}, 3504 Content={3507 String="Guadalupi\nthais"}, 3504 Content={2853, 3507 String="oszi\nthais"}}, 3502 Content={3457, 2469, 2469, 2469, 2469, 3093, 2854, 2854 Content={2854, 2854}, 2853 Content={3059, 3059, 2955}, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410}, 2853, 2867 Content={3083 RemainingUses=140, 3084 RemainingUses=196, 3097, 3017, 3077, 3046, 3097, 3050, 3085 RemainingUses=91, 3056 RemainingUses=199, 3056 RemainingUses=200, 3054 RemainingUses=149, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}, 2868 Content={3483, 3483, 3483, 3483}, 2854 Content={3285, 3367, 3367, 3301, 3301, 3354, 3147, 3457, 3384, 3354, 3367}, 2869 Content={2854, 2867, 2854 Content={2868}, 2868, 2854, 2854, 2854 Content={2868 Content={2868}, 2865 Content={2865}}, 2854, 2854 Content={3110, 2865, 2854, 2868}, 2854, 2854}}}, 
+               1 Content={3502 Content={3456}}, 
+               2 Content={3457, 3502 Content={}}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={2472 Content={3505 String="Guadalupi" Editor="Caprates", 2650, 3031 Amount=3, 2647, 2656, 2991, 2893, 3579 Amount=9, 3587 Amount=27, 2388, 3586 Amount=4, 3589 Amount=16, 3464}, 3507 String="Guadalupi\nvenore" Editor="Caprates"}, 3504 Content={3507 String="guadalupi\nvenore" Editor="Guadalupi"}, 3502}}

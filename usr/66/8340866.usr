@@ -1,0 +1,59 @@
+ID              = 8340866
+Name            = "Eternal Wep"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (129,39-94-95-0)
+CurrentOutfit   = (129,39-94-95-0)
+LastLogin       = 1147824633
+LastLogout      = 1147824679
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32956,32074,7]
+PlayerkillerEnd = 0
+
+Skill = (0,47,0,1,0,0,0,0,0,0,1,1580514,0,1626200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,313290,3000,582400,1600)
+Skill = (2,655,770,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,2,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,116,116,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1445,1445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,152993,1100,155247,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,67,0,10,0,0,0,0,0,0,0,121872,1100,125318,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,196,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1594,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(21,1),(22,1),(23,1),(24,1),(27,1),(32,1),(33,1),(34,1),(58,1),(59,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(94,1),(96,1),(97,1),(98,1),(99,1),(112,1),(115,1),(116,1),(117,1),(118,1),(133,1),(137,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={2920 SavedExpireTime=325, 3031 Amount=5, 3354, 3177 Charges=1}},
+               4 Content={3357},
+               5 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3301}}
+
+Depots      = {0 Content={3504 Content={3507 String="eternal wep\nthais"}, 3504 Content={3457, 3003, 3077, 3507 String="eternal wep\nthais\n"}, 3457, 3504 Content={2866 Content={}, 3507 String="eternal wep\nthais"}, 3504 Content={3507 String="eternal wep\nthais\n"}, 3502 Content={}}, 
+               1 Content={2472, 2875, 2472, 2472, 2472, 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5435 gold\nfor your house \"Northport Village 3\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502}, 
+               2 Content={3504 Content={2865 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 3507 String="eternal wep\nkazordoon"}, 3504 Content={2853 Content={3286, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3413, 3413, 3413, 3377, 3446 Amount=62, 3377, 3266, 3413}, 3413, 3447 Amount=100, 3305, 3377, 3349, 3358, 3425}, 3358, 3358, 3349, 3425, 3413, 3425, 3266}, 3305, 3446 Amount=15, 3266, 3413, 3305, 3413, 3377}, 3275, 3358, 3358, 3425, 3377, 3413, 3305}, 3377, 3377, 3358, 3358, 3377, 3446 Amount=34, 3377}, 3425, 3266, 3358}, 3507 String="eternal wep\nkazordoon\n"}, 3504 Content={2868 Content={}, 3507 String="eternal wep\nkazordoon"}, 3504 Content={3507 String="eternal wep\nkazordoon"}, 3502 Content={}}, 
+               3 Content={2870 Content={3031 Amount=31, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={2869 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3507 String="eternal wep\nab'dendriel"}, 3504 Content={2865 Content={3446 Amount=100, 3483, 3425, 3003}, 3557, 3507 String="eternal wep\nab'dendriel"}, 3504 Content={3091, 3091 SavedExpireTime=633, 3091, 3091, 3091, 3091, 3091, 3311, 3507 String="eternal wep\nab'dendriel"}, 2854 Content={2865 Content={3097, 3353, 2853, 3289, 3062}, 3147, 3267, 3412}, 2854 Content={2867 Content={2865 Content={3425}, 3507 String="Angel-Falcon\nAb'dendriel"}}, 2869 Content={2865 Content={2853 Content={2656, 2949, 2656, 2656, 2949, 2653, 2656, 2949}, 2867 Content={2656, 2656, 2656, 2949, 2656, 2656, 2656, 2656, 2653, 2865 Content={2653, 2653, 2656, 2650, 2650, 2656, 2656, 2653, 2656, 2656, 2656, 2653, 2653, 2653, 2653, 3572, 2903, 3658}, 3430, 3349, 3338, 3483, 3483, 3483, 3298 Amount=1, 3305, 2854 Content={2949, 3572, 2656, 2656, 2949, 3739 Amount=1, 3507 String="les pasa los mismo k a su amigo seca y bultano por ser unos noobs =************", 2949, 3572, 2653, 2656, 2656, 2656}}, 2854 Content={2868 Content={3147, 2656, 2656, 3658, 2868, 3003, 2868 Content={3147}, 3003, 3003, 3412, 3267, 3412, 3267, 3362, 3003, 2865, 2865, 3350, 3483, 3003}, 2656, 2656, 2656, 2871 Content={3425, 3272, 3504 Content={3504 Content={2869, 2868}, 2869}}}}}, 3505 String="Mira javier fui a DL y me dejaron Royal Helmet en total cuesta 110k lo cambie a un lvl 79 pally por 50k 12 bps de uh  2 bps de sword ring 5 plate armor crusader helmet en total 110k\n\ncompre aol\n\nbye  y jahez mañana domingo nos dara su ksa de 97 cuadros ya le pague 15k y me faltan 5k pa terminar de pagar\nbye\n", 2854 Content={2867 Content={2866 Content={2866 Content={2865 Content={2865 Content={2865 Content={2871 Content={2865 Content={2865 Content={2867 Content={2871 Content={2854 Content={2865 Content={2870 Content={2868 Content={2865 Content={2865 Content={2854 Content={2865 Content={2870 Content={2865 Content={2866 Content={2854 Content={2869 Content={2854 Content={2854 Content={2854 Content={2854 Content={2866 Content={2870 Content={2865 Content={2871 Content={2870 Content={2868 Content={2865 Content={2854 Content={2867 Content={2870 Content={2854 Content={2865 Content={2868 Content={2854 Content={2854 Content={2871 Content={2865 Content={2867 Content={2871 Content={2865 Content={2871 Content={2868 Content={2865 Content={2870 Content={2865 Content={2866 Content={2865 Content={2865 Content={2865}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2865 Content={2870 Content={2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2867 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3502 Content={3208, 2871 Content={3483, 3412, 2854}}}, 
+               4 Content={2870 Content={2866 Content={}}, 2869 Content={2854 Content={2865 Content={2868 Content={}}}}, 2853 Content={2869 Content={2867 Content={}}}, 2868 Content={}, 3507 String="eternal wep\nhunt here\n", 3502 Content={3457}}, 
+               5 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3504 Content={3483, 3483, 2853 Content={}, 3507 String="eternal wep\ndarashia"}, 3502 Content={3092 SavedExpireTime=0, 2871 Content={2853 Content={3349}, 3456, 3483, 3552, 3147}}}, 
+               6 Content={3504 Content={3384, 3377, 3507 String="Eternal Wep\nVenore" Editor="Talestris"}, 3448 Amount=9, 3504 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3507 String="eternal wep\nvenore"}, 3092, 3504 Content={2854 Content={3277 Amount=3, 3483}, 3504 Content={3507 String="eternal wep\nvenore"}, 3507 String="eternal wep\nvenore"}, 3504 Content={3507 String="eternal wep\nvenore"}, 3504 Content={2853 Content={2854 Content={3031 Amount=6, 3483, 3077, 3289, 3147, 3092}, 2853}, 3507 String="eternal wep\nvenore"}, 3457, 3457, 3502 Content={2854 Content={2869, 2865, 2865, 2865, 2871 Content={2869}, 2869, 2854 Content={2867}, 2865, 2865, 2865, 2865, 2865}}}, 
+               7 Content={3502 Content={}}}

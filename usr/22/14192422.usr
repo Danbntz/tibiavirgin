@@ -1,0 +1,55 @@
+ID              = 14192422
+Name            = "Legendary Knight of Zanera"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,116-67-49-115)
+CurrentOutfit   = (130,116-67-49-115)
+LastLogin       = 1148258052
+LastLogout      = 1148258057
+StartPosition   = [32360,31782,7]
+CurrentPosition = [31960,31641,9]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38804,0,47000,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,32180,1100,34214,1600)
+Skill = (2,207,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3429,1500,4925,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,154,2000,210,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,202,2000,350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,39,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,80,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,1,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,0,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,36,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,20,25,26,29,44}
+QuestValues = {(17,1),(18,1),(35,1),(113,1),(114,1),(125,1),(126,1),(223,1),(227,1),(332,1),(333,1)}
+Murders     = {1147381777,1147905576,1147990945}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3300, 3277 Amount=2}},
+               4 Content={3378},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3031 Amount=98}}
+
+Depots      = {0 Content={2647, 3504 Content={3507 String="legendary knight of zanera\nthais\n\njaja soy rico y tu pobre" Editor="Legendary sorcerer of zanera"}, 3502 Content={2644, 3059, 3441, 3551, 3059, 3430, 3367}}, 
+               1 Content={3502 Content={2868 Content={3054 RemainingUses=6, 3286, 3054 RemainingUses=200, 3172 Charges=3, 2832 String="...we stood on a plank and beneath us was a pit full of hissing snakes. Worse, the plank was pulled back into the wall, and there was no way out. If it hadn't been for our good Alil who had stayed out of that cursed chamber in a rare moment of clear-sightedness, we would all have ended up as snake food. Just how he managed to find that hidden lever on the statue is still beyond me.", 3552, 3374, 2911 SavedExpireTime=2194, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 3003}, 2867 Content={2659, 3072, 3271, 3269, 3066, 3059, 3046, 3074, 3031 Amount=1, 3327, 3083 RemainingUses=136, 3007, 3483, 3074, 3074, 3177 Charges=1, 3349, 3054 RemainingUses=184, 3066}, 2857 Content={3056 RemainingUses=200, 3050 SavedExpireTime=1429, 3305, 4871, 3301, 3483, 3349}}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={3359, 3372, 3372, 3372, 3083 RemainingUses=150, 3350, 3358, 3286, 3447 Amount=14, 3425, 3457, 3177 Charges=1}}}

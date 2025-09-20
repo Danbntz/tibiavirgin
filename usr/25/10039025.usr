@@ -1,0 +1,58 @@
+ID              = 10039025
+Name            = "Zend Jama"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,79-88-88-88)
+CurrentOutfit   = (137,79-88-88-88)
+LastLogin       = 1148252398
+LastLogout      = 1148259163
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32219,5]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,316804,0,330400,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,423383,1100,433638,1600)
+Skill = (2,260,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,457,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,60810,1500,87378,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,954,1800,1237,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,36,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,27234,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,15,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,877,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5961,1100,5982,20)
+Skill = (14,0,1200,0,0,0,563,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,8,9,10,14,16,18,20,25,27,29,33,38,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(37,1),(59,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(128,1),(140,1),(141,1),(190,1),(191,1),(208,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3055},
+               3 Content={2854 Content={3065, 3070, 3492 Amount=100, 2968 KeyNumber=3940, 3003}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={2981, 2981, 3379, 3027 Amount=1, 3507 String="zend jama\nthais" Editor="Sir Makaduende"}, 3504 Content={2856 Content={3004, 3507 String="\ncasate con migo  \nsir makaduende" Editor="Sir Makaduende"}, 3507 String="zend jama\nthais" Editor="Sir Makaduende"}, 3502 Content={2872 Content={3503 Content={2870 Content={2854, 2854 Content={2871}}, 3503 Content={3507}, 3507}, 2853 Content={2901, 3551}, 2867 Content={3093, 3052 SavedExpireTime=1193, 3083 RemainingUses=130, 2920, 2920 SavedExpireTime=186, 2920 SavedExpireTime=196, 2920}, 2867, 2854 Content={3572, 3287 Amount=3, 2922 SavedExpireTime=195, 3003, 2920, 3056 RemainingUses=200, 2992 Amount=5, 3085 RemainingUses=200, 3012, 2920}, 2854 Content={2854, 2854 Content={2868 Content={3279, 3316, 3301, 3272, 3291, 3316, 3267, 3337, 3294, 3285, 3270, 3308, 3292, 3283, 3265, 3313, 3293, 3330, 3313, 3208}, 2868 Content={2868 Content={2871 Content={3367, 3285}, 2865}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={3367, 3276, 3410, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}}, 2866 Content={3083 RemainingUses=142, 3572, 3084 RemainingUses=250, 3008, 3572, 3012, 3012, 3054 RemainingUses=149, 3008, 3084 RemainingUses=250, 3056 RemainingUses=200, 3008, 3084 RemainingUses=159, 3054 RemainingUses=29, 3085 RemainingUses=120, 3056 RemainingUses=200}, 2871 Content={2922 SavedExpireTime=182, 2914 SavedExpireTime=1993, 3457, 3483, 3003, 3483, 3457, 3483, 3483, 3483, 3483, 3003, 3483, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2969 KeyNumber=3350}, 2867 Content={3097, 3004, 3007, 3097 SavedExpireTime=3598, 3093 SavedExpireTime=1130, 3092 SavedExpireTime=1796, 3050 SavedExpireTime=1797, 3092, 3050 SavedExpireTime=1745, 3092, 3097}, 2870 Content={3351, 3375, 3375, 3375, 3373, 3351, 3351}, 2865 Content={3588 Amount=6, 3577 Amount=19, 3492 Amount=100, 3588 Amount=100, 3597 Amount=5, 3723 Amount=60, 3588 Amount=100, 3492 Amount=100, 3492 Amount=100, 3588 Amount=100, 3588 Amount=10, 3578 Amount=85, 3492 Amount=100, 3492 Amount=100, 3597 Amount=4, 3595 Amount=7, 3593}, 2868 Content={3447 Amount=7, 3446 Amount=9, 3446 Amount=100, 3349, 3350, 3350, 3446 Amount=100, 3350, 3446 Amount=100, 3277 Amount=32, 3287 Amount=2, 2992 Amount=5, 1781 Amount=50, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3450 Amount=1}, 2866 Content={3349, 3349, 3349, 3349}, 2867 Content={3447 Amount=100, 3447 Amount=100, 3449 Amount=5, 3448 Amount=4}, 2869 Content={3147, 3377, 3404, 3558, 3551}, 2872 Content={3031 Amount=100, 3031 Amount=1, 3031 Amount=100, 3031 Amount=100, 3035 Amount=92}, 2865 Content={3007, 3552, 3350, 3354, 3031 Amount=24, 3415, 3277 Amount=1, 2914, 3492 Amount=8, 3483, 3003}, 3557, 3381, 3369, 2854 Content={3270}, 2854 Content={3421, 3425, 3421, 3425, 3421, 3425, 3425, 3425, 3425, 3425, 3425}, 2472 Content={2871 Content={3483, 3483, 2920, 3483, 2991, 3017, 3017, 3740 Amount=3, 3061, 2977}, 2867 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3441, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2870 Content={3065, 3059, 3059, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2853 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 3059, 3059, 3059, 3059, 3059, 3059, 3059, 3066, 3066, 3075, 3074}, 2920 SavedExpireTime=598, 2920, 2920, 2922 SavedExpireTime=43, 2920, 2920, 2920}}, 2854 Content={2854 Content={2920 SavedExpireTime=236, 2920, 2920, 3483, 3322, 3279, 3311, 3282, 3305, 3327, 3336, 3270, 3270, 3456, 3270, 3270}}}}, 2865 Content={3577 Amount=15, 3588 Amount=98, 3582 Amount=24, 3588 Amount=100, 3585 Amount=3, 3577 Amount=54, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3588 Amount=100}, 2868 Content={3276, 3287 Amount=1, 3276, 3189 Charges=1, 3350, 3066, 3446 Amount=7, 3447 Amount=19, 3289, 3289, 3350, 3449 Amount=2, 3446 Amount=100, 3350, 3448 Amount=19, 3350}, 2872 Content={3031 Amount=18, 3031 Amount=100, 3307, 3035 Amount=44, 3043 Amount=3, 3153 Charges=1, 2857 Content={2868 Content={2860}, 3083 RemainingUses=150, 2914 SavedExpireTime=2000, 3084 RemainingUses=250, 3077, 3098}, 3353}, 2854 Content={2869 Content={3191 Charges=2, 3198 Charges=5}}, 2869 Content={2854 Content={3370, 3353, 3305, 3305, 3375, 3305, 3059, 3372, 3313, 3282, 3322, 3410, 3432, 3279, 3322, 3372}, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 3415}, 2868 Content={3264, 3285, 3059, 3059, 3299, 3301}, 2872 Content={3275, 3316, 3266}, 2867 Content={3084 RemainingUses=250, 3093, 3004, 3092, 3085 RemainingUses=200, 3012, 3056 RemainingUses=200, 3572, 3056 RemainingUses=200, 3084 RemainingUses=247, 3054 RemainingUses=200, 3008, 3008, 3056 RemainingUses=200, 3050 SavedExpireTime=1797, 3050, 3050, 3051 SavedExpireTime=72, 3093 SavedExpireTime=1640, 3097}, 2854 Content={3003, 3503, 2853 Content={3004, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10}, 2473, 2469, 3503, 3503, 3503}, 2854 Content={3083 RemainingUses=72, 3456, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=144, 2920, 2920, 2920, 2924 SavedExpireTime=249, 2920 SavedExpireTime=516, 2920, 2920, 3483, 3483, 3483}}}, 
+               1 Content={3504 Content={3507 String="nada ocho\ncarlin\n", 3031 Amount=92}, 3504 Content={3507 String="nada ocho\ncarlin"}, 3502 Content={3031 Amount=14, 3003, 3492 Amount=35, 3483}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="nada ocho\nvenore\n" Editor="Juan mak"}, 3504 Content={3507 String="nada ocho\nvenore\n"}, 3502}}

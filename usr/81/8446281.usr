@@ -1,0 +1,59 @@
+ID              = 8446281
+Name            = "Diva Ice"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,114-119-119-0)
+CurrentOutfit   = (142,114-119-119-0)
+LastLogin       = 1148048042
+LastLogout      = 1148049306
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32223,5]
+PlayerkillerEnd = 0
+
+Skill = (0,65,0,1,0,0,0,0,0,0,1,4173060,0,4374500,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,706457,3000,1748800,1600)
+Skill = (2,1040,1040,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,202,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,134,134,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1895,1895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,78,0,10,0,0,0,0,0,0,0,669771,1100,716951,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,54,1400,71,30)
+Skill = (8,81,0,10,0,0,0,0,0,0,0,455483,1100,477296,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,293,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12397,1100,13052,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(37,1),(39,1),(46,1),(50,1),(55,1),(56,1),(71,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(127,1),(129,1),(130,1),(131,1),(132,1),(133,1),(134,1),(137,1),(140,1),(141,1),(142,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(155,1),(156,1),(157,1),(158,1),(170,1),(171,1),(172,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(209,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               3 Content={2854 Content={3031 Amount=12, 2866 Content={2869}, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3271},
+               7 Content={3557},
+               9 Content={3007},
+               10 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}}
+
+Depots      = {0 Content={2853 Content={2969 KeyNumber=3600, 2868 Content={2854, 2854 Content={2872, 2854 Content={2854}}, 2867}, 2393, 3291, 3658}, 2867 Content={2854, 2865, 2866 Content={2870 Content={2868}}, 2854 Content={2854}, 2870 Content={2854}, 2854 Content={2866 Content={2854}}}, 2854 Content={3557, 3073, 2854 Content={3305, 3275, 3275, 3275, 3283, 3283}}, 3504 Content={3583 Amount=100, 3583 Amount=95}, 3502 Content={2854 Content={3052, 3035 Amount=100}}}, 
+               1 Content={3506 String="Diva Ice\nCarlin\n\nDiva... ( se eu posso te chamar assim :).. eu adorei te conhecer. Quero que saiba que voce acabou se tornando uma grande amiga pra mim aqui no Tibia. Se bem que acho que nao tenho muitos amigos com que posso colocar minha confianca. Te adoro...\nPS: Se precisar de UH, e so me falar que vou tar felix em te fazer umas com meu outro char... ^^\nBeijos...\nKaique (meu nome verdadeiro) - Will Pary. [Te conheci na caverna dos anoes :)]", 3502}, 
+               2 Content={3502 Content={}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="diva ice \nvenore" Editor="Diva Ice"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

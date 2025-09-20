@@ -1,0 +1,48 @@
+ID              = 13158583
+Name            = "Psco on Zanera"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (128,78-69-58-76)
+CurrentOutfit   = (128,78-69-58-76)
+LastLogin       = 1148234487
+LastLogout      = 1148234489
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32098,32213,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,0,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3585 Amount=1}},
+               4 Content={3561},
+               5 Content={3270},
+               6 Content={2920}}
+
+Depots      = {1 Content={3504 Content={3504 Content={3504 Content={3507 String="hexus infernal\ncarlin\n" Editor="Linuz"}, 3504 Content={2854 Content={3483, 2854, 2871 Content={3349}, 3003, 2856, 2856 Content={2856, 2856}}, 3507 String="hexus infernal\ncarlin\n" Editor="Linuz"}, 3504 Content={3507 String="hexus infernal\ncarlin" Editor="Linuz"}, 3504 Content={3003, 3507 String="hexus infernal\ncarlin\n" Editor="Linuz"}, 3504 Content={3507 String="hexus infernal\ncarlin" Editor="Yuddit"}, 3504 Content={3507 String="hexus infernal\ncarlin" Editor="Maquina Verde Hijo", 3425, 3358, 3367, 3357}, 3504 Content={3507 String="hexus infernal\ncarlin" Editor="Hexus Infernal"}, 3504 Content={3421, 3357, 3507 String="hexus infernal\ncarlin" Editor="Linuz"}, 2872 Content={3483, 2865 Content={3307, 3066}, 3308, 3285}, 3507 String="Hexus Infernal\ncarlin" Editor="Hexus Infernal"}, 2865 Content={2853 Content={3008, 2973 KeyNumber=3520, 3083 RemainingUses=79, 3308, 3457, 3003, 3003, 3003}, 2867 Content={2853 Content={2991, 2955, 3056 RemainingUses=200, 3059, 3008}, 3447 Amount=16, 3449 Amount=2}, 2867 Content={2866 Content={3059}, 2868 Content={3003}, 3552, 2854 Content={3269, 3003}, 2854, 2868 Content={3003, 2973 KeyNumber=3520}, 2867}, 2854 Content={2868}, 2857 Content={2868 Content={3008, 3008, 3050 SavedExpireTime=1781, 3056 RemainingUses=200, 3056 RemainingUses=199, 2920 SavedExpireTime=455}, 2866 Content={2973 KeyNumber=3520, 3070, 3425, 3305}, 2853 Content={3264, 3316, 3361}, 3071, 3046, 3077, 3084 RemainingUses=250, 3098}, 3384, 2868, 2854, 3287 Amount=1, 3310, 3425}, 3504 Content={3277 Amount=13, 3077, 3504 Content={3085 RemainingUses=112, 2854 Content={3483}, 3507 String="hexus infernal\ncarlin\n" Editor="Linuz", 2868 Content={2854, 3003}}, 3504 Content={3507 String="Hexus Infernal\ncarlin" Editor="Hexus Infernal"}, 3504 Content={3507 String="hexus infernal\ncarlin\n\nTen mas cuidado con los escorpions hijo, te me apendejas" Editor="Linuz"}, 3504 Content={3507 String="hexus infernal\ncarlin\n" Editor="Linuz"}, 3507 String="hexus infernal\ncarlin" Editor="Linuz", 2853 Content={3377, 3377}}, 3507 String="Psco on Zanera\nCArlin\n" Editor="Hexus Infernal", 2870 Content={3425, 3075, 3351, 3357, 3483, 3035 Amount=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3311, 3031 Amount=51, 3031 Amount=100, 2853, 3492 Amount=59, 3003, 3147, 3147}}, 3504 Content={3409, 3504 Content={2866 Content={2868 Content={2868 Content={2659, 3349, 3349, 3349, 3350, 3350, 3012, 3012, 3337, 2854 Content={3538, 3538, 3505, 2969 KeyNumber=4600, 3456, 2920 SavedExpireTime=91, 2955, 2920 SavedExpireTime=598}, 2854 Content={3505, 3430, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 3459, 3471, 2815, 3456, 2917 SavedExpireTime=1887, 3505, 3452, 3470}, 2865 Content={3374, 3454, 3534 Amount=10, 3533 Amount=10, 3349, 3350}, 2868 Content={3349, 3552, 3270, 2969 KeyNumber=4600, 2922 SavedExpireTime=217, 2920, 2920 SavedExpireTime=599}}, 2854 Content={2991, 2914 SavedExpireTime=1053, 3083 RemainingUses=150, 2955, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3056 RemainingUses=200}, 2868 Content={3551, 3350, 3273, 3350, 2955, 3412, 2922 SavedExpireTime=182}, 2867, 2868 Content={3272, 2854, 3008, 2868, 3565, 3012, 3056 RemainingUses=200, 3350, 3350, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2872 Content={2949, 3313, 3384, 3318, 3322, 3307, 3275, 3046 SavedExpireTime=2991}, 2867 Content={2854, 3287 Amount=1, 2857, 2857, 3077, 2857, 2911 SavedExpireTime=850, 2868}, 2667, 2920 SavedExpireTime=478, 3421, 2659, 3003, 3003, 3465, 2969 KeyNumber=5000, 2868 Content={1781 Amount=4, 3375}, 3289, 3451, 3455, 2868 Content={3267, 3277 Amount=2, 3031 Amount=1, 2854, 3003, 3083 RemainingUses=150, 3294, 2853 Content={2969 KeyNumber=3033}, 3350, 2920, 2920, 3350}}, 2853 Content={2644, 2855 Content={2985}, 2853 Content={3349, 3056 RemainingUses=200, 3483}, 2868 Content={3492 Amount=47, 3311, 3349}, 2868 Content={3308, 2906, 3026 Amount=1, 3097, 3277 Amount=6}, 2650, 3205, 3298 Amount=1}, 2949, 2392, 2906, 3046 SavedExpireTime=2997, 3299, 3291, 3483, 3291, 3447 Amount=100, 3447 Amount=100, 3085 RemainingUses=15, 3447 Amount=91}, 2865 Content={3412, 2955, 3426, 2906, 3483, 3291, 3350, 3003, 3308, 3565, 2955, 3291, 3267, 3287 Amount=1, 3003}, 3504 Content={3504 Content={3507 String="linuz\ncarlin\n"}, 3504 Content={3504 Content={3507 String="lord'pank\ncarlin\n"}, 3504, 3504, 3504, 3504, 3507 String="lord'pank\ncarlin"}, 3507 String="linuz\ncarlin\n"}, 3504 Content={3507 String="linuz\ncarlin"}, 3504 Content={3504 Content={3504 Content={3459, 2911 SavedExpireTime=2759, 3277 Amount=2, 3507 String="maquina verde hijo\ncarlin\n"}, 3374, 3003, 3003, 3003, 3003, 3003, 3534 Amount=10, 3504 Content={2650, 2667, 2955, 3457, 3056 RemainingUses=200, 3509, 3459, 2911 SavedExpireTime=1858, 2911 SavedExpireTime=28, 3507 String="micr\ncarlin"}, 3507 String="maquina verde hijo\ncarlin\n"}, 3507 String="linuz\ncarlin", 2854 Content={3552, 3425, 3003, 3559, 3559, 3349, 2955, 3483, 3270}}, 3504 Content={3003, 2853, 3507 String="linuz\ncarlin" Editor="Linuz"}, 3504 Content={3507 String="linuz\ncarlin" Editor="Hexus Infernal"}, 3504 Content={3507 String="linuz\ncarlin" Editor="Hexus Infernal"}, 3504 Content={3734 Amount=1, 2865 Content={2659, 2647, 2656, 2656, 2647, 2853}, 3077, 3507 String="linuz\ncarlin" Editor="Grafifty"}, 3507 String="linuz\ncarlin" Editor="Hexus Infernal"}, 2870 Content={3280, 3557, 3428, 3370, 3356, 3349, 3031 Amount=12, 3411, 3350, 3483, 3457, 3198 Charges=4, 2854, 2853, 3492 Amount=6, 3003}, 3507 String="Psco on Zanera\nCArlin" Editor="Linuz"}, 3502}}

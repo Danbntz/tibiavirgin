@@ -1,0 +1,56 @@
+ID              = 14215785
+Name            = "Sniper Dragon Ninja"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-0-114-0)
+CurrentOutfit   = (130,114-0-114-0)
+LastLogin       = 1148244114
+LastLogout      = 1148245826
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32586,31692,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,20616,0,23200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,8643,1100,9768,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6445,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,27,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,31,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,3141,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,28,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,74,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,128,1100,154,20)
+Skill = (14,0,1200,0,0,0,736,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(34,1),(58,1),(59,1),(60,1),(61,1),(223,1),(333,1)}
+Murders     = {1147186571}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=248},
+               3 Content={2868 Content={3447 Amount=2, 3578 Amount=1, 2920 SavedExpireTime=379, 3723 Amount=1, 3607, 3607, 2874, 2874, 3588 Amount=12, 3191 Charges=1, 3174 Charges=5, 3577 Amount=2}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3074},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3350, 3425, 3305, 3031 Amount=100, 3504 Content={3582 Amount=3, 3056 RemainingUses=200, 3075, 3349, 3293, 3307, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3350}, 3031 Amount=100, 3582 Amount=2, 3266, 3504 Content={3285, 3349, 3350, 3446 Amount=25, 3466, 3447 Amount=100, 3447 Amount=100, 3447 Amount=75}, 2471 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3577 Amount=4, 3147, 3483, 2659, 2873, 2874 ContainerLiquidType=2, 3451, 3504 Content={3582 Amount=2, 3578 Amount=30}, 2471}, 2469 Content={3453, 3447 Amount=32, 3361, 3349, 3603 Amount=1, 2873, 2874, 2664 RemainingExpireTime=240}, 3577 Amount=4, 3469, 3359, 3504 Content={3003, 3003, 3377, 3565, 3507 String="sir vars \ncarlin" Editor="Sir vars"}, 3469, 2865 Content={2874, 2874, 2874, 3355, 3003, 3003, 3355, 2874, 2874, 2874, 2874, 2874, 2874, 3007, 3097 SavedExpireTime=3596, 3658, 3285, 3379}, 3310, 3084 RemainingUses=250, 3409, 3409, 3668, 2868 Content={3350, 3375, 3377, 3285, 2854, 2854 Content={3585 Amount=2, 3586 Amount=2}, 3285, 3578 Amount=9, 3602 Amount=2, 3588 Amount=34, 3492 Amount=30, 3483}, 3585 Amount=4, 3738 Amount=2, 3577 Amount=23, 3083 RemainingUses=150, 3590 Amount=6, 3504 Content={3085 RemainingUses=200, 3300, 2874, 3588 Amount=11, 3582 Amount=4, 3590 Amount=2, 3507 String="Sniper Dragon Ninja\nCarlin\n" Editor="Sniper Slayer Dragon"}, 3502 Content={3603 Amount=4, 2969 KeyNumber=4603, 3377, 3421, 3582 Amount=24, 3421, 3504 Content={2867 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3003, 3492 Amount=1, 3291, 3282, 2955, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10}, 3030 Amount=1, 2871 Content={3008, 3008, 2871 Content={2854 Content={2868}}, 3492 Amount=6, 3003, 3412, 3411, 2983}, 3504 Content={3658, 3548 Amount=1, 3035 Amount=28}, 3504 Content={3286, 2874, 2874, 3054 RemainingUses=200, 3054 RemainingUses=176, 3003, 3509, 3003, 3507 String="Covert ops\nCarlin\n" Editor="Paul Cichy Wedrowiec"}}, 3054 RemainingUses=13, 2955, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3565, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2853 Content={3548 Amount=17, 3547 Amount=16, 3066, 3504 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3188 Charges=3}}, 2868 Content={3003, 3003, 3014, 3467, 3268, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3337}}, 
+               2 Content={3502 Content={3582 Amount=7, 3577 Amount=13, 3031 Amount=88, 3035 Amount=8}}, 
+               3 Content={3412, 3457, 3361, 3502 Content={3066, 3350, 3188 Charges=3, 3031 Amount=21, 3605 Amount=9, 3035 Amount=11, 3291}}, 
+               6 Content={3502 Content={3410, 2874, 2874, 2874}}}

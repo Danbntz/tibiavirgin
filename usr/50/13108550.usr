@@ -1,0 +1,54 @@
+ID              = 13108550
+Name            = "Michal-Najemnik"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (131,64-77-114-2)
+CurrentOutfit   = (131,64-77-114-2)
+LastLogin       = 1147028945
+LastLogout      = 1147028987
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32930,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,145675,0,156200,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,98631,1100,102403,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17519,1500,25749,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,471,2000,930,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,585,2000,750,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,791,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,125,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,810,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,15,16,19,20,22,25,26,27,38}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(55,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3084 RemainingUses=45},
+               4 Content={3377},
+               6 Content={3421},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3031 Amount=100}}
+
+Depots      = {0 Content={3502 Content={3504 Content={3374, 3507 String="Gemini Taver\nThais\n" Editor="Shad Tidrion"}, 3046 SavedExpireTime=2983, 2874, 2874, 2920 SavedExpireTime=598, 3003, 3077}}, 
+               1 Content={3504 Content={3507 String="Michal-Najemnik\nCarlin" Editor="Michal-Najemnik"}, 3504 Content={3507 String="Michal-Najemnik\nCarlin" Editor="Michal-Najemnik"}, 3504 Content={3507 String="Michal-Najemnik\nCarlin" Editor="Michal-Najemnik"}, 3504 Content={3507 String="Michal-Najemnik\nCarlin" Editor="Michal-Najemnik"}, 3504 Content={3507 String="Michal-Najemnik\nCarlin\n" Editor="Michal-Najemnik"}, 3502}, 
+               3 Content={3031 Amount=20, 3035 Amount=4, 3188 Charges=3, 3585 Amount=1, 3565, 3046 SavedExpireTime=2082, 3446 Amount=6, 3504 Content={3507 String="Michal-Najemnik\nAb'Dendriel" Editor="Miko Ravern"}, 3504 Content={3507 String="Michal-Najemnik\nAb'Dendriel" Editor="Miko Ravern"}, 3457, 1781 Amount=2, 3349, 3349, 2973 KeyNumber=3520, 3668, 3504 Content={2854 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3504, 3577 Amount=1, 3492 Amount=100, 3003, 3483, 3507 String="Michal-Najemnik\nAb'Dendriel" Editor="Michal-Najemnik"}, 3502 Content={2875, 3056 RemainingUses=200, 3050, 3066, 3506 String="Gothe Tikan\nAb'Dendriel\n\n\nBIG LOL:)" Editor="Michal-Najemnik", 3483, 3585 Amount=4, 3492 Amount=26, 3453, 3483, 3349, 3003, 3003, 3073, 3188 Charges=3, 3177 Charges=1, 3056 RemainingUses=200}}, 
+               6 Content={3502 Content={3457, 3031 Amount=7, 3446 Amount=4}}}

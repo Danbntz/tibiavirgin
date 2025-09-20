@@ -1,0 +1,50 @@
+ID              = 10706580
+Name            = "Bhylly exe"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,58-106-0-0)
+CurrentOutfit   = (129,58-106-0-0)
+LastLogin       = 1148054000
+LastLogout      = 1148054075
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32329,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,221597,0,232500,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,222380,1100,237809,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,203,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16718,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,123,1800,181,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,73,1800,140,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3236,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,1958,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5696,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,10,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,8,9,10,15,16,25,29,31,38,42,44,45}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(46,1),(60,1),(61,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(225,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={2906, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 3483, 3492 Amount=20}},
+               4 Content={3378},
+               7 Content={3559},
+               10 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {1 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3069, 3008, 3381, 3385, 3004, 3552, 3382, 3052 SavedExpireTime=1051, 3419, 2860, 3160 Charges=1, 3003, 3457}, 3577 Amount=9, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2880, 3148 Charges=2, 3148 Charges=2, 3305, 3305, 2973 KeyNumber=3520, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3065, 3205, 2867 Content={3188 Charges=3, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2920 SavedExpireTime=281, 2865 Content={2857 Content={3172 Charges=2, 3172 Charges=3}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2871 Content={2870, 2866, 2865, 2868, 2868, 2868, 2868, 2868, 2868, 2871}, 2870 Content={3556, 3357, 3074, 3046, 3483, 3449 Amount=2, 3075, 3409, 2853 Content={3084 RemainingUses=244, 3056 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=68, 3084 RemainingUses=250, 3084 RemainingUses=187}, 3077, 2853 Content={3049 SavedExpireTime=585, 3098, 3050}, 3313, 3425, 3289, 2853 Content={3066, 3349}, 2853 Content={3425, 3349, 3375, 3375, 3375}, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2853 Content={2656, 2656, 3273, 2853 Content={3447 Amount=10, 2853 Content={3293, 3308, 3308, 2853 Content={3003, 2905, 3467, 3468}}, 1781 Amount=33, 3287 Amount=5, 2992 Amount=4, 3453, 3308, 3293}}}, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 3504 Content={3507 String="cherife of zanera\ncarlin"}}, 3503, 3504, 3504, 3504 Content={3507 String="Dintch Warrior\nCarlin"}, 3504 Content={3507 String="dintch warrior\ncarlin"}, 3504 Content={3507 String="dintch warrior\ncarlin"}, 3504 Content={3507 String="dintch warrior\ncarlin"}, 3504 Content={3507 String="dintch warrior\ncarlin"}, 3504 Content={3507 String="Gladiator of loki\ncarlin"}}, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 3504, 3504 Content={3507 String="Jevy\nCarlin"}, 3504 Content={3507 String="dragoon wake\ncarlin"}, 3504, 3504, 3504 Content={3507 String="Wind Zarth\ncarlin\n\n\nbiba ta ai o money do gilba...ty fdp  :**"}, 3504 Content={3507 String="sokete sorcer\ncarlin"}, 3504, 3504}}, 3502 Content={3035 Amount=6, 3031 Amount=48, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3059, 3035 Amount=100, 3003, 2969 KeyNumber=5000, 2853 Content={3583 Amount=1, 3582 Amount=2, 3585 Amount=1, 2853 Content={3588 Amount=12, 3598 Amount=12, 3595 Amount=41, 3590 Amount=50, 3586 Amount=5, 3587 Amount=1, 3129, 3723 Amount=5}}}}, 
+               2 Content={3504 Content={3507 String="bhylly exe\nkazordoon"}, 3502}, 
+               3 Content={3504 Content={3507 String="bhylly exe\nab'dendriel"}, 3504 Content={3507 String="bhylly exe\nab'dendriel"}, 3504 Content={3504 Content={3507 String="master tvako\nab'dendriel"}, 3504 Content={3507 String="serchute\nab'dendriel\n"}, 3504 Content={3507 String="boby pulido\nab'dendriel\n"}, 3504 Content={3507 String="master tvako\nab'dendriel"}, 3504 Content={3507 String="maria of maldita\nab'dendriel"}, 3504, 3504 Content={3507 String="yan pirokaman\nab'dendriel"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="boby pulido\nab'dendriel"}}, 3502 Content={3286, 3453, 3605 Amount=57, 3457, 3031 Amount=8}}}

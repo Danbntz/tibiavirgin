@@ -1,0 +1,56 @@
+ID              = 9462272
+Name            = "Galer Clavat"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-95-114-95)
+CurrentOutfit   = (128,114-95-114-95)
+LastLogin       = 1129346989
+LastLogout      = 1129348210
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,72842,0,83400,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,71920,1100,72958,1600)
+Skill = (2,104,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,28,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15347,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,12962,1800,22252,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,15,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,35,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,36,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,37,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,7,8,10,14,15,25,29,38,42,44,45}
+QuestValues = {(18,1),(46,1),(54,1),(58,1),(60,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2853 Content={3003}},
+               4 Content={3378},
+               5 Content={3426},
+               6 Content={},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={2921 RemainingExpireTime=477}}
+
+Depots      = {1 Content={3502 Content={3504 Content={3507 String="Galer Clavat\nCarlin"}}}, 
+               3 Content={3504 Content={3507 String="Galer Clavat\nAb'dendriel\n"}, 3504 Content={3507 String="Galer Clavat\nAb'Dendriel"}, 3505 String="galers miren necesito todo el dinero k hayan juntado para el lunes o martes tengo k pagerle al los vaos el miercoles me lo pueden dar a mi ho enviarmelo por parcel esos dias para el k no sabe enviar por parcel compra una cajita llamada parcel y le pone en la tarjetita k trai lo mismo k yo puse en esta carta hasta arriba pero ustedes ponen\n\nGaler Ricardo\nAb'Dendriel\n\ny luego ponen el dinero en la caja la tarjetita k les dan cuando la compran tambien la hechan en la caja con esto k les puse arriba y la arrastran hasta el buzon azul sale pero porfa para el lunes o martes", 3502 Content={3504 Content={}}}, 
+               6 Content={3502 Content={}}}

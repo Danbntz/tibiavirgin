@@ -1,0 +1,53 @@
+ID              = 15043767
+Name            = "Rey Hechizero"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-114-114-114)
+CurrentOutfit   = (130,114-114-114-114)
+LastLogin       = 1148177640
+LastLogout      = 1148179522
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32423,31668,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,19422,0,23200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,7176,1100,7425,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6148,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2685,2000,3150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,94,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,923,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,39,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(20,1),(35,1),(59,1),(60,1),(125,1),(126,1),(333,1)}
+Murders     = {1148069678}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3358, 3577 Amount=3, 3286, 3031 Amount=96}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3074},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={2857 Content={2874}, 2866, 2865 Content={3075, 3446 Amount=1, 1781 Amount=4, 3147, 3300, 3349}, 2481 Content={3031 Amount=50, 3035 Amount=15, 2473 Content={2473 Content={3052 SavedExpireTime=1190, 3050 SavedExpireTime=1737, 3050}, 2473 Content={2955, 2955}, 3056 RemainingUses=200, 3008, 3084 RemainingUses=8, 3056 RemainingUses=200, 3008}}, 2865 Content={3452, 3509, 2875, 2815 String="Hechizero-Waldker\n\nplatinum = 0\ngold = 43\notros = 0\nultimo movimiento = deposito 43 gold" Editor="Hechizero Banco De Hechizeros", 2815 String="Hechizero Robelio\n\nplatinum = 0\ngold = 574\notros = 0\npeso = 25.20\nultimo movimiento = deposito por 574 gp " Editor="Hechizero Banco De Hechizeros", 2815 String="Hechizero Nicolas Flamel\n\nplatinum = 8\ngold = 1217\notros = 0\npeso = 148.50\nultimo movimiento = deposito por 1217 gp y 5 pl" Editor="Hechizero Banco De Hechizeros", 3454, 2911, 3454}, 2868 Content={3293, 3456, 2973 KeyNumber=3520, 2860 Content={3003, 3003, 3003, 3003, 3003, 3003}, 3059, 2970 KeyNumber=4601}, 2867 Content={3582 Amount=1, 3577 Amount=5, 3588 Amount=35, 3578 Amount=3, 3602 Amount=20, 3592, 3598 Amount=3, 3601 Amount=3, 3595 Amount=8, 3590 Amount=6, 3606 Amount=1, 3593}, 2854 Content={3375, 3377, 3372, 3552, 3565, 3377, 3362, 3565}}}, 
+               3 Content={3502 Content={3003, 3457}}}

@@ -1,0 +1,56 @@
+ID              = 13237240
+Name            = "Tetton Canan"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1148243684
+LastLogout      = 1148255376
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32222,31851,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,300848,0,330400,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,324125,1100,355602,1600)
+Skill = (2,262,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,387,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,40014,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,239,1800,302,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,162,1800,302,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,980,1800,1118,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,5791,1500,8549,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7716,1100,8028,20)
+Skill = (14,0,1200,0,0,0,44,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,10,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,1,0,16,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,7,10,16,29}
+QuestValues = {(35,1),(46,1),(61,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2870 Content={3582 Amount=4, 3031 Amount=43, 3003, 3457, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147}}},
+               4 Content={3381},
+               5 Content={3069},
+               6 Content={3436},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3065}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="tetton canan\ncarlin\n\n\naqui sta tu puto rod y apurate a vender las bp pa c-armor" Editor="Zorge Zota"}, 3503 Content={3409, 3507}, 3502 Content={2870 Content={2868, 2854 Content={3164 Charges=2}, 2854}, 2857 Content={2920, 2920, 2868 Content={3129, 3588 Amount=100, 3588 Amount=90, 3585 Amount=16, 3586 Amount=11, 3595 Amount=11, 3601 Amount=5, 3602 Amount=24, 3600 Amount=2, 3598 Amount=3, 3590 Amount=2, 2868 Content={3483, 3483, 3483, 2874, 3483, 3483}}}, 2872 Content={3031 Amount=100, 3031 Amount=100, 2868 Content={3035 Amount=79, 3035 Amount=100, 3035 Amount=100}}, 2867 Content={3308, 3308, 3384}, 2854 Content={3446 Amount=8, 2868 Content={3447 Amount=19, 3447 Amount=100, 3447 Amount=100, 3449 Amount=6, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3350, 3350, 3350, 3350, 3349, 3349, 3349, 3446 Amount=100, 3446 Amount=100, 3003}, 2868 Content={3093 SavedExpireTime=834, 3052 SavedExpireTime=38, 3050, 3092 SavedExpireTime=1650, 2856 Content={3046 SavedExpireTime=866, 3077, 3026 Amount=4, 3027 Amount=2, 3030 Amount=2}, 3548 Amount=1, 2868 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3008, 3054 RemainingUses=200, 3085 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=239, 3084 RemainingUses=250}, 2868 Content={3066, 3509, 2868 Content={2868 Content={2874 ContainerLiquidType=2, 3552, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2973 KeyNumber=3520, 2973 KeyNumber=3520}, 2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 3066, 3299, 3003, 3003, 3277 Amount=3}}}}, 
+               2 Content={3502}}

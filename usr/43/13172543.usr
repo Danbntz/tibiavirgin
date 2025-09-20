@@ -1,0 +1,61 @@
+ID              = 13172543
+Name            = "Lady Rah"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,79-15-91-0)
+CurrentOutfit   = (142,79-15-91-0)
+LastLogin       = 1147886059
+LastLogout      = 1147888247
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32979,32715,6]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,806045,0,847400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,173904,3000,193600,1600)
+Skill = (2,635,635,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,60,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,107,107,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1220,1220,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,116117,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,63,0,10,0,0,0,0,0,0,0,81549,1100,85435,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4719,1100,4909,20)
+Skill = (14,0,1200,0,0,0,1017,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,62,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,1,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(88,1),(89,1),(90,1),(99,1),(109,1),(111,1),(112,1),(137,1),(151,1),(152,1),(190,1),(191,1),(223,1),(253,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=9, 3035 Amount=7, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3582 Amount=17, 3492 Amount=5, 3031 Amount=23, 2868, 2857 Content={3093 SavedExpireTime=247, 3093 SavedExpireTime=1790, 3077, 3003, 3457, 3483, 3330, 3076}}},
+               4 Content={3360},
+               5 Content={3420},
+               6 Content={3324},
+               7 Content={3382},
+               8 Content={3079},
+               10 Content={3279}}
+
+Depots      = {0 Content={2865, 2854, 2854, 2865, 2865 Content={2854 Content={2871}}, 2865, 2831 String="The Djinn Wars III - The Great Battle, Pt. 2\n\nA number of Marid was caught and slaughtered on the spot, but much to Malor's disappointment the majority of Gabel's troops managed to escape southwards in what appeared to be a well-planned strategic withdrawal. And how much greater was his surprise to find that the Marid fled to the city of Ankrahmun where they appeared were expected! It was then that he realised that Gabel had suspected a ruse all along, and that he had prepared a counterstrategy. Malor immediately ordered his troops to abandon pursuit, but it was too late. The undead marched against Ankrahmun with all the determination of a mindless killing machine, and the Efreet, blinded by rage, did not lag behind, only to be met by ceaseless barrages of arrows and catapult stones. A cataclysmic battle ensued.  \nWave after wave of undead and Efreet stormed against Ankrahmun, and wave after wave broke at the huge fortifications of the ancient city. Both the Marid and the humans were well-prepared for this battle, and even though Malor's army wreaked havoc they never yielded. ", 2831 String="The Djinn Wars III - The Great Battle, Pt. 4\n\nThe fire, now entirely out of control, turned northwards, driven by a gently breeze coming from the south. Its devastating flames fed on plants and animals alike, and as the inferno slowly spread to the north the Kha'labal was scorched and marred forever by the magical flame. \nThus, the great battle was won by the allied armies of the Marid and the humans. However, for the winners there was little left to feel triumphant about. The losses had been great on both sides, and the Kha'labal, that beautiful garden given to the humans by the gods, had been turned into a barren, hostile desert. Also, the destruction cause the fire had allowed many Efreet to escape, so it seemed unlikely that the war would end now. However, for the time being Malor and his troops were much too weak to pose a serious military threat, so Gabel decided to abandon pursue. Instead he ordered that his army should move northwards towards Drefia. It seemed time to settle old scores.", 3502}, 
+               1 Content={3506 String="Lady Rah\nCarlin\n\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 3502}, 
+               2 Content={2865, 2865, 2865, 2869, 2865, 2865, 2865, 2865, 3502}, 
+               3 Content={2865 Content={2857 Content={3003, 3457, 3076, 3077, 3483}, 2865 Content={3446 Amount=2, 3350, 3447 Amount=90, 3446 Amount=100, 3447 Amount=100, 3446 Amount=100, 3447 Amount=100, 3447 Amount=100}}, 2865 Content={2854 Content={3269, 3269, 3269, 3269, 3269}, 2865 Content={2865 Content={2865 Content={2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2865 Content={3349, 3349, 3349, 3349}, 2865 Content={3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413}, 2865 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2865 Content={3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305}, 2865 Content={3266, 3351, 3266, 3266, 3266, 3282, 3275, 3266, 3282}}, 2865 Content={3035 Amount=30}, 3350, 2854 Content={3558, 3358}, 2867 Content={3349, 3054 RemainingUses=200, 3277 Amount=1, 3350}, 2854 Content={3083 RemainingUses=150, 3097, 3066, 3082 RemainingUses=50, 3076, 3082 RemainingUses=50, 3085 RemainingUses=200, 3046}, 3449 Amount=2, 3042 Amount=7, 2854 Content={3093, 3093, 3093, 3093, 3093, 3093, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3084 RemainingUses=250, 3085 RemainingUses=200, 3085 RemainingUses=200, 3082 RemainingUses=50, 3046, 3046}, 2865 Content={2865 Content={2872}, 3492 Amount=61, 2854, 2854, 2865 Content={3600 Amount=1, 3590 Amount=21, 3579 Amount=12, 3585 Amount=24}, 2866 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2952}, 3502 Content={3449 Amount=7, 3277 Amount=7, 3354, 3270, 3412}}, 
+               4 Content={3502}, 
+               5 Content={2865 Content={3286, 3367, 3377, 3282, 3367, 3264, 3265, 3373, 3282, 3377}, 3502}, 
+               6 Content={3502}, 
+               7 Content={4839, 3502}, 
+               8 Content={3502}}

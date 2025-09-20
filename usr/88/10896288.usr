@@ -1,0 +1,56 @@
+ID              = 10896288
+Name            = "Arude ceti"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-114-38-76)
+CurrentOutfit   = (130,0-114-38-76)
+LastLogin       = 1147957545
+LastLogout      = 1147957565
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32253,32020,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,325612,0,330400,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,346375,1100,355602,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,280,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,28653,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,9171,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,98,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6334,1100,6600,20)
+Skill = (14,0,1200,0,0,0,1126,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,24,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,7,8,9,12,16,18,20,29,38,42,44,45}
+QuestValues = {(14,1),(15,1),(19,1),(21,1),(22,1),(23,1),(32,1),(60,1),(61,1),(100,1),(106,1),(107,1),(125,1),(126,1),(128,1),(190,1),(191,1),(217,3),(223,1),(224,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2870 Content={3578 Amount=55, 3483}},
+               4 Content={3377},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3504 Content={2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3033 Amount=1, 3035 Amount=100}, 2868 Content={3723 Amount=22, 3598 Amount=20, 3586 Amount=8, 3582 Amount=3}, 3502 Content={2991, 3065, 3070, 3148 Charges=2, 3177 Charges=1, 4871, 2853 Content={3092, 3093, 3093}, 3350, 2853 Content={2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 3066, 2857 Content={3052 SavedExpireTime=1197, 3098, 3046 SavedExpireTime=2999, 3077, 3084 RemainingUses=250}, 3457, 2968 KeyNumber=3940, 2955}}, 
+               1 Content={3502 Content={2973 KeyNumber=3520}}, 
+               2 Content={3504 Content={2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3507 String="arude ceti\nKazordoon" Editor="Arude ceti"}, 3502 Content={3035 Amount=2, 3446 Amount=35, 3349, 3266, 3266, 3031 Amount=31, 3031 Amount=100, 3031 Amount=100, 3457}}, 
+               3 Content={3502 Content={2969 KeyNumber=3033, 3457}}}

@@ -1,0 +1,56 @@
+ID              = 14042866
+Name            = "Talatus Licton"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,0-68-57-0)
+CurrentOutfit   = (133,0-68-57-0)
+LastLogin       = 1148240164
+LastLogout      = 1148241644
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33211,32420,7]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1070168,0,1152200,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,478620,1400,618272,1600)
+Skill = (2,525,525,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,138,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,111,111,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1150,1150,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9606,1100,9834,100)
+Skill = (7,74,0,10,0,0,0,0,0,0,0,133540,1100,146811,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,1597,1200,1607,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,294,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1357,1100,1428,20)
+Skill = (14,0,1200,0,0,0,1184,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,192,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,51,76,79,81}
+QuestValues = {(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(137,1),(151,1),(152,1),(190,1),(191,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2866 Content={3582 Amount=13, 3003, 3198 Charges=5, 2866 Content={3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 2853 Content={2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3357},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               4 Content={3504 Content={3507 String="Talatus Licton\nEdron" Editor="Swift Brax"}, 3372, 3083 RemainingUses=150, 3054 RemainingUses=200, 3054 RemainingUses=190, 3054 RemainingUses=200, 3054 RemainingUses=200, 3502}, 
+               5 Content={2854 Content={3147, 3504 Content={3061, 3084 RemainingUses=250, 3148 Charges=1, 3188 Charges=3, 2920 SavedExpireTime=597, 3077, 3409}, 3042 Amount=32, 3180 Charges=3, 2827 String="The Akh'rah Uthun is the unity of that which cannot be united. The flawed Akh, which is our anchor to this mundane world, is generally weak. By giving in to the needs of the physical Akh, the Rah and the Uthun become enslaved to this world, even though their potential is such that they could transcend the physical world. However, the greatest flaw the Akh suffers from is its mortality. Why should we seek to satisfy its puny needs and its trivial urges if we know it is doomed to die? Yet this is how the Akh holds our spirit captive. It slowly poisons both the Rah as well as the Uthun.", 2827 String="Cursed be the Akh, for it diverts our attention to things that are but trivial and transitory! Too many fail in their quests for ascension because they give in to their akhs' temptations. If only they knew that ascension holds the key to all our grievances! Only by ascending can we redeem the akh from its mortal bounds and free the Rah and the Uthun to strive for divinity. For each mortal creature holds the key to divinity, to be a god of his own right. \nUnfortunately, the so-called gods are jealous. They do not want the mortals to take what they think is rightfully theirs. It is because of this that they have instructed their followers to condemn the sacred state which they call undead. Brothers and sisters, unite! See through the deceptions of the akh! Shed your mortal shells and embrace the death-that-is-not-death! Ascend and be reborn!", 3043 Amount=2, 3035 Amount=100, 3035 Amount=35, 2866 Content={3447 Amount=100, 3447 Amount=86, 3350, 3031 Amount=12, 3031 Amount=100, 3446 Amount=100, 3349, 3446 Amount=55, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3322, 2867, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3377, 3066, 3147}}, 3668, 3079, 3504 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="Talatus licton\ndarashia\n" Editor="Tanenth"}, 3504 Content={3504}, 2857 Content={3425, 3483, 3046, 3084 RemainingUses=250}, 3425, 1781 Amount=22, 3506 String="Talatus Licton\nDarashia\n\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 2920, 2920, 3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Talatus Licton\nAnkrahmun" Editor="Nado Brax"}, 3504 Content={3507 String="Talatus Licton\nAnkrahmun" Editor="Swift Brax"}, 3504 Content={3507 String="Talatus Licton\nAnkrahmun" Editor="Swift Brax"}, 3504 Content={3507 String="Talatus Licton\nAnkrahmun" Editor="Talatus Licton"}, 3502}}

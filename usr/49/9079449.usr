@@ -1,0 +1,52 @@
+ID              = 9079449
+Name            = "Maquina Verde"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,114-94-94-94)
+CurrentOutfit   = (130,114-94-94-94)
+LastLogin       = 1148248901
+LastLogout      = 1148248978
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,284643,0,295200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,73674,3000,193600,1600)
+Skill = (2,392,450,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,130,130,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,915,915,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,48336,1100,48785,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,219,1400,328,30)
+Skill = (8,51,0,10,0,0,0,0,0,0,0,25551,1100,26881,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,1152,1100,1226,50)
+Skill = (10,40,0,10,0,0,0,0,0,0,0,8919,1100,9097,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,2974,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(21,1),(32,1),(34,1),(46,1),(59,1),(60,1),(61,1),(67,1),(69,1),(70,1),(71,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(125,1),(126,1),(190,1),(191,1),(208,1),(217,3),(225,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2867 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}},
+               4 Content={3357},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="maquina verde \nthais" Editor="Maquina Verde", 2868 Content={2853}}, 2853 Content={3504, 3504, 3504, 3504, 3504}, 3504 Content={3507 String="Maquina verde\nThais" Editor="Maquina Verde"}, 3504 Content={3507 String="Maquina verde\nThais" Editor="Maquina Verde"}, 3502 Content={3349, 3349, 3291, 3412, 3059, 3059, 2911 SavedExpireTime=1217, 2854 Content={3456, 3285, 3285}, 3059, 2854 Content={3492 Amount=11}, 3085 RemainingUses=79, 3074, 2854, 3059, 3316, 3059, 3421, 3375}}, 
+               1 Content={3504 Content={3507 String="maquina verde \ncarlin" Editor="Repre Recargado"}, 3504 Content={3507 String="Maquina verde \ncarlin" Editor="Maquina Verde"}, 3504 Content={3507 String="maquina verde\ncarlin\n" Editor="Loperte"}, 3504 Content={3507 String="Maquina verde \ncarlin" Editor="Maquina Verde"}, 3504 Content={3507 String="Maquina verde\ncarlin" Editor="Maquina Verde"}, 3504 Content={3507 String="maquina verde\ncarlin" Editor="Javt"}, 3504 Content={3507 String="maquina verde\ncarlin" Editor="Maquina Verde"}, 3736 Amount=1, 2853 Content={3291, 2920, 2920, 2920}, 2853, 2955, 2650, 3502 Content={2920}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="maquina verde\nab'dendriel" Editor="Maquina Verde"}, 3504 Content={3507 String="maquina verde\nab'dendriel" Editor="Maquina Verde"}, 3504 Content={3507 String="maquina verde\nab'dendriel"}, 3504 Content={2853, 3507 String="Maquina verde\nab'dendriel\n"}, 3290, 2874 ContainerLiquidType=6, 3452, 3291, 3008, 3502 Content={3291, 3291, 2854 Content={2854, 2854, 2853, 3003, 3012}, 3056 RemainingUses=200, 3046 SavedExpireTime=2057}}, 
+               6 Content={3502 Content={3457}}}

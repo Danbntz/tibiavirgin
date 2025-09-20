@@ -1,0 +1,55 @@
+ID              = 8372894
+Name            = "Rhar Myron"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,19-97-124-19)
+CurrentOutfit   = (129,19-97-124-19)
+LastLogin       = 1115736494
+LastLogout      = 1115738908
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54069,0,57600,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,82640,1400,111701,1600)
+Skill = (2,195,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,114,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,41051,1100,44259,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,34677,1100,34917,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,475,1200,496,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,100,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,348,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4393,1100,4445,20)
+Skill = (14,0,1200,0,0,0,1018,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,29,42,51}
+QuestValues = {(18,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2853 Content={3446 Amount=35, 3457, 3446 Amount=100, 3031 Amount=98, 3003}},
+               4 Content={3377},
+               5 Content={3277 Amount=10},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {1 Content={3504 Content={3507 String="Rhar Myron\nCarlin"}, 3559, 3502 Content={}}, 
+               3 Content={3277 Amount=6, 3031 Amount=16, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2969 KeyNumber=3033, 3374, 3349, 3349, 3349, 3425, 3349, 3349, 3350, 2853 Content={3446 Amount=96, 3446 Amount=100, 3446 Amount=100, 3447 Amount=22, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2922 SavedExpireTime=63, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3378, 3430, 3054 RemainingUses=200, 2853 Content={3375, 3012, 3283, 3430, 3430, 3374, 3430, 3378}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}

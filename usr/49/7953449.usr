@@ -1,0 +1,59 @@
+ID              = 7953449
+Name            = "Kito'pax"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,2-92-0-0)
+CurrentOutfit   = (133,2-92-0-0)
+LastLogin       = 1148148443
+LastLogout      = 1148155565
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,951743,0,992000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,345042,1400,440480,1600)
+Skill = (2,400,505,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,445,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1110,1110,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,29,0,10,0,0,0,0,0,0,0,5281,1100,5727,100)
+Skill = (7,70,0,10,0,0,0,0,0,0,0,92107,1100,100178,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,173,1200,181,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,93,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,38,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1714,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,328,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,51,76,79,81}
+QuestValues = {(17,1),(21,1),(22,1),(23,1),(27,1),(28,1),(30,1),(32,1),(33,1),(34,1),(36,1),(38,1),(39,1),(46,1),(55,1),(56,1),(57,1),(58,1),(60,1),(61,1),(67,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(86,1),(87,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(113,1),(114,1),(115,1),(116,1),(117,1),(118,1),(119,1),(121,1),(135,1),(136,1),(137,1),(138,1),(139,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(200,1),(201,1),(202,1),(209,1),(223,1),(225,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2865 Content={3031 Amount=28, 3446 Amount=87, 3457, 3003, 3504 Content={3507 String="babbul naiz\ncarlin" Editor="Babbul Naiz"}, 3031 Amount=46, 3583 Amount=1, 3582 Amount=1, 3446 Amount=2, 3446 Amount=100, 3031 Amount=96, 2868 Content={3148 Charges=3, 3582 Amount=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3563, 3148 Charges=1}, 3456, 3503, 2874}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=27}}
+
+Depots      = {0 Content={3504 Content={3507 String="kito'pax\nthais" Editor="Kito'pax"}, 3410, 2885, 2906, 2885, 3598 Amount=1, 3008, 2854, 2854, 3502}, 
+               1 Content={2469, 3349, 3071, 3504 Content={3507 String="kito'pax\ncarlin" Editor="Sir Pretorian"}, 3504, 3502 Content={2854 Content={2854 Content={3351, 3351, 3031 Amount=75, 3031 Amount=100, 3031 Amount=100}, 3349, 3349, 3349, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}, 
+               2 Content={3502}, 
+               3 Content={2854 Content={3403, 3049 SavedExpireTime=255, 3050, 3091, 3034 Amount=1, 3322}, 3507 String="Xeberus The Knight\nKursat'Sackville\nMortadela the knight\nRexi of the guard\n\n" Editor="Kito'pax", 2872 Content={3483, 3298 Amount=4, 3092 SavedExpireTime=1165, 2955, 3147, 3092, 3003}, 2866 Content={3457, 3003, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147}, 3504 Content={3370, 3507 String="kito'pax\nab'dendriel" Editor="Kamar Il"}, 2853 Content={3483, 1781 Amount=6, 3003, 2955, 2814 String="Niño Kueritoooo!!!\n:DD\n\njijiji   pss espero k sepas k m kaes MUUUUYYYYY  bien  ^^  y k eres un niño bn wena onda.. :D  apesar k no t konosko rl t tengo musha konfianzA!  spero k lo sepas.. y si no lo sabias pss ya lo sabes.. :P   Nunka kambies niño!!!\nTKM :D\nSpero k tdv tengas el ticket  ;]\nhahaha  !!\nea ea ea !!!   Bibiiiiiiii     ;***\n\n··¤(`×[¤  AnGeLiTa  ¤]×´)¤··" Editor="Leilany"}, 2860 Content={2955, 3042 Amount=1}, 2853 Content={3153 Charges=1, 3471}, 2854 Content={3097 SavedExpireTime=3035, 3077, 2973 KeyNumber=3520, 1781 Amount=8, 3506 String="Kito'pax\nab'dendriel\n\nPapa...!:P\nmañana sabado me caso ehh cn sigma frost..!P\nen el castillo d senja a las 5 d tampico iegas temprano ehh :P\niebas a tu ermana si kieres...!\ni a tu pareja.!\nahh i el regalo..:P\n \n               >-(B y S)->\n", 2814 String="How to use magic fields and walls in combat?\n by ishara.\n\n... \n\n17 Septiembre 2005.. Quest\n\nYou see a silver dagger (Atk:8 Def:7)\n\nYou see a hat of the mad (Arm:3).It \nYou have a vague feeling that it looks somewhat silly.\n\nYou see a star amulet.\n\nEnd..\n\n" Editor="Kito'pax", 3505 String="8690219\n80963631310mama\n" Editor="Kito'pax", 3083 RemainingUses=150, 2969 KeyNumber=3033, 2865 Content={3447 Amount=17, 3003, 3003, 3003, 2873, 3483, 3456}}, 3502 Content={2839 String="    ~«·´¨*·.¸¸...mUACk!...¸¸.·*¨`·»~\n\n\n      miigueL  tqiieRodmaziiaDOo*. (: !\n\n\n\n                         \n\n\n      " Editor="Haima", 3308, 3456, 3503 Content={3507}, 2473 Content={2857, 2969 KeyNumber=5010, 2969 KeyNumber=3033}, 2856 Content={3507 String="=******" Editor="Leilany", 3507 String="=*\nmiggggueELL\nte keio muxO niño =)\n=*****\nbeREE =P!" Editor="Leilany", 3507 String="=******************************************************************************" Editor="Leilany", 2839 String="=)  kito kito ..mi ñiñoo.. te kiero muzho muzhito muzhote :D =*mua.. emm ia no ze ke poner emm ..jeje xD emmm ._. ia kon ezo no ? aa weno a tu tmb ezkribeme algo jajaj eeeeeeeeeee adioz bonito =*", 2842 String="em ..\ng-loww ! :D\nte keio muzho .. =*********\nemm .. ezke nozee :(\n:D:D:D:D:D:DD: =*"}, 2857 Content={3505 String="siempre ves vdd?\n-.-' =**** !! kito kito\nkien me kiere ? \nkien ? ioooooooo !!!!!!!!! ^^^=** menzOo !\ntu ? :D !!\nzii ! iOop ! ^^\n=*" Editor="Leilany", 1781 Amount=26, 3505}, 2857 Content={3738 Amount=1, 2839 String="hola me llamo jenifer\nme caiste muy bien\nespero que te no me olvides\ncon cariño y amor\npara kito paxxx\n", 2839 String="sabia k lo ivas a leer....\nk xismosito\nhola \nm llamo itzel hahahahaha i mi nombre aki es princess little-bunny soi de tampico i pues noce k poner el dia d mi kumple es el 2 de septiembre i si kieren k los invite ablenme hahahahahha byezzzz"}}}, 
+               4 Content={3504 Content={2854 Content={}, 3507 String="kito'pax\nedron\n"}, 3504 Content={2868 Content={}, 3507 String="kito'pax\nedron"}, 3504 Content={2865 Content={2865 Content={}, 2865 Content={2865 Content={}}}}, 3502 Content={}}, 
+               5 Content={3046 SavedExpireTime=2650, 3046 SavedExpireTime=2995, 3502 Content={}}, 
+               6 Content={2969 KeyNumber=3033, 3502 Content={3353, 3449 Amount=2, 3447 Amount=11, 3350}}, 
+               7 Content={3502 Content={}}}

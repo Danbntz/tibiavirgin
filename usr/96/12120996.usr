@@ -1,0 +1,58 @@
+ID              = 12120996
+Name            = "Raptor Soul"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,21-118-117-116)
+CurrentOutfit   = (134,21-118-117-116)
+LastLogin       = 1148234140
+LastLogout      = 1148234243
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32681,31675,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,890641,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,232643,3000,582400,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,137824,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,64,0,10,0,0,0,0,0,0,0,90102,1100,94029,50)
+Skill = (9,25,0,10,0,0,0,0,0,0,0,1698,1100,1797,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (11,35,0,10,0,0,0,0,0,0,0,5235,1100,5459,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2472,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(20,1),(46,1),(59,1),(69,1),(72,1),(73,1),(96,1),(97,1),(98,1),(111,1),(112,1),(125,1),(126,1),(137,1),(190,1),(191,1),(217,3),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,6),(249,2),(250,2),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={3003, 3035 Amount=2, 3031 Amount=84}},
+               4 Content={3377},
+               5 Content={3281},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2854 Content={3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}, 3392, 3382, 3391, 3324, 3031 Amount=2, 2969 KeyNumber=3033, 2868 Content={3446 Amount=88, 3447 Amount=4, 3053 SavedExpireTime=557, 3269, 3172 Charges=1, 3172 Charges=2, 3572, 2991, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2857 Content={3282, 3505 String="Raptor Soul\nhunt here\nmsg me or exiva" Editor="Raptor Soul", 3505 String="Raptor Soul\nhunt here\nmsg me or exiva" Editor="Raptor Soul", 3505 String="Raptor Soul\nhunt here\nmsg me or exiva" Editor="Raptor Soul", 3492 Amount=89}, 3003, 3457, 3035 Amount=3, 2854 Content={3605 Amount=60, 3453, 3054 RemainingUses=120, 3085 RemainingUses=41, 3577 Amount=40, 3289, 3092 SavedExpireTime=911, 3092 SavedExpireTime=368, 3293}, 2868 Content={3266, 3585 Amount=2, 3446 Amount=34, 3447 Amount=25, 3045 RemainingUses=200, 3587 Amount=21, 2969 KeyNumber=3033}, 2871 Content={3031 Amount=100, 3031 Amount=100}, 3502 Content={3504 Content={3056 RemainingUses=200, 3275, 3349, 3046, 3077, 4871, 3293, 2853 Content={3084 RemainingUses=250, 3042 Amount=10, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2856 Content={3050, 3050, 3097 SavedExpireTime=3254, 3049 SavedExpireTime=591}}, 2853 Content={3466, 3308, 3483, 3310, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3483, 3483, 3056 RemainingUses=200}}, 3046, 3046, 3483, 3661, 3275, 3483, 3305, 3045 RemainingUses=200, 3084 RemainingUses=250, 3056 RemainingUses=200, 3291, 2992 Amount=5}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="raptor soul\nvenore" Editor="Smaxis"}, 3502}, 
+               7 Content={3504 Content={3507 String="raptor soul\nankrahmun" Editor="Elite'Steel"}, 3577 Amount=73, 3502}}

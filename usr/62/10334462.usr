@@ -1,0 +1,56 @@
+ID              = 10334462
+Name            = "Caballero Gortari"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,95-119-96-115)
+CurrentOutfit   = (130,95-119-96-115)
+LastLogin       = 1148246055
+LastLogout      = 1148246954
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32660,31639,4]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,185592,0,204800,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,251661,1100,263190,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,167,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30264,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,6527,2000,12750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,29,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3170,1100,3289,20)
+Skill = (14,0,1200,0,0,0,953,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,84,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,15,16,19,20,22,25,26,27,29,30,38,44}
+QuestValues = {(35,1),(72,1),(73,1),(98,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2865 Content={3191 Charges=2, 2874 ContainerLiquidType=10, 3148 Charges=3, 3191 Charges=2, 3160 Charges=1, 3188 Charges=3, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2874, 3578 Amount=1, 3003, 2920 SavedExpireTime=138, 3031 Amount=3, 3492 Amount=28}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Caballero Gortari\nCarlin" Editor="Caballero Gortari"}, 3504 Content={3507, 3507 String="Caballero Gortari\nCarlin"}, 3502}, 
+               3 Content={3035 Amount=2, 3446 Amount=25, 3447 Amount=13, 3457, 3603 Amount=5, 3483, 3502}, 
+               6 Content={2868 Content={3272, 3350, 3056 RemainingUses=200, 3054 RemainingUses=200, 3447 Amount=1, 3446 Amount=19, 3577 Amount=4, 3582 Amount=3, 3031 Amount=29}, 2865 Content={3286, 3286, 2854, 2868 Content={2877}, 3275, 2920, 2853 Content={3587 Amount=2, 3350, 2991}, 3448 Amount=4, 3447 Amount=42}, 2871 Content={3446 Amount=75}, 2854 Content={3003, 3425, 3446 Amount=7, 3349, 3582 Amount=17, 3059}, 2866, 3586 Amount=1, 2853 Content={3350, 3349, 3350, 3350, 3349, 3350, 3447 Amount=72, 3449 Amount=2}, 2867 Content={2853 Content={2955}, 2659, 2659, 2656, 2656, 2656, 3012, 3012}, 2869 Content={2867 Content={3380, 3416, 3072, 3059, 3330}, 3357, 3285, 3377, 3425, 3409, 3282, 3208, 3283, 3054 RemainingUses=132, 3008, 3425, 3059}, 2866 Content={3031 Amount=64, 2867, 3035 Amount=66, 3074, 2857 Content={3046, 3098, 3077, 3084 RemainingUses=250}}, 2865 Content={2472 Content={2914 SavedExpireTime=1998, 2469 Content={3454, 2920 SavedExpireTime=95, 2920 SavedExpireTime=17}, 3289, 3300}, 2472 Content={2472 Content={2867 Content={3308, 2854 Content={3017, 2473 Content={2473 Content={3308, 2920 SavedExpireTime=554}, 2865 Content={2969 KeyNumber=3033, 3505}, 3738 Amount=4}, 2853 Content={2973 KeyNumber=3520}, 2854 Content={3097, 3012}}, 2867 Content={2989, 3012, 2867 Content={2922 SavedExpireTime=148, 2911 SavedExpireTime=518, 2911 SavedExpireTime=2109}, 3463, 2473}}, 3603 Amount=5}, 2868 Content={3056 RemainingUses=200, 3008, 3084 RemainingUses=250, 3012, 3012, 2854 Content={3097 SavedExpireTime=3591, 3097, 2992 Amount=5, 3027 Amount=2, 3097, 3097}}, 3509, 3198 Charges=1}}, 3505 String="Nopal Reveletion and Caballero Gortari \nhunt here\n\nleave or mgs me" Editor="Caballero Gortari", 3457, 2867 Content={3054 RemainingUses=200, 2955, 3457, 3308, 3457, 3457, 3050, 3008, 3012, 2920, 3003}, 3502 Content={3056 RemainingUses=200, 2854 Content={2869, 2854}, 2867, 3283, 3008, 3008}}}

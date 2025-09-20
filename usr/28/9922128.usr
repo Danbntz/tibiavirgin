@@ -1,0 +1,58 @@
+ID              = 9922128
+Name            = "Kapuleto"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,0-19-19-57)
+CurrentOutfit   = (133,0-19-19-57)
+LastLogin       = 1134066916
+LastLogout      = 1134066922
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,675778,0,717600,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,269600,1400,313485,1600)
+Skill = (2,465,465,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,3,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1030,1030,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,27377,1100,29912,100)
+Skill = (7,67,0,10,0,0,0,0,0,0,0,69404,1100,75191,30)
+Skill = (8,31,0,10,0,0,0,0,0,0,0,11415,1200,13551,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,92,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,232,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2200,1100,2421,20)
+Skill = (14,0,1200,0,0,0,406,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,184,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,11,20,29,51,79}
+QuestValues = {(1,3),(2,6),(20,1),(36,1),(41,1),(42,1),(43,1),(44,1),(56,1),(96,1),(97,1),(121,1),(137,1),(151,1),(152,1),(190,1),(191,1),(211,4)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2871 Content={3416, 3583 Amount=5, 3349, 3358, 3031 Amount=48, 3031 Amount=100, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3505 String="\n", 3003}},
+               4 Content={3370},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=54}}
+
+Depots      = {0 Content={3502 Content={3354}}, 
+               1 Content={3504 Content={3507 String="kapuleto\ncarlin"}, 3506 String="Kapuleto\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3502}, 
+               2 Content={3504 Content={3507 String="kapuleto\nkazordoon"}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               3 Content={3350, 2854, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2856, 3035 Amount=18, 3597 Amount=1, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3269, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2969 KeyNumber=5000, 2955, 3035 Amount=100, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3046 SavedExpireTime=2673, 3046, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3447 Amount=15, 3042 Amount=1, 3269, 3385, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Coastwood 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2868 Content={3447 Amount=100, 3447 Amount=10, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3349, 3305, 3003}, 3504 Content={2853 Content={2853 Content={2853 Content={3377}, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3305}, 3507 String="kapuleto\nab'dendriel"}, 3266, 3483, 3502 Content={2865 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3300, 3291, 3457, 3483, 3430}}, 
+               5 Content={3504 Content={3507 String="kapuleto\ndarashia"}, 3504 Content={3507 String="kapuleto\ndarashia"}, 3504 Content={3507 String="kapuleto\ndarashia\n\n\n"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3007, 3045 RemainingUses=200, 3537, 3537, 3543, 3543}, 2865 Content={3147, 3350, 3350, 3350, 3349, 3446 Amount=6, 3446 Amount=100, 3349, 3446 Amount=100}, 3045 RemainingUses=200, 2865 Content={3045 RemainingUses=200, 3299, 3007, 3349}, 3299, 3299, 2969 KeyNumber=3620, 3287 Amount=1, 2853 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3007, 3017, 3287 Amount=1, 3377}, 3377, 3506 String="Kapuleto\nAnkrahmun\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3505 String="kapuleto hunting here\nmsg me plx", 2874, 2874, 3502 Content={3031 Amount=18, 3031 Amount=100, 3577 Amount=2, 2865 Content={3353, 3046, 3007, 3007, 3367, 3017, 3046, 3338, 3338, 3299, 3050}, 3287 Amount=2, 3045 RemainingUses=200, 3007}}}

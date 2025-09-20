@@ -1,0 +1,60 @@
+ID              = 11950921
+Name            = "Blind Rafael"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,80-38-57-76)
+CurrentOutfit   = (134,80-38-57-76)
+LastLogin       = 1148153607
+LastLogout      = 1148153695
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32915,32078,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,184994,0,204800,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,380223,1100,392762,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,72,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,26601,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1652,1800,2063,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,22,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,25,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,285,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1681,1100,1769,20)
+Skill = (14,0,1200,0,0,0,240,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,66,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,7,10,11,12,15,20,25,26,27,29,30,39,42,44,76,77,78,81,84,87,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(25,1),(26,1),(27,1),(33,1),(35,1),(59,1),(82,1),(83,1),(96,1),(97,1),(98,1),(108,1),(112,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2872 Content={2870 Content={3160 Charges=1, 3147, 3147, 3147, 3147}, 3582 Amount=1, 3577 Amount=7, 3483, 3031 Amount=1, 3148 Charges=2, 2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={1780}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={3504 Content={3507 String="blind rafael\nvenore" Editor="Blind Rafael", 3046, 3046, 3046 SavedExpireTime=205, 2872 Content={3059, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3198 Charges=5, 3155 Charges=1, 3177 Charges=1, 3189 Charges=2, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2473 Content={2870 Content={3059, 2974, 3453, 3308, 3308, 3308, 3308, 3469, 2950, 2826 String="Flora and Fauna of Darama", 3658}, 2853 Content={3375, 3267, 3377, 3441}, 2867 Content={3457, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2854 Content={2867, 2868, 2870, 2869 Content={2869}, 2865, 2864 Content={2864}, 2871, 2872, 2862, 2854}, 2866 Content={3579 Amount=4, 3577 Amount=89, 3582 Amount=22, 2473 Content={3577 Amount=100, 3577 Amount=100, 3582 Amount=100, 3582 Amount=100, 3578 Amount=100, 3578 Amount=100, 3725 Amount=2, 2473 Content={3586 Amount=3, 3593, 3598 Amount=7, 3723 Amount=43, 3584 Amount=2, 3587 Amount=4, 3602 Amount=1, 3606 Amount=75, 3593, 3593}, 3588 Amount=31, 3591 Amount=5}, 2853 Content={3607, 3607, 3607}, 3578 Amount=100, 3577 Amount=100, 3583 Amount=4}, 3605 Amount=10, 2659, 3605 Amount=100}, 2867 Content={2659, 2650, 2650, 2647, 2647, 2667, 2667, 2656, 2656, 2656, 2656, 2656, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659}, 2870 Content={2853 Content={3492 Amount=80, 3492 Amount=100, 3492 Amount=100}, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2867 Content={2992 Amount=4, 2864 Content={2874 ContainerLiquidType=1, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10}, 2868 Content={3093 SavedExpireTime=1787, 3097 SavedExpireTime=3565, 3052, 3092 SavedExpireTime=1006, 3097, 3097, 3097 SavedExpireTime=3588, 3092 SavedExpireTime=44, 3050, 3098, 3049}, 3030 Amount=1, 3734 Amount=1, 3034 Amount=1, 3026 Amount=6, 3027 Amount=4, 2856 Content={3658, 2393, 2393, 3658, 3505 String="Feliz dia de San Valentin!\n\nQue te la pases super bien ;)\nAtte : Rafael =)" Editor="Rafita knight"}, 2469 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3085 RemainingUses=194, 3054 RemainingUses=193, 3084 RemainingUses=250, 3084 RemainingUses=221, 3084 RemainingUses=57}, 2859 Content={2856 Content={3505 String="Dear rafita knight:\nRafa ahora si vas a saber la hora con este reloj ke te doy esta chido es fossil es el mejor del mercado xD. \nY esta bag ke no la puedes conseguir en otro lugar es para ke guardes las cosas mas chidas.\n\nAtte. Yo tu amigo.\n\n\n" Editor="Rafita knight", 2906}}, 2857 Content={3017, 3061, 2876, 2876, 3551, 3077, 2973 KeyNumber=3520, 2906}, 3327, 2833 String="Report 67ABFG33\nCaptains report an increased activity of pirates on the routes from Port Hope to Thais and Venore. I support the traders' demand that the king should intervene. A well armed warship with some experienced fighters would not only secure the routes, but also boost our line of defence in Port Hope. With their support we could fight back such enemies like the ape men - or even capture Trapwood, an area rich in bamboo that is populated by those murderous dworcs. ", 3736 Amount=1}, 2471 Content={2867 Content={2969 KeyNumber=3620, 3357, 3383, 3448 Amount=1, 3287 Amount=9, 3447 Amount=24, 3425, 3425, 3285, 3282, 3285, 3316, 3349, 3305, 3316, 3349}, 3059, 3045 RemainingUses=197, 3070, 3066, 3271, 2866 Content={3264, 3411, 3367, 3367, 3354, 3410, 3411, 3411, 3411, 3354, 3354, 3354, 3367, 3283, 3409, 3367, 3367}}}, 2872 Content={2866 Content={3043 Amount=3, 3035 Amount=10}}}}, 
+               7 Content={3502}, 
+               8 Content={2853, 2635, 3507 String="Blind Rafael Hunted\npay 3k or bp of uh" Editor="Jacob Waltz", 3503 Content={3507}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Haggler's Hangout 4a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3276, 2638, 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1850 gold\nfor your house \"Haggler's Hangout 4a\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3502 Content={2854, 3035 Amount=2}}}

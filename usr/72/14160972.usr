@@ -1,0 +1,57 @@
+ID              = 14160972
+Name            = "Lunnie"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-90-114-76)
+CurrentOutfit   = (134,0-90-114-76)
+LastLogin       = 1148183377
+LastLogout      = 1148183805
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32398,32153,7]
+PlayerkillerEnd = 0
+
+Skill = (0,51,0,1,0,0,0,0,0,0,1,2026004,0,2087600,100)
+Skill = (1,48,0,0,0,0,0,0,0,0,0,1538153,1100,1691503,1600)
+Skill = (2,400,400,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,46,1325,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,120,120,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,900,900,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,73394,1500,87378,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,65,1800,84,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,5,1800,50,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,41267,1800,72239,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,664,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,14,16,17,18,20,29,30,38,39,42,44,45,56,76,77,78,81,82,84,85,87,88,89,91,94}
+QuestValues = {(1,1),(2,6),(36,1),(38,1),(41,1),(42,1),(43,1),(44,1),(50,1),(55,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(115,1),(121,1),(133,1),(140,1),(141,1),(143,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(155,1),(170,1),(171,1),(172,1),(173,1),(174,1),(175,1),(179,1),(180,1),(181,1),(182,1),(183,1),(184,1),(185,1),(186,1),(190,1),(191,1),(200,1),(201,1),(202,1),(211,4),(213,1),(214,1),(218,1),(222,1),(226,1),(333,1)}
+Murders     = {1145688945,1146905234,1147548046,1147841158,1147912162}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               4 Content={3357},
+               6 Content={3067},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3046 SavedExpireTime=1781}}
+
+Depots      = {0 Content={3350, 3031 Amount=30, 3598 Amount=100, 2842 String="Zenmuron's Life\n\nMi vida es ser el lider\nAunque haya pasado por muchos momentos de agonia siempre existe una salida, lo mejor es pensar 2 veces antes de hacer cualquier cosa y siempre respetar un codigo....\n\n1. Matar a los que te roban sin piedad\n2.Siempre hacerle caso al lider\n3.No meterse en problemas" Editor="Zenmuron", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"The City Wall 1b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"The City Wall 1b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3207 Amount=1, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3081 RemainingUses=5, 3081 RemainingUses=5, 3598 Amount=86, 3504 Content={3507 String="lunnie\nthais" Editor="Ladii of Shaka"}, 2853 Content={3506 String="Thop Jesso\nThais\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 3506 String="Lunnie\nThais\n\nFury Ice hablando por Kron Deth: ='(\nQ onda Checon, nadamas diciendo aqui q mi ACC esta \"banned\", pero nmas por 1 mes.\nIntente de comprar ACCs pero creeron q hiba hacer ACC sharing pero no, tonz nmas te quise informar, SBS, ya estoy oficialmente retired. =D, q bien q paso esto. Tonz quidate we, y sube un chingo de lvl.\nY we, gracias por todo en Tib.... especialmente cuando estuve torado en Kings Isle, diles a todos q digo gratz." Editor="Fury Ice", 3505 String="Lunnie\nHunting Here\nPlz Respect..... ^^" Editor="Lunnie", 3286, 2393, 3211, 3457, 3017}, 3271, 3083 RemainingUses=150, 2854 Content={2664 RemainingExpireTime=234, 3457, 3425, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2874, 2874, 2874, 3031 Amount=2, 3083 RemainingUses=150, 3083 RemainingUses=150}, 2969 KeyNumber=3650, 2969 KeyNumber=5000, 2866 Content={3449 Amount=41, 3449 Amount=100, 3093, 3449 Amount=100, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3349, 3027 Amount=1, 3287 Amount=1, 3004, 3085 RemainingUses=200}, 3457, 3492 Amount=30, 2969 KeyNumber=3600, 3083 RemainingUses=150, 3502 Content={3147, 3147, 3147, 3147, 3147, 3083 RemainingUses=150}}, 
+               1 Content={3502}, 
+               4 Content={3007, 3097, 3066, 3502}, 
+               5 Content={3504 Content={3507 String="lunnie\ndarashia\n" Editor="Chaplin Caguamas"}, 3504 Content={3507 String="Lunnie\nDarashia" Editor="Acid Chross"}, 3502}, 
+               6 Content={3504 Content={3507 String="Lunnie\nVenore" Editor="Lunnie"}, 3502}, 
+               7 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2868, 2869 Content={3275, 3285, 3351, 3349, 3349}, 3504 Content={3507 String="Lunnie\nAnkrahmun" Editor="Hell Zide"}, 3084 RemainingUses=250, 2854 Content={2854, 2854, 2854 Content={2868 Content={3177 Charges=1, 2854 Content={2874, 2874}}}, 2854 Content={2854}}, 3070, 3502}, 
+               8 Content={3457, 3502}}

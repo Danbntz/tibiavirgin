@@ -1,0 +1,55 @@
+ID              = 8578229
+Name            = "Predator of lightning"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,78-79-98-95)
+CurrentOutfit   = (130,78-79-98-95)
+LastLogin       = 1148204702
+LastLogout      = 1148204732
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,40388,0,47000,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,52391,1100,57519,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,184,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13547,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,9161,2000,12750,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,46,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,184,1100,189,20)
+Skill = (14,0,1200,0,0,0,266,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,16,28}
+QuestValues = {(17,1),(18,1),(35,1),(59,1),(125,1),(126,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2868 Content={3352, 3352, 3577 Amount=5, 3031 Amount=9, 3723 Amount=24, 3188 Charges=1, 3492 Amount=56, 3457}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3593, 3592, 3592, 3577 Amount=7, 3579 Amount=3, 2874, 2874, 2874, 2874, 2874, 3316, 2906, 3456, 3457, 2920 SavedExpireTime=26, 2920, 2920, 3446 Amount=2, 2880, 3059, 3582 Amount=6, 2868 Content={3074, 3451, 3147, 3147, 3590 Amount=10, 3585 Amount=5, 3147, 3147, 3147, 3147, 3147}, 3056 RemainingUses=200, 3287 Amount=1, 3599 Amount=8, 3603 Amount=1, 3587 Amount=1, 2917 SavedExpireTime=2889, 2920 SavedExpireTime=282, 3502}, 
+               1 Content={2853, 3502 Content={3504 Content={3507 String="Predator of lightning\nCarlin"}}}, 
+               2 Content={2874, 2874, 2874, 2874, 2874, 2874, 3502}, 
+               3 Content={2816 String="Dwarven report VII\nEnemy magic\n\nOur elemantarists have successfully unrevealed the the secrets of what is called \"dream magic\". It is a subconscious way of influencing the surroundings. It is mainly used by elven parents that want to shape their unborn child, but, this is the far more important threat, some elves, especially those called \"Teshial\" posess the ability to wander some kind of \"dream realm\" instead of the real world. This gives them the oppurtunity to appear somewhere out of the blue, but, fortunately, the Teshial never used this skill to ambush, and the other elves posess only small remnants of this magic.\nNever the less, the 2nd earthen chamber is evolving a counter spell for that, that increases the elemental signature of beings near, forcing them into the real realm.\n\nThe other kinds of their magics are limited to protective and growing spells, whicht yet do not prove any harm, but are very supportive for their strife. It is rumored that they have also a lot of illusionary and concealing spells, but investigations here have not yet led to final results, as well as we can only deny the existance of aggressive magic by an elven race od caste od unknown origin.\n\nFor further information refer to sub-report AX-27.\n", 2816 String="Dwarven report XII\nEnemy territory and settlements\n\nOur scouts recently discovered a great number of elven hideouts within the \"deeper woodlands\". They also have a great city, comparable to a capital, there, which is called Ab'Dendriel, and is mainly inhabitated by Deraisim and Cenath. The defenses are rather weak, and it seems like a lot of nomads and wanderers pass through the region.\n\nWe also found ruins within the hidden mystic valley, the structure of the buildings is typically elven. The ruins seem to be the result of a harsh thunderstorm of magic, but it was too long ago for us to find closer traces.\n\nMore interesting should be the fact, that the volcanic regions beyond the thundery mountains seem to be colonised by the elves as well. There dwells a race called Kuridai, and they seem to be the most aggressive and militant elves we encountered yet.\n\nSuggestions about possible assault targets if war will be at hand are envoiced in sub-report EY-01.\n", 2816 String="The 5th elven cultural group are the Chelabdil. There role in the war and their fate is yet unclear, but they have few contact with the other elven casts. They are usually a bit taller and stronger than elves of the other races, and there skin is silvery-white or in blue to greenish tones. Their eyes are often pale blue or green, sometimes a faint yellow. They have long black hair, or sometimes dark brown. They seem to live nowadays in the region northwest of Carlin and are seen quite often there. They have the keenest eyes of the elves, and the weapons of their choice are spears, knives and sometimes the short bow. They are fine hunters and sometimes trade furs, but the main part of their life remains yet uncertain.", 2816 String="We could not confirm the extinction of the Chelabdil. On the other hand we found no living beeing in the area. We met strong orcish presence there. Some of the orcs we killed had elvish items on them so it might be possible that all of the so called Chelabdil were wiped out by the orcish hords. One proof more our way is the right one.", 2816 String="The Kuridai took refuge in a volcanic area, inhabited by vile monsters and ravaged by the eruptions of the mountains. Stripped of almost any possesions, they hid in the caves and learned to become very secretive. They had to work very hard, had to fight for almost any goods with nature and ferocious beasts. Most beasts that could live in such livethreatening circumstances were that powerfull that direct attacks proved to be futile. So the elves begun to develop a more devious way to fight, with assaults, traps and hit and run tactics. After over hundred years they had enough resources to leave the burning lands and adopted their way of live to their new enviroment. So they became the secretive people under the hills. They were fierce fighters whenever their new home was threatened. Some hundred years they fought off all intruders until their explorers made contact with the other remaining elven casts. Under the growing pressure of the more and more powerful waves of orcish attacks they left their homes to join forces with the other elves in an uneasy alliance.\nTheir apperance had changed to a even more slender Version of the normal elves. Their skin is very pale, their hair pure white or pitch black. The younger members of that cast often color strands of their hair in unusual clors like red, blue or purple. Red, albinotic eyes are common, but in general all kinds of eyecolors are existent.\n", 3492 Amount=3, 3502 Content={3031 Amount=74}}}

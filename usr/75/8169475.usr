@@ -1,0 +1,56 @@
+ID              = 8169475
+Name            = "Lord Darigan"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-132-118-79)
+CurrentOutfit   = (128,114-132-118-79)
+LastLogin       = 1146394760
+LastLogout      = 1146394775
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,174926,0,179400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,114085,1400,157982,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,7,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6462,1100,7140,100)
+Skill = (7,56,0,10,0,0,0,0,0,0,0,24016,1100,26159,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,746,1200,824,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,140,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,20,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,287,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,512,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,20,42,51}
+QuestValues = {(27,1),(28,1),(30,1),(32,1),(33,1),(34,1),(96,1),(97,1),(98,1),(99,1),(115,1),(153,1),(190,1),(191,1),(192,1),(210,1),(226,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3082 RemainingUses=50},
+               3 Content={2854 Content={3081 RemainingUses=4, 3504, 3504, 3172 Charges=2, 3180 Charges=2, 2874, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3446 Amount=31, 3456, 3003, 2874, 3190 Charges=1}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3048 RemainingUses=15},
+               10 Content={3446 Amount=83}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={2868 Content={3031 Amount=85, 3031 Amount=45, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={2867 Content={3572, 3031 Amount=21, 2867 Content={3200 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3723 Amount=80, 2969 KeyNumber=4009, 3723 Amount=98, 3723 Amount=100, 3723 Amount=100, 3003, 2865 Content={3191 Charges=2, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5}, 2920 SavedExpireTime=580, 2920, 3723 Amount=100}, 3504 Content={2970 KeyNumber=3142, 3026 Amount=3, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3188 Charges=2, 3188 Charges=3, 3180 Charges=4, 3172 Charges=3, 3148 Charges=3, 3148 Charges=3, 3172 Charges=3}, 3723 Amount=100, 3723 Amount=100, 3598 Amount=24}, 3507 String="lord darigan\nvenore\n" Editor="Baal Nightmare"}, 2867 Content={3446 Amount=85, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2872 Content={2992 Amount=8, 3284 RemainingUses=1, 3046 SavedExpireTime=3000, 3383, 3018, 3311, 3046 SavedExpireTime=484, 3046, 3734 Amount=1, 3574, 3046 SavedExpireTime=2999, 3207 Amount=1}, 2872 Content={2869 Content={2868, 2854, 2865, 2854, 2854, 2872, 2865, 2854, 2869, 2868, 2865, 2867, 2869, 2865, 2868}, 2865 Content={2865, 2869, 2869, 2866, 2870, 2854, 2866, 2866, 2869, 2865, 2854, 2865, 2867, 2868, 2865, 2865, 2865, 2854, 2866, 2869}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}}, 3504 Content={2868 Content={2867 Content={3014, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=199, 3085 RemainingUses=200, 3082 RemainingUses=50, 3085 RemainingUses=200, 3085 RemainingUses=200, 3082 RemainingUses=50}, 3449 Amount=34, 3275, 3275, 2831 String="The formulas of Lexis - Energyflow of the time rings\nBook 3\nWritten by Herion\n\n*You see several strange formulas that you dont understand*", 3160 Charges=3}}, 3504 Content={3350, 3350, 2867 Content={2869 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2866 Content={3598 Amount=32, 3583 Amount=90, 3577 Amount=38, 3582 Amount=18, 3582 Amount=100, 2867 Content={3577 Amount=46, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 2868 Content={3606 Amount=98, 3589 Amount=9, 3588 Amount=50, 3585 Amount=100, 3591 Amount=20, 3587 Amount=100, 3586 Amount=22}, 2854 Content={3723 Amount=6, 3589 Amount=57, 3723 Amount=100}, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100, 3602 Amount=82, 3600 Amount=95, 3582 Amount=59}}, 3504 Content={2854 Content={2854 Content={3557, 3557, 3557, 3557, 3357}, 2867 Content={2854 Content={2970 KeyNumber=4601, 2970 KeyNumber=3800, 2969 KeyNumber=4055, 2969 KeyNumber=4023, 2969 KeyNumber=4603, 2968 KeyNumber=3940, 2969 KeyNumber=5000}, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=3650, 2969 KeyNumber=3600, 2972 KeyNumber=3980, 2970 KeyNumber=4503, 2971 KeyNumber=3702, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2972 KeyNumber=3304, 2969 KeyNumber=5010, 2969 KeyNumber=3620, 2970 KeyNumber=3142, 2969 KeyNumber=5010}, 2854 Content={3560, 2974, 3346, 3403, 3002, 3404, 3574, 3574, 3574, 3574, 3070}, 2469 Content={3734 Amount=1, 3432, 2830 String="The magic web - Maps - Book 1\nWritten by Cartikus\n\n*You can see several maps of Tibia with red lines and golden points on it*", 3210, 3039, 3576, 2957, 3210}}}, 3504 Content={2871 Content={3403, 3350, 3350, 3349, 3457, 3447 Amount=100}}, 3504 Content={2867 Content={2830 String="*You see a collection of maps in this big book. Some have strange red lines on them. \nYou can read the words\n\"known parts of the magic web in red and known gates in gold\" \nat the bottow of those pages*", 2848, 3155 Charges=2, 3160 Charges=3, 2830 String="The world of Tibia\nWritten by Unaris, adventurer of the warlocks\n\nThese maps of our world Tibia could help us to understand how the magic web of Tibia was made by the Gods.\n\n*In the following pages, you can see many maps with parts of Tibia*\n\n\n", 2822 String="*You see a map of our world Tibia*", 2823 String="*You see a map of the surface of the Fields of Glory. There are many red lines and two golden points on it. You wonder what their meaning is.*", 3068, 3075, 3074, 3070, 3069, 3018, 3405, 3074, 3068, 3070, 2868 Content={3070, 3441, 3589 Amount=10, 2848, 3429, 2839 String="LALO TE AMO MUCHO\nNO LO OLVIDES\nATTE: TU VIEJA (LA MAS CHIDA)", 3404, 2848, 3441, 3574, 3574, 3070, 3318, 3574, 3070, 3070, 2822 String="*You see a map of our world Tibia*", 2823 String="*You see a map of the surface of the Fields of Glory. There are many red lines and two golden points on it. You wonder what their meaning is.*", 2842 String="Lalo te amo muchisimo \n4 ever\n\natte: Claudia ( tu vieja)", 3060}}}, 3502 Content={3031 Amount=4, 2865 Content={3053, 3052 SavedExpireTime=505, 3098, 3093 SavedExpireTime=1228, 3049 SavedExpireTime=24, 3051}, 2854 Content={3450 Amount=100, 3042 Amount=100, 3035 Amount=22, 3042 Amount=25, 3589 Amount=100, 3035 Amount=100, 3035 Amount=100, 3031 Amount=42, 3028 Amount=33, 3324, 3279, 3589 Amount=100, 3035 Amount=100, 3450 Amount=55, 3557, 3377, 2867 Content={3053, 2867 Content={3093, 3093, 3093, 3093, 3093, 3093, 3093}, 2869 Content={3092}, 2868 Content={3097, 3097, 3097, 3097, 3097, 3097}, 2865, 2854 Content={3050, 3050 SavedExpireTime=1789, 3050, 3050}}, 3322}}}}

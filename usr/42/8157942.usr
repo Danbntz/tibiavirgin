@@ -1,0 +1,60 @@
+ID              = 8157942
+Name            = "Dark Draikon"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,76-95-95-76)
+CurrentOutfit   = (134,76-95-95-76)
+LastLogin       = 1148239513
+LastLogout      = 1148240587
+StartPosition   = [32732,31634,7]
+CurrentPosition = [33252,32835,9]
+PlayerkillerEnd = 0
+
+Skill = (0,51,0,1,0,0,0,0,0,0,1,2069281,0,2087600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,398542,3000,582400,1600)
+Skill = (2,765,830,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,120,120,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1545,1545,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,71,0,10,0,0,0,0,0,0,0,341600,1100,367422,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (10,73,0,10,0,0,0,0,0,0,0,211454,1100,222395,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,173,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8067,1100,8851,20)
+Skill = (14,0,1200,0,0,0,867,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(46,1),(50,1),(55,1),(60,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(119,1),(121,1),(124,1),(129,1),(130,1),(131,1),(132,1),(133,1),(134,1),(135,1),(136,1),(137,1),(138,1),(139,1),(140,1),(141,1),(151,1),(152,1),(153,1),(154,1),(156,1),(157,1),(158,1),(190,1),(191,1),(192,1),(200,1),(201,1),(202,1),(208,1),(213,1),(214,1),(215,1),(217,3),(226,1),(253,1),(257,1),(292,1),(300,1),(305,1),(324,1),(325,4),(326,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={3358, 3031 Amount=67, 3582 Amount=3, 3147, 3293, 2865 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               5 Content={3432},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2854 Content={3578 Amount=10, 3457, 3003, 3017, 3723 Amount=3}}}
+
+Depots      = {0 Content={3354, 3031 Amount=4, 3031 Amount=100, 3280, 2854 Content={2853, 2920}, 3502 Content={2865 Content={3504 Content={3457}, 2865 Content={3286, 3147}, 3457}, 3457}}, 
+               1 Content={3502}, 
+               2 Content={2853 Content={2853 Content={2853}, 2853 Content={2853 Content={3349, 3349, 3349}}, 3003}, 2853, 3504 Content={3507 String="Dark Draikon\nKazordoon" Editor="Dark Draikon"}, 3502}, 
+               3 Content={2949, 2842, 2656, 2659, 3207 Amount=1, 2955, 2667, 2842 Editor="Elizenda Vall", 2647, 2952, 2647, 2659, 2647, 2659, 2667, 2667, 2659, 3502 Content={3031 Amount=100, 2853 Content={3031 Amount=40, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=65}}, 
+               4 Content={3502 Content={3350, 2866 Content={3350, 3350, 3446 Amount=22, 3349, 3425, 2854}}}, 
+               5 Content={3410, 3266, 3504 Content={3507 String="Dark Draikon\nDarashia\n" Editor="Topstick"}, 2853 Content={3035 Amount=14, 3031 Amount=99, 3031 Amount=100}, 3425, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 3507 String="Dark Draikon\ndarashia" Editor="Dark Draikon"}, 3502}, 
+               6 Content={3502 Content={2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it."}}, 
+               7 Content={3504 Content={3507 String="Dark Draikon\nAnkrahmun" Editor="Wrafty"}, 3483, 3502}, 
+               8 Content={3084 RemainingUses=250, 2853 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3446 Amount=17, 3354}, 3349, 3350, 3350, 3587 Amount=73, 3446 Amount=70, 3349, 3349, 3446 Amount=100, 3349, 3349, 3502 Content={3586 Amount=8, 3589 Amount=2}}}

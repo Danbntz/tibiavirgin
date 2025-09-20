@@ -1,0 +1,53 @@
+ID              = 9936627
+Name            = "Bulabu Kakito"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,0-114-77-114)
+CurrentOutfit   = (129,0-114-77-114)
+LastLogin       = 1147555058
+LastLogout      = 1147555151
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32342,32201,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,35248,0,37800,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,61908,1100,64871,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12517,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,34,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4971,2000,6350,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,4948,2000,6350,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,66,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1624,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,10,15,16}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(58,1),(60,1),(61,1),(106,1),(107,1),(109,1),(128,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3277 Amount=2, 3507 String="janek bandyta\nthais" Editor="Tuharoyss Cronatorus", 2853 Content={3135, 3506 String="Tovo teras\nthais\n\nCongratulations You Won one Surprise Of Christhmas (Golden armor,Royal Helmet,Boots Of haste) You are Select Among more persons Add this Mesenger\nTibia_administrador@hotmail.com\n(Lenguage: Spanisñ and English)" Editor="Royal Snakex"}}},
+               4 Content={3357},
+               5 Content={3074},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2853}}
+
+Depots      = {0 Content={3031 Amount=100, 3283, 3282, 2473 Content={3425, 3031 Amount=30}, 3285, 3031 Amount=6, 3085 RemainingUses=199, 3052 SavedExpireTime=1193, 3286, 2893, 3430, 3507 String="bulabu kakito\nthais", 3412, 3504, 3502 Content={3453, 3452, 3471, 3466, 2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 3455, 3509, 2816, 2905, 2917 SavedExpireTime=2998}}, 
+               1 Content={3504 Content={3507 String="Sabrina San \nThais\n", 3582 Amount=1, 3492 Amount=20}, 2973 KeyNumber=3520, 3372, 3492 Amount=50, 2868 Content={3031 Amount=2, 3035 Amount=19, 3031 Amount=100}, 2955, 3097 SavedExpireTime=0, 3375, 3502 Content={}}}

@@ -1,0 +1,57 @@
+ID              = 10827992
+Name            = "Sellia"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,18-0-114-0)
+CurrentOutfit   = (142,18-0-114-0)
+LastLogin       = 1141993668
+LastLogout      = 1141993680
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32736,31994,9]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,398851,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,136900,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,8,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,93499,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,59,0,10,0,0,0,0,0,0,0,55848,1100,58195,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,189,1100,232,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,106,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,309,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,23,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(18,1),(32,1),(33,1),(34,1),(37,1),(59,1),(69,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(153,1),(190,1),(191,1),(208,1),(217,3),(253,1),(254,1),(269,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2871 Content={3031 Amount=1, 3091 SavedExpireTime=45, 3311, 3372, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2914 SavedExpireTime=1445, 3457, 3492 Amount=56, 3483, 3003}},
+               4 Content={3377},
+               5 Content={3297},
+               7 Content={3557},
+               10 Content={3031 Amount=15}}
+
+Depots      = {0 Content={3502 Content={3430}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={3377}}, 
+               4 Content={3045 RemainingUses=200, 2974, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3083 RemainingUses=150, 3008, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=177, 3008, 3084 RemainingUses=250, 3012, 3008, 3083 RemainingUses=150, 3082 RemainingUses=50, 3572, 3658, 3093, 3658, 3051, 3017, 3017, 3004, 3004, 3207 Amount=1, 3658, 3049, 3658, 3092, 2644, 2667, 3449 Amount=1, 3287 Amount=2, 2644, 2667, 2667, 2644, 3449 Amount=1, 3287 Amount=2, 2867, 2667, 3416, 3053 SavedExpireTime=137, 2644, 3287 Amount=5, 2977, 2667, 3297, 3658, 2991, 2644, 2644, 3658, 3297, 2991, 2667, 3287 Amount=5, 2977, 3449 Amount=1, 3449 Amount=1, 2644, 3428, 3284 RemainingUses=1, 3049 SavedExpireTime=18, 2667, 3449 Amount=1, 3287 Amount=2, 2644, 2667, 2667, 2644, 3449 Amount=1, 3287 Amount=2, 3449 Amount=1, 2854 Content={2854, 2854, 2854, 2854, 2854, 2867, 2854, 2868, 2854, 2854, 2854, 2854, 2869, 2854}, 2469 Content={3277 Amount=29, 3003}, 3673, 3449 Amount=1, 3097, 3505 String="1L. SwordR: Wapens.  5R. StealthR: Food.\n2L. PowerR: Armors.  6R. AxeR: deco.\n3L. EnerR: Arrows.     7R. EnR: Cash,Rune\n4L. LifeR: Shovels.     8R. ClubR: Amulets\n\nLeft Box: Keys.         Right Box: Boxxes.\n             Under Right Box: Bp's\n\nje bent de aller liefste.....\n;( ga je weg sniff....sniff...sniff...\nik heb je ff je griffin shield en blood herb en yellow gem gestolen ;)\ndan weet je het\n", 2948, 3483, 2854 Content={2854, 2906, 3503, 3457}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=1, 3483, 3483, 3483, 3483, 2911 SavedExpireTime=2955, 2917 SavedExpireTime=2948, 3658, 3052 SavedExpireTime=9, 3350, 3349, 3350, 3277 Amount=93, 3350, 3298 Amount=1, 1781 Amount=3, 3658, 3051, 3367, 3411, 2854, 3425, 3384, 3410, 3354, 3354, 3372, 3384, 3658, 3050, 3271, 3289, 3305, 2854 Content={3354, 3425, 3552, 3316, 3377, 3362, 3276, 3289, 3276, 3300}, 3316, 3316, 3310, 3322, 2854 Content={2854 Content={3003}}, 3658, 3091 SavedExpireTime=297, 3449 Amount=1, 2469 Content={2969 KeyNumber=5010, 2968 KeyNumber=3940, 2969 KeyNumber=3004, 2969 KeyNumber=3008, 2969 KeyNumber=3005, 2969 KeyNumber=3007, 2969 KeyNumber=3003, 2969 KeyNumber=3001, 2969 KeyNumber=3008, 2969 KeyNumber=3002}, 3673, 3449 Amount=1, 3093 SavedExpireTime=114, 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1720 gold\nfor your house \"Cormaya 4\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="sellia\nedron"}, 3504, 3502 Content={2874, 3492 Amount=6, 3307, 3483, 3456}}, 
+               5 Content={3504 Content={3507 String="sellia\ndarashia"}, 3504 Content={2854 Content={}, 3507 String="sellia\ndarashia"}, 2854 Content={}, 3504 Content={3327, 3327, 3330, 3330, 3330, 3330, 3507 String="sellia\ndarashia"}, 3504 Content={2853 Content={3327, 3327, 3327, 3327, 3327, 3330, 3330, 2853 Content={2853 Content={3330, 3330, 3330, 3330, 3330, 3330, 3330, 2853 Content={3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330}}, 3330, 3330, 3330, 3330, 3330, 3330, 3330}}, 3507 String="sellia\ndarashia"}, 3502 Content={3377, 3377, 3377, 3377, 2853 Content={2853 Content={3377, 3377, 2853 Content={2853 Content={2853 Content={3377, 2853 Content={2853 Content={}}}}, 3377}}}, 2868 Content={2867 Content={}}, 3483, 3327, 3327, 3504 Content={3507 String="sellia\ndarashia"}, 3483, 3054 RemainingUses=152, 2853 Content={}, 3551}}, 
+               6 Content={3504 Content={3008, 3207 Amount=3, 3012, 3097 SavedExpireTime=0, 3507 String="Sellia\nVenore"}, 3504 Content={3507 String="sellia\nvenore", 3447 Amount=8}, 3504 Content={3507 String="sellia\nvenore"}, 3502 Content={3353, 3012, 2867 Content={}, 3503 Content={}, 2868 Content={}, 3291, 3367, 3410, 2853 Content={3279, 3410, 3372, 3372, 2969 KeyNumber=4055, 2969 KeyNumber=5010, 2968 KeyNumber=3940, 2969 KeyNumber=3003}, 2853 Content={}, 3446 Amount=42, 2857 Content={}, 3012, 3492 Amount=100, 2853 Content={}, 2874 ContainerLiquidType=0, 3291, 3483, 3492 Amount=98, 3447 Amount=9, 3307}}, 
+               7 Content={3504 Content={3354, 2853 Content={3276, 2853 Content={2853 Content={3367, 3276, 3354, 3276, 2853 Content={2853 Content={3411, 3367, 3411, 3411, 2853 Content={2853 Content={3276, 3276, 3354, 3354, 2853 Content={3276, 3367, 3367, 2853 Content={3492 Amount=1, 3276, 3276}}, 3354}, 3411, 3411, 3367, 3377, 3354, 3411}, 3354, 3276}, 3276, 3367, 3354, 3411, 3367, 3276}, 3411, 3411}, 3354, 3276, 3354, 3354, 3367, 3377}, 3354, 3411, 3411, 3354}, 3507 String="sellia\nankrahmun"}, 3504 Content={3507 String="sellia\nankrahmun\n"}, 3504 Content={3507 String="Sellia\nAnkrahmun"}, 3504 Content={3507 String="Sellia\nAnkrahmun"}, 3502 Content={4081 RemainingExpireTime=728, 3059 String="", 3299, 3299, 3367, 2854 Content={}, 3447 Amount=9, 3327, 3504 Content={}, 3308, 2854 Content={3003, 3483, 3483, 3147, 3147, 3147, 3147}, 2828 String="Rahmen Tah and the Vizier, Part I\nIn the second year of the reign of pharaoh Rahmen Tah there was a vizier who was said to consort with demons and to tamper with the powers of oblivion. He lived in a majestic tower that stood on a little island close the harbour. It was a marvel to behold, made of black glass and gold, and everybody who looked at it was filled with an eerie sense of foreboding. The vizier was rumoured to be so powerful that no one dared to bring him to justice. Even Rahmen Tah himself feared the power of his vizier, and he did not dare to send troops against the vizier. Finally he called for his chief astrologer and mathematician, the wise Athem, and asked him for advice. Athem listened quietly to the words of his pharaoh. After he had finished Athem ask his pharaoh for some time to think everything over. Reluctantly the pharaoh agreed.", 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind."}}}

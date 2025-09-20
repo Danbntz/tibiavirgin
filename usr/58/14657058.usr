@@ -1,0 +1,53 @@
+ID              = 14657058
+Name            = "Arroth Leondrion"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (140,0-107-113-0)
+CurrentOutfit   = (140,0-107-113-0)
+LastLogin       = 1148258644
+LastLogout      = 1148259610
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33304,32290,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14257,0,17600,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,3198,1100,3360,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4793,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1888,1800,2063,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,624,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(21,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3457, 3577 Amount=3, 3582 Amount=5}},
+               4 Content={3377},
+               5 Content={3066},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               5 Content={2828 String="... were sealed with powerful magic. Only those were allowed to pass who sacrificed one of the peculiar coins that in ancient times were paid by those who came to visit their beloved dead. For this was the way of the Ritual of Sealing. Behind the seal, the mighty traitors were trapped forever. Such was their hatred and their lust for revenge that the very walls and stones became imbued with them and the lower tombs turned into places of utter doom, places where no mortal should venture to go. And to this day one of the traitors lurks in each of these tombs, surrounded by vicious traps and by powerful minions that serve both to protect them and to hold them captive. Woe to the fools who dare challenge the traitors in their prisons! For torturing and killing intruders is the only amusement that is left to these tortured souls.", 2828 String="Rahmen Tah and the Vizier, Part II\nAfter a week had passed the mathematician returned. His advice was this: The pharaoh should order a huge celebration to be held, and all pyramids should be adorned with flowers and flags. The pharaoh who trusted in the wisdom of his advisor ordered his people to prepare for the celebration. While the people did as their pharaoh had ordered them to do Athem began to build a huge wooden machine on top of the royal pyramid. No one took much notice of it because of the preparations that were going on. On the fourth day when the celebration was scheduled to start the pharaoh sent an invitation to his vizier and asked him to join in their festivity. As Athem had foreseen the vizier declined because he suspected that there was a trap. Instead he sat in the observatory at the top of his tower and watched the city because he wanted to find out what the pharaoh was up to. Too late did he understand that the construct on top of the pyramid was in fact an enormous catapult. Suddenly a huge boulder was hurled in his direction. The shot had been perfectly calculated, and it hit its mark with amazing precision. The top of the dark tower shattered and the evil vizier was crushed underneath tons of basalt. His death caused the dark magic to disappear, and the tower sank into the ocean forever.", 3031 Amount=95, 2828 String="Rahmen Tah and the Vizier, Part I\nIn the second year of the reign of pharaoh Rahmen Tah there was a vizier who was said to consort with demons and to tamper with the powers of oblivion. He lived in a majestic tower that stood on a little island close the harbour. It was a marvel to behold, made of black glass and gold, and everybody who looked at it was filled with an eerie sense of foreboding. The vizier was rumoured to be so powerful that no one dared to bring him to justice. Even Rahmen Tah himself feared the power of his vizier, and he did not dare to send troops against the vizier. Finally he called for his chief astrologer and mathematician, the wise Athem, and asked him for advice. Athem listened quietly to the words of his pharaoh. After he had finished Athem ask his pharaoh for some time to think everything over. Reluctantly the pharaoh agreed.", 3031 Amount=100, 3035 Amount=6, 3502 Content={3031 Amount=14, 3056 RemainingUses=200, 3050, 3050, 3050, 3050, 3277 Amount=3, 3577 Amount=5, 2922 SavedExpireTime=133}}}

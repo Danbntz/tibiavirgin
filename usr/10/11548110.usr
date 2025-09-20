@@ -1,0 +1,62 @@
+ID              = 11548110
+Name            = "Luiz sainz"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,76-0-0-0)
+CurrentOutfit   = (134,76-0-0-0)
+LastLogin       = 1148258774
+LastLogout      = 1148258806
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32919,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,848593,0,917800,100)
+Skill = (1,47,0,0,0,0,0,0,0,0,0,1508409,1100,1536275,1600)
+Skill = (2,284,340,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,659,965,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,780,780,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,61070,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,29,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,20737,1800,22252,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,166,1800,302,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,444,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,99,1100,122,20)
+Skill = (14,0,1200,0,0,0,874,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,113,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,6,8,9,10,16,18,29,39,42,44,76,81,82,84,87,88,89,91}
+QuestValues = {(1,3),(2,6),(41,1),(42,1),(43,1),(44,1),(55,1),(96,1),(97,1),(98,1),(109,1),(115,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(211,4),(213,1),(217,3),(253,1),(333,1)}
+Murders     = {1147093067,1147094142,1147587217,1147735323}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2867 Content={3582 Amount=4, 3031 Amount=22, 3035 Amount=9, 3160 Charges=1, 3160 Charges=1, 3147, 2869 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871, 3003, 3457, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4}}},
+               4 Content={3567},
+               5 Content={3070},
+               6 Content={3428},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2866}}
+
+Depots      = {0 Content={3504 Content={3507 String="luiz sainz\nthais" Editor="Makilador el rey"}, 3350, 3504 Content={3507 String="luiz sainz\nthais" Editor="Luiz sainz"}, 2866 Content={2854 Content={2815}, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3548 Amount=1, 3350, 3308, 3097, 3059, 3483, 3492 Amount=90, 3492 Amount=100, 3547 Amount=1, 3349, 3349, 3502}, 
+               1 Content={3504 Content={3507 String="luiz sainz\ncarlin" Editor="Luiz sainz", 3577 Amount=11, 3577 Amount=100, 3577 Amount=100}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3446 Amount=6, 3446 Amount=100, 3147, 2853 Content={3425, 3425, 3447 Amount=12, 3349, 3275, 3275}, 2389, 3093, 3093, 3093, 2853 Content={2853}, 3502 Content={3504 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}, 
+               5 Content={3097 SavedExpireTime=3596, 3054 RemainingUses=20, 3502}, 
+               6 Content={3285, 3504 Content={3308, 3350, 3507 String="luiz sainz\nvenore" Editor="Shadow Sainz"}, 2842, 2842, 3059, 2969 KeyNumber=5000, 3502 Content={3308}}, 
+               7 Content={3504 Content={3507 String="luiz sainz\nankrahmun" Editor="Wachimorri la vaca copiona"}, 3504 Content={3577 Amount=51, 3507 String="Ephraim or zanera\nAnkrahmun" Editor="Helen Of Troya"}, 3504 Content={3507 String="luiz sainz\nankrahmun" Editor="Acko Bokiz"}, 2970 KeyNumber=3801, 2853 Content={3409}, 3042 Amount=4, 3504 Content={3507 String="Luiz sainz\nAnkrahmun"}, 3502}, 
+               8 Content={3504 Content={3507 String="Luiz Sainz\nport hope" Editor="Blood revolver"}, 3504 Content={3507 String="luiz sainz\nport hope\n" Editor="Rick-Lord"}, 3577 Amount=26, 3502}}

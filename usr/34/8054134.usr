@@ -1,0 +1,57 @@
+ID              = 8054134
+Name            = "Asoud Aida"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,94-0-94-0)
+CurrentOutfit   = (128,94-0-94-0)
+LastLogin       = 1146503183
+LastLogout      = 1146504282
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32596,31959,11]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,135945,0,156200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,37986,3000,64000,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14630,1100,14863,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,73,1400,130,30)
+Skill = (8,46,0,10,0,0,0,0,0,0,0,15810,1100,16501,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,212,1100,232,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,54,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,85,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,130,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(16,1),(18,1),(20,1),(23,1),(27,1),(35,1),(58,1),(59,1),(61,1),(91,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(109,1),(115,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3084 RemainingUses=6},
+               3 Content={2854 Content={3425, 3425, 3003, 3457}},
+               4 Content={3370},
+               5 Content={3415},
+               6 Content={3280},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3008}}
+
+Depots      = {0 Content={3410, 2874, 3502 Content={2874, 3451, 3031 Amount=3, 2874, 3412, 2874, 2874}}, 
+               1 Content={3504 Content={3582 Amount=11, 3507 String="Asoud Aida\nCarlin\n" Editor="Asoud Aida"}, 2853 Content={3277 Amount=13, 3008, 2874, 2874, 3308}, 2854 Content={3070, 3012, 3349, 2989, 3017, 3350, 3362, 3446 Amount=13, 3448 Amount=2, 3447 Amount=100, 3552, 3447 Amount=73, 3456, 2853 Content={3378, 3559, 3492 Amount=25, 3207 Amount=1, 3375, 3003}, 2969 KeyNumber=4600, 2815 String="Mission Imposible :\n\n(*) 50 Spears = 25 Attack \n(*) 100 Small Stones = 10 Attack \n \n\nGood Price for it ..." Editor="Asoud Soul", 3003, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n"}, 3504 Content={3504 Content={3447 Amount=23, 1781 Amount=2, 3504 Content={3507 String="asoud aida\nVenore" Editor="Liwindala Shuminos", 2869 Content={3504 Content={3457, 3456, 3492 Amount=97, 3457, 3003}, 3483, 3483, 3483, 3457, 3457, 3456, 3003, 3003, 3003, 3483, 3003, 3003}, 3492 Amount=100, 2867 Content={3374, 3552, 3362, 3008, 3504 Content={3661, 2981, 3658, 2885}, 2853 Content={2920 SavedExpireTime=560, 2920 SavedExpireTime=228, 2920, 2920, 2920}, 3300, 3270, 3291, 3300, 3447 Amount=9}, 2857 Content={3378, 3375, 3375, 3374}, 3003}, 3504 Content={3507 String="asoud aida\nvenore" Editor="Lhair Aleatur", 2867 Content={3447 Amount=30, 3074, 2853 Content={3457}, 2920, 3552, 3375, 3054 RemainingUses=164, 3362}}, 3507 String="asoud soul\nvenore\n" Editor="Asoud Aida"}, 3504 Content={3507 String="asoud soul\nvenore\n" Editor="Asoud Aida"}, 3599 Amount=23, 3507 String="Asoud Aida\nCarlin" Editor="Asoud Soul"}, 3559, 3308, 3300, 3374, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3492 Amount=53, 3446 Amount=26, 3349, 3502 Content={3003, 3457, 3457}}, 
+               2 Content={3502 Content={3031 Amount=8, 3723 Amount=1, 2853 Content={3059, 3358}, 1781 Amount=1, 3375, 3492 Amount=3, 3031 Amount=55, 3031 Amount=100}}, 
+               3 Content={3504 Content={3507 String="Asoud Aida\nAb'dendriel" Editor="Asoud Aida"}, 3003, 3506 String="Anime Capuu\nVenore\n\nHAuishuiahsh manu matei + 1 hj lol\nDruida lvl 12 lol    \"Chanoc Teton\" \nto fikanu matador veiu lol eh noissss\n\nSi cuida veiu té +\n", 2853 Content={3457}, 3502}, 
+               6 Content={2867 Content={2867 Content={2906, 3374, 3430}, 2868, 3457, 3003, 2854 Content={3031 Amount=98, 3375, 3147, 3147, 3147, 3492 Amount=23, 3147, 3003, 3457}, 3578 Amount=9, 3008}, 2853 Content={3308}, 3504 Content={3031 Amount=74, 3031 Amount=100, 3031 Amount=100, 2854 Content={3367, 2867 Content={3354, 3354, 3483}, 3367, 3367}, 3035 Amount=62}, 2854 Content={2659, 2650, 2867 Content={3017, 2867 Content={2989, 2853 Content={2647, 3377, 2816 String="I've managed to imprison two cyclops in my secret dungeon under the lighthouse. I forced them to create some magic equipment. Soon I will be the mightiest warrior in Tibia.", 2911 SavedExpireTime=2998, 2911 SavedExpireTime=1681, 3147, 3147, 3147}, 3207 Amount=4, 2867 Content={3597 Amount=3, 3578 Amount=1, 3593, 3577 Amount=4, 3738 Amount=12, 3588 Amount=54, 3595 Amount=7, 2650, 3463, 3004, 2650, 1781 Amount=1}, 3552, 3375, 3056 RemainingUses=199, 3285, 3050 SavedExpireTime=1423, 3362, 3085 RemainingUses=200}, 4871, 3092, 3077, 3059, 3003, 3457}, 2854 Content={3003, 3457, 3003, 3003, 3003, 2867 Content={3046 SavedExpireTime=2997, 3457, 3285, 3457, 3098 SavedExpireTime=446, 3092 SavedExpireTime=1777, 3092, 3084 RemainingUses=225, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3077, 2969 KeyNumber=5010, 3045 RemainingUses=200}, 2853 Content={1781 Amount=1}}, 2854}, 3502 Content={3316, 3377, 3301, 3377, 3457, 3483, 3147, 3147, 3147, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3277 Amount=10, 3160 Charges=1, 3492 Amount=100, 3447 Amount=58, 3448 Amount=6}}}

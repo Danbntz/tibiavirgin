@@ -1,0 +1,58 @@
+ID              = 8317160
+Name            = "Carol Wojtyla"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,19-113-95-114)
+CurrentOutfit   = (134,19-113-95-114)
+LastLogin       = 1143951955
+LastLogout      = 1143952030
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,67344,0,69700,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,79360,1400,111701,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,6,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12963,1100,13420,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,13325,1100,14635,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,149,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,22,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,823,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,56,0,10,0,0,0,0,0,0,0,17350,1100,17439,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,29,42,51,76,79}
+QuestValues = {(20,1),(21,1),(23,1),(29,1),(30,1),(58,1),(59,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3012},
+               3 Content={2870 Content={3003}},
+               5 Content={3447 Amount=15},
+               6 Content={3277 Amount=7},
+               8 Content={3552},
+               10 Content={3276}}
+
+Depots      = {0 Content={3457, 3003, 3457, 3504 Content={3504 Content={3287 Amount=1}, 3507 String="Carol Wojtyla\nThais"}, 2865 Content={2866, 2868}, 3059, 3003, 3502}, 
+               1 Content={3416, 3372, 3504 Content={3507 String="Carol Wojtyla\ncarlin"}, 3504 Content={3507 String="Carol Wojtyla\nCarlin", 3559, 3552}, 3277 Amount=2, 2874 ContainerLiquidType=0, 2973 KeyNumber=3520, 3507 String="Fety !! Bromas xD xD xD\n", 3054 RemainingUses=35, 3456, 3509, 3507 String="Fety t  felicidades espero que te la pases muy bien en este dia me caes PKM  ", 3277 Amount=18, 3502 Content={3578 Amount=36, 3578 Amount=100}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3506 String="carol wojtyla\nab'dendriel\nWitaj \nTu Tibia Polska\nZostales wybrany przez nasza maszyne losujaca.Z okazji rocznicy Tibia Polska wybieramy z karzdego swiata piatke graczy kturym przyznajemy premium account za darmo\njestesi w tej piatce wysilij swuj numer passwrd dane i nick hipka  \nA my aktywujemy na twoim koncie premium account za darmo do 3 dni \n                                GRATULACJE!!!!!!!", 3308, 3502 Content={}}, 
+               4 Content={3277 Amount=6, 3504 Content={3507 String="Carol Wojtyla\nedron"}, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={2874 ContainerLiquidType=0, 3283, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

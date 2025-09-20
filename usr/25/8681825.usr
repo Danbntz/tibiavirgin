@@ -1,0 +1,54 @@
+ID              = 8681825
+Name            = "Maruck Flam"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-0-114-114)
+CurrentOutfit   = (129,114-0-114-114)
+LastLogin       = 1142803984
+LastLogout      = 1142804497
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32218,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,113677,0,116000,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,117120,1400,157982,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,30906,1100,33003,100)
+Skill = (7,56,0,10,0,0,0,0,0,0,0,24946,1100,26159,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,192,1200,268,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,463,1200,496,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,19,1200,50,50)
+Skill = (11,23,0,10,0,0,0,0,0,0,0,2763,1200,2959,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,376,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,10,29,49,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(37,1),(59,1),(60,1),(106,1),(107,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3031 Amount=1, 3582 Amount=3}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={3447 Amount=50}}
+
+Depots      = {0 Content={3502 Content={3059, 2868, 3059, 2854 Content={2854, 2854 Content={3147, 3147, 3147, 3147, 3147, 3578 Amount=10, 3003, 3457}, 2854 Content={3600 Amount=50, 3592, 3595 Amount=7, 3593, 3582 Amount=36, 3577 Amount=100, 3577 Amount=100, 3597 Amount=2}, 2868 Content={2867, 2866, 2854, 2854, 2854, 2854, 2866, 2866, 2869, 2865, 2869, 2865, 2868, 2868, 2870}, 2854, 2854, 2854, 2854 Content={3483}, 2854 Content={2870 Content={2911 SavedExpireTime=586, 2911}, 2981, 2981, 2981, 2981, 2981, 2981}, 2854 Content={3504 Content={3507 String="zoi strike\nthais"}, 3503 Content={3507 String="sidius nonhart\nthais"}, 3504, 3504 Content={3507 String="bennu\nthais"}, 3504, 3504 Content={3507 String="Pam'bonita\nThais"}, 3504 Content={2853, 2853}, 3504 Content={3507 String="Oberin\nThais"}, 3504, 3504 Content={3507 String="grafifty\nthais"}, 3504, 3504 Content={3507 String="cenndyman\nthais"}, 3504 Content={3507 String="Davon Zeth\nThais"}, 3504 Content={2969 KeyNumber=4600, 3507 String="odolwa\nthais"}}, 2854 Content={2955, 2955, 2469, 2854, 3003, 3456, 3059, 3308, 3453, 2920, 3003, 3453, 2920}}, 2866 Content={3287 Amount=2, 3449 Amount=25, 3449 Amount=100, 3448 Amount=25, 1781 Amount=9}, 2869 Content={2853}, 2865 Content={3289, 3289, 3483, 3483, 3483, 3483, 3483, 3453, 3003, 3456, 3430}, 2854 Content={3504 Content={3349, 3446 Amount=66, 3425, 3277 Amount=3, 3504 Content={3507 String="quik pirokaman\nthais" Editor="Quik Pirokaman"}, 3504 Content={3507 String="quik pirokaman\nthais" Editor="Quik Pirokaman"}, 3504 Content={3507 String="quik pirokaman\nthais" Editor="Quik Pirokaman"}, 3504 Content={3507 String="sir locito\nthais" Editor="Aidi Quinrif"}, 3504 Content={3507 String="Rusus Knight\nThais" Editor="Maus Rago"}, 3504 Content={3507 String="Tchai the rasta overlord\nthais\n" Editor="Tchai The Rasta Overlord"}}, 3421, 3583 Amount=1, 3003, 3457, 2853 Content={3592, 3592, 3585 Amount=14, 3597 Amount=2}, 3469, 2955}}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={3447 Amount=40, 3277 Amount=6, 3447 Amount=100, 3577 Amount=29, 3456}}, 
+               6 Content={3502 Content={3447 Amount=100, 3350, 3577 Amount=3}}}

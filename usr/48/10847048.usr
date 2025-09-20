@@ -1,0 +1,52 @@
+ID              = 10847048
+Name            = "Zacahuil los domingos"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,91-114-114-92)
+CurrentOutfit   = (137,91-114-114-92)
+LastLogin       = 1147287629
+LastLogout      = 1147287635
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32340,31783,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38408,0,47000,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,68020,1100,72958,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6626,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,46,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,6102,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,598,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,69,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,16,17,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(60,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3031 Amount=67, 3583 Amount=1, 3198 Charges=3, 3198 Charges=2, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3191 Charges=1, 3191 Charges=2, 3192 Charges=2, 3191 Charges=1, 3192 Charges=2, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3192 Charges=1, 3198 Charges=5, 3191 Charges=2, 3191 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {1 Content={3093 SavedExpireTime=303, 2853 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3192 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2857 Content={3308, 3457, 3177 Charges=1}, 3035 Amount=38, 3502 Content={2867 Content={3074, 3279, 3425, 3007, 2867 Content={3557, 3059, 3004, 3357, 3092, 3425, 3285, 3051, 3051, 2903, 2903, 3732 Amount=1, 3450 Amount=1, 3449 Amount=5, 3029 Amount=2, 2842}, 3306, 3313, 3317, 3557}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={2854 Content={2868, 2868, 2870, 2868, 2868, 2854, 2869, 2865, 2870, 2867, 2867, 2867 Content={2868}, 2854, 2867, 2854, 2868, 2866}}, 2853 Content={3492 Amount=7, 3583 Amount=69, 3483, 3492 Amount=100}}}, 
+               3 Content={3502}}

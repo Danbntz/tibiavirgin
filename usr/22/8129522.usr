@@ -1,0 +1,61 @@
+ID              = 8129522
+Name            = "Lady-Elsa"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,95-132-114-132)
+CurrentOutfit   = (134,95-132-114-132)
+LastLogin       = 1147117595
+LastLogout      = 1147117611
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31684,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,770809,0,780700,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,265079,3000,582400,1600)
+Skill = (2,620,620,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,29,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1195,1195,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,93893,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,11,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,69013,1100,70521,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,108,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,707,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81,93}
+QuestValues = {(1,4),(2,6),(14,1),(15,1),(16,1),(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(36,1),(37,1),(38,1),(41,1),(42,1),(43,1),(44,1),(46,1),(49,1),(55,1),(58,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(82,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(138,1),(139,1),(140,1),(141,1),(151,1),(152,1),(153,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(213,1),(214,1),(217,3),(222,1),(224,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3290, 3003, 3723 Amount=80, 3505 String="Lady-Elsa hunting her !!\n\nno pass !! \n\n\nty\n\n;)" Editor="Lady-Elsa", 3457}},
+               4 Content={3567},
+               5 Content={3416},
+               6 Content={3295},
+               7 Content={3382},
+               8 Content={3556},
+               10 Content={2869 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}
+
+Depots      = {0 Content={2924 SavedExpireTime=205, 3504 Content={3507 String="lady-elsa\nthais" Editor="Lady-Elsa", 2854 Content={2854, 2854}, 2854 Content={2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}}}, 2968 KeyNumber=3940, 3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3031 Amount=74, 2853 Content={2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377}, 2853 Content={3425, 3305, 3305, 3305}, 2853 Content={3349, 3425, 3276, 3276, 3276, 3425}, 2853 Content={3413, 3413, 3413, 3413, 3413, 3413}, 2853 Content={3275}, 2853 Content={3351, 3351}}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="Lady-Elsa\nkazordoon" Editor="Lady-Elsa"}, 3502}, 
+               3 Content={2870 Content={2867 Content={2869 Content={2969 KeyNumber=3033, 3282, 1781 Amount=20}}, 2854 Content={2969 KeyNumber=3033, 2868, 2969 KeyNumber=5010}}, 2854 Content={2872 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3350, 3350, 3350, 3085 RemainingUses=200, 3350, 2969 KeyNumber=3008, 2969 KeyNumber=3004, 3054 RemainingUses=200, 3045 RemainingUses=141, 3054 RemainingUses=181}, 2872 Content={3177 Charges=1, 3304, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3207 Amount=1}, 3033 Amount=1, 3207 Amount=14}, 2866 Content={2957, 3078, 3291, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3077, 3563}, 2865 Content={2872 Content={2872, 2872, 2872, 2872, 2872, 2872}, 2872 Content={2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872}, 2868 Content={2868 Content={2868 Content={2868, 2868, 2868, 2868, 2868}}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865}}, 2865 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2856 Content={3077}}, 2865 Content={2865, 2868, 2866, 2854, 2868, 2868, 2854, 2865, 2869, 2868, 2870, 2865, 2854}, 2870 Content={2865, 2865, 2865}}, 2854 Content={2469 Content={2853 Content={3505 String="Lady-Elsa\nhunting her !!\n\ndon't pass..\n\nif u goin to Quest..\nmsg me first !!\n\n", 3505 String="hunting her !!\n\ndon't pass..\n\nif u goin to Quest..\nmsg me first !!\n\nty ", 3505 String="Lady-Elsa \nhunting her !!\n\ndon't pass..\n\nif u goin to Quest..\nmsg me first !!\n\n", 3505 String="Lady-Elsa\nhunting her !!\n\ndon't pass..\n\nif u goin to Quest..\nmsg me first !!\n\n"}, 3505 String="Joel:\n\nGracias por tu amista jijij esperemos y seamos amiguitos yps. ke nos llevemos.. bien.. ok =*** \n\nportate bien... jejej y espero verte seguid por aki \n\nbesitos tu hermanita\n\nAri  =*", 3505 String="oie no importa puedes usarala el tiempo k kieras no pasa nada usala el tiempo k kieras\n ia te dije \n\n\n\n", 3506 String="lady-elsa\nab'dendriel\n\nPor medio de la presente se le hace una invitación a la unión ante dios de estos dos seresamados: Ishyru y Zakura style, la cual se realizara en senja el martes de esta semana a las 4pm hora venezuela y 3pm hora mexico\n\nEsperamos con tu asistencia , no nos falles\n\n", 3505 String="te vine a dejar una rosita manito\n\nTe cuidas te kiero tu manita arianza.. te traje una sillita jijiji \n\nbesitos bye\n\n=****  Ariz :)\n", 3505 String="jejeje :p  ty por la ayuda de kerer matar jijiji (6) creo ke nos vamos a llevar muy bien jiji\n\ncuidate manita y manito besos tu hermanita \n\nAri =**"}, 2871 Content={3415, 3284 RemainingUses=1, 3308, 3318, 3351, 2867 Content={3373, 3421, 3384, 3384, 3384, 3044 Amount=3, 3287 Amount=22}, 2906, 3377, 3322, 3323, 3369, 3384, 3403, 3574, 3351, 3384, 3210}, 2871 Content={2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867, 2854 Content={3448 Amount=12}}, 2469 Content={2871 Content={3350}, 2865}, 2865 Content={2650, 2656, 2644, 2653, 2653, 2653, 2653, 2656}}, 3502 Content={2472 Content={3350}, 2472, 2472, 2472, 2480 Content={2857, 2857 Content={3492 Amount=100, 3492 Amount=39, 3492 Amount=100}, 2857 Content={2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9}}, 2869}}, 
+               4 Content={2865 Content={3483}, 3502 Content={}}, 
+               5 Content={3502}, 
+               6 Content={2854 Content={2854, 2867, 2854, 2854, 2854, 2854, 2854}, 2969 KeyNumber=5000, 3207 Amount=1, 3504 Content={3507 String="lady-elsa \nvenore"}, 3565, 3502 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 
+               7 Content={3504 Content={3035 Amount=5, 3507 String="lady-elsa\nankrahmun"}, 3502 Content={}}, 
+               8 Content={3502 Content={}}}

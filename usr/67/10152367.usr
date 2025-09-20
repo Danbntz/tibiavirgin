@@ -1,0 +1,54 @@
+ID              = 10152367
+Name            = "Dementor de Adess"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,76-0-113-132)
+CurrentOutfit   = (129,76-0-113-132)
+LastLogin       = 1148252527
+LastLogout      = 1148257702
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32334,31784,8]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,95635,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,59000,3000,64000,1600)
+Skill = (2,255,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,83,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,29777,1100,29912,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,22,1400,30,30)
+Skill = (8,40,0,10,0,0,0,0,0,0,0,8951,1100,9097,50)
+Skill = (9,51,0,10,0,0,0,0,0,0,0,24892,1100,26881,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,168,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,367,1100,370,20)
+Skill = (14,0,1200,0,0,0,419,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(35,1),(60,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3008},
+               3 Content={2854 Content={3367, 3367}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="dementor de adess\nthais"}, 2969 KeyNumber=4603, 3502 Content={3375}}, 
+               1 Content={2871 Content={2870}, 3425, 2870 Content={2865 Content={3586 Amount=1, 3027 Amount=2, 3026 Amount=1, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3198 Charges=3, 3198 Charges=2, 3174 Charges=4}}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2854 Content={2868, 2854, 2854, 2854, 2854}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3050 SavedExpireTime=1797, 3092 SavedExpireTime=1795, 3056 RemainingUses=200, 3459, 3457, 2868 Content={2854 Content={2854}}}, 2854 Content={2868 Content={3083 RemainingUses=150, 2985, 3077, 3046, 3454, 3084 RemainingUses=250, 2901}}, 2469 Content={3606 Amount=1, 2955, 3658}, 2469 Content={2868 Content={2874, 2874, 2874, 3349, 3114 Amount=1, 3446 Amount=99, 3188 Charges=1}, 2854 Content={3358, 3357, 3380, 3370, 3069, 3075, 3270, 3409, 3425, 3425, 3412, 3466}}, 2469 Content={3031 Amount=53}, 3502 Content={3736 Amount=1, 3316, 2955, 2893, 2881, 3736 Amount=1, 3740 Amount=1, 3457}}, 
+               3 Content={2656, 2914 SavedExpireTime=1195, 3265, 3504 Content={3507 String="Dementor de Adess\nAb'Dendriel" Editor="Dementor de Adess"}, 3552, 3492 Amount=7, 3503, 3308, 2911 SavedExpireTime=1400, 3661, 2853, 3502 Content={3267, 2906, 2992 Amount=1, 3459, 3483, 2955, 3349, 2973 KeyNumber=3520, 3291, 2973 KeyNumber=3520}}}

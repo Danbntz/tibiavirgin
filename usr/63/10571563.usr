@@ -1,0 +1,56 @@
+ID              = 10571563
+Name            = "Jorge Zaurino"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,92-114-114-92)
+CurrentOutfit   = (129,92-114-114-92)
+LastLogin       = 1145069196
+LastLogout      = 1145069201
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32672,32069,8]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,108154,0,116000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,81029,1400,111701,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,15,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6690,1100,7140,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,13327,1100,14635,30)
+Skill = (8,24,0,10,0,0,0,0,0,0,0,3188,1200,3601,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,41,1200,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,72,1200,109,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,162,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,42,51,76,79,81}
+QuestValues = {(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(59,1),(86,1),(87,1),(96,1),(97,1),(98,1),(153,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2853 Content={3457, 3031 Amount=80}},
+               4 Content={3378},
+               5 Content={3412},
+               6 Content={3272},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3367, 3304, 3050, 3576, 2957}}, 
+               1 Content={3504 Content={3507 String="Jorge Zaurino\nCarlin" Editor="Zaurina"}, 3504 Content={3507 String="Jorge Zaurino\nCarlin"}, 3502}, 
+               3 Content={3454, 3308, 3286, 2469 Content={2865 Content={2857, 2865 Content={2865, 2865 Content={2968 KeyNumber=3940, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 2865 Content={3084 RemainingUses=250, 3077, 3077, 3050 SavedExpireTime=1595, 3093 SavedExpireTime=1537, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 3077, 3056 RemainingUses=200, 3077}, 2865, 2865, 2865, 2865}, 2857 Content={2857, 2857}}, 2869 Content={2869}, 2868 Content={2868, 2868}, 2867 Content={2867 Content={3266, 3266}, 2867, 2867, 2867, 2867}}, 2853 Content={2853 Content={2853}, 2853}, 2853, 3589 Amount=2, 3430, 2659, 2394, 3050 SavedExpireTime=1797, 3336, 3349, 3349, 3367, 2969 KeyNumber=3033, 2653, 2991, 3449 Amount=10, 3097, 2653, 3367, 3286, 2653, 2393, 2650, 2393, 3003, 3492 Amount=16, 2469 Content={2866 Content={3658, 2393}, 2872 Content={2864}, 2870, 2854 Content={2854, 2854, 2854 Content={3350}}}, 2659, 3076, 2647, 3734 Amount=1, 3274, 2853 Content={2853 Content={3286, 3286, 3286}, 3367}, 3351, 3736 Amount=1, 3042 Amount=6, 2968 KeyNumber=3940, 2653, 3046 SavedExpireTime=3000, 3504 Content={3507 String="Jorge Zaurino\nAb'dendriel"}, 3504 Content={2869 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 3349}}, 3507 String="Jorge Zaurino\nAb'dendriel"}, 3504 Content={2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Mangrove 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3430, 3457, 3457}, 3504 Content={3277 Amount=58, 3507 String="Jorge Zaurino\nAb'dendriel"}, 3504 Content={3507 String="jorge Zaurino\nab'dendriel"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3305, 3305}, 3377, 3377, 3377, 3377, 3377, 3377}}}, 3507 String="Jorge Zaurino\nAb'dendriel"}, 2853, 3507 String="Jorge Zaurino\nAb'dendriel"}, 3502 Content={3035 Amount=20, 3505 String="wey\nun pinche pk de mierda mi izo gastar uhs we \n\nse llama elpredicador we diske t hunteo pero esta solo we despues lo matamos we ok \n", 3003, 3505 String="wey\nun pinche pk de mierda mi izo gastar uhs we \n\nse llama elpredicador we diske t hunteo pero esta solo we despues lo matamos we ok ", 3003, 2854 Content={3349, 3349, 3349, 3349, 3349, 2853 Content={3492 Amount=17, 3447 Amount=29, 3305, 3305, 3425, 3301}}, 3430}}, 
+               4 Content={3552, 2853 Content={3412, 3054 RemainingUses=200, 3054 RemainingUses=200}, 3502 Content={3300, 3054 RemainingUses=186, 3430}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={3327}}}

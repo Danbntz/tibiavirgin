@@ -1,0 +1,59 @@
+ID              = 8841186
+Name            = "Yasca"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (140,78-42-3-116)
+CurrentOutfit   = (140,78-42-3-116)
+LastLogin       = 1148163433
+LastLogout      = 1148163994
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32634,32747,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,382823,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,143960,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,4,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,101744,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,17,1400,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,775,1100,796,50)
+Skill = (9,56,0,10,0,0,0,0,0,0,0,43418,1100,43598,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,262,1100,305,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,283,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2553,1100,2684,20)
+Skill = (14,0,1200,0,0,0,877,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,31,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(37,1),(54,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(224,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3008},
+               3 Content={2870 Content={3160 Charges=1, 2868 Content={3198 Charges=1, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3160 Charges=1, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3357},
+               5 Content={3324},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920}}
+
+Depots      = {0 Content={3504 Content={3507 String="Yasca\nThais\n" Editor="Yasca"}, 3504, 3502}, 
+               1 Content={3502 Content={3035 Amount=2}}, 
+               2 Content={3375, 3375, 3502 Content={}}, 
+               3 Content={3502}, 
+               5 Content={3502 Content={3031 Amount=64, 2874}}, 
+               6 Content={3504 Content={3507 String="yasca \nvenore" Editor="Yasca", 3035 Amount=70}, 3504 Content={3507 String="yasca\nvenore" Editor="Yasca"}, 3502 Content={3506 String="Yasca\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH."}}, 
+               8 Content={2853, 3577 Amount=75, 2867 Content={2854 Content={3410, 3354, 3059, 2867 Content={3290, 3506 String="Warning!\n\nThe monthly rent of 1370 gold\nfor your house \"Theater Avenue 8b\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3456, 3492 Amount=64, 3483, 3050, 3736 Amount=1, 3454, 3091 SavedExpireTime=53, 3548 Amount=4, 3736 Amount=1, 3593, 2399, 2400, 3349, 3349}, 3504 Content={2906, 3003, 2868 Content={3587 Amount=3, 3273, 3273, 3273, 3358, 3358}, 2864 Content={3377, 2874, 2874, 2874, 3294, 2874}}}, 2853 Content={3492 Amount=35, 3059, 2955, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2874, 2853 Content={3030 Amount=1, 3097, 3505 String="oi nara, como estais? estudando? pois é, um bjo pra vc, cuidado aki no tibia! e vamo dar o gás pra estudar né? beijos!\n\n\n\nHenrique\nZiegler...", 3012, 3457, 3003, 3003}, 2853 Content={2874}, 2868 Content={2874, 2853 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3593, 2393, 2977, 2856 Content={2977, 3736 Amount=1, 3736 Amount=1, 3655, 3587 Amount=3}, 3594, 3336, 3352, 2393, 2393, 2401, 2398, 3083 RemainingUses=150, 2874, 2856, 3050 SavedExpireTime=1783, 3003, 3457}, 2866 Content={3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273, 3273}, 2857 Content={3411, 3313, 3286, 3294, 3294, 3286, 3352, 3352}, 2853 Content={3358, 3358, 3264, 3264, 3264, 3358, 3358, 3358}, 2853 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2865 Content={2920, 2920 SavedExpireTime=597, 2920, 2920, 2920 SavedExpireTime=162, 2920 SavedExpireTime=553, 2920, 2920, 2874, 3294}, 2853 Content={2973 KeyNumber=3520, 2970 KeyNumber=4503, 3077, 2874 ContainerLiquidType=3, 3293}, 2858 Content={2853 Content={2920, 2920, 2920, 2920, 2920, 2920}, 2853 Content={2920 SavedExpireTime=110, 2920, 2920, 2920 SavedExpireTime=225, 2920}, 2853 Content={2920, 2920, 2920, 2920 SavedExpireTime=28, 2920, 2920, 2920, 2920}, 2853 Content={3046 SavedExpireTime=2820, 2911 SavedExpireTime=2970, 2911 SavedExpireTime=485, 2920}}, 2853 Content={3003, 3003}, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 2906, 3092, 3097 SavedExpireTime=1531, 3056 RemainingUses=200, 3008}, 2853 Content={3505, 3505, 3505, 3505, 3505, 3505, 3505}}, 4295, 3556, 3556, 3578 Amount=99, 3582 Amount=62, 2856 Content={2853 Content={3504 Content={3267, 3607, 2920, 3607, 3607, 3607, 2874, 2874, 3607}, 3504 Content={2853 Content={2920, 2920, 2920, 2920, 2922 SavedExpireTime=139, 2920, 2920, 2920}}, 3577 Amount=100, 3582 Amount=100, 3577 Amount=100, 3577 Amount=100}, 2853 Content={3492 Amount=23, 2920 SavedExpireTime=575, 2920, 2874, 3598 Amount=2, 2920, 2920, 2920}}, 2868 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3502 Content={3031 Amount=16, 3031 Amount=100, 3286, 3457, 3264, 3426, 3286, 3286, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}

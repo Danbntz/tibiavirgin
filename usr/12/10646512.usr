@@ -1,0 +1,55 @@
+ID              = 10646512
+Name            = "Kyryn Alar"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,82-79-87-0)
+CurrentOutfit   = (128,82-79-87-0)
+LastLogin       = 1147867704
+LastLogout      = 1147870024
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32226,8]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,142003,0,156200,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,169384,1100,174690,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,315,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16680,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2372,2000,3150,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,761,2000,1550,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,576,2000,750,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,242,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1518,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,64,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,15,16,19,20,25,27,29,38,44}
+QuestValues = {(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(37,1),(55,1),(58,1),(69,1),(71,1),(106,1),(107,1),(109,1),(128,1),(140,1),(141,1),(144,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2867 Content={2870 Content={3045 RemainingUses=200, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}},
+               4 Content={3380},
+               5 Content={3416},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {0 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2992 Amount=3, 2469 Content={3031 Amount=35, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=15}, 2469 Content={3483, 3492 Amount=75, 3483, 3492 Amount=100, 3483}, 2469 Content={3459, 2854 Content={3283, 2854 Content={3270}, 3506 String="Kyryn Alar\nThais\nWe are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador"}, 2854 Content={3448 Amount=4, 3447 Amount=29}, 3098, 2857 Content={3572, 3298 Amount=1, 3084 RemainingUses=250, 3008, 3085 RemainingUses=200, 3083 RemainingUses=124, 3077, 3084 RemainingUses=250}, 3287 Amount=9, 2969 KeyNumber=4600, 3093 SavedExpireTime=1789, 2856 Content={3046, 3446 Amount=19, 2906, 1781 Amount=3, 2991}}, 2854 Content={2854 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 2869 Content={2854 Content={2854}, 2868 Content={3198 Charges=5}, 2867 Content={3384, 3432, 3415, 3384, 3565}, 2854 Content={2659, 2656, 3565, 3316}, 2854 Content={3071, 3074, 3073, 3074}, 2868 Content={3601 Amount=4, 3607, 3723 Amount=6, 3577 Amount=10, 3582 Amount=35, 3592, 3588 Amount=100, 3593, 3585 Amount=1}}, 2866 Content={2872 Content={3188 Charges=3, 2854 Content={2854, 2854, 2854 Content={2854}, 2854, 2854}, 3177 Charges=1}, 2854 Content={2854 Content={3188 Charges=3, 3188 Charges=2, 3188 Charges=3}, 2854 Content={3164 Charges=3, 3164 Charges=3}, 2854 Content={2835 String="Este es donde se dejan los mensajesç\ncomo no se pueden cambiar los mensajes dejas encima etikes con buestros mensajes i nombres Gracias\n\n\n\n\nEchicero oscuro" Editor="Echicero Oscuro", 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}}, 3502 Content={2854 Content={3483}, 2854 Content={3457, 3457, 3456, 3457, 3481, 3456, 3457, 3457, 3456, 3457, 3003, 3456, 3003, 3003, 3003, 2873}, 2854 Content={3377, 3012, 3446 Amount=1, 3275, 3313, 3275, 3301}, 2854 Content={3453, 3277 Amount=4, 2856, 2901, 2906}, 2854 Content={3349, 3446 Amount=65, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3350, 3349}, 2854 Content={3425, 3425, 3421, 3421}, 3503 Content={2854, 3503, 3507, 3507}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}}

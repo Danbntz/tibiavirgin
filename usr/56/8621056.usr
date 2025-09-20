@@ -1,0 +1,60 @@
+ID              = 8621056
+Name            = "Balink"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,132-114-114-21)
+CurrentOutfit   = (129,132-114-114-21)
+LastLogin       = 1148234001
+LastLogout      = 1148235479
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32701,31932,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,891160,0,917800,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,657668,1400,867181,1600)
+Skill = (2,381,495,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,147,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1090,1090,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,25147,1100,27102,100)
+Skill = (7,70,0,10,0,0,0,0,0,0,0,94842,1100,100178,30)
+Skill = (8,33,0,10,0,0,0,0,0,0,0,16780,1200,19624,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,198,1200,268,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,228,1200,268,50)
+Skill = (11,25,0,10,0,0,0,0,0,0,0,3723,1200,4372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3171,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,86,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,15,20,29,30,42,44,45,48,49,51,76,78,79,81}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(46,1),(62,2),(63,1),(64,1),(67,1),(68,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(99,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(134,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3),(221,1),(225,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2865 Content={3031 Amount=38, 3409, 3017, 3031 Amount=100, 3003, 3413, 3031 Amount=100, 3031 Amount=100, 3446 Amount=34, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3370},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3504 Content={3507 String="balink\nthais" Editor="Balink"}, 3504 Content={3504 Content={3504 Content={3507 String="balink\nthais\n"}, 3504 Content={3507 String="balink\nthais\n"}, 3504 Content={3507 String="balink\nthais\n"}, 3504 Content={3507 String="balink\nthais\n" Editor="Balink"}, 3504 Content={3507 String="Balink\nThais" Editor="Mela Tyron"}, 3507 String="Balink\nThais" Editor="Relikus pyrone"}, 3504 Content={3507 String="Balink\nThais\n" Editor="Dark yeka"}, 3504 Content={3507 String="balink\nthais" Editor="Balink"}, 3507 String="balink\nthais" Editor="Balink"}, 3502}, 
+               1 Content={3504 Content={3507 String="balink\ncarlin" Editor="Elhuapilla"}, 3504 Content={3277 Amount=6, 3425, 2853, 3507 String="balink\ncarlin\n"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3425, 3425, 2469, 3447 Amount=3, 3308, 2854 Content={3384, 3384, 3425, 3425, 3425, 3425, 3425, 3275, 3266, 3483, 3266, 3266, 3305, 2854 Content={3282, 3282, 3282, 3282, 3282, 3282, 3282, 3282, 3282, 3282, 3282}}, 2472 Content={3097, 3098, 3097, 3052, 3049 SavedExpireTime=133, 3085 RemainingUses=200, 2853 Content={2853 Content={3097 SavedExpireTime=3240, 3028 Amount=2, 3658, 3659, 3572, 3045 RemainingUses=200}, 3077, 3033 Amount=1, 3045 RemainingUses=200, 3092, 3083 RemainingUses=150, 3083 RemainingUses=150, 3008}, 3026 Amount=1, 3027 Amount=1, 3083 RemainingUses=150, 3045 RemainingUses=200, 3085 RemainingUses=188, 3017, 3085 RemainingUses=177, 3082 RemainingUses=50}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="balink\nab'dendriel" Editor="Gamut pretender"}, 2853 Content={2853}, 3504 Content={3507 String="balink\nab'dendriel" Editor="Balink"}, 3504 Content={3507 String="balink\nab'dendriel" Editor="Balink"}, 3504 Content={3507 String="balink\nab'dendriel" Editor="Balink"}, 3507 String="balink\nab'dendriel" Editor="Balink"}, 3504 Content={2853 Content={3285}, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 3507 String="Balink\nAb'dendriel" Editor="Stan Marcht"}, 3504 Content={3504 Content={2853 Content={2853}, 3507 String="balink\nab'dendriel" Editor="Balink"}, 3507 String="balink\nab'dendriel" Editor="Balink"}, 3507 String="balink\nab'dendriel" Editor="Balink"}, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 3483, 3504 Content={3507 String="balink\nab'dendriel" Editor="Balink"}, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 3504 Content={2970 KeyNumber=3800, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="balink\nab'dendriel" Editor="Balink"}, 3465, 3470}, 2473 Content={3457, 2914 SavedExpireTime=1997, 3492 Amount=53, 2970 KeyNumber=4502, 3283, 3290, 3293, 3267}, 3502 Content={2867 Content={2865}, 2870 Content={3456, 2865, 2870, 2870, 2854 Content={2865}, 2870 Content={2870}, 2870 Content={2870}, 2870 Content={2870}, 2870, 2870 Content={2870}, 2870, 2870}, 2865 Content={2857 Content={3035 Amount=70, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 2857 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3077, 3084 RemainingUses=250, 3046}, 3177 Charges=1}, 2991, 2991, 3598 Amount=59, 3046 SavedExpireTime=2998, 3046, 3046 SavedExpireTime=2637}, 2854 Content={3447 Amount=46, 2854 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3266, 3354, 3265, 3354, 3410, 3286, 3413}, 3350, 1781 Amount=78, 3350, 3448 Amount=70, 3449 Amount=63, 3287 Amount=1, 3350, 3298 Amount=7, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2865 Content={2871 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2867}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}}, 2868 Content={3059, 3074, 3066, 3066, 3066, 3070, 3046, 3074, 3465 ContainerLiquidType=6, 3046 SavedExpireTime=2829, 3046 SavedExpireTime=3000, 3046, 3046, 3076, 3735 Amount=1, 3658, 2989, 2917 SavedExpireTime=2991, 3077, 2914 SavedExpireTime=511}, 2469 Content={3324, 3425, 3075, 3065, 3065, 3560, 3347}, 3059}}, 
+               4 Content={3504 Content={3507 String="Balink\nEdron" Editor="Sir Philos"}, 3504 Content={3507 String="balink\nedron" Editor="Elhuapilla"}, 3502}, 
+               5 Content={3504 Content={3507 String="balink\ndarashia\n" Editor="Elhuapilla"}, 3502}, 
+               6 Content={2880 ContainerLiquidType=3, 2969 KeyNumber=3033, 3502 Content={2868}}, 
+               7 Content={3504 Content={3507 String="Balink\nAnkrahmun" Editor="Sir Philos"}, 3504 Content={3507 String="balink\nankrahmun" Editor="Elhuapilla"}, 3504 Content={3507 String="balink\nankrahmun\n" Editor="Balink"}, 3504 Content={3507 String="balink\nankrahmun\n" Editor="Vanfanirili"}, 3504 Content={3507 String="balink\nankrahmun\n" Editor="Vanfanirili"}, 3504 Content={3507 String="balink\nankrahmun" Editor="Navin Verbear"}, 3504 Content={3507 String="balink\nankrahmun\n" Editor="Elhuapilla"}, 3502}, 
+               8 Content={3502}}

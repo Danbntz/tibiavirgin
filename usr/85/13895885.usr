@@ -1,0 +1,55 @@
+ID              = 13895885
+Name            = "Maksiu Strong"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-107-126-114)
+CurrentOutfit   = (128,114-107-126-114)
+LastLogin       = 1148241469
+LastLogout      = 1148243601
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,300953,0,330400,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,238505,1100,263190,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,595,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,39446,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,47,2000,90,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3389,2000,6350,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,207,2000,350,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,135,2000,150,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,1714,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,15,16,19,20,22,25,27,29,38,44}
+QuestValues = {(17,1),(18,1),(35,1),(54,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(190,1),(191,1),(192,1),(223,1),(224,1),(333,1)}
+Murders     = {1146058954}
+
+Inventory   = {1 Content={3351},
+               2 Content={3045 RemainingUses=1},
+               3 Content={2854 Content={3074, 2853 Content={3370, 3035 Amount=10, 3035 Amount=100, 3035 Amount=100}, 3031 Amount=17, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10}, 3457, 3003, 3308}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3502 Content={3291, 2854, 2853 Content={2853}, 3504 Content={3507 String="Maksiu Strong\nThais" Editor="Adicek"}, 3504 Content={3507 String="Maksiu Strong\nThais" Editor="Maksiu Strong"}}}, 
+               1 Content={3502}, 
+               6 Content={3504 Content={3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="Maksiu Strong\nVenore" Editor="Maksiu Strong"}, 3507 String="Maksiu Strong\nVenore" Editor="Adicek"}, 3502 Content={3557, 3054 RemainingUses=200, 2865 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854 Content={3449 Amount=3, 3446 Amount=15, 3447 Amount=10, 3446 Amount=100, 1781 Amount=2, 3277 Amount=3}, 2469 Content={2902, 3059, 3059, 3483, 3563}, 2854 Content={3483, 2854 Content={3738 Amount=1, 3471, 2659, 2667, 2653, 2656}, 3308, 3457, 3456, 3308}, 2867 Content={2876, 3046 SavedExpireTime=2991, 3046 SavedExpireTime=2995, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3152 Charges=1, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3059, 2853, 2854 Content={3188 Charges=2, 3188 Charges=1, 3188 Charges=2}, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2853}, 2854 Content={3265, 3275, 3283, 3377, 3377, 3377, 3349, 3353, 3558, 3275, 3299, 3354, 3375, 3289, 3354, 3425, 3283, 3357, 3357}, 2469 Content={3578 Amount=14, 3582 Amount=2, 3031 Amount=95, 3072, 2857 Content={3004, 3084 RemainingUses=250, 3098, 2969 KeyNumber=4055, 3046}, 2853 Content={2969 KeyNumber=3600, 2969 KeyNumber=4600, 3017, 2853 Content={3093, 3004, 2876, 2969 KeyNumber=3033, 2970 KeyNumber=4503, 2969 KeyNumber=4600}, 3017, 3017, 3017, 3017}}, 2867 Content={3083 RemainingUses=150, 3056 RemainingUses=175, 3054 RemainingUses=197, 3077, 3084 RemainingUses=250, 3054 RemainingUses=200, 3054 RemainingUses=200, 2853 Content={3008, 3008, 3008, 3008, 3012, 3012, 3012, 3012}, 3084 RemainingUses=98, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2867 Content={3595 Amount=59, 3585 Amount=44, 3590 Amount=28, 3578 Amount=44, 3600 Amount=10, 3582 Amount=66, 3588 Amount=100, 3602 Amount=5, 3598 Amount=1, 3601 Amount=8, 3583 Amount=4, 3725 Amount=1, 3588 Amount=13}}}}

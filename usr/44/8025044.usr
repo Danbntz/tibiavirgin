@@ -1,0 +1,54 @@
+ID              = 8025044
+Name            = "Psyduck"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (131,0-0-91-114)
+CurrentOutfit   = (131,0-0-91-114)
+LastLogin       = 1147563903
+LastLogout      = 1147565119
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33130,32837,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,35394,0,37800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,46706,1400,55031,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8401,1100,8849,100)
+Skill = (7,49,0,10,0,0,0,0,0,0,0,13026,1100,13277,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,20,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,182,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,212,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4690,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,30,51,76}
+QuestValues = {(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(37,1),(55,1),(84,1),(85,1),(86,1),(87,1),(100,1),(140,1),(141,1),(224,1),(278,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=45}}
+
+Depots      = {0 Content={3035 Amount=90, 3446 Amount=36, 2853 Content={3354, 3354, 3354, 2853 Content={3410}, 2853, 3352}, 3277 Amount=3, 3374, 3457, 3504 Content={3507 String="Psyduck\nThais"}, 3502 Content={2853, 3083 RemainingUses=150, 3054 RemainingUses=200, 3153 Charges=1}}, 
+               1 Content={3031 Amount=5, 3377, 3411, 3377, 3504 Content={3507 String="Psyduck\nCarlin"}, 3447 Amount=69, 3447 Amount=100, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               4 Content={2816 String="The mystic portal remains unstable so reinforcements from Mintwallin seldom arrive here. \nThe royal mage managed to impress the primitive local orcs though and we can use them as slaves and runefodder. The trolls surrendered immediately and can be used for lesser services.\nThe human base has to be destroyed since more and more arrive there. These enemies are not strong but their number might cause some problems. As long as they will be revived at this mystic vortex even they can ruin our plans. We have to figure out how to destroy the vortex first. The mage locked himself up in his quarters and wants not to be disturbed anymore. He entrusted me with the duty to coordinate all our actions here.", 3283, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               7 Content={3031 Amount=10, 3035 Amount=80, 3043 Amount=1, 3031 Amount=100, 3279, 3430, 2869 Content={2853, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3083 RemainingUses=127, 3147, 3277 Amount=10, 3504 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3447 Amount=14, 2870 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3483, 3031 Amount=69}, 3507 String="psyduck\nAnkrahmun"}, 3483, 3504 Content={3507 String="psyduck\nAnkrahmun", 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3031 Amount=80, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3447 Amount=76, 3447 Amount=100}, 2871 Content={3504 Content={2865 Content={3299, 3299, 3299, 3050, 3046, 3046, 3046, 3046, 3046, 3277 Amount=3, 2853 Content={3286, 3354, 3354, 2853 Content={3286, 3286, 3354, 3354, 3354, 3354, 3367, 2853 Content={3286, 3367, 3367, 3367, 3354, 3367, 3354, 2853 Content={3367, 3367, 3354, 3367, 3354, 3286, 3354, 3286}}}}, 3045 RemainingUses=200, 2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!", 3147, 3147}, 2866 Content={3147, 3147, 3147, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3483, 3457, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2854 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3447 Amount=99, 3504 Content={2853 Content={3457, 3054 RemainingUses=119, 3448 Amount=5, 3083 RemainingUses=150}, 3507 String="Rapidashh\nAnkrahmun"}, 3504 Content={3003, 3483, 3317}, 3504 Content={3277 Amount=8, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3507 String="Rapidashh\nAnkrahmun"}, 3504 Content={3441, 3457, 3425, 3507 String="Rapidashh\nAnkrahmun"}, 3504 Content={3012, 3483, 3507 String="Rapidashh\nAnkrahmun"}, 3313, 3042 Amount=1}, 3507 String="Psyduck\nAnkrahmun"}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3032 Amount=1, 3017, 3042 Amount=1, 3017, 3045 RemainingUses=200, 3046, 2969 KeyNumber=3600, 3017, 3046, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3504 Content={3280, 2869 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3507 String="Psyduck\nAnkrahmun"}}}}

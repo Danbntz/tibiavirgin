@@ -1,0 +1,56 @@
+ID              = 11127973
+Name            = "Cid zto"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-49-114-76)
+CurrentOutfit   = (129,114-49-114-76)
+LastLogin       = 1148250168
+LastLogout      = 1148250376
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32341,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,16558,0,17600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,15275,3000,20800,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,50,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,545,545,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,37823,1100,40144,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,73,1100,105,50)
+Skill = (9,49,0,10,0,0,0,0,0,0,0,20854,1100,22129,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,912,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(107,1),(125,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2854},
+               4 Content={3377},
+               5 Content={3322},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={3072, 2473, 2870 Content={3305, 3279, 3297, 2854 Content={3358, 3362, 3286, 3349, 3354, 3354, 3367, 3367, 3367, 3285, 3367, 3367, 3285, 3285, 3354, 3354, 3285, 3367, 3286, 3286}, 2854 Content={3558, 3384, 3383, 3384, 3557, 3351, 3357, 3551, 3413, 3421, 3289, 3282, 3304, 2992 Amount=10, 3074, 3046, 3353, 3066}, 2854 Content={3066, 3269, 3293, 3421, 3425, 3282, 3046, 3074}, 3327, 3453, 3316, 3275, 3293, 3269, 3271, 3338, 3307, 3283, 3291, 3285, 3283, 3299}, 2854 Content={3577 Amount=22, 3582 Amount=3, 3732 Amount=1, 3599 Amount=8, 3600 Amount=5, 3597 Amount=1, 3602 Amount=21, 3587 Amount=6, 3723 Amount=2, 3588 Amount=57, 3585 Amount=16, 3592, 3601 Amount=6, 3606 Amount=11, 3598 Amount=37, 3593, 3578 Amount=11, 3579 Amount=2, 3595 Amount=9, 3590 Amount=9}, 2869 Content={2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2473 Content={2868 Content={3084 RemainingUses=250, 3008, 3050 SavedExpireTime=362, 3056 RemainingUses=200, 3084 RemainingUses=250, 3097, 2970 KeyNumber=4503, 3097, 3045 RemainingUses=200, 3008, 3093, 3054 RemainingUses=200, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 3084 RemainingUses=250, 3097, 3012, 3056 RemainingUses=200, 3050 SavedExpireTime=1713, 3030 Amount=1}, 3097, 3097 SavedExpireTime=2697, 3050, 3050, 3050 SavedExpireTime=1746, 2973 KeyNumber=3520, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 3050}, 3504 Content={2854 Content={2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}}, 3504 Content={3507 String="lord clonux\nab'dendriel" Editor="Eternal Captain"}, 3507 String="Lord Clonux\nthais" Editor="Lord Clonux"}, 3504 Content={2866 Content={2866}, 2473 Content={1781 Amount=6, 3446 Amount=100, 3447 Amount=100, 3446 Amount=89, 3350, 3447 Amount=69, 3448 Amount=63}, 2872 Content={3737 Amount=1, 3674, 3738 Amount=1, 3655, 3740 Amount=1, 3658, 3661, 2864 Content={2857}}, 2868 Content={2868, 2868, 2868, 2868}, 2854 Content={3492 Amount=50, 3483, 3457, 3457, 3003, 3483, 2854 Content={3003, 3059, 3308, 2955, 2955, 2955, 3483, 3483, 3483, 3454}, 3059, 3457, 3003, 3483, 3483, 3059, 3492 Amount=100, 3308, 3012, 3453, 2906, 3483}, 2854 Content={2854 Content={2854 Content={3059, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses."}, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2955, 3114 Amount=3, 2825 String="20 Tricks to Get People's Money\n\n...", 2989, 4871, 2885, 2877, 2875, 2906, 3483, 2955, 2815, 3059, 3457, 2842, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard" Editor="Emperor Nico", 3509}, 2893, 2876, 3455, 3472, 3454, 3452, 2873, 2901, 3451, 3464, 3466, 3471, 3465, 2880, 2881, 3468, 3467, 3469, 3470}, 2865 Content={2865, 2865, 2865}, 2854, 3507 String="lord clonux\nthais" Editor="Tason zanera"}}}, 
+               1 Content={3502 Content={2854 Content={3031 Amount=18, 3031 Amount=100, 3031 Amount=100}, 3054 RemainingUses=139, 3128, 3050 SavedExpireTime=1252, 3457, 3425, 3456, 2853 Content={3282}, 3003, 3492 Amount=30, 3003, 3552}}, 
+               3 Content={3502 Content={3358, 3031 Amount=39, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3430, 3483, 3492 Amount=13, 3374}}, 
+               6 Content={3502}}

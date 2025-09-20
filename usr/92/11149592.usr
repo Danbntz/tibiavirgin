@@ -1,0 +1,52 @@
+ID              = 11149592
+Name            = "Assasin Wolv"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,95-10-125-0)
+CurrentOutfit   = (128,95-10-125-0)
+LastLogin       = 1148146868
+LastLogout      = 1148146950
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,466557,0,499200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,159967,3000,193600,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,11,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,205560,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,68,0,10,0,0,0,0,0,0,0,127730,1100,137900,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,34,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2056,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(106,1),(107,1),(109,1),(125,1),(126,1),(142,1),(190,1),(191,1),(217,3),(253,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2854 Content={3031 Amount=71, 3031 Amount=100, 3003, 3582 Amount=2, 3457}},
+               8 Content={3552},
+               10 Content={2868}}
+
+Depots      = {0 Content={3409, 3504 Content={3507 String="Sir Blackk Djows\nThais" Editor="Sir Blackk Djows"}, 2867 Content={2857 Content={2865}, 3008, 3008, 2853 Content={3152 Charges=1}}, 2854 Content={3367, 3367, 3367, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 3504 Content={3507 String="assasin wolv\nthais\n" Editor="Druid Wolv"}, 3504, 3502 Content={2866 Content={2854 Content={3436, 3280, 3281, 3035 Amount=31, 3035 Amount=100, 3035 Amount=100, 3043 Amount=1}}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={3093, 3093, 3093, 3050}, 2854 Content={3084 RemainingUses=234, 3054 RemainingUses=200, 3084 RemainingUses=250, 3083 RemainingUses=150, 3084 RemainingUses=250, 3056 RemainingUses=199, 3054 RemainingUses=149, 3008, 3084 RemainingUses=71, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=192, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=202, 3084 RemainingUses=250}, 3504 Content={2865 Content={2868 Content={3285, 3317, 2854}, 2872 Content={3313, 3313, 3375, 3375, 3375, 3375, 3349, 3349, 3349, 3349, 3327, 3310}, 2854 Content={3504 Content={3504 Content={3507 String="lord manguxx\nthais" Editor="Assasin Wolv", 3085 RemainingUses=111, 3283, 3552, 2854 Content={2970 KeyNumber=4601, 2854 Content={2865 Content={3456, 3483}, 2865 Content={3308, 3483, 3457, 3299, 2920 SavedExpireTime=409, 2991, 2920, 2920, 2920, 2857 Content={3046, 3077}, 2857 Content={3046, 3077}, 3483, 3492 Amount=30, 3046 SavedExpireTime=2619, 2874}, 2854 Content={3266, 3266}, 2854}, 2472 Content={2472 Content={3604 Amount=1, 3114 Amount=13, 3599 Amount=8}}, 3504 Content={2854, 2854, 3507 String="assasin wolv\nthais" Editor="Assasin Wolv"}, 2854 Content={3147, 3147, 3147}, 3504 Content={3504 Content={3507 String="assasin wolv\nthais" Editor="Assasin Wolv"}, 3504 Content={2853 Content={2853}, 3507 String="assasin wolv\nthais" Editor="Assasin Wolv"}, 3504 Content={3507 String="assasin wolv \nthais " Editor="Lord Manguxx"}, 3504 Content={3507 String="assasin wolv\nthais" Editor="Lord Baltasar"}, 3504 Content={3507 String="assasin wolv\nthais" Editor="Lord Manguxx"}, 3504 Content={3507 String="assasin wolv\nthais\n" Editor="Lord Manguxx"}, 3504 Content={3507 String="assasin wolv\nthais\n" Editor="Lord Manguxx"}, 3507 String="assasin wolv\nthais" Editor="Lord Manguxx"}, 2854 Content={3188 Charges=3, 3188 Charges=1}, 2854, 2854 Content={2853 Content={2875, 2875}, 3457, 3003}}}, 3504 Content={2853 Content={2853}, 3507 String="Lord manguxx\nthais" Editor="Assasin Wolv"}, 3003, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3504 Content={3266, 3266, 3266, 3504 Content={3507 String="lord manguxx\nthais" Editor="Assasin Wolv"}, 3350, 3507 String="Lord Manguxx\nthais" Editor="Evilx Monkeyx"}, 3504 Content={3266, 2874, 3447 Amount=10, 3446 Amount=17, 3507 String="lord manguxx \nthais" Editor="Lady Demon Wolv"}, 2856, 3605 Amount=1, 3457, 2868 Content={2857, 2854 Content={2854 Content={2854 Content={3003, 2854}}}, 2854 Content={2854 Content={2854}}, 2854, 2868}, 2854 Content={3447 Amount=5, 3277 Amount=3, 3285, 3285, 3285}, 3533 Amount=1, 3457}, 2854 Content={3456, 3457, 2854 Content={2854}}, 2854 Content={3483, 3483, 3483, 3483, 2854}, 2865, 2854 Content={2854 Content={2969 KeyNumber=3033, 2868, 3375, 2969 KeyNumber=3033, 3003, 3003, 3457}, 3316, 3316, 3316}}, 3507 String="assasin wolv\nthais" Editor="Lord Manguxx"}}}, 
+               1 Content={3504 Content={3507 String="assasin wolv\ncarlin"}, 3504 Content={3507 String="assasin wolv\ncarlin"}, 3502}, 
+               2 Content={3502 Content={3457}}, 
+               3 Content={3504 Content={3507 String="Assasin Wolv\nab'dendriel" Editor="Spikebot Magician", 3031 Amount=15}, 3582 Amount=11, 3502}, 
+               6 Content={3504 Content={3507 String="assasin wolv\nvenore" Editor="Assasin Wolv"}, 3502}}

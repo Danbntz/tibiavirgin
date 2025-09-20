@@ -1,0 +1,54 @@
+ID              = 13033309
+Name            = "Ratrius Poth"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,78-69-58-76)
+CurrentOutfit   = (128,78-69-58-76)
+LastLogin       = 1148006825
+LastLogout      = 1148007041
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8170,0,9300,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,4846,1100,5296,1600)
+Skill = (2,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2318,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,79,1800,140,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,542,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,26,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,327,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(333,1)}
+Murders     = {1147564680,1147573272}
+
+Inventory   = {1 Content={3353},
+               2 Content={3054 RemainingUses=121},
+               3 Content={2853},
+               4 Content={3358},
+               5 Content={3425},
+               6 Content={3066},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Ratrius Poth\nThais" Editor="Delterius Saint", 3031 Amount=59, 3070}, 3504 Content={3373, 3271, 3052, 3507 String="Ratrius Poth\nThais" Editor="Delterius Saint"}, 3504 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 1781 Amount=28, 3507 String="Ratrius Poth\nThais" Editor="Loki Force"}, 3504 Content={2853 Content={2853 Content={3483, 2853 Content={2970 KeyNumber=3801, 3447 Amount=4, 3507 String="llave de los d-guard arriba de kazz" Editor="Loki Force", 2970 KeyNumber=3800, 3598 Amount=27}, 3310, 3456, 2989, 3463, 3285, 3004}, 2853 Content={2991, 3446 Amount=28, 3349, 3349, 3349, 3305, 3413, 3453}, 3600 Amount=80, 3305, 3305, 3289}, 3507 String="Ratrius Poth\nThais" Editor="Loki Force"}, 3504 Content={2854 Content={2854 Content={3456, 3421}, 2854 Content={2839, 1781 Amount=11, 2854 Content={2853 Content={3083 RemainingUses=150}, 3056 RemainingUses=200, 3056 RemainingUses=200}}, 2859 Content={2857 Content={3052, 3077, 3084 RemainingUses=250}, 2857 Content={3031 Amount=70, 3031 Amount=100, 3031 Amount=100, 3035 Amount=18, 3031 Amount=100, 3035 Amount=100}, 3597 Amount=10}, 3457, 3003, 3552, 2853 Content={2968 KeyNumber=3940, 3507 String="fibula key" Editor="Loki Force"}, 2853 Content={3464, 3046 SavedExpireTime=288, 3074, 3046 SavedExpireTime=1972, 2875, 2905, 3464, 2885 ContainerLiquidType=2}}, 3504 Content={3504 Content={2854 Content={3456, 2853 Content={2920, 2920, 2920, 2920 SavedExpireTime=113, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}}, 3008, 3277 Amount=54, 2853 Content={2973 KeyNumber=3520, 2970 KeyNumber=4503}}}, 3504 Content={3507 String="Loki Force\nThais", 3504 Content={3507 String="Lalo el huno\nKazordoon"}, 2854 Content={3234, 2920, 2870 Content={2955, 3457, 2870 Content={3459, 2857 Content={3046, 3084 RemainingUses=250}, 3083 RemainingUses=150, 3003}, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2854 Content={3059}, 2857, 2854 Content={2854 Content={2865}, 3457, 2969 KeyNumber=5000, 3059}, 3457, 2853 Content={3457, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 3456, 3457}, 2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3552}, 2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3292, 3551, 3307, 3301, 3441}, 2868 Content={2868, 2906, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3801, 2969 KeyNumber=3033, 2853 Content={3207 Amount=1, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 3003}, 2906, 2867 Content={2473 Content={2659}, 3003, 3003}}}, 3504 Content={3504 Content={2854 Content={2854 Content={3362, 2854 Content={3285, 3308, 3316, 3300}, 3285, 2920, 2920, 2920}, 2854 Content={2854 Content={3012}, 2853 Content={3056 RemainingUses=200, 3084 RemainingUses=250, 3083 RemainingUses=150, 3008}, 2969 KeyNumber=3033, 2853 Content={2853}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003}, 2901, 2853 Content={3457, 3457, 3457, 3457, 3457}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3078, 2969 KeyNumber=4600, 3453, 2853 Content={3012, 3293, 2876, 2970 KeyNumber=4601, 2969 KeyNumber=4603, 3463}, 2853 Content={2989, 3056 RemainingUses=200, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 3207 Amount=1}, 3552, 3456}, 3605 Amount=6, 3421, 2867 Content={3308}}, 2854 Content={3287 Amount=4, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3507 String="Lalo el huno\nThais"}, 3507 String="Loki Force \nThais"}, 3504 Content={3446 Amount=9, 3349, 3072, 2866, 3453, 2854 Content={2885, 2885, 2644, 2653, 2644, 2659, 2644, 2644, 2656, 3457, 3283, 3059, 2659, 3483}, 3504 Content={3456, 3270, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3008, 2920, 3736 Amount=1, 2920, 3377, 3447 Amount=10, 3734 Amount=1}, 3504 Content={3307, 3289, 3586 Amount=2, 3507 String="Loki Force\nThais"}, 3504 Content={3350, 3507 String="Loki Force\nThais", 3409, 3283}}, 2868 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 3507 String="Loki Force\nThais" Editor="Loki Force", 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}}, 3507 String="Ratrius Poth\nThais" Editor="Loki Force"}, 3504 Content={3579 Amount=1, 3492 Amount=80, 2853 Content={3059, 3084 RemainingUses=250, 3277 Amount=62, 3075, 3384}, 3492 Amount=100, 3492 Amount=100, 3507 String="Ratrius Poth\nThais" Editor="Loki Force", 3054 RemainingUses=164}, 3502 Content={2854 Content={3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003, 3456, 3003, 1781 Amount=7, 3446 Amount=4, 3311, 3059, 2906, 3277 Amount=7, 2854 Content={3579 Amount=1, 3590 Amount=3, 3593, 3595 Amount=3, 3457}}}}, 
+               1 Content={3502 Content={2854 Content={3035 Amount=15, 3031 Amount=92}}}}

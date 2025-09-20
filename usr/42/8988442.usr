@@ -1,0 +1,61 @@
+ID              = 8988442
+Name            = "Lady Knight'Fer"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,60-91-15-91)
+CurrentOutfit   = (142,60-91-15-91)
+LastLogin       = 1148246818
+LastLogout      = 1148253192
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32561,31911,10]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,929620,0,992000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,282930,3000,582400,1600)
+Skill = (2,665,665,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1270,1270,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,72,0,10,0,0,0,0,0,0,0,372033,1100,404265,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,27,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,276,1100,305,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,73,0,10,0,0,0,0,0,0,0,205149,1100,222395,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,118,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5555,1100,5982,20)
+Skill = (14,0,1200,0,0,0,1004,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80}
+QuestValues = {(14,1),(17,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(96,1),(97,1),(98,1),(129,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2871 Content={3582 Amount=34, 2881, 3092 SavedExpireTime=1378, 3031 Amount=28, 3457, 3003, 2862 Content={3276, 3035 Amount=9, 3031 Amount=100, 2983, 3092 SavedExpireTime=1794, 3084 RemainingUses=238, 3492 Amount=11, 3293}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               5 Content={3415},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={2870 Content={}, 3504 Content={3507 String="lady knight'fer\nthais\n"}, 3504 Content={3507 String="lady knight'fer\nthais\n"}, 3502 Content={2870 Content={}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3505 String="Lady Knight'fer\nLeave plz...\n\n:*" Editor="Lady Knight'Fer", 3505 String="Lady Knight'fer\nLeave plz...\n\n:*" Editor="Lady Knight'Fer", 3505 Editor="Macaquinho Prego", 3505 String="Lady Knight'Fer\nLeave Plz...\n\n:*" Editor="Lady Knight'Fer", 3505 String="lady knight'fer\n hunting here...\n\n" Editor="Lady Knight'Fer", 3505 String="Angel de mateo\n hunting here...\n" Editor="Angel de mateo", 3505 String="Angel de Mateo\n hunting here...\n" Editor="Angel de mateo", 3505 String="lady knight'fer\n hunting here...\n" Editor="Lady Knight'Fer"}}, 
+               3 Content={3504 Content={3507 String="Lady Knight'Fer\nAb'Dendriel" Editor="Zhintia", 3035 Amount=25}, 3504 Content={2870 Content={2656, 2388, 2856, 2991, 2659, 2647, 2985, 2985, 2388, 3658, 2983, 3077, 2955, 2856, 2656, 2656, 2656, 2656, 2656, 2656}, 3507 String="Lady knight'fer\nAb'Dendriel" Editor="Lady Knight'Fer"}, 3075, 2859 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={2869 Content={2860, 2469 Content={3583 Amount=100, 3723 Amount=57, 3723 Amount=100, 3583 Amount=50, 3583 Amount=100, 3583 Amount=100}, 3582 Amount=1, 2469 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3198 Charges=4}, 3147, 2469 Content={3446 Amount=62, 3349, 3349, 3305, 3349, 2865 Content={3349, 3483, 3065, 3066, 3065}, 2869 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2869 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2869 Content={3413, 3266, 3413, 3413, 3413, 3413, 3413, 3275, 3275, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}}, 3297, 3725 Amount=43, 3035 Amount=100}, 3507 String="lady knight'fer\nab'dendriel\n" Editor="Von'Breaker"}, 2869 Content={3320, 3380, 3391, 3370, 3035 Amount=30, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 2955, 3059, 2862 Content={3092, 2991, 3017, 3039, 3092, 3092, 3092 SavedExpireTime=1782, 3092}}, 2867 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2854 Content={3350, 3350, 3265, 2911, 2970 KeyNumber=3800, 2970 KeyNumber=3142, 2970 KeyNumber=3303, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 2853 Content={2853 Content={3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2870 Content={3446 Amount=14, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2871 Content={3377, 3377, 3377, 3377, 3377, 3483, 3349, 3056 RemainingUses=200, 3322, 3045 RemainingUses=200, 3317, 3313}, 2859 Content={2857 Content={3097, 3097 SavedExpireTime=81, 3083 RemainingUses=150, 3085 RemainingUses=200, 3077, 3084 RemainingUses=250}, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2853 Content={3308, 2970 KeyNumber=3801, 2853 Content={2969 KeyNumber=3033, 2970 KeyNumber=3800, 3293}, 3456, 2969 KeyNumber=3033, 2968 KeyNumber=3940, 3483}, 2865 Content={3012, 3012, 3012, 3008, 3008, 3008, 3008, 3008}}, 2865 Content={3577 Amount=15, 2870 Content={3723 Amount=91, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}, 3590 Amount=2, 3585 Amount=100, 3600 Amount=51, 3598 Amount=60, 3725 Amount=2, 3602 Amount=100, 3602 Amount=100, 3602 Amount=100}, 3502 Content={3330, 3330, 2981, 2969 KeyNumber=4055, 3738 Amount=1, 2870 Content={2871, 2868 Content={2868}, 2854 Content={2854, 2854, 2854, 2854}, 2869 Content={2869}, 2867 Content={2867, 2867}, 2865, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}}, 3293, 2983, 2857 Content={2858}, 2983, 2983, 3457, 2471 Content={2471, 2471}, 1780}}, 
+               4 Content={2871 Content={}, 3504 Content={3577 Amount=45, 3507 String="lady knight'fer\nedron\n"}, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502}, 
+               7 Content={3577 Amount=70, 3502 Content={}}}

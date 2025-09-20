@@ -1,0 +1,60 @@
+ID              = 11651409
+Name            = "Rutilanus"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-124-114-95)
+CurrentOutfit   = (134,0-124-114-95)
+LastLogin       = 1148199521
+LastLogout      = 1148199856
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,226217,0,232500,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,71011,3000,193600,1600)
+Skill = (2,424,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,19,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,92544,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,46,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,58,0,10,0,0,0,0,0,0,0,48850,1100,52859,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1154,1100,1280,20)
+Skill = (14,0,1200,0,0,0,640,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(59,1),(80,1),(81,1),(82,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(111,1),(112,1),(115,1),(190,1),(191,1),(206,1),(223,1),(227,2),(254,1)}
+Murders     = {1146452616,1146460538,1147306916}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3293, 3583 Amount=4, 3031 Amount=22, 3457}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={3322, 3483, 2853, 3505 String="." Editor="Rutilanus", 2854 Content={3540, 3421, 3056 RemainingUses=200, 3538, 3535, 3535, 3536, 3539, 3538, 3535, 3537}, 3003, 3317, 3026 Amount=3, 3269, 3311, 2854 Content={2857 Content={3046}, 3585 Amount=1, 3492 Amount=59, 3492 Amount=100}, 3504 Content={3275, 3410, 3327, 3421, 3375, 2867 Content={3367, 3410, 3410, 3367, 3367, 3354, 3410, 3275, 3354, 3266, 3276}}, 2854 Content={3457, 3298 Amount=1, 3503, 3504}, 3305, 3483}}, 
+               1 Content={3502}, 
+               4 Content={3502 Content={3035 Amount=6}}, 
+               5 Content={3066, 3504 Content={3507 String="Rutilanus\nDarashia" Editor="Von Blomberg"}, 3504 Content={3507 String="Rutilanus\nDarashia" Editor="Rutilanus"}, 3504 Content={2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 3507 String="Rutilanus\nDarashia" Editor="Alex Qoz"}, 2870 Content={3404, 3271, 3533 Amount=8, 3403, 3072, 3065, 3556, 2854 Content={3367, 3286, 3286, 3286, 3367, 3585 Amount=5, 3373, 3084 RemainingUses=250, 3045 RemainingUses=200, 3307, 3049 SavedExpireTime=451, 3050, 2853 Content={3077, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3033 Amount=2, 2953}}, 3065, 3008, 2867 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2659, 2659, 2659, 2659, 2659, 2667, 2667, 2667, 2667, 2667, 2667, 2667}, 3084 RemainingUses=250, 2816 String="Now we have two enemies!\n\nBeing defeated by the evil humans we are forced to retreat into new caves. Our plan to create a tunnel to the eastern caves of this world is nearly completed!\n\nBut the dark minotaurs will protect their caverns. And our tunnel will go straight through their homes. So we must fight against both humans and minotaurs.", 2821 String="We finally made it to trick the foolish dragon and advance to some better part of earth. Here it is easy to dig a new dungeon. I hope we will find a new way out.\n\nThe way is long. We are digging for about 30 days.\n\nWe made it to advance to a stone wall! Tomorrow we will break it! The day we will see the sun again is close! Palker will be proud of me!\n\nYeah! This was the final blow. The wall is broken! But, what is that? Behind the wall, there is a human warrior. He seems dangerous. He has a glowing sword, a blue armor and green pants made of dragon-skin. He screams something like \"Tataah!\" and attacks! I don´t understand the humans! What does that mean?\nHE KILLS MY MINO-GUARDS! And now he turns towards me ...", 2656, 2656, 2656, 2656}, 3502 Content={2867, 3410, 3074, 3593, 3587 Amount=1, 3586 Amount=14, 2821 String="Chronicle of Mintwallin - the city of the Minotaurs\nwritten by Markwin, king of all Minotaurs\n\nVolume IV\n\nOur excursion is at the end. Today many of our best warriors died. Palkar encountered a dragon that killed many of my minos. It was Palkars fault. He will never lead an army again. And I will never see the light again.\n\nI can´t calm Palkar. He is full of energy. And I can´t calm my own people. Many don´t listen to me but to him. He wants to fight.\n\nA human made his way through the labyrinth! How could he find us? I wanted to get that out of him - but I could not understand him. I have thrown him \nin the jail. He will never come out of it!\n\nThe black day of out chronicle. We had a fight within the walls of my beloved city. Minotaurs fought against Minotaurs - brothers against brothers - sisters against sisters. Palkar and his knights nearly won. But me and some others were able to defeat him. Now, he and his men are outcasts.\n\nDay of sorrow.\n\nThe outcasts stole the key to our secret laboratory! That is worst of all. Now we can´t make our milk, the source of our power.\n\nI managed to bring a dragon from the dragon-pit at the outer entrance of our secret lab to guard it. He hurt me very hard. I needed much more power than I had. I am deadly injured. I hope this coughing will have an end.\n\nThe orcs and trolls conquered some caves back. Dammit! We are to weak now. We can´t defend ourselves. And my coughing gets worse and worse.\n\nSome of my men blocked the way from the secret lab to my chambers with a big rock. I think we are save now.\n\nThe outcasts made an alliance with a tribe of cyclops. Now our former brothers are our worst enemies. They are hiding somewhere in the labyrinth.\n\nThe oldest Minotaur of the city told me that my written words have many mistakes and that I would write in a terrible form. I killed him. I am a fighter - not a teacher!", 2853, 3306, 3098 SavedExpireTime=79, 3492 Amount=100, 3316, 2853 Content={3492 Amount=16}, 3054 RemainingUses=112, 3050, 3274, 3046 SavedExpireTime=1934, 2857 Content={3353}, 3552, 3327, 3330, 3327, 3330, 3483, 3347}}, 
+               6 Content={3502 Content={3378, 3362, 3426, 3447 Amount=28, 3375, 3377, 3425, 3274, 3003, 3457, 3316, 3552, 3310, 2861 Content={3505 String="\n" Editor="Scarlett Garner", 3505 String="\n" Editor="Scarlett Garner", 3505 String="\n" Editor="Scarlett Garner", 3457, 3492 Amount=52, 3456, 3483}, 3031 Amount=2, 3285}}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={3287 Amount=1, 3507 String="Phim Azaryx\nAnkrahmun" Editor="Syanx", 2865, 3147, 3410, 2853}}}

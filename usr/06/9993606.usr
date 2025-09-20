@@ -1,0 +1,54 @@
+ID              = 9993606
+Name            = "Yiliand"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (142,39-16-0-16)
+CurrentOutfit   = (142,39-16-0-16)
+LastLogin       = 1142396053
+LastLogout      = 1142396082
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32337,31785,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10370,0,13000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,11508,1400,17512,1600)
+Skill = (2,201,205,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,65,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2321,1100,2452,100)
+Skill = (7,36,0,10,0,0,0,0,0,0,0,3320,1100,3632,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,165,1200,181,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,389,1200,496,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,152,1200,181,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,112,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,29,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {20,42}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2868 Content={3031 Amount=3}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={3446 Amount=43}}
+
+Depots      = {1 Content={3031 Amount=4, 3504, 3506 String="yiliand\ncarlin\n\nhunted for erever jajjaja ni pedo kon las cartas malosas", 3282, 3658, 2854 Content={3503 Content={3507 String="Yiliand\ncarlin"}}, 3658, 3502 Content={2469 Content={3505 String="hola:\nsolo espero k te encuentres bien y decirt k muchas gracias por todo \nTKM\n\"tu sabes kien soi\"\nademas me volvieron a matar asi k lo mas seguro es k este retired y si vez al char no es seguro k sea yo\n:*\n•           •.'        • •   .'            '.'••   ' '.           .'     •       •'      • .'•'KISS'•'. '• • '.'         '. •      •.'   • •  .'            '.'••  ' '.        .'  •     •'" Editor="Yiliand"}, 3483, 3552, 3559, 3492 Amount=8, 3277 Amount=4, 2469 Content={2854 Content={3374, 3492 Amount=7, 3409, 2973 KeyNumber=3520, 3483, 2969 KeyNumber=3033, 3277 Amount=3, 3448 Amount=1, 3349, 3362, 3655, 3504 Content={3507 String="Yiliand\nCarlin"}, 3056 RemainingUses=200}}}}, 
+               3 Content={3361, 3374, 3504 Content={3507 String="Yiliand\nAb'dendriel"}, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 3492 Amount=20, 3378, 3502}, 
+               4 Content={3031 Amount=73, 3504 Content={2854 Content={3446 Amount=64, 2854 Content={3316}, 2853 Content={3446 Amount=100, 3446 Amount=100, 3447 Amount=5, 3350, 3447 Amount=100, 3349, 3350, 3448 Amount=60}}, 3349, 3552, 3457, 3349, 3350, 3507 String="Yiliand\nedron" Editor="Lady any"}, 3502}, 
+               5 Content={3504 Content={3425, 2867 Content={3590 Amount=2}, 3507 String="yiliand\ndarashia\n" Editor="Lady any"}, 3504 Content={3504 Content={2868, 3507 String="leilany\nab'dendriel"}, 3507 String="Yiliand\nDarashia"}, 3502}}

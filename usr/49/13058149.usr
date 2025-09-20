@@ -1,0 +1,57 @@
+ID              = 13058149
+Name            = "Zephigar Zaban"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,115-94-114-0)
+CurrentOutfit   = (134,115-94-114-0)
+LastLogin       = 1147117060
+LastLogout      = 1147117219
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32219,5]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1160486,0,1238400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,180651,3000,193600,1600)
+Skill = (2,661,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,154,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1345,1345,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,73,0,10,0,0,0,0,0,0,0,417252,1100,444791,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,74,0,10,0,0,0,0,0,0,0,230271,1100,244685,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,3,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,464,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80}
+QuestValues = {(35,1),(59,1),(86,1),(87,1),(137,1),(190,1),(191,1),(192,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2871 Content={3457, 3033 Amount=1, 3031 Amount=68, 3031 Amount=100, 2866, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3061, 2871}},
+               4 Content={3357},
+               5 Content={3436},
+               6 Content={3295},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="Zephigar Zaban\nThais" Editor="Zephigar Zaban"}, 3502}, 
+               4 Content={3504 Content={3507 String="Zephigar Zaban\nEdron" Editor="Zephigar Zaban"}, 3502}, 
+               5 Content={3502 Content={2853 Content={2853}, 3283}}, 
+               6 Content={3502}, 
+               7 Content={2871 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3273, 3504 Content={3582 Amount=99, 3582 Amount=61, 2853, 3507 String="Davith'Khall\nAnkrahmun" Editor="Davith'Khall"}, 3035 Amount=75, 2853 Content={3322, 3271, 3297, 3297, 3297}, 3502 Content={3409, 3291, 3552, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3413, 3305, 3028 Amount=1, 2969 KeyNumber=4055, 3026 Amount=1, 3032 Amount=2, 2853 Content={2853 Content={3349}, 3286, 3286, 3286}, 2853, 2868 Content={3084 RemainingUses=250, 3084 RemainingUses=207, 3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=198, 3056 RemainingUses=200}, 2853 Content={2853 Content={3367, 2853 Content={3367}}}, 3300}}}

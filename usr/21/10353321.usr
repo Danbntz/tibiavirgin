@@ -1,0 +1,56 @@
+ID              = 10353321
+Name            = "Blak greimon"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,82-81-0-81)
+CurrentOutfit   = (134,82-81-0-81)
+LastLogin       = 1148164752
+LastLogout      = 1148164781
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32353,32215,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,174957,0,179400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,137923,1400,157982,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,250,250,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2155,1100,2452,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,29054,1100,31715,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,1095,1200,1297,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,37,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,22,1200,50,50)
+Skill = (11,22,0,10,0,0,0,0,0,0,0,2201,1200,2424,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,20,29,44,51}
+QuestValues = {(80,1),(81,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(108,1),(109,1),(111,1),(112,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               4 Content={3357},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3447 Amount=69}}
+
+Depots      = {0 Content={3504 Content={3503 Content={3507}, 3017, 3377, 3507 String="blak greimon\nthais" Editor="Blak greimon", 2872 Content={3457, 3504 Content={3507 String="blak greimon\nAnkrahmun" Editor="Aphus Mern"}, 3504 Content={2469, 2469 Content={3279}, 3507 String="Blak Greimon\nAnkrahmun" Editor="Denisse Garrido"}, 2871 Content={2853}, 2853 Content={2853}, 2854 Content={3507 String="ni te la vas acar cabron me mate haciendo estas putas flechas" Editor="Blak greimon", 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3507 String="A ver si con esto subes hijo de la bolsa minimo un lvl completo donde no subas!" Editor="Blak greimon", 3377, 1781 Amount=2, 3045 RemainingUses=200, 3059}, 3349, 3347, 3046 SavedExpireTime=2993, 3578 Amount=9}, 3330, 3046 SavedExpireTime=1178, 3585 Amount=3, 4290 Content={3017, 3017, 3017, 3589 Amount=1, 3593, 3586 Amount=5, 3587 Amount=4, 3032 Amount=1}}, 2868 Content={3403, 3403, 3448 Amount=4, 2653, 3327, 3066, 3058, 3658, 3307, 3307, 3147, 3367, 3054 RemainingUses=159, 3457, 3003, 2874 ContainerLiquidType=1, 3003}, 2854 Content={3147, 3289, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3603 Amount=2, 3147, 3147, 3114 Amount=1, 3097, 3097 SavedExpireTime=3599, 3012, 3077, 3050 SavedExpireTime=1623, 3097 SavedExpireTime=3598, 3097, 3077, 3283, 2868 Content={3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 18\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 2667, 2653, 3050 SavedExpireTime=1780, 2653, 2870 Content={3533 Amount=1, 3354, 3327, 2969 KeyNumber=4600, 3084 RemainingUses=250, 3056 RemainingUses=197}, 3059, 3308, 3411, 3377, 3456}, 3602 Amount=3, 3585 Amount=2, 3505, 3046 SavedExpireTime=2546, 3425, 3504 Content={3504 Content={3308, 3308, 3723 Amount=2, 2977, 3483, 3483, 3483}, 2911 SavedExpireTime=2304, 3457, 3114 Amount=1, 3003, 3507 String="Blak greimon\nThais" Editor="Furakli Septor"}, 3294, 2868 Content={3483, 3430}, 2857 Content={3504 Content={3425, 3425, 3504 Content={3456, 3483, 3457, 3507 String="blak greimon\nthais", 3276, 3008, 2920}, 3504 Content={3483, 2906, 2901, 3283, 3507 String="Lupox Saga\nThais"}, 3504 Content={3012, 3507 String="blak greimon\nthais", 3300}}, 3504 Content={3285, 3507 String="blak greimon\nthais" Editor="Eathormel Dart"}, 3504 Content={3533 Amount=4, 2922 SavedExpireTime=103, 3505, 2853 Content={3308, 3352, 3352, 3285, 2920 SavedExpireTime=348}, 2853, 2880 ContainerLiquidType=3, 3507 String="Blak greimon\nThais" Editor="Shadow roy"}, 3457, 3003, 3457, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Alai Flats, Flat 18\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853}, 3502 Content={3031 Amount=42, 3277 Amount=35, 3031 Amount=100}}, 
+               1 Content={3502}, 
+               3 Content={2920 SavedExpireTime=572, 2911 SavedExpireTime=1793, 3425, 3502}, 
+               5 Content={2853 Content={2853, 2853}, 3503 Content={2853 Content={2853, 2853}, 1781 Amount=1, 3349, 3507 String="blak greimon\nAnkrahmun" Editor="Blak greimon", 2853 Content={3264, 3264, 3264}}, 3147, 2867 Content={2853, 2853}, 3003, 3502 Content={3031 Amount=82}}, 
+               6 Content={3285, 2853, 3003, 2911, 3008, 3276, 2983, 3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="Blak Greimon\nPort hope" Editor="Alex Qoz"}, 3502 Content={3031 Amount=100, 3031 Amount=100}}}

@@ -1,0 +1,57 @@
+ID              = 10468849
+Name            = "Mummrik of Zanera"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,94-114-114-114)
+CurrentOutfit   = (131,94-114-114-114)
+LastLogin       = 1147643901
+LastLogout      = 1147643936
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,216248,0,232500,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,56716,3000,64000,1600)
+Skill = (2,440,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,120,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,53,0,10,0,0,0,0,0,0,0,63768,1100,65264,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,162,1100,165,50)
+Skill = (10,55,0,10,0,0,0,0,0,0,0,37262,1100,39589,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(49,1),(53,1),(54,1),(66,1),(76,1),(77,1),(78,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(113,1),(114,1),(121,1),(124,1),(190,1),(191,1),(208,1),(216,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=85, 3031 Amount=100, 3349, 3003, 3577 Amount=2, 3582 Amount=1, 3457, 3483, 3293, 3003, 3148 Charges=2}},
+               6 Content={3317},
+               10 Content={3092 SavedExpireTime=1198}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3504, 3507 String="Mummrik of Zanera\nEdron" Editor="Mummrik of Zanera"}, 2853 Content={2969 KeyNumber=5010, 2969 KeyNumber=5010, 2971 KeyNumber=3702}, 3308, 3456, 2866 Content={3504 Content={3030 Amount=1, 3583 Amount=24, 3504 Content={2854, 3327, 3046, 3327, 3327}, 3110, 3110, 3110, 3110, 3110, 3110, 3507 String="Mummrik of Zanera\nVenore"}, 3504 Content={3268, 3026 Amount=4, 3004, 2992 Amount=5, 3031 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="Mummrik of Zanera\nvenore" Editor="Mummrik of Zanera"}, 2854 Content={3330, 3097, 3084 RemainingUses=250, 3053, 3083 RemainingUses=150, 3046, 3046 SavedExpireTime=2894, 3084 RemainingUses=250, 3077, 3084 RemainingUses=250, 3077, 2853 Content={3375, 2853 Content={3048 RemainingUses=20, 3085 RemainingUses=200, 3206, 3051, 3081 RemainingUses=5, 3284 RemainingUses=1, 3297}, 3299, 3299, 3046 SavedExpireTime=2798, 3045 RemainingUses=200}, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3285, 3353, 3123, 2859 Content={3059, 2949}, 2853 Content={2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 3147, 3046}, 3032 Amount=1, 3446 Amount=39, 2854 Content={3003, 3003, 2920 SavedExpireTime=481, 3457, 3004, 3004, 3572, 3004, 3563, 3572, 3563, 3572, 3572, 3563, 3563, 3563, 3572}, 2871, 2867, 2865}, 3507 String="Mummrik of zanera\nThais" Editor="Mummrik of Zanera"}, 3502}, 
+               1 Content={3504 Content={3507 String="Mummrik of Zanera\ncarlin" Editor="Mummrik of Zanera"}, 3504 Content={3507 String="Mummrik of Zanera\nCarlin"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="Mummrik of Zanera\ncarlin"}, 3502 Content={3059, 3264, 3056 RemainingUses=200, 3456, 2989, 3463}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={3327, 3327, 3349}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={3577 Amount=100}}}

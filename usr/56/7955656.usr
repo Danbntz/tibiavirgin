@@ -1,0 +1,61 @@
+ID              = 7955656
+Name            = "Dohko Hakeryu"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-102-114-0)
+CurrentOutfit   = (134,0-102-114-0)
+LastLogin       = 1148243374
+LastLogout      = 1148245648
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32647,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1026031,0,1070100,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,553864,1400,618272,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1130,1130,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,43289,1100,44259,100)
+Skill = (7,75,0,10,0,0,0,0,0,0,0,153285,1100,161522,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,368,1200,372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,1200,50,50)
+Skill = (11,29,0,10,0,0,0,0,0,0,0,8230,1200,9334,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1190,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,87,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,10,11,20,29,42,44,45,51,76,79}
+QuestValues = {(14,1),(15,1),(16,1),(59,1),(88,1),(89,1),(90,1),(98,1),(109,1),(111,1),(112,1),(137,1),(190,1),(191,1),(217,3),(332,1)}
+Murders     = {1146873964,1146874157}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=44, 3723 Amount=57, 3160 Charges=1, 3003, 2872 Content={2865 Content={2874 ContainerLiquidType=10, 3349, 3350, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 3177 Charges=1}, 2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2865 Content={3447 Amount=1, 3503 Content={3507}}}, 2867 Content={2874 ContainerLiquidType=10, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3504 Content={2870 Content={3377, 3377, 2871 Content={2869 Content={2867 Content={2871 Content={2870 Content={2870 Content={2867 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3507 String="dohko hakeryu\nThais" Editor="Dohko Hakeryu"}, 3502}, 
+               1 Content={3504 Content={3507 String="dohko hakeryu\ncarlin" Editor="Dohko Hakeryu"}, 3504 Content={3507 String="dohko hakeryu\ncarlin\nxD"}, 3504 Content={3507 String="dohko hakeryu\ncarlin"}, 3504 Content={3507 String="Dohko Hakeryu\ncarlin"}, 3502 Content={2865 Content={3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307, 3307}}}, 
+               2 Content={3502 Content={2870 Content={2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2868 Content={3446 Amount=93, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2870 Content={2868, 2868, 2854, 2854, 2868, 2870, 2868, 2868, 2854, 2865, 2869, 2854}, 2854 Content={2865 Content={2870 Content={3035 Amount=76, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 2854 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1791, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1797, 3092 SavedExpireTime=1798, 3092, 3092, 3092, 3092}, 2854 Content={3277 Amount=16, 3448 Amount=19, 3449 Amount=8, 3350, 3287 Amount=22, 1781 Amount=22}, 2870 Content={4871, 2857 Content={3409, 3046, 3077, 3084 RemainingUses=250}, 2880, 3039, 3027 Amount=2, 3033 Amount=2, 3572}}, 2868}, 2868 Content={2854 Content={2970 KeyNumber=3800, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2973 KeyNumber=3520, 2970 KeyNumber=3802}, 2857 Content={3483, 3483, 3483, 3483, 3483, 3658}, 2866 Content={2473 Content={3548 Amount=20, 3547 Amount=20, 2659, 2659, 2656, 2656, 3604 Amount=1, 2482, 2471 Content={2880 ContainerLiquidType=2, 2880 ContainerLiquidType=2, 2880 ContainerLiquidType=2, 2874, 3308, 2880, 2880, 2880}}, 2893, 2855 Content={3505 String="we te agarre akip pa mi durid cheko xD\n", 2970 KeyNumber=3012, 2880, 2880, 2989}}, 2870 Content={2969 KeyNumber=3033, 3059, 3551, 3301, 3409, 3373, 3421, 3421, 3421}, 2863 Content={2870 Content={2949, 3455, 3077, 2906, 3463, 2952, 2955, 2991, 3308, 3310, 3673, 3463, 2989, 2989, 3293, 2906, 3077, 3463, 3045 RemainingUses=200}, 2854 Content={3451, 2856, 3457, 3454, 3059, 3059, 3457, 2659, 3457, 3285, 3568, 3291, 2393}}, 2854 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2867 Content={3298 Amount=1, 3299, 3327, 3289}, 2872 Content={2920 SavedExpireTime=227, 2920 SavedExpireTime=448, 2920, 2920 SavedExpireTime=39, 2920, 2920, 2920, 2920, 2920}, 2865 Content={3097 SavedExpireTime=3175, 3097, 4871, 3097 SavedExpireTime=3596, 3097, 3097, 3050 SavedExpireTime=1742, 3017, 3017, 3004, 3097, 3097, 3097, 3050, 3098, 3097}, 2865 Content={2469 Content={2854 Content={2853 Content={2853 Content={2920 SavedExpireTime=351, 2920 SavedExpireTime=542, 2920 SavedExpireTime=497, 2920, 2920 SavedExpireTime=453, 2920, 2920, 2920}, 2920 SavedExpireTime=598, 2922 SavedExpireTime=67, 2920, 2920 SavedExpireTime=543, 2920, 2920 SavedExpireTime=383, 2920}, 2469, 2469, 3375, 3374, 3362, 3059, 3291, 3308, 3483, 3457, 3509, 3483, 3045 RemainingUses=200}}}, 2865 Content={3012, 3012, 3054 RemainingUses=101, 3056 RemainingUses=200, 3085 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3084 RemainingUses=250, 3012, 3012, 3012, 3012}, 2870 Content={3465, 2667, 2656, 2656, 2667, 2656, 2656, 2656, 2667}}, 2857 Content={2992 Amount=5, 3587 Amount=12, 3598 Amount=37, 3327, 2857 Content={3603 Amount=19, 3492 Amount=81, 2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2867 Content={3723 Amount=50, 3723 Amount=100, 3492 Amount=100, 3577 Amount=100, 3582 Amount=100, 3582 Amount=50, 3577 Amount=50, 3578 Amount=20, 3583 Amount=4}, 3588 Amount=97, 3595 Amount=1, 3586 Amount=1}, 3585 Amount=21, 3590 Amount=3, 3723 Amount=100}, 2872 Content={2867 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3059, 3155 Charges=1, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Granite Guildhall\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}}}, 
+               3 Content={3502 Content={3504 Content={3507 String="dohko hakeryu\nab'dendriel" Editor="Dohko Hakeryu"}}}, 
+               4 Content={3504 Content={3507 String="dohko hakeryu\nedron"}, 3502 Content={}}, 
+               5 Content={3502 Content={3504 Content={2853 Content={}, 3507 String="dohko hakeryu\ndarashia"}}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3502 Content={}}}

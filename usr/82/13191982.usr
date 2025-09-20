@@ -1,0 +1,56 @@
+ID              = 13191982
+Name            = "Maziozare"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-114-132-114)
+CurrentOutfit   = (129,114-114-132-114)
+LastLogin       = 1148248840
+LastLogout      = 1148248866
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32915,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,601837,0,658000,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,494499,1100,528063,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,519,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,42667,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,3143,2000,3150,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,154,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,166,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,52,0,10,0,0,0,0,0,0,0,11148,1100,11848,20)
+Skill = (14,0,1200,0,0,0,947,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,85,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,9,10,16,18,20,23,25,27,29,38,44}
+QuestValues = {(14,1),(15,1),(96,1),(97,1),(106,1),(107,1),(190,1),(191,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2867 Content={3483, 3147, 3071, 3031 Amount=8, 3003, 3052 SavedExpireTime=1198, 3492 Amount=42, 3160 Charges=1, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4}}},
+               4 Content={3370},
+               5 Content={3436},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3578 Amount=40}}
+
+Depots      = {0 Content={3504 Content={3507 String="maziozare\nthais" Editor="Maziozare"}, 3502}, 
+               1 Content={3504, 3502}, 
+               2 Content={3457, 3723 Amount=15, 3035 Amount=17, 2867, 3059, 3377, 2970 KeyNumber=3801, 3092, 2970 KeyNumber=3800, 3446 Amount=8, 4871, 3147, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3577 Amount=10, 3293, 3598 Amount=27, 3502}, 
+               3 Content={3502}, 
+               6 Content={3457, 3674, 3661, 2920, 3059, 3457, 2920, 2920 SavedExpireTime=599, 2920 SavedExpireTime=185, 3502 Content={2870 Content={3035 Amount=3, 3035 Amount=60}, 2854 Content={3350, 3350, 3350, 3350, 3349, 3350, 3349, 3449 Amount=31, 3448 Amount=60, 3350, 3447 Amount=61}, 2854 Content={3073, 3275, 3046, 3066, 3074, 3066, 3046 SavedExpireTime=2997, 3046 SavedExpireTime=2195}, 2866 Content={3098 SavedExpireTime=425, 3052, 3050, 3053 SavedExpireTime=145, 3030 Amount=6, 3008, 3077, 3084 RemainingUses=250, 3097, 3045 RemainingUses=200, 3084 RemainingUses=250, 3077, 3004, 3028 Amount=2, 3082 RemainingUses=50, 3093 SavedExpireTime=1276, 3093 SavedExpireTime=458, 3098 SavedExpireTime=355}, 2866 Content={2868, 3076, 2868 Content={2854 Content={2868, 2870, 2870 Content={2866, 2870 Content={2870}, 2870, 2867 Content={2870, 2870 Content={2854}}, 2867 Content={2868, 2870, 2870, 2870}}, 2854 Content={2869, 2870 Content={2870, 2870}, 2870}, 2870, 2872}}, 2867 Content={2865 Content={2871, 2867, 2867, 2867}}, 2854 Content={2854 Content={3054 RemainingUses=117, 3054 RemainingUses=200, 2871}}, 2870 Content={2870, 2870}, 2868, 2869}, 2870 Content={3572, 3083 RemainingUses=150, 3003, 3003, 3003, 3456, 3003, 3483, 3308}, 2870 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2857, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3174 Charges=4}, 2870 Content={3582 Amount=4, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3577 Amount=17, 3578 Amount=100, 3583 Amount=2, 3585 Amount=4, 3586 Amount=1, 3590 Amount=8, 3585 Amount=57}, 2870 Content={3416, 3079, 3391, 3381, 3371, 3403, 3409, 3556}}}}

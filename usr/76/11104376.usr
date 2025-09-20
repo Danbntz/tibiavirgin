@@ -1,0 +1,49 @@
+ID              = 11104376
+Name            = "Lord malva"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,79-94-114-82)
+CurrentOutfit   = (129,79-94-114-82)
+LastLogin       = 1143162448
+LastLogout      = 1143162547
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32917,32071,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,34387,0,37800,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,35782,1100,39236,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,195,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10324,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,25,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,75,2000,150,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1557,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,335,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,408,1100,427,20)
+Skill = (14,0,1200,0,0,0,804,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,44}
+QuestValues = {(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(59,1),(96,1),(97,1),(217,3),(223,1),(333,1)}
+Murders     = {1142474023}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=191},
+               8 Content={3551}}
+
+Depots      = {0 Content={3502}, 
+               3 Content={3502 Content={3374}}, 
+               6 Content={3504 Content={3273, 3294, 3507 String="lord malva\nvenore" Editor="Daur", 3056 RemainingUses=200, 3375, 3375}, 2920, 2922 SavedExpireTime=66, 2921 RemainingExpireTime=549, 2920, 2922 SavedExpireTime=32, 3483, 2920 SavedExpireTime=4, 3469, 3003, 2473 Content={3483, 3291, 3292, 3457, 3492 Amount=5, 3483, 3267}, 3502 Content={3358, 3003, 1781 Amount=2, 3337, 3273, 3003, 3374, 3003, 2920 SavedExpireTime=512, 2924 SavedExpireTime=146, 3552, 2875, 3003, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2853, 2922 SavedExpireTime=61, 3059, 2922 SavedExpireTime=164}}}

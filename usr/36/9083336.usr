@@ -1,0 +1,51 @@
+ID              = 9083336
+Name            = "Jerryes"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-76-114-76)
+CurrentOutfit   = (129,114-76-114-76)
+LastLogin       = 1136490730
+LastLogout      = 1136490808
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,19197,0,23200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,23904,1400,26118,1600)
+Skill = (2,184,225,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,588,1100,610,100)
+Skill = (7,38,0,10,0,0,0,0,0,0,0,4077,1100,4458,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,32,1200,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,559,1200,645,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,30,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,273,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {8,10,42,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               3 Content={2853 Content={3031 Amount=2}},
+               4 Content={3377},
+               6 Content={3350},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502 Content={3351, 3404, 2854 Content={3449 Amount=3, 3409}, 2868 Content={3425, 3425, 3410, 3552, 3292, 3269, 3269, 2472 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses."}, 3413, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 3266, 3552, 3413, 3411, 3377, 3377}, 2854 Content={3447 Amount=21, 2867, 2991, 3350, 3447 Amount=100, 3447 Amount=100, 3449 Amount=5, 3282, 3447 Amount=100, 3085 RemainingUses=200, 3447 Amount=100, 3266}}}, 
+               3 Content={3502}}

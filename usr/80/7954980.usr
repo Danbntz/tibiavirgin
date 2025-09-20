@@ -1,0 +1,61 @@
+ID              = 7954980
+Name            = "Arenaz"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,77-95-95-95)
+CurrentOutfit   = (134,77-95-95-95)
+LastLogin       = 1130115127
+LastLogout      = 1130115145
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,330682,0,368300,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,126160,1400,157982,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,105,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6492,1100,7140,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,37867,1100,38438,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,536,1200,645,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,93,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,676,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1034,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,20,29,51,76,79}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(190,1),(191,1),(223,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3446 Amount=13, 3446 Amount=100, 3447 Amount=2, 3350, 3578 Amount=28, 3031 Amount=87, 3050 SavedExpireTime=0, 3457, 3031 Amount=100, 3595 Amount=7, 2866 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3003}},
+               4 Content={3377},
+               5 Content={},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3377, 3093 SavedExpireTime=0, 3003, 3003, 3483, 3483, 3012, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3504 Content={3507 String="Arenaz\nKazordoon"}, 3504 Content={3507 String="Arenaz\nkazordoon"}, 3504 Content={3507 String="Arenaz\nKazordoon"}, 2865 Content={}, 3502 Content={3349, 2865 Content={}}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3457, 3035 Amount=20, 3504 Content={3507 String="Arenaz\nDarashia"}, 3502 Content={}}, 
+               6 Content={3322, 3447 Amount=15, 3350, 3504 Content={3031 Amount=1, 3507 String="arenaz\nvenore"}, 3504 Content={3147, 3507 String="arenaz\nvenore"}, 3504 Content={3507 String="arenaz\nvenore"}, 3504 Content={2866 Content={}, 3507 String="Arenaz\nVenore"}, 3504 Content={3507 String="Arenaz\nvenore"}, 2473 Content={3275, 3275}, 2473 Content={3050 SavedExpireTime=0, 3091 SavedExpireTime=0, 3042 Amount=2, 3027 Amount=2, 3207 Amount=1, 3033 Amount=1, 3026 Amount=2, 3028 Amount=1}, 2473 Content={3583 Amount=16, 2853 Content={2853 Content={2853 Content={}}, 2853 Content={3349, 2853 Content={3377, 3377, 3377}}, 2853 Content={3349, 3425, 2853 Content={}, 3425}, 2853 Content={3377, 3377, 3377, 2853 Content={}}, 2853 Content={3377, 3425}}, 3003, 3012}, 2473 Content={3505 String="", 3505 String="\n", 3083 RemainingUses=150, 3054 RemainingUses=200, 3277 Amount=3, 3003, 3483, 3054 RemainingUses=200, 3083 RemainingUses=150}, 3449 Amount=7, 2857 Content={3409, 3349, 3275, 3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}, 3277 Amount=5, 3505 String="", 3505 String="Arenaz is hunting here", 3505 String="", 3285, 2853 Content={2853 Content={2853 Content={2853 Content={}, 3097 SavedExpireTime=0, 3012}, 3008}, 2853 Content={3425, 2853 Content={3425, 3425, 3425, 3277 Amount=4, 2853 Content={2853 Content={2853 Content={}, 3349, 3349, 3349}, 3349}, 3349}}, 2853 Content={2853 Content={3375, 2853 Content={3377, 3377}, 3377}, 3425}}, 3504 Content={2853 Content={2853 Content={2853 Content={3411, 3411, 3411}, 3367, 3411, 3411, 3411, 3411, 3411, 3411}}, 2863 Content={}, 3483, 3507 String="Arenaz\nVenore"}, 2856 Content={}, 3153 Charges=1, 2992 Amount=4, 3153 Charges=1, 3502 Content={3504 Content={3504 Content={3507 String="Arenaz\nKazordoon"}, 3507 String="Arenaz\nVenore"}, 3504 Content={3507 String="Arenaz\nVenore"}, 2970 KeyNumber=4601, 3504 Content={3504 Content={3504 Content={3507 String="restoz\nvenore"}, 3504 Content={3507 String="Restoz\nvenore\n"}, 3507 String="Restoz\nvenore"}, 3504 Content={3504 Content={3507 String="arenaz\nvenore"}, 3507 String="Arenaz\nVenore"}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}}}, 
+               7 Content={3504 Content={3507 String="Arenaz\nAnkrahmun\n"}, 3502 Content={}}}

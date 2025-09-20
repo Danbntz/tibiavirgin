@@ -1,0 +1,55 @@
+ID              = 9967366
+Name            = "Diego valentine"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,3-46-114-3)
+CurrentOutfit   = (134,3-46-114-3)
+LastLogin       = 1126730225
+LastLogout      = 1126730227
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,22246,0,23200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,21280,1400,26118,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7467,1100,7954,100)
+Skill = (7,42,0,10,0,0,0,0,0,0,0,6344,1100,6667,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,407,1200,496,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,397,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,556,1100,559,20)
+Skill = (14,0,1200,0,0,0,177,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,70,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,29,42,51}
+QuestValues = {(21,1),(22,1),(23,1),(32,1),(33,1),(112,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2867 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses."}},
+               4 Content={3357},
+               5 Content={},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3447 Amount=77}}
+
+Depots      = {5 Content={3502 Content={3277 Amount=1}}, 
+               6 Content={3031 Amount=76, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2911 SavedExpireTime=1034, 3492 Amount=10, 3031 Amount=3, 3277 Amount=2, 2911 SavedExpireTime=2695, 3483, 3358, 3035 Amount=14, 3349, 2920 SavedExpireTime=297, 2920 SavedExpireTime=0, 3354, 3054 RemainingUses=110, 1781 Amount=3, 3504 Content={3268, 3412, 3507 String="Diego valentine\nvenore"}, 3502 Content={}}}

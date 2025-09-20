@@ -1,0 +1,58 @@
+ID              = 11318433
+Name            = "Elver Gonn"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (128,0-114-114-0)
+CurrentOutfit   = (128,0-114-114-0)
+LastLogin       = 1148228139
+LastLogout      = 1148231107
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32417,31751,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,407226,0,409000,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,388984,1100,392762,1600)
+Skill = (2,268,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,538,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,39006,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,12036,1800,12334,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,5,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,321,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1477,1100,1590,20)
+Skill = (14,0,1200,0,0,0,1090,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,16,38,39,42,44}
+QuestValues = {(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               3 Content={2868 Content={3031 Amount=54, 3031 Amount=100, 3031 Amount=100, 2853 Content={3275, 3305, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2920 SavedExpireTime=509}, 3446 Amount=25, 3723 Amount=10, 3031 Amount=100, 3065, 3725 Amount=9, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3152 Charges=1, 2868 Content={3003, 3191 Charges=1, 3191 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3457, 3147, 3160 Charges=1}, 3160 Charges=1}},
+               4 Content={3567},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3551}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2868, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3065}, 3061, 3504 Content={3172 Charges=3, 3172 Charges=1, 3172 Charges=2, 3172 Charges=2, 3551, 3551, 2854 Content={3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=100, 3725 Amount=70}, 3507 String="elver gonn\ncarlin" Editor="Elver Gonn"}, 2868 Content={3354, 3354, 3416, 2868 Content={3425, 3349, 3349, 3425, 3349, 3425}, 2853 Content={3446 Amount=65, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3505 String="Elite Split \nhere\nleave plx" Editor="Elite Split", 3492 Amount=4, 3483, 3070, 3502 Content={2868 Content={3031 Amount=76, 3035 Amount=12, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 3377, 3003, 3552, 2906, 3097, 3492 Amount=100, 2825, 3287 Amount=1}}, 
+               3 Content={3504 Content={3507 String="Elver Gonn\nAb'Dendriel\n", 3504 Content={3507 String="Elver Gonn\nDarashia"}}, 3502}, 
+               4 Content={3502}, 
+               5 Content={3425, 3069, 2857 Content={3050, 3077, 3046}, 3504 Content={3507 String="Elver Gonn\nDarashia" Editor="Elver Gonn"}, 2854 Content={2854 Content={2869}, 3457, 3003}, 2866 Content={2866 Content={3160 Charges=1}}, 3070, 2394, 2397, 2394, 3586 Amount=3, 2854 Content={3507 String="Favor de no tocar el dinero" Editor="Elver Gonn", 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3357, 3456, 3059, 3430, 3283, 3292, 3502}, 
+               6 Content={3504 Content={3031 Amount=79, 3507 String="elver gonn\nvenore" Editor="Carlo of Markiz Amon"}, 3504 Content={3507 String="Elver Gonn\nVenore" Editor="Amadeus Morphyus"}, 3502 Content={3291, 3147, 3147, 3147}}, 
+               7 Content={3504 Content={3507 String="Elver Gonn\nankrahmun"}, 3502}, 
+               8 Content={3502}}

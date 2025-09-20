@@ -1,0 +1,56 @@
+ID              = 11386272
+Name            = "Master Chiff"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-88-114-116)
+CurrentOutfit   = (129,114-88-114-116)
+LastLogin       = 1146940160
+LastLogout      = 1146940232
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32675,31682,8]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10226,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,1952,3000,6400,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6053,1100,6400,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,33,0,10,0,0,0,0,0,0,0,4182,1100,4424,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,55,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,495,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3577 Amount=3, 3291, 2920, 2969 KeyNumber=3033, 3578 Amount=7, 3003, 3031 Amount=63}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2920 SavedExpireTime=194}}
+
+Depots      = {0 Content={3559, 3504 Content={3507 String="master chiff\nthais\n" Editor="Frodo of zanera"}, 3502 Content={3559}}, 
+               3 Content={2473 Content={3282, 1781 Amount=4, 3448 Amount=2, 3268, 3453, 3456, 3289, 3066, 3327, 3275}, 2473 Content={3492 Amount=78, 3483, 2973 KeyNumber=3520, 3582 Amount=1, 3577 Amount=2, 2914 SavedExpireTime=16}, 3502 Content={2872, 2969 KeyNumber=3033, 3003, 2872 Content={3375, 3375, 3352}, 2872 Content={3563, 3535, 3377}, 2854 Content={2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977}, 2854 Content={3291, 3559, 3361, 3548 Amount=1, 3483, 3003}, 2868 Content={3483, 3147, 3059}, 2868 Content={3483}, 2866 Content={2866 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="master chiff\nab'dendriel" Editor="Master Chiff"}, 3507 String="master chiff\nab'dendriel" Editor="Frodo of zanera"}, 3504 Content={3507 String="master chiff\nab'dendriel" Editor="Frodo of zanera"}, 3507 String="master chiff\nab'dendriel" Editor="Frodo of zanera"}, 3507 String="Nightscaut\nthais" Editor="Lukasz Olasi", 3507 String="master chiff\nab'dendriel" Editor="Frodo of zanera"}, 3507 String="master chiff\nab'dendriel" Editor="Frodo of zanera"}}}, 2870 Content={3565, 3565, 3409}, 2867, 2865 Content={2865, 2865}}}, 
+               6 Content={3504 Content={3552, 3559, 3507 String="Master Chiff\nVenore\n" Editor="Rando Kyth"}, 3502 Content={3430, 3272, 3552, 3674, 3277 Amount=6, 3552, 3552}}}

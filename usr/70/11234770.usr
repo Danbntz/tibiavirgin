@@ -1,0 +1,52 @@
+ID              = 11234770
+Name            = "Royal Overlord"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,79-11-12-13)
+CurrentOutfit   = (134,79-11-12-13)
+LastLogin       = 1148047562
+LastLogout      = 1148047771
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32623,32746,6]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,107053,0,116000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,24965,3000,64000,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35259,1100,36404,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,21,1400,30,30)
+Skill = (8,49,0,10,0,0,0,0,0,0,0,21930,1100,22129,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,297,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,26,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,563,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,0,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(128,1),(217,3),(224,1),(226,1)}
+Murders     = {}
+
+Inventory   = {8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3050 SavedExpireTime=1597}, 3425, 3425, 3425, 2853 Content={3446 Amount=51, 3447 Amount=11, 3052, 3085 RemainingUses=200}, 1781 Amount=5, 2854 Content={3031 Amount=79, 3031 Amount=100, 3035 Amount=1, 3031 Amount=100, 3031 Amount=100}, 3597 Amount=2, 2871 Content={2854 Content={3367, 3367, 3367, 3367, 3367}, 2874, 2874, 2874, 2874, 2874, 2874}, 3277 Amount=18, 3598 Amount=6, 3723 Amount=15, 3577 Amount=21, 2973 KeyNumber=3520, 3405, 3504 Content={3050, 3050, 3050, 3050}, 3066, 3097 SavedExpireTime=2840, 3375, 3350, 3066, 3297, 2854 Content={2854 Content={2854 Content={3579 Amount=10, 3600 Amount=44, 2853 Content={2853}}}}, 2854 Content={3316, 3316, 3350, 3350, 3264, 3264, 3012, 3003}, 3008, 3502}, 
+               1 Content={3504 Content={3507 String="Royal Overlord\nCarlin" Editor="Original Overlord"}, 3504 Content={3507 String="Royal Overlord\nCarlin" Editor="Original Overlord"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               5 Content={3583 Amount=2, 3449 Amount=9, 3286, 3286, 3286, 3286, 3409, 2866, 2853, 3504 Content={3046, 3046, 3046}, 3291, 2866 Content={3035 Amount=1, 3031 Amount=26, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2955, 3277 Amount=1, 3285, 3421, 3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Royal Overlord\nAnkrahmun\n" Editor="Original Overlord"}, 2871 Content={3003}, 3492 Amount=19, 3504 Content={3008, 3377, 3552, 3377, 3412, 3412, 3507 String="Royal Overlord\nAnkrahmun" Editor="Mystical Witch"}, 3147, 3147, 3147, 3582 Amount=9, 3577 Amount=13, 3033 Amount=1, 3502}, 
+               8 Content={3465, 3465, 2469, 2667, 2653, 3506 String="Warning!\n\nThe monthly rent of 865 gold\nfor your house \"Jungle Edge 5\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 865 gold\nfor your house \"Jungle Edge 5\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 865 gold\nfor your house \"Jungle Edge 5\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 865 gold\nfor your house \"Jungle Edge 5\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 865 gold\nfor your house \"Jungle Edge 5\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 865 gold\nfor your house \"Jungle Edge 5\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3504 Content={3507 String="Royal Overlord\nPort Hope" Editor="Blinged"}, 3504 Content={3507 String="Royal Overlord\nPort Hope\n" Editor="Mystical Witch"}, 3504 Content={3507 String="royal overlord\nport hope" Editor="Andy the Roman overlord"}, 3504, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Jungle Edge 5\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}}

@@ -1,0 +1,49 @@
+ID              = 9005800
+Name            = "Magic Diamond"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,128-114-114-128)
+CurrentOutfit   = (134,128-114-114-128)
+LastLogin       = 1148237729
+LastLogout      = 1148242121
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32274,32134,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,78700,0,83400,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,38351,1400,55031,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,166,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,1251,1100,1357,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,13341,1100,14635,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,127,1200,181,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,118,1200,181,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,1026,1200,1039,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,154,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,672,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,11,15,30,42,44,48,51}
+QuestValues = {(96,1),(97,1),(98,1),(106,1),(107,1),(109,1)}
+Murders     = {1148148742}
+
+Inventory   = {3 Content={2854 Content={3457, 3003, 3577 Amount=29, 3031 Amount=25}},
+               6 Content={3350}}
+
+Depots      = {0 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The City Wall 5a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3504, 3552, 3375, 3357, 3557, 3551, 2867, 3483, 3504 Content={3507 String="dadady\nthais\n" Editor="Dadady"}, 2471, 2471, 3504 Content={3507 String="dadady\nthais\n" Editor="Dadady"}, 3507 String="Saz Lak\nThais" Editor="Antanis", 2656, 2656, 2656, 2854 Content={3056 RemainingUses=200}, 2854 Content={3577 Amount=20, 3008, 3411, 3375, 3457, 2867 Content={2853 Content={2853}, 2906, 3059}, 3483, 3483, 2875, 2875, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10}, 2868 Content={3301, 3017, 3056 RemainingUses=200, 3375, 3551, 2853 Content={3421, 3008, 2853, 3268, 3289, 3725 Amount=1, 3598 Amount=1}, 3012, 2472, 2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2853, 3374, 3374, 3362, 2853, 2854 Content={3003, 3289, 2853, 2853, 2916, 3012, 3316, 3492 Amount=1, 3483, 3456, 3114 Amount=1, 3456, 2853 Content={3738 Amount=1, 3585 Amount=1, 3003, 2920, 3483, 3054 RemainingUses=70, 3300, 3012}, 2853 Content={3377, 3377, 3316, 3590 Amount=8, 3054 RemainingUses=200, 3054 RemainingUses=200}, 2853 Content={3375, 3377}, 3266, 3558, 3377, 3353, 3377}, 2920, 2853 Content={3362, 3552, 3097, 3097, 3084 RemainingUses=250, 3012}, 3003, 3551, 3483, 2901, 3301, 3430, 3012, 3052, 3085 RemainingUses=200, 3457}}}}}}, 3504 Content={3507 String="mystic diamond\nThais" Editor="Magic Diamond"}, 3003, 3507, 3198 Charges=5, 3198 Charges=5, 3188 Charges=2, 3188 Charges=2}, 2869 Content={3504 Content={3377, 3540, 3421, 2854}}, 2865 Content={3504 Content={2853 Content={3003, 3003, 3457, 3003, 3097 SavedExpireTime=3132, 3316, 3350}, 2853 Content={3003, 3003, 3003}, 3504, 3504, 3507 String="azkii\nthais" Editor="Spiras Druid"}, 2865, 2857}, 3059}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               7 Content={3502 Content={2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 2853, 2853 Content={2853, 2853, 2853, 2853 Content={2853 Content={2853}}}}}}

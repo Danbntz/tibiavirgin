@@ -1,0 +1,56 @@
+ID              = 13131910
+Name            = "Odstatni"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,79-0-94-94)
+CurrentOutfit   = (131,79-0-94-94)
+LastLogin       = 1148239047
+LastLogout      = 1148239168
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32926,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,95391,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,43194,3000,64000,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,83,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,24530,1100,24547,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,32,1400,71,30)
+Skill = (8,48,0,10,0,0,0,0,0,0,0,18523,1100,20072,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,73,1100,105,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,69,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,15,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,547,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(27,1),(35,1),(37,1),(69,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(115,1),(121,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2868},
+               4 Content={3380},
+               5 Content={3280},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3504, 3504 Content={3504 Content={3507 String="Ninga of Darkness\nThais" Editor="Lancasters lacky"}, 3504, 3504, 3504 Content={3507 String="Rodoman\nThais" Editor="Chuy Se Xy"}, 3504, 3504, 3504, 3292}}, 2471, 3492 Amount=30, 3286, 2853 Content={2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 3448 Amount=5, 3350}, 3031 Amount=21, 3031 Amount=100, 3285, 3447 Amount=9, 3547 Amount=1, 3509, 3504 Content={3507 String="xnexus\nthais" Editor="Zerovisk"}, 3502 Content={3483, 2901, 2472}}, 
+               1 Content={3502}, 
+               2 Content={2870, 3552, 3031 Amount=93, 3504 Content={3507 String="robert'master estar\nkazordoon" Editor="Robert'Master Estar"}, 3504 Content={3504 Content={3507 String="Ko-da\nKazordoon" Editor="Dohko Hakeryu"}, 3507 String="Ko-da\nKazordoon" Editor="Ko-da"}, 3504 Content={3504 Content={3507 String="\nkazordoon" Editor="Realpedro"}, 3507 String="Altas Simer \nKazordoon\n" Editor="Altas Simer"}, 3291, 2874, 2874, 2874, 3003, 3483, 2874 ContainerLiquidType=4, 3502 Content={3552, 3595 Amount=1, 3152 Charges=1}}, 
+               3 Content={3502 Content={3582 Amount=3}}, 
+               6 Content={3031 Amount=2, 3447 Amount=100, 3327, 3504 Content={2868 Content={3577 Amount=5, 2854 Content={3483}, 3447 Amount=100, 3448 Amount=5, 3447 Amount=6, 3447 Amount=22}, 2865 Content={2644, 2650, 2659, 2647, 2667, 2667, 2659, 2667, 2647, 2650, 2644, 2653, 2659, 2647, 2659, 2647}, 3507 String="Odstatni\nvenore" Editor="Odstatni"}, 1781 Amount=1, 2854 Content={3031 Amount=100, 3377, 3353, 3155 Charges=1, 3031 Amount=3, 3123, 3361, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian"}, 3503 Content={3507 String="Thomas philipy´Rokz\nPythera" Editor="Dark Lanceloth"}, 3372, 2874 ContainerLiquidType=10, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3425, 2853 Content={2874, 3035 Amount=1, 3031 Amount=50}, 3031 Amount=100, 2870, 3503 Content={2906, 2991, 3421, 3266, 3299, 3004, 3050 SavedExpireTime=900}, 3065, 2869 Content={3059}, 2871 Content={3372, 3457, 3308, 2969 KeyNumber=5010, 3008, 3059, 3031 Amount=46, 3031 Amount=100, 3031 Amount=2, 3097 SavedExpireTime=3597}, 2873, 3291, 3004, 3502 Content={2870 Content={3446 Amount=48, 3446 Amount=100, 3447 Amount=36, 3447 Amount=100}, 3275, 3503 Content={3507 Editor="Dragoon Wake"}, 1781 Amount=1, 3603 Amount=2, 2854 Content={2853 Content={3003, 3003, 3003, 3003, 3003}}, 2866 Content={3456, 3307, 3282, 3289}, 2870 Content={3264, 3264, 3264, 3264, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 2854 Content={2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2969 KeyNumber=3600}, 2866 Content={2853, 2853 Content={3017}, 3008, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2866 Content={3359, 2853 Content={3377, 3377}, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3359}, 2866 Content={2866, 3446 Amount=1, 3409, 3413, 3413, 2853 Content={3600 Amount=1, 3410, 3410, 3410, 3410}}, 2866 Content={3316, 3316, 3266}, 2854 Content={3551, 3557, 3552}, 2868 Content={3308, 3308, 3308}, 2867 Content={3350, 3447 Amount=100, 3350, 3447 Amount=100, 3350, 3291, 3447 Amount=78, 3448 Amount=21}, 2854 Content={3582 Amount=1, 3597 Amount=1, 3603 Amount=2}, 2867 Content={3492 Amount=92, 3492 Amount=100, 3492 Amount=100, 3483, 3492 Amount=41, 3483}, 2865 Content={2876, 2876, 2876}, 2868 Content={3031 Amount=100, 3031 Amount=91, 2469 Content={3503 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="Brother Ent\nVenore" Editor="Steve Klypx"}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=62}}, 2866 Content={3059, 3190 Charges=4, 2853, 2853 Content={3191 Charges=2, 3198 Charges=1, 3160 Charges=1, 3092}}, 2854 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457}, 2854 Content={3590 Amount=11, 3585 Amount=2}, 2866 Content={3504 Content={3504 Content={3504 Content={3507 String="Odstatni\nvenore" Editor="Arkanttoos"}, 3507 String="Odstatni\nvenore" Editor="Odstatni"}, 3504 Content={3507 String="Odstatni\nvenore" Editor="Arkanttoos"}, 3507 String="Odstatni\nvenore" Editor="Odstatni"}, 2901, 3551, 2853 Content={3661, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3661, 3565, 3454}, 2853 Content={2853, 2853, 2853}, 3077, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3504 Content={3507 String="Sellcius\nVenore" Editor="Sellcius"}}, 2853 Content={3285, 3285, 3285}, 2853 Content={3293, 3462, 3299, 3456}, 2853 Content={3552, 3374, 2989, 3463}, 2853 Content={2920, 2873, 2853 Content={3293, 3454, 3736 Amount=1, 3565, 3565, 3506 String="hombre antorcha\nvenore" Editor="Silen kiki", 3506 String="hombre antorcha\nvenore\ney we me le pasado muy bien jejj escribeme jajaja\nHombre antorcha\n" Editor="Silen kiki", 3505 String="Bieszczadek  venore" Editor="Odstatni"}, 3552}, 2920, 3552, 3552, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 3504 Content={3504 Content={3504 Content={3504}, 3505, 3507 String="Odstatni\nvenore" Editor="Odstatni"}}}, 2866 Content={2853, 2870}}}}

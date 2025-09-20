@@ -1,0 +1,51 @@
+ID              = 10065839
+Name            = "Xokme"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1148067596
+LastLogout      = 1148067603
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32370,32182,7]
+PlayerkillerEnd = 0
+
+Skill = (0,6,0,1,0,0,0,0,0,0,1,1874,0,2600,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,3571,1400,3839,1600)
+Skill = (2,165,165,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,75,75,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,430,430,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,1182,1100,1357,100)
+Skill = (7,27,0,10,0,0,0,0,0,0,0,1286,1100,1367,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,45,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,47,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,114,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,20,29,42,51,76,79,81}
+QuestValues = {(46,1),(59,1),(88,1),(89,1),(90,1),(99,1),(115,1),(153,1),(226,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502 Content={2647, 1781 Amount=4}}, 
+               1 Content={3504 Content={3559, 3375, 2868, 2868 Content={3056 RemainingUses=200, 2868 Content={3410, 3410, 2970 KeyNumber=4503, 3410, 3410, 3410, 3492 Amount=20, 3492 Amount=70, 3457, 3456, 3003}, 3410, 3410, 3457}, 3507 String="xokme\ncarlin"}, 3504 Content={3446 Amount=4, 3354, 3507 String="xokme\ncarlin\n"}, 3502 Content={3483, 3492 Amount=30, 3031 Amount=47, 3577 Amount=5}}, 
+               3 Content={3502 Content={3349}}, 
+               4 Content={3504 Content={3507 String="xokme\nedron"}, 3504 Content={3507 String="xokme\nedron\n"}, 3504 Content={3507 String="xokme\nedron\n"}, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="xokme\nvenore\n"}, 3076, 3504 Content={3507 String="xokme\nvenore"}, 3504 Content={3507 String="xokme\nvenore"}, 3502 Content={3504 Content={3504 Content={3507 String="xokme\nvenore\n"}, 3504 Content={3507 String="xokme\nvenore\n"}, 3504 Content={3507 String="xokme\nvenore\n"}, 3504 Content={3503 Content={3507}, 3507 String="xokme\nvenore"}, 3504 Content={3507 String="xokme\nvenore"}, 3504 Content={3507 String="xokme\nvenore\n"}, 3504 Content={3507 String="xokme\nvenore"}, 3507 String="xokme\nvenore\n"}, 2969 KeyNumber=3033, 3504 Content={3507 String="Shadowek Sorcerer\nCarlin"}}}, 
+               7 Content={3504 Content={3507 String="xokme\nankrahmun"}, 3502 Content={}}}

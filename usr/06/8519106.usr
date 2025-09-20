@@ -1,0 +1,57 @@
+ID              = 8519106
+Name            = "Notorius Outklaw"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (131,114-114-114-85)
+CurrentOutfit   = (131,114-114-114-85)
+LastLogin       = 1127968648
+LastLogout      = 1127968692
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,12599,0,13000,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,33840,1100,34214,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3762,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3473,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2817,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,8,10}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(60,1),(61,1),(100,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={3198 Charges=3},
+               6 Content={},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3198 Charges=5}}
+
+Depots      = {0 Content={3483, 3174 Charges=3, 3446 Amount=4, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2867 Content={}}, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3031 Amount=83, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=2, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3582 Amount=4, 3578 Amount=90, 3578 Amount=100, 3577 Amount=88, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2854 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367}, 2854 Content={3410, 3410, 3300, 3349, 3289, 3413, 3310, 3568, 3411, 3410, 3411, 3285, 3362, 3410}, 2853 Content={3160 Charges=1, 3160 Charges=1}, 3740 Amount=1, 3502 Content={3177 Charges=1, 3059 String="", 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3457, 3504 Content={3504 Content={3507 String="Notorius Outklaw\nThais"}, 3504 Content={3507 String="NOTORIUS OUTKLAW\nTHAIS", 3507 String="ferius of zanera\nthais"}, 3504 Content={3507 String="Wako Drako\nthais"}, 3504 Content={3507 String="darkmord lurker\nthais"}, 3507 String="Notorius Outklaw\nThais\n"}, 3740 Amount=1, 2920 SavedExpireTime=0, 2920 SavedExpireTime=110, 3003, 3003, 3003}}, 
+               1 Content={3426, 2870 Content={}, 3578 Amount=32, 3031 Amount=10, 3578 Amount=100, 3578 Amount=100, 3578 Amount=40, 3503 Content={3384, 3425, 3311, 3372, 3198 Charges=5, 3198 Charges=2, 3031 Amount=3, 3590 Amount=6, 3507 String="notorius outklaw\ncarlin"}, 3483, 3578 Amount=100, 3578 Amount=100, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=4, 2973 KeyNumber=3520, 3502 Content={2955, 3446 Amount=47}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3446 Amount=5, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3502 Content={}}}

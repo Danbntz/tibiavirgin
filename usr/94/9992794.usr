@@ -1,0 +1,55 @@
+ID              = 9992794
+Name            = "Demon Astloas"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,86-114-114-86)
+CurrentOutfit   = (134,86-114-114-86)
+LastLogin       = 1148229289
+LastLogout      = 1148229305
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32349,32226,6]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,56277,0,57600,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,34750,1400,38165,1600)
+Skill = (2,210,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,55,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8335,1100,8849,100)
+Skill = (7,47,0,10,0,0,0,0,0,0,0,10337,1100,10921,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,1239,1200,1297,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,386,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,225,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,29,42,51,76,79,81}
+QuestValues = {(46,1),(84,1),(86,1),(87,1),(112,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3083 RemainingUses=150},
+               3 Content={2853 Content={3033 Amount=1, 3031 Amount=55}},
+               4 Content={3377},
+               6 Content={3350},
+               10 Content={3447 Amount=88}}
+
+Depots      = {0 Content={3504 Content={3507 String="demon astloas\nthais"}, 3054 RemainingUses=170, 3504 Content={3507 String="demon astloas\nthais"}, 3504 Content={3507 String="demon astloas\nthais"}, 3504 Content={3507 String="demon astloas\nthais"}, 3504 Content={3507 String="demon astloas\nthais\n"}, 3504 Content={3507 String="demon astloas\nthais\n"}, 3056 RemainingUses=200, 3502}, 
+               1 Content={3504 Content={3507 String="demon astloas\ncarlin\n"}, 3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3031 Amount=49, 3367, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=52, 3367, 3367, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               4 Content={3083 RemainingUses=150, 3277 Amount=29, 3504 Content={3507 String="demon astloas\nedron\n"}, 3327, 3502}, 
+               5 Content={2857 Content={3031 Amount=1, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3349, 3738 Amount=1, 3504 Content={3507 String="demon astloas\ndarashia\n"}, 3504, 3502}}

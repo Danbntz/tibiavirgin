@@ -1,0 +1,57 @@
+ID              = 9742220
+Name            = "Soul of Vampire"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,132-94-132-94)
+CurrentOutfit   = (134,132-94-132-94)
+LastLogin       = 1148214414
+LastLogout      = 1148214638
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32335,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,274989,0,295200,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,545793,1100,582469,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,135,555,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,18980,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,10906,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,83,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2559,1100,2684,20)
+Skill = (14,0,1200,0,0,0,382,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,165,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,6,7,8,9,10,11,14,16,20,29,42,44,81,84,88}
+QuestValues = {(20,1),(60,1),(61,1),(269,1),(332,1)}
+Murders     = {1148065513}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={2866 Content={2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3583 Amount=2, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3160 Charges=1, 3191 Charges=2, 3191 Charges=1, 3160 Charges=1, 3061, 3147, 3147, 3147, 3492 Amount=11, 3031 Amount=49, 3035 Amount=5, 3052, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3069},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {1 Content={3003, 3457, 3367, 3502}, 
+               2 Content={3502 Content={2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=78}, 2853}}, 
+               4 Content={3504 Content={3507 String="soul of vampire \nedron"}, 3502}, 
+               5 Content={3338, 3507 String="SOUL OF VAMPIRE\nhunt here 1° floor\n" Editor="Soul of Vampire", 2650, 3469, 3466, 3504 Content={3492 Amount=30, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3582 Amount=4, 3507 String="soul of vampire\ndarashia" Editor="Drangon Stream"}, 3279, 3003, 3457, 3483, 3578 Amount=14, 2874, 3035 Amount=3, 3505 String="So tive 30 mim antes da especialiazaçao aew dei uma upadinha\n;D\nfoi pouco mas vlw\n=*\n" Editor="Soul of Vampire", 3311, 3504 Content={3147, 3147, 3504, 3507 Editor="Dark Geamler"}, 3582 Amount=3, 2973 KeyNumber=3520, 3502}, 
+               7 Content={3092, 3034 Amount=3, 3425, 2853 Content={3578 Amount=20, 3446 Amount=6, 3367, 3367, 3592, 3592, 3592}, 3092, 2871, 3503 Content={3503 Content={3507}, 3507, 3507}, 3502 Content={3367, 3367, 3367, 3367, 3031 Amount=35, 3583 Amount=49, 3504 Content={2853 Content={2853 Content={2853 Content={3409, 3286, 3286, 3409, 3349, 3286, 3409}, 3409, 3286, 3409, 3286, 3349}, 2656, 3316, 2853 Content={3286, 2853 Content={2853 Content={3409, 3286, 3349}, 3349, 3301}, 2853 Content={2853 Content={2853 Content={3349, 3286, 3409, 3349, 3409, 3286, 3285}, 2853 Content={3409, 3409, 3286, 3349}, 3286, 3286, 3286, 3286, 2853 Content={2853 Content={3286, 3349}, 3349, 3409}}, 3285, 3286, 3409, 3286, 3349}, 3286}, 3275, 2853 Content={3031 Amount=90, 3031 Amount=100, 3351, 3077, 3492 Amount=96}}, 2853 Content={2853 Content={3354, 3367, 3286, 2853 Content={2853 Content={3286, 3367, 3367, 3367, 3286}, 3367, 3367, 3286}, 3286}, 2853 Content={3286, 3354}, 2853 Content={3367, 3367, 2853 Content={3367, 3286}, 3367, 3354}, 3377, 3354}, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3507 String="scarlett garner\nankrahmun" Editor="Sir caritax"}, 3578 Amount=100, 3582 Amount=3, 3492 Amount=85, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3577 Amount=4, 3031 Amount=100, 3492 Amount=100}}, 
+               8 Content={3725 Amount=99, 2853 Content={3052, 3052, 3052, 3052, 3052, 3725 Amount=100}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=60, 3483, 3492 Amount=22, 3147, 3147, 3147, 3583 Amount=3, 3582 Amount=1, 3725 Amount=8, 2853 Content={3147, 3147, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="soul of vampire\nport hope" Editor="Soul of Zanera", 3147, 3147, 3583 Amount=100, 3507 String="Partch'Botcha  \nhunting here,\n respect, leave plx :p ty" Editor="Partch'Botcha", 3504 Content={2866 Content={2853 Content={3074, 3031 Amount=5, 3577 Amount=97, 3582 Amount=15}, 3147, 3577 Amount=5, 3031 Amount=19}, 3003, 3457, 3583 Amount=85, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=60, 3583 Amount=100, 3507 String="soul of vampire \nport hope\n" Editor="Soul of Vampire"}, 3483, 3492 Amount=75, 3492 Amount=100, 3502}}

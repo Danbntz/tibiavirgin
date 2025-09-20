@@ -1,0 +1,54 @@
+ID              = 12763562
+Name            = "Cyburn"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-0-113-76)
+CurrentOutfit   = (128,114-0-113-76)
+LastLogin       = 1147705158
+LastLogout      = 1147705248
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32351,32231,8]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,103633,0,116000,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,60052,1100,64871,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,395,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,19526,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,44,1800,84,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1997,1800,2063,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,75,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,355,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,139,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,7,10,25,29}
+QuestValues = {(17,1),(55,1),(59,1),(106,1),(107,1),(128,1),(140,1),(141,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {1145274280}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2865 Content={3286, 2874, 2874, 3585 Amount=2, 3147, 3577 Amount=10, 2991, 3084 RemainingUses=250, 2874, 2874, 2874, 3147, 3147, 3147, 3147, 3050 SavedExpireTime=1025, 3003, 2906, 3198 Charges=1, 3723 Amount=7}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3045 RemainingUses=176, 3504 Content={3375, 3046 SavedExpireTime=311, 3507 String="cyburn\nthais" Editor="Brevity"}, 3504 Content={2853, 3294}, 3307, 2854, 2469 Content={2857 Content={3083 RemainingUses=150, 3084 RemainingUses=250}, 2867 Content={3070, 3070}, 2870 Content={3285, 3375, 3316, 3375, 3289, 3357, 3377, 3353, 3384, 3375, 3375, 3353, 3353, 3289, 3289, 3316, 3277 Amount=22, 3565, 1781 Amount=22}, 2870 Content={3577 Amount=3, 3316, 3375, 3316, 3425, 3377, 3289, 3375, 3289, 3425, 3551, 3425, 3008, 3289, 3375, 3425, 3316}, 2871 Content={2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 2969 KeyNumber=3600}, 2871 Content={3349, 3446 Amount=4, 3350, 3287 Amount=2, 3446 Amount=100, 3447 Amount=68, 3449 Amount=3, 3448 Amount=63, 3447 Amount=100}, 2854 Content={3174 Charges=5, 2853 Content={3147, 3147}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2868 Content={3123, 3588 Amount=58, 3577 Amount=38, 3582 Amount=24, 3592, 3592, 3593, 3593, 3590 Amount=26, 3602 Amount=6, 3585 Amount=14, 3595 Amount=6, 3579 Amount=39, 3578 Amount=65, 3600 Amount=16, 3597 Amount=4, 3592, 3592, 3583 Amount=5, 2860 Content={3582 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}}, 2865 Content={3084 RemainingUses=250, 3085 RemainingUses=185, 3084 RemainingUses=250, 3077, 3083 RemainingUses=150, 3054 RemainingUses=200, 3084 RemainingUses=250, 3012, 3054 RemainingUses=200, 3572, 3056 RemainingUses=200, 3056 RemainingUses=198, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3012, 3012, 3012, 3008, 2857 Content={3093 SavedExpireTime=1627, 3098, 3052 SavedExpireTime=1104, 3097 SavedExpireTime=2671, 3093, 3097, 3097 SavedExpireTime=3286, 3052 SavedExpireTime=14}}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3046 SavedExpireTime=2960, 3046, 2874 ContainerLiquidType=10, 3160 Charges=1, 3059, 3059, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3160 Charges=1, 3188 Charges=3, 3172 Charges=3, 3188 Charges=3, 3059, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3164 Charges=3}}, 2914 SavedExpireTime=1567, 3505, 3304, 2854 Content={2656, 2659, 3505 String="hola hijo mio:\nte vine a visitar pero no tabas te kiero muchote y espero ke pronto vengas a tampico tu mamita\n\nArianza\n=***********\nbesitos\n\nWEEE Tmb AKI TU TIO CELSO TE KIERE MUCHO CHKITA NO TE METAS EN LIOS NI TE ENCHOCHES WE =* \n\natte : Pyster Enchochado", 3505 String="hijo:\n\nla vdd me senti mal sorry soy una tontita pero te kiero mucho bb y ps no volvera a suceder bb :( pero si tu sabes cuanto te dura tu molestia solo kiero decirte ke te kiero y pense ke tambien me recibirias con un beso  =*  :(\n pero bueno\n\nte kiero mucho como kiera tu mami  Ari\n\nespero ke subas lvl y ke pase lo ke pase ese cariñoke sientes por mi jamas se pierda porke aunke sea o no sea tu mami te llvo en mi corazon hijo \ntkm mucho gus  :(\n\n=*****\n\nAri  =*", 3505 String="                                            Thais                                                                                                                                                             Siema Radziu                                                           To ja Zurek                                                            Hehe                                                                          Cwicze wysylanie listow\n" Editor="Karos Mino", 3316, 3551, 3457, 3456, 3453, 3003}, 3283, 3456, 2815 String="SELL DOUBLE AXE,BATTLE AXE, OBSIDIAN LANCE, RINGS, 5 CROSSBOWS, MORNING STAR,ORCHISAXE, STAFF, WATCH AND GREEN TUNIC, PUMKIN, BOW, CHAIN LEGS MSG ME PLZ", 3668, 2853 Content={3362, 3337, 3552, 3362}, 2854 Content={3552}, 3492 Amount=39, 3456, 3483, 2873, 3483, 3505 String="ANGUS BEEF\n" Editor="Oblivion Angus", 3504 Content={3552, 3658, 3605 Amount=29, 3740 Amount=1, 3267, 2854 Content={3379, 3361, 3378}}, 2854 Content={3483, 2856, 3483, 3457, 2920 SavedExpireTime=579, 3457, 3505, 3505, 3505, 3456, 2906, 3189 Charges=2, 3736 Amount=2}, 3483, 3457, 3453, 3738 Amount=8, 3502 Content={3066, 2853 Content={2969 KeyNumber=3600, 3367}, 3299, 3483, 3457, 2854, 3377, 3191 Charges=2, 3457, 3234, 2853 Content={2991, 3551, 2920}, 3110, 2914, 2868 Content={3588 Amount=13, 2875, 3492 Amount=2, 3483, 3375, 3505, 3505 Editor="Shin Arkaelagor", 3012, 3505 Editor="Cyburn", 2955, 3110, 2854}, 3552, 3078, 2991, 3350, 2853 Content={2868, 2868 Content={2854 Content={3147, 3147, 3147, 3147}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 2901, 2893, 2906, 3492 Amount=100, 3483, 2854 Content={3362, 3552, 3552, 3362, 3453, 3453, 3003}, 2906, 2952, 3456, 2471 Content={3031 Amount=82, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3483, 3275, 3035 Amount=26, 3035 Amount=100}}}, 
+               1 Content={3459, 3577 Amount=2, 3277 Amount=3, 3457, 3456, 3462, 3502}, 
+               2 Content={3502}}

@@ -1,0 +1,57 @@
+ID              = 10498924
+Name            = "Lord treeko"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-88-88-114)
+CurrentOutfit   = (128,114-88-88-114)
+LastLogin       = 1148255501
+LastLogout      = 1148257193
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,139941,0,156200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,77538,3000,193600,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,23,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,53637,1100,53763,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,55,1400,71,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,115,1100,165,50)
+Skill = (9,54,0,10,0,0,0,0,0,0,0,33637,1100,35945,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,212,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2255,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,48,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(18,1),(20,1),(22,1),(23,1),(35,1),(54,1),(59,1),(60,1),(61,1),(99,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2866 Content={3405, 3046, 3046, 3026 Amount=3, 3172 Charges=2, 3164 Charges=3, 2870 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3577 Amount=3, 3582 Amount=1, 3593, 3492 Amount=65, 3483, 3031 Amount=11, 3003}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2472}}
+
+Depots      = {0 Content={2868, 3425, 3358, 3504 Content={3507 String="Lord Treeko\nThais\n" Editor="Pilin Parado"}, 3411, 3411, 3358, 3457, 2469, 2469, 2469 Content={3384}, 2469, 2969 KeyNumber=4600, 3289, 3003, 2853, 3430, 3430, 3579 Amount=1, 2911 SavedExpireTime=582, 3446 Amount=3, 3509, 3003, 3502 Content={3455}}, 
+               1 Content={3504 Content={3031 Amount=45, 3031 Amount=100, 3504 Content={3279, 3409, 3413, 3358, 3507 String="Lord treeko\nthais" Editor="Lord treeko", 2866 Content={3035 Amount=89, 3351, 3045 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3077, 3052, 3056 RemainingUses=200, 3286, 3092, 3457, 3509, 3358, 2970 KeyNumber=4503, 2969 KeyNumber=3033, 2857 Content={3031 Amount=7, 3305, 3147, 3483, 3050, 3084 RemainingUses=250}}, 2860 Content={3164 Charges=1, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}}, 3507 String="Lord treeko\nCarlin" Editor="Lord treeko"}, 3457, 3457, 2853 Content={4069 RemainingExpireTime=1792, 2872, 2867 Content={2859}, 2866 Content={2858}, 2854, 2868 Content={2860}}, 3504 Content={3003, 2868 Content={2857 Content={3030 Amount=1}, 3446 Amount=10, 3291, 2973 KeyNumber=3520, 3093 SavedExpireTime=487}, 2868 Content={3008, 3466, 2853, 3160 Charges=1}}, 2973 KeyNumber=3520, 3470, 3084 RemainingUses=250, 2922 SavedExpireTime=35, 3457, 3336, 3189 Charges=2, 3492 Amount=25, 3337, 3446 Amount=5, 3286, 3377, 2922 SavedExpireTime=187, 3286, 3504 Content={3003, 3270, 3066, 3264, 3031 Amount=70, 2857 Content={3286}, 3349, 3316, 3507 String="Lord treeko\nCarlin" Editor="Cheves"}, 3412, 2854 Content={2865, 3411, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1}, 3056 RemainingUses=200, 3430, 3503 Content={3012, 3301, 2868 Content={3425, 3330}, 3301, 3310, 3301, 3507 String="Lord treeko\nCarlin" Editor="Lord treeko"}, 2911 SavedExpireTime=1052, 2905, 2924 SavedExpireTime=135, 3492 Amount=100, 3502 Content={3446 Amount=4, 3336, 3456, 3459, 3447 Amount=2, 3454, 3454, 3147, 3492 Amount=76, 2991, 3411, 3378, 2862 Content={2868 Content={3337}}}}, 
+               2 Content={3457, 3377, 3502}, 
+               3 Content={3327, 3337, 3457, 3449 Amount=2, 3350, 3447 Amount=20, 3585 Amount=4, 3457, 2659, 2920 SavedExpireTime=341, 3307, 2870, 3457, 3483, 3308, 3502 Content={3552, 3003, 2969 KeyNumber=3033, 2853 Content={3411, 2853 Content={3411, 3411, 2853 Content={3276, 3276, 3276, 3411, 3411, 2853 Content={3276, 3276, 3276, 2853 Content={3276}}, 3336}}, 3411, 3411}, 3374}}, 
+               6 Content={3264, 2926 RemainingExpireTime=64, 3483, 3492 Amount=50, 3308, 2854, 3483, 2471, 3502}}

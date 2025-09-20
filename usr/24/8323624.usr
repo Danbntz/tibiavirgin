@@ -1,0 +1,60 @@
+ID              = 8323624
+Name            = "Zerashiel"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,15-114-114-15)
+CurrentOutfit   = (134,15-114-114-15)
+LastLogin       = 1147441269
+LastLogout      = 1147441272
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32622,32739,7]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,807365,0,847400,100)
+Skill = (1,48,0,0,0,0,0,0,0,0,0,1579838,1100,1691503,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,679,935,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,107,107,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,103344,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,17,2000,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,74688,2000,102350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,56,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4952,1100,5420,20)
+Skill = (14,0,1200,0,0,0,699,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,13,16,17,18,20,21,25,29,30,39,44,45,55,76,78,81,86}
+QuestValues = {(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(115,1),(151,1),(152,1),(153,1),(190,1),(191,1),(217,3),(226,1),(253,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2865 Content={3052 SavedExpireTime=449, 3492 Amount=66, 2853 Content={3148 Charges=3, 3457, 3003, 3492 Amount=100}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3198 Charges=3, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147}}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={2472 Content={3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 10440 gold\nfor your house \"Greenshore Village, Villa\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3655, 2911, 2911 SavedExpireTime=2995, 2472 Content={2471 Content={2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471, 2471}, 2469 Content={2469 Content={2469, 2469, 2469}, 2469 Content={3003}, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}}, 2469 Content={2469, 2853 Content={2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2816 String="Wyrd Sisters\nby Terry P.", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months."}}}}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3507 String="Zerashiel\nEdron\n\n", 3457, 3054 RemainingUses=200, 3483, 3507 String="Zerashiel here.  :)", 3293, 3505 String="", 3502 Content={3578 Amount=2, 3054 RemainingUses=68, 3054 RemainingUses=200}}, 
+               5 Content={3504 Content={3507 String="Zerashiel\ndarashia" Editor="Circocle"}, 3502}, 
+               6 Content={3322, 3074, 2869 Content={2865 Content={2867 Content={2867, 2867}}, 2869 Content={2866 Content={2866}, 2866, 2866 Content={2854 Content={2869}}}, 2871, 2871}, 3502 Content={3504 Content={3469, 3293, 3308, 3308, 2853}, 3504 Content={2920 SavedExpireTime=596, 3457, 3084 RemainingUses=237, 2866 Content={3457, 3483}, 3504 Content={3507 String="Zerashiel\nVenore"}, 3504 Content={3507 String="zerashiel\nvenore"}, 3504 Content={3507 String="zerashiel\nvenore"}, 3504 Content={3507 String="Zerashiel\nVenore\n\n"}, 3507 String="Hezzedrix\nVenore"}, 3504 Content={2853 Content={2853 Content={2853, 2853}}}, 3504 Content={3507 String="Zerashiel\nVenore\n"}, 2853 Content={3207 Amount=1, 3736 Amount=1, 3012, 2853 Content={2853 Content={3301, 3301, 3285, 3285, 3285, 3285}, 2853 Content={3301, 3285}, 2853 Content={2853 Content={3285}, 2853 Content={3301}, 3301}}}, 2853 Content={3301, 3285, 2853 Content={2853 Content={3285, 3285, 2853 Content={3285, 3301, 3285, 3285, 3301, 3301, 3285, 3285}, 3285, 3301, 3285, 3285, 3285}, 3285, 3285, 3301, 3285, 3301, 3285, 3301}}, 2853 Content={2857 Content={3083 RemainingUses=150, 2920, 2970 KeyNumber=4601, 3084 RemainingUses=250}, 3097, 3097, 3083 RemainingUses=150, 3097}, 3308, 2969 KeyNumber=5000}}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3403, 3007, 3031 Amount=98, 3035 Amount=4, 3504 Content={3504 Content={2867 Content={2867 Content={3446 Amount=85, 3377, 3293, 2970 KeyNumber=3142}}, 2867 Content={2868 Content={2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3505, 2856, 3275, 3504 Content={3504 Content={3504 Content={2853 Content={3507 String="to: Zera and pleed\nfrom: Des and marjo\n:Ò==(^.^)==Ó:   ~hugz~", 3456, 3003, 3457}, 3507 String="Zerashiel\nVenore\n"}, 3507 String="Zerashiel\nVenore\n"}, 3507 String="Zerashiel\nAnkrahmun\n"}, 3507 String="Zerashiel\nAnkrahmun\n"}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2869 Content={3311, 3372, 3425, 3377, 3375, 2871 Content={2853, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2865 Content={3029 Amount=2, 3049 SavedExpireTime=138, 3053, 3449 Amount=100, 3449 Amount=93, 3082 RemainingUses=50, 2874, 2874, 2874, 2874, 2874}, 2869 Content={3192 Charges=2, 3149 Charges=2, 3149 Charges=2, 3180 Charges=1, 3180 Charges=4, 3180 Charges=3, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3148 Charges=3, 3148 Charges=3, 3197 Charges=2, 3197 Charges=3, 3149 Charges=1, 3197 Charges=3, 3148 Charges=3, 3197 Charges=3, 3148 Charges=3, 3197 Charges=3, 3164 Charges=3}, 2871 Content={2870, 2854, 2868}, 3583 Amount=100}, 3457, 3416, 3297}, 3507 String="Zerashiel\nPort Hope\n" Editor="Zerashiel"}, 3502}}

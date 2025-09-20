@@ -1,0 +1,60 @@
+ID              = 10321346
+Name            = "Femea Brax"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,81-79-88-0)
+CurrentOutfit   = (142,81-79-88-0)
+LastLogin       = 1148254333
+LastLogout      = 1148257906
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32338,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1000446,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,348296,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,65,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,73,0,10,0,0,0,0,0,0,0,410408,1100,444791,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,43,1400,71,30)
+Skill = (8,28,0,10,0,0,0,0,0,0,0,2406,1100,2557,50)
+Skill = (9,74,0,10,0,0,0,0,0,0,0,227203,1100,244685,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,44,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4906,1100,4909,20)
+Skill = (14,0,1200,0,0,0,36,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(32,1),(33,1),(34,1),(76,1),(77,1),(78,1),(96,1),(97,1),(98,1),(111,1),(112,1),(121,1),(125,1),(126,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3),(224,1),(225,1),(226,1)}
+Murders     = {1148239400}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2872 Content={2870 Content={3031 Amount=96, 2854}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2868 Content={3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=4, 3198 Charges=4, 3198 Charges=5, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5}, 3003, 3457}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3324},
+               7 Content={3371},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3279}}
+
+Depots      = {0 Content={3504 Content={3507 String="femea brax\nthais" Editor="Safada Brax"}, 3502}, 
+               1 Content={3504 Content={3504 Content={3504 Content={3507 String="Femea Brax\nCarlin" Editor="Chilofompila"}, 3507 String="Femea Brax\nCarlin" Editor="Zeh Du Mel"}, 3504 Content={3507 String="Femea Brax\nCarlin" Editor="Banimaru"}, 3504 Content={3507 String="Femea Brax\nCarlin" Editor="Femea Brax"}, 3504, 3504 Content={3507 String="Femea Brax\nCarlin"}, 3504 Content={3507 String="rey revan\ncarlin\n"}, 3504, 3504, 3504, 3504 Content={3507 String="Femea Brax\nCarlin" Editor="Xilatos'Brax"}}, 3502 Content={2865 Content={2868 Content={3551, 2868 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033, 2869 Content={2854}, 3425}, 2955, 3285, 2969 KeyNumber=5000, 3308, 3046, 3285, 3310, 3736 Amount=2}}, 2854}}, 
+               3 Content={3504 Content={2868 Content={2868 Content={2868 Content={2868 Content={2868 Content={2868 Content={2868 Content={2868}}}}}}}}, 3502 Content={3349, 3425, 3266}}, 
+               4 Content={3031 Amount=3, 3031 Amount=77, 3003, 3457, 3582 Amount=1, 3502}, 
+               5 Content={3504 Content={3264, 3264}, 3504, 3504 Content={3507 String="Femea Brax\nDarashia" Editor="Femea Brax", 2854 Content={2973 KeyNumber=3520, 2970 KeyNumber=4503, 2969 KeyNumber=3001, 2969 KeyNumber=3008, 2969 KeyNumber=5000, 2969 KeyNumber=3600, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2970 KeyNumber=4503, 2970 KeyNumber=4502}, 2857 Content={3270}}, 3504 Content={3504 Content={3507 String="Femea Brax\nDarashia" Editor="Nado Brax"}, 3504 Content={3504 Content={3507 String="Chilofompila\nDarashia" Editor="Chilofompila", 3349, 3349, 3349, 3349, 3310}, 2854 Content={3270, 3270, 3457, 3270}, 3507 String="Femea Brax\nDarashia" Editor="Femea Brax"}, 3507 String="Femea Brax\nDarashia" Editor="Nado Brax"}, 3502 Content={2860 Content={3558, 3353, 3377, 3304, 3425, 3322, 2858 Content={3035 Amount=24, 3035 Amount=100, 3043 Amount=4}}}}, 
+               6 Content={3504 Content={3507 String="Femea Brax\nVenore" Editor="Hollerr"}, 3502}, 
+               7 Content={3502}}

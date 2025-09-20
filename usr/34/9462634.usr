@@ -1,0 +1,59 @@
+ID              = 9462634
+Name            = "Sir Squalo"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,0-77-0-77)
+CurrentOutfit   = (134,0-77-0-77)
+LastLogin       = 1128892615
+LastLogout      = 1128892779
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,313127,0,330400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,118880,1400,157982,1600)
+Skill = (2,332,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,154,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6049,1100,6400,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,37568,1100,38438,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,283,1200,372,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,246,1200,268,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,243,1200,268,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,301,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,274,1100,318,20)
+Skill = (14,0,1200,0,0,0,854,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,54,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,20,29,42,51}
+QuestValues = {(21,1),(22,1),(23,1),(98,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2866 Content={3447 Amount=31, 3031 Amount=35, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3367, 3367, 3367}, 3031 Amount=100}, 3003, 3457, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               5 Content={},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3447 Amount=90}}
+
+Depots      = {1 Content={3506 String="Sir Squalo\nCarlin\n\n#This message was generated automatically#\n \nWelcome!\n \nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please logg to our page:\n \nwww.cipsoft-service.nasze.com\n \nCopyright 1996-2005 CipSoft GmbH.", 3502 Content={}}, 
+               2 Content={3350, 3447 Amount=15, 3502 Content={}}, 
+               3 Content={3604 Amount=37, 3308, 3282, 2393, 2393, 2393, 3502 Content={}}, 
+               4 Content={3504 Content={3507 String="sir squalo\nedron", 3447 Amount=100, 3447 Amount=100}, 2867 Content={2853 Content={}, 3050 SavedExpireTime=1777}, 3504 Content={2865 Content={}, 2854 Content={3384, 2969 KeyNumber=3033, 3084 RemainingUses=250}, 2868 Content={}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3504 Content={2473 Content={3351, 3357, 3572}, 3507 String="Sir squalo\nedron"}, 3502 Content={}}, 
+               5 Content={3349, 3446 Amount=1, 3425, 3354, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

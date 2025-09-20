@@ -1,0 +1,54 @@
+ID              = 12288582
+Name            = "Ziomal Shide"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,0-0-0-0)
+CurrentOutfit   = (129,0-0-0-0)
+LastLogin       = 1145335431
+LastLogout      = 1145336823
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32816,32265,6]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,99976,0,116000,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,162395,1100,174690,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,220,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12101,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,490,1800,593,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,31,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,139,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5906,1100,5982,20)
+Skill = (14,0,1200,0,0,0,511,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,66,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,7,10,12,15,20,25,27,29,30,42,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(120,1),(121,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={2854 Content={3583 Amount=1, 3285, 3372}, 3413, 3031 Amount=73, 3003, 3083 RemainingUses=150, 3177 Charges=1, 3152 Charges=1, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3032 Amount=2}}
+
+Depots      = {0 Content={3358, 3504 Content={3507 String="Ziomal Shide\nThais" Editor="Ziomal Shide", 3504 Content={3507 String="Ziomal Shide\nvenore" Editor="Ziomal Shide", 1781 Amount=6, 3447 Amount=10}, 2867 Content={3283, 3425, 3350, 3003, 3349, 3425, 3349}, 2867 Content={3357, 3377, 3425, 3350, 3425, 3425, 3349}, 2867 Content={3059, 3504 Content={3308, 3273, 3273, 3273, 3273, 3273, 3273}, 2867, 2867}, 3724 Amount=2, 3723 Amount=38, 3155 Charges=1, 3483, 2867 Content={3285, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2854, 3353, 2867}}, 3504 Content={3507 String="Ziomal Shide\nThais" Editor="Ziomal Shide", 2865 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3}, 2867 Content={3189 Charges=2, 3285, 3578 Amount=25, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1}, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3425, 3446 Amount=49, 3070}, 3503, 3503, 3503 Content={2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=63, 3492 Amount=100, 3492 Amount=100}, 2866 Content={3003, 3264, 3446 Amount=28, 3349, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3457}, 2854}, 3502 Content={3357, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2871 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=13, 3031 Amount=11, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2969 KeyNumber=3600, 3093, 3147, 3147, 3147, 2854 Content={3189 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3483, 3147, 3147, 3147, 3147}, 2854 Content={3578 Amount=47, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3483, 3451}}, 
+               1 Content={3738 Amount=6, 3502 Content={1781 Amount=8, 3031 Amount=9, 3299, 3446 Amount=45, 3264, 3264, 3264, 3031 Amount=100, 3447 Amount=9, 3286}}, 
+               6 Content={2855 Content={3152 Charges=1, 3031 Amount=34}, 3502 Content={3056 RemainingUses=200, 3003, 3463, 3008, 3008, 2901, 2920 SavedExpireTime=72, 3503}}}

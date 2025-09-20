@@ -1,0 +1,61 @@
+ID              = 9521102
+Name            = "Arthen Zentherius"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,19-95-132-95)
+CurrentOutfit   = (134,19-95-132-95)
+LastLogin       = 1148254277
+LastLogout      = 1148259401
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33169,31813,9]
+PlayerkillerEnd = 0
+
+Skill = (0,71,0,1,0,0,0,0,0,0,1,5631734,0,5722600,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,958687,1400,1215653,1600)
+Skill = (2,743,815,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,216,980,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,140,140,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1730,1730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2148,1100,2452,100)
+Skill = (7,83,0,10,0,0,0,0,0,0,0,322825,1100,346580,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,94,1200,109,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,285,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1854,1100,1966,20)
+Skill = (14,0,1200,0,0,0,25,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,44,45,51,76,79,81}
+QuestValues = {(3,1),(4,1),(5,1),(6,1),(7,1),(8,1),(9,1),(10,1),(11,1),(12,1),(20,1),(21,1),(22,1),(23,1),(35,1),(50,1),(55,1),(70,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(115,1),(116,1),(117,1),(118,1),(121,1),(122,1),(123,1),(125,1),(126,1),(127,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(140,1),(141,1),(151,1),(152,1),(154,1),(156,1),(157,1),(158,1),(159,1),(160,1),(161,1),(170,1),(171,1),(172,1),(173,1),(174,1),(176,1),(177,1),(178,1),(179,1),(180,1),(190,1),(191,1),(193,1),(194,1),(195,1),(196,1),(197,1),(198,1),(205,1),(208,1),(213,1),(214,1),(224,1),(253,1),(257,1),(278,1),(292,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2872 Content={3035 Amount=16, 3723 Amount=63, 2863 Content={3031 Amount=32, 2854, 2869, 2867}, 3415, 3505 String="arthen zentherius here!" Editor="Arthen Zentherius", 2864 Content={3198 Charges=3, 2854 Content={3198 Charges=3, 3147, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 2854 Content={3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2874 ContainerLiquidType=10, 2854 Content={2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3160 Charges=1, 2872 Content={3152 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3446 Amount=10, 2854 Content={3446 Amount=50, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3160 Charges=1}}}},
+               4 Content={3370},
+               6 Content={3349},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=75}}
+
+Depots      = {0 Content={3504 Content={2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3507 String="arthen zentherius\nthais" Editor="Arthen Zentherius"}, 3504 Content={2865 Content={2853 Content={3275}, 3349, 3349, 2872 Content={3349, 2867 Content={2867}, 3349}, 3349, 3301, 3349, 2872 Content={3349, 3349}, 2853 Content={3301, 2853 Content={2853 Content={3349}, 3349, 3301, 3349, 3349}, 3583 Amount=1, 3294}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3507 String="arthen zentherius\nthais" Editor="Arthen Zentherius"}, 3504 Content={2869 Content={3349, 3349, 3349, 2869 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3275, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3349, 2853 Content={3349}, 3349}, 3349}, 3349, 3349}, 3349, 3349}}, 3349}}, 3275, 3349, 3275, 3349}, 3349}, 3349}, 3349}, 3349, 3349, 3349, 3349}}, 3507 String="arthen zentherius\nthais" Editor="Arthen Zentherius"}, 3504 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 2853 Content={2853 Content={3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 3507 String="arthen zentherius\nthais" Editor="Arthen Zentherius"}, 2868 Content={3350, 3349}, 2853, 3502}, 
+               1 Content={3502}, 
+               2 Content={3301, 3502 Content={3505 Editor="Arthen Zentherius"}}, 
+               3 Content={3409, 3577 Amount=20, 3557, 2853 Content={3492 Amount=80, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3061, 3574, 3502 Content={3505 String="WEST!. fui a demona a diske la kuest gaste sd pero era kuestion de vida o muerte(El x bow ta en el bp de las sd) ise algo de % kompre uhs kon la feria k sake en guard. tengo dos lootbag en kazz ia sabes komo venderlas o si no io las vendo de rato(en las cd. ke nos den mas feria)..los libros NO los tires we ponlos en la estufa de la casa en una bp dicen kosas chidas .. weno ay te topo sobrs vato"}}, 
+               4 Content={3035 Amount=40, 3035 Amount=8, 3359, 2871, 3078, 3058, 3284 RemainingUses=1, 3557, 3043 Amount=2, 3275, 2853 Content={2853 Content={2853}}, 3275, 3483, 3308, 3483, 3092, 3502 Content={2970 KeyNumber=4601, 3483, 3457, 3449 Amount=1, 2842 String="WEST! 15K DE PAYMENTS POR WAR MAS UHS!!:D"}}, 
+               5 Content={2869, 2869 Content={3322, 3297, 3297, 3322, 3416, 3416, 3071, 3416, 3071, 3416, 3071, 3071, 3416}, 3061, 3504 Content={2867 Content={3557, 3301, 3275, 3275, 3557, 3301, 3275, 3557, 3557, 3275}, 3507 String="arthen zentherius\ndarashia" Editor="Arthen Zentherius"}, 3574, 3043 Amount=2, 3035 Amount=100, 3577 Amount=89, 3035 Amount=34, 3449 Amount=36, 2870 Content={3301, 3301, 3557, 3301, 3301, 3557, 3557, 2868 Content={3583 Amount=4}, 3373, 3429, 3092 SavedExpireTime=1798, 3039, 3093, 3084 RemainingUses=205, 3350, 2853 Content={3349, 3409, 3409, 3349}, 3301, 3409, 3557}, 3504 Content={3449 Amount=9, 3349, 3301, 2853 Content={3301, 2867 Content={3275, 2867 Content={3557, 3301, 3301, 2870 Content={3557, 2870 Content={3557}}}}}, 3507 String="arthen zentherius\ndarashia" Editor="Arthen Zentherius"}, 2866 Content={3449 Amount=83, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 2394, 2394, 2842, 3415, 3062, 3061, 3450 Amount=1, 3039, 3093, 3092, 3091, 3034 Amount=1, 3091, 3092, 3091}, 3447 Amount=100, 2871 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3449 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2866 Content={3557}, 2868 Content={3377}, 2968 KeyNumber=3940, 3457, 3502 Content={2866, 2866, 2868, 2869}}, 
+               6 Content={2867 Content={3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 2867}, 3449 Amount=8, 3091, 3349, 3723 Amount=55, 2854 Content={3583 Amount=96, 3031 Amount=38, 3583 Amount=100, 2867 Content={2856, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}, 3456}, 3164 Charges=2, 2854 Content={3164 Charges=1, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3172 Charges=2, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3164 Charges=3}, 3075, 3504 Content={2867 Content={3072, 3071, 3071, 3072}, 3072, 3072, 3072, 3071, 3072, 3072, 3072, 3072, 3072}, 3097, 2854 Content={2853 Content={3092, 2871 Content={3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091}, 3046, 3083 RemainingUses=150, 3097}, 3033 Amount=14, 2866 Content={2869 Content={3051, 3051, 3091, 3091, 3092, 3091, 3092}, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3051, 3051, 3091, 3092, 3091, 3092, 3091, 3091}, 3092, 3092, 3092, 3092, 3093 SavedExpireTime=379}, 3391, 2868 Content={3349, 3275, 2821 String="Banor I praise your name. \nBe with me in the battle. \nBe my shield, let me be your sword. \nI will honor the godly spark in my soul. \nMay it flourish and grow.\n", 3353, 3353, 3271, 3271, 3271, 3557, 3449 Amount=62, 3436, 3320, 2867 Content={3557, 3391, 3449 Amount=26, 3449 Amount=100, 3557, 3357, 2857 Content={3301, 3351, 3279, 3557, 3557, 3357}, 3557, 3557, 3357, 3557, 3557, 3350}, 2853 Content={3061, 2842, 3449 Amount=100, 3351, 3425, 3425}}, 3035 Amount=41, 2854 Content={3035 Amount=100, 3035 Amount=100, 3043 Amount=8, 3003, 2853 Content={3308, 2853 Content={3275, 3301, 3301}}, 3275, 3275, 2857 Content={3447 Amount=51, 3448 Amount=16, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3046 SavedExpireTime=2557, 2853 Content={2853, 3286, 3409, 3264, 3264, 3264, 3264}}, 3046 SavedExpireTime=2995, 3003, 3483, 2969 KeyNumber=5010, 3502 Content={3061, 3061, 3066, 3287 Amount=1, 3504 Content={3507 String="abraxes\nvenore" Editor="Shirley-Barber"}, 2867 Content={3505 String="HEY MAN LEAVE PLIXX \nty........." Editor="Sir the zanera", 3505 String="arthen zentherius here!" Editor="Arthen Zentherius", 3505 String="arthen zentherius Hunting Here...\n\nRespect And  No Down Please !!!\n\nThx  =]~ " Editor="Arthen Zentherius", 3505 String="Arthen Zentherius Hunting Here...\n\nRespect And  No Down Please !!!\n\nThx  =]~ " Editor="Arthen Zentherius"}, 2872, 2866, 2870, 3492 Amount=39}}, 
+               7 Content={3297, 3349, 3557, 3502}, 
+               8 Content={3502 Content={}}}

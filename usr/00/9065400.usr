@@ -1,0 +1,55 @@
+ID              = 9065400
+Name            = "Leon Revor"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,115-94-58-114)
+CurrentOutfit   = (134,115-94-58-114)
+LastLogin       = 1146348642
+LastLogout      = 1146348657
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33222,32446,6]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,3737,0,4200,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2400,3000,6400,1600)
+Skill = (2,170,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,30,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,445,445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,901,1100,948,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,195,1100,232,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,201,1100,232,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,210,1100,232,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(21,1),(22,1),(23,1),(217,3),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3725 Amount=13}},
+               4 Content={3377},
+               5 Content={3311},
+               6 Content={3426},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3503 Content={3504 Content={3198 Charges=5, 2853 Content={3198 Charges=4, 3198 Charges=2, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=2, 3198 Charges=3}, 3198 Charges=5, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3}, 3507 String=""}, 3374, 3198 Charges=5, 3275, 3059 String="", 2471 Content={}, 2853 Content={3031 Amount=85, 3035 Amount=96}, 3502 Content={3457, 3308, 3411, 3354, 3457, 3457, 3379, 3379, 3379, 3003}}, 
+               4 Content={3503 Content={3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3507}, 3035 Amount=2, 3502}, 
+               5 Content={2667, 2872 Content={2920 SavedExpireTime=597, 3483, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3483, 3492 Amount=100, 3457, 3003, 3483, 3457, 3003}, 3583 Amount=4, 2667, 2396, 2667, 2396, 2667, 2868, 2638, 2667, 2667, 2667, 2667, 2853 Content={3483, 3578 Amount=82, 2871 Content={2868 Content={3003, 3353, 3353, 3353, 3353, 3353, 3353, 3287 Amount=30, 3432, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3583 Amount=5, 3287 Amount=4, 3353, 3311, 3311}, 3457, 3349, 3353, 3446 Amount=99}, 2667, 2635, 2869, 2869, 2869, 2870, 2869, 2667, 3062, 3590 Amount=3, 2853 Content={3192 Charges=2, 3192 Charges=2, 2853 Content={3311, 3353, 3353, 3353, 3353, 2853 Content={3308, 3411, 3411, 3411, 3492 Amount=99, 3457, 3483}}, 2854 Content={2656, 2656, 2656, 3574, 2656, 3574, 3574, 3574, 3349, 3349, 3349, 3349, 3349, 3349, 3505 String="MORN YAMIR HUNTING HERE\n\nMSG FIRST" Editor="Shadow Spinal", 3552}, 2469 Content={2869 Content={3003, 3003, 3003, 3457, 3457, 2871 Content={2855 Content={2874 ContainerLiquidType=12, 2880, 2880, 2853 Content={3578 Amount=58, 3586 Amount=9}}, 3661, 3463, 3658, 3556, 3044 Amount=1, 3658, 3209, 3078, 2903, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 3062}, 2856 Content={2856, 2856}, 2933, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903, 2903}, 2858, 2471 Content={3583 Amount=15}, 2472 Content={2854 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2867, 2869, 2866 Content={2872 Content={3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=1, 3148 Charges=2, 3148 Charges=3, 3148 Charges=2, 3148 Charges=1, 3148 Charges=3}}}}}, 2667, 3062, 3590 Amount=2, 2667, 2396, 3287 Amount=1, 2667, 2396, 2667, 2396, 2667, 2396, 3287 Amount=1, 2667, 2656, 3062, 2656, 3582 Amount=81, 3298 Amount=1, 2656, 3577 Amount=2, 2667, 2667, 3062, 3590 Amount=3, 2667, 3062, 3590 Amount=3, 2667, 3062, 3590 Amount=3, 2667, 3062, 3590 Amount=3, 2667, 2396, 2667, 2656, 2656, 2656, 3062, 2667, 2635, 2667, 3062, 3590 Amount=2, 2667, 3062, 3590 Amount=3, 2667, 3062, 3590 Amount=3, 2667, 3062, 3590 Amount=3, 2667, 2396, 2667, 2667, 2667, 2667, 2667, 2667, 3062, 3590 Amount=3, 2667, 3062, 3590 Amount=3, 2664 RemainingExpireTime=164, 2664 RemainingExpireTime=504, 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2600 gold\nfor your house \"Darashia 3, Flat 12\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3503 Content={3503 Content={3507}, 3503 Content={3507}, 3507}, 3502}, 
+               6 Content={2853, 3502}}

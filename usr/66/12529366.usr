@@ -1,0 +1,61 @@
+ID              = 12529366
+Name            = "Zok yo ma yo"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,1-94-0-0)
+CurrentOutfit   = (134,1-94-0-0)
+LastLogin       = 1148210052
+LastLogout      = 1148214629
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33201,32414,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,511250,0,548900,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,328423,1100,355602,1600)
+Skill = (2,310,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,49,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30045,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1313,2000,1550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,147,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,95,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,867,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,162,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,16,20,29,30,38,39,44,76,87,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(109,1),(113,1),(114,1),(125,1),(126,1),(333,1)}
+Murders     = {1147510732}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={2869 Content={3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3582 Amount=3, 3031 Amount=67, 3457, 3148 Charges=1, 3035 Amount=3, 3003, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               5 Content={3198 Charges=5},
+               6 Content={3198 Charges=5},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3046}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3177 Charges=1, 2853 Content={2853 Content={3377, 2853 Content={2853 Content={2853 Content={3377, 3377, 3377, 2853 Content={2853 Content={2853 Content={3377, 3377, 2853 Content={2853 Content={2853 Content={3377, 3349}, 3377, 3377}, 3377, 3377, 3377}}, 3377, 3377, 3377, 3377}}, 3377, 3377, 3377, 2853 Content={3377}}, 3377, 3377, 3377}, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377}, 3377, 3377}, 3507 String="Zok yo ma yo\nkazordoon" Editor="Omen Steell"}, 3507 String="Zok yo ma yo\nThais" Editor="Zok yo ma yo"}, 3502 Content={2868}}, 
+               1 Content={3349, 3349, 3349, 3349, 3349, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 3502 Content={3007, 3074, 3092, 3092}}, 
+               2 Content={3305, 3305, 3305, 3266, 2868, 3502 Content={2854, 2867}}, 
+               4 Content={2868 Content={2872, 2865, 2868}, 2869, 3003, 3502}, 
+               5 Content={3075, 3073, 3504 Content={3507 String="Zok yo ma yo\ndarashia" Editor="Zok yo ma yo"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 1, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               6 Content={3504 Content={3504 Content={3504 Content={3507 String="Zok yo ma yo\nKazordoon" Editor="Gred Dran"}}, 3507 String="zok yo ma yo\nvenore" Editor="Zok yo ma yo", 3507 String="Zok yo ma yo\nvenore" Editor="Zok yo ma yo"}, 3502}, 
+               7 Content={3502 Content={3046 SavedExpireTime=2960, 3046, 3046, 3046, 3046, 3297, 3072}}, 
+               8 Content={3502}}

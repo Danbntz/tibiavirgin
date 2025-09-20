@@ -1,0 +1,52 @@
+ID              = 8167833
+Name            = "Stain Slash"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,116-78-76-0)
+CurrentOutfit   = (128,116-78-76-0)
+LastLogin       = 1136483844
+LastLogout      = 1136484604
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33078,32089,10]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,147080,0,156200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,87500,3000,193600,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,64,0,10,0,0,0,0,0,0,0,181038,1100,188059,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,63,0,10,0,0,0,0,0,0,0,84920,1100,85435,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,270,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,147,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4700,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(96,1),(97,1),(98,1),(99,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2867 Content={3582 Amount=17, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {6 Content={2471 Content={3492 Amount=44, 3492 Amount=100, 3577 Amount=16, 3582 Amount=26, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3588 Amount=15}, 2473 Content={3031 Amount=8, 3035 Amount=14, 3030 Amount=1}, 2983, 2853 Content={3483, 3483}, 2853 Content={3264, 3316, 3372, 3273, 3056 RemainingUses=200, 3579 Amount=2, 2853 Content={3008, 3292, 3430, 3372, 3377, 3375, 3265}}, 3502 Content={3504 Content={2853, 3507 String="master cale\nvenore" Editor="Master cale"}, 3504, 2854, 3147, 2854, 2867, 3308, 3505 String="Stain Salsh\nVenore\n\npresents\npro\nSir Doug\nq eh \nlindo\nmas n\nme dah\nbola\n\nž|:•(", 2854 Content={2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2969 KeyNumber=5010, 2876 ContainerLiquidType=3, 2471 Content={3046, 3092, 1781 Amount=2, 3008, 3027 Amount=2, 3008, 3097, 3026 Amount=1, 3207 Amount=1}}}}}

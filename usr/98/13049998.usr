@@ -1,0 +1,53 @@
+ID              = 13049998
+Name            = "Monse Resendez"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-95-114-114)
+CurrentOutfit   = (129,114-95-114-114)
+LastLogin       = 1148258908
+LastLogout      = 1148259411
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32566,31730,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,165990,0,179400,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,53570,1400,55031,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,260,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,37111,1100,40144,100)
+Skill = (7,37,0,10,0,0,0,0,0,0,0,3767,1100,4026,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,35,0,10,0,0,0,0,0,0,0,26698,1200,28368,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,468,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,103,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,15,29,42,44,51}
+QuestValues = {(61,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               3 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3578 Amount=8, 3003, 3457, 3577 Amount=12}},
+               4 Content={3370},
+               5 Content={3311},
+               6 Content={3416},
+               7 Content={3557},
+               10 Content={2920 SavedExpireTime=105}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3280, 3450 Amount=1, 3147, 3507 String="Monse Resendez\nCarlin\n" Editor="Monse Resendez"}, 3504 Content={3370, 3483, 3483, 3085 RemainingUses=200, 3507 String="Monse Resendez\nCarlin\n" Editor="Khaymaan of Zanera"}, 3504 Content={2853 Content={3492 Amount=48, 3492 Amount=100, 3492 Amount=100}, 3548 Amount=1, 2854 Content={3446 Amount=84, 3349}, 3351, 3351, 3322, 3409, 3507 String="Monse Resendez\nCarlin" Editor="Khaymaan of Zanera"}, 3504 Content={3301, 3583 Amount=1, 3507 String="Monse Resendez\nCarlin\n" Editor="Monse Resendez", 3558, 2868 Content={2854, 3449 Amount=3, 3447 Amount=62}}, 2853 Content={3412, 3330, 3507, 3577 Amount=5, 3177 Charges=1, 3189 Charges=2, 3446 Amount=14}, 3504 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3384, 2973 KeyNumber=3520, 3483, 2866, 3507 String="Monse Resendez \nCarlin\n" Editor="Monse Resendez"}, 3504 Content={2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3507 String="Monse Resendez\nCarlin\n" Editor="Monse Resendez"}, 3504 Content={3483, 3291, 3277 Amount=9, 3425, 2865 Content={3147, 3147, 3189 Charges=2, 3147, 3188 Charges=3}}, 3504 Content={2854, 2853 Content={2853}, 3507 String="Monse Resendez\nCarlin" Editor="Monse Resendez"}, 3504 Content={3507 String="Monse Resendez\nCarlin\n" Editor="Monse Resendez", 2867 Content={3577 Amount=5, 3091 SavedExpireTime=1360, 3028 Amount=2}, 3447 Amount=7, 2829, 3446 Amount=2}, 3504 Content={3425, 3447 Amount=43, 3350, 3056 RemainingUses=200, 3092 SavedExpireTime=1720, 3507 String="Monse Resendez\nCarlin\n" Editor="Monse Resendez"}, 2872 Content={2854 Content={2868}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5}, 3277 Amount=20, 2868 Content={3097, 2854, 2865, 2868}, 3153 Charges=1, 3056 RemainingUses=200, 3595 Amount=1, 3148 Charges=3, 3287 Amount=2, 2829, 2829, 2854 Content={2868 Content={2969 KeyNumber=3033}, 3286, 3447 Amount=100, 3447 Amount=94, 3350}}, 3504 Content={3350, 3507 String="Monse Resendez \nCarlin\n" Editor="Monse Resendez", 3446 Amount=8}, 3504 Content={3449 Amount=34, 2853 Content={3446 Amount=100, 3446 Amount=100}, 3172 Charges=2, 3160 Charges=1, 3446 Amount=57}, 3084 RemainingUses=169, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2861 Content={2857 Content={3031 Amount=57, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2860 Content={2860 Content={2860 Content={3031 Amount=4}}}}, 2860 Content={3035 Amount=50, 3035 Amount=100}}, 3504 Content={3446 Amount=6, 3050, 3483}, 3504 Content={3565, 2920, 2973 KeyNumber=3520, 3504 Content={2914 SavedExpireTime=768, 3285, 3350}}, 3504 Content={3327, 3507 String="Monse Resendez\nCarlin\n" Editor="Cesar resendez"}, 3504 Content={3059, 3012}, 3504 Content={3421, 3056 RemainingUses=200, 3056 RemainingUses=200, 3507 String="Monse Resendez\nCarlin\n" Editor="Cesar resendez"}, 3504 Content={3282, 3350, 3308, 3350, 3350}, 3504 Content={3083 RemainingUses=150, 2969 KeyNumber=3033, 2970 KeyNumber=4503, 2973 KeyNumber=3520, 2920 SavedExpireTime=569, 3507 String="Monse Resendez\nCarlin\n" Editor="Cesar resendez"}, 3502 Content={3017, 2865 Content={2854}, 3176 Charges=1, 2854 Content={2854 Content={2854}, 2854}, 3046, 3585 Amount=9, 3300, 3409, 3012, 2920 SavedExpireTime=125, 3457, 3308, 3059, 3056 RemainingUses=200, 2969 KeyNumber=4600}}, 
+               3 Content={3502}}

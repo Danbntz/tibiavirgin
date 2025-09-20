@@ -1,0 +1,55 @@
+ID              = 10266052
+Name            = "Dragons of Demon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,114-114-114-114)
+CurrentOutfit   = (131,114-114-114-114)
+LastLogin       = 1126925661
+LastLogout      = 1126925670
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10194,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,1840,3000,6400,1600)
+Skill = (2,16,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7153,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,35,0,10,0,0,0,0,0,0,0,5188,1100,5459,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,138,1100,165,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,144,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,3,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(125,1),(126,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3054 RemainingUses=200},
+               3 Content={2853 Content={3492 Amount=5, 3336, 3031 Amount=49}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3282},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3003}}
+
+Depots      = {1 Content={2853 Content={3056 RemainingUses=200}, 2854 Content={3031 Amount=96, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={3003, 3349, 3277 Amount=10, 3507 String="Dragons of Demon\nCarlin"}, 2854 Content={3483, 2816 String="The orc - The green skinned orc is intelligent and able to use weapons and armor. They are warriors of some power and very dangerous in greater numbers. We are lucky not to have encountered any of the more dangerous orcs like warriors or berserkers on this isle.\n\nThe poison spider - Roughly only slightly tougher then the ordinary spider it can poison you. Try to avoid such fate since they usually live far from our base and you might not make it to our local monk for healing.\n\nThe bug - The bug is not that dangerous. More an annoyance then a threat to an adventurer of some experience. It might become a lethal threat to a perfect rookie. With some preparation they should not be worth to bother about.\n\nThe deer - Deers are a fine supply for food and are non-agressive animals and try to flee on sight. It might be difficult to catch them and you might easily enter the territory of a local predator while chasing them. \n\nThe rotworm - A creature of decay that lives underground like its small cousin, the earthworm. Its toothed maw is a formidable weapon and rotworms have torn more then one adventurer to pieces. A horde of them might kill anyone, so great caution is advised while encountering them.\n\nOther beasts - It is certain, that other beast live in the dungeons of our isle. But they are not numerous enough to become recognized yet. If you encounter any unknown beast it is certainly dangerous and a potential lethal enemy. Don't underestimate them.\n\nThe wasp - fast and deadly to the unexperienced. Their speed makes them dangerous, even more in high numbers", 3492 Amount=56}, 3502 Content={2865 Content={3457, 2969 KeyNumber=4603, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 3483}, 3362}}, 
+               3 Content={3502 Content={}}}

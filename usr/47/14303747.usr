@@ -1,0 +1,54 @@
+ID              = 14303747
+Name            = "Sir Chuck'Norris"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,95-95-76-125)
+CurrentOutfit   = (128,95-95-76-125)
+LastLogin       = 1148097581
+LastLogout      = 1148097764
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,48348,0,57600,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,39965,3000,64000,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,65,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,69002,1100,71890,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,33644,1100,35945,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,340,1100,385,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,19,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(58,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=19, 3003, 3504}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3295},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3291}}
+
+Depots      = {0 Content={2865 Content={3367, 3410, 3354, 3354, 3446 Amount=53, 3483, 3492 Amount=55, 3292, 3291, 3367, 3354, 3354, 3367, 3367, 3354, 3354, 3285, 3354}, 3502 Content={2869 Content={3065, 3075, 3059, 3059, 3059, 3059}, 2867 Content={2865 Content={3350, 3447 Amount=100, 3447 Amount=100, 3446 Amount=85, 3287 Amount=1}, 2868 Content={3311}, 2867 Content={3316, 3289, 3310, 3317}, 2854 Content={3307, 3299, 3330, 3301, 3301, 3301, 3291, 3307, 3307}}, 2871 Content={2865, 2854 Content={2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2872, 2869, 2867 Content={2867}, 2870 Content={2870, 2870, 2870}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}}, 2854 Content={2857 Content={3050, 3004, 3093, 3093, 2861 Content={3046 SavedExpireTime=2900, 3046 SavedExpireTime=827, 3078, 2955, 2955, 4871, 3046}, 2857 Content={3093 SavedExpireTime=1374, 3050 SavedExpireTime=1770, 3091 SavedExpireTime=1470, 3097, 3093 SavedExpireTime=1799, 3092, 3098, 3093}}, 2857 Content={3077, 3077, 3077, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2970 KeyNumber=4503}, 2866 Content={3083 RemainingUses=150, 3085 RemainingUses=200, 3045 RemainingUses=200, 3085 RemainingUses=200, 3084 RemainingUses=43, 3085 RemainingUses=200, 3083 RemainingUses=150, 3056 RemainingUses=198, 3054 RemainingUses=200, 3012, 3056 RemainingUses=200}}, 2866 Content={2854 Content={2856, 3035 Amount=52}, 3042 Amount=10}, 2870 Content={2867 Content={3079, 3420, 2969 KeyNumber=3600, 3371, 3008, 3281, 3381, 3391, 3003, 2866 Content={3052, 3457, 3052 SavedExpireTime=13}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3568, 3565, 3379, 3375}, 2865 Content={3270}, 2868 Content={2854 Content={3483, 3483, 3483, 3483, 3483}, 2854 Content={3734 Amount=1, 2977, 3505, 3114 Amount=1, 2977, 3293, 3453, 2906, 2856 Content={2650, 2656, 2667, 2667, 2667}, 2856, 3492 Amount=70}, 2471 Content={3504 Content={3507 String="sir chuck'norris\nthais" Editor="Tonho"}, 3504 Content={3504 Content={3507 String="sir chuck'norris\nthais" Editor="Tonho"}, 3507 String="sir chuck'norris\nthais" Editor="Tonho"}, 3504 Content={3504 Content={3507 String="Sirmagno\nThais" Editor="Stalk"}}, 3504, 3504 Content={3507 String="tonho\nthais"}, 3504 Content={3504 Content={3507 String="joselito xupa kabra\ncarlin"}, 3507 String="Tonho\nthais"}, 3504 Content={3507 String="Tonho\nThais"}, 3504 Content={3507 String="Tonho\nThais"}, 3504, 3504, 3504 Content={3507 String="radeef \ncarlin"}, 3504, 3504, 3504 Content={3507}, 3504}}, 2872 Content={3582 Amount=22, 3577 Amount=25, 3583 Amount=3, 3483, 3492 Amount=27, 3552}}}}

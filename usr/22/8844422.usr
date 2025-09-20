@@ -1,0 +1,60 @@
+ID              = 8844422
+Name            = "Anita of zanera"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,92-114-114-91)
+CurrentOutfit   = (137,92-114-114-91)
+LastLogin       = 1147671845
+LastLogout      = 1147671854
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32453,32110,3]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,214544,0,232500,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,464776,1100,478602,1600)
+Skill = (2,249,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,545,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30348,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,11,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,27,1800,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,18419,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,873,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2505,1100,2684,20)
+Skill = (14,0,1200,0,0,0,1000,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,63,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,35,100,0,0,0,1,0,88,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,11,20,39,42,44,76,81,84,87,88}
+QuestValues = {(17,1),(18,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(58,1),(60,1),(61,1),(93,1),(94,1),(95,1),(96,1),(98,1),(99,1),(106,1),(107,1),(113,1),(114,1),(116,1),(118,1),(121,1),(125,1),(126,1),(129,1),(131,1),(132,1),(190,1),(191,1),(217,3),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3085 RemainingUses=200},
+               3 Content={2854 Content={3075, 2854 Content={3031 Amount=42}, 3160 Charges=1, 3003, 3147, 3147, 3147, 3147, 3147, 3503 Content={3507 String="dy'harmy\nab'dendriel" Editor="Anita of zanera"}, 2853 Content={3031 Amount=80, 3582 Amount=6, 2853 Content={3160 Charges=1, 3160 Charges=1, 3155 Charges=1, 3155 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}},
+               4 Content={3377},
+               5 Content={3409},
+               6 Content={3070},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2968 KeyNumber=3940}}
+
+Depots      = {0 Content={2853 Content={3430, 2920 SavedExpireTime=250, 3483, 3578 Amount=21}, 3504 Content={3507 String="anita of zanera \nthais\n" Editor="Dy'Harmy"}, 3504 Content={3446 Amount=88, 3308, 3353}, 3502 Content={3031 Amount=43, 3031 Amount=100, 3031 Amount=100}}, 
+               1 Content={3504 Content={3504 Content={3507 String="anita of zanera\nab'dendriel"}, 3507 String="Anita of zanera\nCarlin\n" Editor="Evil'maldito"}, 3504 Content={3507 String="Anita of zanera\ncarlin" Editor="Temesek Awer"}, 3502 Content={2471, 2469}}, 
+               2 Content={3504 Content={3507 String="anita of zanera\nKazordoon"}, 2868 Content={2867 Content={}, 2870 Content={}, 2868 Content={}}, 3502 Content={2865 Content={3349, 3349, 3349}, 3349, 3349, 3349, 3349}}, 
+               3 Content={3035 Amount=1, 3031 Amount=50, 3504 Content={3507 String="anita of zanera\nab'dendriel" Editor="Legendary eduard"}, 3658, 3506 String="Anita of Zanera\nAb'dendriel\n\nPor medio de la presente se le hace una invitación a la unión ante dios de estos dos seresamados: Ishyru y Zakura style, la cual se realizara en senja el martes de esta semana a las 4pm hora venezuela y 3pm hora mexico\n\nEsperamos con tu asistencia , no nos falles\n", 3502}, 
+               5 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 2868 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3502 Content={}}, 
+               6 Content={3504 Content={3504 Content={3483, 3504 Content={3507 String="ariaxbeto\nab'dendriel"}, 3504 Content={3507 String="Evolgex\nAb'dendriel"}, 3507 String="keri thor\ncarlin\n"}, 3507 String="anita of zanera\nvenore"}, 3504 Content={3507 String="anita of zanera\nvenore"}, 3504 Content={3507 String="Lady-ana-fer\nvenore", 2865 Content={3606 Amount=29, 3587 Amount=1, 3579 Amount=24, 2853 Content={3003, 3457}, 3605 Amount=5}}, 3502 Content={}}, 
+               7 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={}}, 
+               8 Content={3504 Content={3507 String="Anita of zanera\nport hope"}, 3502 Content={}}}

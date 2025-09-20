@@ -1,0 +1,54 @@
+ID              = 8040110
+Name            = "Rancherito'Forces"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,0-114-114-0)
+CurrentOutfit   = (134,0-114-114-0)
+LastLogin       = 1147993856
+LastLogout      = 1147993867
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32929,32074,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54776,0,57600,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,169914,1100,174690,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,119,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15402,1500,17099,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,259,2000,450,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,10192,2000,12750,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,5867,2000,6350,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,202,2000,350,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,574,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2778,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,38,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,7,8,10,16,29,76}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(49,1),(58,1),(59,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3008},
+               3 Content={2867 Content={3147, 3492 Amount=100, 3483, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 2853 Content={2920 SavedExpireTime=97, 3174 Charges=5, 3457, 3003}, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={3377},
+               5 Content={3411},
+               6 Content={3074},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               4 Content={2866 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 2853 Content={3457, 3457, 3003, 3453}, 2853 Content={2853 Content={3031 Amount=76, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3012, 3054 RemainingUses=200, 2853 Content={3277 Amount=77, 1781 Amount=32}, 3502 Content={3578 Amount=6, 3582 Amount=60, 3577 Amount=70, 3723 Amount=84, 3590 Amount=4}}, 
+               6 Content={3372, 2867 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3503 Content={3504 Content={2919, 2853 Content={3504, 3507 String="anya arerkson\nvenore", 3507 String="anya arerkson\nvenore"}, 2853, 2853, 2853, 2853, 3507, 2853, 2853, 3507 String="Stalk\nVenore"}}, 3503 Content={3492 Amount=21, 3275, 3003, 2920 SavedExpireTime=600, 2920, 2920, 2920 SavedExpireTime=595, 3503 Content={3457, 2853 Content={2920, 3367, 3367, 3483}}}, 3502 Content={2920 SavedExpireTime=26, 2920 SavedExpireTime=24, 3066, 3028 Amount=1, 2874}}}

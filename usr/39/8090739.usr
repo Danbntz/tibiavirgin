@@ -1,0 +1,55 @@
+ID              = 8090739
+Name            = "Lord Flamatar"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,115-114-95-114)
+CurrentOutfit   = (134,115-114-95-114)
+LastLogin       = 1144849157
+LastLogout      = 1144849311
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32624,31790,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,117620,0,135100,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,100160,3000,193600,1600)
+Skill = (2,364,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,107826,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,1400,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,701,1100,796,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,120,1100,165,50)
+Skill = (10,60,0,10,0,0,0,0,0,0,0,58772,1100,64064,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9423,1100,9757,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,29,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,29}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(61,1),(84,1),(85,1),(86,1),(87,1),(100,1),(106,1),(107,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2853 Content={3031 Amount=7, 3031 Amount=5, 2854 Content={3577 Amount=1, 3286, 2920, 3031 Amount=32, 3492 Amount=17, 3031 Amount=100, 3425, 3031 Amount=100, 3035 Amount=3, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3457, 3003, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2866 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}},
+               4 Content={3377},
+               6 Content={3275},
+               7 Content={3372}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504, 2973 KeyNumber=3520, 2853 Content={2853, 2853, 2853}, 3462, 3003, 3272, 3267, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={}, 3502 Content={}}, 
+               5 Content={2853 Content={}, 3578 Amount=100, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="Kuthgard\nDarashia"}, 2853 Content={}, 3504 Content={}, 2471 Content={}, 2876 ContainerLiquidType=1, 2469 Content={}, 2893 ContainerLiquidType=0, 3578 Amount=82, 3504 Content={}, 3504 Content={3507 String="chebe\nankrahmun"}, 3504 Content={3507 String="Semero Sith\ndarashia"}, 2853 Content={}, 3504 Content={3507 String="mady mitewel\ndarashia"}, 2853 Content={}, 3504 Content={3507 String="toker joker\nthais"}, 3504 Content={}, 2469 Content={}, 2473 Content={}, 2473 Content={}, 2893 ContainerLiquidType=0, 3504 Content={3507 String="Zir-Leonel\ncarlin"}, 3504 Content={}, 3504 Content={3507 String="Lord Dillinger\nAnkrahmun"}, 3504 Content={3507 String="buddy-luv\nAnkrahmun"}, 3504 Content={}, 3504 Content={}, 3472, 2985, 3504 Content={}, 3504 Content={}, 3504 Content={}, 2882 ContainerLiquidType=0, 2985, 3578 Amount=1, 2469 Content={}, 3504 Content={3507 String="reyco\ndarashia"}, 2471 Content={}, 3465 ContainerLiquidType=0, 2469 Content={}, 2469 Content={}, 2469 Content={}, 3114 Amount=1, 3454, 3469, 3603 Amount=1, 3578 Amount=100, 2866 Content={}, 3466, 2902 ContainerLiquidType=0, 3578 Amount=100, 3138, 3504 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="lord flamatar\ndarashia"}, 3504 Content={2853 Content={3605 Amount=2, 2911 SavedExpireTime=2996, 2970 KeyNumber=4601}, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3050 SavedExpireTime=0, 2469 Content={3446 Amount=62, 3446 Amount=100, 2656, 2656, 2656, 2911 SavedExpireTime=1889, 2469 Content={3583 Amount=1, 2656, 3578 Amount=100, 3578 Amount=100, 3582 Amount=6, 3577 Amount=15, 3585 Amount=25, 3601 Amount=2, 3582 Amount=100}, 3358, 3583 Amount=1, 2869 Content={2868 Content={2867 Content={3054 RemainingUses=121, 3054 RemainingUses=200, 2911 SavedExpireTime=2049, 2911 SavedExpireTime=2998, 2482 Content={2911 SavedExpireTime=1912, 3083 RemainingUses=150, 3054 RemainingUses=162, 3054 RemainingUses=200, 3054 RemainingUses=130, 3054 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3504 Content={3503 Content={3504 Content={}, 3503 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 2471 Content={3293, 3412, 3483, 3268, 3375, 3421, 3375, 3375, 3409, 3409, 3409, 3483, 3457, 3457, 3003}, 2471 Content={2853 Content={2853 Content={2853 Content={}, 2853 Content={3410, 3354, 3352, 3410}, 2853 Content={3367, 3410, 3410, 3410, 3352, 3354}, 2853 Content={3410, 3410, 3354, 3352}, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410}}, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410}, 2853 Content={3410, 3352, 3352, 3352, 3352, 3352}, 2853 Content={3352, 3354, 3354, 3352}, 2853 Content={3410, 3410, 3354, 3354, 3354, 3410, 3410}, 2853 Content={3410, 3352, 3352, 3410}, 2853 Content={3354, 3352, 3354, 3410, 3354}, 2853 Content={3354, 3410, 3410}}}, 2853 Content={2853 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2853 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}}, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}}, 3447 Amount=11}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}}, 3507 String="Lord Flamatar\ndarashia\n"}, 2482 Content={2866 Content={3031 Amount=2, 3031 Amount=100, 3035 Amount=11}, 2866 Content={}, 2866 Content={2869 Content={}, 2868 Content={}}, 2854 Content={3198 Charges=4, 3198 Charges=3, 3457, 3003}}, 3372, 3147, 2482 Content={3198 Charges=1, 3198 Charges=5, 3003, 3457, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5}, 2469 Content={}, 2854 Content={3311, 3552, 3483, 3007, 3056 RemainingUses=200, 3557, 3357, 3351, 3317, 3425, 3286, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 2866 Content={}}, 3003, 3457}, 3003, 2853 Content={3457, 3457, 3457}, 3502 Content={}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,48 @@
+ID              = 13410273
+Name            = "Armel Tyran"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-88-86-69)
+CurrentOutfit   = (129,114-88-86-69)
+LastLogin       = 1148002064
+LastLogout      = 1148002083
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32351,32228,6]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8619,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,497,1400,1600,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,30,50,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,28,0,10,0,0,0,0,0,0,0,4964,1100,5115,100)
+Skill = (7,31,0,10,0,0,0,0,0,0,0,2017,1100,2142,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,242,1200,268,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,1403,1200,1607,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,108,1200,109,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,138,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(32,1),(33,1),(34,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3308}},
+               5 Content={3426},
+               6 Content={3337}}
+
+Depots      = {0 Content={3504 Content={3507 String="armel tyran\nthais" Editor="Lemis Fyfenis"}, 3502}, 
+               6 Content={3504 Content={3430, 3507 String="ARMEL TYRAN\nVENORE" Editor="Sir Neodo"}, 3504, 3504 Content={3507 String="ARMEL TYRAN\nvenore" Editor="Lemis Fyfenis"}, 3504 Content={3507 String="ARMEL TYRAN\nvenore" Editor="Lemis Fyfenis"}, 3504 Content={3507 String="armel tyran\nvenore\n" Editor="Iron Ryok"}, 3502 Content={3268, 3504 Content={3507 String="iron ryok\nvenore" Editor="Armel Tyran"}, 3504 Content={3507 String="armel tyran\nvenore" Editor="Lemis Fyfenis", 2853}, 3504 Content={2853, 3507 String="armel tyran\nvenore" Editor="Lemis Fyfenis"}, 3504 Content={3507 String="iron ryok \nvenore\n" Editor="Armel Tyran", 2853}, 3483}}}

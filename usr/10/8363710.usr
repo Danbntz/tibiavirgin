@@ -1,0 +1,59 @@
+ID              = 8363710
+Name            = "Kala Dona"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (140,98-0-53-0)
+CurrentOutfit   = (140,98-0-53-0)
+LastLogin       = 1147666279
+LastLogout      = 1147666453
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32574,31782,5]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,390656,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,155624,3000,193600,1600)
+Skill = (2,443,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,145,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,152082,1100,155247,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,17,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,91218,1100,94029,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3497,1100,3638,20)
+Skill = (14,0,1200,0,0,0,83,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,2,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(27,1),(46,1),(60,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3447 Amount=9, 3031 Amount=34, 3577 Amount=11, 3457, 3483, 2920, 2870 Content={3354, 3093 SavedExpireTime=1080, 3053 SavedExpireTime=585, 3052}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3492 Amount=6, 2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3381},
+               5 Content={3324},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2920 SavedExpireTime=152}}
+
+Depots      = {1 Content={3031 Amount=45, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2866 Content={3449 Amount=1, 3447 Amount=6, 3007, 3045 RemainingUses=200, 3367, 3367, 2866, 2866}, 3503 Content={3504, 3504, 3504 Content={3507 String="kala dona\ncarlin" Editor="Kala Dona", 3504, 3504 Content={3582 Amount=9, 3588 Amount=9, 3577 Amount=17, 3578 Amount=8}}, 3504 Content={2853 Content={3504, 2853, 2853 Content={3504, 2853}}, 2853 Content={3504 Content={2853}, 2853, 2853, 2853, 2853, 2853, 2853, 3504}}, 3504, 3504 Content={3504}}, 2854 Content={2853 Content={3028 Amount=2, 3059, 3147}, 3056 RemainingUses=200, 2868 Content={3350, 3305, 3372, 3350}, 2853 Content={3299, 3299, 3299}, 3327, 3327, 3327, 3377, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3311, 3054 RemainingUses=196, 3056 RemainingUses=200, 3050, 2914 SavedExpireTime=1246, 3301, 3305, 3377, 3457, 3362, 3285}, 2853 Content={3492 Amount=100, 3492 Amount=40, 3459}, 3412, 2853 Content={3598 Amount=2, 3585 Amount=5}, 3506 String="kala dona\ncarlin\n\ncarlin, 31 de dezembro de 2005 \n\ngostaria de comunicar q o  ANDRE MOCLA foi eleito o nome chefe da gang \"warriors of the darkness\" e vai assumir seu cargo apartir 01/01/2006.\n\n     atenciosamente ARTHAR DARFAL. " Editor="Arthar Darfal", 2955, 3502 Content={2854 Content={3155 Charges=1, 3076, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 3053 SavedExpireTime=592, 2854 Content={3076, 3026 Amount=6, 3082 RemainingUses=50, 3053, 3029 Amount=2, 3350}, 3082 RemainingUses=50, 2854 Content={3447 Amount=12, 3448 Amount=60, 3449 Amount=32, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11}, 3350, 3029 Amount=2, 3350}, 3583 Amount=2, 2920 SavedExpireTime=447, 2473, 2920 SavedExpireTime=162, 2920, 3483, 2469 Content={3046 SavedExpireTime=1313, 3042 Amount=1, 3084 RemainingUses=250, 3084 RemainingUses=250, 3012, 3012}, 2854 Content={3301, 3357, 3282, 3425, 3377, 3349, 3349, 3350, 3349, 3359, 3349, 3350, 3349}, 3598 Amount=16, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2853 Content={3084 RemainingUses=250, 2984, 2985, 3046 SavedExpireTime=2998, 2991, 3012, 3454, 3565}, 3147, 3147, 3147, 3003, 2920, 2920, 2920, 2853}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3349, 3349}, 3003, 3270, 2981, 2920, 2920, 2853 Content={2853 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 2853 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 3115, 3115, 3115, 3115, 3115, 3115}, 3504 Content={3504}, 3105, 2920, 2991, 3504 Content={3350, 2853 Content={2853}, 2853, 2853, 2853, 2853, 3350, 2853 Content={2853}, 2853}, 3502 Content={3336, 2472 Content={2920 SavedExpireTime=508}, 3447 Amount=8, 3003, 3451, 3586 Amount=2, 3130, 3054 RemainingUses=200, 3551, 3083 RemainingUses=150}}, 
+               5 Content={3457, 3457, 3502 Content={2469, 3377, 3003, 2920, 3505, 3358, 3577 Amount=3, 2868 Content={2868}, 3582 Amount=2, 2920}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3093, 3093, 3093}, 3504 Content={3079, 3357, 3419, 3507 String="kala dona\nankrahmun\n" Editor="Alkaidi", 3304, 2853}, 3598 Amount=2, 3429, 3483, 3577 Amount=38, 3502 Content={3035 Amount=52, 3504 Content={3504 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3504 Content={3504 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}}, 3504 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3504 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}}, 3504 Content={2853 Content={3504, 3504, 3504}, 3504 Content={3504, 3504, 3504}, 3504 Content={3504 Content={3504 Content={2853, 2853}}}, 2853, 2853}, 2866 Content={3447 Amount=10, 3409, 3045 RemainingUses=200, 3017, 3147, 3042 Amount=27, 3017, 3017, 3017, 3045 RemainingUses=200, 3032 Amount=4, 3033 Amount=3, 3046 SavedExpireTime=2988, 3046, 3046, 3045 RemainingUses=200}, 2868 Content={3279, 3059, 3447 Amount=19, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2984, 2901, 2901, 3147, 3425, 3327, 3327}, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 3492 Amount=73, 3577 Amount=17, 3425, 3270, 3492 Amount=100}}}

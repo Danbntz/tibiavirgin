@@ -1,0 +1,62 @@
+ID              = 8383199
+Name            = "Talestris"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,21-0-35-0)
+CurrentOutfit   = (142,21-0-35-0)
+LastLogin       = 1148258456
+LastLogout      = 1148258485
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33272,31981,6]
+PlayerkillerEnd = 0
+
+Skill = (0,50,0,1,0,0,0,0,0,0,1,1943015,0,1965000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,349645,3000,582400,1600)
+Skill = (2,806,815,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,20,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,119,119,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1520,1520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,235608,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,399,1100,474,50)
+Skill = (10,71,0,10,0,0,0,0,0,0,0,167461,1100,183711,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,413,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,6000,6000,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(39,1),(50,1),(72,1),(73,1),(74,1),(75,1),(83,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(125,1),(126,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(154,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2869 Content={3003, 2865 Content={3031 Amount=26, 3035 Amount=17}, 2865 Content={3046 SavedExpireTime=2887, 3046 SavedExpireTime=2997, 3046, 3092 SavedExpireTime=1762, 3092 SavedExpireTime=1767, 3092 SavedExpireTime=1713, 3092 SavedExpireTime=1513, 3092, 3092 SavedExpireTime=1467, 3092, 3092, 3092, 3004}, 3457, 3505 String="Talestris here !\nMsg me plx :D\n" Editor="Talestris", 3503 Content={3507 String="Talestris\nAb'dendriel" Editor="Talestris"}, 3308}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3320},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2870 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}
+
+Depots      = {0 Content={2865 Content={2865, 2865}, 3504 Content={3507 String="Talestris\nThais" Editor="Talestris"}, 3504 Content={3507 String="Talestris\nthais"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2865 Content={2865 Content={2870 Content={3282, 3264, 3264, 3264, 3425}, 3275, 3425, 3425, 3349, 3349, 3349, 3351, 3353, 3275, 3425, 3349, 3425, 3425, 3266, 3266, 3353, 3349, 3425, 3349}, 3266, 3266, 3266, 3305, 3349, 3409, 3282, 3349, 3409, 3349, 3349, 3425, 3265, 3409, 3282, 3266, 3264, 3264, 3354}, 3275, 3286, 3286, 3264, 3411, 3411, 3354}, 3286, 3354, 3354, 3354, 3354, 3367, 3411}, 3286, 3411, 3286, 3286, 3286, 3367, 3354}, 3411, 3286, 3367, 3367, 3367, 3411, 3411}, 3354, 3367, 3367, 3354, 3286, 3354, 3367}, 3367, 3286, 3411, 3286, 3367, 3286, 3411}, 3354, 3264, 3411, 3411, 3367, 3286, 3411}, 3354, 3286, 3286, 3411, 3411, 3286, 3286}, 3305, 3305, 3305, 3305, 3411, 3286, 3367}, 3411, 3286, 3411, 3354, 3367, 3367, 3286}, 3367, 3411, 3367, 3367, 3354, 3354, 3286}, 3367, 3286, 3367, 3286, 3286, 3354, 3354}, 3411, 3411, 3411, 3286, 3411, 3411, 3411}, 2865 Content={2865, 2865}, 2865 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}, 2853 Content={2853}}}}}, 3276, 3276}, 3276, 3276, 3276}, 3276, 3276}, 3276, 3276}}}}}}}, 3276, 3276, 3276, 3276}, 3276}, 3276, 3276, 3276}, 3276, 3276, 3276}, 3276, 3276, 3276}, 3276}, 3276, 3276, 3276}, 3276}, 3276, 3276}, 3276}, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276}, 3276, 3276, 3276}, 3276, 3276, 3276}, 3276, 3276}, 3276, 3276}, 3276, 3276, 3276, 3276}}}}}, 3276, 3276}, 3276, 3276, 3282, 3276, 3276, 3276}}, 2856 Content={3740 Amount=1, 3505 String="hermanita te kiero un chingo pls nunka lo olvides :)\n" Editor="Zara Thaf", 3084 RemainingUses=250}, 3502 Content={3351, 3557, 3557}}, 
+               4 Content={2869 Content={3350, 3083 RemainingUses=112, 3124, 2842 String="Hay alguien que cuando se despierta por la mañana el sol la bendice con cientos de luz que reflejan su belleza  al mundo que no se si mereces tal esplendor y vive cada dia como si fuera el ultimo inspirandome asi a seguir por ella..... \n\n\n\nRigel T Kiero mucho!!!!\n\n\nMi flakita bella lo eres todo para mi y siempre lo seguiras siendo!!! =')", 3274, 3430, 3274, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya Flats, Flat 14\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3077, 3283, 3291, 3362}, 2869 Content={3046 SavedExpireTime=2260, 3046 SavedExpireTime=491, 3077, 2920, 2920, 2922 SavedExpireTime=2, 3367, 3367, 3147, 3147, 3147, 3457, 3283}, 2866 Content={2867, 2868, 2865, 2869, 2869, 2865, 2865, 2854, 2865, 2865, 2870, 2866, 2868}, 3269, 2983, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya 5\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3035 Amount=7, 2857, 2869 Content={3083 RemainingUses=150, 3012, 3084 RemainingUses=250, 3083 RemainingUses=150}}}, 
+               5 Content={3504 Content={3507 String="Talestris\nDarashia"}, 3504 Content={2853 Content={3046 SavedExpireTime=0, 3046 SavedExpireTime=1055}, 3507 String="Talestris\nDarashia\n"}, 3502 Content={}}, 
+               6 Content={2869 Content={2869 Content={2869 Content={2869 Content={2869 Content={2868 Content={2869 Content={2867 Content={2869 Content={2869 Content={2871 Content={2868 Content={2868 Content={2866 Content={2866 Content={2865 Content={2867 Content={2867 Content={2869 Content={2867 Content={2867 Content={2854 Content={2867 Content={2866 Content={2869 Content={2867 Content={2869}}}}}}}}}}}}}}}}}}}}}}}}}}, 3594, 3502 Content={2868 Content={2869}, 2869}}, 
+               7 Content={3552, 2854 Content={3457}, 3502}, 
+               8 Content={2854 Content={}, 2780, 3502 Content={}}}

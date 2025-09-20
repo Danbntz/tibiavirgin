@@ -1,0 +1,62 @@
+ID              = 14123455
+Name            = "Dark leia"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (140,79-94-114-114)
+CurrentOutfit   = (140,79-94-114-114)
+LastLogin       = 1148222668
+LastLogout      = 1148227519
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33236,32443,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1018153,0,1070100,100)
+Skill = (1,44,0,0,0,0,0,0,0,0,0,1092473,1100,1150247,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,202,1025,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,800,800,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,48197,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1688,1800,2063,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,2,1800,50,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,561,1800,593,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,399,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,10226,1100,10752,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,8,9,10,11,16,20,29,38,39,44,45,81,84,87,88}
+QuestValues = {(56,1),(96,1),(97,1),(98,1),(112,1),(148,1),(149,1),(150,1),(151,1),(152,1),(190,1),(191,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,1),(246,1),(247,1),(249,4),(250,4),(251,1),(324,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2854 Content={3031 Amount=91, 3031 Amount=100, 3031 Amount=100, 3301, 3031 Amount=100, 3031 Amount=100, 3457, 3003}},
+               4 Content={3567},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2853 Content={2866 Content={3198 Charges=5, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=1}, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}
+
+Depots      = {0 Content={3504 Content={3507 String="dark leia\nthais" Editor="Dark chonvo"}, 3377, 3504 Content={3507 String="dark leia\nthais\n" Editor="Glan Cerim"}, 3552, 3504 Content={3507 String="dark leia\nthais" Editor="Dark leia", 3503 Content={3507 String="Aaron Maiden\nThais" Editor="Dark Meatball"}}, 2854, 3457, 3502}, 
+               1 Content={3504 Content={3578 Amount=50, 3507 String="dark leia \ncarlin" Editor="Hade Ceck"}, 2868 Content={3308, 3285}, 3059, 3502 Content={2868}}, 
+               2 Content={3502}, 
+               3 Content={4034 RemainingExpireTime=110, 4119 RemainingExpireTime=1543, 3502}, 
+               4 Content={2867, 2867 Content={3351, 3351, 3093, 3410, 3410, 3275, 3275, 3266, 3351, 3351}, 2874, 2874, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3349, 3425, 3425, 3425, 3299, 3504 Content={3448 Amount=2, 2866 Content={3449 Amount=7}, 2868 Content={3313, 2955, 2853 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3077, 2991, 2868 Content={3017, 3017, 3097, 3097 SavedExpireTime=1566, 3471, 3097, 3008, 3097, 2973 KeyNumber=3520, 3282, 4871, 2957, 2969 KeyNumber=3302, 3045 RemainingUses=200, 3045 RemainingUses=192}}}, 3457, 3504 Content={2911, 2911, 2911, 2911 SavedExpireTime=409, 3507 String="dark leia\nedron" Editor="Hade Ceck", 3548 Amount=1, 3548 Amount=1, 3547 Amount=1, 3547 Amount=1, 3547 Amount=1}, 3093, 3502 Content={2866, 2839, 2873, 3673, 2868}}, 
+               5 Content={2472 Content={3035 Amount=40, 3035 Amount=100, 3035 Amount=100, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3043 Amount=1, 3035 Amount=100}, 3447 Amount=55, 2969 KeyNumber=3620, 3504 Content={2853, 3507 String="dark leia\ndarashia" Editor="Rko-Master"}, 2787, 2876, 3504 Content={3504 Content={3504 Content={2867 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3465, 3304, 2868 Content={2866 Content={2902, 2870 Content={2866, 3572, 3098 SavedExpireTime=446, 2866 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2970 KeyNumber=4601, 2970 KeyNumber=4601, 2969 KeyNumber=4600, 2969 KeyNumber=3008, 2973 KeyNumber=3520}, 3299}, 3045 RemainingUses=200}, 3093}}}}, 3457, 3572, 2867 Content={3446 Amount=16, 3447 Amount=40, 3350, 2867}, 3220, 3502 Content={3110, 3110, 3046 SavedExpireTime=2999, 2916, 3177 Charges=1, 2853 Content={2854 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}, 2865 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}, 2865 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}}, 2854 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 2868 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}, 2865 Content={3110, 3110, 3110, 3110, 3110, 3110}}, 2865 Content={3446 Amount=100, 3446 Amount=2, 3446 Amount=100, 3349, 3372, 3299, 2853 Content={3264, 2853 Content={3264, 3264, 2853 Content={2853 Content={3264, 3286, 3264, 3286, 3264, 3264, 3286, 3286}, 3264, 3264, 3286, 3264, 3286, 3286, 3286}, 3286, 3264, 3286, 3286, 3286}, 3264}, 3349, 3147, 1781 Amount=2, 3483, 3483, 3377, 3377}, 2870 Content={3008, 3008, 3008, 3056 RemainingUses=200, 3077, 3084 RemainingUses=250, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3008, 3084 RemainingUses=242, 3045 RemainingUses=200, 3045 RemainingUses=200, 3008, 3054 RemainingUses=200}, 2865 Content={3050, 3050, 3050 SavedExpireTime=1793, 3097 SavedExpireTime=3598, 3050, 3092, 3097, 3092}}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3441}, 3502 Content={3031 Amount=16, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               8 Content={3502}}

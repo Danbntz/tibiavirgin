@@ -1,0 +1,47 @@
+ID              = 7951295
+Name            = "Thunderpaw"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (130,19-31-49-58)
+CurrentOutfit   = (130,19-31-49-58)
+LastLogin       = 1143689163
+LastLogout      = 1143689267
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32214,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,85537,0,98800,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,284054,1100,291109,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14365,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,11177,2000,12750,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,173,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4345,1100,4445,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,8,10,16,20,21,29,44,45}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(106,1),(107,1),(125,1),(126,1),(128,1),(190,1),(191,1),(223,1),(254,1),(333,1)}
+Murders     = {}
+
+Inventory   = {8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Esuph II a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3031 Amount=20, 3502 Content={3415, 3271, 3557, 3351, 3357, 3059 String="", 2868 Content={3031 Amount=34, 3035 Amount=4}, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=442}, 2857 Content={2854 Content={2992 Amount=4, 3027 Amount=2, 3028 Amount=1, 3077}, 2854 Content={3050 SavedExpireTime=0, 3052 SavedExpireTime=0, 3098 SavedExpireTime=0, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3008, 3050 SavedExpireTime=0}}, 2473 Content={3577 Amount=2, 3270, 3453, 3483, 3483, 3003, 3003, 3003, 2873 ContainerLiquidType=0, 2853 Content={3456, 3456, 3456, 3456, 3457, 3457, 3457, 3457}}, 2853 Content={2473 Content={2471 Content={}, 2473 Content={2473 Content={}, 2471 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2471 Content={}, 2471 Content={}, 2473 Content={}, 2473 Content={}}, 2471 Content={2469 Content={}, 2471 Content={}, 2471 Content={}, 2471 Content={}}, 2473 Content={}, 2473 Content={}, 2469 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}}, 2472 Content={2471 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 3503 Content={3507 String=""}, 3503 Content={3507 String=""}, 2853 Content={}}}, 2469 Content={2865 Content={}, 2868 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 2472 Content={3279, 3311, 2473 Content={2854 Content={3354, 3367, 3354, 3301, 3301, 3316, 3316}, 2854 Content={3277 Amount=4, 3447 Amount=75, 3298 Amount=1, 3287 Amount=1, 3448 Amount=5, 3299}, 2854 Content={3349}}, 2473 Content={3377, 3372, 3421, 3572, 3421, 3572}}, 2473 Content={2471 Content={2954, 2873 ContainerLiquidType=1, 2641, 2640, 2639, 2875 ContainerLiquidType=3, 3455, 3457, 2983, 2882 ContainerLiquidType=2, 2875 ContainerLiquidType=3, 2983, 3471, 2905, 3466}, 2854 Content={2917 SavedExpireTime=2997, 2911 SavedExpireTime=2993, 2911 SavedExpireTime=2955, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0, 2911 SavedExpireTime=0}, 2906, 2815 String="Hi i sended you this ^^\n\n( magican of the light )\n\n\n\ni also would like to ask you if u could kill Stof Zuiger for me? , he stole my loot\nand il help ya ^^", 2950, 2815 String="", 3509, 2834 String="Ledger", 2835 String="Ledger", 2839 String="Ledger"}, 2866 Content={2854 Content={2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}}}, 2471 Content={2854 Content={3578 Amount=48, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2854 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2854 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2853 Content={3579 Amount=8, 3600 Amount=43, 3588 Amount=70, 3723 Amount=5, 3605 Amount=98, 3605 Amount=100, 3595 Amount=28, 3585 Amount=13}, 3577 Amount=100, 3582 Amount=15}, 2865 Content={}}}}

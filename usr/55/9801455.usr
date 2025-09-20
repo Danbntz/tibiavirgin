@@ -1,0 +1,61 @@
+ID              = 9801455
+Name            = "Petit Prince"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,0-92-111-92)
+CurrentOutfit   = (134,0-92-111-92)
+LastLogin       = 1142947740
+LastLogout      = 1142950203
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32643,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,507524,0,548900,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,626466,1100,642316,1600)
+Skill = (2,310,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,576,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,70466,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,43113,2000,51150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,117,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2608,1100,2684,20)
+Skill = (14,0,1200,0,0,0,1060,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,16,21,25,26,29,38,39,44,45,81}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(22,1),(23,1),(37,1),(38,1),(54,1),(55,1),(60,1),(61,1),(62,2),(67,1),(71,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(138,1),(139,1),(140,1),(141,1),(190,1),(191,1),(217,3),(220,1),(221,1),(222,1),(225,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2866 Content={3577 Amount=6, 3723 Amount=23, 3198 Charges=1, 3198 Charges=3, 3003, 3457}},
+               4 Content={3567},
+               5 Content={3075},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3004},
+               10 Content={3071}}
+
+Depots      = {0 Content={3506 String="Petit Prince\nThais\nHi this is a normal player like everone else,Giovani Archer stole 700 gold and Brass legs from my sister,so he is hunted,I hope you don't find this offensive(you are not hunted thou).If i were you i wouldn't protect a theif.....\nHave a nice day!\nBest regards and have fun!", 3502 Content={}}, 
+               1 Content={3506 String="Petit Prince\ncarlin\ncara eu axo q deve ser em carlin pois eh mais perto e mais da hora para caçar mais se vc compra em qualquer outro lugar eu vou mais sxe for em carlin ajudo a pagar eu pago 1k ok agora vc q escolhe ok vc se manda carta para mim ass: tyros edir ", 3504 Content={3507 String="PETIT PRINCE\nCARLIN\n", 2853 Content={}}, 3502 Content={2469 Content={2469 Content={}}}}, 
+               2 Content={3502 Content={3507 String="Dinheiro", 2472 Content={3031 Amount=9, 3035 Amount=78}, 3507 String="Equipamentos", 2472 Content={3507 String="Armors, Legs, Helmets e Shields", 2471 Content={2854 Content={3349, 3446 Amount=55, 3046, 3359, 3551, 3290, 3421, 3299, 3265, 3350, 3350, 3349, 3349, 3350, 3349, 3349, 3073, 3074}}, 3507 String="Acessórios", 2471 Content={3453, 3304, 3483, 3457, 3293, 3308}, 3507 String="Foods" Editor="Petit Prince", 2471 Content={3577 Amount=18, 3725 Amount=25}, 3507 String="Amuletos e Anéis", 2471 Content={2867 Content={3083 RemainingUses=150, 3056 RemainingUses=200, 3050, 3093, 3098, 3077}, 2870 Content={3084 RemainingUses=250, 3092 SavedExpireTime=1376, 3572, 3084 RemainingUses=222, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3097, 3097}}, 3507 String="Runas e Magias", 2471 Content={3155 Charges=1, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3507 String="Chaves", 2471 Content={2854 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=4601, 2970 KeyNumber=4503, 2969 KeyNumber=3600, 2969 KeyNumber=3650, 2969 KeyNumber=3350, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033}}}, 3507 String="Bags Vazias", 2472 Content={2870 Content={2870, 2870, 2870}, 2867 Content={2867, 2867, 2867, 2867, 2867, 2867, 2867, 2867, 2867}, 2854 Content={2854}, 2865 Content={2865}, 2868 Content={2868}, 2866 Content={2866, 2866}, 2871 Content={2871, 2871, 2871}, 2869 Content={2869, 2869, 2869, 2869}, 2857 Content={2857, 2857}, 2472 Content={2472, 2472, 2480, 2472, 2480}, 2471, 2853 Content={2853, 2853, 2853, 2853}}, 3507 String="Coleções", 2472 Content={3507 String="Flores e Frutas" Editor="Petit Prince", 2872 Content={2865 Content={3597 Amount=10, 3595 Amount=10, 3591 Amount=10, 3587 Amount=10}, 2854 Content={3741 Amount=1, 2983, 2985, 3655, 3674, 3674, 2981, 2981, 2981, 2981, 2981, 2981, 2981, 2981, 2981, 2981}, 2868 Content={2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983, 2983}}, 3507 String="Cartas", 2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Nobility Quarter 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Calangudo\nCarlin\n\nOiiiiiiiiiiii amor vim até auqi com essa cartinha que peguei em um darf te mandar um alô pra você voltar a jogar que eu to morrendo de saudade de você ok \nbeijokas do seu priminho gigi gatinho "}, 3507 String="Cacarecos", 2472 Content={2867 Content={2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977, 2977}, 2854 Content={3291, 3469, 2991, 3078, 3470, 3467, 3547 Amount=1, 2885, 3451, 2815, 2843, 3462, 3452, 3455, 2818, 2885 ContainerLiquidType=2, 2893, 3012, 3459, 3454}, 2871 Content={3032 Amount=1, 3033 Amount=3, 3379, 2653, 2644, 2393, 2393, 2664 RemainingExpireTime=136, 2386, 2901, 3464, 2917 SavedExpireTime=2997}}, 3507 String="Quests", 2473 Content={2867 Content={3042 Amount=8, 2992 Amount=5, 3409, 3046, 2957, 3209, 3576, 3372, 3409, 3565, 2955, 2955, 3305, 3421}}}, 3507 String="Só da Bb", 2472 Content={3507 String="Flores", 2870 Content={2981, 2981, 2984}, 3507 String="Cartas", 2865 Content={3506 String="Petit Prince\nKazordoon\n\nAmor, eu quero a GH em Kazoordon! Perto da nossa casinha linda! =)\n\nTE AMO!!!!!\n=*******", 3505 String="Amor!!!!\n\nNosso Asteróide aqui no Tibia!!!! \\ó/\nGostei, viu?\n\nColoquei uma florzinha pra decorar e é de presente pra você!\n\nTE AMO MUITO!!!!\n\nBeijinho totoso pro meu principezinho lindo!\n", 3506 String="Sir Petit Prince\nKazordoon\n\nAmor, \nHoje é um dia especial, 10/10! E quero deixar isso marcado até aqui!\nTE AMO muito!!!!!\nE sou muito feliz de ter você ao meu lado,\n\nBeijinhos da sua,\nShannon Devin", 3506 String="Petit Prince\nCarlin\n\nAmor,  em retribuição ao que fez pela Shannon ontem e como um agrado, do fundo do meu coração, estou te enviando esse presente!\nTe amo muito!\n\nJu", 3506 String="Petit Prince\nCarlin\n\nBbzinho querido e amado do meu \ncoração! Fique sabendo que eu AMEI a rosa e que eu amo muito você!\nApesar de estar mandando a cartinha p/ o Petit, eu amo o Marmeleiro, o Calangudo e até a Gatinha Linda de Zanera, viu? ^^\nQuando eu pegar mais lanças, mando pro Calangudinho, tá?! Mas vê se joga com o meu companheirão sourcer, Petit!\nUm beijão!!!!! De quem te ama muitão!!! E quer ter você sempre ao lado,\nJu!"}}}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3506 String="Petit Prince\nVenore\nOI, Eu falei com o macacito lanco ele diise para eu falar com vc pra entar na guild deixa eu entar plplplz se vc deixar eu fica muito agradecido plz plz plz plz plz\nStar gogolak", 3502}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={}}}

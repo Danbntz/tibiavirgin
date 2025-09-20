@@ -1,0 +1,57 @@
+ID              = 8255416
+Name            = "Elite Sherek"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-114-105-114)
+CurrentOutfit   = (128,114-114-105-114)
+LastLogin       = 1141921820
+LastLogout      = 1141922201
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32394,32390,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,622492,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,108810,3000,193600,1600)
+Skill = (2,590,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,152,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,167897,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,93444,1100,94029,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,430,1100,490,20)
+Skill = (14,0,1200,0,0,0,754,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,75,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,67,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(21,1),(22,1),(23,1),(36,1),(67,1),(69,1),(96,1),(97,1),(98,1),(125,1),(126,1),(134,1),(137,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(156,1),(157,1),(158,1),(226,1),(253,1)}
+Murders     = {1140039254,1140041461}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=36, 3577 Amount=1, 3503 Content={3507 String="Elite Sherek\nThais" Editor="Elite Sherek"}, 3503 Content={3507 String="Elite Sherek\nThais" Editor="Elite Sherek"}, 3465, 3503 Content={3507 String="Elite Sherek\nThais" Editor="Elite Sherek"}, 2472, 2472, 2472, 2472, 3035 Amount=2, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3003}},
+               4 Content={3377},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3031 Amount=70, 3285, 3447 Amount=10, 3577 Amount=16, 3358, 3286, 3559, 3377, 3374, 3147, 3147, 3147, 3147, 3147, 3147, 3502 Content={3147}}, 
+               1 Content={3502}, 
+               2 Content={2860, 2860, 2854, 2854, 3077, 3506 String="Elite Sherek\nKazordoon\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 2868 Content={3603 Amount=100, 3603 Amount=70, 3548 Amount=30, 3547 Amount=30, 3543, 3541, 3542, 3546, 3541, 3541, 3545, 3544, 3541, 3535, 3536, 3538, 3537, 3535, 3535}, 3502 Content={2865 Content={3457, 3003}, 2473 Content={3457, 2872 Content={2647, 2874 ContainerLiquidType=1, 2647, 2667, 2647, 2667, 2667, 2667, 2659, 2393, 3492 Amount=49, 3003}, 2853 Content={3083 RemainingUses=150, 3083 RemainingUses=150, 3097, 3050, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200, 3091 SavedExpireTime=341}, 2853 Content={3097, 3012, 3008, 3008, 3097, 3097, 3056 RemainingUses=200, 3012}, 2853 Content={3097, 3085 RemainingUses=200, 3084 RemainingUses=250, 3083 RemainingUses=150, 3083 RemainingUses=150, 3050, 3097, 3097}, 2853 Content={3093, 3093, 3012, 3084 RemainingUses=250, 3085 RemainingUses=200, 3012, 3097, 3050}}}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

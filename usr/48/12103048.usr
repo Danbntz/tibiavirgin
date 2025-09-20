@@ -1,0 +1,59 @@
+ID              = 12103048
+Name            = "Oldous"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,18-10-18-18)
+CurrentOutfit   = (128,18-10-18-18)
+LastLogin       = 1148240417
+LastLogout      = 1148247563
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32511,31790,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,200748,0,204800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,34632,3000,64000,1600)
+Skill = (2,284,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,28867,1100,29912,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,49,0,10,0,0,0,0,0,0,0,21232,1100,22129,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,167,1100,189,20)
+Skill = (14,0,1200,0,0,0,622,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,29}
+QuestValues = {(17,1),(18,1),(20,1),(32,1),(33,1),(34,1),(46,1),(54,1),(59,1),(61,1),(96,1),(97,1),(106,1),(107,1),(111,1),(112,1),(113,1),(114,1),(125,1),(126,1),(138,1),(139,1),(190,1),(191,1),(217,3),(226,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2854 Content={2853 Content={2853 Content={3026 Amount=1}, 3097}, 3031 Amount=36, 3031 Amount=100, 3457, 3003}},
+               4 Content={3377},
+               6 Content={3301},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=183}}
+
+Depots      = {0 Content={3504, 3504 Content={3507 String="Oldous\nthais" Editor="Oldous"}, 3504 Content={3507 String="Oldous\nthais" Editor="Oldous"}, 3504 Content={3507 String="Oldous\nthais" Editor="Oldous"}, 3502}, 
+               1 Content={3504 Content={3507 String="Oldous\ncarlin\n" Editor="Achillides"}, 3504 Content={3035 Amount=9, 3031 Amount=85, 3507 String="Oldous\ncarlin" Editor="Havard"}, 3114 Amount=3, 3504 Content={3504 Content={2920 SavedExpireTime=370, 3504 Content={2922 SavedExpireTime=255, 3457, 2853 Content={2853 Content={2853, 2853, 2853 Content={3272}, 2853 Content={2853 Content={2853 Content={3264}}}}, 2853 Content={3352, 3457, 3264, 3264}, 2853 Content={3280, 3277 Amount=2, 3352}, 2853, 2853 Content={3003, 2922 SavedExpireTime=254}}, 3507 String="Oldous\ncarlin" Editor="Oldous"}, 2855 Content={2868 Content={2853 Content={2853, 2853}, 3075}}}, 3504 Content={3507 String="Oldous\nCarlin\n" Editor="Achillides"}, 3504 Content={3504 Content={3003, 2864 Content={3097 SavedExpireTime=3105}, 3012, 3736 Amount=2, 3507 String="Oldous\ncarlin" Editor="Achillides"}, 2922 SavedExpireTime=125, 2969 KeyNumber=3600, 3507 String="Oldous\ncarlin" Editor="Achillides"}, 2853 Content={3056 RemainingUses=197, 3056 RemainingUses=200, 3050, 2920 SavedExpireTime=539, 3084 RemainingUses=250, 2853 Content={3054 RemainingUses=200, 3050, 3054 RemainingUses=200, 3012, 3012, 2853, 3008, 3008}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}, 2853 Content={2853 Content={2853 Content={2853, 2853, 2853}}}}}}}}}}, 2853 Content={2853 Content={2647, 2647}, 2647, 2647, 2647, 2647}}, 2920 SavedExpireTime=257, 3502 Content={3504 Content={3093, 3300, 3050, 3447 Amount=21, 3658}, 3504 Content={2911 SavedExpireTime=2286, 3441, 3421, 3110, 2874 ContainerLiquidType=5, 2853 Content={3290, 2874 ContainerLiquidType=5, 2920}, 2920, 2924 SavedExpireTime=225, 3504 Content={3301, 3301, 3301, 3507 String="Oldous\nAnkrahmun" Editor="Oldous"}, 3507 String="Oldous\ncarlin\n" Editor="Oldous"}, 3264, 2955, 3456, 3374, 2991, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampaths to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicles out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 3459, 3110}}, 
+               3 Content={3504 Content={3507 String="Oldous\nAb'Dendriel" Editor="Oldous"}, 3502}, 
+               4 Content={3504 Content={3507 String="Oldous\nedron" Editor="Achillides"}, 3504 Content={3507 String="Oldous\nedron" Editor="Achillides"}, 3504 Content={3507 String="Oldous\nedron" Editor="Achillides"}, 3502 Content={2868 Content={3354, 3354, 3354}, 3577 Amount=7, 3354}}, 
+               5 Content={3502 Content={2867 Content={3286, 3286, 2874, 3300, 3286, 3286}}}, 
+               6 Content={3504 Content={3507 String="Oldous\nvenore" Editor="Oldous"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="Oldous\nport hope" Editor="Achillides"}, 3504 Content={3507 String="Oldous\nport hope\n" Editor="Achillides"}, 3502}}

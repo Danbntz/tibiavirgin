@@ -1,0 +1,53 @@
+ID              = 8937588
+Name            = "Santos Gambler"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-113-114-94)
+CurrentOutfit   = (128,114-113-114-94)
+LastLogin       = 1148254339
+LastLogout      = 1148254345
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31689,6]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,177096,0,179400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,181910,3000,193600,1600)
+Skill = (2,410,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,110,110,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,845,845,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,226990,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,16,1400,30,30)
+Skill = (8,70,0,10,0,0,0,0,0,0,0,153741,1100,166964,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,107,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1547,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={2955, 3504 Content={3507 String="Jinzifexus Aegos\nab'dendriel" Editor="Ordart Pagu"}, 3504 Content={3507 String="santos gambler\nab'dendriel\n" Editor="Vegeta Druid"}, 3267, 2969 KeyNumber=3033, 3003}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3430},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="santos gambler\nthais" Editor="Al the drinker"}, 3504 Content={3507 String="Santos Gambler\nThais"}, 3504 Content={3507 String="Santos Gambler\nThais"}, 3502}, 
+               1 Content={3504 Content={2871 Content={3066, 2854 Content={3503 Content={3446 Amount=23, 3035 Amount=3, 3446 Amount=100, 3446 Amount=100, 2867 Content={3198 Charges=5, 3198 Charges=5}, 3507 String="acko'archer\ndarashia" Editor="Acko'Archer"}, 3003, 3430, 3446 Amount=14, 2854, 3350}, 3031 Amount=46, 3035 Amount=3, 2869}, 3507 String="santos gambler\ncarlin" Editor="Draggy Gambler"}, 3502}, 
+               2 Content={3504 Content={3507 String="Santos Gambler\nKazordoon", 2865 Content={}, 2865 Content={}, 2870 Content={}}, 3504 Content={3507 String="Santos Gambler\nkazordoon"}, 3504 Content={3507 String="Santos Gambler\nKazordoon", 2870 Content={}, 2865 Content={}, 2854 Content={}}, 3504 Content={3723 Amount=15, 3507 String="Santos Gambler\nkazordoon"}, 3504 Content={3507 String="Santos Gambler\nKazordoon"}, 3502 Content={}}, 
+               3 Content={3504 Content={3384, 3308, 3351, 3507 String="santos gambler\nab'dendriel" Editor="Vegeta Druid"}, 3200 Charges=2, 3504 Content={3430, 3291, 3367, 3358, 3507 String="santos gambler\nab'dendriel\n" Editor="Chipi Gambler", 2853 Content={3446 Amount=7}, 2853 Content={2854 Content={3147, 3147, 3147}}}, 2854, 3483, 3492 Amount=13, 3492 Amount=100, 3457, 3305, 3305, 3305, 3504 Content={3377, 3507 String="santos gambler\nab'dendriel"}, 2969 KeyNumber=3033, 3270, 2853, 3286, 2913, 3504 Content={3507 String="Santos Gambler\nAb'Dendriel", 2869}, 3504 Content={3507 String="Santos Gambler\nAb'Dendriel", 2853}, 3504 Content={3504 Content={3059, 3059, 3059, 3507 String="santos gambler\nab'dendriel"}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853, 2853 Content={2853}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}, 2853}}}}}}}}}}}}}}}, 3504 Content={3507 String="Santos Gambler\nAb'Dendriel"}, 3507 String="Santos Gambler\nAb'Dendriel", 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3270}}}}}}}}}}, 2869 Content={2853 Content={3282}, 3504 Content={3293, 3267, 3412, 3337, 3291}, 2853 Content={3411, 3411, 3411}, 2853 Content={3375}, 2853}, 3502 Content={2853 Content={2874}, 3504}}}

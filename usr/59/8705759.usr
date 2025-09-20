@@ -1,0 +1,56 @@
+ID              = 8705759
+Name            = "Sharad-Waador"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,19-123-114-38)
+CurrentOutfit   = (130,19-123-114-38)
+LastLogin       = 1148231569
+LastLogout      = 1148237006
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32612,31789,5]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,528917,0,548900,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,372767,1100,392762,1600)
+Skill = (2,285,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,186,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,49059,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3979,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,24,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,1383,1500,1608,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2864,1100,2972,20)
+Skill = (14,0,1200,0,0,0,619,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,16,19,20,27,29,30,38,44}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(46,1),(55,1),(69,1),(93,1),(94,1),(95,1),(99,1),(100,1),(106,1),(107,1),(115,1),(125,1),(126,1),(134,1),(140,1),(141,1),(144,1),(192,1),(217,3),(223,1),(254,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2871 Content={3031 Amount=2, 3273, 3273, 3273, 3586 Amount=2, 3349, 3031 Amount=44, 3457, 3003, 2871 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2870 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3723 Amount=60}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3071},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={3077}}
+
+Depots      = {0 Content={3504 Content={3035 Amount=7, 3031 Amount=24, 3507 String="Sharad-Waador\nTHAIS" Editor="Sharad-Waador"}, 3502 Content={3073, 3457, 3492 Amount=16, 3598 Amount=6, 3457, 2854 Content={3092, 3377, 3483, 3046 SavedExpireTime=2712, 3505 String="We are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3505 String="We are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3308, 3299, 3045 RemainingUses=200, 3092, 2853 Content={2853 Content={3017, 3017, 3030 Amount=2, 3028 Amount=3}, 3463, 3004, 2989, 3147, 3147, 3147}, 2821 String="How to summon black demons, \nwritten by Dago the mage.", 3085 RemainingUses=157, 3084 RemainingUses=46, 2853, 3483}, 3035 Amount=100, 2865 Content={3049 SavedExpireTime=95, 3585 Amount=2, 3492 Amount=69, 3384, 3467, 3601 Amount=3, 3456, 3148 Charges=3, 2970 KeyNumber=3802, 3492 Amount=100, 3586 Amount=9}, 3506 String="Sharad-Waador\nThais\nhi Sharad-Waador its me Michael i am leaveing this world so i am sending you some of my items your bro got some aswell but u geting the bets not cause u the bets but thought send u some share with your bro thats for being a friend      :p good luck with wot ever u do i will be on say bye or hi cya" Editor="Zeimos", 3035 Amount=100, 3035 Amount=100, 2854 Content={2893, 3504 Content={2905, 2905, 2905, 2905, 2905, 2905}}, 3035 Amount=100, 2866 Content={3472, 3464, 3466, 3470, 2854 Content={3384, 3307, 3307, 3307, 3056 RemainingUses=200, 3313, 3421}, 2870 Content={3598 Amount=40, 2868 Content={2874 ContainerLiquidType=11, 2969 KeyNumber=3600, 2969 KeyNumber=4055}, 3059, 3287 Amount=11, 4871, 3448 Amount=7, 3298 Amount=2, 3059, 3504 Content={3374, 2818 String="Identification Card\n\n  Sir Sharad-Waador\n\n  Royal Helper of the Community of Tibia under HRH Tibianus II.\n\nSigned:\nDiemo, Tutor" Editor="Diemo", 3552, 3411, 3559, 3507 String="Sharad-Waador \nthais" Editor="Sharad-Waador"}, 2816 String="You read in big red letters: <TOP SECRET! ONLY FOR YOUR EYES!> Dwarfish Beer ingredients and brewing", 2816 String="The great book of earthmagic", 2816 String="The great book of firemagic", 2816 String="I, GHOUL \nBy Himhor \n\nWithin this obscure essay lies a remarkable study of a dwarf who poses as a ghoul to view what life is like from the Ghoulish point of view. A particular emphasis of the work is the fascinating ghoulish healing habits, which the author presumes to be, unlike many warriors thinks nowadays, an effective romantic ritual which ghouls aims to the creatures they do found appealing somehow.", 2816 String="Dwarven guide to warfare\nLesson II\n\nNever wash yourself before combat - it will only lower your natural protection!", 3449 Amount=33, 3056 RemainingUses=200, 2853 Content={3033 Amount=1, 3029 Amount=1, 3028 Amount=1, 3097}, 3583 Amount=14}, 2865 Content={2815 String="You read in orcish:\nSecure this area and make sure that no enemy can enter our land. In case of an heavy attack call reinforcement by using the drum.", 2914 SavedExpireTime=1218, 3595 Amount=9, 2955, 2974, 2815, 2815, 2826 String="Tales of Tibia", 2876, 2902, 2876, 2905, 2902, 3465, 3465, 2881, 2881, 2881, 3509}, 2854 Content={3147, 3147, 3110, 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 3453, 3308}}, 3075, 3003}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3505 String="Sharad-Waador here\nleave" Editor="Sharad-Waador", 2969 KeyNumber=4055, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 2854 Content={2881, 3505, 3505 Editor="Somby", 3505 String="72\nNO LO PODIA RESISTIR AHI TA TODO SUYO\nJAJAJAJA\nCUIDELO\nY A HYDRAS PLS\n=)\n" Editor="Somby", 2905, 2905, 2880, 3505 String="leave att lord neser \n\nok\n" Editor="Lord Neser", 3505, 3505 String="Chinga tu madre!!!" Editor="Dios Curian"}, 3456, 2881 ContainerLiquidType=2, 3310, 3603 Amount=1}}, 
+               6 Content={3502}}

@@ -1,0 +1,60 @@
+ID              = 10389286
+Name            = "Bely Cap"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (140,79-18-85-18)
+CurrentOutfit   = (140,79-18-85-18)
+LastLogin       = 1148238409
+LastLogout      = 1148238417
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32399,32038,8]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,321229,0,330400,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,391341,1100,392762,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,457,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,47070,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,17128,2000,25550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,62,2000,150,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,153,2000,350,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,520,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,1980,1100,2183,20)
+Skill = (14,0,1200,0,0,0,1048,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,11,15,16,18,19,21,25,29,30,38,39,44,45,76,87,89}
+QuestValues = {(20,1),(35,1),(59,1),(84,1),(85,1),(96,1),(97,1),(115,1),(125,1),(126,1),(144,1),(190,1),(191,1),(217,3),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3577 Amount=2, 2854 Content={3286, 3285, 3410}, 3492 Amount=10, 3483, 3421, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3003, 3457}},
+               4 Content={3380},
+               6 Content={3073},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2869 Content={3155 Charges=1, 3155 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Halls of the Adventurers\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2866 Content={3463, 3463, 3322, 2903, 2992 Amount=9, 3098 SavedExpireTime=54, 3551, 3310, 3092, 3066, 3556, 3050, 2638, 3070, 3074, 3017, 3092, 3046, 3065, 4871}, 2865 Content={3301, 3301, 2955, 3441, 3098 SavedExpireTime=55, 3092, 3287 Amount=10, 3298 Amount=4, 3092, 3444, 3092, 3313, 3017, 3017, 3279, 3045 RemainingUses=200}, 2865 Content={3463, 3092, 3017, 3429, 3045 RemainingUses=200, 3465 ContainerLiquidType=2, 2989, 2989, 3004, 3004, 3004, 3017, 3017, 2854 Content={3045 RemainingUses=200, 2853 Content={3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2856 Content={2857, 2869 Content={2858 Content={2860, 2857}}, 2856 Content={2856, 2856, 2856 Content={2856, 2856}, 2856}, 2856 Content={2871 Content={2872 Content={2869 Content={2871 Content={2854}}}}, 2865, 2870 Content={2865, 2865}, 2866}}, 2868 Content={2647, 2644, 2650, 2644, 2647, 2644, 2650, 2644, 2650, 2644, 2647, 2644, 2650, 2644, 2650, 2650, 2650, 2650, 2650, 2868 Content={2647, 2650, 2650, 2647, 2644, 2644, 2644, 2644, 2644, 2644, 2647, 2650, 2647, 2650, 2644, 2644, 2647, 2644, 2650, 2644}}, 2644, 3316, 3405, 3384, 2644, 3017, 2906, 3046, 3046, 2644, 3077, 3045 RemainingUses=200, 3045 RemainingUses=200}, 2903, 2903, 2903, 2903, 2903, 2903}, 2854 Content={2865 Content={3031 Amount=56, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2473 Content={3304, 3104, 3453, 3104, 3120, 3105}, 2853 Content={3446 Amount=33, 3350, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 2866 Content={2871 Content={2870, 2854}, 2393, 2393, 2398, 2397, 2400, 2395, 2398, 3655, 2386, 2389, 2399, 2401, 2401}, 2854 Content={3289, 3077, 3059, 3483, 3085 RemainingUses=200, 3289, 2856, 3551, 3293}, 3409, 3502 Content={3035 Amount=27}}, 
+               1 Content={3577 Amount=3, 3367, 3377, 3502 Content={}}, 
+               2 Content={3291, 3291, 3291, 3031 Amount=1, 3138, 3291, 3138, 3138, 3291, 3457, 3456, 3270, 2469, 3507, 3308, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3141, 3135, 3136, 3582 Amount=78, 3137, 2853 Content={3291, 3412}, 3505 String="Amigo do strong\n\nAdega" Editor="Caprates", 3457, 3456, 3505, 3308, 3456, 3505 String="o meu irmão entro aqui e deixou a porta do meu qarto aberta não fui eu , mas valeu por pegar pra min.\n\nMESTRE OF FARI\n\n\n\n" Editor="Iaia De Zanera", 3308, 3504 Content={3504 Content={3507 String="caprates\nport hope" Editor="Bely Cap"}, 3114 Amount=4, 3504}, 2824 String="Time is of no importance to the dead. To understand the concept of time is to understand the cruel trick the gods played on all mortals. Just because it pleased them to do so they stripped all living creatures of their immortality, thus turning anything they hope to achieve into futile ambition. For what is left to hope for if you know the sands of time are moving relentlessly in your hourglass, and that death will be the end of all? Whatever a mortal can hope to achieve time will take from him eventually, and all his hardships and his glorious achievements will be just a distant memory in an indifferent world.", 3505, 2818 Editor="Culados", 3504 Content={3507 String="Mestre Cecyn\nThais" Editor="Sir Gogafon", 3507 String="aioros'crow\nthais" Editor="Aioros'Crow"}, 3136, 3141, 3140, 3135, 3139, 3139, 3658, 3658, 2853, 3658, 3017, 3136, 2875, 2843, 3658, 2875, 2853, 2875, 3138, 3138, 3141, 3140, 3138, 3138, 3139, 3140, 2853 Content={3286, 3264, 3286, 3264}, 3003, 2969 KeyNumber=3350, 2875, 2865 Content={2865 Content={2865, 2854, 2870}}, 2860 Content={3483, 3492 Amount=97}, 3502}, 
+               3 Content={3586 Amount=1, 3503 Content={3507 Editor="Bely Cap"}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3504 Content={3359, 2853 Content={2853 Content={3264, 3264, 2853 Content={2853 Content={3286, 3264}, 3264, 3286, 3286}, 3286, 3264}, 3264, 3264, 3286, 3286, 3358}, 3582 Amount=8, 3507 String="bely cap\nab'dendriel" Editor="Caprates"}, 3349, 3349, 3503 Content={3503 Content={2853 Content={3354, 3264, 3264, 3286}, 3410, 3507}, 3503 Content={3507}, 3507}, 2872 Content={2969 KeyNumber=3033, 3308, 3003, 3483}, 3577 Amount=74, 3582 Amount=2, 2469 Content={3377}, 3502 Content={3031 Amount=10, 3031 Amount=66, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=3, 3577 Amount=4, 3031 Amount=9, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               4 Content={3502}, 
+               5 Content={3457, 3582 Amount=17, 3502}, 
+               6 Content={3502}, 
+               7 Content={3577 Amount=53, 3377, 3367, 3502}, 
+               8 Content={2870, 2854 Content={3586 Amount=12, 3582 Amount=12, 3577 Amount=11, 3589 Amount=19, 3578 Amount=7}, 2870 Content={3354, 3483, 3483}, 3003, 2866 Content={3457, 3483, 3457, 3308, 3003}, 2854 Content={2854, 2854, 2870}, 3502}}

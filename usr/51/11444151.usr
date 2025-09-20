@@ -1,0 +1,60 @@
+ID              = 11444151
+Name            = "Arkanio the Master Magician"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,116-77-76-77)
+CurrentOutfit   = (133,116-77-76-77)
+LastLogin       = 1148221812
+LastLogout      = 1148221890
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32644,31916,8]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,659496,0,717600,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,680323,1100,708148,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,875,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35860,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,7149,2000,12750,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,16638,2000,25550,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,155,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3403,1100,3638,20)
+Skill = (14,0,1200,0,0,0,562,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,38,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,11,13,16,18,20,21,29,30,39,44,45,81,86,88}
+QuestValues = {(20,1),(88,1),(89,1),(90,1),(100,1),(106,1),(107,1),(111,1),(112,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               2 Content={3012},
+               3 Content={2867 Content={3155 Charges=1, 3155 Charges=1, 3031 Amount=57, 3200 Charges=3, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}},
+               4 Content={3377},
+               5 Content={3421},
+               6 Content={3073},
+               7 Content={3558},
+               8 Content={3551},
+               10 Content={3578 Amount=10}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={2854 Content={3308, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3318, 2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3457, 3003}, 3507 String="Arkanio the Master Magician\nKazordoon" Editor="Arkanio the Master Magician"}, 3457, 4871, 4871, 3430, 3502 Content={3008, 3266, 3446 Amount=14, 3301, 3350, 2874, 3059, 2866 Content={3367, 3367, 3507 String="Arkanio the master magician\nplx no enter msg me \n\nxD\n" Editor="Arkanio the Master Magician", 3505 Editor="Arkanio the Master Magician", 2952, 2952, 2866 Content={3483, 3483, 3598 Amount=8, 3298 Amount=15, 3287 Amount=1, 2992 Amount=5, 2970 KeyNumber=3142, 3003}}, 2862}}, 
+               3 Content={3504 Content={3507 String="arkanio the master magician\nab'dendriel" Editor="Zeus Hades"}, 3504 Content={2874, 2874, 2874, 3147, 2866 Content={2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3507 String="arkanio the master magician\nab'dendriel" Editor="Rikkuh"}, 3504 Content={3507 String="Arkanio the Master Magician\nAb'dendriel" Editor="Arkanio the Master Magician"}, 3504 Content={3507 String="Arkanio the master magician\nab'dendriel\n" Editor="Arkanio the Master Magician"}, 3502 Content={3457, 3003}}, 
+               4 Content={3504 Content={3507 String="arkanio the master magician\nedron\n" Editor="Sir'Meckito"}, 3502}, 
+               5 Content={3504 Content={3507 String="arkanio the master magician\ndarashia" Editor="Rikkuh"}, 2868 Content={3457, 3003, 3003}, 3502}, 
+               6 Content={3504 Content={3507 String="arkanio the master magician\nvenore" Editor="Lady-moxa"}, 3504 Content={3507 String="arkanio the master magician\nvenore" Editor="Rikkuh"}, 3504 Content={3507 String="arkanio the master magician\nvenore" Editor="Rikkuh"}, 2853, 3502 Content={3504 Content={3507 String="arkanio the master magician\nvenore\n" Editor="Rikkuh"}, 3504 Content={3507 String="arkanio the master magician\nvenore" Editor="Lady-moxa"}, 3504 Content={3507 String="arkanio the master magician\nvenore" Editor="Lady-moxa"}}}, 
+               7 Content={3502}}

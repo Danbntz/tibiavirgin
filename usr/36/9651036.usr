@@ -1,0 +1,58 @@
+ID              = 9651036
+Name            = "Lan Fear"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (140,92-109-90-94)
+CurrentOutfit   = (140,92-109-90-94)
+LastLogin       = 1127653035
+LastLogout      = 1127653043
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,118369,0,135100,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,166400,1100,174690,1600)
+Skill = (2,90,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,27104,1500,38723,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,279,2000,450,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,19835,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,36,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,119,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1073,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,12,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,20,25,29,39,44,76,88}
+QuestValues = {(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={2854 Content={3507 String="lan fear\nedron", 3504 Content={}, 2865 Content={}, 3003}},
+               4 Content={3377},
+               5 Content={3035 Amount=1},
+               6 Content={3327},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3031 Amount=50}}
+
+Depots      = {0 Content={2473 Content={}, 2473 Content={}, 2473 Content={}, 2874 ContainerLiquidType=0, 2473 Content={2473 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}, 2473 Content={}}, 3506 String="Warning!\n\nThe monthly rent of 385 gold\nfor your house \"Beach Home Apartments, Flat 14\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 385 gold\nfor your house \"Beach Home Apartments, Flat 14\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 385 gold\nfor your house \"Beach Home Apartments, Flat 14\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Lan Fear\nThais"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Beach Home Apartments, Flat 14\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3457, 3003, 3003, 3483, 2853 Content={3377}, 3483, 3483, 2870 Content={2854 Content={2854 Content={}, 2854 Content={}, 2854 Content={}}, 2865 Content={2865 Content={}, 2865 Content={}, 2865 Content={}, 2865 Content={}, 2865 Content={}, 2865 Content={}, 2865 Content={}}, 2870 Content={2870 Content={}, 2870 Content={}, 2870 Content={}}}}}, 
+               2 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={3286}}, 
+               6 Content={3502 Content={}}}

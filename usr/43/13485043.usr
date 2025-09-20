@@ -1,0 +1,55 @@
+ID              = 13485043
+Name            = "Cyrack"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,78-114-114-114)
+CurrentOutfit   = (134,78-114-114-114)
+LastLogin       = 1148008887
+LastLogout      = 1148008905
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33125,32842,5]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,81562,0,83400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,67935,3000,193600,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,85,85,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,121432,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,60,0,10,0,0,0,0,0,0,0,60482,1100,64064,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3569,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(19,1),(20,1),(23,1),(27,1),(32,1),(34,1),(100,1),(106,1),(107,1),(113,1),(114,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2867},
+               6 Content={3279},
+               9 Content={3004}}
+
+Depots      = {0 Content={3504 Content={3507 String="Cyrack\nThais" Editor="Jagan Da'Neon"}, 3504 Content={3507 String="Cyrack\nThais" Editor="Cyrack"}, 3502 Content={3504 Content={3507 String="kamow lan'skat\nThais" Editor="Zka"}}}, 
+               1 Content={3377, 3504 Content={3507 String="Cyrack\nCarlin\n" Editor="Cyrack"}, 3502}, 
+               2 Content={3504 Content={3507 String="Cyrack\nkazordoon" Editor="Lius Gert"}, 3502}, 
+               3 Content={3504 Content={3507 String="Cyrack\nAb'Dendriel" Editor="Cyrack"}, 3502}, 
+               4 Content={3504 Content={3507 String="Cyrack\nEdron\n" Editor="Jagan Da'Neon"}, 3504 Content={3507 String="Cyrack\nEdron" Editor="Cyrack"}, 3504 Content={3507 String="Cyrack\nEdron\n" Editor="Kamow Lan'skat"}, 3502 Content={2970 KeyNumber=4601, 2853}}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853}}, 3507 String="Cyrack\nDarashia" Editor="Cyrack"}, 3502}, 
+               6 Content={3421, 3492 Amount=84, 3502 Content={3301}}, 
+               7 Content={3502 Content={3504 Content={3504 Content={3504, 3507 String="Cyrack\nEdron\n" Editor="Cyrack"}, 3507 String="Cyrack \nAnkrahmun" Editor="Cyrack"}}}, 
+               8 Content={3504 Content={3507 String="Cyrack\nPort Hope" Editor="Jagan Da'Neon"}, 3502 Content={2866}}}

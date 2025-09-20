@@ -1,0 +1,49 @@
+ID              = 8825155
+Name            = "Wulos Zilvanes"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (130,101-114-94-0)
+CurrentOutfit   = (130,101-114-94-0)
+LastLogin       = 1146650663
+LastLogout      = 1146650673
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32096,32218,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,0,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {6 Content={3270}}
+
+Depots      = {0 Content={3502 Content={3578 Amount=26}}, 
+               1 Content={3502 Content={3350, 3503 Content={3507 String="wulos zilbanes\nAb'Dendriel", 2853 Content={}, 3605 Amount=1}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="wulos zilvanes\nab'dendriel"}, 3504 Content={3003, 3504 Content={3504 Content={3507 String="zhane of heavens\nab'dendriel\n"}, 3504 Content={3507 String="zhane of heavens\nab'dendriel\n"}, 3503 Content={}, 3503 Content={3507 String=""}, 3503 Content={}, 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 3507 String="Zhane of Heavens\nab'dendriel"}, 2853 Content={2853 Content={}}, 3507 String="Zhane of Heavens\nab'dendriel"}, 3502 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={}}}}}}}}}}}}}}}}}}}, 
+               6 Content={3502 Content={3367, 3349, 3411, 2867 Content={3031 Amount=46}, 3585 Amount=2, 2853 Content={3463, 2853 Content={2911, 2911, 2911, 2885}, 2853 Content={2911 SavedExpireTime=2984, 2911}, 2853 Content={2911, 2911}}}}}

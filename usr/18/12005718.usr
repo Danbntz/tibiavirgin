@@ -1,0 +1,53 @@
+ID              = 12005718
+Name            = "Szymon of Master sorcerer"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-0-0-0)
+CurrentOutfit   = (128,0-0-0-0)
+LastLogin       = 1148137129
+LastLogout      = 1148137206
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,66081,0,69700,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,46036,1100,50835,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,6,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14567,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,25,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2718,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,586,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,365,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,10,20,26,29,44,81,89}
+QuestValues = {(16,1),(32,1),(33,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(125,1),(126,1),(128,1),(217,3),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3264, 2825 String="20 Tricks to Get People's Money\n\n...", 3277 Amount=4, 2973 KeyNumber=3520, 3337, 3350, 2853 Content={3504 Content={3507 String="sir calimero\nthais" Editor="Sir Calimero", 2853}}, 3411, 3504 Content={2873, 3376, 3430, 3507 String="Szymon of Master sorcerer\nThais" Editor="Szymon Herros"}, 3115, 2922 SavedExpireTime=195, 3291, 3502}, 
+               1 Content={3504 Content={2854 Content={3153 Charges=1, 3374, 2906, 3003, 3003}, 3507 String="Szymon of Master sorcerer\nCarlin" Editor="Althel Gutar"}, 3030 Amount=1, 3504 Content={3552, 3507 String="Szymon of Master sorcerer\nCarlin" Editor="Althel Gutar"}, 3504 Content={2864, 3507 String="Szymon of Master sorcerer\nCarlin" Editor="Althel Gutar"}, 3504 Content={3492 Amount=3, 3507 String="Szymon of Master sorcerer\nCarlin" Editor="Althel Gutar"}, 2955, 3300, 2473 Content={3350, 3265, 2874, 2874, 2874, 2874, 3059, 3411}, 2984, 3026 Amount=3, 3541, 3349, 3378, 3453, 3492 Amount=9, 3588 Amount=2, 3504 Content={3492 Amount=1, 3350, 3504 Content={3504 Content={3504 Content={3504 Content={3504, 3507 String="Nazgul'Sackville\ncarlin"}}}}, 2875}, 2880, 3504 Content={3447 Amount=1, 3446 Amount=1, 3507 String="Szymon of Master sorcerer\nCarlin" Editor="Althel Gutar"}, 3109, 2826 String="The tibian world-wonders!\nThe known and aknowledged world-wonders are:\nThe colossus of Kazordoon\nThe black pyramid of Dracoria\nThe great lighthousetree of Ab'dendriel\nThe thorntower of Shadowthorn\nThe undergroundcity of Mintwalin\nThe black city of skulls in hellsgate\nThe great lava falls in hellsgate\nThe pyramid city of Ankrahmun", 3119, 3504 Content={3503 Content={3056 RemainingUses=200, 3504 Content={3507 String="kol vint\ncarlin\n" Editor="Morakc"}, 3504, 3507}, 3056 RemainingUses=200, 2880, 2880, 2955, 3426}, 2873, 3452, 2865 Content={3375, 3050 SavedExpireTime=1798, 3147, 3350, 2818 String="Noob" Editor="Szymon of Master sorcerer", 3483, 3349, 3446 Amount=4, 3308, 3456, 3129, 3308, 3492 Amount=43, 3059, 3507 String="Demon of Lord Skull\nCarlin\n", 1781 Amount=4, 3207 Amount=1}, 3130, 3506 String="sir'irica\ncarlin\ndeixe 900000k na porta da sua casa ou vai toma hacked!!!! flws \n\n\n\n\n\n\n\n\n\n\nZUERAAAAAAA!!!!!!" Editor="Ascasa Cadistall", 3506 String="tibi aby\ncarlin\n                     hola oie dame mis cosas \n   de lo de la casa  las necesito\n                 bye!!\n                   atte:EDERA KAYN\n" Editor="Edera Kayn", 3502 Content={3456, 3451}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Szymon of Master sorcerer\nAb'dendriel" Editor="Pyton The Sorcerer"}, 3198 Charges=4, 3504 Content={3072, 3507 String="Szymon of Master sorcerer\nAb'dendriel" Editor="Pyton The Sorcerer"}, 3583 Amount=1, 3350, 3430, 3316, 3316, 3456, 3277 Amount=1, 3300, 3374, 2853 Content={2856 Content={3035 Amount=1, 3456}, 3375, 2906, 3050 SavedExpireTime=1634, 3375, 2853 Content={2853 Content={2853 Content={2853}}}}, 3308, 2924 SavedExpireTime=150, 3505 String="Bennu in soldiers \nNax legolas elf  in guards\n \nMsg First\n" Editor="Bennu", 3506 String="Goku'Master\nAb'Dendriel\n   \nxq no le dices la vdd?   mira si tu le dices la vdd yo sere tu amiga y no t dire mas cosas pero xfavor dile no me gusta k la traten asi :/ plz                                                 \natte: eterr mariana", 3289, 2473 Content={2970 KeyNumber=3802, 2973 KeyNumber=3520, 2969 KeyNumber=3650, 2969 KeyNumber=3033}, 2656, 3505 String="Spells for Level 8\n  utevo lux - Light : 20\n  exiva para - Find Person : 20\n\nSpells for Level 9\n  exura - Light Healing : 25\n  exani tera - Magic Rope : 20\n\nSpells for Level 10\n  exana pox - Antidote : 30\n\nSpells for Level 11\n  exori mort - Force Strike : 20\n\nSpells for Level 12\n  exori vis - Energy Strike : 20\n  exori flam - Flame Strike : 20\n\nSpells for Level 14\n  utani hur - Haste : 60\n  utamo vita - Magic Shield : 50\n\nSpells for Level 15\n  adura gran - Intense Healing Rune : 240\n\nSpells for Level 17\n  adito grav - Destroy Field : 120\n\nSpells for Level 20\n  exura vita - Ultimate Healing : 160\n  utani gran hur - Strong Haste : 100\n\nSpells for Level 23\n  adori gran flam - Great Fireball : 480\n\nSpells for Level 24\n  adura vita - Ultimate Healing Rune : 400\n\nSpells for Level 25\n  adori gran - Heavy Magic Missile : 280\n\nSpells for Level 26\n  utevo vis lux - Ultimate Light : 140\n\nSpells for Level 27\n  adevo mas flam - Firebomb : 600\n\nSpells for Level 31\n  adevo mas hur - Explosion : 720\n\nSpells for Level 35\n  utana vid - Invisible : 440\n\n" Editor="Szymon of Master sorcerer", 2472, 3459, 3471, 3456, 3504 Content={3457, 3313, 3507 String="Szymon of Master sorcerer\nAb'dendriel"}, 3504 Content={3031 Amount=84, 3031 Amount=100}, 3502 Content={3289, 3374}}, 
+               4 Content={3504, 2473, 2473, 2473, 3147, 3147, 3147, 3147, 3147, 2853 Content={3578 Amount=12, 3582 Amount=10, 3577 Amount=56, 3277 Amount=30}, 1781 Amount=1, 3502}, 
+               5 Content={3031 Amount=18, 3035 Amount=2, 3504 Content={3507 String="Szymon of Master sorcerer\nDarashia" Editor="Mati of Master knight"}, 3502}, 
+               6 Content={3147, 3147, 3577 Amount=6, 3267, 3374, 3374, 3147, 3376, 3147, 3147, 2873, 2853 Content={3375}, 3502}, 
+               7 Content={3367, 3483, 3492 Amount=52, 3578 Amount=5, 2856, 3577 Amount=16, 2867 Content={3483, 3504 Content={3050 SavedExpireTime=1797, 3354, 2969 KeyNumber=4600, 3056 RemainingUses=200, 3299, 3586 Amount=2, 3056 RemainingUses=200, 3483, 3507 String="Danvis Vinda\nCarlin" Editor="Sir Pharon"}, 2857 Content={3447 Amount=14, 3354, 1781 Amount=1, 2656, 3448 Amount=4, 3056 RemainingUses=200}, 2853 Content={3050, 3056 RemainingUses=200, 2853 Content={3207 Amount=1}, 3097, 3012}, 2920, 3483, 3300, 3457, 2853, 3003, 2853, 2853 Content={3107, 3207 Amount=1, 3455, 2815}, 2853 Content={2880, 2875, 3454, 2881, 2873 ContainerLiquidType=5, 3451}, 2853, 3059, 2853 Content={2969 KeyNumber=3033, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 2969 KeyNumber=3033}}, 3350, 3354, 3147, 3147, 3504 Content={3457, 3507 String="Szymon of Master sorcerer\nAnkrahmun" Editor="Szymon of Master sorcerer"}, 3502}, 
+               8 Content={3504 Content={3507 String="Szymon of Master sorcerer\nPort hope\n" Editor="Alith Romi"}, 3502}}

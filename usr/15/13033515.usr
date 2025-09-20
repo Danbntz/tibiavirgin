@@ -1,0 +1,53 @@
+ID              = 13033515
+Name            = "Silen kiki"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-105-114-114)
+CurrentOutfit   = (129,114-105-114-114)
+LastLogin       = 1147741565
+LastLogout      = 1147741601
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,21805,0,23200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,11425,1100,12344,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,100,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4404,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1217,2000,1550,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,205,2000,350,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,66,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(60,1),(99,1),(106,1),(107,1),(115,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               3 Content={2867 Content={3425, 2874 ContainerLiquidType=10}},
+               4 Content={3357},
+               5 Content={3074},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3362, 3502}, 
+               1 Content={3003, 3031 Amount=100, 3035 Amount=1, 3031 Amount=85, 3504 Content={3457, 1781 Amount=8, 3545, 3534 Amount=3, 3536, 3535, 3537, 3538, 3507 String="silen kiki\ncarlin" Editor="Pio camargo"}, 2472 Content={3003}, 3286, 3505 String="hola \ndark ger\ncarrlin\n" Editor="Ardal Sworton", 2955, 3505 String="hola marco eres gay me la pelas ajajaj pipimiado ajaj " Editor="Profett", 2955, 3272, 3502}, 
+               2 Content={3457, 3003, 3446 Amount=11, 2853 Content={3547 Amount=1, 3457}, 3457, 3506 String="Silen kiki \nkazordoon" Editor="Silen kike", 3375, 3505 String="argot de'titan \n\nhunt here\ni leave in 30 min " Editor="Argot de'Titan", 3505 String="ushi the knight hunt here/\\" Editor="Ushi the Knight", 3502}, 
+               6 Content={2872 Content={3377, 2874}, 3504 Content={3003, 3507 String="silen kiki\nvenore\n" Editor="Silen kike"}, 2874, 3349, 3092 SavedExpireTime=1793, 3375, 2874, 3059, 3017, 2874, 2874, 2874, 2874, 3147, 2920, 3308, 3305, 3012, 3270, 3457, 3046 SavedExpireTime=2746, 3410, 2917 SavedExpireTime=2686, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 2920, 3502 Content={3031 Amount=50}}}

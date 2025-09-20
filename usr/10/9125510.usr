@@ -1,0 +1,58 @@
+ID              = 9125510
+Name            = "Arakanna"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,39-92-86-82)
+CurrentOutfit   = (137,39-92-86-82)
+LastLogin       = 1148257073
+LastLogout      = 1148257839
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32593,31646,10]
+PlayerkillerEnd = 0
+
+Skill = (0,44,0,1,0,0,0,0,0,0,1,1287158,0,1328800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,293937,3000,582400,1600)
+Skill = (2,646,725,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,62,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,113,113,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1370,1370,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,200683,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,69,0,10,0,0,0,0,0,0,0,138649,1100,151740,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3760,1100,4022,20)
+Skill = (14,0,1200,0,0,0,941,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,90,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(35,1),(46,1),(57,1),(59,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(115,1),(121,1),(129,1),(137,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={2853 Content={3358, 3358, 3273, 3358, 2853 Content={3358, 3273, 3286, 3273, 3273, 3273, 3031 Amount=100, 2853 Content={3273, 3349, 3285, 3031 Amount=100, 3358, 3031 Amount=100, 3031 Amount=100, 3413}}, 3273}, 3031 Amount=96, 3447 Amount=6, 3446 Amount=46, 3003, 2867 Content={3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3370},
+               5 Content={3324},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3457}}
+
+Depots      = {0 Content={2839 String="hola!! \n", 3502 Content={3377, 3377, 3377, 3377}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3031 Amount=44, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={3377, 2853 Content={3349, 3446 Amount=52, 3446 Amount=100, 3349, 3349, 3349, 3377, 3377}, 3377, 3349}, 3035 Amount=3, 3492 Amount=24}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3504 Content={3504 Content={3507 String="arakanna \nVenore" Editor="Arakanna"}, 3503 Content={3507 String="Ramo Archer\nThais" Editor="Arakanna"}, 3504 Content={3504, 3504}, 2471, 3504}, 2469 Content={2865 Content={2853 Content={3446 Amount=66, 3447 Amount=72, 3446 Amount=100}, 2854 Content={3350, 3350, 2865 Content={2865 Content={2853 Content={2853 Content={3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2853 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}}, 2868 Content={3279, 3287 Amount=1, 3405, 3065, 3357, 3123, 2901, 3077, 3007, 3327, 3441, 3299, 3310}, 2865 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2868 Content={2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2854 Content={2853 Content={3279, 3279, 3279, 3279}, 2853 Content={3285, 3285, 3285, 3285, 3285, 3285}, 2853 Content={2991, 2991, 2991, 2853 Content={2991, 2991, 2991, 2991, 2991, 2991, 2991, 2991}, 2991}}, 2865 Content={3092, 3093 SavedExpireTime=1217, 3014, 3056 RemainingUses=200, 3053 SavedExpireTime=599, 3053, 3052, 3050, 3093, 3004, 3056 RemainingUses=200, 3083 RemainingUses=150, 3008, 3054 RemainingUses=198, 3085 RemainingUses=198, 3081 RemainingUses=5, 3004, 2853 Content={3097, 2853 Content={3084 RemainingUses=243, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2853 Content={2853 Content={2857 Content={2853 Content={3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 3054 RemainingUses=200, 3054 RemainingUses=13, 3012, 3012, 3012, 3012}, 3008, 3097, 3008, 3008}}, 3097, 3097, 3097, 3097, 3097 SavedExpireTime=3595, 3097}}, 2854 Content={2656, 2653, 2650, 2647}}, 2854 Content={2969 KeyNumber=5010, 2970 KeyNumber=3800, 2969 KeyNumber=4600, 2970 KeyNumber=3012, 2969 KeyNumber=5000, 2970 KeyNumber=3303, 2969 KeyNumber=3033, 2970 KeyNumber=3142, 2969 KeyNumber=3667, 3152 Charges=1, 3152 Charges=1, 3174 Charges=3, 3174 Charges=5, 3172 Charges=1, 3153 Charges=1}, 2869 Content={3336, 3492 Amount=24, 3457, 3372, 3552, 3404, 3483, 3270, 3304, 3308, 3453}}, 2472 Content={3059, 2853 Content={2853 Content={3046 SavedExpireTime=2255, 3046, 3046 SavedExpireTime=2544, 3046}, 3029 Amount=2, 3033 Amount=2, 3017, 3028 Amount=10, 3026 Amount=2, 3027 Amount=2, 3030 Amount=6}, 2868 Content={2854, 2872, 2857 Content={2868, 2870}, 2872, 2870, 2871, 2867, 2870, 2869, 2866, 2868}, 3059, 2874 ContainerLiquidType=8, 2874 ContainerLiquidType=3, 3147, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=10}, 2471 Content={2867 Content={3578 Amount=33, 3598 Amount=4, 3579 Amount=12, 3598 Amount=100, 3585 Amount=17, 3604 Amount=2, 3597 Amount=3, 3595 Amount=9, 3598 Amount=100, 3602 Amount=100, 3585 Amount=100, 3598 Amount=100, 3603 Amount=22, 3725 Amount=3, 3588 Amount=54, 3598 Amount=100, 3590 Amount=5, 3585 Amount=100, 3586 Amount=14, 3605 Amount=23}, 2865 Content={3736 Amount=24, 3659, 3668, 2853 Content={3659, 3129, 3470, 3661}, 3740 Amount=2, 3505 String="Alejandra.....\nYo no keria llegar a tanto pero ni pedo ya me dijiste por fin lo ke sentias, mi papa me hablo para ke me fuera para aya, yo no se si para visitalos aya o para kedarnos pero si me dicen ke me kede lo are les dire ke si y todo por tu pinche kulpa ojala y nos kedemos aya para siempre.....\nYo te ame mucho y no keria ke pasara esto pero asi se dio ni pedo \n\n\nLuego pasas por tus pinches mugreros o los voy a tirar a la chingada \n\n\n\nNadie te va a amar komo yo.. te vas a arrepentir ya lo veras maldita!!!\nOjala nunka ubiera pasado nada entre nosotros, maldito el dia en ke te konosi!!! \n\n\n\nHasta nunka .............\n", 3659, 2981, 3741 Amount=2, 2985, 3668, 3668, 3668, 3673, 3673, 3673, 3673, 3673, 3673}}, 2865 Content={2885 ContainerLiquidType=3, 2856 Content={3077, 3077, 3077}, 3465 ContainerLiquidType=2, 3467, 3466, 2952, 2873, 3454, 3551, 2868 Content={2914 SavedExpireTime=1998, 3111, 3509, 3292, 2853 Content={3379, 2977, 2853 Content={3544, 2853 Content={3538, 3541}, 3542, 3546, 3536, 3541, 3535}}, 3463, 2906, 2989, 3287 Amount=3, 2885, 2873, 2882, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2885, 2902, 3293, 3307}, 2989, 2815, 2901, 2876, 2875, 2816 String="The Kuridai caste lives in caves beneath the surface and they are the workers. \nThe Deraisim caste lives on the ground and are great hunters and farmers. \nThe Cenath caste lives on the heights of the trees and are great wielders of magic. ", 3459, 3470, 3330}, 3502}}

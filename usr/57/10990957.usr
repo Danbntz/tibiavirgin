@@ -1,0 +1,48 @@
+ID              = 10990957
+Name            = "Syrin Xert"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-7-4-0)
+CurrentOutfit   = (134,0-7-4-0)
+LastLogin       = 1143837025
+LastLogout      = 1143837111
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32337,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,112186,0,116000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,37179,3000,64000,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,20322,1100,22225,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,56,1400,71,30)
+Skill = (8,48,0,10,0,0,0,0,0,0,0,20013,1100,20072,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,360,1100,385,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,814,1100,926,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,515,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,81}
+QuestValues = {(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(125,1),(126,1),(257,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {1 Content={2656, 3031 Amount=1, 3286, 3552, 3046, 2656, 2656, 2656, 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 350 gold\nfor your house \"Magician's Alley 5a\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               7 Content={3502}}

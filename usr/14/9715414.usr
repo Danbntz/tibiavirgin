@@ -1,0 +1,60 @@
+ID              = 9715414
+Name            = "Sooperman"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,114-114-76-114)
+CurrentOutfit   = (134,114-114-76-114)
+LastLogin       = 1147532680
+LastLogout      = 1147532697
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,70554,0,83400,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,29430,3000,64000,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,51,85,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,31319,1100,33003,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,301,1100,305,50)
+Skill = (9,48,0,10,0,0,0,0,0,0,0,18471,1100,20072,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3609,1100,3638,20)
+Skill = (14,0,1200,0,0,0,107,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,16,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29,76}
+QuestValues = {(35,1),(59,1),(86,1),(87,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2853 Content={3031 Amount=60, 3031 Amount=19, 3457, 3582 Amount=2, 3003, 3198 Charges=4, 3035 Amount=2}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3311},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3279}}
+
+Depots      = {0 Content={3504 Content={3507 String="Sooperman\nthais" Editor="Jiffy Jenga"}, 3502}, 
+               2 Content={2874 ContainerLiquidType=11, 3198 Charges=5, 3198 Charges=2, 3164 Charges=3, 3031 Amount=10, 3035 Amount=16, 3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="Sooperman\nEdron"}, 3504 Content={3507 String="Sooperman\nedron"}, 3504 Content={2853 Content={3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 3507 String="Sooperman\nedron"}, 3502 Content={3054 RemainingUses=19, 2922 SavedExpireTime=25, 2920 SavedExpireTime=0, 3457, 3270, 3083 RemainingUses=150}}, 
+               5 Content={3504 Content={3507 String="Sooperman\nDarashia"}, 2920 SavedExpireTime=21, 3502 Content={}}, 
+               6 Content={3504 Content={2853 Content={3264, 2853 Content={3582 Amount=18, 3577 Amount=4, 2853 Content={3286, 3286, 2853 Content={3286, 3286, 3286, 2853 Content={3286, 3286, 3264, 3483, 3354, 3286, 3410, 3410}, 3286, 3410, 3352, 3264}, 3264, 3264, 3286}}, 3264, 3264, 3264}, 2867 Content={2868 Content={2866 Content={}}}, 3035 Amount=43, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2471 Content={3372, 3059 String="", 3372, 3375, 3447 Amount=50, 3377, 3031 Amount=100, 3582 Amount=67, 3578 Amount=62, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3577 Amount=63, 3582 Amount=100, 3578 Amount=100}, 2869 Content={3008, 3012, 3448 Amount=9, 3447 Amount=100, 3577 Amount=2, 3578 Amount=72, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3507 String="Sooperman\nVenore"}, 3502 Content={}}, 
+               7 Content={3330, 3441, 3502 Content={}}}

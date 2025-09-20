@@ -1,0 +1,52 @@
+ID              = 12219312
+Name            = "Sir Neospav"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-131-131-0)
+CurrentOutfit   = (134,0-131-131-0)
+LastLogin       = 1148185488
+LastLogout      = 1148187731
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32354,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9395,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,1970,3000,6400,1600)
+Skill = (2,135,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4314,1100,4559,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,102,1400,130,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,55,1100,105,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,209,1100,232,50)
+Skill = (10,31,0,10,0,0,0,0,0,0,0,3450,1100,3570,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,210,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,55,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(35,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3376},
+               2 Content={3054 RemainingUses=94},
+               3 Content={2853 Content={3275, 3457, 3582 Amount=4, 3577 Amount=2, 3031 Amount=61, 3003}},
+               4 Content={3357},
+               6 Content={3412},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="sir neospav\nthais" Editor="Neospav"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Alai Flats, Flat 16\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2853 Content={3504, 3507 String="madam alus\nthais" Editor="Madam Alus", 2853}, 3378, 3378, 3268, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 2969 KeyNumber=5000}}, 
+               6 Content={3504 Content={3507 String="sir neospav\nvenore\ncuida a mi hermana we ok......" Editor="Dersiillo"}, 3502 Content={2865 Content={3031 Amount=100, 3155 Charges=1, 3155 Charges=1, 3160 Charges=1}, 3378, 3426, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=57, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}

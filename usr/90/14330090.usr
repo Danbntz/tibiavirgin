@@ -1,0 +1,55 @@
+ID              = 14330090
+Name            = "Sniper Slayer Dragon"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-114-114-114)
+CurrentOutfit   = (130,114-114-114-114)
+LastLogin       = 1148243877
+LastLogout      = 1148244099
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32228,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,86264,0,98800,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,43070,1100,44759,1600)
+Skill = (2,215,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,292,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10324,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,24,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,537,2000,750,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,202,2000,350,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,89,2000,150,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,58,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,89,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,15,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(46,1),(59,1),(60,1),(61,1),(106,1),(107,1),(125,1),(126,1),(223,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2868 Content={2906, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3362, 3446 Amount=1, 3577 Amount=3, 3723 Amount=40, 3188 Charges=3, 3602 Amount=2, 3600 Amount=1, 3588 Amount=41}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3072},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2853}}
+
+Depots      = {0 Content={2952, 3404, 3164 Charges=3, 3164 Charges=3, 3483, 2854 Content={3377, 3413, 3377, 3294, 3413, 3413, 3285, 3411, 3413, 3294, 3294, 3352, 3359, 3359}, 2870 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 3453, 3003, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3421, 3447 Amount=72, 3298 Amount=1, 2911 SavedExpireTime=2152, 3377, 3572, 2854 Content={3310, 3384, 2826 String="Tales of Tibia", 2825 String="20 Tricks to Get People's Money\n\n...", 3330, 3264, 3269, 3594, 1781 Amount=4, 3431, 2667, 2647, 2653, 2650, 2644, 2667, 3377, 3377}, 3375, 3453, 2870 Content={3299, 3483, 2977, 3592, 3592}, 3147, 3548 Amount=6, 3547 Amount=7, 3483, 3066, 2969 KeyNumber=4600, 3504 Content={2872 Content={3507 String="Sniper Slayer Dragon\nThais" Editor="Sniper Dragon Ninja"}, 3377, 3483, 3492 Amount=44}, 3502 Content={3004, 3264, 3582 Amount=2, 2874, 3658, 2970 KeyNumber=3142, 2854 Content={3031 Amount=17, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=12}, 3457, 2901, 2877 ContainerLiquidType=3, 3674, 3674, 2874 ContainerLiquidType=6, 2901, 3577 Amount=9, 3603 Amount=2, 3472, 3504 Content={3174 Charges=5, 3174 Charges=5, 3349, 3289, 3289, 3289, 3289, 3289, 3289, 3504 Content={3050 SavedExpireTime=1796, 2970 KeyNumber=3800, 3017, 3054 RemainingUses=200, 3147}}, 2839, 2473 Content={2473 Content={3588 Amount=80, 3723 Amount=100, 3723 Amount=100, 3579 Amount=1, 3593, 3590 Amount=9, 3593, 3593}, 3577 Amount=100, 3582 Amount=39, 3588 Amount=100, 3588 Amount=100, 3595 Amount=24, 3578 Amount=21, 3585 Amount=9, 3738 Amount=80, 3597 Amount=12}, 3673, 3464}}, 
+               1 Content={3291, 3031 Amount=60, 3003, 2853, 3658, 3425, 3269, 3505 String=" .                 North                                    /\\                              West <  •  >East.                               \\/                      South\n_________________________\n ,,|,, `•.•´ ,,|,,\n_________________________" Editor="Sniper Slayer Dragon", 2853 Content={3294, 3285, 3294, 3294, 3504 Content={3294, 3294, 3507 String="Yan Pirokaman\ncarlin" Editor="Yan Pirokaman"}, 3273, 3273, 3294}, 2866 Content={3353, 3409, 3286, 3285, 3273, 3413, 3409, 3273, 3273, 3273, 3413, 3358, 3285, 3285}, 3504 Content={3147, 3147, 3147, 3559, 3003, 2874}, 3277 Amount=1, 3504 Content={3056 RemainingUses=188, 3147, 3507 String="Sniper Slayer Dragon\nCarlin" Editor="Sniper Dragon Ninja"}, 3504 Content={3507 String="Sniper Slayer Dragon\nCarlin" Editor="Sniper Slayer Dragon"}, 3502 Content={2853 Content={3110, 3110}, 2991, 3504 Content={3384, 3301, 3507 String="sorcerer xiaolim\ncarlin" Editor="Knight Xiaolim"}, 2872 Content={3075, 3031 Amount=53, 2868 Content={2874, 2874, 2920 SavedExpireTime=597}, 2906, 2853, 2901, 3552, 3350, 3492 Amount=11, 2874, 2874, 2874, 2874, 2874, 2874}, 3504 Content={3507 String="Naruto Uzumaki przybywa\nCarlin" Editor="Naruto Uzumaki przybywa"}, 2472 Content={3035 Amount=24, 3035 Amount=100, 3031 Amount=91, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3582 Amount=4, 3362, 2955, 3003, 3003, 3350, 2853 Content={3003, 3457, 3291, 3577 Amount=2}}, 2853 Content={2853 Content={2853 Content={3541, 3542, 3541, 3535, 3535, 3535, 3541, 3544}, 3536, 3544, 3541, 3535, 3535, 3535, 3538}, 2853 Content={2853 Content={3541, 3541, 3535, 3541, 3535, 3541, 3536, 3542}, 2853 Content={3535, 3535, 3540, 3538, 3535}, 2853 Content={2853 Content={3544, 3546, 3545, 3544, 3541, 3541, 3542, 3543}, 3541, 3541, 3541, 3541}, 3535, 3535, 3537, 3536, 3536}, 3537, 3538, 3535, 3535, 3539, 3535}, 2471 Content={3454, 3293, 3471, 3454, 3453, 3452, 3454, 3466, 3293, 2885, 3736 Amount=1, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 2969 KeyNumber=4600, 2969 KeyNumber=3302}, 2903, 3504 Content={2866 Content={3031 Amount=71, 3293, 3421}, 2870, 3289, 2969 KeyNumber=4055, 2854 Content={3351}}, 3119, 2911 SavedExpireTime=1935, 3121, 3059, 2471 Content={3585 Amount=18, 3595 Amount=3, 3590 Amount=5, 3582 Amount=15, 3577 Amount=18}, 2473 Content={3056 RemainingUses=200, 3050 SavedExpireTime=1680, 3050, 3008, 3012, 3012, 3012}, 3130, 3130, 2469 Content={3577 Amount=4, 3483, 2868 Content={2869 Content={3152 Charges=1, 3160 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=2, 3188 Charges=3, 3172 Charges=3, 3172 Charges=1, 3172 Charges=3, 3172 Charges=3, 3164 Charges=2, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 3123, 3454, 3451, 3456, 3658}}, 
+               2 Content={3504 Content={3507 String="Sniper Slayer Dragon\nCarlin" Editor="Sniper Slayer Dragon"}, 3502 Content={3409, 3294, 2853 Content={3425, 3425, 3425, 3266}, 2853, 2868, 3307, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3607, 3607, 2920 SavedExpireTime=435, 3349, 2865 Content={2853 Content={3411, 3358, 3358, 2874, 3277 Amount=1, 3358, 3273, 3273}, 3358, 3413, 3413, 3413, 3358, 3358, 3358, 3413, 3413, 3413, 3413, 3413, 3286, 3358, 3358, 3264, 3264, 3286, 3264}, 3291, 2920, 2920, 2920 SavedExpireTime=592, 2853 Content={3377, 3377, 3377, 3377}, 3503 Content={3507}, 3577 Amount=4, 3582 Amount=12}}, 
+               3 Content={3377, 2854 Content={2911 SavedExpireTime=1966, 3602 Amount=1, 1781 Amount=1, 2917, 2917, 3607, 3028 Amount=1, 2914 SavedExpireTime=1979, 3592, 2911 SavedExpireTime=2999, 3607, 3003, 3595 Amount=1, 3188 Charges=1, 3593, 3588 Amount=26, 3593, 3607, 3600 Amount=1}, 3504 Content={3372, 3289, 3074, 3289, 2853 Content={3313}, 2853 Content={3301, 3377, 3074, 3384}, 3504 Content={3367, 3266, 3266, 3367, 3410, 3283, 3283, 3410}, 3507 String="Sniper Slayer Dragon\nAb'Dendriel" Editor="Sniper Slayer Dragon"}, 3504 Content={3072, 3507 String="Sniper Slayer Dragon\nAb'dendriel" Editor="Sniper Slayer Dragon"}, 2853 Content={3286, 3410, 3410, 3273, 3410, 2853 Content={3273, 2853 Content={3410, 3264}, 3273, 3358, 3410, 3410, 3358, 3358}, 3273, 3286}, 2955, 3492 Amount=1, 3412, 3017, 3031 Amount=97, 3066, 3504 Content={3507 String="Sniper Slayer Dragon\nAb'dendriel" Editor="Sniper Slayer Dragon"}, 2853 Content={2853 Content={2853 Content={2853 Content={3266, 3425, 3425, 3425, 3266}}}, 3274}, 3446 Amount=1, 3504 Content={3507 String="Sniper Slayer Dragon\nAb'dendriel" Editor="Sniper Slayer Dragon", 2867}, 3277 Amount=38, 3046 SavedExpireTime=789, 3504 Content={2853 Content={3003}, 3507 String="Sniper Slayer Dragon\nAb'dendriel" Editor="Sniper Slayer Dragon"}, 3502 Content={3457, 2866 Content={3452, 3003, 3056 RemainingUses=200, 2868, 3483, 3492 Amount=37, 2866}, 3017, 3583 Amount=1, 2978 RemainingExpireTime=1093, 3017, 3004, 2473 Content={3035 Amount=2, 3031 Amount=44, 3031 Amount=100}, 2853 Content={2969 KeyNumber=3002, 2969 KeyNumber=3006, 2969 KeyNumber=3004, 2969 KeyNumber=3005, 2969 KeyNumber=3003, 2969 KeyNumber=3001, 2969 KeyNumber=3007, 2969 KeyNumber=3008}, 2853 Content={3084 RemainingUses=250, 2969 KeyNumber=5010, 3446 Amount=4, 3349, 3349, 3446 Amount=100, 3349}, 4871, 3033 Amount=1, 2853 Content={3092, 3565}, 3003, 3291, 3483, 2859 Content={3003, 3588 Amount=18, 3447 Amount=1, 2874, 3349, 3552}, 3003, 3492 Amount=87, 2874 ContainerLiquidType=10, 3084 RemainingUses=101, 2853 Content={3723 Amount=54, 3578 Amount=25, 3582 Amount=11, 3577 Amount=96, 3590 Amount=1, 3607}, 2868 Content={2854, 3349, 3377, 3377, 3582 Amount=2, 3003, 3349, 2854 Content={2868}, 3457, 3457, 2867 Content={3012, 3097, 3275, 3174 Charges=1, 3304, 3285, 3092 SavedExpireTime=1797, 3003, 3056 RemainingUses=200, 3271, 3291, 3377, 3425, 3350, 3447 Amount=18, 3056 RemainingUses=200, 3003, 3446 Amount=91, 3349, 3558}}, 3379, 3736 Amount=1, 3585 Amount=1, 2853}}}

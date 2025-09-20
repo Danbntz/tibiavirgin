@@ -1,0 +1,58 @@
+ID              = 8591713
+Name            = "Magic Hehn"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,79-0-114-71)
+CurrentOutfit   = (138,79-0-114-71)
+LastLogin       = 1129167787
+LastLogout      = 1129168049
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32649,31925,11]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,11469,0,13000,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,28880,1100,29649,1600)
+Skill = (2,185,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,70,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4843,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,13,2000,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,57,2000,150,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,3492,2000,6350,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,84,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,486,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,10,15,19,25,29,30,44}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(29,1),(30,1),(60,1),(113,1),(114,1),(125,1),(126,1),(223,1),(227,1),(279,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2870 Content={3430, 3411, 3375}},
+               4 Content={3378},
+               5 Content={3276},
+               6 Content={3425},
+               7 Content={3558},
+               8 Content={},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3504 Content={3507 String="magic hehn\nthais"}, 3504 Content={}, 3504 Content={3507 String="magic hehn\nthais", 3507 String="magic hehn\nthais"}, 3504 Content={3507 String="Magic Hehn\nThais"}, 3504 Content={3507 String="magic hehn\nthais"}, 3504 Content={3507 String="magic hehn\nthais"}}, 3504 Content={3507 String="magic hehn\nthais"}, 3504 Content={3504 Content={3507 String="MAGIC HEHN\nTHAIS"}, 3507 String="magic hehn\nthais"}, 3504 Content={3507 String="Magic Hehn\nThais"}, 3504 Content={3507 String="MAGIC HEHN\nTHAIS"}, 3504 Content={3507 String="magic hehn\nthais"}, 3504 Content={3507 String="Magic hehn\nthais", 3507 String="magic hehn\nthais\n"}, 3504 Content={3507 String="magic hehn\nthais"}, 3504 Content={3507 String="magic hehn\nthais\n"}, 3504 Content={3507 String="Magic Hehn\nThais\n"}}, 3506 String="Magic Hehn\nThais\n\nFFFF U      U  CCCC   K    K\nF        U      U  C          K K\nFF      U     U   C          K    K\nF        UUUU   CCCC   K     K\n\nY   Y  OOOO  U     U\nYYY  O     O  U      U\n   Y     O     O  U      U\n   Y     OOOO  UUUU\n\nP.D.\ntU CARNAL CULERO\nmOUSSSSSSSSSSSSSTRO", 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="Magic Hehn\nCarlin"}, 3502 Content={}}, 
+               2 Content={3504 Content={3507 String="magic hehn\nkazordoon"}, 3502 Content={2854 Content={3377, 3003, 3031 Amount=8, 2920 SavedExpireTime=203, 3577 Amount=2, 3582 Amount=2, 3147, 3147, 3147}, 4045 RemainingExpireTime=179 Content={}, 2858 Content={3031 Amount=100, 3035 Amount=19}, 3738 Amount=6, 3234, 3661, 3059 String="", 2854 Content={3565, 3359, 3430, 3353, 3559, 3362}, 2868 Content={2396, 3056 RemainingUses=200, 3050 SavedExpireTime=0, 3464, 2955, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 3456, 3457, 3452}, 2870 Content={3291, 3291, 3293, 3300, 3289, 3266}, 2853 Content={3350, 3448 Amount=1}}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3504 Content={3504 Content={3504 Content={3507 String="Magic Hehn\nVenore"}, 3507 String="Magic Hehn\nVenore"}, 3507 String="Magic Hehn\nVenore"}, 3502 Content={}}}

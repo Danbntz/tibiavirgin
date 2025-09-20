@@ -1,0 +1,60 @@
+ID              = 13476507
+Name            = "Lord Zurikatin"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,58-86-117-86)
+CurrentOutfit   = (134,58-86-117-86)
+LastLogin       = 1148252239
+LastLogout      = 1148252710
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32792,31585,12]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,549030,0,601800,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,634788,1100,642316,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,708,815,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,48605,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1728,1800,2063,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,304,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,673,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1432,1100,1590,20)
+Skill = (14,0,1200,0,0,0,336,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,12,0,6,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,12,18,20,25,28,29,38,39,44,76,77,78,81,83,84,87,88,89}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(46,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {1146276013,1146542514}
+
+Inventory   = {1 Content={3385},
+               3 Content={2865 Content={3069, 3031 Amount=37, 3003, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2865 Content={2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3147, 3147}, 2853 Content={3483, 3045 RemainingUses=187}}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853, 2970 KeyNumber=3012}},
+               4 Content={3380},
+               5 Content={3067},
+               6 Content={3428},
+               7 Content={3557},
+               9 Content={3007},
+               10 Content={2923 RemainingExpireTime=297}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3035 Amount=30, 3507 String="Lord Zurikatin\ncarlin\n" Editor="Lord Strider Hiryu"}, 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3003, 3582 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 1c\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3457, 3552, 3452, 2853 Content={2853 Content={2853}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Northern Street 1c\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2857 Content={2856, 3552, 3046 SavedExpireTime=3000, 3046, 3077}, 3504 Content={3083 RemainingUses=133, 3097 SavedExpireTime=3597, 3097, 3507 String="lord zurikatin\ncarlin" Editor="Lord-zurikata"}, 3448 Amount=4, 3502 Content={3059}}, 
+               2 Content={3502}, 
+               3 Content={3284 RemainingUses=1, 3504 Content={3507 String="lord zurikatin\nab'dendriel" Editor="Darknes sorcerer"}, 2920 SavedExpireTime=164, 2853, 2472 Content={3375, 3412, 3425, 3425, 3301, 3097 SavedExpireTime=3584, 3097, 3003}, 3504 Content={2901, 2853 Content={2906, 2989, 2906, 3004, 2989}, 2853 Content={2644, 3003, 3411, 3377, 3336, 2969 KeyNumber=3033}, 2901, 3003}, 2970 KeyNumber=4601, 3502 Content={3059}}, 
+               4 Content={3583 Amount=9, 3504 Content={3507 String="Lord Zurikatin\nEdron" Editor="Son Of Markus Sidious"}, 3502}, 
+               5 Content={3265, 3582 Amount=8, 3502}, 
+               6 Content={3504 Content={3507 String="lord zurikatin\nvenore" Editor="Dublino"}, 3084 RemainingUses=153, 3084 RemainingUses=250, 3502 Content={2868 Content={2867, 2854, 2866}}}, 
+               7 Content={3502 Content={3031 Amount=100, 3583 Amount=4, 3447 Amount=12}}, 
+               8 Content={3502}}

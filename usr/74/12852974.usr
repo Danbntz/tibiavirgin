@@ -1,0 +1,61 @@
+ID              = 12852974
+Name            = "Crunk Slayer"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,39-124-114-0)
+CurrentOutfit   = (133,39-124-114-0)
+LastLogin       = 1147727558
+LastLogout      = 1147728776
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32646,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,244188,0,262600,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,195638,1100,214735,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,575,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,19808,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1136,1800,2063,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,168,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,7,8,9,10,11,15,20,25,26,29,39,42,44,84,87,88}
+QuestValues = {(14,1),(96,1),(97,1),(111,1),(112,1),(115,1),(153,1),(190,1),(191,1),(223,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=188},
+               3 Content={2854 Content={2853, 3582 Amount=3, 3069, 3031 Amount=32, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3432},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3059, 2872 Content={2872 Content={3583 Amount=20, 2854 Content={2868 Content={2870}}}, 2854 Content={2869, 3582 Amount=4, 2866 Content={3070, 2854 Content={3008, 2833 String="Report 27AAF36\nAlthough offered with the best intentions, the reward the tradesmen from Venore had put on monkey tails was revoked after a while. Even though many adventurers and soldiers of fortune had been able to pick up their rewards, the situation was worse than ever as the ape raids came even more frequently and ferociously. The loss of lives and the senseless destruction of property had increased enormously. Sadly Jorgin Beargin, the spokesman of the Venoran traders, was called back to Venore to report about the recent losses.\nThe traders are now asking us to keep adventurers from provoking the ape men in any way. I fear we cannot offer much assistance in that matter since those \"tail hunters\" are numerous and usually well armed but we will try our best.\n"}, 3483, 3066, 3483}, 3084 RemainingUses=250, 3049, 2857 Content={3035 Amount=49, 3556, 2866 Content={3507 String="Crunk Slayer hunting here..\n\nmsg me. ty" Editor="Crunk Slayer"}, 3046 SavedExpireTime=2999, 3077, 3084 RemainingUses=250, 3098}, 2854 Content={2970 KeyNumber=3800, 2667, 3030 Amount=1, 3059, 2853, 2853 Content={3097, 3026 Amount=1}, 3271}}}, 3502}, 
+               3 Content={3502}, 
+               4 Content={2860 Content={2469, 2469 Content={2469}, 2469 Content={2469}, 2469 Content={2469}, 2469 Content={2469}, 2469 Content={2469}}, 3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="Crunk Slayer\nVenore" Editor="Dartho"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

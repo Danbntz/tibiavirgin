@@ -1,0 +1,56 @@
+ID              = 12030304
+Name            = "Phan Raen"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,93-114-114-94)
+CurrentOutfit   = (128,93-114-114-94)
+LastLogin       = 1148255757
+LastLogout      = 1148255766
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32702,32036,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,549163,0,601800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,160860,3000,193600,1600)
+Skill = (2,575,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,165,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,162505,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,65,0,10,0,0,0,0,0,0,0,102568,1100,103482,50)
+Skill = (9,36,0,10,0,0,0,0,0,0,0,5681,1100,6054,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,26,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,60,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,141,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(59,1),(68,1),(69,1),(71,1),(190,1),(191,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3003, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               6 Content={3281},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {0 Content={3504 Content={3507 String="phan raen\nthais" Editor="Phan Raen"}, 3504 Content={3507 String="Phan Raen\nThais" Editor="Skazi Loko Hijo"}, 3504 Content={3507 String="phan raen\nthais" Editor="Phan Raen"}, 3504 Content={3507 String="Phan Raen\nThais" Editor="Phan Raen"}, 3504 Content={3507 String="Phan Raen\nThais\n" Editor="Phan Raen"}, 3504 Content={3507 String="Phan Raen\nThais" Editor="Phan Raen"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="phan raen\nkazordoon" Editor="Phan Raen"}, 3504 Content={3507 String="Phan Raen\nKazordoon" Editor="Skazi Loko Hijo"}, 3504 Content={3507 String="phan raen\nKazordoon\n" Editor="Phan Raen"}, 3504 Content={3447 Amount=10, 3507 String="Phan Raen\nKazordoon" Editor="Phan Raen"}, 3504 Content={3507 String="Phan Raen\nKazordoon" Editor="Phan Raen"}, 3502}, 
+               3 Content={3446 Amount=13, 3446 Amount=100, 2853 Content={3412, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2853 Content={3056 RemainingUses=200, 2853 Content={3269, 3384}}, 2853 Content={3307, 3308, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5}, 2969 KeyNumber=3033, 3291}, 3504 Content={3293, 3412, 3295, 3419, 3272, 3007, 3301, 3507 String="phan raen\nab'dendriel" Editor="Kourio", 2853 Content={2853 Content={3046, 3046 SavedExpireTime=1198, 3046 SavedExpireTime=1570, 3046, 3046 SavedExpireTime=2928, 3298 Amount=3, 2854 Content={3307, 3406, 3313, 3046, 3046, 3046}}}, 2469 Content={2969 KeyNumber=3033, 3291, 3504 Content={3582 Amount=8, 3292, 3505 String="kourio-----------------------\nhuting here\nleave plx*\nDont down, respect plz" Editor="Kourio", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Thanah II a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="Kourio\nAnkrahmun" Editor="Phan Raen"}, 3507, 3507 String="Kourio\nAnkrahmun" Editor="Phan Raen"}, 2957, 3313, 2871 Content={2647, 2659, 2659, 2659, 2647}, 2871 Content={3075, 3045 RemainingUses=200, 3483, 3552, 2865 Content={3507 String="Setsua of hell \nhunting larvas\nrespected plissss" Editor="Setsuma of hell", 3301, 3017, 3046, 3046, 3046, 3017, 3289, 3054 RemainingUses=200, 3017, 3017}, 3078, 3289, 3076, 3313, 3289}, 3504 Content={3507 String="KOURIO\nANKRAHMUN" Editor="Kouryo"}}}, 3008, 3059, 3502 Content={2866 Content={2865, 2865 Content={3351}, 2865 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2871 Content={3349, 3349, 3349, 3349, 3349, 3349}}, 2871 Content={3031 Amount=15, 3031 Amount=14}}}, 
+               6 Content={3504 Content={3507 String="Phan Raen\nVenore" Editor="Phan Raen"}, 3502 Content={2853 Content={2920, 2920, 2920, 2920, 2920}, 3267, 3483, 2874}}}

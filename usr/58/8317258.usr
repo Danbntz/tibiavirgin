@@ -1,0 +1,57 @@
+ID              = 8317258
+Name            = "Monja Teresa De Calcuta"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,39-0-0-0)
+CurrentOutfit   = (142,39-0-0-0)
+LastLogin       = 1146936185
+LastLogout      = 1146936196
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32339,31785,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,156379,0,179400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,99594,3000,193600,1600)
+Skill = (2,410,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,110,110,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,845,845,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,30982,1100,33003,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,100,1100,105,50)
+Skill = (9,52,0,10,0,0,0,0,0,0,0,27730,1100,29620,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,36,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12545,1100,13052,20)
+Skill = (14,0,1200,0,0,0,559,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(58,1),(59,1),(96,1),(97,1),(98,1),(109,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               2 Content={3572},
+               3 Content={2868 Content={3658, 3492 Amount=50, 3003, 3582 Amount=10, 3483, 3031 Amount=20, 3673, 2920, 3457}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2922 SavedExpireTime=13}}
+
+Depots      = {0 Content={3305, 3305, 3577 Amount=4, 3723 Amount=2, 3604 Amount=28, 3035 Amount=3, 3031 Amount=30, 2854 Content={2854 Content={3316, 3012}}, 3412, 3270, 2853 Content={3031 Amount=47, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3466, 3502 Content={2854 Content={3577 Amount=12, 3582 Amount=8}, 2853 Content={3085 RemainingUses=200, 3052 SavedExpireTime=0}, 3409, 3446 Amount=6, 2854 Content={2870 Content={3377, 3286, 3266, 2854 Content={}, 2815 String="jeje hola espero k te vaya bien en tu viejae suerte espero k algun dia nuestra amistad vuelva a ser lo k fue alguna vez :/ bye"}, 3349, 3377, 3421, 3083 RemainingUses=147}, 2874 ContainerLiquidType=0, 2867 Content={3286, 3003, 2920 SavedExpireTime=0, 3350, 2856 Content={3658, 2393, 3030 Amount=3, 3056 RemainingUses=200, 3008}, 2885 ContainerLiquidType=0, 2873 ContainerLiquidType=0, 3286, 2875 ContainerLiquidType=0, 3282, 3012}, 2854 Content={3577 Amount=41, 2882 ContainerLiquidType=0, 3723 Amount=2, 3604 Amount=3, 3598 Amount=1, 3600 Amount=48, 3582 Amount=71, 3578 Amount=24, 3577 Amount=100, 3725 Amount=2}, 2854 Content={3031 Amount=37, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=16}}}, 
+               1 Content={3659, 2981, 3035 Amount=7, 3492 Amount=100, 2920 SavedExpireTime=596, 2920 SavedExpireTime=123, 2949, 2865 Content={3447 Amount=15, 3362, 3736 Amount=4, 3446 Amount=16, 3673, 3349, 3506 String="Monja Teresa De Calcuta\nCarlin\n\nthis card is for someone that i love but now she wont love me even she don know that i exist in her life now im diying in pain i just want to give this last letter telling that you was my great love but  i lost you even until now i dont know the reasons just you cya \n\nAtte someone that you forget and now he is diying ", 3421, 3349, 2920, 2920 SavedExpireTime=403, 2920, 2920 SavedExpireTime=598, 3349, 3504 Content={3504 Content={3504 Content={3507 String="Pargon\nCarlin"}, 3507 String="Monja Teresa De Calcuta\nCarlin\n", 3504 Content={3507 String="Monja Teresa De Calcuta\nCarlin\n"}, 3507 String="Monja Teresa De Calcuta\ncarlin"}, 3457}}, 3308, 2853 Content={3492 Amount=5}, 3457, 2991, 2854 Content={3378, 3279}, 2865 Content={3174 Charges=1, 3659, 3658, 3668, 3658, 3673, 3658, 3483, 3446 Amount=4, 3506 String="Monja Teresa De Calcuta\nCarlin\n\nHola ana cristina, espero q te la pases bien en tu viaje y que te diviertas musho, y pienses en mi asi como io desde aka estare pensando en ti, se q llevamos poco tiempo de conocernos pero me caes super bien y me Gustas MUcho, espero q sientas algo por mi asi como io lo siento por ti...\n\n te kiero musho, y algo mas.. q es muy pronto para decirtelo y no kiero q lo tomes a mal :) I LOVE U ---\n\nme tuve q ir por q sabes q me iba a  el oxxo, ojala te encuentre conectada mañana  para despedirnos de esta larga semana q me espera sin platicar contigo\n\ntkmmm portate bien  y diviertete \nMil BESOS   :*******************\n\nVICTOR ADRIAN MENDOZA CAUDILLO >", 3147, 2865 Content={3052 SavedExpireTime=1045, 3454, 3003, 2973 KeyNumber=3520, 3030 Amount=1, 2866 Content={3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3425, 3421}, 3552, 3008, 3504, 2865 Content={2867 Content={3668, 3658, 3658, 3668, 3659, 3658, 3668, 3658, 3659, 3668, 3658, 3658, 3668, 3658, 3659, 3658, 3658, 3658, 3668, 3668}, 3668, 3658, 2854 Content={3658, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673, 3673}, 3658, 3668, 3668, 2865 Content={3658, 3659, 3659, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3659, 3658, 3659, 3658, 3658, 3659, 3658, 3658, 3658}, 3658, 3668, 3658, 3668, 3668, 3668, 3668, 3668, 3668, 3658, 3658, 3658}, 3457, 3003}, 3603 Amount=1, 3502 Content={3446 Amount=4, 2868 Content={3035 Amount=10, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2867 Content={3492 Amount=100, 2853 Content={3492 Amount=70, 3492 Amount=100, 3492 Amount=100, 3598 Amount=1, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2992 Amount=2, 3725 Amount=20, 3577 Amount=70, 3586 Amount=6, 3588 Amount=49, 3591 Amount=35, 3578 Amount=100, 3577 Amount=100, 3578 Amount=100, 3578 Amount=100, 3585 Amount=38, 3582 Amount=27, 3602 Amount=100, 3578 Amount=100, 3577 Amount=100, 3595 Amount=11, 3723 Amount=46, 3590 Amount=13}, 2920, 3046 SavedExpireTime=2992, 2920, 2865 Content={3454, 2969 KeyNumber=4600, 3505, 2920 SavedExpireTime=448, 2920 SavedExpireTime=597, 2920, 3336, 3412, 3503 Content={3147, 3147, 3147, 3507}, 2854 Content={2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=124, 3084 RemainingUses=250, 3056 RemainingUses=200, 3012, 3084 RemainingUses=250, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3012}, 2882, 3046, 2853 Content={3483, 3483, 3483}, 2922 SavedExpireTime=108, 3457, 3003}, 2853 Content={3003, 2875, 3050 SavedExpireTime=1797, 2875, 2875, 2875}, 2853 Content={3004, 2920 SavedExpireTime=288, 2920 SavedExpireTime=493, 3457, 3336, 3050}, 3505}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3577 Amount=8, 3673, 3668, 3673, 3504 Content={3504 Content={3507 String="Lord Gilek\nAb'Dendriel"}, 3504 Content={3507 String="elver jean sason \nab'dendriel\n" Editor="Lony Titanium"}}, 3504 Content={3668, 3673, 3673, 3668, 3504 Content={3507 String="Lord Gilek\nAb'Dendriel"}, 3504 Content={3507 String="Doh'dle\nAb'dendriel"}, 3507 String="Lord Gilek\nAb'Dendriel"}, 3279, 3446 Amount=2, 3285, 3658, 3658, 3504 Content={3658, 3659, 3658, 3659, 3668, 3658, 3668, 3673, 3658, 3507 Editor="Monja Teresa De Calcuta"}, 3658, 3605 Amount=28, 3673, 2914 SavedExpireTime=189, 3304, 3582 Amount=6, 3502 Content={3457, 3673, 3673, 3035 Amount=7, 3446 Amount=11, 3350, 3003, 2914 SavedExpireTime=1999}}, 
+               6 Content={3504 Content={3507 String="Monja Teresa De Calcuta\nVenore\n", 3412, 3336}, 3502 Content={3008, 3358, 2867 Content={3358, 2880 ContainerLiquidType=5, 2880, 2880, 3505, 3505, 3505, 3286, 3286, 3286, 3410, 3367}, 2853 Content={3658, 3008, 3026 Amount=1, 3027 Amount=2, 3030 Amount=1, 3012, 3097, 3012}, 2867 Content={3602 Amount=16, 3505, 3577 Amount=62, 3582 Amount=11, 3600 Amount=1}, 2867 Content={3031 Amount=79, 3031 Amount=100, 3035 Amount=1, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100}}}}

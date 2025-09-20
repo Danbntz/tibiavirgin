@@ -1,0 +1,56 @@
+ID              = 11402282
+Name            = "Twister Warlock"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,120-96-121-115)
+CurrentOutfit   = (128,120-96-121-115)
+LastLogin       = 1139425578
+LastLogout      = 1139427507
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32366,32154,12]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,180389,0,204800,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,151846,1100,157355,1600)
+Skill = (2,264,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,281,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22189,1500,25749,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,1060,2000,1890,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3997,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,27,2000,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,2019,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1470,1100,1590,20)
+Skill = (14,0,1200,0,0,0,1083,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,1,0,98,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,16,19,20,25,27,29,30,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(125,1),(126,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2867 Content={3264, 3075, 3031 Amount=99, 3578 Amount=4, 3052 SavedExpireTime=1085, 2854 Content={3160 Charges=1, 3160 Charges=1, 3164 Charges=3, 3148 Charges=3, 3147, 3147, 3147, 3147, 3147, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3164 Charges=3, 3164 Charges=1, 3164 Charges=3, 3147, 3147, 3147, 3147}}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3506 String="Twister Warlock\nThais\nWe are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3502 Content={3504 Content={3035 Amount=31, 3052, 3035 Amount=100, 3035 Amount=100, 3065, 3738 Amount=12, 3416, 3084 RemainingUses=250, 3077}, 3504 Content={2906, 3059, 3377, 3377, 3012, 3012, 3377, 3377, 3377}, 2856 Content={2983, 2857, 3046, 3349, 3384}, 3504 Content={2853 Content={3552, 3551, 3056 RemainingUses=200, 3507 String="Lord Manguxx\nAb' dendriel" Editor="Twister Warlock", 3457, 3350}, 3456, 3457, 3308, 2969 KeyNumber=3033, 3375, 3456, 3322}, 3504 Content={3483, 3492 Amount=10, 3308, 3425, 3074, 3534 Amount=1, 3285, 3558, 3093, 3457}}}, 
+               1 Content={3502 Content={3504 Content={3507 String="Twister Warlock\nCarlin" Editor="Twister Warlock"}}}, 
+               3 Content={3502 Content={3504 Content={3507 String="Twister Warlock\nAb'dendriel" Editor="Twister Warlock"}, 3504 Content={3507 String="Twister Warlock\nAb'dendriel" Editor="Twister Warlock"}}}, 
+               6 Content={3502 Content={3483, 3300, 3307, 3447 Amount=2, 3504 Content={1781 Amount=2, 3673, 3507 String="Twister Warlock\nVenore"}, 2922 SavedExpireTime=64, 2920, 3362, 3378}}}

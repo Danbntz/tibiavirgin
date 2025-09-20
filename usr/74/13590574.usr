@@ -1,0 +1,55 @@
+ID              = 13590574
+Name            = "Cfaniak Bodzio"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,119-0-0-0)
+CurrentOutfit   = (129,119-0-0-0)
+LastLogin       = 1148112339
+LastLogout      = 1148112369
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32220,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,240828,0,262600,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,121500,1400,157982,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,265,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,830,830,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,16453,1100,18194,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,32054,1100,34917,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,162,1200,181,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,118,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1200,50,50)
+Skill = (11,27,0,10,0,0,0,0,0,0,0,5823,1200,6405,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,126,1100,154,20)
+Skill = (14,0,1200,0,0,0,852,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,15,29,30,42,44,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(37,1),(55,1),(67,1),(68,1),(69,1),(70,1),(71,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(113,1),(114,1),(121,1),(128,1),(140,1),(141,1),(190,1),(191,1)}
+Murders     = {1145899270,1145899463}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=196},
+               3 Content={2867 Content={3447 Amount=30, 3031 Amount=2, 3446 Amount=36, 3446 Amount=100, 3446 Amount=100, 3160 Charges=1, 3160 Charges=1, 3425}},
+               4 Content={3357},
+               5 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3502 Content={3585 Amount=3, 3031 Amount=29, 3285, 3035 Amount=29, 3582 Amount=40, 3577 Amount=38, 3035 Amount=100, 3583 Amount=3, 3723 Amount=48, 2854 Content={2901, 3012, 2969 KeyNumber=3600, 3077, 3083 RemainingUses=150, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3483, 2914 SavedExpireTime=1332, 3492 Amount=41, 3077, 3673, 2870 Content={3003, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3503 Content={3507}, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2854 Content={2854 Content={2853 Content={3198 Charges=5, 2968 KeyNumber=3940, 3198 Charges=5}, 3299, 3310, 3316, 2871 Content={3350, 3350, 3350, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3418, 3415, 3425, 3425, 3421}, 3456, 2853 Content={3188 Charges=1, 2854 Content={2854 Content={2854}}, 3155 Charges=1, 3155 Charges=1, 3177 Charges=1, 3155 Charges=1, 3148 Charges=3, 3191 Charges=2}, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 2867 Content={3084 RemainingUses=243, 3050 SavedExpireTime=1792, 3093, 3046 SavedExpireTime=620, 3074, 3310, 3097 SavedExpireTime=3540, 3026 Amount=3, 3084 RemainingUses=250, 3301, 3056 RemainingUses=199, 3008, 3093, 3098, 3059, 2955, 2854 Content={3447 Amount=100, 3277 Amount=15, 3287 Amount=14, 3449 Amount=12, 3448 Amount=72}}}, 3079, 3072, 3384, 3377, 3359, 3557, 3357, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3308}}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3266}}, 
+               6 Content={3502}}

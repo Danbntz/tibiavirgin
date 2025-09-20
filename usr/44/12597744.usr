@@ -1,0 +1,58 @@
+ID              = 12597744
+Name            = "Marius Sorcerer"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-87-95-114)
+CurrentOutfit   = (130,114-87-95-114)
+LastLogin       = 1147108073
+LastLogout      = 1147108138
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32350,32219,5]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,345876,0,368300,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,174610,1100,174690,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,665,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,26532,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1564,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,10,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,9,10,16,20,29,30,38,44}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(28,1),(54,1),(69,1),(93,1),(94,1),(95,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3446 Amount=1, 3031 Amount=15, 3723 Amount=1, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3075, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3003}},
+               4 Content={3381},
+               5 Content={3073},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3322, 3504 Content={3425, 3425, 3425, 3425, 3425, 3425, 3507 String="marius sorcerer \nthais" Editor="Nika of Zenera"}, 3071, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}, 3582 Amount=10}}}}}}}}}}}}}}}}}, 3507 String="marius sorcerer\nthais" Editor="Marius Sorcerer"}, 3463, 2989, 3282, 3502 Content={2865, 2854 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3372, 3367}, 2854 Content={3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1}}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={3349, 3349, 3349, 3349}, 3357, 3673, 2866 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=4503, 3097, 3097, 3056 RemainingUses=200, 3056 RemainingUses=200, 3736 Amount=1, 3056 RemainingUses=192, 3056 RemainingUses=200, 3054 RemainingUses=104, 4871, 2970 KeyNumber=3802, 3359}, 2853 Content={3598 Amount=27, 3585 Amount=6, 3723 Amount=100}, 2870, 2857 Content={3092, 3092, 3050, 3052, 3046, 3098 SavedExpireTime=449, 3077, 3084 RemainingUses=250}, 3308, 3658, 3059}}, 
+               1 Content={2853, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

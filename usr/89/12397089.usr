@@ -1,0 +1,58 @@
+ID              = 12397089
+Name            = "Slime Zenze"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-114-0-114)
+CurrentOutfit   = (134,0-114-0-114)
+LastLogin       = 1146336274
+LastLogout      = 1146336380
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32920,32071,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,117681,0,135100,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,119771,1100,127268,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,304,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13153,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,723,1800,1118,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,415,1800,593,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,51,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1069,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,10,20,39,76,81,84,87,88,89}
+QuestValues = {(17,1),(19,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(55,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(140,1),(141,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=182},
+               3 Content={2854 Content={3155 Charges=1, 3155 Charges=1, 3200 Charges=3, 3200 Charges=3, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3582 Amount=1, 3152 Charges=1, 3198 Charges=2, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3198 Charges=3}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}
+
+Depots      = {0 Content={3031 Amount=100, 3367, 3504 Content={3357, 3507 String="slime zenze\nthais" Editor="Slime Zenze", 3357, 3357, 3357}, 2871 Content={3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2857 Content={3147, 3085 RemainingUses=200, 3052, 3046, 3077, 3098}, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3279, 3070, 3083 RemainingUses=147, 3066, 2865 Content={3188 Charges=3, 3188 Charges=1, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3275, 3172 Charges=1}, 2867 Content={3351, 3351, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=20, 3275, 3275}, 3483, 3504 Content={3052, 3507 String="Slime Zenze\nAb'dendriel" Editor="Spider Zenze"}, 2969 KeyNumber=3600, 2969 KeyNumber=3033, 3083 RemainingUses=150, 3483, 3492 Amount=68, 3093, 3093, 3504 Content={3507 String="slime zenze\nthais" Editor="Slime Zenze", 2969 KeyNumber=3033, 2860 Content={2853 Content={2969 KeyNumber=3033}}, 3415}, 3358, 3504 Content={3049 SavedExpireTime=113, 3279, 3507 String="slime zenze\nthais" Editor="Slime Zenze", 2853 Content={3599 Amount=7, 2853 Content={3457, 2853 Content={3274}, 3008, 3097}}, 3066, 3377}, 3502 Content={3582 Amount=7, 2969 KeyNumber=3600, 3031 Amount=5, 3160 Charges=1}}, 
+               1 Content={3502 Content={3008}}, 
+               3 Content={3031 Amount=60, 3003, 3174 Charges=5, 3174 Charges=2, 3198 Charges=5, 3007, 2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3147, 3147}, 3504 Content={3507 String="Slime Zenze\nAb'dendriel" Editor="Spider Zenze"}, 3502 Content={3598 Amount=21, 3308, 3207 Amount=1}}, 
+               5 Content={3457, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=17, 3446 Amount=98, 3049, 3084 RemainingUses=250, 3502}, 
+               6 Content={3502 Content={3035 Amount=2, 3353, 3377}}}

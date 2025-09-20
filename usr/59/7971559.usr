@@ -1,0 +1,56 @@
+ID              = 7971559
+Name            = "Sir Wala Wala"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,3-56-56-56)
+CurrentOutfit   = (133,3-56-56-56)
+LastLogin       = 1146447389
+LastLogout      = 1146447672
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32928,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,927842,0,992000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,171735,3000,193600,1600)
+Skill = (2,665,665,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,163,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1270,1270,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,128822,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,117,1100,165,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,89000,1100,94029,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3556,1100,3638,20)
+Skill = (14,0,1200,0,0,0,6,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(86,1),(87,1),(96,1),(97,1),(98,1),(99,1),(115,1),(137,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2854 Content={3492 Amount=5, 3582 Amount=5, 3578 Amount=70, 3507 String="sir wala wala \ntrainig here  " Editor="Sir Wala Wala", 3430, 3031 Amount=37, 3308, 3003, 3457, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}},
+               4 Content={3380},
+               5 Content={3324},
+               6 Content={3428},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               5 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={2853 Content={3286, 3286, 3264, 3264, 3286, 3286}, 3264, 3264, 3286, 3264, 3264, 3286, 3286}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               6 Content={3304, 3279, 3578 Amount=20, 3492 Amount=90, 2969 KeyNumber=5010, 2920, 3031 Amount=34, 3031 Amount=100, 3503 Content={3503}, 3336, 2854 Content={3270}, 2866 Content={3313, 3046, 3046 SavedExpireTime=2996, 3084 RemainingUses=250, 3097 SavedExpireTime=2023}, 2867 Content={3308, 2865 Content={2854 Content={3155 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147}, 2970 KeyNumber=3142, 3734 Amount=1, 3083 RemainingUses=150}, 2853 Content={3092, 2857 Content={3483, 3046, 3017, 3056 RemainingUses=192, 3084 RemainingUses=250, 3046, 3077}, 2853 Content={3042 Amount=1, 3097}, 3017, 3121}, 2854 Content={3046 SavedExpireTime=3000, 3552, 2920, 2920, 2920, 3003, 3457}, 3457}, 3502 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3035 Amount=89, 3035 Amount=100, 3035 Amount=100, 2869 Content={3322, 3385, 3418, 3279, 3093, 3093, 3093, 3093, 3093, 3093, 2920, 3052, 3381, 3279, 3279, 3279}}}}

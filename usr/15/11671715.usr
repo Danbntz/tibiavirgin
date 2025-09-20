@@ -1,0 +1,56 @@
+ID              = 11671715
+Name            = "Althel Gutar"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1148240565
+LastLogout      = 1148242531
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32700,31715,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,160354,0,179400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,148814,1400,157982,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,239,250,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11934,1100,12109,100)
+Skill = (7,61,0,10,0,0,0,0,0,0,0,42013,1100,42312,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,688,1200,824,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,24,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1506,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1434,1100,1590,20)
+Skill = (14,0,1200,0,0,0,537,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,71,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,15,20,29,42,44,51,79}
+QuestValues = {(20,1),(23,1),(32,1),(33,1),(34,1),(35,1),(61,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(99,1),(109,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(257,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={2973 KeyNumber=3520, 3582 Amount=1, 3031 Amount=58, 3031 Amount=100, 3457, 3003}},
+               6 Content={3350},
+               8 Content={3552},
+               10 Content={3447 Amount=29}}
+
+Depots      = {0 Content={3506 String="Althel Gutar\nThais\nWe are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3504 Content={3507 String="Althel Gutar\nThais" Editor="Zita Isus"}, 3504 Content={3277 Amount=2, 3507 String="Althel Gutar\nThais" Editor="Sir Pharon"}, 3504 Content={3507 String="Althel Gutar\nThais" Editor="Pandy Payne"}, 3276, 3276, 3502}, 
+               1 Content={3504 Content={3507 String="Althel Gutar\nAb'dendriel" Editor="Dark Necrosfear", 3448 Amount=10, 3507 String="Althel Gutar\nCarlin" Editor="Cryx Isus"}, 3658, 1781 Amount=6, 3597 Amount=1, 3003, 3504 Content={1781 Amount=3, 3507 String="Althel Gutar\nCarlin" Editor="Althel Gutar"}, 3504 Content={2911 SavedExpireTime=2901, 2914 SavedExpireTime=1992, 2911, 3658, 3507 String="Althel Gutar\nCarlin" Editor="Althel Gutar"}, 3502 Content={2914 SavedExpireTime=1275, 3349, 3349, 3483, 3350}}, 
+               2 Content={3504 Content={3507 String="Althel gutar\nKazordoon" Editor="Druid of old Republic"}, 3502}, 
+               3 Content={3504 Content={3507 String="Althel Gutar\nAb'dendriel" Editor="Dark Necrosfear"}, 3504, 3504 Content={3504, 3277 Amount=6, 3578 Amount=24, 1781 Amount=12, 3507 String="Althel Gutar\nAb'dendriel" Editor="Althel Gutar"}, 3502}, 
+               4 Content={3504 Content={3507 String="Althel Gutar\nEdron" Editor="Sir Pharon"}, 3585 Amount=14, 2853, 3507 String="Althel Gutar\nEdron" Editor="Althel Gutar", 3505 String="Althel Gutar\nDarashia\nCzesc, mam zaszczyt ci dac przedmioty ktore wystepuja na liscie przedmitow:\n15 red  apples(od mikolaja na szymonie herrosie), 106 gp, Brown bread, white mushroom, 2 meat." Editor="Szymon of Master sorcerer", 3602 Amount=1, 3502}, 
+               5 Content={3504 Content={3507 String="Althel Gutar\nDarashia" Editor="Szymon of Master sorcerer"}, 3504 Content={3507 String="Althel Gutar\nDarashia" Editor="Zita Isus"}, 3504 Content={3507 String="Althel Gutar\nDarashia" Editor="Danvis Vinda"}, 2866 Content={2866}, 3502}, 
+               6 Content={3504 Content={3507 String="Althel Gutar\nVenore" Editor="Szymon of Master sorcerer"}, 3502}, 
+               7 Content={3504 Content={3507 String="Althel Gutar\nAnkrahmun" Editor="Zita Isus"}, 3504 Content={3507 String="Althel Gutar\nAnkrahmun" Editor="Yara Serius"}, 3504 Content={3507 String="Althel Gutar\nAnkrahmun" Editor="Ceril"}, 3504 Content={3507 String="Althel Gutar\nAnkrahmun" Editor="Szymon of Master sorcerer"}, 3504 Content={3507 String="Althel Gutar\nankrahmun" Editor="Freestyler-Druid"}, 3504 Content={3507 String="Althel Gutar\nAnkrahmun" Editor="Szymon of Master sorcerer"}, 3504 Content={3507 String="Althel Gutar\nAnkrahmun" Editor="Szymon of Master sorcerer"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Thanah II d\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               8 Content={3504 Content={3507 String="Althel Gutar\nPort Hope" Editor="Sir Pharon"}, 3502}}

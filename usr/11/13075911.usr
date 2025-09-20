@@ -1,0 +1,54 @@
+ID              = 13075911
+Name            = "Dum knight of the hell"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,78-114-94-0)
+CurrentOutfit   = (129,78-114-94-0)
+LastLogin       = 1146749066
+LastLogout      = 1146749319
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32696,32307,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,89610,0,98800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,19699,3000,20800,1600)
+Skill = (2,149,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,49,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,24521,1100,24547,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,31,1400,71,30)
+Skill = (8,45,0,10,0,0,0,0,0,0,0,13798,1100,14956,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,468,1100,490,20)
+Skill = (14,0,1200,0,0,0,48,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,6,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(33,1),(34,1),(60,1),(67,1),(69,1),(70,1),(71,1),(93,1),(94,1),(95,1),(115,1),(125,1),(126,1),(138,1),(139,1),(190,1),(191,1),(226,1)}
+Murders     = {1145382074,1145476047,1145551741,1146071227,1146420476}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3031 Amount=100, 3031 Amount=50, 3359, 3031 Amount=100, 3353}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3285},
+               8 Content={3552},
+               10 Content={3577 Amount=4}}
+
+Depots      = {0 Content={3504 Content={3374, 3377, 3377, 3377, 3507 String="Dum Knight Of The Hell\nThais" Editor="Fenarax"}, 3502 Content={3003, 3291, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses."}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

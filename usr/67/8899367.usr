@@ -1,0 +1,55 @@
+ID              = 8899367
+Name            = "Pyster delta"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,0-123-114-114)
+CurrentOutfit   = (138,0-123-114-114)
+LastLogin       = 1148156666
+LastLogout      = 1148159682
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,332739,0,368300,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,327904,1100,355602,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,101,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,27759,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,8011,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,234,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2524,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,64,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,13,15,16,18,20,21,23,25,29,30,38,44,45}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(35,1),(37,1),(46,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(128,1),(190,1),(191,1),(192,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3035 Amount=1, 3031 Amount=81, 3180 Charges=2, 2865 Content={2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3053 SavedExpireTime=480}},
+               4 Content={3370},
+               5 Content={3147},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3075}}
+
+Depots      = {0 Content={3074, 3504 Content={3504 Content={3507 String="zwalievel\nvenore\n" Editor="Alberto Quintanilla"}, 3507 String="pyster delta\nthais" Editor="Zwalievel"}, 2871 Content={2854, 2854, 2854, 2854, 2854, 2854, 2869, 2865, 2871, 2854, 2854, 2854, 2854}, 3457, 3003, 2854 Content={3003, 3457}, 3456, 2853 Content={2853 Content={3279, 3289}, 2853 Content={3286, 3353, 3353, 3353}, 3357, 3359, 3359}, 3007, 3457, 3008, 3457, 2955, 2868 Content={3033 Amount=3, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 2857 Content={3097, 3097, 3092, 3050 SavedExpireTime=1766, 3050, 3093 SavedExpireTime=1706, 3093 SavedExpireTime=1784}, 2857 Content={3077, 3077, 3077, 3077, 3077}, 2853 Content={2969 KeyNumber=4055, 2969 KeyNumber=3600, 2970 KeyNumber=4601, 2969 KeyNumber=3600, 2971 KeyNumber=3702, 2969 KeyNumber=3600}, 3056 RemainingUses=200, 3012, 3083 RemainingUses=150, 3012, 3083 RemainingUses=148, 3083 RemainingUses=150, 3084 RemainingUses=250}, 3502 Content={3071, 2854 Content={3354, 2854 Content={2854 Content={2853 Content={3367, 3354}, 3367, 3354, 3367, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3367, 3354, 3354, 3354, 3354, 3354, 3354, 3367}, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3367}, 3446 Amount=1, 2854 Content={3446 Amount=89, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}}}, 
+               1 Content={3504 Content={3507 String="Pyster delta\ncarlin" Editor="Alberto Quintanilla"}, 2854, 3354, 2853 Content={3264, 3286, 3286, 3286}, 3504 Content={3507 String="Pyster delta\ncarlin\n"}, 3502 Content={3031 Amount=91, 3031 Amount=100}}, 
+               3 Content={2853 Content={3377, 3377, 3305, 3305}, 3502 Content={3446 Amount=14}}, 
+               6 Content={3059, 3504 Content={3483, 3492 Amount=22, 3425, 3003, 3483, 3483}, 2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3279, 2859, 2854 Content={3076, 3082 RemainingUses=50, 3448 Amount=60, 3449 Amount=30, 3029 Amount=2}, 2853 Content={3188 Charges=3, 3148 Charges=2}, 3308, 3503 Content={3507}, 2970 KeyNumber=4601, 3502 Content={3031 Amount=24, 3031 Amount=100, 3031 Amount=100}}}

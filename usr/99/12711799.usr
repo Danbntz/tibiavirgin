@@ -1,0 +1,58 @@
+ID              = 12711799
+Name            = "Akisuki"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,79-0-0-0)
+CurrentOutfit   = (137,79-0-0-0)
+LastLogin       = 1148251937
+LastLogout      = 1148253902
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32608,31795,5]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,210219,0,232500,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,171026,1100,174690,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,461,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,24149,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,428,2000,750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,73,2000,150,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,223,2000,350,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,400,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,354,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,8,9,10,11,19,20,25,26,27,29,30,38,44}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(40,1),(46,1),(60,1),(93,1),(94,1),(95,1),(96,1),(97,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {1146897247,1146973219,1147653941}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2871 Content={2853 Content={3031 Amount=21, 3577 Amount=4, 3588 Amount=3}, 2854 Content={3031 Amount=47, 3275, 3160 Charges=1, 3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3003}, 3276, 3031 Amount=29, 3198 Charges=5, 3160 Charges=1, 3147}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2867 Content={3031 Amount=3, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=5, 3031 Amount=69, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=25, 3031 Amount=100}, 3736 Amount=1, 3152 Charges=1, 3188 Charges=2, 2856 Content={3565}, 2868 Content={3277 Amount=1, 3447 Amount=20, 3349, 3446 Amount=90}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3177 Charges=1, 3177 Charges=1, 3061, 3148 Charges=2, 3148 Charges=2, 3180 Charges=4}, 2865 Content={2868 Content={2868, 2868, 2868}, 2870 Content={2870}, 2867 Content={2867 Content={2867, 2867}, 2859, 2867, 2867, 2867}, 2865 Content={2857 Content={3465 ContainerLiquidType=6, 2873 ContainerLiquidType=8, 2873 ContainerLiquidType=8}, 2857, 2857}, 2854 Content={2854 Content={2854, 2854}, 2854, 2854 Content={2854}}}, 2854 Content={2872 Content={2872, 2872, 2872, 2872, 2872, 2872, 2872}, 2866 Content={2866}, 2868 Content={2868}, 2865}, 2854 Content={3056 RemainingUses=200, 3012, 3012, 3483, 3349, 3483, 2952, 2970 KeyNumber=4503, 3077, 3740 Amount=1, 3506 String="Akisuki \ncarlin \nke pedo fano jajaja estoy siendo muy poderosa jajaja  mas ke tu y kuando te vea HUNTED!!!!!!! JAJAJA" Editor="Madison sakura", 3505 String="si tu supieras lo k siento no estaria ocmo un tonto llorandote y deseandote decir lo mucho k te kiero en sueños tkm hermosa!!!  kiero decir k te amo k le das vida ami corazon k ya no puedo escapar k ya no puedo dejarte de amar! kiero decir k te amo!!! nunca en mi vida e sentido = kieor dormir despertar reir y llorar junto ati!!!" Editor="Bond-Cicuta", 3658, 3552, 3003, 3658, 3658, 3003}, 2871 Content={3075, 3074, 3282, 3282, 3425, 3425, 3425, 3425, 3425, 3046 SavedExpireTime=2995, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=2991, 2949, 3358, 3286, 3269}, 2868 Content={3419, 3457, 3425, 3349, 3483, 3492 Amount=95, 3349, 3349, 3349, 3349, 3349}, 2473 Content={3425, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 3350, 3350, 3350, 3092 SavedExpireTime=1797}, 3502 Content={3384, 3457, 3269, 3384, 3384, 3305, 3308, 2969 KeyNumber=3033, 3311, 3308, 3457, 3421, 3451, 3305, 3264, 3410, 3299, 3266, 3273}}, 
+               2 Content={3502}, 
+               3 Content={3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3031 Amount=47}, 3362, 3504 Content={3507 String="akisuki\nab'dendriel" Editor="Dragon Fork"}, 3307, 3307, 3066, 2866 Content={3377}, 3454, 2866 Content={3198 Charges=5}, 2868 Content={3192 Charges=2, 3180 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=1, 3180 Charges=4, 3180 Charges=4, 3197 Charges=1, 3180 Charges=4}, 3502}, 
+               6 Content={2854 Content={3350, 3449 Amount=2, 3447 Amount=68, 3492 Amount=100, 3446 Amount=5, 3305}, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3291, 3030 Amount=1, 3084 RemainingUses=56, 3085 RemainingUses=200, 2853 Content={2853 Content={3658, 2857 Content={3077, 3046 SavedExpireTime=151}, 3085 RemainingUses=200}, 2989, 2393, 3658}, 3056 RemainingUses=195, 3054 RemainingUses=200, 3050 SavedExpireTime=1781, 3097 SavedExpireTime=3375, 3008, 3468, 3467}, 2854 Content={3031 Amount=40, 3285, 3265, 3294, 3308, 3283, 3268, 3266}, 2868 Content={2867, 2868, 2867, 2854, 2854, 2867, 2868, 2868, 2854}, 3502 Content={3413, 3425, 3350, 3350, 3277 Amount=3, 2853 Content={3097, 3026 Amount=1}, 3552, 3413, 2394, 3285, 3349, 3452, 3285, 3359}}}

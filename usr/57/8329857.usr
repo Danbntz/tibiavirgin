@@ -1,0 +1,53 @@
+ID              = 8329857
+Name            = "Sir'Lana"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,94-114-94-114)
+CurrentOutfit   = (137,94-114-94-114)
+LastLogin       = 1147280374
+LastLogout      = 1147280739
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,176568,0,179400,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,375247,1100,392762,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,449,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,31497,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,15,1800,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,373,1800,593,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,18351,1800,22252,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,4080,1500,5666,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2065,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,0,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,7,8,12,15,25,26,27,30,31,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(109,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=74, 3031 Amount=100, 2969 KeyNumber=3033, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3188 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3198 Charges=5, 3492 Amount=15, 3174 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3174 Charges=3, 3174 Charges=5, 3153 Charges=1, 3188 Charges=3, 3172 Charges=3}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}},
+               4 Content={3357},
+               6 Content={3432},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3503 Content={2871 Content={3075, 2874, 2874, 2874, 3357}, 3031 Amount=51, 3507 String="sir'lana\nab'dendriel" Editor="Sir'Lana"}, 3502}, 
+               1 Content={3504 Content={3507 String="Sir'Lana\ncarlin"}, 3502}, 
+               3 Content={2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3452, 3362, 3308, 2471 Content={2969 KeyNumber=4600}, 2853 Content={2981, 2853, 2853, 2853, 2853, 2853}, 2865 Content={2865 Content={2991, 3483, 3411, 2991, 2991, 2991, 2991, 3077, 2991}, 3289, 2472 Content={3061, 2856, 3504 Content={3507 String="thor'sir\nthais", 2853 Content={2880, 2880 ContainerLiquidType=2, 2880 ContainerLiquidType=2, 2880 ContainerLiquidType=2}, 2815, 2885, 2469 Content={2906, 3658, 3003, 2969 KeyNumber=3033, 3507 String="Thor'sirLuffia\nkazordoon\nsell fire sword (Atk:35 Def:20) // fire sword (Atk:35 "}, 3507 String="Thor'sir\nTHAIS"}}, 3287 Amount=1, 3362}, 2871 Content={3268, 3723 Amount=26, 2853 Content={2853}, 2472 Content={3505 String="noob\n\n" Editor="Daur", 2870 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2854 Content={2854 Content={2854, 2854, 2854, 2854}, 2866, 2853, 2867, 2868}, 2472 Content={2854 Content={2871, 2854}, 3483}, 2472 Content={2874, 3457, 3505 Editor="Thor'sir"}, 2472 Content={2853}}, 2870 Content={3375, 3375, 3375, 2865 Content={2854 Content={3375, 3316, 3453, 3008, 2815, 2874, 2853 Content={2991}, 3003, 2853 Content={3740 Amount=1, 3736 Amount=1, 2991}, 2885, 3551, 2885, 2885, 3740 Amount=1}, 3003, 3483, 3483, 3457, 3674, 3430, 3059, 3059, 3277 Amount=3, 2856 Content={3504 Content={3504 Content={3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3504 Content={3507 String="Sir'Lana\nthais\n"}, 3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3504 Content={3507 String="Sir'Lana\nthais"}, 3507 String="Sir'Lana\nthais"}, 3507 String="Sir'Lana\nthais"}}, 3492 Amount=2, 3012, 3447 Amount=1, 3451, 3300, 3362, 3362, 3362}, 3456, 3430, 3003, 3274, 3411, 3061, 3061, 3412, 3003, 3003, 3077}, 2867, 2868, 2869, 2872 Content={2869 Content={2869}, 2865 Content={2865, 2865, 2865}, 2870 Content={2870, 2870, 2870}, 2866 Content={2866, 2866, 2866}, 2871 Content={3384, 3384}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2868 Content={2868, 2868}, 2867 Content={2867, 2867, 2867, 2867, 2867}}, 2866 Content={3457, 3457, 2874, 3268}}, 3502 Content={2854 Content={3457, 3492 Amount=6, 3059, 3457, 3457, 3456, 3457, 3316}, 3003, 2868 Content={3083 RemainingUses=150, 3565, 3119, 3412, 3274, 3483, 3483, 3483, 3003, 3003, 3003, 3430, 3552, 3552, 3374, 3374, 3003, 3003, 3003}, 2868 Content={2859, 2981, 3547 Amount=14, 2957, 3576, 3003}, 2854 Content={2471 Content={2969 KeyNumber=3033, 2853 Content={2969 KeyNumber=3302, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2972 KeyNumber=3304}, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2973 KeyNumber=3520}, 2856 Content={3283}, 3293, 3585 Amount=1, 3059, 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2816 String="Alistair Cropwell's Travel Notes\n\n...strange things I saw today! A mighty city, inhabited with fearsome beings. Dark rituals, the reason of which I could not discern. Are these people friend or foe? I do not know. I remain in hiding and observe.. and what is the meaning of this strange talisman that I found? The symbol appears everywhere, I fear it may have powers that could cause damage in the wrong hands.\n\nI have been travelling so long, I can hardly remember the features of my beloved ones. Will they recognise, will the remember me? What will they make of my tales? Oh, that I be back with them, walk the city again...\n"}, 3505, 1781 Amount=1}}}

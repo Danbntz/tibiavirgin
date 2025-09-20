@@ -1,0 +1,51 @@
+ID              = 9447784
+Name            = "Kamasutrin"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,76-96-60-58)
+CurrentOutfit   = (129,76-96-60-58)
+LastLogin       = 1139037007
+LastLogout      = 1139037202
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,95906,0,98800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,17710,3000,20800,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,16609,1100,18194,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,155,1100,165,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (10,44,0,10,0,0,0,0,0,0,0,13438,1100,13551,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,387,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(17,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(60,1),(61,1),(125,1),(126,1),(217,3),(224,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2868 Content={3577 Amount=2, 3003, 3457, 2920 SavedExpireTime=599}},
+               4 Content={3370},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=155}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3114 Amount=14, 3502 Content={2865 Content={3375, 3552, 3552, 3430, 3362, 3375}, 2872 Content={2868 Content={3072, 3301, 3301, 3350, 3447 Amount=100, 3350, 3350, 3350, 3349, 3447 Amount=24, 3449 Amount=6}, 2854 Content={2854, 2854 Content={3031 Amount=29, 3031 Amount=100, 3031 Amount=100, 3035 Amount=22, 3035 Amount=100}}, 2872 Content={2865 Content={3130, 2861 Content={3548 Amount=1, 3548 Amount=1, 3548 Amount=2, 3547 Amount=2, 3547 Amount=1, 3547 Amount=1, 3547 Amount=2, 3548 Amount=2}, 3160 Charges=1, 3160 Charges=1, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=2}, 2868 Content={3457, 3457, 3003, 3003, 3483, 3483, 3003, 3457}, 2866 Content={2854 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2874 ContainerLiquidType=7, 2874 ContainerLiquidType=7}, 2854 Content={3056 RemainingUses=200, 3054 RemainingUses=192, 3050 SavedExpireTime=1799, 3050, 3050}, 2991, 2955, 3552, 2991, 3673, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2920, 3565, 2873}, 2865 Content={3599 Amount=8, 3598 Amount=1, 3577 Amount=47, 3582 Amount=20, 3585 Amount=1}}}}}, 
+               3 Content={3502 Content={3350, 3350, 3503 Content={3507 String="Sain fear\nCarlin"}, 3503 Content={3507 String="Kamasutrin\nAb´dendriel"}}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,53 @@
+ID              = 11904229
+Name            = "Dralke Thaor"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,114-114-114-114)
+CurrentOutfit   = (130,114-114-114-114)
+LastLogin       = 1148038650
+LastLogout      = 1148038694
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32928,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15443,0,17600,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,6365,1100,7425,1600)
+Skill = (2,27,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,100,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6575,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4017,1800,6824,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,668,1800,1118,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,945,1800,1118,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,13,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1198,1100,1280,20)
+Skill = (14,0,1200,0,0,0,909,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,18,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               4 Content={3357},
+               6 Content={3275},
+               8 Content={3552},
+               10 Content={3035 Amount=10}}
+
+Depots      = {0 Content={3535, 3509, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2981, 2981, 3502 Content={3430, 3338, 2885 ContainerLiquidType=2, 2875 ContainerLiquidType=3, 3605 Amount=1, 3276, 3607, 3607, 3607, 3607, 3607, 3578 Amount=3, 3337, 3577 Amount=7, 2853 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}, 3607, 3740 Amount=1, 2853 Content={3377, 3362}, 2853 Content={3559, 3552, 3552, 3552, 3552}, 3582 Amount=1, 3337, 3505}}, 
+               1 Content={3502}, 
+               3 Content={2853, 3502 Content={2874, 3031 Amount=1, 1781 Amount=1, 3358, 3607, 3600 Amount=1, 3585 Amount=1, 3592, 3577 Amount=1, 3358, 1781 Amount=1, 3003, 3003, 3337, 3492 Amount=6, 3375, 3358}}, 
+               6 Content={2473 Content={3449 Amount=3, 3372, 3359, 2854 Content={3003}, 3504 Content={3425, 3311}}, 2473 Content={3425, 2853 Content={3457, 3003}}, 2473 Content={2667, 3031 Amount=1, 2876, 3446 Amount=22, 3350, 2667, 2656}, 2473 Content={3723 Amount=1, 2867 Content={3492 Amount=6, 3483, 3492 Amount=100, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3483}}, 2469 Content={2867 Content={2838 String="dnia: 11.12.05r.\n\nKupilem pilke i nie mogla mi wejsc do zadnej torby :(Musze to zapamietac !!! :)", 2842 String="hijo de puta bitch", 3059, 2867 Content={3114 Amount=1, 2874}, 3051 SavedExpireTime=478, 3051 SavedExpireTime=212, 3503, 2393}, 2949, 2906, 3012, 3056 RemainingUses=200}, 2469 Content={2867 Content={3409, 3551, 3293, 3456, 3362, 3283, 3268, 3410, 3375, 3469, 3551, 3362, 3003, 3375}}, 2469 Content={2867, 2867 Content={3191 Charges=2, 3153 Charges=1, 3152 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3177 Charges=1, 3200 Charges=3, 3198 Charges=1, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5}, 2867 Content={3357, 2920, 2920, 3003}}, 2469 Content={2867 Content={3600 Amount=4, 3590 Amount=14, 3601 Amount=6, 3577 Amount=15, 3578 Amount=10, 3592, 3593, 3592, 3578 Amount=100, 3595 Amount=1, 3582 Amount=17, 3578 Amount=100, 3598 Amount=1, 3723 Amount=2, 3584 Amount=18, 3587 Amount=19, 3585 Amount=16, 3588 Amount=29, 3591 Amount=24, 3586 Amount=14}, 2867 Content={3453, 3003, 3456, 3456, 3115, 3115, 3451, 3003}, 2859 Content={3592, 3607, 2873 ContainerLiquidType=8, 2875 ContainerLiquidType=3, 2902, 2880 ContainerLiquidType=5, 2880 ContainerLiquidType=12}, 2859 Content={3592, 3592, 3593, 3592, 3607, 3607, 3607, 3607}}, 3502 Content={3349, 3413}}}

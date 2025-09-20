@@ -1,0 +1,59 @@
+ID              = 8075067
+Name            = "Sigma Frost"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,79-6-120-40)
+CurrentOutfit   = (134,79-6-120-40)
+LastLogin       = 1145420856
+LastLogout      = 1145420914
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31685,7]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,796801,0,847400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,316998,3000,582400,1600)
+Skill = (2,423,635,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,23,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,107,107,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1220,1220,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,168196,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,66,0,10,0,0,0,0,0,0,0,105197,1100,113880,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,104,1100,105,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,342,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1512,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(35,1),(36,1),(46,1),(49,1),(61,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(111,1),(112,1),(113,1),(114,1),(115,1),(121,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(137,1),(138,1),(139,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(217,3),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3432},
+               7 Content={3372},
+               8 Content={3556}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3457, 3308, 3502 Content={}}, 
+               2 Content={3502 Content={2868, 3504 Content={3507 String="Sigma frost\nkazordoon"}, 3504 Content={3507 String="Sigma frost\nkazordoon"}}}, 
+               3 Content={2854 Content={3297, 3377, 3290, 3412, 3291}, 3504 Content={3507 String="sigma frost\nab'dendriel\n" Editor="Nenita soldier"}, 3504 Content={3147, 3507 String="nenita soldier\nab'dendriel\n" Editor="Sigma Frost"}, 2473 Content={2854, 2854 Content={3266, 3425, 3266, 3266}, 2868 Content={3282, 3282, 3282, 3282, 3305, 3275, 3282, 3282, 3282, 3282, 3282}, 2854 Content={3269, 3269, 3269, 3269, 3269}, 2865 Content={3351}, 2869 Content={3377, 3377, 3377}, 2471 Content={2854, 2868}}, 2857 Content={3492 Amount=100, 2857, 3492 Amount=100, 3291, 3412, 4277 Content={3582 Amount=27, 3577 Amount=58, 3577 Amount=100}, 3492 Amount=100, 3492 Amount=100}, 2859 Content={2854, 3287 Amount=14, 3298 Amount=6, 3449 Amount=26, 3448 Amount=49}, 2865 Content={3292, 3412, 3267, 3267, 3299, 3292, 3291}, 3502 Content={2472 Content={2867 Content={3066, 3283, 3429, 3421, 3431, 3429, 3283, 3563}, 2868 Content={3050, 3049 SavedExpireTime=595, 3098, 3097, 3052 SavedExpireTime=1187, 3052, 3050, 3050, 3097 SavedExpireTime=3598, 2868 Content={3091, 3049 SavedExpireTime=598, 3050, 3093, 3097 SavedExpireTime=3596, 3050 SavedExpireTime=1671, 3091, 3097, 3053, 3093, 2906, 3098 SavedExpireTime=139, 3097, 3050}}, 2870 Content={2826 String="Mystic Rituals of the Ancient Trolls", 3059, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 2816 String="Wyrd Sisters\nby Terry P.", 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2826 String="Mystic Rituals of the Ancient Trolls", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 2865 Content={2857 Content={2972 KeyNumber=3304, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 2970 KeyNumber=3303}, 2861 Content={2970 KeyNumber=3899}, 2968 KeyNumber=3940, 2650, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2969 KeyNumber=5010}, 2865 Content={3084 RemainingUses=250, 3077, 3046, 3085 RemainingUses=200, 3085 RemainingUses=194, 3085 RemainingUses=107, 3046, 3045 RemainingUses=200, 3056 RemainingUses=200, 3008, 3084 RemainingUses=250, 3012, 3056 RemainingUses=200}, 2867 Content={2876, 4285 Content={2952, 3207 Amount=1, 2857 Content={3046}, 2869 Content={3017, 3017, 3017, 3017, 3017, 3505 String=" Alguna vez me contaron que existia un principe  ,  nunca lo entendi pero ahora que te conoci creo que me enamore de ti .       Tal vez no seas un principe  , tal vez seas un guerrero  = y seras un barrendero pero esta doncella se enamoro de ti . \n\n Tal vez de tu sublime corazon , tal vez de tu dulce mirada = de tu pikara sonrisa pero solo se que esta doncella se enamoro de ti . te kiero mi adorado principe sigma =**", 3008}}, 3211, 3209, 3078, 2989, 3463, 3077, 3017, 3062, 2991, 3076, 3061, 3033 Amount=4, 3042 Amount=10, 3028 Amount=5, 3026 Amount=8, 3030 Amount=6, 3027 Amount=3}}, 2471 Content={2857 Content={3045 RemainingUses=200, 2952, 2955, 2949, 3114 Amount=4}, 2854 Content={3293, 3456, 3453, 3456, 3003, 3483, 3483}, 2877, 2877 ContainerLiquidType=1}, 2854 Content={2870 Content={3723 Amount=93, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}, 2861 Content={3595 Amount=1, 3589 Amount=10, 3587 Amount=46, 3586 Amount=29, 3597 Amount=5, 3585 Amount=78, 3593, 3590 Amount=22}, 2860 Content={3601 Amount=4, 3600 Amount=3, 3602 Amount=12, 3598 Amount=28}, 4317, 2981, 2981, 2981, 2981, 3735 Amount=1, 3738 Amount=5, 3736 Amount=5, 2914 SavedExpireTime=1999, 2855 Content={3728 Amount=1, 3725 Amount=3, 3732 Amount=9, 3730 Amount=15, 3729 Amount=11}, 3740 Amount=6, 3739 Amount=6}}}, 
+               4 Content={3412, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="sigma frost\nvenore"}, 3502 Content={}}, 
+               7 Content={2853 Content={3577 Amount=80}, 3502 Content={}}, 
+               8 Content={2853 Content={3577 Amount=13, 3582 Amount=39, 3577 Amount=100}, 3502 Content={}}}

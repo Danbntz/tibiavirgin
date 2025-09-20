@@ -1,0 +1,56 @@
+ID              = 10158122
+Name            = "Pron Flex"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-94-114)
+CurrentOutfit   = (129,114-114-94-114)
+LastLogin       = 1130003238
+LastLogout      = 1130003452
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,327573,0,330400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,150320,1400,157982,1600)
+Skill = (2,385,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,335,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9022,1100,9834,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,37267,1100,38438,30)
+Skill = (8,22,0,10,0,0,0,0,0,0,0,2385,1200,2424,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,45,1200,50,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,1193,1200,1297,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,207,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,27,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,15,29,51}
+QuestValues = {(46,1),(60,1),(72,1),(73,1),(74,1),(75,1),(99,1),(125,1),(126,1),(190,1),(191,1),(192,1),(206,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3572},
+               3 Content={2865 Content={3031 Amount=85, 3350}},
+               4 Content={},
+               5 Content={},
+               6 Content={3349},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3446 Amount=71}}
+
+Depots      = {1 Content={3502 Content={3447 Amount=7, 3056 RemainingUses=200, 3266, 3425, 3310, 3409, 3287 Amount=1, 3286, 2854 Content={3028 Amount=1, 3285, 3425, 3316, 3447 Amount=1, 3350, 3300, 3457}, 3413, 3350, 2920 SavedExpireTime=593, 2920 SavedExpireTime=588, 2914 SavedExpireTime=1975, 3350, 3350, 2853 Content={3308}, 2853 Content={3059 String="", 3350, 3147, 2874 ContainerLiquidType=0}, 3377, 2853 Content={2973 KeyNumber=3520, 2854 Content={3277 Amount=27, 2854 Content={1781 Amount=2}}, 2854 Content={3350, 3483, 3377, 3050 SavedExpireTime=1790, 3092 SavedExpireTime=1782, 3276, 2953, 2969 KeyNumber=4055, 3147, 3050 SavedExpireTime=1792, 3147, 3046 SavedExpireTime=2999, 2955}, 2854 Content={3377, 3483, 3492 Amount=68, 3425, 3046 SavedExpireTime=2849}, 2868 Content={3349, 3448 Amount=3, 3349}, 2868 Content={3506 String="Pron Flex\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3031 Amount=25, 3492 Amount=9, 3483, 2867 Content={3447 Amount=35, 3350, 3083 RemainingUses=150}, 3056 RemainingUses=200, 2868 Content={2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 2955, 3308}, 3350, 2857 Content={2874 ContainerLiquidType=0, 2920 SavedExpireTime=494}, 3077}, 2854 Content={2969 KeyNumber=3033, 3350}, 3377}, 3012, 2969 KeyNumber=4600, 2853 Content={3056 RemainingUses=200, 3350}, 2969 KeyNumber=4600, 3003, 2924 SavedExpireTime=65, 3056 RemainingUses=200}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

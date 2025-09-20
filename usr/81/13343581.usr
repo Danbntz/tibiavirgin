@@ -1,0 +1,57 @@
+ID              = 13343581
+Name            = "Connert"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-131-19-0)
+CurrentOutfit   = (134,0-131-19-0)
+LastLogin       = 1147556333
+LastLogout      = 1147556496
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32219,6]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,279318,0,295200,100)
+Skill = (1,31,0,0,0,0,0,0,0,0,0,317965,1100,321820,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,605,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16395,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,467,1800,593,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,539,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,38,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3681,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,8,9,10,16,29,44,84,87}
+QuestValues = {(35,1),(190,1),(191,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               4 Content={3357},
+               5 Content={3418},
+               6 Content={3069},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3070}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3035 Amount=2, 3425, 3031 Amount=96, 3031 Amount=100, 3031 Amount=100, 3003, 3507 String="connert\nankrahmun" Editor="Connert"}, 3492 Amount=100, 3507 String="connert\nthais" Editor="Connert"}, 3504 Content={3077, 3322, 2871 Content={2656, 2667, 2656, 2667, 2659, 2659, 2656, 2659, 2656, 2659}, 2871 Content={3558, 2656, 2656, 2659, 2659, 2667, 2656, 2659, 2667, 2659, 2659, 2659, 2659, 2656, 2656, 2659, 2656, 2659, 2659}, 3042 Amount=1, 3449 Amount=24, 3492 Amount=100, 3065, 2868 Content={2870 Content={2871 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3507 String="connert\nthais" Editor="Connert"}, 3504 Content={2869 Content={3446 Amount=100, 3349, 3349, 3425, 3425, 3349, 3425, 3425, 3425, 3349, 3349, 3425, 3358, 3305, 3413, 3266, 3425, 3269, 3425, 3285}, 2869 Content={3061, 3061, 3093, 3085 RemainingUses=200, 3447 Amount=30, 3446 Amount=68}, 2853 Content={3349, 3266, 3413}, 2869 Content={3413, 3413, 3425, 3349, 3413, 3413, 3269, 3425, 3033 Amount=1, 3351, 3349, 3425, 3413, 3425, 3413}, 2869 Content={3413, 3413, 3305, 3349, 3031 Amount=100, 3031 Amount=100, 3305, 3305, 3264, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3425, 3349, 3413, 3031 Amount=100, 3266}, 3507 String="connert\nthais" Editor="Connert"}, 3504 Content={3507 String="Connert \nThais" Editor="Risaa"}, 3504 Content={3507 String="Connert\nThais" Editor="Kamchall"}, 3504 Content={3507 String="Connert \nThais\n" Editor="Risaa"}, 3504 Content={3507 String="Connert\nThais" Editor="Kamchall"}, 3504 Content={3507 String="Connert\nThais" Editor="Kamchall"}, 3504 Content={3264, 3507 String="Connert\nThais" Editor="Kamchall"}, 3504 Content={3507 String="Connert\nThais" Editor="Kamchall"}, 3502 Content={2970 KeyNumber=4601, 3084 RemainingUses=250, 2922 SavedExpireTime=293, 3492 Amount=100, 3483, 3283}}, 
+               2 Content={3502}, 
+               4 Content={3504 Content={3372, 3507 String="Connert\nEdron" Editor="Gotshi"}, 3504 Content={3507 String="Connert\nEdron" Editor="Kamchall"}, 3504 Content={3507 String="connert\nedron" Editor="Chimera magoo"}, 3502}, 
+               6 Content={3504 Content={3507 String="Connert\nVenore" Editor="Kamchall"}, 3502}, 
+               7 Content={2854 Content={3031 Amount=57, 3286, 3147, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2920, 2920}, 3504 Content={3507 String="connert\nankrahmun" Editor="Kamchall"}, 3483, 3504 Content={2920, 2920, 3446 Amount=4, 3507 String="Connert\nAnkrahmun" Editor="Kamchall"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Kamchall"}, 3504 Content={3375, 3507 String="connert\nankrahmun" Editor="Gryzacy jez"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Cooir"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Karolina-ruless"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Connert"}, 3504 Content={3507 String="Connert \nAnkrahmun\n" Editor="Risaa"}, 3504 Content={3507 String="Connert \nAnkrahmun" Editor="Risaa"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Pan Listonosz"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Kamchall"}, 3504 Content={3507 String="Connert\nAnkrahmun" Editor="Kamchall"}, 3504 Content={3559, 3378, 3507 String="Connert\nAnkrahmun" Editor="Kamchall"}, 3502 Content={2920 SavedExpireTime=270, 3367, 3367, 3367, 3367, 3483, 3050 SavedExpireTime=1771, 3447 Amount=20, 3050 SavedExpireTime=1798, 3492 Amount=12, 2876, 2785, 3504 Content={3507 String="Connert \nPort Hope" Editor="Risaa"}, 2863 Content={2857}, 3367, 3050 SavedExpireTime=1795, 1781 Amount=5, 3367, 3066}}, 
+               8 Content={3504 Content={3507 String="Connert\nPort hope" Editor="Kamchall"}, 3502}}

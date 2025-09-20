@@ -1,0 +1,60 @@
+ID              = 8264671
+Name            = "Cagancho"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,114-42-114-42)
+CurrentOutfit   = (134,114-42-114-42)
+LastLogin       = 1148104215
+LastLogout      = 1148104391
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32683,31684,7]
+PlayerkillerEnd = 0
+
+Skill = (0,44,0,1,0,0,0,0,0,0,1,1274742,0,1328800,100)
+Skill = (1,58,0,0,0,0,0,0,0,0,0,4204465,1100,4412823,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,1115,1115,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,113,113,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,830,830,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,26,0,10,0,0,0,0,0,0,0,163913,1500,196852,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,80,1800,84,30)
+Skill = (8,22,0,10,0,0,0,0,0,0,0,118358,1800,130081,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,4353,1800,6824,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,343,1800,593,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,1725,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,58,0,10,0,0,0,0,0,0,0,20223,1100,21143,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,73,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,6,8,9,10,11,14,16,18,20,29,30,38,39,42,44,45,56,76,81,82,84,87,88,89}
+QuestValues = {(14,1),(15,1),(16,1),(76,1),(77,1),(78,1),(124,1),(137,1),(145,1),(146,1),(147,1),(151,1),(152,1),(190,1),(191,1),(199,1),(200,1),(201,1),(202,1),(217,3),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,1),(249,3),(250,3),(251,2),(257,1),(269,1),(278,1),(324,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3210},
+               2 Content={3572},
+               3 Content={2872 Content={3441, 3308, 2870 Content={3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 2867 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3031 Amount=38, 3457}},
+               4 Content={3359},
+               6 Content={3295},
+               7 Content={3559},
+               9 Content={3007},
+               10 Content={3583 Amount=5}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2853 Content={2871 Content={2853 Content={3051, 3284 RemainingUses=1}, 2664 RemainingExpireTime=372, 2639, 3039, 3042 Amount=2, 2647, 3734 Amount=1, 3658, 3093 SavedExpireTime=574, 2392, 2647, 2647, 2842, 3668, 2392, 3269, 2667}, 2870 Content={3044 Amount=1, 3093 SavedExpireTime=1649, 3403, 3347, 2393, 2667, 2667, 2656, 2656, 2656, 2656, 2667, 2656, 3447 Amount=99, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3586 Amount=5, 2971 KeyNumber=3702, 3298 Amount=2, 3287 Amount=10, 3591 Amount=7, 3059, 4290 Content={3050 SavedExpireTime=1765, 3004, 3093 SavedExpireTime=735, 3050 SavedExpireTime=1501, 3066, 3165 Charges=1}, 3449 Amount=10, 3585 Amount=5, 3587 Amount=3, 3590 Amount=20, 3589 Amount=12, 2991, 3441, 2865 Content={2865 Content={2973 KeyNumber=3520, 3307, 2853 Content={2656, 2667, 2393, 3269}, 3289, 3059, 3003, 3483, 2656, 3147, 3426, 3008, 3008, 3336, 3412, 2853 Content={2667, 3097, 2853 Content={2667, 2667, 2667}}}, 3483, 2989, 2853 Content={2389, 3598 Amount=3, 3377, 2667, 2656, 2667, 2853 Content={2853, 2853, 2853 Content={3492 Amount=1, 3446 Amount=3, 3349}, 2853}, 2853 Content={2853 Content={2853 Content={2853 Content={2853, 2853 Content={2853}}}}, 2853}}, 3017, 3595 Amount=3, 2656, 3590 Amount=4, 3077, 3411, 3305}, 2871 Content={3033 Amount=2, 3084 RemainingUses=250, 3032 Amount=1, 2991, 3030 Amount=1, 3463, 2989, 3449 Amount=1, 2393, 3661, 3661, 3266, 3448 Amount=8, 2867 Content={2854, 2865, 3046 SavedExpireTime=2989, 2989, 2868 Content={2656}}, 2865 Content={2870 Content={2870 Content={2870 Content={3045 RemainingUses=200, 3277 Amount=2}, 3565, 3454, 2870, 3267, 3593}}, 2868}}, 2868 Content={3597 Amount=1, 2854 Content={2870, 2868}, 3077, 2390, 2857 Content={2920 SavedExpireTime=598, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 2952, 2854 Content={3483}}}, 2853 Content={2853 Content={2920, 2920, 2920, 2920, 2920}, 2853 Content={3083 RemainingUses=150, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 2857 Content={3077, 3084 RemainingUses=250}}, 3059, 3502 Content={2473 Content={3291, 3300, 2870 Content={2853 Content={3350, 2853, 3349, 3349}, 2853, 2853, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 3354}, 2469 Content={2876, 3598 Amount=11, 2865 Content={3586 Amount=3, 3593, 3587 Amount=4}, 2853 Content={3097 SavedExpireTime=3597, 2920, 3097, 3291}}, 2471 Content={2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870}, 3054 RemainingUses=200, 3054 RemainingUses=5, 3286}}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3279, 3297, 3356, 3147, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 3503 Content={3504 Content={3507 String="cagancho\nankrahmun" Editor="Apitonto", 3556}, 3503 Content={3507, 3507}, 3503, 3507}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2853 Content={2867 Content={3457, 3003, 3410, 3411, 3367, 3372, 3147, 3147, 3147, 3147, 3085 RemainingUses=31}}, 4290 Content={3054 RemainingUses=148, 3457}, 2853 Content={3081 RemainingUses=5, 2853 Content={3449 Amount=53, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}, 3177 Charges=1, 3029 Amount=4}, 3502 Content={3035 Amount=9, 2854 Content={4839, 4839}, 2469 Content={2853 Content={3492 Amount=82, 3492 Amount=100, 3492 Amount=100}, 3033 Amount=1, 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 3042 Amount=2}, 2472 Content={2871, 2992 Amount=5, 2970 KeyNumber=3802, 3576, 3298 Amount=1, 2868 Content={3301, 3003, 3045 RemainingUses=200, 3572, 3551, 3275, 2911, 2911 SavedExpireTime=2998, 2911 SavedExpireTime=2998, 2911 SavedExpireTime=2991}, 2864 Content={3046, 3046, 3046, 3046, 3046 SavedExpireTime=1391, 3046, 3046 SavedExpireTime=2998, 3046}}}}, 
+               8 Content={3502 Content={}}}

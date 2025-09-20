@@ -1,0 +1,55 @@
+ID              = 9377615
+Name            = "Raziel dios"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1147758186
+LastLogout      = 1147758191
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32984,32714,6]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,51281,0,57600,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,56700,1400,78644,1600)
+Skill = (2,262,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,113,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,18524,1100,20113,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18001,1100,19579,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,279,1200,372,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,803,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2423,1100,2684,20)
+Skill = (14,0,1200,0,0,0,937,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,57,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,42,51,79}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(109,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2865 Content={3003, 3457, 3447 Amount=100, 3425, 2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3359},
+               6 Content={3350},
+               7 Content={3372},
+               10 Content={3447 Amount=95}}
+
+Depots      = {0 Content={3504 Content={3507 String="Raziel Dios\nThais\n"}, 3502 Content={3377}}, 
+               1 Content={3502 Content={3582 Amount=2}}, 
+               3 Content={2865 Content={2865 Content={}}, 3430, 3317, 3359, 3504 Content={2853 Content={3358, 2920 SavedExpireTime=0, 3003, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3507 String="Raziel dios\nAb'dendriel"}, 3502 Content={3446 Amount=72, 3349, 3578 Amount=9}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3277 Amount=3, 3583 Amount=1, 2853 Content={3367, 2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}}, 3327, 3330, 2854 Content={2920, 2920, 3046}, 2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 2853 Content={3367, 3367, 3367, 2853 Content={2853}}}, 3504 Content={3457, 3469, 3375, 3085 RemainingUses=80, 2865 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3017, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 3350, 3349, 3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3551, 3350, 3507 String="Raziel dios\nAnkrahmun"}, 3502 Content={3492 Amount=13, 3031 Amount=36, 3031 Amount=100, 3447 Amount=100, 3447 Amount=100, 3367, 3504 Content={3504}, 3056 RemainingUses=200, 2854 Content={3035 Amount=1, 3446 Amount=100, 3276, 3446 Amount=25, 3349, 3425}}}}

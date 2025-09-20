@@ -1,0 +1,60 @@
+ID              = 10934424
+Name            = "Guerrero-maximo"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,4-6-8-26)
+CurrentOutfit   = (134,4-6-8-26)
+LastLogin       = 1148159138
+LastLogout      = 1148160366
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,432633,0,452600,100)
+Skill = (1,43,0,0,0,0,0,0,0,0,0,1008819,1100,1044225,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,62,700,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,25619,1500,25749,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,957,1800,1237,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1134,1800,2063,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1472,1800,2063,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,100,1800,140,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,1236,1500,1608,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,816,1100,911,20)
+Skill = (14,0,1200,0,0,0,592,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,20,25,26,27,29,30,31,38,39,42,44,50,75,76,77,81,83,84,85,87,88,89,91,94}
+QuestValues = {(18,1),(20,1),(23,1),(27,1),(28,1),(29,1),(30,1),(60,1),(61,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3),(269,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3582 Amount=8, 3031 Amount=28}},
+               4 Content={3357},
+               5 Content={3069},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3556}}
+
+Depots      = {0 Content={3504 Content={2869 Content={3349, 3349, 3349, 3349}, 3507 String="guerrero-maximo\nthais" Editor="Guerrero-maximo"}, 3502}, 
+               1 Content={3504 Content={3507 String="guerrero-maximo\ncarlin" Editor="Guerrero-maximo"}, 3504 Content={3507 String="guerrero-maximo\ncarlin\n" Editor="Guerrero-maximo"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3413, 3046 SavedExpireTime=2746, 2854 Content={3285, 3447 Amount=10, 3285, 3358}, 3046, 3046, 3286, 3059, 2969 KeyNumber=3033, 3148 Charges=3, 3504 Content={2872, 3147, 3046, 3282, 2870 Content={2854 Content={3035 Amount=2, 3449 Amount=1, 3031 Amount=100, 3031 Amount=100, 3409, 3409, 3298 Amount=1, 3269, 3269, 2991, 2991, 3050 SavedExpireTime=1734, 3097 SavedExpireTime=3353}, 2871 Content={2871}, 2866 Content={2866}, 2854 Content={3046 SavedExpireTime=2994}}, 3349, 3350, 3446 Amount=36, 3447 Amount=72}, 3504 Content={2969 KeyNumber=3033, 3585 Amount=4, 3384, 3507 String="Guerrero-maximo\nAb'dendriel" Editor="Pompi", 3046, 3046, 3017}, 3658, 3668, 3092, 3505, 3505, 3505 String="porco me lees\n\n\n\n\n" Editor="Wapek Farfox", 3505, 3481, 3502 Content={3031 Amount=5, 3504 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3448 Amount=36, 2857 Content={3425, 3446 Amount=50, 3446 Amount=100, 3046 SavedExpireTime=2999, 3282, 3658, 3077, 3084 RemainingUses=250}, 2870 Content={3310, 3311, 3311, 3327, 2955, 3045 RemainingUses=200, 3046, 3046 SavedExpireTime=2990, 3046, 3050 SavedExpireTime=1693, 3457, 3077, 3084 RemainingUses=250}, 2872 Content={3574, 3449 Amount=100, 3449 Amount=16, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3042 Amount=3, 3421, 3305, 3083 RemainingUses=150, 3054 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150}, 2868 Content={3083 RemainingUses=150, 3085 RemainingUses=200, 3012, 3097 SavedExpireTime=3278, 3046 SavedExpireTime=2983, 3050, 3050 SavedExpireTime=1796, 3085 RemainingUses=200, 3097 SavedExpireTime=3598, 3085 RemainingUses=174, 3085 RemainingUses=200, 3085 RemainingUses=200, 3077, 3097 SavedExpireTime=3597, 3097, 3077, 3093 SavedExpireTime=1798}, 2865 Content={3658, 3327, 3282, 3298 Amount=11, 3307, 3421, 3441, 3271, 3421}, 2869 Content={3084 RemainingUses=250, 3275, 2393, 3046 SavedExpireTime=2999, 3077, 3084 RemainingUses=231, 2903, 3307}, 2854 Content={3017, 3734 Amount=1, 3316, 3017, 3017, 3061, 3034 Amount=2, 3039, 3017, 3004, 3589 Amount=1, 3595 Amount=8, 3076, 3017, 3003}, 2868 Content={3084 RemainingUses=250, 3012, 3589 Amount=14, 3045 RemainingUses=200, 3085 RemainingUses=92, 3084 RemainingUses=250, 3083 RemainingUses=150, 3598 Amount=40, 3059, 2991, 3593, 3593, 3595 Amount=19, 3590 Amount=100, 3587 Amount=100, 3591 Amount=100, 2399, 3585 Amount=21}, 2864 Content={3425, 3050, 3277 Amount=3, 3012, 3059, 3085 RemainingUses=200, 2864 Content={3587 Amount=29, 3738 Amount=12, 3585 Amount=4, 3586 Amount=8}}, 2854 Content={2865 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2865 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2868 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3035 Amount=19, 3287 Amount=80, 3318, 3042 Amount=2, 3043 Amount=9, 3065, 3017, 3050}}}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={3035 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               6 Content={3502 Content={2906, 3012, 2969 KeyNumber=3033, 3003, 3454, 3008, 3008}}, 
+               7 Content={3502 Content={3577 Amount=1, 3031 Amount=100, 3003, 3031 Amount=56, 3046 SavedExpireTime=2653, 3070, 3017, 3031 Amount=17, 3045 RemainingUses=200, 3577 Amount=5, 3330, 3587 Amount=1, 3349, 3349, 3349, 3050, 3050}}, 
+               8 Content={3504 Content={3507 String="Guerrero-maximo\nport hope" Editor="Griel Crot gollo"}, 3502}}

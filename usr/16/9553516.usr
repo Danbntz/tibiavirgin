@@ -1,0 +1,51 @@
+ID              = 9553516
+Name            = "Indri del och"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,132-94-132-94)
+CurrentOutfit   = (142,132-94-132-94)
+LastLogin       = 1147984271
+LastLogout      = 1147984293
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31782,6]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,224316,0,232500,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,87766,3000,193600,1600)
+Skill = (2,412,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,75,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,41443,1100,44259,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,70,1400,71,30)
+Skill = (8,53,0,10,0,0,0,0,0,0,0,30035,1100,32632,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,193,1100,232,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,68,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,83,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,2,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(14,1),(15,1),(17,1),(20,1),(21,1),(22,1),(23,1),(27,1),(37,1),(46,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(254,1),(257,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3350, 3425, 3373, 3410, 3031 Amount=92, 3031 Amount=100, 3031 Amount=100, 3035 Amount=5, 3502}, 
+               1 Content={3174 Charges=1, 3425, 3271, 3012, 3279, 3093 SavedExpireTime=1368, 3093 SavedExpireTime=650, 3093 SavedExpireTime=1463, 3031 Amount=12, 3035 Amount=52, 3316, 3003, 3446 Amount=21, 3447 Amount=8, 2970 KeyNumber=4601, 3046 SavedExpireTime=2733, 2667, 2955, 3129, 2868 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 2667, 2653, 3056 RemainingUses=200, 3077, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 3054 RemainingUses=181, 3008, 3008, 3050, 3050 SavedExpireTime=1782, 3008, 3050}, 3097, 3012, 2981, 2920 SavedExpireTime=599, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Theater Avenue 5a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2969 KeyNumber=4600, 2955, 3502 Content={3447 Amount=100, 3289, 3447 Amount=42, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3586 Amount=10, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2920 SavedExpireTime=378, 3446 Amount=2, 3409, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 2667, 2667, 2667, 2667, 2667, 2644, 2653, 2653, 2653}, 3492 Amount=21, 2922 SavedExpireTime=229, 3492 Amount=100, 3741 Amount=1, 3293, 3207 Amount=1}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               5 Content={3504 Content={3507 String="indri del och\ndarashia" Editor="Coronel Pancho", 2853 Content={3286, 3358, 3286, 3354, 3286, 3264, 2853 Content={3410, 2853}, 3264}}, 3264, 1781 Amount=3, 3446 Amount=16, 3502 Content={3031 Amount=100}}, 
+               6 Content={3502}, 
+               7 Content={3502}}

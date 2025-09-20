@@ -1,0 +1,53 @@
+ID              = 9680217
+Name            = "Jumil Palabie"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,116-87-88-87)
+CurrentOutfit   = (129,116-87-88-87)
+LastLogin       = 1146682789
+LastLogout      = 1146682819
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32341,31653,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,44951,0,47000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,31744,1400,38165,1600)
+Skill = (2,254,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,100,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11211,1100,12109,100)
+Skill = (7,46,0,10,0,0,0,0,0,0,0,9261,1100,9901,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,121,1200,181,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,2196,1200,2424,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,489,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,16,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,10,15,20,42,48,51}
+QuestValues = {(35,1),(54,1),(61,1),(113,1),(114,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=183},
+               4 Content={3357},
+               5 Content={3277 Amount=5},
+               6 Content={3421},
+               7 Content={3557},
+               10 Content={3003}}
+
+Depots      = {1 Content={2906, 3502 Content={2872 Content={3447 Amount=23, 3447 Amount=100, 3448 Amount=15, 3446 Amount=39, 3349, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3031 Amount=100, 3031 Amount=49, 3035 Amount=19, 3031 Amount=100, 3031 Amount=100}, 2867 Content={3059, 2853 Content={3188 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3198 Charges=5, 3198 Charges=4, 3059}, 2870 Content={3736 Amount=1, 3483, 3603 Amount=10, 2911, 2868 Content={3085 RemainingUses=183, 3012, 3483, 3456, 3003, 2868 Content={3492 Amount=7, 3598 Amount=7, 2955, 3003, 3483, 3003, 2955, 3483, 3003, 2920 SavedExpireTime=373, 2969 KeyNumber=3033, 2920, 2920, 2920, 3003, 2920 SavedExpireTime=558, 3483}, 3003, 3003, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 2955, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3003, 3003, 3457, 3483, 2901, 3003}, 3582 Amount=9, 3003, 3003, 3003, 3059, 3003, 3483, 3483, 3483, 3003, 3059, 3003, 3492 Amount=94, 3003, 2911 SavedExpireTime=684}, 2866 Content={3305, 3056 RemainingUses=200, 3056 RemainingUses=200, 3552, 3266, 3375, 3301, 3375, 3377, 3377, 2868 Content={3552, 3350, 3012, 3050, 3453, 3054 RemainingUses=200}, 3375, 3377, 3050 SavedExpireTime=772}, 2865 Content={2868, 2860, 2868, 2868, 2868, 2854, 2869, 2865, 2868}, 3003, 3003}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

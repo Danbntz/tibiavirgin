@@ -1,0 +1,57 @@
+ID              = 7956132
+Name            = "Spider Zenze"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,78-0-0-78)
+CurrentOutfit   = (128,78-0-0-78)
+LastLogin       = 1148203387
+LastLogout      = 1148203493
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33215,32453,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,698786,0,717600,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,883728,1400,1215653,1600)
+Skill = (2,465,465,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,202,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1030,1030,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,69789,1100,71890,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,84043,1100,91044,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,139,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,36,1200,50,50)
+Skill = (10,34,0,10,0,0,0,0,0,0,0,21560,1200,23599,50)
+Skill = (11,25,0,10,0,0,0,0,0,0,0,3980,1200,4372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8731,1100,8851,20)
+Skill = (14,0,1200,0,0,0,638,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,172,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,42,48,49,51,76,79,81}
+QuestValues = {(1,1),(2,6),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(31,1),(32,1),(33,1),(34,1),(36,1),(41,1),(42,1),(43,1),(44,1),(55,1),(59,1),(60,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(113,1),(114,1),(121,1),(124,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(190,1),(191,1),(211,4),(217,3),(257,1),(269,1)}
+Murders     = {1147157570,1147844083,1148201898}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=70, 3425, 3003, 3492 Amount=16, 3457, 3446 Amount=100, 3446 Amount=100, 3503 Content={2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3035 Amount=3, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3507 String="Spider Zenze\nKazordoon" Editor="Spider Zenze"}}},
+               6 Content={3349},
+               8 Content={3552},
+               10 Content={3446 Amount=68}}
+
+Depots      = {0 Content={3504 Content={2865, 2872 Content={2853 Content={3483, 1781 Amount=27, 2853 Content={3492 Amount=69}, 1781 Amount=100, 1781 Amount=100, 3277 Amount=71}, 2853 Content={2854 Content={3004, 3483, 3003}}, 2872 Content={2854, 2854 Content={2865 Content={2917 SavedExpireTime=2439, 3457, 3003, 3483}, 2869 Content={3059, 3457, 2969 KeyNumber=3033}}, 2868, 2869}, 2869 Content={3046, 3046, 3046 SavedExpireTime=2607, 3046 SavedExpireTime=2998}, 2866 Content={2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2472, 2472, 2472 Content={2872 Content={2857 Content={2860}}}, 2472, 2866 Content={2861 Content={2869 Content={2971 KeyNumber=3702, 2970 KeyNumber=3802}, 2866 Content={3050 SavedExpireTime=1796, 3050, 3050, 3050 SavedExpireTime=1758}, 2868 Content={3093 SavedExpireTime=276, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093 SavedExpireTime=1484}, 2865 Content={3051 SavedExpireTime=101, 3051 SavedExpireTime=480}, 2854 Content={3097 SavedExpireTime=1786, 3097, 3097 SavedExpireTime=3090, 3097 SavedExpireTime=3576}}, 3050 SavedExpireTime=1793, 3092}}, 2854 Content={3003, 3264, 3433, 3292, 3507 String="Use the forum!!\nit's an important part of Tibia!\nLets make it funny! :)" Editor="Samlee", 3003, 3457}, 2867 Content={3061, 2842, 3658, 3668, 3668, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2867 Content={2865 Content={3349, 3457}, 2866 Content={2854 Content={3003, 2854, 2920, 2922 SavedExpireTime=251, 3003, 3457}, 3275, 3492 Amount=93}, 2854 Content={3483, 3447 Amount=10, 3409, 3384}, 2865 Content={2955, 2906, 2906, 2644, 2653, 2644, 2659, 2653, 2659, 2647, 3548 Amount=3, 2973 KeyNumber=3520, 3291, 2911 SavedExpireTime=2999, 2911 SavedExpireTime=854}, 2393, 2393, 2393, 3425, 3503 Content={2854 Content={3358}, 2868 Content={3276, 3046 SavedExpireTime=1486, 3266, 3353, 2854}, 3658, 2920, 2920, 2920 SavedExpireTime=339, 3507 String="quien es esto?" Editor="Scorpion Zenze", 2920, 2920}, 3465, 2853 Content={3291, 3308, 2920 SavedExpireTime=466}, 3492 Amount=14, 3267, 2853 Content={3349, 3349, 3349, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3003, 2922 SavedExpireTime=289, 3483, 3457, 3003}, 2868 Content={2872 Content={2659, 2659, 2656, 2659, 2659, 2656, 2659, 3659, 2656, 2659, 2659, 2656, 2656, 2656, 2656, 3658, 2656}, 2866 Content={2656, 2656, 2659, 2656, 2656, 2656, 2656, 2659, 2656, 2656, 3659, 3658, 2386, 3659, 3658, 2401, 2656, 2656, 2659}, 2867 Content={2653, 2644, 2644, 2659, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2656, 3732 Amount=6, 3585 Amount=8, 3600 Amount=5, 3584 Amount=2, 3587 Amount=40, 3590 Amount=4, 3588 Amount=21, 3586 Amount=58}, 2854 Content={2389, 2389, 2398, 2400, 2644, 2644, 2644, 2644, 2644, 2659, 2644, 2644, 2644, 2400, 2398, 2644, 2644, 2659, 2644, 2644}, 2854 Content={2656, 2399, 2394, 2656, 2659, 2659, 2656, 2659, 2659, 2399, 2401, 2391, 2659, 2644, 2644, 2644, 2644, 2644, 2644, 2644}, 2866 Content={2992 Amount=30}, 2866 Content={2469 Content={2969 KeyNumber=3600, 2473 Content={2970 KeyNumber=3142, 3059}}, 2469 Content={2854 Content={3457}, 2867 Content={2920 SavedExpireTime=353, 2920, 2920 SavedExpireTime=599, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2854 Content={3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}}, 2469 Content={2469 Content={2868 Content={3446 Amount=24, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2903}}, 2638}}}, 3448 Amount=58, 3448 Amount=100, 3507 String="Spider Zenze\nThais" Editor="Spider Zenze", 2868 Content={2871 Content={2868 Content={2472 Content={2872 Content={2854, 2854, 2865, 2854, 2868, 2868, 2868, 2865, 2869, 2869}}, 2472 Content={2868 Content={2973 KeyNumber=3520, 3272, 3283, 3413, 3425}}, 2472 Content={2667, 2667, 2667, 2667}}}}, 2469 Content={3308, 2469 Content={3586 Amount=11, 3492 Amount=20}}}, 3502 Content={3503, 3503, 3503, 3503, 3503 Content={3503}, 3503, 3503, 3503}}, 
+               1 Content={3502}, 
+               2 Content={2853, 2868, 2854 Content={2853 Content={3349, 3349, 2853 Content={3349, 3350, 3349, 3305, 3349, 3305, 3377, 2853 Content={3377, 3305, 3377, 3377, 3305, 3305, 3377, 3377}}}, 2853 Content={3377, 3349, 3377, 2853 Content={3377, 3305, 3349, 3305, 3377, 3377, 3305, 3377}}, 2853 Content={3358, 3305, 3425, 3377, 3266, 2853 Content={3377, 3358, 3377, 3358, 3377, 3358, 3358, 3413}}}, 2866 Content={3457, 2865, 2865}, 3502 Content={3031 Amount=42, 3503 Content={3369, 3357, 3557, 3356, 3507}}}, 
+               3 Content={3504 Content={3507 String="Spider Zenze\nab'dendriel" Editor="Astrix Spinal"}, 3504 Content={2866 Content={3552, 2853 Content={3097 SavedExpireTime=3590}, 2868, 2866}, 2871 Content={3054 RemainingUses=174, 2906, 3004, 3054 RemainingUses=115, 3056 RemainingUses=200, 3085 RemainingUses=17, 3085 RemainingUses=200}, 3507 String="Spider Zenze\nAb'dendriel" Editor="Spider Zenze"}, 2854 Content={3349, 3349, 3349, 2969 KeyNumber=3033, 3483, 2854, 2854}, 3502 Content={2868}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={2871 Content={2871 Content={2854 Content={2854 Content={2854 Content={2854}}}}}, 3503 Content={2853 Content={3358, 3358, 3358}, 3507 String="Spider Zenze\nab'dendriel"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}}}}}}}}}, 2868 Content={2853 Content={3598 Amount=50}, 3505 String="AmorEEe\nHermozoo\npreciosooo\nte amoooo =***************\nmushote mi amore\nte adoroo\ny te extraño\n=(\nkuidatee\n=**\n\nATtE Tu ShApArRiTa SaMlEe \n=*********************\n", 3507 String="=**\nMuAkSsS\nBeSoTeS PaRa mi AmOrE" Editor="Samlee", 3658, 2955, 2955, 3507 String="AmOrEe JiJiJi\nHaI Te DeJo Una KoMiDa NuTrItIvA :D\n^^ Te AmO :***\n\n SaMlee" Editor="Samlee", 3507 String="Mi Amore \n:**", 3507 String="Mi AmOReE\nErEs Todo paRa Mi ", 3507 String="Kim I love You :***\n\n\nAtTE : Samlee\n", 3507 String="I Miss YoU \n:<\n", 3507 String="Te AmO Mi HermosHoO\n PrEcIoShOo\nLiNdoo\nBello\n KuEro Milll", 3507 String=":******************************************************************************", 3507 String="Kim \nNu sabes kuanto te kiero mi amore\nTe AmOOo ! \nMuShO Musho\nMuShOTeEe \n"}, 2853 Content={2853 Content={3411, 3411, 3411, 3411, 3411, 3411, 3411, 2853 Content={3411, 3411, 3411, 3411, 3411, 3411, 3411, 2853 Content={3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411}}}, 2853 Content={3285, 3411, 3411, 2853 Content={3354, 3354, 3367, 3286, 3286, 3286, 2853 Content={3354, 3354, 3354, 3354, 3354, 3286, 3286, 2853 Content={3367, 3286, 3367, 3354, 3354, 3286, 3286, 2853 Content={3367, 3354, 3286, 3286, 3367, 3354, 3286, 2853 Content={3264, 3354, 3286, 3367, 3286, 3286, 3354, 2853 Content={3411, 3367, 3367, 3282, 3409, 3367, 3286, 2853 Content={3354, 3367, 3354, 3367, 3286, 3354, 3354, 2853 Content={3286, 3286, 3354, 3286, 3367, 3354, 3367, 2853 Content={3354, 3367, 3286, 3286, 3367, 3286, 3367, 2853 Content={3286, 3354, 3354, 3354, 3286, 3354, 3354, 2853 Content={3354, 3286, 3411, 3354, 3367, 3286, 3367, 2853 Content={3367, 3367, 3286, 3367, 3286, 3286, 3411, 2853 Content={3367, 3411, 3286, 3354, 3367, 3367, 3286, 2853 Content={3286, 3286, 3354, 3354, 3354, 3286, 3367, 2853 Content={3367, 3354, 3354, 3286, 3286, 3354, 3286, 2853 Content={2853 Content={3286, 3286, 3286, 3367, 3367, 3411, 2853 Content={3411, 3354, 3286, 3354, 3411, 3367, 3367, 2853 Content={3411, 3286, 3409, 3411, 3367, 3286, 3411, 3354}}}}}}}}}}}}}}}}}}}}, 3367, 3367, 3286, 3354, 3286, 2853 Content={3367, 3367, 3286, 3286, 3354, 3367, 3354, 3286}}, 3042 Amount=1, 3502 Content={3044 Amount=2}}}

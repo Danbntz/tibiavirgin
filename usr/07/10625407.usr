@@ -1,0 +1,59 @@
+ID              = 10625407
+Name            = "Mela Tyron"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,79-94-79-79)
+CurrentOutfit   = (133,79-94-79-79)
+LastLogin       = 1147993600
+LastLogout      = 1147993641
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32671,31607,6]
+PlayerkillerEnd = 1149353414
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1086202,0,1152200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,244319,3000,582400,1600)
+Skill = (2,695,695,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,111,111,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1320,1320,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,72045,1100,79179,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,67,1400,71,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (9,65,0,10,0,0,0,0,0,0,0,101413,1100,103482,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,294,1100,305,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,127,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,350,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(46,1),(72,1),(73,1),(74,1),(75,1),(83,1),(115,1),(125,1),(126,1),(137,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(217,3)}
+Murders     = {1146097725,1146684162,1146760101,1146761414}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3449 Amount=60, 3035 Amount=2, 3723 Amount=62, 3003, 3457}},
+               4 Content={3357},
+               6 Content={3279},
+               8 Content={3551},
+               10 Content={2865 Content={3160 Charges=1}}}
+
+Depots      = {0 Content={2865, 3504 Content={3409, 2854 Content={3377, 3377, 2867, 2854 Content={2870, 2865, 2865, 2854}}, 2854 Content={2854}, 3507 String="mela tyron\nthais" Editor="Mela Tyron"}, 3502 Content={3505 String="mela tyro hunting here plex no enter.....:)\nyo to aki no entren porfis ....   :)" Editor="Mela Tyron"}}, 
+               1 Content={3504 Content={3507 String="mela tyron \ncarlin" Editor="Infernal Zeed"}, 3506 String="Mela Tyron\nCarlin\nbueno amigo mio este ya yo pase las cartas de la fiesta navideña si estas interesado de ir bueno solo respondeme con una carta de esta soy darwin miguel\n" Editor="Darwin Miguel", 3502 Content={3316, 2854 Content={3066, 3425, 2868 Content={3003, 3457}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3003}}}, 
+               2 Content={2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2867 Content={3065, 3301, 3148 Charges=3, 3054 RemainingUses=200, 3188 Charges=3, 3070, 3270, 3074, 3052 SavedExpireTime=185}, 2870 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2969 KeyNumber=3033}, 3504 Content={3351, 3583 Amount=1, 3351, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3059, 3042 Amount=1, 2854 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 2869}, 2866 Content={3266, 3266, 3266, 3266, 3266, 3266, 3266}, 2854 Content={3425, 3425, 3413, 3413, 3425, 3413, 3425, 3425}}, 2853 Content={3305, 3305, 3305}, 3504 Content={3449 Amount=5, 3032 Amount=1}, 3504 Content={3174 Charges=5, 3453, 3603 Amount=35, 3605 Amount=80, 3605 Amount=100, 3507 String="mela tyron\nkazordoon" Editor="Marcela resition"}, 3502 Content={3446 Amount=22}}, 
+               3 Content={3293, 3055, 3324, 3392, 3382, 3420, 3381, 2868 Content={3093, 3093 SavedExpireTime=1788, 2860, 3093 SavedExpireTime=1475, 3035 Amount=27, 3425, 3276, 3276}, 3503 Content={3507 Editor="Mela Tyron"}, 2859 Content={3049 SavedExpireTime=150, 3049 SavedExpireTime=198}, 2866, 3504 Content={2854 Content={2867 Content={2865 Content={2854}}}, 3507 String="mela tyron \nab'dendriel" Editor="Mela Tyron"}, 3506 String="Warning!\n\nThe monthly rent of 1145 gold\nfor your house \"Coastwood 4\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 2868 Content={2854 Content={2866}}, 2857, 3465, 3174 Charges=1, 2857 Content={3078, 2815, 3059, 3147}, 2870 Content={2854}, 2870, 2854 Content={3059, 3483, 2970 KeyNumber=3142, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 3083 RemainingUses=150}, 2854 Content={3197 Charges=2, 3299, 3661, 2868, 2854 Content={2867 Content={2868 Content={2866 Content={2868 Content={2854 Content={2906, 2991, 3269, 3373, 3429, 3271, 3373}}, 2854 Content={3598 Amount=1, 3595 Amount=1, 3597 Amount=2, 3588 Amount=94, 3731 Amount=6, 3587 Amount=77, 3586 Amount=18, 3585 Amount=7, 2866 Content={3583 Amount=100, 2866 Content={2977, 3593, 3593, 3593, 3593}, 3588 Amount=100}}, 2854 Content={2970 KeyNumber=3800, 2866 Content={3449 Amount=4, 3448 Amount=81}, 2854 Content={3409, 1781 Amount=18, 3277 Amount=13, 3308, 3457, 3453, 3308, 3457, 3457}, 2865 Content={3046, 3046, 3046 SavedExpireTime=2999, 3046, 3046 SavedExpireTime=3000, 3046 SavedExpireTime=2974, 3046, 3046, 3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 2853 Content={3056 RemainingUses=200, 2853 Content={3003, 3350, 3350, 3003}}}}, 2856 Content={2869 Content={2854}, 2856}, 2865 Content={3054 RemainingUses=200, 3054 RemainingUses=88, 3054 RemainingUses=200, 3008, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200, 3084 RemainingUses=148, 3056 RemainingUses=200}, 2869 Content={2870, 2862 Content={2857}, 2871 Content={2871}, 2866 Content={2866 Content={2866}, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2868 Content={2868}, 2869 Content={2869, 2869, 2869}, 2865 Content={2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865}, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865}, 2867 Content={2867, 2867}}, 2469 Content={2866 Content={2948, 2948, 2871 Content={3014, 2640, 2641, 3290, 3082 RemainingUses=50, 3290, 3081 RemainingUses=5}}, 2867 Content={3505 String="don soeck\nHunt Here\nDont Down\nMsg me for info. \nPlx Leave\nthx =]" Editor="Don Soeck", 3505 String="don soeck\nHunt Here\nDont Down\nMsg me for info. \nPlx Leave\nthx =]" Editor="Don Soeck", 3505 String="don soeck\nHunt Here\nDont Down\nMsg me for info. \nPlx Leave\nthx =]" Editor="Don Soeck", 3174 Charges=2, 3174 Charges=5, 3164 Charges=2, 3172 Charges=3, 3172 Charges=2, 3149 Charges=2, 3174 Charges=5, 3172 Charges=3}, 2871 Content={3032 Amount=4, 3029 Amount=1, 3033 Amount=2, 3026 Amount=2, 3027 Amount=11, 3028 Amount=4, 3287 Amount=15, 3039, 3298 Amount=45, 2871 Content={3010, 3007, 3007, 3007, 3007}}}}}}}, 2857, 2856}, 2472 Content={2867 Content={2867 Content={2870}}, 2866 Content={3349, 3349, 3349}, 2868, 2865 Content={3590 Amount=5, 3587 Amount=3, 3592, 3593, 3593, 3593, 3592, 3592, 3592, 3592, 3589 Amount=1, 3114 Amount=8, 3543, 3543, 3543, 3537, 3537, 3537}, 2870 Content={2868 Content={3358, 3358, 3358}}}, 3502 Content={3097 SavedExpireTime=1242, 2867 Content={2870 Content={2870}}}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={2853 Content={2868, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2871 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}}}}, 3504 Content={3507 String="mela tyron\nvenore" Editor="Mela Tyron"}, 3504 Content={3507 String="mela tyron \nvenore" Editor="Mela Tyron"}, 3502}, 
+               7 Content={3504 Content={3507 String="mela tyron\nankrahmun" Editor="Charly'mcfly"}, 3504 Content={3507 String="Mela tyron\nAnkrahmun" Editor="Relikus pyrone"}, 3502}, 
+               8 Content={3502}}

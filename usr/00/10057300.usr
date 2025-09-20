@@ -1,0 +1,56 @@
+ID              = 10057300
+Name            = "Balain"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,114-95-114-95)
+CurrentOutfit   = (133,114-95-114-95)
+LastLogin       = 1148232644
+LastLogout      = 1148235145
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32290,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,137017,0,156200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,65698,3000,193600,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,54305,1100,59240,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,56,0,10,0,0,0,0,0,0,0,41131,1100,43598,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,86,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,911,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(35,1),(37,1),(58,1),(59,1),(83,1),(84,1),(85,1),(86,1),(87,1),(106,1),(107,1),(109,1),(128,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3084 RemainingUses=156},
+               3 Content={2867 Content={3492 Amount=36, 3492 Amount=100, 3352, 3031 Amount=6, 3577 Amount=1, 3093 SavedExpireTime=1606, 2854 Content={3164 Charges=3, 3164 Charges=3, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3003}},
+               4 Content={3370},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004}}
+
+Depots      = {0 Content={3504 Content={2656, 2656, 2656, 2856 Content={3464, 2977}, 2656, 2656, 2656}, 3502 Content={3504 Content={2867 Content={3603 Amount=10, 3597 Amount=8, 3593, 3453, 3605 Amount=34, 3577 Amount=57, 3598 Amount=50}, 2870 Content={2815 String="                  \"HOME SWEET HOME\"\n\nTHIS IS COOSHA'S AND BALAIN'S HOUSE\n\n            MAY GOD BLESS OUR HOUSE", 2865 Content={3416, 3324, 3384, 3357, 3375, 3353, 3353, 3380, 3266, 3350, 3552, 3565}, 2854 Content={2393, 3673, 2393, 2393, 2393, 2393, 3456, 2393, 3289}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Sorcerer's Avenue 1a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2854 Content={3299, 3377, 3316, 2868 Content={3270, 3316, 3316, 3316, 3316, 3316, 3316, 3316, 3337, 3292, 3289}, 3316, 3316, 3316, 3316, 3316, 3316, 3316, 3316, 3316}, 2906, 2865 Content={3289, 3289, 3289, 3289, 3289, 3377, 3377, 3377, 3377}}, 2869 Content={3457, 3457, 3469, 3454, 3559, 3457, 2875, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3483, 3452, 2969 KeyNumber=4600, 2873, 3457}, 2865 Content={3035 Amount=23}, 2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3059, 3093, 3085 RemainingUses=200, 3052, 2991, 3093 SavedExpireTime=1798, 3083 RemainingUses=107, 3046, 3077, 3097, 3083 RemainingUses=150, 3098, 3045 RemainingUses=197, 3056 RemainingUses=200, 3093 SavedExpireTime=1776, 2866 Content={2969 KeyNumber=5000, 3012, 3003, 3012, 3003}}, 2854 Content={2859 Content={3448 Amount=1, 3447 Amount=7}, 2867, 2857, 2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854}}}}}}}}}}}, 2854}, 2868 Content={2977, 2977, 2977, 2977}}, 2872 Content={3505 String="I miss you soooooooo much!!!!\nTE AMO!!!!!!!!!!!! 4-EVER\n\nLove,\nYour Angel\n=*************\n~BIG HUGS~\n\np.s. there is food for you in the red bag\n" Editor="Balain"}}}}, 
+               4 Content={3502 Content={3504}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3502 Content={}}}

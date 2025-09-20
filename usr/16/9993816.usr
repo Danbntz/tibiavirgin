@@ -1,0 +1,55 @@
+ID              = 9993816
+Name            = "Estorch"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (128,0-98-97-0)
+CurrentOutfit   = (128,0-98-97-0)
+LastLogin       = 1147125345
+LastLogout      = 1147125398
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32926,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14397,0,17600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,8975,3000,20800,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,50,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,545,545,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9669,1100,9834,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,36,0,10,0,0,0,0,0,0,0,5464,1100,6054,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,14,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10}
+QuestValues = {(21,1),(22,1),(23,1),(60,1),(61,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(111,1),(112,1),(115,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3084 RemainingUses=23},
+               4 Content={3359},
+               5 Content={3003},
+               10 Content={3446 Amount=22}}
+
+Depots      = {0 Content={2647, 2667, 2647, 2647, 2667, 3285, 2656, 2656, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3410, 3457, 3003, 2853 Content={3577 Amount=12, 3582 Amount=12}, 3457, 2854 Content={}, 3502 Content={}}, 
+               6 Content={3031 Amount=2, 2977, 2869 Content={3003, 3085 RemainingUses=89}, 3298 Amount=2, 2867 Content={2867 Content={3483, 2950}, 2867 Content={3046 SavedExpireTime=764}, 2868 Content={3077, 3492 Amount=100, 3492 Amount=100}, 2473 Content={2473 Content={2469 Content={2969 KeyNumber=4600, 3674, 3674, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2969 KeyNumber=4600}, 2473 Content={3289, 2853 Content={3377, 2857 Content={3097 SavedExpireTime=3598}, 2854 Content={3084 RemainingUses=250, 2853 Content={3316, 3289, 2853 Content={3291, 3291, 3289, 3463, 2989, 3551}}}}}}, 2853 Content={3286, 2853 Content={2853 Content={2853, 2920, 3292, 2920, 2874}, 3457, 2853}, 3308, 3374, 3286, 3286, 3426}, 3483, 2853 Content={3457, 2853, 3285, 3286, 3084 RemainingUses=250, 3308}, 3291, 2853 Content={3372, 3372}, 3483, 3483}, 2854 Content={3147, 2991, 3483}, 2952}, 2868 Content={2868, 2867 Content={2870}, 2854 Content={2865 Content={3031 Amount=64, 3289, 3031 Amount=100, 3492 Amount=62, 3483, 3483, 3483}, 3483, 3003}, 3483}, 2867 Content={3097 SavedExpireTime=1100, 3372, 3372, 3097 SavedExpireTime=3597, 3084 RemainingUses=250}, 2867 Content={3097 SavedExpireTime=3563, 3097 SavedExpireTime=3590, 3483}, 2869 Content={2854 Content={3457, 3298 Amount=1}, 3003}, 3046 SavedExpireTime=2929, 2854 Content={3003}, 2854 Content={2865 Content={3504 Content={3504 Content={3003, 3003, 3504 Content={2853 Content={2853 Content={2853 Content={3377, 3377, 3377}}, 2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3507, 2866 Content={3003, 3147, 3147, 2854 Content={3483, 3492 Amount=100, 3031 Amount=1}, 3097, 3351}, 3507 String="Estorch\nvenore"}, 2865 Content={2853 Content={3017, 3093 SavedExpireTime=1145, 3017}}, 2864 Content={3483, 2854}, 3492 Amount=100, 3492 Amount=85, 3503 Content={3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503}, 3503 Content={3503 Content={3503, 3503, 3503, 3503, 3503, 3503, 3503}, 3503, 3503, 3503, 3503, 3503, 3503}, 3503, 3503 Content={3503, 3503, 3503, 3503 Content={3503, 3503, 3503, 3507}}, 3503 Content={3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503}, 3503 Content={3503 Content={3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503}, 3503 Content={3507, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3507}, 3503 Content={3503}, 3503 Content={3503, 3507, 3503}, 3503 Content={3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503}}}, 2854 Content={2867 Content={2869 Content={2870}, 2867 Content={2865 Content={2867 Content={2871 Content={2854 Content={2870 Content={2867 Content={3563}, 3003, 3003}}}}}, 3003, 3457}, 3084 RemainingUses=250, 3054 RemainingUses=200, 3046 SavedExpireTime=2999}, 3189 Charges=3, 2920, 3189 Charges=3, 3189 Charges=3, 3189 Charges=1}, 2866 Content={3003, 3017, 3147}, 3093}, 2854 Content={2853 Content={3045 RemainingUses=200, 2991, 3003, 2991, 2991, 3054 RemainingUses=200}, 3492 Amount=41}, 3502 Content={2865 Content={3316}, 2989, 3447 Amount=100, 2854 Content={2854, 2867 Content={3457}, 3003, 3003}, 3084 RemainingUses=208, 2866 Content={3085 RemainingUses=200, 3083 RemainingUses=150, 3056 RemainingUses=200, 3287 Amount=1, 3483, 2906, 2989, 3097}, 2868 Content={3289, 2815, 3551, 3551}, 2865 Content={3003, 3198 Charges=5, 3003}, 2867 Content={3316, 3492 Amount=10, 2867 Content={2867}, 3031 Amount=1}, 2854 Content={2969 KeyNumber=5010, 2876, 3054 RemainingUses=151, 3463, 3289}, 2867 Content={3668, 2985, 3659, 3673, 3673, 3668, 3659}, 2854 Content={3673, 3457, 3003}, 2865 Content={3492 Amount=99, 3483, 3466, 3483, 2854 Content={3198 Charges=1, 3457, 3003}, 2853, 3004, 3003, 3492 Amount=100}, 2854 Content={2854 Content={3483, 3003, 2853 Content={3008}}, 3003, 3483, 3003, 3003}, 2854 Content={3457, 3003, 3003, 3457}, 2854 Content={3003, 3483, 3457, 3457, 3463, 3457}}}, 
+               7 Content={2854 Content={}, 3502 Content={}}, 
+               8 Content={3504 Content={3507 String="Estorch\nport hope\n"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Old Lighthouse\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3505 String="helloito !!\njejeje no tengo nada k hacer como podras darte cuenta! ejejeje\n \naprovecho para decirte que aun k no te conosco en persona creo k eres una super persona con lo musho o poko k eh platicado contigo me eh dado cuenta de eso y aun k no nos conocimos de la mejor manera por k me hiciste enojar por correrme de varios lados  jijijij me ~caes super ahora eres una super persona y me divierto musho platicando contigo espero poder conocerte pronto y sorry por el incidente de ayer con los celulares jeje byes cuidate   regresame la carta ehh?? jajaja byes! =) \natte:\n~L‰ M‰Nz‰NÔT‰~ ", 3502 Content={}}}

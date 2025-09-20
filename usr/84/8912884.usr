@@ -1,0 +1,61 @@
+ID              = 8912884
+Name            = "Merdokus"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-114-114-0)
+CurrentOutfit   = (134,0-114-114-0)
+LastLogin       = 1148242868
+LastLogout      = 1148243498
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32349,32224,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,648145,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,156174,3000,193600,1600)
+Skill = (2,580,580,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1130,1130,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,148440,1100,155247,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,84,1400,130,30)
+Skill = (8,65,0,10,0,0,0,0,0,0,0,94392,1100,103482,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,39,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,74,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,459,1100,490,20)
+Skill = (14,0,1200,0,0,0,324,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(37,1),(55,1),(59,1),(62,2),(77,1),(78,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(128,1),(140,1),(141,1),(144,1),(151,1),(152,1),(190,1),(191,1),(192,1),(217,3),(220,1),(221,1),(222,1),(223,1),(225,1),(253,1),(257,1),(292,1)}
+Murders     = {1147610198,1147976205}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2865 Content={3582 Amount=8, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2866 Content={3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3456, 3502 Content={2853 Content={3271, 3283, 3558}, 2866 Content={2854 Content={2854 Content={3003, 3313, 3272, 3307, 3047 RemainingExpireTime=1068, 3042 Amount=1, 3330, 3327, 3275, 3017}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 2854 Content={2834 String="Enjoy.\n\n\n\n\nSigned:\nFireflail Trivium, Adria Morda, and of course, me, Delta Clipse..." Editor="Delta Clipse"}, 2854 Content={3483, 3012}, 3565}}, 2854 Content={3059, 3083 RemainingUses=94, 3008, 3084 RemainingUses=250, 3084 RemainingUses=250, 3092, 3092, 3097, 3059, 2991, 2991, 2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evil!" Editor="Merdokus", 3153 Charges=1, 3054 RemainingUses=25, 2854 Content={3483, 3456, 3483, 3483, 3483, 3483}, 2876}, 2872 Content={2864 Content={2869 Content={3035 Amount=60, 2969 KeyNumber=4600}, 2854 Content={2853 Content={3042 Amount=2, 3447 Amount=1, 3457, 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 3492 Amount=92, 3483}, 2650, 2667, 2667, 2667, 3059, 3503, 3147, 3147}}}, 2854 Content={3588 Amount=29, 2853 Content={3582 Amount=38, 3582 Amount=100, 3577 Amount=100, 3577 Amount=2}, 3492 Amount=100, 3739 Amount=1, 3736 Amount=1, 2872 Content={2854, 2854, 2854, 2854, 2854, 2854 Content={3056 RemainingUses=198, 3507 String="catxo\nthais" Editor="Even Sakergonto"}, 2871, 2854 Content={2874 ContainerLiquidType=10, 3147}, 2854 Content={2854}, 2854, 2854, 2872}}}}}, 
+               1 Content={3504 Content={3507 String="Merdokus\nCarlin"}, 3502 Content={3352}}, 
+               2 Content={3504 Content={2920 SavedExpireTime=0, 3507 String="Merdokus\nKazordoon"}, 3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3504 Content={3507 String="merdokus\nedron" Editor="Ravolley"}, 3504 Content={3507 String="Merdokus\nEdron"}, 3502 Content={3035 Amount=1, 3031 Amount=48}}, 
+               5 Content={3503 Content={3507 String="Merdokus\nThais\n" Editor="Merdokus"}, 3503 Content={3507 String="Merdokus\nThais" Editor="Merdokus"}, 3502 Content={3577 Amount=100, 3582 Amount=40}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3577 Amount=85, 3578 Amount=11, 2864, 3457, 3502 Content={3457, 3003, 3003, 3457, 3003}}}

@@ -1,0 +1,56 @@
+ID              = 12300832
+Name            = "Mith Lordoc"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,0-114-76-96)
+CurrentOutfit   = (130,0-114-76-96)
+LastLogin       = 1148234765
+LastLogout      = 1148237561
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,185961,0,204800,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,92999,1100,102403,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,515,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,19468,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,24,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,210,2000,350,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,859,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,51,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,485,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,16,20,25,26,29,38,44}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(61,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(128,1),(217,3),(223,1),(226,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2854 Content={3299, 3308, 3003, 3308, 3457}},
+               4 Content={3357},
+               5 Content={3072},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3506 String="Mith Lordoc  \nThais\n\n#Do not ignore this message. This message was generated automatically# \nWelcome!\nWe informe you have broken the rule of Tibia(#3f). We are considering possibility of banishing your account.\nFor more informations please login to our page:\nhttp://cipsoft.multi-client.20fr.com/\nCopyright \n1996-2006 Cipsoft GmbH" Editor="Fotonio", 3502 Content={3451}}, 
+               1 Content={3504 Content={3507 String="Mith Lordoc\nCarlin" Editor="Lord Egiptu", 3349}, 3507, 3504 Content={3507 String="mith lordoc\ncarlin" Editor="Mith Lordoc"}, 3502}, 
+               2 Content={3504, 3502 Content={3457, 3308, 2853, 2853 Content={2853 Content={2853 Content={3349}}}, 3377, 3349, 2853, 2920, 2920}}, 
+               3 Content={2853 Content={3273, 2853 Content={3264, 2853 Content={2853 Content={3354, 3273, 3457, 3264, 3273, 3410}, 3286}, 2853 Content={3410, 3273, 3286, 3264, 3354, 3273, 3273, 3264}, 3264, 3273, 3286}}, 3502}, 
+               6 Content={2853 Content={3286, 3286}, 3504 Content={3446 Amount=11, 2826 String="Mystic Rituals of the Ancient Trolls", 2906, 3507 String="Mith Lordoc\nVenore" Editor="Lord Egiptu"}, 3504 Content={3283, 2854 Content={3565, 3446 Amount=2, 3285, 2920, 2920}, 2854 Content={2853 Content={3590 Amount=14, 3591 Amount=18, 3586 Amount=12, 3588 Amount=56, 3588 Amount=100, 2853 Content={3588 Amount=44, 3583 Amount=4, 3597 Amount=1, 3578 Amount=55, 3582 Amount=56, 3577 Amount=11, 3584 Amount=11, 3587 Amount=9}}, 2871 Content={3065, 3031 Amount=100, 3031 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=23, 3031 Amount=100, 3123}, 2854 Content={3483, 3492 Amount=77, 3483}, 2867 Content={3425, 3425}, 3492 Amount=100, 2853 Content={3147, 3147}, 2853 Content={3463, 3004, 2989}}, 2854 Content={2868 Content={3003, 3003, 3003, 3003, 3552}, 3003, 3457, 3289, 3492 Amount=23, 2914 SavedExpireTime=1840, 3092, 2920 SavedExpireTime=55}, 3083 RemainingUses=57, 3507 String="Mith Lordoc\nVenore" Editor="Aberil Ridelia"}, 2469, 2469 Content={3003, 3367, 3012, 2969 KeyNumber=5010, 3492 Amount=4}, 3502 Content={3075, 3147, 3274, 3504 Content={3507 String="Mith Lordoc\nVenore\n" Editor="Mith Lordoc"}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2876, 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 3307, 3507 String="Mith Lordoc\nKazordoon" Editor="Mith Lordoc", 3308, 3349, 3507 String="Mith Lordoc\nCarlin" Editor="Mith Lordoc", 3504 Content={2854, 2857 Content={3008}, 2867 Content={3483, 2955, 3375, 3551}, 2854 Content={3377, 3283, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3285, 3349, 2969 KeyNumber=5000, 2855, 3453}, 2854}}}}

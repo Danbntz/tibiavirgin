@@ -1,0 +1,56 @@
+ID              = 12580594
+Name            = "Aaram Gana"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,87-87-114-114)
+CurrentOutfit   = (133,87-87-114-114)
+LastLogin       = 1148092102
+LastLogout      = 1148092174
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,156778,0,179400,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,80703,1400,111701,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,40,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,26,0,10,0,0,0,0,0,0,0,3886,1100,4054,100)
+Skill = (7,56,0,10,0,0,0,0,0,0,0,25339,1100,26159,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,1198,1200,1297,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,153,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,894,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,11,51}
+QuestValues = {(19,1),(21,1),(23,1),(31,1),(61,1),(96,1),(97,1),(98,1),(190,1),(191,1),(217,3),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3008},
+               3 Content={2871 Content={3582 Amount=6, 3447 Amount=38, 3447 Amount=100}},
+               4 Content={3377},
+               6 Content={3350},
+               7 Content={3559},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=90}}
+
+Depots      = {0 Content={3502 Content={3410, 3031 Amount=48, 3031 Amount=100, 3031 Amount=100, 3003, 3457, 3277 Amount=8}}, 
+               1 Content={3502}, 
+               5 Content={3504, 3502}, 
+               7 Content={3449 Amount=1, 3017, 2656, 2656, 2656, 2656, 3449 Amount=1, 3017, 2656, 2871, 2656, 2871 Content={3046, 3046}, 2656, 2871, 2656, 2871, 2656, 2871, 3007, 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1480 gold\nfor your house \"Unklath I g\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Unklath I g\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853, 3502 Content={2853}}}

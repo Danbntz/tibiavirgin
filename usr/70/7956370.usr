@@ -1,0 +1,59 @@
+ID              = 7956370
+Name            = "Zyroth Vangore"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,116-114-114-114)
+CurrentOutfit   = (134,116-114-114-114)
+LastLogin       = 1145148169
+LastLogout      = 1145148262
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31685,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,459300,0,499200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,154845,3000,193600,1600)
+Skill = (2,520,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,134,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,198884,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,67,0,10,0,0,0,0,0,0,0,114128,1100,125318,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,167,1100,232,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8339,1100,8851,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(121,1),(190,1),(191,1),(208,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={3577 Amount=1, 3457, 3003, 2969 KeyNumber=3033, 3052 SavedExpireTime=538, 3091 SavedExpireTime=1622, 3483, 3582 Amount=1, 3198 Charges=4, 3723 Amount=4, 2854, 3198 Charges=2, 2869 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2922 SavedExpireTime=295}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3031 Amount=39, 2854 Content={2854, 2854 Content={2865 Content={2871}}, 2865, 2854, 2868 Content={2854}}, 2469 Content={2472 Content={2472, 2472, 2472, 2472}}, 3502 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={2853, 2868 Content={3446 Amount=62, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2854 Content={2854 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2868 Content={2865 Content={2854 Content={3425, 3266, 3266, 3425, 3266, 3425, 3425, 3425, 3425}, 3269, 3269, 3266, 3269, 3269, 3372, 3275, 3269, 3266, 3305, 3425, 3425, 3425, 3425, 3266, 3266, 3282, 3282}, 3266, 3266, 3266, 3266, 3266, 3266, 3305, 3305, 3305, 3305, 3425, 3425, 3425, 3425, 3425, 3276, 3411, 3410}}, 2868 Content={3586 Amount=3, 3598 Amount=8, 3597 Amount=2, 3579 Amount=3}, 2865 Content={2854 Content={2865 Content={2869 Content={2854 Content={2868 Content={3092, 3421, 3097, 3056 RemainingUses=200, 3083 RemainingUses=150, 3056 RemainingUses=200, 3097}, 3083 RemainingUses=150, 3054 RemainingUses=200, 3084 RemainingUses=250, 3085 RemainingUses=198, 3054 RemainingUses=200, 3056 RemainingUses=200, 2394, 3097, 3084 RemainingUses=250, 2952, 3310, 3310, 3310, 3310, 3046, 3046 SavedExpireTime=3000, 3046, 3046 SavedExpireTime=2991, 3046}, 2952, 3310, 3470, 3017, 2989, 3463, 3004, 3463, 2989, 3463, 3463, 3045 RemainingUses=200, 3046, 3046, 3155 Charges=1, 3054 RemainingUses=200, 3012, 3008, 3012}, 3084 RemainingUses=250, 2955, 3084 RemainingUses=250, 3054 RemainingUses=200, 3056 RemainingUses=200, 3045 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200, 3459, 3017, 3045 RemainingUses=200, 3083 RemainingUses=94, 3083 RemainingUses=150, 3008, 3012, 3054 RemainingUses=200, 3056 RemainingUses=200, 3289, 2955}, 3010, 3062, 2395, 3017, 3056 RemainingUses=200, 3045 RemainingUses=200, 3046, 3083 RemainingUses=14, 3046, 3017, 3046, 2853 Content={2853 Content={3045 RemainingUses=200, 3008, 3084 RemainingUses=250, 3093, 3050, 3050 SavedExpireTime=1794, 3097, 3050}, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3050, 3097 SavedExpireTime=2998, 2955, 3046, 2989, 3463, 3046}, 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 2386, 3077, 3017, 3062, 3028 Amount=10, 3033 Amount=2, 3039, 3062, 3030 Amount=4, 3032 Amount=1, 3026 Amount=1, 3042 Amount=12, 3017, 3027 Amount=3, 2992 Amount=4, 3077, 3077, 3062}, 2865 Content={2865 Content={3287 Amount=56, 3316, 3311}, 3313, 3441, 3338, 3327, 3441, 3421, 3338, 3327, 3338, 3330, 3441, 3327, 3330, 3330, 3330, 3327, 3313}, 2854 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3412, 2969 KeyNumber=5010, 3291, 3597 Amount=1, 2868 Content={2854 Content={3267, 3505, 3291, 3412, 2853 Content={2914 SavedExpireTime=1991, 2911 SavedExpireTime=2767, 2983, 3661, 2981, 3661, 3661}, 2853 Content={3505, 2659, 2659, 3059, 3147, 3147, 3147}, 2664 RemainingExpireTime=122, 3308, 3059, 3283}, 2893, 3456, 3350, 3283, 3298 Amount=5, 2984, 3308, 3456, 3457}, 2969 KeyNumber=3033, 3455, 3457, 3291, 3412, 3299, 3267, 3292}, 2867 Content={2868 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 2868 Content={2871, 2865, 2866, 2868}, 2865 Content={2867}, 2853, 2871}}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}}

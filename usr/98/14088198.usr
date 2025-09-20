@@ -1,0 +1,51 @@
+ID              = 14088198
+Name            = "Niquita Bakora"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (138,58-73-103-0)
+CurrentOutfit   = (138,58-73-103-0)
+LastLogin       = 1147702765
+LastLogout      = 1147702830
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31780,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,5608,0,6400,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,1400,1600,1600)
+Skill = (2,167,185,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,894,1100,948,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1100,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,177,1200,181,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,531,1200,645,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,164,1200,181,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,161,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,196,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3505 Editor="Ryczerz of Zanera", 2922 SavedExpireTime=133, 3003, 3447 Amount=13, 3349, 3031 Amount=31, 3587 Amount=3, 3446 Amount=1, 3605 Amount=1, 2920 SavedExpireTime=322, 2920, 2920 SavedExpireTime=378, 2920, 2874, 3603 Amount=3}},
+               4 Content={3378},
+               5 Content={3282},
+               6 Content={3430},
+               7 Content={3559},
+               8 Content={3552}}
+
+Depots      = {1 Content={3503 Content={2815 String="HUR SKICKAR MAN PAKETEN!?\n" Editor="Niquita Bakora", 3661, 3507 String="Carlin\nZork Bakora\n\nTestar/Niquita" Editor="Niquita Bakora"}, 2472 Content={3374, 3430, 3300, 3378, 3003, 3003, 3430, 3374, 3378, 3559, 2853 Content={2881, 2905, 2882 ContainerLiquidType=1}}, 3502 Content={3031 Amount=100, 3462, 3457, 3456, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3453, 3492 Amount=5, 2853, 3483, 3585 Amount=1}}}

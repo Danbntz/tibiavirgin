@@ -1,0 +1,55 @@
+ID              = 7961329
+Name            = "Deacon Evil"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,0-114-114-114)
+CurrentOutfit   = (133,0-114-114-114)
+LastLogin       = 1135400227
+LastLogout      = 1135400239
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32647,31926,11]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10065,0,13000,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,81760,1100,81854,1600)
+Skill = (2,131,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,7402,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,5429,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,15,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,884,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,1,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {8,10,16,25}
+QuestValues = {(14,1),(86,1),(87,1),(254,1),(257,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2853},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={2970 KeyNumber=3800},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3031 Amount=41}}
+
+Depots      = {1 Content={3562, 3559, 3504 Content={3276, 3507 String="Deacon Evil\nCarlin"}, 3502 Content={}}, 
+               2 Content={3031 Amount=55, 3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               7 Content={3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3285, 3353, 3353, 3353, 3353, 3577 Amount=65, 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 3026 Amount=1, 3465 ContainerLiquidType=0, 2969 KeyNumber=3033, 3502 Content={}}}

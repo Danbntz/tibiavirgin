@@ -1,0 +1,56 @@
+ID              = 8063074
+Name            = "Awitado"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,39-114-88-20)
+CurrentOutfit   = (128,39-114-88-20)
+LastLogin       = 1127870625
+LastLogout      = 1127873940
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54685,0,57600,100)
+Skill = (1,43,0,0,0,0,0,0,0,0,0,1004080,1100,1044225,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,255,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2093,1500,3217,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,42,1800,84,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4522,1800,6824,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,4047,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,11,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,114,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,8,10,16,20,29,42,45}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(27,1),(37,1),(59,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(115,1),(116,1),(117,1),(118,1),(213,1),(214,1),(215,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={},
+               3 Content={2868 Content={3031 Amount=20, 3003, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3052 SavedExpireTime=378, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3286},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={2920 SavedExpireTime=38}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=71, 3031 Amount=100, 3031 Amount=100, 3448 Amount=5, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}}, 
+               3 Content={3502 Content={3092 SavedExpireTime=0, 3446 Amount=12, 3031 Amount=44, 3031 Amount=100, 3031 Amount=100}}, 
+               6 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=4, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={}, 2865 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3279, 3356, 3380, 3031 Amount=59, 3492 Amount=6, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2469 Content={2867 Content={2869 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}, 3504 Content={3578 Amount=21, 2867 Content={3017, 3017, 3450 Amount=5, 2992 Amount=12, 3588 Amount=100, 3588 Amount=100}, 2869 Content={}, 2867 Content={2920 SavedExpireTime=0, 3003, 3483, 3003, 3457, 3457, 3457, 3457, 3457, 3457, 3003, 3003, 3003, 3003, 3003, 3456, 3456, 3483, 3483}, 3507 String="awitado\nvenore\n"}, 3504 Content={2866 Content={3574, 3574, 3574, 3574, 3574, 3574}, 2854 Content={2865 Content={3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311}, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311, 3311}, 2867 Content={2969 KeyNumber=4009, 2970 KeyNumber=3303, 2969 KeyNumber=5010, 2969 KeyNumber=4603, 2969 KeyNumber=4600, 2969 KeyNumber=4022, 2969 KeyNumber=3650, 2969 KeyNumber=4022, 2969 KeyNumber=5010, 2972 KeyNumber=3980, 2970 KeyNumber=4601, 2970 KeyNumber=4601, 2970 KeyNumber=4601}, 2865 Content={3045 RemainingUses=200, 3004, 3007, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3050 SavedExpireTime=0, 3050 SavedExpireTime=0, 3050 SavedExpireTime=0, 3050 SavedExpireTime=0, 3093 SavedExpireTime=0, 3051 SavedExpireTime=262, 3051 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3052 SavedExpireTime=0, 3091 SavedExpireTime=0, 3085 RemainingUses=187, 3085 RemainingUses=200, 3085 RemainingUses=178}, 2867 Content={3017, 2853 Content={3483, 3483, 3483, 3349, 3349, 3349}}, 2854 Content={3373, 3373, 3373, 3373, 3373}, 2866 Content={3369, 3313, 3297, 3323, 3279, 3318, 2867 Content={3424, 3432, 3432, 3432, 3428, 3429, 3429, 3416, 3415, 3415, 3415, 3421, 3433}, 3271, 3318}, 3507 String="awitado\nvenore\n"}, 3502 Content={2867 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147}, 3457, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3285, 3083 RemainingUses=149, 3059 String="", 3054 RemainingUses=100, 3353, 3054 RemainingUses=200, 3059 String="", 3410, 3425, 3446 Amount=34, 3286}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=4, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}, 2867 Content={3725 Amount=66, 3197 Charges=3, 3051 SavedExpireTime=357, 3148 Charges=1, 3172 Charges=3, 3148 Charges=3, 3188 Charges=2, 3180 Charges=4, 3053 SavedExpireTime=0, 3052 SavedExpireTime=0, 3052 SavedExpireTime=0, 3198 Charges=4, 2874 ContainerLiquidType=0, 3191 Charges=1, 3200 Charges=1}, 2867 Content={3191 Charges=1, 3192 Charges=2, 3192 Charges=1, 3191 Charges=1, 3191 Charges=1, 3188 Charges=2, 3178 Charges=1, 3188 Charges=3, 3148 Charges=3, 3148 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3492 Amount=30, 3732 Amount=1, 3589 Amount=46, 3579 Amount=4, 3492 Amount=100, 3725 Amount=91, 3724 Amount=3}, 2867 Content={3035 Amount=100, 3043 Amount=1, 3035 Amount=49}}}}

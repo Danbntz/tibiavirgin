@@ -1,0 +1,53 @@
+ID              = 11624750
+Name            = "Sir calvo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-114-0-94)
+CurrentOutfit   = (128,114-114-0-94)
+LastLogin       = 1148252895
+LastLogout      = 1148253751
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32558,31929,8]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,68501,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,11986,3000,20800,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,32737,1100,33003,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,49,0,10,0,0,0,0,0,0,0,20753,1100,22129,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,197,1100,232,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,75,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,42,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,71,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,50,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(35,1),(59,1),(98,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={3308, 3031 Amount=12, 3003, 2865, 3582 Amount=1, 3577 Amount=3}},
+               4 Content={3383},
+               5 Content={3425},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={3003, 3504 Content={3504 Content={3507 String="sir calvo\ncarlin" Editor="Soto Master", 2920, 3285, 3377}, 3035 Amount=1, 3031 Amount=66}, 2854 Content={3277 Amount=9, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3286, 2853 Content={3286, 3031 Amount=100, 3031 Amount=86, 3003}, 3164 Charges=3, 3602 Amount=2}, 3504 Content={3507 String="sir calvo\ncarlin" Editor="Caty la emo", 2860 Content={3377, 2854 Content={2920 SavedExpireTime=597, 3483, 3504 Content={3350, 3349, 3349, 3349}, 3448 Amount=4, 2853}}}, 3504 Content={3425, 3507 String="sir calvo \ncarlin\n" Editor="Caty la emo", 3093 SavedExpireTime=1792}, 3588 Amount=16, 3446 Amount=35, 3059, 3413, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={3188 Charges=1, 3147, 3147, 3147, 3147}, 2853 Content={3147, 3147, 3147, 3147, 3147}, 3012, 2853, 3097, 2853 Content={2920, 3097 SavedExpireTime=3584, 3050 SavedExpireTime=1578, 3097 SavedExpireTime=3598, 3097 SavedExpireTime=3597}, 2969 KeyNumber=4600, 3003, 3585 Amount=4, 3003, 2856, 3598 Amount=3, 3586 Amount=2, 3456}}, 
+               6 Content={3502}}

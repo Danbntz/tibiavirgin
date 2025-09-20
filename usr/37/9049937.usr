@@ -1,0 +1,59 @@
+ID              = 9049937
+Name            = "Kesso"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,94-114-114-94)
+CurrentOutfit   = (134,94-114-114-94)
+LastLogin       = 1125021172
+LastLogout      = 1125023575
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33194,32853,8]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,511904,0,548900,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,206080,3000,582400,1600)
+Skill = (2,417,560,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,6,160,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1095,1095,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,69,0,10,0,0,0,0,0,0,0,282144,1100,303481,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,70,0,10,0,0,0,0,0,0,0,159708,1100,166964,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,57,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,14589,1100,15835,20)
+Skill = (14,0,1200,0,0,0,838,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(84,1),(85,1),(86,1),(87,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2872 Content={3507 String="Kesso hunting here", 3582 Amount=3, 3003, 3483, 3291, 2854 Content={3031 Amount=80, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3457, 3308}},
+               4 Content={3383},
+               5 Content={3281},
+               6 Content={},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={},
+               10 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {3 Content={3504 Content={3507 String="kesso\nab'dendriel"}, 3300, 2969 KeyNumber=3033, 3003, 3503 Content={}, 3355, 3330, 3506 String="kesso\nab'dendriel\n\npendejo", 3353, 3291, 3507 String="Kesso hunting here\nPLEASE RESPECT", 3507 String="Kesso hunting here\nPLEASE RESPECT\nPOR FAVOR RESPETEN", 3355, 3291, 3503 Content={3503 Content={3507 String=""}, 3503 Content={3507 String=""}, 3507 String=""}, 3591 Amount=5, 3008, 3291, 3291, 3291, 3291, 2914 SavedExpireTime=1998, 3504 Content={3507 String="kesso\nab'dendriel"}, 3457, 3504 Content={3504 Content={3504 Content={3507 String=""}, 3504 Content={3507 String="\n"}}, 3504 Content={}, 3504 Content={}}, 3502 Content={3412, 3459, 3453, 3561, 2856 Content={}, 2984, 3266, 3083 RemainingUses=150}}, 
+               4 Content={3578 Amount=13, 2865 Content={}, 3291, 3412, 3330, 3056 RemainingUses=200, 3291, 3502 Content={}}, 
+               5 Content={2853 Content={3285}, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3289, 2901 ContainerLiquidType=0, 3050 SavedExpireTime=0, 3551, 3504 Content={3503 Content={}, 3503 Content={}, 3503 Content={}, 3503 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="kesso\nAnkrahmun"}}, 3059 String="", 3412, 3492 Amount=27, 3035 Amount=41, 3042 Amount=15, 3033 Amount=6, 3351, 3492 Amount=4, 3297, 3287 Amount=1, 2853 Content={3577 Amount=32, 3577 Amount=100}, 3507 String="Kesso hunting here", 3505 String="Kesso hunting here\n", 2865 Content={2865 Content={}, 2868 Content={}, 2869 Content={}, 2871 Content={}, 2854 Content={}, 2865 Content={}, 2868 Content={}, 2869 Content={}, 2854 Content={}, 2854 Content={}, 2865 Content={}, 2868 Content={}}, 3455, 3301, 2853 Content={}, 3059 String="", 3308, 2969 KeyNumber=3033, 2857 Content={3077}, 3327, 3507 String="Kesso hunting here \nPLEASE RESPECT", 3507 String="Kesso hunting here \nPLEASE RESPECT", 3502 Content={3330, 3507 String="kesso hunting here", 3507 String="Kesso hunting here ", 3507 String="Kesso hunting here ", 3507 String="sir terrorizer hunting here plz respect", 3507 String="Rholandito hunt here \nplsss no bajen \n", 3507 String="sir terrorizer hunting here", 3507 String="sir terrorizer hunting here\nplz respect", 3507 String="sir terrorizer hunting here\nplz respect", 3050 SavedExpireTime=0, 3598 Amount=2, 3454, 2874 ContainerLiquidType=7, 2874 ContainerLiquidType=7, 3446 Amount=9, 3586 Amount=4, 3085 RemainingUses=200, 3350, 3046 SavedExpireTime=19}}, 
+               8 Content={3502 Content={}}}

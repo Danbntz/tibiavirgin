@@ -1,0 +1,56 @@
+ID              = 8491463
+Name            = "Goodpeck"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-79-86-94)
+CurrentOutfit   = (129,79-79-86-94)
+LastLogin       = 1146712798
+LastLogout      = 1146712926
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31682,6]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,373134,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,118771,3000,193600,1600)
+Skill = (2,496,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,77,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,118814,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,62,0,10,0,0,0,0,0,0,0,73118,1100,77623,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4478,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(49,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(125,1),(126,1),(217,3),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2865 Content={3492 Amount=33, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               3 Content={3377, 3558, 3412, 3291, 2853 Content={2920 SavedExpireTime=599, 2920 SavedExpireTime=598, 2920, 2920 SavedExpireTime=530, 2920, 3457, 3003}, 3267, 2854 Content={2854}, 3276, 3492 Amount=12, 3188 Charges=3, 3578 Amount=100, 3503 Content={3503 Content={3507}, 3503}, 2473 Content={2473 Content={2853 Content={2920, 2853 Content={3361, 2920, 2920 SavedExpireTime=466, 3308, 3457, 2991, 3412}, 3362}}, 2853 Content={3578 Amount=100, 3578 Amount=100}, 3504 Content={3504 Content={3507 String="Rando kyth\nvenore" Editor="Frodo of zanera"}, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="Rando Kyth\nab'dendriel" Editor="Rando Kyth"}, 3504, 3504 Content={3507 String="Rando Kyth\nvenore" Editor="Pehyer"}}, 3502 Content={2469 Content={3279, 3385, 2872 Content={3033 Amount=2, 3042 Amount=2, 3046 SavedExpireTime=2992, 3082 RemainingUses=50, 3039, 3061, 3046, 3046 SavedExpireTime=2999, 3058, 3008, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=199, 3085 RemainingUses=94, 3085 RemainingUses=200, 3085 RemainingUses=200, 2862 Content={3045 RemainingUses=200, 2853 Content={3052 SavedExpireTime=1167, 3097 SavedExpireTime=3274, 3097 SavedExpireTime=3598, 3097 SavedExpireTime=3594, 3097 SavedExpireTime=3560, 3097 SavedExpireTime=3598, 3097 SavedExpireTime=1127, 3097 SavedExpireTime=3597}, 3093 SavedExpireTime=1723, 3093 SavedExpireTime=1798, 3050 SavedExpireTime=1208, 3050 SavedExpireTime=1325, 3050 SavedExpireTime=1798, 3050 SavedExpireTime=1797}, 3012}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5}, 3436, 3381, 3280, 3035 Amount=40, 3279, 3557}, 2854 Content={3076, 2906, 3077, 3077, 3077, 3062, 3062, 3062, 3658, 3661, 2876, 3076, 3077, 3668, 3658, 3659, 3658, 3659, 3659}, 2867 Content={3003, 3293, 2853 Content={2853 Content={2853 Content={2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 2853 Content={3456, 3456, 2853 Content={2853 Content={3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456}, 3456, 3456, 3456, 3456, 3456, 3456, 3456}, 3456, 3456, 3456}, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=5000}, 2854 Content={2920, 2920 SavedExpireTime=596, 2920, 2920, 2911, 2911, 2911, 2911, 2920, 2920, 2920, 2920, 2920, 2920}, 2868 Content={3046 SavedExpireTime=1766, 3377, 3377, 3377, 3377, 3421, 3425, 3425, 3425, 3425, 3316, 2955}, 2870 Content={3299, 3384, 3282, 3301, 3311, 3269, 3317, 3269, 3282, 3282, 3305, 3327, 3265}, 2865 Content={2871 Content={3003, 2871}, 2857 Content={2857}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865}, 2867 Content={2867, 2867}, 2868 Content={2868}, 2869, 2866, 2854 Content={2854, 2854, 2854}}, 2473 Content={3310, 2853 Content={2991, 3209, 3543}, 2901, 3483, 3483, 2482 Content={2471}, 2853 Content={2656, 2853 Content={2659, 2644, 2647, 2647, 2647, 2647, 2647, 2659}, 3552, 3552, 2656, 2656}}}}, 
+               6 Content={3504 Content={3507 String="goodpeck\nvenore"}, 3502}}

@@ -1,0 +1,61 @@
+ID              = 10863714
+Name            = "Knight Kack"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,97-114-114-114)
+CurrentOutfit   = (134,97-114-114-114)
+LastLogin       = 1148170113
+LastLogout      = 1148171240
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32795,31599,12]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,658705,0,717600,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,595803,1100,642316,1600)
+Skill = (2,298,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,422,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,45749,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,50,2000,90,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1970,2000,3150,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2282,2000,3150,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,141,2000,150,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,1001,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4446,1100,4909,20)
+Skill = (14,0,1200,0,0,0,789,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,23,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,10,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,17,18,19,20,23,25,26,27,29,30,32,38,39,44,45,75,76,78,81,86,87,88,89}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(46,1),(49,1),(59,1),(60,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3582 Amount=3}},
+               4 Content={3357},
+               5 Content={3071},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="Knight Kack\nthais\n" Editor="Borma Java balta"}, 3504 Content={3507 String="Knight Kack\nthais\n" Editor="Borma Java balta"}, 3502 Content={3413, 3008, 2874, 2874, 2874, 2874, 3147, 3147, 2911 SavedExpireTime=2999, 2893}}, 
+               1 Content={2973 KeyNumber=3520, 3504 Content={3507 String="Knight Kack\nCarlin\n" Editor="Borma Java balta"}, 3504 Content={3507 String="Knight Kack\ncarlin\n" Editor="Borma Java balta", 3504}, 3502 Content={2873}}, 
+               2 Content={3502}, 
+               3 Content={3045 RemainingUses=200, 2659, 3092, 3082 RemainingUses=50, 3028 Amount=1, 3033 Amount=2, 2865 Content={2853 Content={3563, 3308, 3661, 3593, 3593, 3593, 3593, 2853 Content={3305, 3073, 3046, 3289, 3289}}, 3004, 3045 RemainingUses=200, 3287 Amount=1, 2952, 3046, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3289, 3447 Amount=9, 3441, 3039, 2991, 3042 Amount=16, 3075, 3359, 3275}, 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 750 gold\nfor your house \"Great Willow 4d\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3483, 3003, 3457, 3483, 3299, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Great Willow 4d\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3404, 3457, 3327, 3330, 3330, 3330, 3012, 3507 String="Knight Kack\nAb'dendriel" Editor="Griel crot imeldo"}, 2869 Content={2854 Content={3007, 3017, 3017, 3017, 3271, 3017, 3007, 3044 Amount=1, 3046, 2827 String="The master of the games asked for 'greater challenges'. I cannot help the feeling that the fool is talking about djinns and demons. However, as long as I am chief advisor of the pharaoh this will not happen. If such a creature broke loose in the city, chaos would ensue. It would be a massacre. And I am convinced that certain elements would welcome such a 'misfortune' and even work towards it.", 3017, 3017, 3164 Charges=3}, 3377, 2869 Content={3563, 3563, 3563, 3563}, 2871 Content={2825 String="The great pyramid is the centre of our beloved city. It is there that our praised pharaoh resides, surrounded by his trusted servants. Far below the palace, hidden in the deepest dungeons of the ancient pyramid are the tombs of despair. The old pharaoh met his fate there, and it is said he still roams the hidden passageways, bound forever to his undead body. So great was the wisdom of Arkhothep that he granted his father eternal unlife, so that he may to atone for his sins and become worthy of ascension. Who knows? Perhaps one day he, too, will ascend, leaving both the curse and his tomb behind him and taking his place at Arkhothep's side. But I fear his folly defies all attempt to cure it. He has proved unyielding to the wisdom of his son's preachings for as long as I can remember. Long will be his road, and a million deaths he shall die before he will see the light of the wisdom that will free him from his prison.", 2832 String="...we stood on a plank and beneath us was a pit full of hissing snakes. Worse, the plank was pulled back into the wall, and there was no way out. If it hadn't been for our good Alil who had stayed out of that cursed chamber in a rare moment of clear-sightedness, we would all have ended up as snake food. Just how he managed to find that hidden lever on the statue is still beyond me.", 3299, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330}, 2828 String="Rahmen Tah and the Vizier, Part I\nIn the second year of the reign of pharaoh Rahmen Tah there was a vizier who was said to consort with demons and to tamper with the powers of oblivion. He lived in a majestic tower that stood on a little island close the harbour. It was a marvel to behold, made of black glass and gold, and everybody who looked at it was filled with an eerie sense of foreboding. The vizier was rumoured to be so powerful that no one dared to bring him to justice. Even Rahmen Tah himself feared the power of his vizier, and he did not dare to send troops against the vizier. Finally he called for his chief astrologer and mathematician, the wise Athem, and asked him for advice. Athem listened quietly to the words of his pharaoh. After he had finished Athem ask his pharaoh for some time to think everything over. Reluctantly the pharaoh agreed.", 3003}, 2868 Content={2867 Content={2865 Content={3349, 3308, 2647, 2647, 3425, 3425, 4290 Content={3483, 3003, 2969 KeyNumber=5010, 3012, 3349, 3046, 3441, 3289}, 2974, 3084 RemainingUses=250, 2647}, 2868 Content={3349, 2659, 2659, 3578 Amount=29, 2659, 2659, 2659, 2659, 2659, 2659, 3415, 3441}}, 2973 KeyNumber=3520}, 3572, 2872 Content={3283, 3736 Amount=1, 2866 Content={3377, 3147, 3147, 3147, 3147, 3147, 3147, 2659, 2955, 3012, 3446 Amount=11, 3305, 3305, 3305}, 2871 Content={3269, 3289, 3316, 3050 SavedExpireTime=1797, 3282, 3449 Amount=2, 3266, 3266, 3310, 2866 Content={3269, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=1084, 3046, 2393, 2389, 2392, 2388, 2390, 2391, 2393, 2393, 2393, 2866 Content={3305, 3078, 2856 Content={3084 RemainingUses=87, 3275, 3572}, 3084 RemainingUses=250, 3059, 3316, 3421, 2991, 3572, 3283, 2989}, 3316}, 3585 Amount=8}, 2870 Content={2854, 2876}, 2854 Content={3097 SavedExpireTime=3569, 3050 SavedExpireTime=1692, 3097 SavedExpireTime=3563, 3050 SavedExpireTime=1793, 3012}, 2870 Content={3338, 3059, 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 3097, 3008, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3483, 3453, 2818 Editor="Knight Kack", 3077, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=153, 3008, 3287 Amount=1, 3269, 2992 Amount=7}, 3457}, 3502 Content={3147, 3059, 2659, 3338, 3046 SavedExpireTime=2998, 2659, 3441, 3431, 2815 Editor="Knight Kack", 2969 KeyNumber=4603, 2969 KeyNumber=4600, 2970 KeyNumber=4601, 3292, 2969 KeyNumber=3033, 3505 Editor="Knight Kack", 2920, 3056 RemainingUses=200, 3451, 2873, 2969 KeyNumber=3033, 3504 Content={2869 Content={2869 Content={3147, 3054 RemainingUses=200, 3076, 3093 SavedExpireTime=464, 3034 Amount=1, 3027 Amount=6, 3026 Amount=2, 3505 String="Knight kack \nhunt here \nmsg" Editor="Knight Kack", 3017, 3409, 3180 Charges=2, 3507 String="Knight Kack\nHunt Here \nMSG" Editor="Knight Kack", 2842 String="guy who read that are big noob :D" Editor="Chimera magoo", 3568, 3077, 3299, 3265, 3046 SavedExpireTime=2998, 3077}}, 3056 RemainingUses=200, 3056 RemainingUses=200, 3507 String="Knight Kack\nab'dendriel"}, 2973 KeyNumber=3520}}, 
+               4 Content={3504 Content={3582 Amount=2, 3425, 3507 String="knight kack\nedron" Editor="Druid tocallo"}, 3504 Content={3410, 3410, 3410, 3507 String="Knight Kack\nEdron" Editor="Pali of Java Balta"}, 3502}, 
+               5 Content={3504 Content={3507 String="Knight kack\nDarashia" Editor="Griel crot imeldo"}, 3502 Content={3483, 3457}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Knight Kack\nAnkrahmun" Editor="Aran Zephimas"}, 3504, 3558, 2854, 3502 Content={3032 Amount=1, 2839, 3483}}, 
+               8 Content={3502 Content={3577 Amount=1}}}

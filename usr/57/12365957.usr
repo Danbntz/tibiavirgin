@@ -1,0 +1,57 @@
+ID              = 12365957
+Name            = "Pepenadora"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,132-114-114-114)
+CurrentOutfit   = (137,132-114-114-114)
+LastLogin       = 1148246259
+LastLogout      = 1148247565
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32347,31789,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,322975,0,330400,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,446205,1100,478602,1600)
+Skill = (2,233,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,377,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21546,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,57,2000,90,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,945,2000,1550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,99,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,39,2000,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,2004,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3976,1100,4022,20)
+Skill = (14,0,1200,0,0,0,267,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,91,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,17,19,20,25,26,27,29,30,38,44}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(38,1),(46,1),(52,1),(53,1),(54,1),(60,1),(61,1),(67,1),(71,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(138,1),(139,1),(190,1),(191,1),(217,3),(222,1),(224,1),(225,1),(226,1),(253,1),(254,1),(333,1)}
+Murders     = {1146473787,1146589036,1147596865,1148201660,1148201794}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2869 Content={2868 Content={3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2854 Content={3198 Charges=2, 3164 Charges=1, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2854, 2853 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2875, 2875, 2875, 3003, 3504 Content={3483, 3349, 3507 String="pepenadora\ncarlin" Editor="Derus Kivan"}, 2854 Content={3736 Amount=1, 3661, 3668, 3066, 2853 Content={2839, 3313, 3289}}, 2868 Content={2854, 2869, 2868 Content={3492 Amount=85, 2865 Content={3457}}, 2854 Content={3046 SavedExpireTime=2981, 3291, 3307, 3308, 3292, 3299, 3456, 3308}}, 2393, 2872 Content={3506 String="pepenadora\ncarlin\n\n\n\n\nTe amo chikita" Editor="Shadow Warmen", 3505 String="Chikita kara de perrito " Editor="Levitar", 2981, 3377, 2854 Content={3012, 3003, 2983, 2984}, 3658, 3658, 3056 RemainingUses=197, 2969 KeyNumber=4600, 2991, 3658, 3301, 2853 Content={3412, 3277 Amount=2, 2911 SavedExpireTime=560, 3003}}, 3507 String="mero abin \ncarlin\n" Editor="Skazi Loko", 3504 Content={2989, 3463, 3008, 3661, 2981, 3507 String="pepenadora\ncarlin\n" Editor="Lapanda", 3492 Amount=80}, 3003, 2853 Content={2854 Content={3674, 3658, 3673, 3668, 3658, 3658, 3505 String="chikita, gracias por estar conmigo todo este tiempo te amo demasiado pequeña bonita preciosa ...\n\nquiero estar contigo siempre...\n\n\nentediste.?\n\nSIEMPRE..\n\n\n\nte amo nena preciosa...\n\n\ngracias por este año tan chido ..\n\ngracias por el mejor año de mi vida..\n\ngracias por estar conmigo...\n\npero lo mejor...\n\n\ngracias por existir chikita :)\n\n\n\nte amo y te amare siempre\n\n\natte. SAUL .....\n\n\n\n::::::::::::::::::::::::::::::::::::::::::TE AMO::::::::::::::::::::" Editor="Pepenadora", 2853 Content={2835 String="TE AMO DEMASIADO \n\n:D\n" Editor="Simitrio", 2985, 3661, 3658, 3505 String="CHIKILLA!! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n....\n\n....\n\n\n..\n\n\nGORDILLA!!!!\n" Editor="Pepenador", 2815 String="TE AMO CHIKITA PRECIOSA \n\n\n\n\natte.. ZHAUL :D\n" Editor="Pepenadora", 3505 String="hola nena\n" Editor="Pepenadora", 2981}}, 2868 Content={3004, 3012, 3056 RemainingUses=200, 3008, 3012, 3054 RemainingUses=200, 3008, 3077, 3084 RemainingUses=250, 3008, 3008, 3050 SavedExpireTime=333, 3007, 2969 KeyNumber=4600, 2970 KeyNumber=4503, 3008, 3012, 3008, 3050 SavedExpireTime=1798}, 2853 Content={2920, 2920 SavedExpireTime=60}, 2874 ContainerLiquidType=6, 3291, 3291, 2991}, 2875 ContainerLiquidType=2, 3502 Content={2865 Content={3466, 3467, 3470, 2901, 3451, 3565, 3542, 3459, 2989, 2906, 2853 Content={2981, 3658, 2984, 3673, 2955, 2881, 2880, 3104}, 2893, 3466, 3538, 3509, 2916, 3565, 2955, 3539, 3463}, 3504 Content={2906, 2969 KeyNumber=5000, 3375, 3291, 3507 String="pepenadora\ncarlin" Editor="Barris"}, 2853 Content={2868 Content={3377, 2973 KeyNumber=3520, 3658, 3658}, 2872 Content={2868 Content={3300, 3301}, 3505 String="Retirado del Tibia\n\nsolo me trajo problemas...\npero tu si lo disfrutas...\nati te sirve mas que ami esto.." Editor="Levitar", 3507 String="pepenadora\ncarlin" Editor="Levitar", 3547 Amount=1}, 2869 Content={3661, 2857 Content={3377, 2855 Content={2969 KeyNumber=5000, 2901, 3056 RemainingUses=200}}, 2854 Content={3504, 3003, 3551, 2877, 2969 KeyNumber=3033}, 2853 Content={2856 Content={3658, 3290}, 2857 Content={3003}, 3307}}}, 2853 Content={3658, 3736 Amount=1, 3483, 3470}, 2969 KeyNumber=3033, 2969 KeyNumber=3650, 3008, 3012, 2914 SavedExpireTime=1995, 3464, 3468}}, 
+               3 Content={3502}, 
+               6 Content={3502}}

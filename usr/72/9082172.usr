@@ -1,0 +1,57 @@
+ID              = 9082172
+Name            = "Arianza"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (140,114-94-0-94)
+CurrentOutfit   = (140,114-94-0-94)
+LastLogin       = 1148208713
+LastLogout      = 1148208759
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32679,31687,6]
+PlayerkillerEnd = 0
+
+Skill = (0,52,0,1,0,0,0,0,0,0,1,2165979,0,2215200,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,779842,3000,1748800,1600)
+Skill = (2,845,845,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,121,121,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1570,1570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,330509,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,74,0,10,0,0,0,0,0,0,0,239321,1100,244685,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,107,1100,165,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,163,1100,165,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,346,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5451,1100,5982,20)
+Skill = (14,0,1200,0,0,0,996,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,81}
+QuestValues = {(1,1),(2,6),(14,1),(21,1),(22,1),(35,1),(40,1),(41,1),(42,1),(43,1),(44,1),(50,1),(59,1),(60,1),(69,1),(72,1),(73,1),(74,1),(75,1),(80,1),(81,1),(82,1),(83,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(124,1),(133,1),(135,1),(136,1),(137,1),(144,1),(151,1),(152,1),(153,1),(154,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(216,1),(217,3),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(257,1),(279,1),(292,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={3031 Amount=72, 2871}},
+               5 Content={3425},
+               6 Content={3297},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="arianza\nthais", 2853}, 3502 Content={3031 Amount=100, 3031 Amount=66, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               1 Content={3504 Content={3507 String="arianza\ncarlin"}, 3502}, 
+               2 Content={2871, 3502 Content={3031 Amount=40, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               3 Content={3504 Content={3503 Content={3507}, 3507 String="arianza\nab'dendriel" Editor="Ari'fashion"}, 3577 Amount=3, 3504 Content={3507 String="arianza\nab'dendriel" Editor="Osito Cojo"}, 3504 Content={3507 String="arianza\nab'dendriel" Editor="Lord'Hanz"}, 3031 Amount=45, 3502}, 
+               4 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3504 Content={3507 String="Arianza\nedron\n" Editor="Funka"}, 3507 Editor="Arianza", 3502 Content={3504}}, 
+               5 Content={2869, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3284 RemainingUses=1, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3264, 3449 Amount=78, 3585 Amount=14, 3432, 3504, 2973 KeyNumber=3520, 3502 Content={3056 RemainingUses=200, 2869 Content={3035 Amount=46, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2650, 2659, 2659, 2659, 2659, 2659, 3507 Editor="Arianza"}}, 
+               6 Content={3504 Content={3507 String="arianza\nvenore" Editor="Arianza"}, 3504 Content={3507 String="arianza\nvenore"}, 3502}, 
+               7 Content={3583 Amount=4, 3502 Content={2854 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3275, 3275}}, 
+               8 Content={3027 Amount=1, 2854 Content={3046}, 3177 Charges=1, 2853, 3504 Content={3046, 3507 String="Arianza\nPort Hope" Editor="Venganzza"}, 3577 Amount=48, 3582 Amount=62, 2868, 3372, 3506 String="arianza\nport hope\n q pex mami voltea", 3502 Content={3463, 3031 Amount=100, 3031 Amount=100, 3507}}}

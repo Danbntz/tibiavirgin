@@ -1,0 +1,53 @@
+ID              = 10535140
+Name            = "Nava Thor"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-19-19-19)
+CurrentOutfit   = (130,0-19-19-19)
+LastLogin       = 1148087445
+LastLogout      = 1148087547
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,104608,0,116000,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,76971,1100,81854,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,395,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10976,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1095,1800,1118,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,37,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,54,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1299,1100,1428,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,7,10,11,12,15,20,25,26,27,29,30,31,42,44}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(54,1),(58,1),(59,1),(96,1),(97,1),(98,1),(125,1),(126,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3372}}
+
+Depots      = {0 Content={3502 Content={2853 Content={2854 Content={3285}, 3578 Amount=14, 3577 Amount=13}, 3504 Content={3507 String="Nava Thor\nThais"}, 3456}}, 
+               1 Content={3504 Content={3507 String="Nava Thor\nCarlin" Editor="Sub-Comandante"}, 3504 Content={3507 String="Nava Thor\ncarlin" Editor="Legendary sorcerer of zanera"}, 3504 Content={3507 String="Nava Thor\nCarlin" Editor="Etual"}, 3504 Content={3507 String="Nava Thor\ncarlin" Editor="Zapo colorado"}, 3502 Content={3147, 3056 RemainingUses=200, 3277 Amount=8, 3406, 3084 RemainingUses=250, 2870 Content={2985, 2882, 2985, 3377, 3283, 3546, 3283, 3283}, 3416, 3384, 3504 Content={3358, 3066, 3031 Amount=29, 3035 Amount=7, 2916, 3377, 3030 Amount=1, 3430, 3031 Amount=10, 3074}, 3492 Amount=65, 3065, 3093 SavedExpireTime=1796, 2816 String="The Great Creation BOOK TWO\n\nBut even at the culmination point of the creation Zathroth bundeled all his destructive powers to a weapon and pushed it with\nall the strength that he could muster into the heart of Tibiasula, whose existence he did not want to endure any more. And as the\ndivinity was weakened by the creation and without suspicion and resistance, the deadly attack penetrated to the core of her\nbeing and destroyed her. \nThe elements - fires, water, earth and air - were jerked out of their harmony and landed at the base of the column of time.", 3504 Content={3316, 3271, 3093 SavedExpireTime=1798, 3507 String="Nava Thor\nCarlin\n" Editor="Comandante-Marcos", 2920, 3453, 3456, 2853 Content={3289, 3316, 3452, 2969 KeyNumber=4600, 3012, 3045 RemainingUses=130}}, 3606 Amount=94, 3451, 2970 KeyNumber=4503, 2853 Content={3059}, 3293, 3598 Amount=4}}, 
+               3 Content={3502 Content={3084 RemainingUses=74, 3457, 3003, 3207 Amount=1, 3078, 3008, 2853 Content={3353, 3289, 3359}, 3003, 2867, 3457, 3509, 2991, 3003, 3457, 2853 Content={3289}, 3504 Content={3507 String="Nava Thor\n Ab'Dendriel" Editor="Comandante-Marcos", 3289, 2853 Content={3003, 2911 SavedExpireTime=2985, 2981, 2989, 2906, 2906, 2906, 2991}, 2853 Content={3098 SavedExpireTime=438, 2874 ContainerLiquidType=11, 3059, 3046}}, 3504 Content={3409, 3066, 3507 String="Nava Thor\n Ab'Dendriel" Editor="Comandante-Marcos"}, 2853 Content={3299, 3565, 3003}, 2857 Content={3349, 3459, 2819 String="Seems I fell in this hole and can't get out anymore. Unfortunatly there is no friend near to pull me up with a rope. What have I done to deserve this? What?", 3454}, 3504 Content={3349, 3375, 3375, 3563, 3289, 3565, 3456, 3308}, 3059}}, 
+               6 Content={3502 Content={3097, 3026 Amount=1, 3012, 3012, 3207 Amount=1}}}

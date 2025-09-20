@@ -1,0 +1,52 @@
+ID              = 11076752
+Name            = "Yamakasy Riv"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,79-82-94-116)
+CurrentOutfit   = (130,79-82-94-116)
+LastLogin       = 1148167900
+LastLogout      = 1148167954
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32550,31904,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,13871,0,17600,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,13353,1100,15179,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4922,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,13,2000,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,99,2000,150,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,3836,2000,6350,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,111,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(35,1),(59,1),(60,1),(61,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2868 Content={3588 Amount=2, 3577 Amount=13, 3723 Amount=4, 3031 Amount=20, 3582 Amount=1, 3003}},
+               4 Content={3357},
+               5 Content={3074},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={3552, 3277 Amount=1, 3504, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504}, 3507 String="mistrz sebolek\ncarlin" Editor="Kavon Ikar"}, 3507 String="Lord Vazfer\ncarlin" Editor="Tavo Zalath"}}}, 3507 String="kavon ikar\ncarlin" Editor="Mistrz Seba"}}, 3507 String="mistrz sebolek\ncarlin" Editor="Kerix Tikus"}, 3504 Content={3507 String="Yamakasy Riv\nCarlin" Editor="Yamakasy Riv"}, 3172 Charges=3, 3505 String="Para ke la lees si no es para ti\n\npero ya ke lo hiciste agregame a tus VIP's\n\n..:::LoRd AiDeN:::.." Editor="Lord Aiden", 2853 Content={2853, 2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853}}}}}, 2920, 3504 Content={3031 Amount=87, 3035 Amount=3}, 3504, 3504 Content={3507 String="Macius!!! \nCo sie stao??\nCo sie stao??\nCo sie stao??\nCo sie stao??\nCo sie stao?" Editor="Yamakasy Riv", 2973 KeyNumber=3520, 3504 Content={3003, 3003, 3003, 3003, 3003, 3003}, 2955, 3457, 3459}, 3504 Content={3430, 3378, 3552, 3374, 3374, 3276}, 3504 Content={2874, 2874, 2874}}}, 
+               2 Content={3502}}

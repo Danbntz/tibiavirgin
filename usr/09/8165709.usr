@@ -1,0 +1,56 @@
+ID              = 8165709
+Name            = "Netsjoker"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,0-19-0-0)
+CurrentOutfit   = (130,0-19-0-0)
+LastLogin       = 1136576380
+LastLogout      = 1136577199
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,6]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1188632,0,1238400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,257810,3000,582400,1600)
+Skill = (2,559,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,37,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1345,1345,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,228073,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,69,0,10,0,0,0,0,0,0,0,144187,1100,151740,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,31,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,35,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9088,1100,9757,20)
+Skill = (14,0,1200,0,0,0,329,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(35,1),(53,1),(54,1),(59,1),(60,1),(67,1),(68,1),(70,1),(71,1),(93,1),(94,1),(95,1),(106,1),(107,1),(113,1),(114,1),(115,1),(125,1),(126,1),(137,1),(151,1),(152,1),(190,1),(191,1),(226,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2868 Content={3003, 3031 Amount=34, 2853 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3606 Amount=18, 3457, 3606 Amount=100, 3503 Content={3507 String="Netsjoker\ncarlin"}, 2866 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2868 Content={2870 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               5 Content={3436},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3504 Content={2853 Content={2853}, 3507 String="Netsjoker\ncarlin\n"}, 3503 Content={3507}, 3507 String="Netsjoker\nCarlin"}, 3504 Content={3504 Content={3504 Content={3507 String="Netsjoker\nCarlin\n\n"}, 3504 Content={3507 String="netsjoker\ncarlin"}, 2853, 3507 String="netsjoker\ncarlin"}, 3504 Content={2853 Content={2853}, 3507 String="netsjoker\ncarlin"}, 3503 Content={3504 Content={3504 Content={3503 Content={3504 Content={2853, 3507 String="netsjoker\ncarlin"}, 3507, 3503, 3507}, 3507 String="netsjoker\ncarlin"}, 3504 Content={3507 String="netsjoker\ncarlin\n"}, 2853, 3507 String="Netsjoker\ncarlin"}, 3507 String="netsjoker\ncarlin"}, 3505 String="Netsjoker here", 3446 Amount=81, 3349, 3349, 3507 String="netsjoker\ncarlin"}, 3502 Content={2853 Content={3291, 2854 Content={3147, 3147, 3147, 3147, 3147}, 2853 Content={2854 Content={3052, 3052, 3052, 3052, 3052, 3052, 3052}, 3093, 3093, 3092, 3092, 3092}, 2989, 2955, 2856 Content={3004, 2969 KeyNumber=4603, 3050}}, 2865 Content={3035 Amount=3, 3043 Amount=1, 3035 Amount=100, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2870 Content={2870}, 2867}, 2872 Content={3272, 3430, 3291, 3412, 3425, 3492 Amount=100, 3492 Amount=35, 3658, 3492 Amount=100, 3492 Amount=100}, 2853 Content={2970 KeyNumber=4502, 2857 Content={2920 SavedExpireTime=598}, 2973 KeyNumber=3520, 2991, 2969 KeyNumber=5000, 2970 KeyNumber=4503, 2969 KeyNumber=3033}, 2866 Content={3264, 3456, 3353, 3430, 3409}, 2853 Content={2868 Content={3579 Amount=3, 3585 Amount=35, 3595 Amount=2, 3590 Amount=13}, 3583 Amount=2, 3577 Amount=12, 3585 Amount=100, 3578 Amount=73, 3586 Amount=39, 3598 Amount=82, 3026 Amount=3}, 2868 Content={3421}, 2868 Content={3298 Amount=10, 3299, 3299, 3449 Amount=8, 3456, 3046, 3374, 3285, 3307, 2920 SavedExpireTime=166, 2920}, 2865 Content={3084 RemainingUses=250, 2853 Content={3008, 2853 Content={3085 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3056 RemainingUses=200, 3084 RemainingUses=250}, 3008, 3054 RemainingUses=65, 3085 RemainingUses=200}, 3085 RemainingUses=200, 3083 RemainingUses=150, 3008, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200}, 3084 RemainingUses=250, 3085 RemainingUses=200, 3008, 3083 RemainingUses=150, 3056 RemainingUses=200, 3085 RemainingUses=200, 3084 RemainingUses=250, 3028 Amount=3, 3017, 3030 Amount=5, 3008, 3077, 3084 RemainingUses=250, 3012, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

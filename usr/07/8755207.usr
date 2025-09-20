@@ -1,0 +1,61 @@
+ID              = 8755207
+Name            = "Prince Jared Alexander"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,125-114-0-114)
+CurrentOutfit   = (134,125-114-0-114)
+LastLogin       = 1148024588
+LastLogout      = 1148025942
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32611,31904,9]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,208617,0,232500,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,678345,1100,708148,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,193,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,59489,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,1800,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,39838,1800,40105,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,796,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,34,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,285,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6035,1100,6600,20)
+Skill = (14,0,1200,0,0,0,682,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,2,0,46,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,6,8,9,10,16,17,18,20,27,29,30,42,44,45,87,88,89}
+QuestValues = {(16,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(58,1),(60,1),(61,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(113,1),(125,1),(126,1),(190,1),(191,1),(199,1),(223,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3012},
+               3 Content={2854 Content={3191 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 2991, 3446 Amount=8, 3286, 3031 Amount=7}},
+               4 Content={3370},
+               5 Content={3285},
+               6 Content={3432},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={3483, 3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 3065, 2854 Content={2854, 2854 Content={3026 Amount=1, 3097, 3008, 3027 Amount=2, 3384, 3085 RemainingUses=200, 3052, 3012}}, 2853 Content={3446 Amount=10, 2874 ContainerLiquidType=11, 3448 Amount=5, 3350}, 3483, 3483, 3483, 3483, 3655}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={2973 KeyNumber=3520, 2857 Content={}, 2853 Content={3276, 3276, 3276, 3276, 3276}, 2867 Content={3003, 3003, 2867 Content={2871 Content={3673, 3673, 3606 Amount=5, 3605 Amount=23, 3586 Amount=5, 3592, 3601 Amount=3, 3598 Amount=5, 3600 Amount=10, 3592, 3587 Amount=1, 3593, 3590 Amount=3}}, 2647, 3454}, 2469 Content={3432, 2869 Content={3160 Charges=1}, 2865 Content={}}, 2469 Content={2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 3188 Charges=1, 2854 Content={3191 Charges=2, 3191 Charges=2}}, 2854 Content={2853 Content={3012, 3012, 3285, 3483}, 3446 Amount=16, 3447 Amount=4, 2973 KeyNumber=3520, 2991, 3059 String="", 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2901 ContainerLiquidType=0, 2955}}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={3297, 3277 Amount=2, 2874 ContainerLiquidType=0, 3457, 2853 Content={3457, 2469 Content={3046 SavedExpireTime=0, 3349, 3349}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}, 2469 Content={}}, 2469 Content={}, 2469 Content={2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}}, 2469 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2469 Content={2469 Content={3056 RemainingUses=200, 2854 Content={3026 Amount=9, 3301, 3301, 3310, 3457, 3582 Amount=61}, 2862 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 2469 Content={3056 RemainingUses=194, 3097 SavedExpireTime=2365, 3056 RemainingUses=200, 2667, 2667, 2667, 2653, 2893 ContainerLiquidType=0, 2876 ContainerLiquidType=0}, 2469 Content={3045 RemainingUses=200, 3056 RemainingUses=200, 3356, 3586 Amount=2, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2469 Content={3275, 3003}}, 2853 Content={3592, 3587 Amount=5, 3593, 3586 Amount=5, 3056 RemainingUses=200, 3050 SavedExpireTime=0, 3098 SavedExpireTime=0, 2653}}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3502 Content={}}}

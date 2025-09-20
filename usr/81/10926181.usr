@@ -1,0 +1,57 @@
+ID              = 10926181
+Name            = "Knight Chimera"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,114-114-114-114)
+CurrentOutfit   = (131,114-114-114-114)
+LastLogin       = 1146563291
+LastLogout      = 1146563383
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,93199,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,44585,3000,64000,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,54573,1100,59240,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,53,0,10,0,0,0,0,0,0,0,31438,1100,32632,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(84,1),(85,1),(93,1),(94,1),(95,1),(100,1),(106,1),(107,1),(125,1),(126,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,1),(232,1),(249,2),(250,2)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               3 Content={2853},
+               4 Content={3370},
+               5 Content={3280},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2924 SavedExpireTime=203}}
+
+Depots      = {0 Content={3502 Content={2854 Content={3304, 3349}, 1781 Amount=4, 3410, 3410, 3354, 2865 Content={3446 Amount=13, 3031 Amount=95, 3375, 3447 Amount=7, 3308, 3425, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3446 Amount=3, 3349, 3059, 3375}, 2854 Content={3349, 3375, 3492 Amount=69, 3349}, 2853, 2854 Content={3003, 2989, 3349, 3289}, 2854 Content={3446 Amount=48, 3056 RemainingUses=200, 3446 Amount=100, 3446 Amount=100, 3349, 3425, 3349, 3425}, 2854 Content={3349, 3266}, 2854 Content={2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3266, 3349, 3160 Charges=1}, 2866 Content={3012, 3425, 3349, 3377, 3421, 3148 Charges=2, 3425, 3198 Charges=3, 3316, 3457}, 3446 Amount=100, 3267, 3457, 3003, 3582 Amount=33, 2853 Content={2854 Content={3457, 3003, 3457, 3457, 3457, 3308, 3308, 3595 Amount=6, 3597 Amount=3, 3593}, 3457, 3003, 3457, 3003, 3291, 3267, 3453}, 3483, 3577 Amount=26}}, 
+               2 Content={3502 Content={}}, 
+               4 Content={3502 Content={3031 Amount=40, 3035 Amount=5, 3350}}, 
+               6 Content={3502 Content={3577 Amount=20}}, 
+               7 Content={3502 Content={3035 Amount=4}}, 
+               8 Content={3502 Content={3582 Amount=6, 3577 Amount=22, 3035 Amount=2, 3031 Amount=88}}}

@@ -1,0 +1,59 @@
+ID              = 9822512
+Name            = "Harlic"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,114-120-95-115)
+CurrentOutfit   = (134,114-120-95-115)
+LastLogin       = 1146827381
+LastLogout      = 1146830850
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32645,31919,8]
+PlayerkillerEnd = 0
+
+Skill = (0,47,0,1,0,0,0,0,0,0,1,1537182,0,1626200,100)
+Skill = (1,50,0,0,0,0,0,0,0,0,0,1938703,1100,2050079,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,945,1205,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,116,116,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,860,860,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,96057,1500,131168,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,32,2000,90,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,64474,2000,102350,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1887,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,259,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5385,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,62,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,11,13,16,20,21,24,28,29,30,33,39,44,45,81,88}
+QuestValues = {(14,1),(16,1),(59,1),(68,1),(71,1),(76,1),(77,1),(78,1),(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(110,1),(111,1),(112,1),(125,1),(126,1),(128,1),(129,1),(130,1),(131,1),(132,1),(137,1),(138,1),(139,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(206,1),(209,1),(217,3),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2),(269,1),(324,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2872 Content={3003, 3457, 3031 Amount=65, 3052, 3052, 2854 Content={2874 ContainerLiquidType=10, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3198 Charges=5, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1}, 3191 Charges=1, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1}, 3160 Charges=1, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3155 Charges=1, 2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}}},
+               4 Content={3567},
+               5 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3506 String="Harlic\nDarashia\n\nbom to escrevendo pra todos meus amigos, pois por motivos familiares q o danilo depois vai te explicar.... bom quero q saiba q eu te considero muito fabao e mesmo pensando no kill fabao foi algo q marcou bastante no tibia pra mim... tb te amo como um irmão e espero q esteja tudo bem, ta na minha info la.... agente se ve no msn vai ser raro mas é isso, preciso arruamr minha vida se n ja sabe né...... cya we kill fabao =)" Editor="Brother Ent", 2632, 2664 RemainingExpireTime=399, 3114 Amount=7, 2856 Content={3058}, 3377, 3377, 3062, 3062, 2903, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3457, 3003, 3003, 3003, 2656, 2653, 2653, 2653, 2653, 3308}}, 
+               8 Content={3504 Content={3507 String="harlic \nport hope"}, 3502 Content={}}}

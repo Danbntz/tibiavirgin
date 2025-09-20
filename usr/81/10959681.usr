@@ -1,0 +1,59 @@
+ID              = 10959681
+Name            = "Sam Lorld"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,79-116-99-38)
+CurrentOutfit   = (134,79-116-99-38)
+LastLogin       = 1148053348
+LastLogout      = 1148053426
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32342,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,595551,0,601800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,86100,3000,193600,1600)
+Skill = (2,575,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,121,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,89048,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (9,60,0,10,0,0,0,0,0,0,0,62020,1100,64064,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,100,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,206,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,29}
+QuestValues = {(18,1),(37,1),(55,1),(62,2),(69,1),(77,1),(78,1),(106,1),(107,1),(109,1),(140,1),(141,1),(144,1),(151,1),(152,1),(190,1),(191,1),(192,1),(217,3),(220,1),(221,1),(223,1),(225,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3084 RemainingUses=88},
+               3 Content={2854 Content={3457, 3003}},
+               4 Content={3381},
+               5 Content={3436},
+               6 Content={3324},
+               7 Content={3372},
+               8 Content={3556}}
+
+Depots      = {0 Content={3304, 3418, 3279, 3377, 3054 RemainingUses=199, 3504 Content={2854 Content={2920 SavedExpireTime=598, 2920, 2920, 2920, 2922 SavedExpireTime=69}, 2854 Content={3586 Amount=1, 3589 Amount=8, 3600 Amount=1, 3723 Amount=6, 2920 SavedExpireTime=326, 2875, 2911 SavedExpireTime=2110}, 2854 Content={3377, 3446 Amount=4, 3457}, 3375, 3552, 3425}, 3279, 2854 Content={2854}, 2854 Content={3483, 3492 Amount=31, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3502 Content={2854 Content={3031 Amount=49, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2864 Content={3035 Amount=28, 3035 Amount=100}, 2868 Content={2854, 3147, 3147, 3447 Amount=10, 3350}}, 2854 Content={2872 Content={3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3582 Amount=100, 3593, 3589 Amount=7, 3593, 3587 Amount=66, 3583 Amount=3, 3586 Amount=23, 3593, 3593, 3578 Amount=100, 3582 Amount=100, 3723 Amount=10, 3602 Amount=3, 3590 Amount=3, 3593, 3588 Amount=54, 3597 Amount=6, 3582 Amount=100}, 2854 Content={3349, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 2865 Content={3446 Amount=56, 3287 Amount=12, 3447 Amount=2, 3449 Amount=2, 3448 Amount=24}, 3349}, 2473 Content={3075, 2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evil!", 2473 Content={2969 KeyNumber=3002, 2969 KeyNumber=3003, 2969 KeyNumber=3007, 2969 KeyNumber=3005, 2969 KeyNumber=4055, 2968 KeyNumber=3940, 2969 KeyNumber=3600, 2969 KeyNumber=4600, 2970 KeyNumber=3142, 2969 KeyNumber=3350}, 2469 Content={3188 Charges=1, 3174 Charges=5, 3177 Charges=1, 2856 Content={3270}}}, 2472 Content={3345, 2952, 3059, 3059, 3059, 3059, 3077, 3059, 2854 Content={2868 Content={3093, 3050 SavedExpireTime=1690, 3097 SavedExpireTime=1589, 3093, 3098, 3051 SavedExpireTime=510}, 3056 RemainingUses=200, 2874 ContainerLiquidType=11, 3081 RemainingUses=5, 3004, 3084 RemainingUses=250, 3046, 3083 RemainingUses=95, 3084 RemainingUses=250, 3054 RemainingUses=63, 2857 Content={3093 SavedExpireTime=1796, 3052 SavedExpireTime=1198, 3093 SavedExpireTime=1794, 3052 SavedExpireTime=1170, 3053 SavedExpireTime=12, 3098 SavedExpireTime=449, 3052 SavedExpireTime=1197, 3093 SavedExpireTime=1792}, 3077, 3046, 3085 RemainingUses=200, 3084 RemainingUses=250, 3056 RemainingUses=200, 3083 RemainingUses=150, 3054 RemainingUses=200, 3004, 3083 RemainingUses=113}, 2906, 3298 Amount=1, 2906, 3045 RemainingUses=199}, 2472 Content={2854 Content={2854 Content={2869, 2867, 2866, 2854, 2854, 2854, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2854, 2854, 2854, 2854}, 2866 Content={2866, 2854, 2854, 2854, 2854, 2866, 2866, 2866, 2854, 2854, 2854 Content={3264}, 2854, 2854, 2854, 2854, 2866, 2866, 2854 Content={2869, 2854, 2867, 2865}, 2854, 2854}, 2866 Content={2854, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2854, 2854, 2866, 2866, 2866, 2866, 2866, 2854, 2866, 2866, 2866}}, 2854 Content={2656, 2647, 2653, 2667, 2653, 2667, 2644, 2659, 2656, 2656, 2659, 2656, 2644, 2644, 2656, 2647, 2659, 2656, 2656, 2868 Content={2667, 2650, 2650, 2650, 2667, 2659, 2656}}, 2854 Content={3384, 3372, 3375, 3377, 3377, 3377, 3375, 3375, 3375, 3375, 3552, 3377, 3377, 3377}, 2854 Content={3017, 3503 Content={3503 Content={3507 Editor="Sam Lorld"}, 3503 Content={3367, 3507 String="Sam Lorld\nThais\n" Editor="Sam Lorld"}, 3507 String="Sam Lorld\nThais" Editor="Sam Lorld"}, 3503 Content={2874 ContainerLiquidType=6, 2873 ContainerLiquidType=2}, 3310, 3299, 3505 Editor="Sam Lorld", 3505 String="Sam Lorld\nI'm huting rots\nleave now\nThenx :)\n" Editor="Sam Lorld", 2854 Content={3425, 3421, 3425, 3441, 3425, 2469 Content={3316, 2469 Content={3284 RemainingUses=1, 3275, 2469 Content={2469}}, 3316, 3316, 3316, 3316, 3316, 3375}}, 3289, 3289, 3310}}, 2480 Content={3412, 3658, 2469 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2469 Content={3457, 3457, 3457, 2472 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}}, 3505 Editor="Sam Lorld", 3026 Amount=1, 2901, 3551}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3505 Editor="Mamo en Zanera"}}, 
+               3 Content={3502}, 
+               5 Content={3003, 3503, 3502}, 
+               6 Content={3502}, 
+               7 Content={3503 Content={3507 String="Sam Lorld\nThais" Editor="Sam Lorld"}, 3502}, 
+               8 Content={3003, 3457, 3457, 3502}}

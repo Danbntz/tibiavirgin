@@ -1,0 +1,55 @@
+ID              = 13082810
+Name            = "Choancito"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,77-77-82-77)
+CurrentOutfit   = (128,77-77-82-77)
+LastLogin       = 1148247982
+LastLogout      = 1148249014
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31679,6]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,158902,0,179400,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,96090,1100,102403,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,485,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12771,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,146,2000,210,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,1,2000,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,463,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,6,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,76,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,539,1100,559,20)
+Skill = (14,0,1200,0,0,0,268,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,10,11,15,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(97,1),(98,1),(125,1),(126,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3054 RemainingUses=164},
+               3 Content={2865},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={2865 Content={3557, 3359, 2970 KeyNumber=3012, 3052 SavedExpireTime=240, 3052 SavedExpireTime=1080, 3189 Charges=1, 3160 Charges=1, 3425, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 2853 Content={2853 Content={3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}}}, 2854 Content={3031 Amount=37, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=49}, 2864 Content={3578 Amount=3, 3586 Amount=2, 3577 Amount=25, 3582 Amount=9}, 2865 Content={3074, 3052, 2969 KeyNumber=3033, 3097 SavedExpireTime=3595, 3097 SavedExpireTime=3585}, 2865 Content={3070, 3305, 3003, 3483, 2969 KeyNumber=3033, 3177 Charges=1, 3425, 2969 KeyNumber=3033, 2806}}}}

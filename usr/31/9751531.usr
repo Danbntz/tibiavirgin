@@ -1,0 +1,51 @@
+ID              = 9751531
+Name            = "Nashton"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,58-0-114-0)
+CurrentOutfit   = (133,58-0-114-0)
+LastLogin       = 1147720778
+LastLogout      = 1147720797
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,16374,0,17600,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,13522,1100,15179,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3795,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,72,1800,140,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2716,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,15,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,327,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,10,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(60,1),(61,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3425, 3046 SavedExpireTime=1781, 3413, 3483, 3492 Amount=78, 3003}},
+               4 Content={3562},
+               6 Content={3066},
+               9 Content={3004},
+               10 Content={3031 Amount=25}}
+
+Depots      = {1 Content={2920 SavedExpireTime=456, 3323, 3504 Content={3507 String="Nashton\nCarlin" Editor="Charmex"}, 2955, 3313, 2872 Content={2469 Content={2656, 2656, 2853 Content={2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evil!", 2969 KeyNumber=3350}, 2859 Content={2653, 2653, 2653}, 2469 Content={2853 Content={3736 Amount=1, 1781 Amount=1}, 2472}, 2469 Content={3374}}, 2469 Content={3084 RemainingUses=171, 3003, 3559}, 2469, 2469 Content={3590 Amount=37, 3590 Amount=46, 2656, 3506 String="Warning!\n\nThe monthly rent of 1400 gold\nfor your house \"Magician's Alley 8\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1400 gold\nfor your house \"Magician's Alley 8\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house."}, 2469 Content={3447 Amount=63, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2656, 3658, 2853, 3003}, 2469 Content={3003}, 2469 Content={3077, 3658, 2853 Content={2853 Content={3447 Amount=14, 3308, 3003, 3483}}, 2868 Content={3078, 3078, 3078, 3078, 3078, 2472 Content={3504 Content={3447 Amount=91, 3012}, 2969 KeyNumber=4600, 2969 KeyNumber=3610, 2969 KeyNumber=3650, 2969 KeyNumber=3008, 2955}, 2659, 3448 Amount=10, 3310, 3551, 3563, 3327}, 2482 Content={3045 RemainingUses=200, 2949, 3447 Amount=100, 3447 Amount=100, 3298 Amount=1, 3505 String="SO STYFFLER PERO ME DICEN SGAYFFLER", 2880, 2880, 2880, 2880, 2880, 2880, 2880}, 3077, 2821 String="Diary of Hengis Wulfson\n...\nI can only hope I can escape the \ncyclopes someday. For now I have \noccupied their chief with an attempt \nto learn to read and write, but for \nhow long?\nI'm so desperate. \nWhat a foolish idea to travel here to \nsearch the famous treasures of this \nancient, knightly order. \nI wish I had never heard about it. \nI wish I never had sung thant song. \nNo clue how many unfortunate souls I have lured to death with it.\n", 2857 Content={3504 Content={3504, 1781 Amount=5}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magician's Alley 8\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853 Content={3509, 3740 Amount=1, 3056 RemainingUses=200, 3509, 3147, 3507 String="utevo lux\nexura\n"}, 3129}}, 2469 Content={3590 Amount=5, 3598 Amount=16, 3600 Amount=6, 3590 Amount=100, 3208}, 3285, 3147, 3552, 3287 Amount=2, 3286}, 3502}, 
+               8 Content={3502 Content={}}}

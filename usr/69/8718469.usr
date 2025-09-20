@@ -1,0 +1,54 @@
+ID              = 8718469
+Name            = "Anya Etena"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-0-0-0)
+CurrentOutfit   = (129,0-0-0-0)
+LastLogin       = 1122385410
+LastLogout      = 1122385440
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,12955,0,13000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,16160,1400,17512,1600)
+Skill = (2,27,205,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,65,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,5962,1100,6400,100)
+Skill = (7,39,0,10,0,0,0,0,0,0,0,4705,1100,4934,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,342,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,233,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,8946,1100,9757,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,42,51}
+QuestValues = {(17,1),(18,1),(22,1),(35,1),(59,1),(60,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={},
+               3 Content={2853 Content={3031 Amount=5, 2874 ContainerLiquidType=0}},
+               4 Content={3377},
+               5 Content={},
+               6 Content={3350},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3447 Amount=94}}
+
+Depots      = {1 Content={3349, 3174 Charges=5, 3506 String="Aeradez Fardox \ncarlin\nWitamy!\ntibia.com i tibia.pl obchodzom swoje 10 urodziny powstania z tej okazi zostales wytypowany na szczesciarza z pakiem \nZakladamy za darmo w nasze urodziny paka za darmo !!!!!!!\npodaj swoje dane postaci:\nmiasto?\nserwer?\nnazwe postaci?\naccont i pasword\na osobiscie za dormo gm zalorzy ci paka\nspiesz sie masz 24h a wyslanie na ten emajl wszysstkich danych !!!\ntibia_pacc_winner@poczta.fm\n1995-2005\n", 3658, 3658, 2955, 3502 Content={2868 Content={3031 Amount=20, 3031 Amount=40, 3031 Amount=100, 3031 Amount=100}, 3658, 3377, 2853 Content={3590 Amount=30}, 2853 Content={3277 Amount=1, 3378, 3505 String=""}, 2853 Content={3430, 3277 Amount=3, 3483, 3412, 3277 Amount=3, 3350, 1781 Amount=3}, 2853 Content={2853 Content={3430, 3374, 3286, 3565, 3362, 3462, 3337, 3337}, 3286, 3430}}}}

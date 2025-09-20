@@ -1,0 +1,62 @@
+ID              = 9698436
+Name            = "Lady gise"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (142,115-117-120-116)
+CurrentOutfit   = (142,115-117-120-116)
+LastLogin       = 1148251448
+LastLogout      = 1148251876
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32621,32744,5]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,671344,0,717600,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1393936,1100,1395159,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,47,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,55711,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,17857,1800,22252,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,289,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1800,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,1744,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4544,1100,4909,20)
+Skill = (14,0,1200,0,0,0,963,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,179,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,7,8,9,10,11,12,14,16,17,18,20,25,27,28,29,30,33,38,39,42,44,45,81,84,85,87,88,89}
+QuestValues = {(1,1),(2,6),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(41,1),(42,1),(43,1),(44,1),(46,1),(69,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(137,1),(151,1),(152,1),(153,1),(190,1),(191,1),(211,4),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3198 Charges=5, 3577 Amount=4, 3152 Charges=1, 2871 Content={3147, 3191 Charges=2, 3200 Charges=3, 3191 Charges=2, 3200 Charges=2, 3191 Charges=1, 3200 Charges=2, 3200 Charges=1, 3200 Charges=1, 3190 Charges=1}}},
+               4 Content={3380},
+               5 Content={3418},
+               6 Content={3067},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3031 Amount=16}}
+
+Depots      = {0 Content={3577 Amount=9, 3189 Charges=2, 3586 Amount=1, 3483, 3452, 2991, 2854 Content={3160 Charges=1, 3155 Charges=1}, 3012, 3188 Charges=2, 2872 Content={3586 Amount=13, 3483, 3148 Charges=1, 3483, 3384, 3384, 3483, 3425, 3093, 2853, 3421, 2853, 3056 RemainingUses=200, 3592, 3264, 2853 Content={3448 Amount=5, 3350}, 3209, 3308, 3003, 3457}, 3463, 3601 Amount=1, 3351, 2853 Content={3160 Charges=1, 3200 Charges=3, 3160 Charges=1, 3160 Charges=1, 3191 Charges=2, 3377, 3059, 3003}, 3505, 3592, 3085 RemainingUses=200, 3351, 2991, 3052, 3148 Charges=2, 3507 Editor="Lady gise", 3506 String="Lady gise\nthais\n\nHola mi amor, te escribo por que me tube que ir, lo siento :(. Te amo, plx nunca lo olvides plx, eres lo que mas quiero en todo el mundo. Atte: Jorge (tu bebe) \n\nPsd. Te amooooooo con todo mi corazonnnnnnnnn!!!\n\nPsd2. Te extraño." Editor="Raskolnicof", 3506 String="lady gise\nthais\n\nWe are bidding on the Tibianic 35k. If you are interested in renting a room. Write back a letter.\n\n~Horobi" Editor="Horobi Ascendant", 3483, 3502 Content={3085 RemainingUses=20, 3506 String="lady gise\nthais\n\nI'm having second thoughts on the guild hall, i jsut saw that the rooms are pretty tiny... I think its best to withdraw.\n\n~horobi" Editor="Horobi Ascendant", 3506 String="lady gise\nthais\n\nParcel me 1.4k, for the guild hall. If i dont get the guild hall, i'll parcel your money back. Parcel to me at thais\n\n~horobi" Editor="Horobi Ascendant", 3457, 3505, 3056 RemainingUses=200, 3552, 3177 Charges=1, 3483}}, 
+               1 Content={3504 Content={3046 SavedExpireTime=2281, 2882, 3507 String="lady gise\ncarlin" Editor="Lady gise", 2853}, 3035 Amount=51, 3035 Amount=100, 3583 Amount=2, 3446 Amount=91, 3503 Content={2393, 2969 KeyNumber=3033, 3215 Amount=1, 3054 RemainingUses=200, 3177 Charges=1, 2991, 3447 Amount=6, 3409, 3457, 3507}, 3734 Amount=1, 3504 Content={3297, 3507 String="lady gise\ncarlin" Editor="Crema Naiz", 3457, 3446 Amount=4, 3174 Charges=5, 2854 Content={3074, 3075, 3557}}, 3504 Content={3357, 3385, 3505 String="gise tu monita la dormir en casa de shinagari pok la casa kike la tiene y estaba ocupado y no pudo invitarte heheh bueno mañana te invita, nos vemos xD .ahi jugue con tu monita\n\n\n lalo\n" Editor="Lady gise", 3084 RemainingUses=250, 3007, 3049 SavedExpireTime=298, 3287 Amount=2, 3507 String="Lady Gise\nCarlin" Editor="Jeanette Loca"}, 3504 Content={3275, 3391, 3003, 2973 KeyNumber=3520, 3492 Amount=5, 2992 Amount=5, 3599 Amount=1, 3358, 3457, 3353}, 3504 Content={3457, 3547 Amount=4, 3377, 3273, 3504 Content={2869, 3507 String="Lady gise\nCarlin\n\n\n" Editor="Sman Dan"}, 3506 String="Lady Gise\nCarlin\nGuiselle my dad gife mer some time so u have like 3 weeks :PPPBut dont wory if it take too long i give u extra time\n\n" Editor="Soda pop of the boo", 3357, 3507 String="Lady gise\ncarlin" Editor="Sir Salvador", 2853 Content={3152 Charges=1, 3507 String="gracias \n;)" Editor="Sir Salvador"}}, 3504 Content={3446 Amount=5, 3425, 3447 Amount=100, 3084 RemainingUses=249, 3085 RemainingUses=101, 3030 Amount=1, 2868 Content={3409, 3449 Amount=1, 3350, 3285, 3353, 2969 KeyNumber=5000}, 3093, 3507 String="Lady gise \nCarlin\n" Editor="Lady gise", 3008}, 2473 Content={3582 Amount=12, 3483, 3661, 3661, 3661, 3668, 3583 Amount=1, 3492 Amount=31, 3507 String="eem hermanito plz no me use estas uhs atte su manita ke lo kere mushio =*\n " Editor="Lady gise"}, 3736 Amount=1, 3447 Amount=29, 3483, 2473 Content={3357, 3425}, 3504 Content={3658, 3083 RemainingUses=150, 3065, 3084 RemainingUses=250, 3350, 2853, 3505 String="hermanita la kiero musho y la extraño nunka lo olvide shikita bonita ke es la mejor hermanita ke he tenido \natte:\nspikesinfu (su hermanito ke la kiere musho)" Editor="Lady gise"}, 3070, 3483, 3504 Content={3449 Amount=2, 3287 Amount=1}, 2853 Content={3030 Amount=1, 2853, 3552, 2968 KeyNumber=3940, 3655, 3661, 3277 Amount=1, 3028 Amount=1}, 3504 Content={3507, 2853, 3598 Amount=8, 3507 String="hermanita linda solo keria decirle ke la kiero mucho y ke la extraño cuidese!!!" Editor="Lady gise", 2853 Content={3551}, 3507 String="Lady gise\nCarlin" Editor="Lady gise"}, 3504 Content={3507 String="lady gise\ncarlin" Editor="Brocholas Kitad"}, 3504 Content={3507 String="Lady Gise\nCarlin" Editor="Soda pop Student"}, 3504 Content={2867, 2871, 3658, 3606 Amount=9, 3507 String="Lady gise \nCarlin" Editor="Lord'chiken"}, 3504 Content={2853, 3003, 3507 String="lady gise\ncarlin\n\nmi ultimo regalo...mi arma...y mis sd\ncuidate..bye!" Editor="Death trooper", 3279}, 3504 Content={3507 String="lady gise\ncarlin" Editor="Spikesinfu"}, 3504 Content={3655, 3593, 3595 Amount=4, 3587 Amount=4}, 3502 Content={3097, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3031 Amount=87, 3492 Amount=65, 2868 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3097 SavedExpireTime=3599, 3007}}, 
+               2 Content={3502}, 
+               3 Content={3277 Amount=5, 3582 Amount=3, 3502}, 
+               4 Content={3502}, 
+               5 Content={2869 Content={2866 Content={2866, 2866}, 3557}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3582 Amount=91, 3577 Amount=100, 3577 Amount=100, 3556, 3598 Amount=2, 3582 Amount=100, 3556, 2864 Content={2864, 2864, 2864, 2864}, 3590 Amount=3, 2795, 2872, 3586 Amount=4, 3577 Amount=100, 3003, 3582 Amount=100, 3577 Amount=100, 3406, 3457, 3035 Amount=23, 3587 Amount=17, 3589 Amount=5, 3577 Amount=100, 3502 Content={2815, 2835, 2834 String="hola mi amor t mando estas cocodriels boots porke t kiero caleta chau =**\nbesos t kiere Lady gise =)" Editor="Lady gise", 2906, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=3, 3198 Charges=4, 3198 Charges=1, 3198 Charges=4, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}}

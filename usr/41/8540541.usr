@@ -1,0 +1,59 @@
+ID              = 8540541
+Name            = "Dan'Smith"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,114-92-114-114)
+CurrentOutfit   = (134,114-92-114-114)
+LastLogin       = 1147403733
+LastLogout      = 1147404771
+StartPosition   = [32649,31925,11]
+CurrentPosition = [33223,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,116356,0,135100,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,189301,1100,193759,1600)
+Skill = (2,218,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,425,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14728,1500,17099,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,67,1800,84,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,1,1800,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,384,1800,593,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,8800,1800,12334,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,87,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1113,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,8,9,16,18,25,29,30,33,38,39,42,44,45,56,76,82,84,88}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(37,1),(67,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(111,1),(112,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(217,3),(224,1),(257,1),(292,1),(333,1)}
+Murders     = {1145041608,1145047418}
+
+Inventory   = {1 Content={3373},
+               2 Content={3572},
+               3 Content={2866},
+               4 Content={3357},
+               5 Content={3425},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2853, 3316, 3274, 3504 Content={3507 String="dan'smith\nthais\n"}, 3504 Content={3507 String="dan'smith\nthais"}, 3464, 2854, 3504 Content={2854 Content={2854}, 2866 Content={2970 KeyNumber=3800}, 2854}, 3502 Content={2853, 3349, 3307, 2865 Content={2969 KeyNumber=3600, 3054 RemainingUses=165, 2854 Content={2920, 2920, 2920 SavedExpireTime=599, 2920}}, 2991, 3449 Amount=2, 3483, 3453}}, 
+               1 Content={3502}, 
+               2 Content={3279, 3412, 2853, 3504 Content={3507 String="Dan'Smith\nkazordoon" Editor="Chuysf"}, 3504 Content={3507 String="dan'smith\nkazordoon" Editor="Luiz el Druida"}, 3504 Content={3507 String="dan'smith\nkazordoon"}, 3504 Content={3507 String="dan'smith\nkazordoon"}, 3504 Content={3507 String="dan'smith\nkazordoon", 3039, 3483}, 3502 Content={2853 Content={3330, 3330, 3330, 3330, 3558, 3349}}}, 
+               3 Content={3289, 3336, 3572, 3504 Content={3507 String="Dan'Smith\nab'dendriel" Editor="Flaver Flow"}, 3377, 3504 Content={3507 String="dan'smith\nab'dendriel" Editor="Infernal Elf"}, 3502 Content={3504 Content={3507 String="infernal elf\nab'dendriel " Editor="Dan'Smith"}}}, 
+               4 Content={3504 Content={3507 String="dan'smith\nedron\n", 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 3502 Content={3473, 3276}}, 
+               5 Content={2853 Content={3052 SavedExpireTime=1197}, 3031 Amount=35, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3054 RemainingUses=200, 3483, 3035 Amount=3, 3504 Content={3507 String="Dan'Smith\ndarashia" Editor="Xarth Deon"}, 3046 SavedExpireTime=2997, 3266, 3059, 2874, 2874, 2874, 3502 Content={2853 Content={3492 Amount=60, 2853 Content={2853}}}}, 
+               6 Content={3502}, 
+               7 Content={3003, 3502 Content={3031 Amount=100, 3092 SavedExpireTime=1779, 3092, 2828 String="Year 10 in the reign of Harrah II\nThe baker Thahon claimed that the wife of the merchant Habthi was guilty of witchcraft. Thahon could not bring forth convincing proof of her guilt and was sentenced to ten blows on his bare feet. The crafter Ziril claimed that the beggar Aukohl stole a cake from his open window. Although no proof was found there was a general sense of agreement that no proof was necessary since everybody was convinced of the beggar's guilt. In a rare display of mercy the judge sentenced him to a mere three years of work in the salt mines. The widow Zehmahil claimed that the travelling bard Todd Ballory had promised here mariage in\nexchange for certain services that have not been further elaborated on in the court's documents. The foreigner was found guilty without trial and sentenced to three years of work in the salt mines. The footsoldier Kamahl claimed his father Indril was guilty of witchcraft. Several obscure texts were found beneath the accused person's bed. Indril was banished from the city and his property was equally divided between the pharaoh and his heirs. The foreigner Todd Ballory was pronounced guilty of killing the overseer Barnak, a father of sixteen children and a respectable member of the local whipcrackers' association. The aforementioned convict was sentenced to a rather spectacular final appearance in the local arena.", 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!", 2832 String="...we stood on a plank and beneath us was a pit full of hissing snakes. Worse, the plank was pulled back into the wall, and there was no way out. If it hadn't been for our good Alil who had stayed out of that cursed chamber in a rare moment of clear-sightedness, we would all have ended up as snake food. Just how he managed to find that hidden lever on the statue is still beyond me."}}, 
+               8 Content={3299, 3298 Amount=1, 2864 Content={3287 Amount=1}, 3504 Content={3507 String="dan'smith\nport hope"}, 3502 Content={2868 Content={}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={}, 2854 Content={}}}}

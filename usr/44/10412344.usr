@@ -1,0 +1,52 @@
+ID              = 10412344
+Name            = "Kene Gart"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,59-0-0-0)
+CurrentOutfit   = (129,59-0-0-0)
+LastLogin       = 1147381578
+LastLogout      = 1147381680
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31788,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,72199,0,83400,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,90700,1400,111701,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,10,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10440,1100,10918,100)
+Skill = (7,48,0,10,0,0,0,0,0,0,0,11430,1100,12043,30)
+Skill = (8,28,0,10,0,0,0,0,0,0,0,6571,1200,7736,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,342,1200,372,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,946,1200,1039,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,605,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,548,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,15,20,42,44,51}
+QuestValues = {(58,1),(59,1),(60,1),(61,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={3285, 3492 Amount=28}},
+               4 Content={3377},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={2882, 3031 Amount=100, 3502 Content={3349, 3446 Amount=76, 3307, 3003}}, 
+               1 Content={2920, 3502 Content={3506 String="Kene Gart\ncarlin\n\nvc deve tar pensando um monte de besteiras sobre mim , mais nao e bem isso...deu um erro no email do tibia ai o tibia sem querer mandou pra outra pessoa e essa tal pessoa lhe hakiou :(( nao sabia ki ia ter um erro nu tibia :(( entao .. vc deve ta achando ki eu sou isso ki eu sou akilo mais nao eh bem assim ki se esfola um boi !\n\nagr a decisao e sua !\n\nacredite ou nao\nessa e a realidade .\npor isso nao virei PA\n \n;((\n\nespero ki tome a decisao certa\n\natençiosamente : socererzinha de zanera", 3291, 3310, 3308, 3457, 2472 Content={3300, 2469 Content={3377, 3377, 3377, 3377}}, 2473 Content={3290, 3468, 3451, 3455, 3454, 3003, 2955, 3471}, 2473 Content={2473}, 2473}}, 
+               3 Content={3502 Content={3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3446 Amount=6, 3050, 3056 RemainingUses=200}, 2853 Content={3557, 3357, 3413, 3362, 3357}}}}

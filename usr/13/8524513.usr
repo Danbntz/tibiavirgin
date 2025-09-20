@@ -1,0 +1,53 @@
+ID              = 8524513
+Name            = "Runilla Da'Mighty"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,0-114-114-114)
+CurrentOutfit   = (134,0-114-114-114)
+LastLogin       = 1146849602
+LastLogout      = 1146850095
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32679,31689,6]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,96248,0,98800,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,667002,1100,708148,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,335,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,18709,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5023,1800,6824,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1340,1800,2063,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,10134,1800,12334,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,443,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1743,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,5,8,20,29,39,42,84,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(58,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(97,1),(98,1),(153,1),(190,1),(191,1),(253,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2868 Content={3457}},
+               5 Content={3311},
+               6 Content={3425}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="Runilla Da'Mighty\nab'dendriel" Editor="Lady-Elsa", 2869 Content={3734 Amount=1, 2393, 2393, 3734 Amount=1, 2393, 2393, 2393, 2393, 3658, 2393, 2393, 3658}, 2865 Content={3577 Amount=28, 3585 Amount=8, 3583 Amount=42, 3587 Amount=6, 3579 Amount=6, 3725 Amount=5, 3600 Amount=16, 3598 Amount=100, 3585 Amount=100, 3602 Amount=12, 3597 Amount=7, 3591 Amount=30, 3585 Amount=100, 3590 Amount=6, 3601 Amount=51, 3735 Amount=2, 3586 Amount=33, 3595 Amount=37, 3585 Amount=100}, 2865 Content={3310, 2874 ContainerLiquidType=9, 2969 KeyNumber=3650, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 3304, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9, 2973 KeyNumber=3520, 2969 KeyNumber=3008, 2969 KeyNumber=3650}, 2869 Content={3668, 3659, 3659, 3659, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3668, 3658, 3658}, 3049 SavedExpireTime=171, 3031 Amount=100, 3035 Amount=4, 3070}, 3504 Content={3507 String="Runilla Da'Mighty\nab'dendriel" Editor="Lady-Elsa", 2857 Content={2857 Content={2859 Content={2857 Content={2857 Content={2857 Content={2864 Content={2857 Content={2992 Amount=1, 3576, 3206, 2903, 3017, 3205, 3097, 3050 SavedExpireTime=1789}, 3077, 2992 Amount=1, 2992 Amount=1, 2992 Amount=1}, 3049 SavedExpireTime=6, 3034 Amount=1, 3032 Amount=1, 3033 Amount=1, 3033 Amount=1, 3030 Amount=1}, 3007, 3007, 3017, 3017, 3050, 3050, 3050 SavedExpireTime=1540}, 3076}, 3097 SavedExpireTime=3038, 3097, 3097, 3097, 3097, 3097 SavedExpireTime=3595}, 3209, 3004, 3004, 3004, 3004}, 3093, 3093 SavedExpireTime=1793, 3093 SavedExpireTime=1747, 3093}, 2853 Content={3092, 3092}, 2867 Content={2872 Content={2969 KeyNumber=3033, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2968 KeyNumber=3940, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 2973 KeyNumber=3520, 2969 KeyNumber=3033}, 2970 KeyNumber=3899, 2970 KeyNumber=3142, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2970 KeyNumber=4601, 2970 KeyNumber=3802, 2969 KeyNumber=3033, 2969 KeyNumber=4603, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2969 KeyNumber=3302, 2969 KeyNumber=3600, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 2969 KeyNumber=3302}}, 3377, 3384, 2970 KeyNumber=3802, 2866, 3050 SavedExpireTime=1549, 3483, 3097 SavedExpireTime=3359, 3467, 3457, 3504 Content={3504, 3504 Content={3507 String="Krusty the'Archer\nab'dendriel"}, 3504 Content={3507 String="magnuc manowar\nab'dendriel\n"}, 3504 Content={3507 String="angel maliontri\nab'dendriel"}, 3504 Content={3507 String="shin garne \nab'dendriel"}, 3504 Content={3507 String="magnuc manowar\nab'dendriel\n"}, 3504 Content={3507 String="magnuc manowar\nab'dendriel"}, 3504}, 3502}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Runilla Da'Mighty\ndarashia"}, 3504 Content={3507 String="Runilla Da'Mighty\ndarashia"}, 2854 Content={3577 Amount=2, 3582 Amount=6}, 3504 Content={3507 String="Runilla Da'Mighty\ndarashia"}, 3504 Content={2853, 3507 String="Runilla Da'Mighty\ndarashia\n"}, 2854, 2872 Content={2857, 2857 Content={3046, 3084 RemainingUses=250, 3017, 3045 RemainingUses=198, 3046 SavedExpireTime=2998, 2857 Content={3054 RemainingUses=200, 3077, 3017, 3077}}}, 2871 Content={2667}, 3421, 2854, 2865 Content={2865}, 2866, 3502 Content={2854}}, 
+               6 Content={3502 Content={}}}

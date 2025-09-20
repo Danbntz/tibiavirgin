@@ -1,0 +1,60 @@
+ID              = 8605003
+Name            = "Kssio Brax"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,38-67-28-67)
+CurrentOutfit   = (134,38-67-28-67)
+LastLogin       = 1129780205
+LastLogout      = 1129780272
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,757122,0,780700,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,215520,3000,582400,1600)
+Skill = (2,397,620,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,12,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1195,1195,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,75,0,10,0,0,0,0,0,0,0,533390,1100,538407,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,77,0,10,0,0,0,0,0,0,0,324671,1100,325841,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,282,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4127,1100,4445,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(46,1),(54,1),(59,1),(61,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2865 Content={3031 Amount=10, 3003, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3492 Amount=3, 3031 Amount=12}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={},
+               9 Content={},
+               10 Content={2854 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=51, 3031 Amount=100, 3446 Amount=8, 3266, 3425}}, 
+               1 Content={3028 Amount=4, 3033 Amount=5, 3032 Amount=7, 3042 Amount=24, 3147, 3035 Amount=32, 2865 Content={3031 Amount=90}, 2868 Content={3410, 3354, 3359, 3056 RemainingUses=200, 3410, 3359, 3359, 3359, 3359, 3351, 3351, 2973 KeyNumber=3520, 2970 KeyNumber=4503}, 2868 Content={2866 Content={3056 RemainingUses=200}, 2854 Content={3327, 3327, 3327}, 2868 Content={3492 Amount=26, 1781 Amount=10, 3059 String="", 3301, 3266, 3409, 3289}, 2869 Content={}, 2857 Content={3027 Amount=2, 3026 Amount=1, 3093 SavedExpireTime=1798, 3097 SavedExpireTime=3590, 3056 RemainingUses=200, 3097 SavedExpireTime=0, 3052 SavedExpireTime=0, 3098 SavedExpireTime=0}, 2853 Content={3054 RemainingUses=200, 3054 RemainingUses=200, 3008, 3084 RemainingUses=250, 3056 RemainingUses=200, 3084 RemainingUses=250, 3012, 3054 RemainingUses=128}, 3003}, 2973 KeyNumber=3520, 2857 Content={3483}, 3412, 3502 Content={3505 String="o mew teus equip tao nu dp\nfalo ", 3506 String="kssio brax\ncarlin\n\no mew ci der certu a minha P.A vamu racha uma casa só eu i tu i ci pa + um. + n muita genti vai pensandu i na noite tu mi diz... a mudei a senha é \"\"bituca208\"\" a o mew u crystal ring é muitu bom achei uma plate nas valky i um smmal diamond. dpois ci falamu flw...", 2473 Content={3350, 3349, 3350, 3349, 3349, 3483}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={2853 Content={3273, 3273, 3273, 3273}}}, 
+               4 Content={3504 Content={3507 String="kssio brax\nedron"}, 3425, 3504 Content={3054 RemainingUses=200, 3028 Amount=1, 3409, 3507 String="kssio brax\nedron"}, 3504 Content={3507 String="kssio brax\nedron"}, 3504 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3507 String="Kssio Brax\nEdron"}, 3504 Content={3507 String="Kssio Brax\nEdron"}, 3502 Content={3367, 3367, 3367}}, 
+               5 Content={2854 Content={3582 Amount=6, 3577 Amount=3, 3083 RemainingUses=150, 3372}, 3305, 3305, 3502 Content={3457}}, 
+               7 Content={3046 SavedExpireTime=0, 3267, 3046 SavedExpireTime=0, 3504 Content={3354, 3504 Content={3354, 3367, 3354, 3507 String="kssio brax\nankrahmun"}, 3504 Content={3354, 3354, 3354, 3358, 3359, 3410, 3507 String="kssio brax\nankrahmun\n"}, 3504 Content={2854 Content={3147}, 3507 String="kssio brax\nankrahmun"}, 3504 Content={3456, 3507 String="kssio brax\nankrahmun"}, 3425, 3507 String="kssio brax \nankrahmun"}, 3483, 3502 Content={3367, 3441, 3367, 3367, 3367, 3367, 3367}}}

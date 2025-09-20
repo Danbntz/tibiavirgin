@@ -1,0 +1,48 @@
+ID              = 12961820
+Name            = "Platius"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (128,106-69-58-58)
+CurrentOutfit   = (128,106-69-58-58)
+LastLogin       = 1146497690
+LastLogout      = 1146497693
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32097,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,0,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3585 Amount=1}},
+               4 Content={3561},
+               5 Content={3270},
+               6 Content={2920}}
+
+Depots      = {1 Content={3504 Content={3391, 3057, 2867 Content={3034 Amount=66, 2829 String="The magic city Demona\nWritten by Danae, historian of the warlocks\nPart3\n\nIn the beginning, our ancients lived in total isolation. They thought, that they can survive down here without any contact to the outside world.\n\nBut after some years they realised that they cant cast enough food and water for all warlocks.\nThey also realised, that it was necessary to be under the free sky to cast some spells (Like the spell \"Path of the Stars\", that only works if the caster can see the stars in the night).\n\nSo they made a direct tunnel to the surface.\nAll seem to work well. But after some years new problems appeared.\n\n<More on book Part4>", 3010, 2831 String="The power of the Talons\nWritten by Doneos\n\n\nThe Talons are the most mysterious gems that we know of. We dont know much yet, but we are working on it.\n\nFact is, that each Talon contains a mighty magical power inside. We must only find a way to set this power free and more important to control this power so that we can use it for our purposes.\n\nRecently, a fellow warlock found out, that you can release the power through lava.\nYet, we havent found out how to control this released power.\n\n", 2848, 3035 Amount=10, 3035 Amount=100, 3504 Content={2871 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 2866 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 2867 Content={3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=2, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3, 3197 Charges=3}, 2866 Content={3180 Charges=4, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4, 3180 Charges=1, 3180 Charges=3, 3180 Charges=4, 3180 Charges=4}, 2867 Content={3195 Charges=2, 3197 Charges=3, 3195 Charges=1, 3195 Charges=2, 3148 Charges=3, 3148 Charges=3, 3195 Charges=2, 3195 Charges=2, 3197 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3195 Charges=2, 3195 Charges=2, 3195 Charges=2, 3195 Charges=1}, 2871, 2866 Content={3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4}, 2869 Content={3195 Charges=2, 3195 Charges=2, 3192 Charges=2, 3192 Charges=2, 3195 Charges=2, 3177 Charges=1, 3082 RemainingUses=50, 3084 RemainingUses=250, 3051 SavedExpireTime=597, 3082 RemainingUses=50, 3178 Charges=1, 3178 Charges=1}, 2854 Content={3492 Amount=3, 2656, 2656, 2854 Content={3492 Amount=34, 2659, 2667, 3314, 3306, 3492 Amount=10}, 3313, 3061, 2650}}, 2869 Content={3323, 3042 Amount=34, 2992 Amount=14, 3027 Amount=3}, 3035 Amount=100, 3043 Amount=1, 3725 Amount=70, 2867 Content={3424, 3424, 3424, 3731 Amount=2, 3450 Amount=100, 3450 Amount=55, 3031 Amount=69, 3373, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3723 Amount=19, 3003, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2858 Content={3308, 3457, 3456}}, 3381, 3382, 3079, 3507 String="platius\ncarlin" Editor="Sir Xarlok"}, 3502}}

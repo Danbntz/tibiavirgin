@@ -1,0 +1,55 @@
+ID              = 8087818
+Name            = "Ruked Unknown"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,58-76-114-114)
+CurrentOutfit   = (134,58-76-114-114)
+LastLogin       = 1127131011
+LastLogout      = 1127131019
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,21786,0,23200,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,19680,3000,20800,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,11,55,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,15792,1100,16449,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (10,39,0,10,0,0,0,0,0,0,0,7964,1100,8224,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1819,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(96,1),(97,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3012},
+               3 Content={2854 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3026 Amount=1, 2920 SavedExpireTime=127, 3268, 3457, 3003}},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {5 Content={3502 Content={3362, 3410}}, 
+               6 Content={3502 Content={3110, 3293, 3276, 3274}}}

@@ -1,0 +1,61 @@
+ID              = 10614293
+Name            = "Rossy Vumbla"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,94-114-114-0)
+CurrentOutfit   = (142,94-114-114-0)
+LastLogin       = 1148175824
+LastLogout      = 1148176464
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,60,0,1,0,0,0,0,0,0,1,3268410,0,3428000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,408404,3000,582400,1600)
+Skill = (2,647,965,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,129,129,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1770,1770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,326728,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,74,0,10,0,0,0,0,0,0,0,241553,1100,244685,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,89,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,126,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4740,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(3,1),(6,1),(35,1),(46,1),(50,1),(59,1),(62,2),(63,1),(64,1),(67,1),(69,1),(71,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(111,1),(112,1),(115,1),(125,1),(126,1),(129,1),(130,1),(131,1),(133,1),(135,1),(136,1),(137,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(170,1),(172,1),(173,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(217,3),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,7),(249,2),(250,2),(251,2),(254,1)}
+Murders     = {1146278283}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2866 Content={2874 ContainerLiquidType=5, 3031 Amount=98, 3017, 3027 Amount=2, 3026 Amount=2, 3582 Amount=3, 2854 Content={3537, 3543, 3537}, 2872 Content={3031 Amount=4, 3367, 3367, 2868, 3457, 3003}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5}, 2869 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2859 Content={3091 SavedExpireTime=1723, 3003, 3084 RemainingUses=249, 3457}, 2868}},
+               4 Content={3381},
+               5 Content={3281},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3035 Amount=4}}
+
+Depots      = {0 Content={3502 Content={2868}}, 
+               1 Content={2854 Content={3413, 3413, 3413, 3413}, 3595 Amount=3, 3602 Amount=2, 3503 Content={3503}, 2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=2, 3200 Charges=2, 3200 Charges=1, 3200 Charges=2, 3200 Charges=3, 3200 Charges=3}, 2868 Content={3147, 3147, 3177 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2860 Content={3446 Amount=49, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3291, 3492 Amount=95, 3492 Amount=100, 2870 Content={3318, 3380, 3322, 3035 Amount=55, 3035 Amount=100, 3351, 2842, 3284 RemainingUses=1, 3323, 3295, 3322, 3572, 3372, 3384, 3097, 3572, 3074, 3384}, 2868 Content={3425, 3425, 3425, 3425, 3425, 3425}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349}, 2866 Content={3097, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091, 3091}, 2854 Content={3409, 3409, 3409, 3409, 3409, 3409, 3409}, 2865 Content={2870, 2868 Content={2866, 2854}, 2868, 2865, 2871 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2871, 2865, 2868, 2866}, 2867 Content={3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353}, 2872 Content={2970 KeyNumber=3142, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=3302, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2972 KeyNumber=3304, 2969 KeyNumber=5000, 2969 KeyNumber=3302, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2970 KeyNumber=3012, 2969 KeyNumber=3008, 2969 KeyNumber=4600, 2969 KeyNumber=3003, 2969 KeyNumber=3005, 2969 KeyNumber=3007, 2969 KeyNumber=3004, 2969 KeyNumber=3006}, 2872 Content={3042 Amount=5, 3589 Amount=12, 3085 RemainingUses=200, 3287 Amount=2, 3298 Amount=1, 3054 RemainingUses=200, 3092, 3085 RemainingUses=181, 3045 RemainingUses=200, 3732 Amount=2, 3062, 3081 RemainingUses=5, 3033 Amount=10, 3029 Amount=1, 3082 RemainingUses=50, 3028 Amount=3, 3032 Amount=11}, 3502 Content={3543, 3537, 3537, 3543, 3543, 3537, 3543, 3543, 2473 Content={3003, 3003, 3003, 3003, 3061, 3003, 3017, 3308, 3734 Amount=1}, 2472 Content={2827 String="The Akh'rah Uthun is the unity of that which cannot be united. The flawed Akh, which is our anchor to this mundane world, is generally weak. By giving in to the needs of the physical Akh, the Rah and the Uthun become enslaved to this world, even though their potential is such that they could transcend the physical world. However, the greatest flaw the Akh suffers from is its mortality. Why should we seek to satisfy its puny needs and its trivial urges if we know it is doomed to die? Yet this is how the Akh holds our spirit captive. It slowly poisons both the Rah as well as the Uthun.", 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn...", 3050, 3050, 3441, 3050, 3050, 3441, 3046 SavedExpireTime=2995, 2472}}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="rossy vumbla\nab'dendriel"}, 3504 Content={2868, 3507 String="rossy vumbla\nab'Dendriel"}, 3502}, 
+               4 Content={3502 Content={2866 Content={3291, 3367, 3354, 3354, 3354, 3354}, 2854 Content={3056 RemainingUses=200, 3084 RemainingUses=250, 3050, 3447 Amount=100, 3447 Amount=39}}}, 
+               5 Content={3409, 3412, 3359, 3282, 3409, 3502 Content={2854 Content={3483, 3291, 3291}, 3456, 2866, 2866}}, 
+               6 Content={3504 Content={3602 Amount=1, 3507 String="rossy vumbla\nvenore" Editor="Lucrika Samaziani"}, 3504 Content={3507 String="rossy vumbla \nvenore"}, 3447 Amount=8, 3506 String="Rossy Vumbla\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\nCopyright 1996-2005 CipSoft GmbH.", 3457, 3457, 3502 Content={2969 KeyNumber=3033}}, 
+               7 Content={3503 Content={3507}, 3502}, 
+               8 Content={3291, 3505 String="rossy vumbla\n\n leave plz\nrespete por favor \nhunting here\n" Editor="Rossy Vumbla", 3446 Amount=1, 2865, 3457, 2969 KeyNumber=5000, 3457, 3483, 2472, 3457, 3457, 3147, 3003, 3483, 3264, 3502}}

@@ -1,0 +1,56 @@
+ID              = 8809913
+Name            = "Valu Caras"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,95-114-95-114)
+CurrentOutfit   = (129,95-114-95-114)
+LastLogin       = 1148215188
+LastLogout      = 1148215205
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32576,31798,8]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,71642,0,83400,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,86177,1100,91639,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,335,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12853,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,121,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,11,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,149,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1116,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,17,19,20,22,25,27,29,44,45}
+QuestValues = {(14,1),(15,1),(16,1),(23,1),(35,1),(37,1),(46,1),(54,1),(55,1),(60,1),(61,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(113,1),(125,1),(126,1),(128,1),(140,1),(141,1),(192,1),(217,3),(325,2),(332,1),(333,1)}
+Murders     = {1148213958}
+
+Inventory   = {1 Content={3384},
+               3 Content={2853 Content={3552, 3003, 3349, 3446 Amount=4, 3031 Amount=46, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3035 Amount=1}}
+
+Depots      = {0 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3031 Amount=47, 3031 Amount=100, 3035 Amount=1, 3504 Content={2853 Content={2853 Content={2853, 2853 Content={2853 Content={2853 Content={3411, 2853 Content={2853 Content={2853 Content={2853 Content={3558, 2853 Content={3411, 3274, 2853 Content={3286, 3274, 3274, 3274, 3286, 3274, 2853 Content={3274, 3274, 3274, 3274, 3411, 3286, 3264, 2853 Content={3274, 3274, 3274, 3274, 3411, 3411, 3286, 2853 Content={3286, 3274, 3274, 3274, 3274, 3286, 3274, 2853 Content={3274, 3274, 3274, 3274, 3274, 3274, 3411, 2853 Content={2853, 3274}}}}}}, 3274, 3274, 3274}, 3411, 3264, 3274, 3274}, 3411}, 3411}}, 3411, 3411, 3411, 3411}, 3367}}}}, 3507 String="Valu Caras\nThais\n" Editor="Valu Caras"}, 3275, 3093, 2970 KeyNumber=4503, 3299, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}, 2970 KeyNumber=3800, 2970 KeyNumber=3801}}}}}}}}}}}}}, 3507 String="Valu Caras\nThais" Editor="Valu Caras"}, 3504 Content={3507 String="Valu Caras\nThais" Editor="Valu Caras"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}, 3507 String="Valu Caras\nThais" Editor="Valu Caras"}, 3506 String="Valu Caras\nThais\n\nDear Valu!\nHow's it going nowadays?\nI was just worried about one of my keys, the fibula key i lent you. Do you mind returning it? ^^\nOh well, take care. =*\n\n//Diemo\n" Editor="Diemo", 3506 String="valu caras\nthais\n\nhey :)\n\nhow r u doing?\ni dont know if u been on or not >.<\nim kinda retired from tibia, getting boring and nothing to do. but yeas\nsoooo, what r u up to theses days?\nwell gotta go \ncatch ya later :P\n\nwrite back\n\n<3 aminy" Editor="Valus Brunette", 3504 Content={3507 String="Valu Caras\nThais" Editor="Diemo"}, 3502 Content={3093 SavedExpireTime=1320, 3457, 3289, 3299, 3289}}, 
+               1 Content={3059, 3035 Amount=6, 3658, 3072, 3266, 3506 String="valu caras\ncarlin\n\nI SAW FUCKING GORLOCK THE DESTROYER YESTERDAY!!!!\n\n-celtics" Editor="Celtics Druids", 3504 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3507 String="valu caras\ncarlin\n\n:*    haha\n" Editor="Aminy Thas"}, 3003, 3504 Content={3276, 3276, 3276, 3276, 3084 RemainingUses=250, 3507 String="Valu Caras\nCarlin" Editor="Valu Caras"}, 3504 Content={3503 Content={2911 SavedExpireTime=2102, 2659, 2876, 2853 Content={3505, 3505, 3505 String="Aminy Thas\nThais\n\naminy, quiting for good, giving stitch my acc\n\nbye forever \n\nValu\n" Editor="Valu Caras", 3505 String="Hitman Kilin\n\nlance, quiting for good, gave stitch my acc\n\nbye forever\n\nValu" Editor="Valu Caras"}, 2885 ContainerLiquidType=3}, 3464}, 2880 ContainerLiquidType=3, 3506 String="Valu Caras\nCarlin\n\nDear Valu!\nHow's it going nowadays?\nI was just worried about one of my keys, the fibula key i lent you. Do you mind returning it? ^^\nOh well, take care. =*\n\n//Diemo" Editor="Diemo", 3506 String="Valu Caras\nCarlin\n\n2.11.06\n\nhey hey\nhow u doing? dont see u on much :X\ni hope i out lvl u :P\nim retiring in 5 days or less so yea.. :(\nill prolly go on sometime to visit or w.e\nim mostly retiring cuz of david's dumb guild members  :S \nill talk to u soon if ur ever on XD\n\n<3 aminy" Editor="Aminy Thas", 3502 Content={3279, 3059, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2853 Content={3003, 3457}, 3457, 3507 String="Valu Caras\nCarlin\nTHIS IS FOR HELPING ME ALL THOSE TIMES", 3457}}, 
+               2 Content={3502 Content={2872 Content={2970 KeyNumber=3801, 3050, 3457}, 2854 Content={2869}, 3056 RemainingUses=200, 2970 KeyNumber=3802, 3446 Amount=5, 3375}}, 
+               3 Content={3504, 3502 Content={3277 Amount=1}}, 
+               6 Content={3502}}

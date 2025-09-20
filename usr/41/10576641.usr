@@ -1,0 +1,52 @@
+ID              = 10576641
+Name            = "Uki"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,0-68-86-0)
+CurrentOutfit   = (129,0-68-86-0)
+LastLogin       = 1147156986
+LastLogout      = 1147157065
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,40220,0,47000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,19168,3000,20800,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,70,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,13165,1100,13420,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,25,1100,50,50)
+Skill = (9,41,0,10,0,0,0,0,0,0,0,9839,1100,10056,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,94,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,603,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(54,1),(55,1),(106,1),(107,1),(109,1),(125,1),(126,1),(140,1),(141,1),(144,1),(217,3)}
+Murders     = {1146487828,1147156897}
+
+Inventory   = {1 Content={3375},
+               2 Content={3054 RemainingUses=133},
+               4 Content={3377},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3336, 3277 Amount=1, 3492 Amount=100, 3502 Content={3483, 3031 Amount=40, 3031 Amount=100, 2854 Content={2853 Content={3354, 2969 KeyNumber=3600, 3012, 2969 KeyNumber=3600, 3083 RemainingUses=139}, 3003, 2853 Content={2853, 2816 String="Alistair Cropwell's Travel Notes\n\n...strange things I saw today! A mighty city, inhabited with fearsome beings. Dark rituals, the reason of which I could not discern. Are these people friend or foe? I do not know. I remain in hiding and observe.. and what is the meaning of this strange talisman that I found? The symbol appears everywhere, I fear it may have powers that could cause damage in the wrong hands.\n\nI have been travelling so long, I can hardly remember the features of my beloved ones. Will they recognise, will they remember me? What will they make of my tales? Oh, that I be back with them, walk the city again...\n", 2826 String="Tales of Tibia", 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2816 String="Alistair Cropwell's Travel Notes\n\n...strange things I saw today! A mighty city, inhabited with fearsome beings. Dark rituals, the reason of which I could not discern. Are these people friend or foe? I do not know. I remain in hiding and observe.. and what is the meaning of this strange talisman that I found? The symbol appears everywhere, I fear it may have powers that could cause damage in the wrong hands.\n\nI have been travelling so long, I can hardly remember the features of my beloved ones. Will they recognise, will the remember me? What will they make of my tales? Oh, that I be back with them, walk the city again...\n", 2856}, 3003, 3456, 3003, 3003, 3003, 3003, 3003}, 2853, 3492 Amount=39, 3003, 2853 Content={3294}, 3350, 3274, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 3293, 3316, 3471, 3448 Amount=5, 3377, 3273, 3503}}, 
+               1 Content={3502 Content={3031 Amount=100, 3031 Amount=100, 3425, 3035 Amount=7, 3031 Amount=12, 3358, 3446 Amount=9, 3349, 3483, 3492 Amount=67, 3349, 3056 RemainingUses=200, 3459, 3050 SavedExpireTime=1796, 2970 KeyNumber=4503, 3492 Amount=93}}, 
+               3 Content={3502 Content={3336}}, 
+               6 Content={3502 Content={2854 Content={3577 Amount=3, 2911 SavedExpireTime=2386}, 3031 Amount=28, 2911 SavedExpireTime=2055}}}

@@ -1,0 +1,56 @@
+ID              = 8372100
+Name            = "Bigphatman"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,132-122-121-132)
+CurrentOutfit   = (128,132-122-121-132)
+LastLogin       = 1116540134
+LastLogout      = 1116540269
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,61356,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,15680,3000,20800,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,14968,1100,16449,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,162,1100,165,50)
+Skill = (9,40,0,10,0,0,0,0,0,0,0,8262,1100,9097,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1035,1100,1069,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,984,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(59,1),(99,1),(223,1),(227,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3282},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={2925 RemainingExpireTime=27}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3504 Content={3377, 3507 String="bigphatman\nvenore\n", 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3410, 3358, 3264, 3409, 3286}, 3504 Content={3507 String="bigphatman\nvenore\n\n"}, 3502 Content={2867 Content={3375, 3375, 3375, 3375, 3374, 3425, 3374}, 2854 Content={3008, 3551, 3030 Amount=1, 2989, 2876 ContainerLiquidType=0, 3198 Charges=3, 3198 Charges=4, 3084 RemainingUses=250, 2876 ContainerLiquidType=0, 2981, 3147, 3092 SavedExpireTime=0, 3046 SavedExpireTime=2996}, 2867 Content={3031 Amount=22, 3035 Amount=30}, 2853 Content={3577 Amount=3, 3582 Amount=2}, 2854 Content={3308, 3453, 3285, 3300}, 2867 Content={2969 KeyNumber=3033, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3059 String=""}, 2853 Content={3456, 3457, 3003, 3003, 3003, 3483, 3456}, 2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2917 SavedExpireTime=2989, 2920 SavedExpireTime=0}, 2853 Content={3362, 3362, 3430}, 2857 Content={3349, 3446 Amount=26, 3447 Amount=88, 3447 Amount=100, 3447 Amount=100, 3349}}}}

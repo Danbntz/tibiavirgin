@@ -1,0 +1,57 @@
+ID              = 8046437
+Name            = "Chino'Forces"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,94-94-76-76)
+CurrentOutfit   = (129,94-94-76-76)
+LastLogin       = 1148006149
+LastLogout      = 1148006168
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,683604,0,717600,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,482760,1400,618272,1600)
+Skill = (2,465,465,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1030,1030,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,225227,1100,227761,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,86621,1100,91044,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,138,1200,181,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,122,1200,181,50)
+Skill = (10,41,0,10,0,0,0,0,0,0,0,83782,1200,85205,50)
+Skill = (11,28,0,10,0,0,0,0,0,0,0,7230,1200,7736,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,10630,1100,10752,20)
+Skill = (14,0,1200,0,0,0,291,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,71,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,11,15,20,29,30,42,44,45,48,49,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(55,1),(58,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(115,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(224,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2867 Content={3045 RemainingUses=184, 3446 Amount=100, 3349, 3446 Amount=100, 3446 Amount=100, 3350, 3483, 3457, 3148 Charges=2, 3152 Charges=1, 3152 Charges=1, 2874 ContainerLiquidType=11, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3198 Charges=4, 3003, 3198 Charges=5, 3152 Charges=1, 3148 Charges=1, 2867 Content={3447 Amount=86, 3147, 3147, 3147, 3147, 3054 RemainingUses=200, 3031 Amount=61, 3492 Amount=22, 3147, 3147, 3198 Charges=5, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 2867 Content={3188 Charges=3, 3191 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3152 Charges=1, 3192 Charges=2, 3189 Charges=2, 3198 Charges=5, 3198 Charges=4, 3172 Charges=2, 3190 Charges=4, 3190 Charges=4, 3172 Charges=3, 3192 Charges=1, 3192 Charges=2}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}},
+               4 Content={3381},
+               5 Content={3318},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3504 Content={3507 String="chino'forces\nthais"}, 3504 Content={3507 String="chino'forces\nthais"}, 3504 Content={3425, 3277 Amount=1, 3507 String="Chino'Forces\nThais"}, 3502 Content={3083 RemainingUses=150, 3031 Amount=16, 3308, 3031 Amount=100, 3349, 3350, 3003, 3031 Amount=100, 3358, 2853 Content={3031 Amount=33, 3492 Amount=11, 3138, 3138, 3504 Content={3409, 3293, 1781 Amount=5, 3003, 3454, 3003, 3003, 3003}}}}, 
+               2 Content={3502 Content={3308}}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3425, 3425, 3277 Amount=8, 3054 RemainingUses=40, 3447 Amount=100, 3425, 3425}, 2866 Content={3595 Amount=6, 3349, 3279, 3083 RemainingUses=109, 3148 Charges=3, 2870, 2868 Content={2867, 1781 Amount=12, 2992 Amount=5, 3349}, 2865 Content={3008, 3084 RemainingUses=241, 2874, 2874, 3285, 3285, 3285, 3083 RemainingUses=150}, 2866 Content={2969 KeyNumber=3600, 3084 RemainingUses=236}}, 3504 Content={3031 Amount=25, 3189 Charges=2, 3189 Charges=2, 2667, 3351, 2874, 3353}, 3504 Content={3377, 3412, 3507 String="Chino'Forces \nVenore" Editor="Neospav"}, 3504 Content={1781 Amount=1, 3350, 3264, 3448 Amount=6, 3285, 2914 SavedExpireTime=1611, 3350}, 3504 Content={3349, 2992 Amount=5, 3350, 3349, 3308, 3308, 3507 String="Chino'Forces\nVenore"}, 3504 Content={3276, 3412, 3507 String="Chino'Forces\nVenore", 2853 Content={2874, 2874, 2874}}, 3504, 3502 Content={2473 Content={3008, 3357, 2853 Content={3030 Amount=2, 3028 Amount=3}, 2853 Content={3457, 3268, 3411, 3430, 2868 Content={2854}}, 2853 Content={3359, 3413}, 2853 Content={2853 Content={3483, 3276}}, 2473 Content={2868 Content={2853 Content={3430, 3291, 3272}}, 2868, 2870, 2870}, 2473, 2473 Content={2868 Content={2868 Content={2854 Content={2867}}, 2868}}}, 3503 Content={2874, 3457, 3507}, 2471 Content={3350, 3412, 2868 Content={3552, 3411, 3353, 3483}, 3483}, 2471 Content={2868 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2868, 2868 Content={3031 Amount=69, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=55, 2868 Content={3031 Amount=100}}, 2473 Content={3027 Amount=3, 3026 Amount=2, 3377, 2868 Content={3003, 3457, 3349, 3268, 2868, 3003, 3276}}, 2867 Content={1781 Amount=4, 3353}, 3504 Content={3050, 3031 Amount=22, 3384, 2854, 3483, 3268, 3503 Content={3276, 3276, 3507, 3276, 3276, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276}}, 2473 Content={3003}, 3507 String="Chino'Forces\nVenore"}, 2471 Content={3447 Amount=21, 3277 Amount=11, 3375, 2854 Content={3084 RemainingUses=250, 2969 KeyNumber=3033}}}}}

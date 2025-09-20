@@ -1,0 +1,50 @@
+ID              = 8108653
+Name            = "Cafu Gortari"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-119-95-116)
+CurrentOutfit   = (129,114-119-95-116)
+LastLogin       = 1147617158
+LastLogout      = 1147617223
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32676,31691,6]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38563,0,47000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,38340,1400,55031,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,40,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12239,1100,13420,100)
+Skill = (7,44,0,10,0,0,0,0,0,0,0,7496,1100,8130,30)
+Skill = (8,24,0,10,0,0,0,0,0,0,0,3340,1200,3601,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,978,1200,1039,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,728,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2096,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,15,29,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(58,1),(60,1),(96,1),(97,1),(98,1),(99,1),(100,1),(107,1),(109,1),(125,1),(126,1),(128,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853},
+               5 Content={3308},
+               8 Content={3552}}
+
+Depots      = {0 Content={3277 Amount=1, 3507 String="", 3503 Content={}, 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="Cafu Gortari\nCarlin" Editor="Invasor Lord"}, 3502}, 
+               3 Content={3502}, 
+               6 Content={3430, 2472 Content={2853 Content={3198 Charges=5, 3198 Charges=3, 3191 Charges=2}, 2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=1, 3189 Charges=1}, 2854 Content={3012, 2969 KeyNumber=3600, 3012, 3012, 3008, 2970 KeyNumber=4503, 3012, 3008, 2969 KeyNumber=5000}, 2867 Content={2893, 3059, 2893, 3454, 2880, 3464, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2955, 2893, 2989, 3463, 2914 SavedExpireTime=1886, 2815 String=" .                        _                                      |_|                                    |   |                                __|=|_                            |   |   |   |   |\\               |- - - - | |\n\nNok,Buy=Goshak,Weapon=Dorack,Armor=Bora,Shield=Bora,Sword=Burka Bata,Studded=Tulak,Leather=Aka,Sabre=Charcha,Hatchet=Hak Hak,Short Sword=Burka,Bow=Batuk,Arrow=Pixo,Studded Armor=Tulak. To Be Used For The Blind Orc. Note He Does Not Buy Off You.\n\n               (\\__/)            .         ", 2981, 2815}, 2854 Content={3277 Amount=18, 3350, 3447 Amount=100, 3447 Amount=50, 3350, 3448 Amount=5, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3349, 3446 Amount=65}}, 3502}}

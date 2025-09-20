@@ -1,0 +1,55 @@
+ID              = 13223164
+Name            = "Javi jivo"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,76-114-114-114)
+CurrentOutfit   = (130,76-114-114-114)
+LastLogin       = 1146831204
+LastLogout      = 1146832723
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32505,32257,9]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,170614,0,179400,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,106256,1100,114244,1600)
+Skill = (2,207,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,305,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13944,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,983,1800,1118,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,26,1800,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,57,1800,140,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,10,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,56,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,84,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,11,12,15,16,20,25,26,27,29,30,31,38,42,44}
+QuestValues = {(18,1),(60,1),(61,1),(100,1),(140,1),(141,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3012},
+               4 Content={3377},
+               5 Content={3264},
+               6 Content={3412},
+               7 Content={3362},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {0 Content={3506 String="Javi jivo\nThais\n\nHola, soy El Leader de tu guild, solo te envio esta carta para comunicarte que la guild ya tiene homepage, la url es:\nhttp://archangelunion.forospace.com/\nEs un foro donde contaremos todos los temas de la guild, recomiendo que te registres en ella CUANTO ANTES y con el nombre del char que mas uses ahora mismo, y que este en la guild. Cuando un Leader o un Vice-Leader te vea registrado, te dara acceso para los foros privados de la guild. Estos foros son CONFIDENCIALES y te recomiendo que no lo leea nadie ajeno a la guild.\nLo usaremos para hacer sesiones de entrenamiento, probar el nuevo sistema de apadrinamiento, y entretenernos un rato. Es importante que visites y postees MUY A MENUDO en el foro, ya que así observaremos si estas online en la guild o estas solo por estar.\nSolo eso ;) Un Saludo, Mata-Zanoz" Editor="Mata-Zanoz", 3502 Content={3093 SavedExpireTime=1781, 3093, 3012, 3585 Amount=2, 3059, 3457, 3003, 3577 Amount=53, 3457, 3483, 3003, 3003, 3052 SavedExpireTime=1184}}, 
+               1 Content={3502 Content={3446 Amount=2, 3362, 3300, 3285}}, 
+               3 Content={3502}, 
+               6 Content={3502}}

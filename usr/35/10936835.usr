@@ -1,0 +1,62 @@
+ID              = 10936835
+Name            = "Xeberus The Knight"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,40-28-116-116)
+CurrentOutfit   = (134,40-28-116-116)
+LastLogin       = 1148246540
+LastLogout      = 1148256902
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32687,31589,6]
+PlayerkillerEnd = 0
+
+Skill = (0,51,0,1,0,0,0,0,0,0,1,2004684,0,2087600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,519056,3000,582400,1600)
+Skill = (2,751,830,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,71,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,120,120,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1545,1545,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,75,0,10,0,0,0,0,0,0,0,510805,1100,538407,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,77,0,10,0,0,0,0,0,0,0,297260,1100,325841,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (10,20,0,10,0,0,0,0,0,0,0,924,1100,926,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,177,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1802,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81,93}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(46,1),(50,1),(58,1),(59,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(115,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(130,1),(131,1),(133,1),(137,1),(148,1),(149,1),(150,1),(151,1),(152,1),(154,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={2920 SavedExpireTime=584, 3035 Amount=1, 3003, 2920 SavedExpireTime=364, 3031 Amount=32, 3308, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3457}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3291},
+               7 Content={3382},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3295}}
+
+Depots      = {0 Content={3504 Content={3507 String="Xeberus The Knight\nThais" Editor="Duche Of Knightmare"}, 3502 Content={3012, 3097, 2854, 3003, 3003, 2473 Content={3585 Amount=1}}}, 
+               1 Content={3504 Content={3507 String="xeberus the knight\ncarlin" Editor="Xeberus The Knight"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={2854 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3412, 2865 Content={3031 Amount=23}, 3504 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3507 String="Talix Adrus\nCarlin" Editor="Idrill Galey"}, 3042 Amount=2, 2969 KeyNumber=5010, 3014, 2991, 3147, 2854, 2870, 2853 Content={2920, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2920}, 3003}, 3504 Content={3043 Amount=3, 2867 Content={2874}, 2854 Content={2854 Content={3305}}, 3035 Amount=5, 3507 String="somby\nab'dendriel" Editor="Somby"}, 2480 Content={3092, 2874, 2874, 2874, 3308, 3054 RemainingUses=200, 2469 Content={3097, 2650, 2644, 2853 Content={3147, 4871, 3004, 2659, 2853 Content={2659, 3148 Charges=3, 3148 Charges=3, 2973 KeyNumber=3520}, 3268, 3412, 2853 Content={3085 RemainingUses=200, 2653, 3147, 2653, 2667, 2653, 3147, 2667}}, 2955, 2469 Content={3051, 3054 RemainingUses=61, 2854 Content={2970 KeyNumber=3301, 2972 KeyNumber=3304, 3004, 3004, 3290, 2866 Content={3031 Amount=100, 3367, 3031 Amount=100, 3031 Amount=100, 3287 Amount=1, 3583 Amount=2, 3449 Amount=1, 3031 Amount=100, 3285, 3031 Amount=100, 3359, 3147, 3147}, 3457, 2865 Content={3017, 3017, 3017, 3046, 3046, 3046 SavedExpireTime=2908, 3046, 3046 SavedExpireTime=2996, 3046, 3046, 3046}, 2874, 2854 Content={3003}, 2853, 3164 Charges=3}, 2853 Content={2949, 3590 Amount=4, 2955, 2957, 3595 Amount=2, 2992 Amount=1, 2950, 2853 Content={2639, 3673, 2969 KeyNumber=3302, 2641, 2957, 2874 ContainerLiquidType=2}}}}}, 2480 Content={2866 Content={2868 Content={3377, 3377, 3413, 3377, 3413, 3413, 3377, 3377, 3377, 3377, 3377, 3305, 3305, 3377, 3413, 3275, 3377, 3377, 3413}, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3275, 3377, 3377, 3305, 3377}}, 3413, 3377, 3305, 3305, 3305, 3413, 3413, 3413, 3413, 3377}, 2871 Content={3007, 3007, 2644, 3507 String="Xeberus The Knight Hunting here\n\nHave Respect MSG me First" Editor="Xeberus The Knight"}, 2866 Content={3576}, 2854 Content={2871}, 2868 Content={2859 Content={2871 Content={3457}}, 3304}}, 3504 Content={3147, 3147, 3147, 2656, 2656, 2656, 3507 String="Xeberus The Knight\nAb'Dendriel" Editor="Sir Blackk Fhyoda"}, 3120, 2853 Content={3351, 3377, 3269, 3269, 3413, 3377, 3092}, 2854 Content={2656, 3004, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2842, 3481, 3097 SavedExpireTime=3598, 3208}, 2854 Content={3377, 3377, 3350, 2854 Content={3269, 3377, 3377, 3377, 3377, 3377}}, 2469 Content={2854 Content={2871}, 2880, 2854, 2854, 2853}, 2473 Content={2853 Content={3457}, 3457, 3097, 3308, 2870 Content={2865 Content={2857 Content={2869 Content={2853 Content={2854 Content={2865 Content={2872, 2983, 2875, 2872 Content={3661, 2874 ContainerLiquidType=6}}, 2871 Content={3492 Amount=5, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}}, 3050 SavedExpireTime=1798}}, 2969 KeyNumber=3033}, 2868 Content={3083 RemainingUses=150, 2853 Content={2853, 2989}, 3732 Amount=1, 3059, 2920 SavedExpireTime=424, 2920}}, 2473 Content={2874, 3456}, 3502 Content={2854, 2863, 2853, 2871, 3350, 2473}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={2868 Content={2969 KeyNumber=3302, 2969 KeyNumber=3620, 2969 KeyNumber=3650, 2969 KeyNumber=3033, 3084 RemainingUses=208, 3004, 3003}, 3502 Content={2828 String="... were sealed with powerful magic. Only those were allowed to pass who sacrificed one of the peculiar coins that in ancient times were paid by those who came to visit their beloved dead. For this was the way of the Ritual of Sealing. Behind the seal, the mighty traitors were trapped forever. Such was their hatred and their lust for revenge that the very walls and stones became imbued with them and the lower tombs turned into places of utter doom, places where no mortal should venture to go. And to this day one of the traitors lurks in each of these tombs, surrounded by vicious traps and by powerful minions that serve both to protect them and to hold them captive. Woe to the fools who dare challenge the traitors in their prisons! For torturing and killing intruders is the only amusement that is left to these tortured souls.", 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 3097 SavedExpireTime=2041, 2868 Content={3046 SavedExpireTime=3000, 3046 SavedExpireTime=2986, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}}, 
+               8 Content={3502}}

@@ -1,0 +1,57 @@
+ID              = 10237840
+Name            = "Roberd eagle"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1148101197
+LastLogout      = 1148103491
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32001,31643,9]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,86333,0,98800,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,198886,1100,214735,1600)
+Skill = (2,211,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4820,1500,4925,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,111,1800,181,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1279,1800,2063,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,10310,1800,12334,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,115,1800,140,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,216,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,780,1100,810,20)
+Skill = (14,0,1200,0,0,0,901,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,41,100,0,0,0,1,0,86,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,10,14,15,18,27,29,42,44,45}
+QuestValues = {(16,1),(22,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(60,1),(61,1),(69,1),(96,1),(97,1),(98,1),(125,1),(126,1),(223,1),(333,1)}
+Murders     = {1147132541}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2868 Content={3582 Amount=2, 3286, 3031 Amount=100, 3358, 3031 Amount=100, 3003, 3152 Charges=1, 3578 Amount=5, 3160 Charges=1, 3097 SavedExpireTime=2563}},
+               4 Content={3377},
+               5 Content={3070},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3031 Amount=63}}
+
+Depots      = {0 Content={3502 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 
+               1 Content={3582 Amount=18, 3504 Content={3504 Content={3504, 3504 Content={3507 String="Cyragor Maver saint\ncarlin" Editor="Cyragor Maver saint"}, 3504 Content={3507 String="vinicius ivan da silva\ncarlin" Editor="Thim Morgus"}, 3504 Content={3507 String="Sir Razius\nCarlin" Editor="Vyny cyus"}, 3504, 3504 Content={3507 String="treisisa\nCarlin\n" Editor="Ralg"}, 3504 Content={3507 String="Treisisa\nCarlin" Editor="Sir gorditou malgestou"}, 3507 String="treisisa\nCarlin" Editor="Ralg"}, 3504, 3504 Content={3504 Content={3507 String="arkel demoniac\ncarlin\n" Editor="Arkel Demoniac"}, 3507 String="Drailon Saint\nCarlin" Editor="Drailon Saint"}, 3507 String="sir master zedrik\ncarlin" Editor="Melinda Thor"}, 3502 Content={3492 Amount=52, 3483, 3446 Amount=5, 2973 KeyNumber=3520, 2868 Content={2854}, 3447 Amount=4, 3074, 3174 Charges=3, 3377, 3350, 3066, 3066, 3377, 3425, 3425, 3377, 3421, 2854, 2970 KeyNumber=4503, 3056 RemainingUses=195, 3492 Amount=85, 2868, 3003, 2854 Content={2868}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={3056 RemainingUses=200, 3492 Amount=17}}, 
+               6 Content={3502}}

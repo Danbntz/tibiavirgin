@@ -1,0 +1,57 @@
+ID              = 8213925
+Name            = "Rastery"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,94-114-0-114)
+CurrentOutfit   = (134,94-114-0-114)
+LastLogin       = 1146770058
+LastLogout      = 1146770147
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32685,31692,6]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,212582,0,232500,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,629894,1100,642316,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,461,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6636,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,843,1800,1118,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7769,1800,12334,50)
+Skill = (10,23,0,10,0,0,0,0,0,0,0,148344,1800,234195,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,428,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,235,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,93,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,5,8,9,10,16,20}
+QuestValues = {(35,1),(37,1),(111,1),(112,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3198 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3155 Charges=1, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3155 Charges=1, 3155 Charges=1, 3160 Charges=1, 3160 Charges=1, 3031 Amount=25}},
+               4 Content={3404},
+               5 Content={3155 Charges=1},
+               6 Content={3425},
+               8 Content={3552},
+               10 Content={3155 Charges=1}}
+
+Depots      = {0 Content={3031 Amount=95, 2853, 2473 Content={2854, 2853 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 3577 Amount=91, 3577 Amount=78, 3577 Amount=26, 3092, 2473, 3351, 3314, 3313, 3284 RemainingUses=1, 3049, 2473, 2853, 3049, 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 6980 gold\nfor your house \"Thais Hostel\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Rastery\nthais" Editor="Fernando almada trylogy"}, 2862, 3465, 3502 Content={2863}}, 
+               1 Content={3506 String="Rastery\nCarlin\n\nHola, ¿¿¿Quieres entrar en un concurso en el que puedes GANARTE UN PREMMY ACC.??? es muy facil solo debescontestar la siguiente encuesta y mandar la respuesta a tibialatino@hotmail.com, tienes oportunidad de madar tu respuesta hasta el 30 de junio de 2005, se hara un sorteo entre todos los que respondan esta encuesta el 5 de julio del 2005, los ganadores del los 20 PREMY ACC. seran notificados por este mismo medio.\n\n                       Encuesta de Tibia\n\n1. Tu Char:\n2 Server:\n3 Pais de donde eres?\n4 Que Edad Tienes?\n5 Cuantas Horas Juegas a Tibia a la semana?\n6 Que profesion prefieres?\n7 Cual es la peor profesion? porque?\n8 Te gustaria un server totalmente en ESPAÑOL?\n9 Que es lo que mas te gusta de tibia?\n10 Que es lo que menos te gusta?\n11 Te parece buena la idea de quitar la magia Utevo Lux y en cambia dejar la vision siempre perfecta? (sin obscuridad)\n12 Que le agregarias a Tibia?\n13 Te gusta Matar a otras personas?\n14 Te gustaria que hubiecen mas formas de hacerte Premy Acc. como pagando dentro del juego?\n15 Te gustaria Hacerte Premy Acc. pagadon directamente en cualquier banco de tu pais?\n16 Cual es tu meta en Tibia?\n17 Tienes Guild?\n18 Sabes como llegar ser tutor o Game Master?\n19 Te gustaria ser Elite, Elder, Royal o Mater sin necesidad de ser premy?\n20 Te gustaria una pag Web donde concigas informacion como hacer tus Quest?\n\nSolo contesta estas preguntas y recuerda mandar tus respuesta al correo tibialatino@hotmail.com antes del 30-06-05 para que concurses en el sorteo de 20 Premy Acc. No hay respuestas incorrectas. Gracias\n", 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3071, 2870 Content={3052 SavedExpireTime=986, 3578 Amount=29, 3031 Amount=65, 2870 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3031 Amount=100, 3049 SavedExpireTime=333, 3052, 3003}, 3432, 3069, 3318, 3502}, 
+               5 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={3582 Amount=34, 3577 Amount=6}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

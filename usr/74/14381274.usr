@@ -1,0 +1,51 @@
+ID              = 14381274
+Name            = "Ghuebudo De'vile"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,79-69-114-115)
+CurrentOutfit   = (128,79-69-114-115)
+LastLogin       = 1148224315
+LastLogout      = 1148224323
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32349,32228,5]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7004,0,9300,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2770,1400,3839,1600)
+Skill = (2,168,195,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,50,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,1397,1100,1593,100)
+Skill = (7,25,0,10,0,0,0,0,0,0,0,960,1100,1078,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,305,1200,372,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,533,1200,645,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,73,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,64,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,20}
+QuestValues = {(30,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3504 Content={3507 String="Amiga Merlin\nThais" Editor="Melkezedeck"}, 3003, 3457}},
+               4 Content={3377}}
+
+Depots      = {0 Content={3349, 3279, 3503 Content={3507 String="vendedor de zacahuil\nthais" Editor="Ghuebudo De'vile"}, 3277 Amount=36, 3504 Content={3507 String="ghuebudo de'vile\nthais" Editor="Bresek Lord Gandermus"}, 3504 Content={3446 Amount=2, 3504 Content={3504 Content={3277 Amount=3, 3507 String="ghuebudo de'vile\nab'dendriel" Editor="Ghuebudo De'vile"}, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3349, 3349, 3446 Amount=100}, 3305, 3421, 3507 String="ghuebudo de'vile\nedron" Editor="Ghuebudo De'vile"}, 3349, 3446 Amount=100, 3507 String="ghuebudo de'vile\nthais" Editor="Ghuebudo De'vile"}, 3502}, 
+               2 Content={3504 Content={3556, 3567, 3079, 2854 Content={3598 Amount=100, 3586 Amount=100, 2647, 2650, 2644, 2656, 2667, 2647, 2659, 2644, 2653, 2659, 2667, 2653, 2644}, 3504 Content={3483, 2854, 3050 SavedExpireTime=255}}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="ghuebudo de'vile\nedron" Editor="Vendedor De Zacahuil"}, 3504 Content={3507 String="Ghuebudo De'vile\n Edron" Editor="Bersek Lord Warlock"}, 3502}}

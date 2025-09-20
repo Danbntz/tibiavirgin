@@ -1,0 +1,48 @@
+ID              = 14542240
+Name            = "Wal Zanera"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (128,78-69-58-76)
+CurrentOutfit   = (128,78-69-58-76)
+LastLogin       = 1145424165
+LastLogout      = 1145424170
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32098,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,0,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3585 Amount=1}},
+               4 Content={3561},
+               5 Content={3270},
+               6 Content={2920}}
+
+Depots      = {0 Content={3504 Content={2867 Content={3734 Amount=1, 3419, 3048 RemainingUses=20, 3048 RemainingUses=20, 3324, 3419, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 3284 RemainingUses=1, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3042 Amount=1, 3027 Amount=2, 3308, 2969 KeyNumber=3033, 2872 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3160 Charges=1, 2874 ContainerLiquidType=10, 2866 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 2871 Content={3377, 3723 Amount=21, 3305, 3033 Amount=1, 3031 Amount=63, 3446 Amount=23, 3031 Amount=100}, 3148 Charges=1}, 3507 String="wal zanera\nthais" Editor="Hypnoz"}, 3504 Content={3507 String="wal zanera\nthais" Editor="Hypnoz", 3079}, 3504 Content={3071, 3210, 3567, 3081 RemainingUses=2, 3434, 2858 Content={3295, 3457, 3003, 3081 RemainingUses=5, 3098}, 3507 String="wal zanera\nthais" Editor="Hypnoz"}, 3504 Content={3290, 3290, 3284 RemainingUses=1, 3284 RemainingUses=1, 3071, 3314, 3071, 2867 Content={3284 RemainingUses=1, 2865 Content={2854 Content={2854 Content={2868 Content={2868 Content={2870 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007}, 3049 SavedExpireTime=466, 3084 RemainingUses=142, 3084 RemainingUses=250, 3049, 3097, 3097 SavedExpireTime=3119, 3039, 3050, 3056 RemainingUses=200, 3097, 3084 RemainingUses=250, 3091}, 3010, 3014, 3013, 3097, 3085 RemainingUses=200, 3008, 3012, 3008, 3008, 3050, 3083 RemainingUses=150}, 3084 RemainingUses=250, 3004, 3083 RemainingUses=150, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=17, 3083 RemainingUses=150, 3012, 3083 RemainingUses=150, 3054 RemainingUses=200}, 3098, 3048 RemainingUses=20, 3097 SavedExpireTime=3506, 3051 SavedExpireTime=389, 3049 SavedExpireTime=55, 3082 RemainingUses=50, 3049 SavedExpireTime=1, 3056 RemainingUses=200, 3097, 3008, 3004, 3097 SavedExpireTime=3598, 3097, 3012, 3056 RemainingUses=200, 3012, 3085 RemainingUses=200, 3085 RemainingUses=144}, 3084 RemainingUses=250, 3008, 3084 RemainingUses=168, 3085 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 3082 RemainingUses=50, 3084 RemainingUses=250, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3210, 3507 String="wal zanera\nthais" Editor="Static Ekiz"}, 3504 Content={2472 Content={2870 Content={3734 Amount=15, 3034 Amount=33, 3042 Amount=100, 3599 Amount=24, 2992 Amount=66, 4839, 3727 Amount=2, 3724 Amount=1, 3726 Amount=1, 3029 Amount=2, 3032 Amount=2, 3027 Amount=30, 3026 Amount=13, 3030 Amount=3, 3033 Amount=25, 3030 Amount=3, 3028 Amount=36, 3042 Amount=36, 3044 Amount=4}, 3081 RemainingUses=2, 3449 Amount=100, 3450 Amount=1, 3449 Amount=100, 3450 Amount=100, 3035 Amount=100, 3043 Amount=3, 3035 Amount=91}, 3567, 3507 String="wal zanera\nthais" Editor="Static Ekiz"}, 3502}}

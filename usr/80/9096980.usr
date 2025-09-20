@@ -1,0 +1,61 @@
+ID              = 9096980
+Name            = "Zmok Kitad"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,116-114-132-116)
+CurrentOutfit   = (134,116-114-132-116)
+LastLogin       = 1148248739
+LastLogout      = 1148249396
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1048804,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,423927,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,78,0,10,0,0,0,0,0,0,0,679548,1100,716951,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,29,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,66,1100,105,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,84,1100,105,50)
+Skill = (10,78,0,10,0,0,0,0,0,0,0,353981,1100,358475,50)
+Skill = (11,26,0,10,0,0,0,0,0,0,0,1810,1100,2027,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,322,1100,370,20)
+Skill = (14,0,1200,0,0,0,432,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,80,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(1,1),(2,6),(14,1),(15,1),(35,1),(37,1),(41,1),(42,1),(43,1),(44,1),(59,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(76,1),(84,1),(85,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(125,1),(126,1),(134,1),(137,1),(153,1),(190,1),(191,1),(208,1),(211,4),(217,3),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,7),(249,2),(250,2),(251,3),(253,1),(257,1),(324,1),(332,1)}
+Murders     = {1147545978}
+
+Inventory   = {1 Content={3385},
+               2 Content={3012},
+               3 Content={2865 Content={3277 Amount=7, 3582 Amount=1, 3031 Amount=85, 3035 Amount=12, 3003, 3457, 2854 Content={3031 Amount=4, 3483, 3492 Amount=55, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2968 KeyNumber=3940}},
+               4 Content={3381},
+               5 Content={3436},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3092 SavedExpireTime=1455}}
+
+Depots      = {0 Content={3349, 3349, 3448 Amount=85, 3449 Amount=73, 3449 Amount=100, 3504 Content={3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3723 Amount=100}, 3502 Content={2469 Content={2469 Content={2469, 2469, 2469, 2469, 2469, 2469}, 2469, 2469, 2469, 2469 Content={2469}, 2469, 2469, 2469, 2469, 2469}, 2868 Content={2865, 2867, 2871, 2870, 2870, 2865, 2865, 2854, 2854, 2854, 2865, 2869, 2854, 2854, 2869, 2865, 2854, 2868, 2854, 2865}, 3504 Content={2469 Content={2865 Content={3039, 3093, 2854 Content={2870 Content={3097, 3050, 3093, 3092, 3736 Amount=1, 3093, 3097, 3050, 3097, 3061, 3092, 2991, 3050, 3092, 3092, 3050, 3092, 3092, 2970 KeyNumber=3800, 3093}, 3084 RemainingUses=250, 2969 KeyNumber=3008, 3017, 3084 RemainingUses=250, 2970 KeyNumber=3801, 3045 RemainingUses=200, 3045 RemainingUses=200, 3014, 2827 String="Cursed be the Akh, for it diverts our attention to things that are but trivial and transitory! Too many fail in their quests for ascension because they give in to their akhs' temptations. If only they knew that ascension holds the key to all our grievances! Only by ascending can we redeem the akh from its mortal bounds and free the Rah and the Uthun to strive for divinity. For each mortal creature holds the key to divinity, to be a god of his own right. \nUnfortunately, the so-called gods are jealous. They do not want the mortals to take what they think is rightfully theirs. It is because of this that they have instructed their followers to condemn the sacred state which they call undead. Brothers and sisters, unite! See through the deceptions of the akh! Shed your mortal shells and embrace the death-that-is-not-death! Ascend and be reborn!", 2972 KeyNumber=3980, 2972 KeyNumber=3304, 3027 Amount=5, 3082 RemainingUses=50, 3028 Amount=2, 3450 Amount=3, 3659, 3658, 3658, 3042 Amount=35}, 3039, 3048 RemainingUses=20, 3048 RemainingUses=20, 3061, 3077, 3061, 3050, 3050, 3077, 4871, 4871, 3061, 3061, 3061, 3061, 3051, 3093}, 2867 Content={2871 Content={3556, 3556, 3065, 3065, 3066, 3271, 3279, 3279, 2992 Amount=19, 3279, 3297, 3081 RemainingUses=5, 3424, 3297}}, 2871 Content={3583 Amount=8, 3598 Amount=27, 3589 Amount=40, 3589 Amount=100, 3586 Amount=90, 3373, 3596 Amount=7, 3587 Amount=100, 2955, 3590 Amount=46, 3588 Amount=100}, 2854 Content={2469 Content={2656, 2656, 2659, 2656, 2656, 2647, 2647, 3504 Content={2656, 2656, 2656, 2656, 2656, 2656, 2647, 2647, 2647, 2647}}, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 2955}}, 3507 String="zmok kitad\nthais\n" Editor="Zmok Kitad"}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3274, 3552, 3502 Content={3350}}, 
+               4 Content={3293, 3502 Content={3504 Content={3552, 3285, 3421, 3377, 3507 String="Zmok kitad\nEdron\n\n\nahi van algunas cosas xP!!"}, 3268, 3421, 3374, 3377, 3448 Amount=5, 3350}}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3552, 3504 Content={3504 Content={2853 Content={3377, 2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 3377}, 3377, 3377}}}, 3507 String="zmok kitad\nvenore"}, 3502}, 
+               7 Content={2659, 2656, 2659, 2659, 2667, 2656, 3502}, 
+               8 Content={3502 Content={3503 Content={3507}}}}

@@ -1,0 +1,57 @@
+ID              = 12647657
+Name            = "Angel of Trust"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (142,1-58-114-115)
+CurrentOutfit   = (142,1-58-114-115)
+LastLogin       = 1147340851
+LastLogout      = 1147342129
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1096654,0,1152200,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,606570,1100,642316,1600)
+Skill = (2,355,355,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,1050,1055,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,111,111,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,810,810,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,51386,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,178,2000,350,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1628,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,72,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6099,1100,6600,20)
+Skill = (14,0,1200,0,0,0,1122,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,13,16,19,20,25,29,30,39,44,45,76,81}
+QuestValues = {(14,1),(15,1),(31,1),(37,1),(53,1),(54,1),(59,1),(60,1),(93,1),(94,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(125,1),(126,1),(151,1),(152,1),(190,1),(191,1),(217,3),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(246,1),(247,1),(249,4),(250,4),(251,1),(253,1),(292,1),(325,2),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               3 Content={2854 Content={3503 Content={3507 String="Angel of trust\nthais" Editor="Angel of Trust"}, 3582 Amount=3, 3031 Amount=20, 3180 Charges=3, 3031 Amount=40, 3180 Charges=3, 3180 Charges=3, 3035 Amount=10, 3031 Amount=13, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147}, 2860 Content={3003, 3505 String="Angel of Trust is hunting here.\nPlease be respectfull and let me hunt.\n\nThanks" Editor="Angel of Trust", 3457}, 2854 Content={3198 Charges=5, 3198 Charges=4, 3188 Charges=1, 3188 Charges=3, 3198 Charges=5, 3198 Charges=5, 3191 Charges=2, 3198 Charges=4}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3071}}
+
+Depots      = {0 Content={3091 SavedExpireTime=1131, 3413, 2469 Content={2871 Content={3147, 2854}}, 3198 Charges=5, 2471, 3198 Charges=5, 2865 Content={2868 Content={2854, 3410, 2854, 2854}, 2870 Content={2854, 2854}, 2865, 2854 Content={2854, 3305, 2854, 3264, 2854, 3286, 2854, 2854, 3352, 2854, 3266, 2854, 2854}, 2866 Content={3350, 2854}, 2871 Content={3301}}, 3503 Content={2853 Content={2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874, 2874}, 2472, 3507 String="Angel of trust\nthais" Editor="Angel of Trust"}, 2854 Content={2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2860 Content={2860, 2860, 2860}, 2868 Content={2868, 2868, 2868, 2868, 2868}, 2871 Content={2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871}, 2863 Content={2863, 2863, 2863}, 2866 Content={2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866}, 2858 Content={2858, 2858, 2858, 2858}, 2869 Content={2869, 2869, 2869, 2869, 2869}, 2861 Content={2861, 2861, 2861}, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 2862 Content={2862, 2862, 2862, 2862}, 2867 Content={2867, 2867, 2867, 2867, 2867}, 2859 Content={2859}, 2865 Content={2865, 2865}, 2857}, 3147, 3147, 2863 Content={2860, 2469 Content={2866, 2854 Content={2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}, 2871 Content={2854 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3073, 3483, 2853 Content={3505 Editor="Angel of Trust", 3505 Editor="Angel of Trust", 3505 Editor="Angel of Trust", 3505 Editor="Angel of Trust"}}, 3043 Amount=3, 3504 Content={3147, 2871 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147}, 3031 Amount=60, 3081 RemainingUses=5, 3034 Amount=1, 3061, 3732 Amount=1, 3356, 3271, 3734 Amount=1}, 2871 Content={3198 Charges=4, 3483, 2969 KeyNumber=3610, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=4, 3198 Charges=4}, 3003}, 3356, 3507 String="Angel of trust\nThais" Editor="Angel of Trust"}, 3035 Amount=55, 3502}, 
+               1 Content={2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2860 Content={3457, 2970 KeyNumber=4503, 3200 Charges=2, 3456}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3578 Amount=3, 3502}, 
+               4 Content={3502}, 
+               5 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2866 Content={2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3035 Amount=31, 3502 Content={3503 Content={3507}}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

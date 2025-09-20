@@ -1,0 +1,58 @@
+ID              = 9445008
+Name            = "Dress Clenarav"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,114-86-0-0)
+CurrentOutfit   = (133,114-86-0-0)
+LastLogin       = 1128787138
+LastLogout      = 1128787145
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,110840,0,116000,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,226160,1100,237809,1600)
+Skill = (2,243,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,127,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15869,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,195,2000,210,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,151,2000,350,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,13745,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,394,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1121,1100,1145,20)
+Skill = (14,0,1200,0,0,0,236,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,30,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,7,8,9,10,15,20,21,25,29,38,45,50,55,81,87}
+QuestValues = {(18,1),(46,1),(59,1),(60,1),(61,1),(96,1),(97,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2854 Content={3492 Amount=54, 3059 String="", 3147, 3147, 3003, 3457, 3031 Amount=53, 3147, 3147, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147}},
+               4 Content={3370},
+               5 Content={},
+               6 Content={3415},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3425, 3441, 3421, 3003, 2854 Content={3003, 3059 String=""}, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3504 Content={3507 String="dress clenarav\nthais"}, 2970 KeyNumber=4601, 2955, 3308, 3453, 2901 ContainerLiquidType=0, 2973 KeyNumber=3520, 3050 SavedExpireTime=1605, 3307, 3470, 2880 ContainerLiquidType=0, 3289, 2893 ContainerLiquidType=0, 3012, 3507 String="wizard apollyon\nthais", 3504 Content={3507 String="Dress Clenarav\nThais"}, 3502 Content={3506 String="dress clenarav\nthais\nsi  kieres  k  baya  a  thais  a  leveliar  tienes  k  venir  por  mi", 3738 Amount=4, 3548 Amount=2}}, 
+               1 Content={3504 Content={3507 String="javt \ncarlin"}, 3003, 3502 Content={3012}}, 
+               3 Content={2656, 2659, 3449 Amount=8, 3673, 3658, 3447 Amount=3, 3673, 3283, 3287 Amount=1, 3552, 2853 Content={2853 Content={}}, 2667, 2393, 2659, 3017, 2393, 3017, 2393, 2653, 2393, 3658, 2952, 3658, 3673, 3673, 2659, 2393, 3673, 3673, 2659, 3378, 2952, 3658, 2656, 2393, 2647, 3658, 3658, 3658, 3668, 2656, 2664 RemainingExpireTime=72, 2853 Content={2853 Content={}}, 2854 Content={3658, 3658, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3658, 2659, 2667, 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3046 SavedExpireTime=2994, 3504 Content={3301, 3507 String="dress clenarav\nab'dendriel"}, 2854 Content={3286, 2854 Content={3457, 3003}, 3559, 3447 Amount=20}, 3504 Content={3286, 3031 Amount=2, 3507 String="Dress Clenarav\nab'dendriel\n"}, 3003, 3446 Amount=3, 3349, 2853 Content={3503 Content={}, 2853 Content={2853 Content={}, 2853 Content={3447 Amount=1, 2853 Content={2853 Content={2853 Content={}}}, 2983, 2853 Content={}}, 2853 Content={}, 3272, 3336}, 2853 Content={}, 2853 Content={3552, 3350}, 3605 Amount=44}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Coastwood 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853 Content={2969 KeyNumber=3033}, 2853 Content={2853 Content={3031 Amount=33, 2869 Content={}, 3097 SavedExpireTime=0, 3411, 3411}}, 3003, 2875 ContainerLiquidType=0, 2853 Content={3447 Amount=49, 3350}, 2853 Content={2870 Content={}}, 3504 Content={3456, 3605 Amount=16, 2853 Content={3447 Amount=6}, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3507 String="dress clenarav\nab'dendriel"}, 3504 Content={3504 Content={2854 Content={2969 KeyNumber=3033, 2854 Content={}, 3308, 3277 Amount=1}, 3507 String="Ver Gazo \nAb'dendriel"}, 3504 Content={3507 String="Fernando Almada Trylogy\nKazordoon"}, 3504 Content={3504 Content={3031 Amount=10}, 3504 Content={2865 Content={}, 3059 String="", 3507 String="fernando almada trylogy\nKazordoon"}, 3504 Content={3507 String="almada\nab'dendriel"}, 3504 Content={}, 3507 String="Ver Gazo\nAb'dendriel"}, 3507 String="Icarus the Dark Soul\nAb'dendriel"}, 2854 Content={2969 KeyNumber=3033, 2973 KeyNumber=3520}, 2854 Content={2922 SavedExpireTime=56, 3084 RemainingUses=250, 3077, 3008, 3056 RemainingUses=200, 3083 RemainingUses=130, 3292, 3603 Amount=5, 3453}, 3502 Content={3097 SavedExpireTime=3470}}, 
+               4 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

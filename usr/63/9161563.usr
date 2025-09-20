@@ -1,0 +1,55 @@
+ID              = 9161563
+Name            = "Vaulkan"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,39-95-124-115)
+CurrentOutfit   = (129,39-95-124-115)
+LastLogin       = 1148256731
+LastLogout      = 1148259881
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32345,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,62170,0,69700,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,43153,1400,55031,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,120,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,5901,1100,6400,100)
+Skill = (7,41,0,10,0,0,0,0,0,0,0,5559,1100,6034,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,176,1200,181,50)
+Skill = (9,28,0,10,0,0,0,0,0,0,0,6858,1200,7736,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,613,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1321,1100,1428,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,10,11,15,20,29,42,44,51}
+QuestValues = {(18,1),(32,1),(33,1),(35,1),(60,1),(61,1),(106,1),(107,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=50, 3003, 3457, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3191 Charges=2}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3277 Amount=6},
+               7 Content={3557},
+               8 Content={3556}}
+
+Depots      = {0 Content={3578 Amount=40, 3578 Amount=100, 3582 Amount=3, 3277 Amount=33, 3503 Content={3507 String="arkhus\nthais" Editor="Vaulkan", 3552, 3557, 3351, 3357, 3415}, 2783, 2808, 3502 Content={2854 Content={3052 SavedExpireTime=720, 3031 Amount=42, 3031 Amount=100, 3031 Amount=100, 3035 Amount=41, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2991, 2991, 3207 Amount=4, 2854 Content={3046, 3077, 3077, 3599 Amount=12, 3026 Amount=1, 3027 Amount=2, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3085 RemainingUses=200, 3085 RemainingUses=200}, 2854 Content={3421, 3421, 3421, 3421, 3070, 3384, 2865 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3083 RemainingUses=141, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008}, 3017, 3017, 3589 Amount=1, 2856 Content={3590 Amount=100, 3598 Amount=100, 4871, 3028 Amount=4, 2856 Content={3030 Amount=2, 3029 Amount=2, 3740 Amount=2, 3736 Amount=4, 3734 Amount=1}}}}, 2854 Content={3350, 3449 Amount=1, 3447 Amount=99, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3446 Amount=40, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2854 Content={3279, 3065}, 2968 KeyNumber=3940, 3425, 3349, 3349, 3350, 3350}, 2870 Content={3327, 3305, 3463, 3097, 3093 SavedExpireTime=1770, 3093, 3093, 2969 KeyNumber=3600, 3083 RemainingUses=150, 2906, 3289, 3307, 3307, 3059}, 2867 Content={3483, 3483, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2868 Content={3283, 3012, 3074, 3658, 3658, 2854 Content={2868 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2868 Content={2860}, 2868 Content={2860}, 2868 Content={2860}}, 2854 Content={3465 ContainerLiquidType=1, 3190 Charges=4, 3174 Charges=5, 3166 Charges=4, 3198 Charges=5, 2867 Content={2867, 2859, 2859}, 2871 Content={2863}, 2866 Content={2866, 2858}, 2865 Content={2865, 2857, 2857}, 2869 Content={2869, 2861}, 2868 Content={2868, 2860, 2860}, 2854 Content={2854, 2854, 2853}, 2870 Content={2870, 2862}, 2872 Content={2872, 2872, 2864}}, 2854 Content={3097, 3093, 3050}}, 2868 Content={3453, 2873, 3457, 3483, 2868 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520}}, 2854 Content={2955, 2955, 2955, 2973 KeyNumber=3520, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2970 KeyNumber=4503}, 2973 KeyNumber=3520, 2873}}}, 
+               1 Content={3502}, 
+               3 Content={3502 Content={3003}}, 
+               6 Content={3502}}

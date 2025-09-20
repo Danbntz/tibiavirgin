@@ -1,0 +1,57 @@
+ID              = 12812750
+Name            = "Camus of Aquarious"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-0-0-0)
+CurrentOutfit   = (128,0-0-0-0)
+LastLogin       = 1148259148
+LastLogout      = 1148259243
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32551,31980,9]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38890,0,47000,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,32050,1100,34214,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,225,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8963,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3467,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1485,1100,1590,20)
+Skill = (14,0,1200,0,0,0,1144,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,1,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,88}
+QuestValues = {(21,1),(23,1),(27,1),(32,1),(33,1),(34,1),(86,1),(87,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={3031 Amount=16, 3577 Amount=3, 3492 Amount=29, 3658, 3059, 3031 Amount=100, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={3362, 3504 Content={3031 Amount=69, 3031 Amount=100, 3031 Amount=100}, 3502}, 
+               3 Content={3377, 3308, 3551, 3074, 3505 String="gracias por todo\n" Editor="Chii", 3446 Amount=24, 3361, 3426, 3492 Amount=70, 3506 String="Camus of Aquarious\nAb'dendriel\n\nShamakita here xD te skribo aki pork no se kuando entres kn Aprendiz pero... si mandas algo k aki no sea -.- pork no entro seguido... se kuida i se le kiere :) te fue bn kn el horario??? \n\nadios!!!" Editor="Crayola-fire", 3502 Content={3031 Amount=52, 3372, 3035 Amount=17, 3031 Amount=100, 3031 Amount=100, 3425, 3305, 3353, 3503 Content={3507}, 3362, 3367, 3409, 3358, 3264, 3413, 3358, 2853 Content={3283, 3585 Amount=1, 2920 SavedExpireTime=278, 3283, 3374, 3411}}}, 
+               4 Content={3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 3rd Floor, Flat 03\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 3rd Floor, Flat 03\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 3rd Floor, Flat 03\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 3rd Floor, Flat 03\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 3rd Floor, Flat 03\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Castle, 3rd Floor, Flat 03\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3503 Content={3507, 3483}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Castle, 3rd Floor, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2868 Content={3492 Amount=10, 3447 Amount=10, 3093 SavedExpireTime=1289, 3311, 3283}, 2866 Content={3457, 3457, 3003, 3003}}}, 
+               5 Content={3502}, 
+               6 Content={3377, 3502}}

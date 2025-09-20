@@ -1,0 +1,57 @@
+ID              = 13925505
+Name            = "Pi ter"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,79-42-78-116)
+CurrentOutfit   = (128,79-42-78-116)
+LastLogin       = 1148209313
+LastLogout      = 1148210530
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32284,31789,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,310697,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,72898,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,135,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,157274,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,63,0,10,0,0,0,0,0,0,0,84823,1100,85435,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,70,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,18,1100,20,20)
+Skill = (14,0,1200,0,0,0,824,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,76,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,11,20,29}
+QuestValues = {(14,1),(15,1),(17,1),(32,1),(33,1),(34,1),(35,1),(60,1),(61,1),(96,1),(97,1),(98,1),(223,1)}
+Murders     = {1146992214}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=48, 3291, 3031 Amount=100, 3582 Amount=8, 3003, 3483, 2874, 2874, 3308, 3457, 2854 Content={3286, 3367, 3286, 3354, 3286, 3354, 3410, 3277 Amount=2, 3286}}},
+               4 Content={3370},
+               5 Content={3434},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3556},
+               10 Content={2874 ContainerLiquidType=10}}
+
+Depots      = {0 Content={3504 Content={3507 String="pi ter\nthais" Editor="Pi ter"}, 3504 Content={3507 String="pi ter\nthais" Editor="Pi ter"}, 3504 Content={3507 String="pi ter\nthais" Editor="Pi ter"}, 3504 Content={2853, 2853, 2853, 2853, 3507 String="Pi ter\nthais" Editor="Kyrotto"}, 3502}, 
+               1 Content={3504 Content={3507 String="Pi ter\nCarlin" Editor="Diego Le"}, 3504 Content={3507 String="pi ter\ncarlin" Editor="Veryan Taverin"}, 3504 Content={3507 String="pi ter\ncarlin" Editor="Veryan Taverin", 2969 KeyNumber=3033, 3147, 3031 Amount=9, 3457, 3147, 3307, 3349, 3286}, 3504 Content={3507 String="pi ter\ncarlin" Editor="Kosiarz lolu"}, 3504 Content={3507 String="pi ter\ncarlin" Editor="Kosiarz lolu"}, 3502 Content={3447 Amount=12, 3277 Amount=4, 2854 Content={2644, 3658}, 3457, 3003, 2955, 3266, 3054 RemainingUses=200, 2867 Content={3602 Amount=2, 3583 Amount=2, 2873, 3600 Amount=15, 3723 Amount=3}, 3271, 3483, 3310, 3299, 3291, 3308, 2854 Content={3172 Charges=1, 3052, 3188 Charges=2, 3188 Charges=1, 3147, 3147, 3147, 3174 Charges=3, 3198 Charges=5, 2853, 3192 Charges=2, 3164 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 3027 Amount=2, 2906, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3291, 4871, 3097, 2866 Content={2867, 3031 Amount=1, 3377, 3377, 2854 Content={3285, 3264, 3286, 3286, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3059, 2867, 2868 Content={2991, 3008, 3056 RemainingUses=200, 2955, 3093, 3453, 3658, 3050, 3092 SavedExpireTime=1799, 2969 KeyNumber=4600, 2991}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3003, 3191 Charges=2, 2853, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2857 Content={3264, 3046 SavedExpireTime=2997, 3077, 3084 RemainingUses=250, 3098}, 3059, 3285, 3285, 3285}, 2854 Content={3072, 3073, 3066, 3074}, 2854, 2854, 2867, 2867, 2869}, 2871 Content={3035 Amount=81}, 3289, 3097 SavedExpireTime=3437, 3291, 2955, 3291, 2854 Content={3003, 2973 KeyNumber=3520, 2970 KeyNumber=3801, 2970 KeyNumber=3800}}}, 
+               2 Content={3504 Content={3507 String="pi ter\nkazordoon" Editor="Pi ter", 2853}, 3502}, 
+               3 Content={3502 Content={3577 Amount=2, 3003}}, 
+               6 Content={3502}}

@@ -1,0 +1,54 @@
+ID              = 12904926
+Name            = "Maria Jose"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,116-0-114-0)
+CurrentOutfit   = (142,116-0-114-0)
+LastLogin       = 1146692013
+LastLogout      = 1146692018
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32702,31698,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,5758,0,6400,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,1721,1100,1853,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,26,0,10,0,0,0,0,0,0,0,1863,1100,2027,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,73,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1),(96,1),(97,1),(98,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2867 Content={3453}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3286},
+               7 Content={3362},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={2920 SavedExpireTime=591, 3502}, 
+               3 Content={2635, 2870 Content={2854 Content={3378}, 2865 Content={2865 Content={3299, 2867, 2865, 2868}, 2865}}, 3114 Amount=1, 3337, 3378, 2469 Content={2469 Content={2865, 3412, 3358, 2861, 2872 Content={3582 Amount=24}, 3463, 2880}, 2469 Content={3097 SavedExpireTime=3596, 3446 Amount=12, 3003, 3003}, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3c\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3031 Amount=3, 3412, 2854 Content={2843 String="jajajaj todos son unos maricos\n\n\nscarlet te amo" Editor="Ramonsito-kun", 3003, 2854 Content={3003}, 2854}, 3492 Amount=10, 2922 SavedExpireTime=30, 3502 Content={2868 Content={3457}, 3412, 2920 SavedExpireTime=387}}, 
+               4 Content={3502}}

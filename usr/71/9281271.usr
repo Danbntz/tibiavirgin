@@ -1,0 +1,55 @@
+ID              = 9281271
+Name            = "Mari Keni"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,115-121-114-95)
+CurrentOutfit   = (129,115-121-114-95)
+LastLogin       = 1147982006
+LastLogout      = 1147982107
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9558,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,3498,1400,3839,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,25,65,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6875,1100,7140,100)
+Skill = (7,26,0,10,0,0,0,0,0,0,0,1114,1100,1216,30)
+Skill = (8,25,0,10,0,0,0,0,0,0,0,3801,1200,4372,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,64,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,26,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,381,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(27,1),(60,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2853 Content={2920 SavedExpireTime=527}},
+               4 Content={3377},
+               5 Content={3264},
+               6 Content={3430},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3447 Amount=18}}
+
+Depots      = {1 Content={3502 Content={2924 SavedExpireTime=260, 3552, 2924 SavedExpireTime=277, 2924 SavedExpireTime=185, 3492 Amount=1, 3274, 2924 SavedExpireTime=138, 2924 SavedExpireTime=254, 3509, 3588 Amount=5, 3462, 2874, 2874, 3565, 3426, 2874}}, 
+               3 Content={3502 Content={3374, 3308, 2853 Content={3031 Amount=100, 3031 Amount=12}, 2969 KeyNumber=3033, 3559, 3504 Content={3274, 3378}, 3374, 3446 Amount=14, 3361, 3308, 3430, 3274, 3552, 3552, 3274, 3276, 2911 SavedExpireTime=2998, 3374, 3276, 3374, 3504 Content={3552, 3375, 3507 String="poiboladao\ncarlin", 3003, 3291, 3456, 3003}, 3457, 2816 String="Then something happened. The dimension that harboured the elven valley began to collapse. Pice for pice their land was torn away and the wisest of the elves found out that the valley would ultimately 'fall' back in the world it belonged to. Great efforts were undertaken to prevent it. All were futile. As this was recognized it was almost too late. All magic was concentraded to preserve the lives of the elves. Protective shells were created, spells to deflect damage, enchantements to keep harm away. The 'return' was aweful. Almost half of the elves perished. All of the valley and its wonders were destroyed. Almost nothing remained. Artifacts and books shattered and burnt alike. The battered elves retreated and begun to wander aimlessly through the lands, until they encountered scouts of the Deraisim who led them to the safety of their woods. At first they were disgusted by the primitive lifestyle of their brethren, but soon they decided they had to guide and lead them back to true values of elvenkind. So one of their encampements was choosen as new home for the elvenkind and the city of Ab'Dendriel was founded.\n", 3274, 3462, 3457}}, 
+               6 Content={3502 Content={3031 Amount=8}}}

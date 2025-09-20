@@ -1,0 +1,55 @@
+ID              = 12970261
+Name            = "Heyah Kamas"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,3-23-40-59)
+CurrentOutfit   = (129,3-23-40-59)
+LastLogin       = 1148232619
+LastLogout      = 1148232828
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32332,31784,8]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,99711,0,116000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,24857,3000,64000,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,53,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,29832,1100,29912,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,49,0,10,0,0,0,0,0,0,0,20988,1100,22129,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,43,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,34,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,683,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(60,1),(125,1),(126,1),(223,1),(224,1)}
+Murders     = {1147597106}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=8, 3483, 3277 Amount=1, 3291, 3003, 3457}},
+               4 Content={3380},
+               5 Content={3280},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3556}}
+
+Depots      = {1 Content={3504 Content={3425, 3351, 3265, 2867 Content={3353, 3282, 3557, 3297, 3557, 3425, 3357, 3286, 3264, 3577 Amount=5, 3160 Charges=1, 3264, 3469, 3059, 2920, 3031 Amount=91, 3003, 2853 Content={2920, 2920, 2920, 2920}, 3457}, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=14, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=32, 3035 Amount=100}, 3507 String="Heyah Kamas\nCarlin" Editor="Piratas de campeche"}, 3504 Content={2854 Content={3066, 3384, 3421, 3372, 3031 Amount=53, 3031 Amount=100, 3189 Charges=2, 3189 Charges=2, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3031 Amount=100, 3003}, 3507 String="Heyah Kamas\nCarlin\n\n" Editor="Diabulus et Belial", 3359}, 3504 Content={3507 String="Heyah Kamas\nCaRLIN" Editor="Lucifer et Yahve", 2854 Content={3373, 3297, 3557, 3357, 3380}}, 3504 Content={2854 Content={3031 Amount=8, 3069, 3007, 3557, 3359, 2865 Content={3551, 3070, 3065, 3066}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3065}, 3052, 3085 RemainingUses=200, 3359, 3359, 3588 Amount=3, 3160 Charges=1, 3003}, 3507 String="Heyah Kamas\nCarlin" Editor="Renge Samus"}, 3504 Content={3031 Amount=85, 3507 String="Heyah Kamas\nCarlin" Editor="Karlos Albertito", 2872 Content={3097 SavedExpireTime=3444, 3432, 3356, 3003, 3483}, 3297}, 3504 Content={2854 Content={2854 Content={3031 Amount=100, 3031 Amount=85, 3035 Amount=26, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3577 Amount=10, 3003}, 3073, 3419, 3385, 3370, 3557, 3079, 3507 String="Heyah Kamas\nCarlin" Editor="Karlos Albertito"}, 3504 Content={2853 Content={3285, 3551, 3384}, 3372, 3507 String="Heyah Kamas\nCarlin" Editor="Zyga Elnergo", 3059, 2872 Content={3378}, 3410, 3359}, 2969 KeyNumber=3033, 3084 RemainingUses=188, 3172 Charges=1, 2480 Content={2472 Content={2874, 2874, 2955, 3552, 2955, 3291, 3264, 3451}, 2868 Content={3362, 3446 Amount=20, 3277 Amount=9, 3504 Content={3504 Content={3507 String="Heyah Kamas\nCarlin" Editor="Heyah Wodzirej"}, 3504, 3504, 3504, 3504, 3504}, 3453, 2874, 3050 SavedExpireTime=1798, 2991, 3377, 2969 KeyNumber=4600}}, 3502 Content={3147, 2854, 3035 Amount=87, 2866 Content={3123, 3008, 3123, 3084 RemainingUses=250, 3446 Amount=22, 2867, 2869 Content={3289, 3291}}, 2656, 2868 Content={3492 Amount=64, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2865 Content={2854 Content={3189 Charges=2, 3189 Charges=2, 3174 Charges=1, 3189 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3191 Charges=2, 3155 Charges=1, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=3}, 2869 Content={3056 RemainingUses=200, 3483, 3003, 3147, 3003, 3375, 3375, 3349, 3008, 3008}, 2867 Content={2868 Content={3349, 2973 KeyNumber=3520, 2955, 2868 Content={3059, 3092 SavedExpireTime=1782, 3483, 2991, 2969 KeyNumber=4603, 2853 Content={3349, 3349, 3350, 3349, 3349, 3349, 3349, 3349}}, 2856}, 2859 Content={3425, 3425, 3425, 3425, 3425, 3409, 3425, 3425}}, 3578 Amount=81, 3504 Content={3362, 2880 ContainerLiquidType=2, 2874, 2874, 2874, 2874, 2874, 3003, 3003, 3003}, 2473}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Heyah Kamas\nAb'dendriel" Editor="Osilon", 2854 Content={3451, 3031 Amount=17, 3174 Charges=3, 3446 Amount=6, 3012, 3457, 3003}, 3375}, 3504 Content={2870 Content={2853}, 3507 String="Heyah Kamas\nAb'dendriel\n" Editor="Heyah Kamas"}, 3504 Content={3507 String="Heyah Kamas\nAb'dendriel\n" Editor="Heyah Kamas"}, 3502 Content={3411, 2854 Content={2471 Content={3059, 3059, 3059, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=4600}, 2471 Content={3007, 3285, 3285, 3327, 3327, 3558, 3299, 2969 KeyNumber=3033}, 2867 Content={3077, 3045 RemainingUses=200, 3054 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3004, 2857 Content={3017, 3017, 3017, 3017, 3017, 3017}, 3290, 3451, 2977}, 2854 Content={3483, 3308, 3003, 3003, 3003}, 2853 Content={3093, 3092, 3097, 2867}, 3504 Content={2868, 2866, 2865, 2872 Content={2872}, 2867, 2871, 2869 Content={2869}}, 2859 Content={2864 Content={2857}}, 2854 Content={2644, 3454, 2853 Content={3004, 2853, 2853 Content={2853}, 2853, 2853 Content={2853}}, 3083 RemainingUses=150, 2853 Content={2920, 2920, 2920, 2920, 3050 SavedExpireTime=1779, 3056 RemainingUses=200, 3050, 3056 RemainingUses=200}, 3456, 3046, 3046 SavedExpireTime=2985, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 3446 Amount=100, 3446 Amount=79, 3425}, 3457, 3003, 2867 Content={3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 2955, 3446 Amount=3, 3578 Amount=2, 2868 Content={3003, 3457}}}, 
+               6 Content={3507, 3504, 2866 Content={3446 Amount=6, 3469}, 3502 Content={3504 Content={3507 String="Heyah Kamas\nVenore" Editor="Heyah Pagus"}, 3291, 3457, 2885}}}

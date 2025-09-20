@@ -1,0 +1,57 @@
+ID              = 9924022
+Name            = "Shadow Toy Soldier"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (130,58-114-114-114)
+CurrentOutfit   = (130,58-114-114-114)
+LastLogin       = 1148186251
+LastLogout      = 1148187207
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33191,32806,6]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,537398,0,548900,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1310603,1100,1395159,1600)
+Skill = (2,310,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,123,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,45865,1500,58185,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,90,1800,181,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,18653,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,917,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,488,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,135,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,188,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,11,12,14,16,18,20,27,29,30,38,39,42,44,75,76,81,84,87,88,89,91}
+QuestValues = {(1,3),(2,6),(20,1),(21,1),(22,1),(23,1),(39,1),(41,1),(42,1),(43,1),(44,1),(56,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(111,1),(112,1),(143,1),(145,1),(146,1),(147,1),(190,1),(191,1),(211,4),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3210},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=8, 3507 String="Shadow Toy Soldier \nHunting Here .. \nRespect plx .." Editor="Shadow Toy Soldier", 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3033 Amount=1, 2854 Content={3031 Amount=61, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3003, 3457}},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3079},
+               10 Content={3583 Amount=5}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="shadow toy soldier\nedron" Editor="Zparck"}, 3504 Content={3507 String="shadow toy soldier\nedron\n" Editor="Zparck"}, 3502}, 
+               5 Content={3502 Content={}}, 
+               7 Content={3504 Content={2857, 3507 String="shadow toy soldier\nankrahmun" Editor="Dago Osuna"}, 3504 Content={3180 Charges=3, 3384, 3425, 3372, 3507 String="Shadow Toy Soldier\nAnkrahmun" Editor="Zparck"}, 3504 Content={3507 String="shadow toy soldier\nankrahmun" Editor="Shadow Toy Soldier", 3066, 3180 Charges=3, 3180 Charges=3, 3180 Charges=1, 3093}, 3502 Content={3504 Content={2969 KeyNumber=3620, 3590 Amount=6, 3592, 3585 Amount=1, 3593, 3587 Amount=1, 3308, 2970 KeyNumber=3899}, 3084 RemainingUses=250}}}

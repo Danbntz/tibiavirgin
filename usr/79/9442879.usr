@@ -1,0 +1,59 @@
+ID              = 9442879
+Name            = "Rabec"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,0-132-113-0)
+CurrentOutfit   = (128,0-132-113-0)
+LastLogin       = 1145815908
+LastLogout      = 1145815942
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32921,32073,7]
+PlayerkillerEnd = 0
+
+Skill = (0,49,0,1,0,0,0,0,0,0,1,1749886,0,1847300,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,435219,1400,440480,1600)
+Skill = (2,595,595,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,10,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,118,118,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1290,1290,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,20869,1100,22225,100)
+Skill = (7,74,0,10,0,0,0,0,0,0,0,144293,1100,146811,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,1311,1200,1607,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,19,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1100,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,515,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,30,42,44,51,76,79,81,95}
+QuestValues = {(1,4),(2,6),(41,1),(42,1),(43,1),(44,1),(50,1),(87,1),(109,1),(121,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(140,1),(141,1),(154,1),(170,1),(171,1),(172,1),(173,1),(174,1),(190,1),(191,1),(200,1),(201,1),(202,1),(211,4),(222,1),(225,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2),(292,1)}
+Murders     = {1144916080}
+
+Inventory   = {1 Content={3373},
+               3 Content={2865 Content={3003, 3446 Amount=59, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2854 Content={3031 Amount=22}, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3035 Amount=18, 3457, 3155 Charges=1, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3504 Content={3507 String="rabec\nab'dendriel"}, 3507 String="rabec\nab'dendriel"}, 3059, 3502 Content={3425, 3085 RemainingUses=200, 2853 Content={2868 Content={3589 Amount=23, 3723 Amount=50, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}, 3578 Amount=99, 2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 2857 Content={2861 Content={2991, 3039}, 3042 Amount=2, 3271, 3046, 3077}, 2869 Content={3349, 3483, 3350, 3349, 3349, 3349}}}, 
+               4 Content={3504 Content={3507 String="Rabec\nedron"}, 2868 Content={3147, 3147, 3147}, 3078, 3287 Amount=4, 3504 Content={3504 Content={3504 Content={}}, 3503 Content={3503 Content={3503 Content={}, 3503 Content={}}, 3507 String=""}, 3507 String="rabec\nEdron"}, 3502 Content={3044 Amount=2, 2865 Content={3492 Amount=72, 3492 Amount=100, 1781 Amount=33, 2914 SavedExpireTime=1978, 2874 ContainerLiquidType=7, 2914 SavedExpireTime=0, 2874 ContainerLiquidType=7, 3448 Amount=26, 2854 Content={2866 Content={}, 2854 Content={}, 2870 Content={}, 2868 Content={}, 2866 Content={}, 2869 Content={}, 2872 Content={}, 2866 Content={}, 2854 Content={}}, 3483, 3465 ContainerLiquidType=0, 3046 SavedExpireTime=2995, 3003, 3457, 3308, 3308, 3457, 3457, 2868 Content={2903 ContainerLiquidType=0, 2842 String="", 2970 KeyNumber=3301, 3350, 3277 Amount=18, 2972 KeyNumber=3304, 2970 KeyNumber=3303, 2969 KeyNumber=3302, 3061, 3310, 3330}}, 2854 Content={3045 RemainingUses=200, 3465 ContainerLiquidType=0, 1781 Amount=18, 3481, 3045 RemainingUses=172, 3054 RemainingUses=200, 3425}}}, 
+               5 Content={3003, 3457, 3502 Content={2854 Content={}, 3457, 3277 Amount=12, 3578 Amount=5}}, 
+               6 Content={3504 Content={2853 Content={2853 Content={2853 Content={3425, 3425, 3349, 3349}, 3349, 3425}, 3349, 3349}, 3507 String="Rabec\nVenore" Editor="Rabec"}, 2868 Content={3066, 3304, 2859 Content={2859}, 3050, 2874 ContainerLiquidType=7, 2874 ContainerLiquidType=7, 2968 KeyNumber=3940}, 2868 Content={3349, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3502 Content={2869 Content={2869, 2865}, 3503, 3503}}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3502 Content={}}}

@@ -1,0 +1,58 @@
+ID              = 8949782
+Name            = "Duelists Of Roses"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,95-94-94-95)
+CurrentOutfit   = (134,95-94-94-95)
+LastLogin       = 1119929730
+LastLogout      = 1119929742
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33217,31814,8]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,146581,0,156200,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,127840,1400,157982,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,46452,1100,48785,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,30455,1100,31715,30)
+Skill = (8,28,0,10,0,0,0,0,0,0,0,6888,1200,7736,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,161,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,24,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,101,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3556,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,15,20,29,30,42,44,51,76,79}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(30,1),(32,1),(33,1),(34,1),(59,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(109,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2869 Content={3447 Amount=52}},
+               4 Content={3357},
+               5 Content={3350},
+               6 Content={},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3031 Amount=20, 3031 Amount=100, 3349, 3446 Amount=30, 3503 Content={3003, 3504 Content={}, 3031 Amount=53, 3031 Amount=100, 3447 Amount=57, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3507 String="duelists of roses\nedron"}, 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="duelists of roses\ncarlin"}, 3507 String="duelists of roses\ncarlin", 3502 Content={}}, 
+               4 Content={2866 Content={}, 2854 Content={}, 2866 Content={}, 2472 Content={3003, 3375, 3409, 3377, 3330, 3377, 3275, 3275, 3285, 3275, 3377, 3375, 3377}, 2853 Content={3292, 3362, 3308, 3551}, 3503 Content={3110, 3455, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Flat 08\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3293}, 3425, 3503 Content={3504 Content={3367, 3367, 3354, 3354, 3465 ContainerLiquidType=0, 2853 Content={3264, 3367, 3354, 3354, 3367, 3367, 3354, 2853 Content={}}, 3367, 3367, 3354, 3367}, 3354, 3354, 3354, 3354, 3354, 3354, 3367, 3354, 3354}, 3409, 3085 RemainingUses=200, 3269, 3285, 3285, 3577 Amount=2, 3723 Amount=12, 3265, 3418, 2656, 3098 SavedExpireTime=0, 3097 SavedExpireTime=0, 2865 Content={3349, 3446 Amount=24, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3059 String="", 2854 Content={}, 2854 Content={3083 RemainingUses=150, 3084 RemainingUses=250, 3012, 3026 Amount=1, 3027 Amount=2, 3008, 3008, 3033 Amount=1, 2874 ContainerLiquidType=0, 3032 Amount=1, 3017, 3026 Amount=1, 3054 RemainingUses=200, 3097 SavedExpireTime=3598, 3110, 3110, 3083 RemainingUses=150, 3083 RemainingUses=150, 3056 RemainingUses=200, 3083 RemainingUses=150}, 3483, 2854 Content={}, 2854 Content={}, 2865 Content={}, 3059 String="", 3457, 2854 Content={}, 3059 String="", 2854 Content={3147, 3147, 3147, 3147, 3147, 3147}, 3003, 3275, 3301, 3052 SavedExpireTime=0, 2857 Content={3035 Amount=1, 3031 Amount=100}, 3277 Amount=98, 3448 Amount=4, 3298 Amount=1, 2992 Amount=4, 3447 Amount=100, 1781 Amount=8, 3447 Amount=100, 3291, 3291, 3447 Amount=100, 3447 Amount=100, 3447 Amount=39, 3446 Amount=100, 3446 Amount=100, 3446 Amount=86, 3503 Content={}, 3447 Amount=68, 3350, 3046 SavedExpireTime=2997, 3077, 2656, 2656, 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 08\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3031 Amount=94, 3269, 3031 Amount=86, 3374, 3031 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=37, 3447 Amount=100, 3507 String="duelists of roses\nedron"}, 3285, 3504 Content={3059 String="", 3504 Content={2853 Content={2853 Content={3359}, 3377}, 3507 String="duelists of roses\nthais"}, 3507 String="duelists of roses\nedron\n"}, 3457, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3505 String="", 3502 Content={}}}

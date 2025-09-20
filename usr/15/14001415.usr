@@ -1,0 +1,56 @@
+ID              = 14001415
+Name            = "Hiugs"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,116-126-114-114)
+CurrentOutfit   = (134,116-126-114-114)
+LastLogin       = 1148005144
+LastLogout      = 1148005754
+StartPosition   = [33217,31814,8]
+CurrentPosition = [32913,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,223543,0,232500,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,124954,1400,157982,1600)
+Skill = (2,355,355,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,128,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,810,810,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,46423,1100,48785,100)
+Skill = (7,64,0,10,0,0,0,0,0,0,0,54440,1100,56417,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,38,1200,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,442,1200,496,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,13,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,858,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2173,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,186,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,20,29,30,42,44,51,76,79,81}
+QuestValues = {(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3003, 3350, 3447 Amount=9, 3425, 3031 Amount=26, 3447 Amount=100, 3447 Amount=100}},
+               6 Content={3349},
+               9 Content={3004},
+               10 Content={3446 Amount=23}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3447 Amount=48, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3507 String="Hiugs\nThais" Editor="Hiugs"}, 3502 Content={3582 Amount=2, 3590 Amount=3}}, 
+               1 Content={3003, 3277 Amount=21, 2853 Content={3588 Amount=100, 3588 Amount=68, 2853}, 3502}, 
+               3 Content={3502 Content={2865}}, 
+               4 Content={2853, 2469, 3463, 2853, 3059, 2656, 2656, 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1530 gold\nfor your house \"Magic Academy, Flat 4\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3075, 3198 Charges=4, 3507 String="Hiugs\nEdron" Editor="Emece"}, 3504 Content={3507 String="Hiugs\nEdron" Editor="Emece"}, 3504 Content={3504 Content={3507 String="Hiugs\nEdron" Editor="Rose-Anne"}, 3504 Content={3507 String="Hiugs\nEdron" Editor="Emece"}, 3504 Content={3507 String="Hiugs\nEdron" Editor="Emece"}, 3507 String="Hiugs\nEdron" Editor="Knight of da Sword"}, 3446 Amount=100, 3504 Content={3507 String="hiugs\nedron" Editor="Hiugs", 2865 Content={2853, 3446 Amount=100, 3446 Amount=100, 2853 Content={3377, 3377, 3377, 3377}, 2853 Content={3377, 3377, 3377}, 2853, 2853, 3446 Amount=100, 2866 Content={3492 Amount=2, 3305}, 2853, 2853}}, 3504 Content={3492 Amount=92, 3349, 3349, 3349, 3349, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3507 String="hiugs\ndarashia" Editor="Knight of da Sword"}, 2469, 2469, 3504 Content={3447 Amount=40, 3050 SavedExpireTime=1727, 3483, 3492 Amount=52, 2854 Content={3483, 3492 Amount=100, 3492 Amount=100, 3191 Charges=1, 3492 Amount=100, 3031 Amount=3, 3198 Charges=3}, 3507 String="Hiugs\nEdron" Editor="Hiugs"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magic Academy, Flat 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3277 Amount=4, 3359, 3504 Content={2854, 3507 String="Hiugs\nDarashia" Editor="Knight of da Sword"}, 3367, 3483, 3502 Content={3277 Amount=5}}, 
+               6 Content={3502}, 
+               7 Content={3502}}

@@ -1,0 +1,54 @@
+ID              = 14312370
+Name            = "Elwor Druid"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-94-132-0)
+CurrentOutfit   = (130,0-94-132-0)
+LastLogin       = 1148241253
+LastLogout      = 1148244581
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,189465,0,204800,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,214783,1100,237809,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,450,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14988,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1989,1800,2063,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,144,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6883,1100,7280,20)
+Skill = (14,0,1200,0,0,0,618,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,2,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,10,16,38}
+QuestValues = {(59,1),(100,1),(106,1),(107,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3054 RemainingUses=115},
+               3 Content={2854 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3147, 3198 Charges=2, 3198 Charges=1, 3198 Charges=1, 3198 Charges=3, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3003, 2853 Content={3492 Amount=82, 3483}, 2853}},
+               4 Content={3357},
+               5 Content={3069},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3384, 3384, 3502 Content={2472 Content={3035 Amount=60}, 2472 Content={2875, 2875, 2875, 2875, 2875, 2875, 2875, 2875, 2875 ContainerLiquidType=1, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=1, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=8, 2875 ContainerLiquidType=2}, 2472 Content={2667, 3066, 3065, 3465, 3012}, 2472 Content={3492 Amount=100, 3492 Amount=100}, 2472}}, 
+               1 Content={3502}}

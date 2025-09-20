@@ -1,0 +1,56 @@
+ID              = 13676273
+Name            = "Saiyan Vegetta"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,77-132-132-77)
+CurrentOutfit   = (129,77-132-132-77)
+LastLogin       = 1148077426
+LastLogout      = 1148077478
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33263,32747,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,52764,0,57600,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,36886,1400,38165,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,51,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2235,1100,2452,100)
+Skill = (7,45,0,10,0,0,0,0,0,0,0,8252,1100,8973,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,546,1200,645,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,4,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,308,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,96,1100,122,20)
+Skill = (14,0,1200,0,0,0,1070,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,48,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,51,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={3447 Amount=30, 3031 Amount=88, 3577 Amount=21, 3031 Amount=100, 3160 Charges=1, 3160 Charges=1, 3457, 3035 Amount=2}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3556}}
+
+Depots      = {0 Content={3426, 3504 Content={3483, 3446 Amount=100, 3446 Amount=100, 3507 String="saiyan vegetta\nthais" Editor="Timbiriche"}, 3374, 3054 RemainingUses=110, 3504 Content={3277 Amount=11}, 3308, 3502 Content={3492 Amount=83, 3277 Amount=16}}, 
+               3 Content={3483, 2853 Content={3349, 2853 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3349, 3349, 2853 Content={2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}, 3504 Content={2853 Content={3447 Amount=80, 3446 Amount=58, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3507 String="saiyan vegetta\nab'dendriel" Editor="Thunder Mom"}, 3504 Content={3507 String="saiyan vegetta\nab'dendriel" Editor="Reaben", 2853}, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2854, 2865 Content={2854 Content={3425}}}, 3003, 3483, 2902, 3425, 1781 Amount=10, 3504 Content={3283, 2857 Content={3046, 3077}, 3507 String="saiyan vegetta\nab'dendriel" Editor="Timbiriche"}, 3003, 3003, 3502 Content={3035 Amount=46, 2983, 2983, 2983, 2981, 2983}}, 
+               4 Content={2853 Content={3277 Amount=17, 3582 Amount=2}, 2869, 3504 Content={3507 String="Saiyan Vegetta\nedron" Editor="Mortadela the knight"}, 2869, 3457, 3003, 3504 Content={3350, 3447 Amount=11, 3507 String="saiyan vegetta\nedron" Editor="Mirach"}, 3504 Content={3271, 3567, 3457}, 3502 Content={3046 SavedExpireTime=765, 2659, 2659, 2659, 2659, 3412}}, 
+               5 Content={3264, 3264, 3504 Content={3507 String="saiyan vegetta\ndarashia" Editor="Guardian Sphinx", 2868}, 3504 Content={3507 String="saiyan vegetta\ndarashia" Editor="Curz", 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3504 Content={3507 String="saiyan vegetta\ndarashia" Editor="Curz", 2853 Content={2853 Content={2853}}}, 3502 Content={3446 Amount=3, 3447 Amount=20}}, 
+               6 Content={3273, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

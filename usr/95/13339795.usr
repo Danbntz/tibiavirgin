@@ -1,0 +1,55 @@
+ID              = 13339795
+Name            = "Hostyl"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-18-114-116)
+CurrentOutfit   = (128,114-18-114-116)
+LastLogin       = 1148256948
+LastLogout      = 1148259139
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32674,31666,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,129255,0,135100,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,49883,1400,55031,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,160,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8044,1100,8849,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,29521,1100,31715,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,225,1200,268,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,189,1200,268,50)
+Skill = (10,20,0,10,0,0,0,0,0,0,0,1393,1200,1607,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1628,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,29}
+QuestValues = {(20,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=37, 3447 Amount=100, 3447 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=2, 3723 Amount=52}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=67}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3457, 3003, 3577 Amount=1, 3582 Amount=1, 3425, 3504 Content={3504 Content={3504, 3504 Content={3507 String="hostyl\nab'dendriel" Editor="Silde Dard"}, 3507 String="hostyl\nab'dendriel" Editor="Silde Dard"}, 3504 Content={3504 Content={3504, 3504}}, 3504 Content={3504, 3504, 3507 String="Demot Maji\nAb'Dendriel" Editor="Demot Maji"}, 3504, 3504 Content={3507 String="atros\nab'dendriel" Editor="Larry Atta"}, 3504 Content={3507 String="Zymon Weif\nab'dendriel\n" Editor="Flam Voyage"}, 3504 Content={3507 String="exoidus\nab'dendriel" Editor="Exoidus"}, 3504 Content={3507 String="Lord carmit\nab´anbierl\n" Editor="Lord carmit"}, 3504, 3504 Content={3504}}, 3502 Content={2872, 2865, 2854 Content={2981, 2983, 3661, 3661, 3661, 3661}, 2868 Content={3031 Amount=100, 3425, 3035 Amount=56}, 2868, 2865, 2865, 2865, 2865 Content={3446 Amount=100, 2920 SavedExpireTime=359, 2920, 2920 SavedExpireTime=350, 2922 SavedExpireTime=68, 3457, 3446 Amount=97, 3349, 2969 KeyNumber=4600, 3457, 3349, 3425, 3349, 3446 Amount=100, 3425, 3446 Amount=100, 3449 Amount=3, 3350, 3376, 3147}, 3505 String="olAaaa HoStyl!!!\nke se armen unas miller!\ny ya compra la bataka!!\nbueno soprez\njojojo ia me ire a dormir\nbayito\nkaes kon mami\njajaj\n\n                                      AtTe: eL skAteMple" Editor="Hostyl", 2481 Content={3330, 3425, 3092, 2857 Content={3084 RemainingUses=250, 3077}, 3452, 3121, 3277 Amount=18, 2885, 3307, 3097 SavedExpireTime=2929}}}}

@@ -1,0 +1,52 @@
+ID              = 13914457
+Name            = "Eno Bombel"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (142,0-114-114-114)
+CurrentOutfit   = (142,0-114-114-114)
+LastLogin       = 1147606705
+LastLogout      = 1147606711
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31681,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4863,0,6400,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,3955,1100,5296,1600)
+Skill = (2,68,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,1,35,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3269,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1266,1800,2063,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,119,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,35,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,20}
+QuestValues = {(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2865 Content={3031 Amount=1, 3003}},
+               4 Content={3404},
+               5 Content={3425},
+               6 Content={3066},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3277 Amount=2}}
+
+Depots      = {3 Content={3318, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Great Willow 4c\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3035 Amount=21}}, 
+               8 Content={3504 Content={2869 Content={3147, 3031 Amount=43, 2969 KeyNumber=3033, 3148 Charges=2, 3003, 2866 Content={3069, 3065, 3320, 3072, 3075, 3198 Charges=5, 3725 Amount=85, 3731 Amount=5, 3035 Amount=97, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3369, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3322}, 2969 KeyNumber=5010}, 3507 String="Eno Bombel\nPort Hope" Editor="Pyton The Sorcerer"}, 3502}}

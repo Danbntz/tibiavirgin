@@ -1,0 +1,55 @@
+ID              = 8465952
+Name            = "Finern Kras"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,59-76-114-114)
+CurrentOutfit   = (133,59-76-114-114)
+LastLogin       = 1143232987
+LastLogout      = 1143233011
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32676,31702,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,72524,0,83400,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,56120,1400,78644,1600)
+Skill = (2,195,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,88,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7445,1100,7954,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,13315,1100,14635,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,216,1200,268,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,365,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,54,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1233,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,29,42,51,76}
+QuestValues = {(69,1),(71,1),(84,1),(85,1),(86,1),(87,1),(108,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3054 RemainingUses=200},
+               3 Content={2853},
+               4 Content={3562},
+               5 Content={3426},
+               6 Content={3277 Amount=23},
+               8 Content={3552}}
+
+Depots      = {1 Content={3349, 3504 Content={3349, 3507 String="finern kras\ncarlin\n\n"}, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3129, 3129, 3129, 3129, 3129, 3129, 3129, 3129, 3129, 3129, 2969 KeyNumber=3033, 3349, 3502 Content={2969 KeyNumber=3033, 3308}}, 
+               4 Content={3546, 3447 Amount=100, 3447 Amount=35, 3447 Amount=100, 3447 Amount=41, 3590 Amount=2, 3583 Amount=3, 3046 SavedExpireTime=2961, 3543, 3464, 3046 SavedExpireTime=0, 3447 Amount=100, 3447 Amount=90, 3447 Amount=30, 3447 Amount=85, 2469 Content={2854 Content={}, 2854 Content={}, 2854 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3421}, 3590 Amount=2, 2969 KeyNumber=5010, 3447 Amount=100, 3578 Amount=34, 3283, 3367, 3447 Amount=100, 3447 Amount=30, 2853 Content={3540, 3542, 3539}, 2853 Content={}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 2854 Content={3578 Amount=98, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3483, 3277 Amount=4, 3455, 3483, 3054 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3578 Amount=67, 2969 KeyNumber=3033, 3446 Amount=3, 3483, 3590 Amount=6, 3367, 3205, 3031 Amount=30, 3362, 3084 RemainingUses=250, 3578 Amount=59, 3446 Amount=20, 3046 SavedExpireTime=2999, 3583 Amount=3, 2650, 2656, 2635, 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 820 gold\nfor your house \"Cormaya Flats, Flat 04\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3447 Amount=5, 3350, 3457, 3031 Amount=47, 3031 Amount=100, 3031 Amount=100, 3582 Amount=5, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya Flats, Flat 04\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3457, 3277 Amount=9}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}}

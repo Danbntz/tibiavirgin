@@ -1,0 +1,56 @@
+ID              = 13047211
+Name            = "Tingh"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,88-0-94-114)
+CurrentOutfit   = (134,88-0-94-114)
+LastLogin       = 1148177039
+LastLogout      = 1148177454
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33219,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,49614,0,57600,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,28807,1100,29649,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,223,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,9277,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1977,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,368,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,34,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,68,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,20,29,44,81,87}
+QuestValues = {(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2854 Content={3031 Amount=38, 3031 Amount=100, 3457, 3003}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={3410, 3316, 3425, 2854 Content={3192 Charges=2, 3200 Charges=3}, 3056 RemainingUses=200, 3084 RemainingUses=250, 3148 Charges=2, 3174 Charges=5, 3084 RemainingUses=250, 3502 Content={3384}}, 
+               1 Content={2853 Content={3507 String="freestyler-druid\ncarlin" Editor="Raptile Rap", 3507 String="Micurd Quilorgan\nCarlin" Editor="Malutki-Najemnik", 3507 String="Thomas Sorcerer\nCarlin" Editor="Thomas Sorcerer", 3507 String="::r\n\n\n\n\n\n\ncarlin\n" Editor="Gordibiris", 3507 String="fetal frame\ncarlin" Editor="Safada Brax", 3507, 3507 String="LIST DLA FANÓW SPORTU:\nPIERDOLCIE CHELSEA, A KOCHAJCIE MANCHESTER !!!!" Editor="Luis Rashka", 2853 Content={2853 Content={3507 Editor="Matti the Matti", 3507 String="sylwia the zanera\ncarlin" Editor="Thelu Glamenoras", 3507 String="kavon ikar\ncarlin" Editor="Mistrz Seba", 3507 String="Tason zanera\ncarlin" Editor="Cholo Robin", 3507 String="Hechizero-Waldker\ncarlin" Editor="Kenroxito", 2853 Content={3507 String="Princess Lizbeth\ncarlin" Editor="Sir Neodo", 3507 String="morengos\ncarlin" Editor="Morengos", 3507 Editor="Gardian of Fenix", 3507 String="Makor Apron\nCArlin" Editor="Makor Apron", 3507 String="Hechicero-waldker \ncarlin\n\n" Editor="Hechizero-Max", 3507 String="po tus muertos\n" Editor="Ojosrojos", 3507 String="Heaven Lights Shaman\ncarlin" Editor="Heaven Lights Shaman", 2853 Content={2853 Content={3507 String="zird fenix\ncarlin" Editor="Lord Clash", 3507 String="Hatake gyn\nCarlin\n" Editor="Hatake gyn", 3507 String="Hatake gyn\nCarlin" Editor="Marcelobd", 2853 Content={3507 String="vovan steel\ncarlin\n" Editor="Bless Of Zanera", 3507 String="talegas de perro flam\ncarlin" Editor="Talegas de Perro Flam", 3507 String="Lemis Fyfenis\ncarlin" Editor="Armel Tyran", 3507 String="Hatake gyn\nCarlin" Editor="Marcelobd", 3507 String="axe figter of zanera\ncarlin" Editor="Royal Knightie", 3507 String="sorcerer xiaolim\ncarlin" Editor="Tyron Averoc", 3507 String="Sir Neodo\ncarlin\n" Editor="Armel Tyran", 2853 Content={3507 Editor="Knight-chi", 3507 String="Hatake gyn\nCarlin" Editor="Hatake gyn", 3507 String="Seiya Nad\nCarlin\n" Editor="Sir Makaduende", 3507 String="Sir alex green day\ncarlin\n" Editor="Sir alex green day", 3507 String="zakura style\ncarlin" Editor="Zakura style", 3507, 3507 String="vovan steel\ncarlin\n" Editor="Bless Of Zanera", 2853 Content={3507 String="Paquito el del barrio\nCarlin" Editor="Paquito el del barrio", 3507 String="marye janne\ncarlin" Editor="Tchellas", 3507 String="panda-plata\ncarlin" Editor="Sazuke De Asgar", 3507 String="blinged\ncarlin" Editor="Blinged", 3507 String="master-kangri\ncarlin" Editor="Ordart Pagu", 3507 String="Malandrinha of zanera\ncarlin\n" Editor="Plimez", 2853 Content={2853}}}}, 3507 String="Maszter of puppets\ncarlin" Editor="Maziozare", 3507 String="Costache\ncarlin\n" Editor="Renacido Del Infierno", 3507 Editor="Laodie", 3507 String="morengos\ncarlin\n" Editor="Morengos"}, 3507 String="carlin" Editor="Shizune Ail", 3507 String="tergus\ncarlin" Editor="Tergus", 3507 String="Mariana de Zanera\nCarlin\nMOE NAUM SEI C AJUDA ESSES ITENS MAS TOMA AEW!!!\nBJKAS" Editor="Sniper Slayer Dragon", 3507 String="Zarin Ariona\ncarlin" Editor="Zarin Ariona", 3507 String="talegas de perro flam\ncarlin" Editor="Talegas de Perro Flam", 3507 String="zharius thil gasolina\ncarlin" Editor="Zharius Thil Gasolina", 3507 String="ahuahuahuahauahuahauhauha\nvo te cume hauahuahuahauhauahuahauahua\nq gay\nhauahuah" Editor="Totto Golin"}}, 3507 String="lord-alibaba\ncarlin\n" Editor="Lord-Alibaba", 3507 Editor="Hechizero-Waldker"}, 3507 String="Infrit'Rotch\ncarlin" Editor="Infrit'Rotch", 3507 String="Ofsiq\nCarlin" Editor="Darlin Zara", 3507 String="shadow zori\ncarlin\n" Editor="Ivan El Del camion", 3507 String="ashfaran vumbla \ncarlin" Editor="Aghtriru Wymin", 3507, 3507 Editor="Macaquinho Prego", 3507 Editor="Macaquinho Prego"}}, 3504 Content={3504, 3504, 3504, 3504, 3374, 2924 SavedExpireTime=249, 3504}, 3446 Amount=1, 3502 Content={3457, 2854, 2867 Content={3307}, 3465}}, 
+               4 Content={3502}, 
+               5 Content={3074, 3502 Content={3354, 3352, 3354}}, 
+               6 Content={3502}}

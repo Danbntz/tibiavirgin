@@ -1,0 +1,56 @@
+ID              = 15104713
+Name            = "Renziko"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (132,115-114-95-114)
+CurrentOutfit   = (132,115-114-95-114)
+LastLogin       = 1148237046
+LastLogout      = 1148246519
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32219,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,34760,0,37800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,22090,1400,26118,1600)
+Skill = (2,236,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,48,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,1943,1100,2138,100)
+Skill = (7,43,0,10,0,0,0,0,0,0,0,6988,1100,7364,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,365,1200,372,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,50,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,51,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,841,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,51}
+QuestValues = {(59,1),(106,1),(107,1),(109,1),(121,1),(128,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3085 RemainingUses=200},
+               3 Content={2872 Content={3583 Amount=1, 3031 Amount=20, 3035 Amount=45, 3447 Amount=40, 2871, 3003}},
+               4 Content={3357},
+               5 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3052, 3065, 3085 RemainingUses=188, 3583 Amount=2, 3577 Amount=83, 2853 Content={3351, 3351, 3275, 3349, 3349, 3349, 3349}, 2871 Content={2871}, 2903, 2842, 2869 Content={2869 Content={2854 Content={2854 Content={2871 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2861, 2863 Content={2863, 3075, 2903, 3728 Amount=1, 3271, 3271, 3271}, 2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={2854 Content={3188 Charges=2}, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3188 Charges=1, 3192 Charges=2, 3192 Charges=1, 3148 Charges=3}, 2854 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3367, 3456, 3349, 3557, 3557, 3421, 3384, 3373, 3191 Charges=2, 2863 Content={3035 Amount=50}, 2871 Content={3446 Amount=1, 3048 RemainingUses=20, 3097 SavedExpireTime=3597, 3097, 3097, 3034 Amount=2, 2992 Amount=11}, 3502 Content={2872 Content={3042 Amount=6, 3042 Amount=100, 3074, 2872 Content={2868 Content={2867 Content={3027 Amount=10, 3373, 2469 Content={2469, 2469, 2469 Content={2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2469, 2469, 2469, 2469, 2469, 2469}, 3081 RemainingUses=5, 3557, 3297, 3075, 3557, 3557, 3297}, 3010, 3032 Amount=4, 3033 Amount=12, 3029 Amount=14, 3030 Amount=2, 3074, 3007, 3007, 3007, 3007, 3061, 3574, 3059, 3050, 3557, 3557, 2842, 3053 SavedExpireTime=219, 3373}, 3061, 3098, 3098, 4839, 3049 SavedExpireTime=452, 3373, 3097, 3092, 3050, 3557, 2842, 3061, 2842, 3287 Amount=100, 2842, 3028 Amount=7}, 3074, 2903, 2903, 3734 Amount=1, 4839, 3209, 3557, 3298 Amount=7, 3091 SavedExpireTime=651, 2853 Content={3007, 3072, 3385, 3287 Amount=12}, 3587 Amount=35, 3589 Amount=14, 3600 Amount=15}}}, 
+               5 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3447 Amount=5, 3507 String="Renziko\nPort Hope\n" Editor="Renziko"}, 3502}}

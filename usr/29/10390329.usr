@@ -1,0 +1,59 @@
+ID              = 10390329
+Name            = "Axel Hazorblade"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,116-3-57-57)
+CurrentOutfit   = (129,116-3-57-57)
+LastLogin       = 1147889561
+LastLogout      = 1147889586
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32220,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,993380,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,280280,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,75,0,10,0,0,0,0,0,0,0,515931,1100,538407,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,43,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (10,75,0,10,0,0,0,0,0,0,0,266163,1100,269203,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,52,0,10,0,0,0,0,0,0,0,10948,1100,11848,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(21,1),(22,1),(23,1),(38,1),(55,1),(67,1),(69,1),(70,1),(96,1),(97,1),(98,1),(100,1),(112,1),(121,1),(125,1),(126,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={3003, 3457, 2858 Content={3492 Amount=33, 3492 Amount=100, 3483}, 3031 Amount=27, 3035 Amount=7, 3293, 3268, 3061, 2991, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2854 Content={3092 SavedExpireTime=402, 2868 Content={3188 Charges=2, 2853 Content={2952, 3084 RemainingUses=250, 3191 Charges=2, 3191 Charges=2, 3026 Amount=1, 3084 RemainingUses=250, 3027 Amount=2, 3008}, 3031 Amount=60}}}},
+               4 Content={3357},
+               5 Content={3418},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3302}}
+
+Depots      = {0 Content={3465, 2854 Content={2854 Content={2865, 2854 Content={3425, 3425}, 3155 Charges=1, 3285}, 3349, 3092 SavedExpireTime=1645, 1781 Amount=36, 3310, 3092 SavedExpireTime=1526}, 2857 Content={3585 Amount=2, 3587 Amount=2, 2861 Content={3003, 2885, 2991, 3104, 2970 KeyNumber=3800, 2867 Content={3446 Amount=100, 3446 Amount=68, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3447 Amount=40, 3447 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3282, 3572}, 3425, 3046, 3092, 2868 Content={2854 Content={2853 Content={2853 Content={3077, 2854 Content={3029 Amount=1, 3279, 3056 RemainingUses=200, 3050, 3077}, 3084 RemainingUses=250, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 3028 Amount=4, 3030 Amount=2, 3026 Amount=1}, 3029 Amount=4, 3085 RemainingUses=200, 3589 Amount=1, 3082 RemainingUses=50, 3042 Amount=2, 3049 SavedExpireTime=26, 3053}, 3046, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=2276, 3046, 3017, 3084 RemainingUses=250, 3054 RemainingUses=132, 3056 RemainingUses=200, 3004, 3082 RemainingUses=50, 3085 RemainingUses=194, 3083 RemainingUses=150, 3034 Amount=32}, 3093, 3098, 3052 SavedExpireTime=1141, 3076, 3658, 2906, 2955, 3205, 3049, 2902}, 3377}, 3502 Content={3049 SavedExpireTime=303, 2858 Content={3043 Amount=3, 3391, 3371, 3420, 3035 Amount=90, 3381, 2857 Content={3079, 3063, 3071, 2969 KeyNumber=3033, 3583 Amount=2, 3585 Amount=15, 2992 Amount=5}, 3504 Content={3425, 3279, 3404, 3283, 3092, 3052, 2991}}, 3503 Content={3456, 3074, 2969 KeyNumber=3650, 3265, 3275, 3588 Amount=80, 2991, 2991, 2991, 3503 Content={3503, 3503}}, 3308}}, 
+               1 Content={3502 Content={3504 Content={3377, 2991, 2991, 3377}}}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={2970 KeyNumber=3142, 3507 String="Axel Hazorblade\nAb'dendriel" Editor="Darion Tech"}, 3502}, 
+               5 Content={3504 Content={3507 String="Axel Hazorblade\nDarashia"}, 3504 Content={2858 Content={3457, 3003}, 3507 String="Axel hazorblade\nDarashia"}, 3504 Content={3507 String="Axel Hazorblade\nDarashia"}, 3504 Content={3507 String="Axel hazorblade\nDarashia"}, 3504 Content={3507 String="Axel Hazorblade\nDarashia"}, 3504 Content={3507 String="Axel Hazorblade\nDarashia"}, 3502 Content={2866 Content={}, 2914 SavedExpireTime=1986, 3740 Amount=1, 3349, 3483, 3578 Amount=3}}, 
+               6 Content={3502 Content={3349, 3299}}}

@@ -1,0 +1,57 @@
+ID              = 8864964
+Name            = "Libini Devi"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,79-114-114-114)
+CurrentOutfit   = (137,79-114-114-114)
+LastLogin       = 1148200150
+LastLogout      = 1148202030
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32337,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,208767,0,232500,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,166059,3000,193600,1600)
+Skill = (2,440,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,60,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,116361,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1400,30,30)
+Skill = (8,63,0,10,0,0,0,0,0,0,0,78873,1100,85435,50)
+Skill = (9,40,0,10,0,0,0,0,0,0,0,8688,1100,9097,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,46,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,157,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4448,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,46,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(53,1),(60,1),(61,1),(93,1),(94,1),(95,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={2920, 3723 Amount=6, 3003, 2853 Content={3492 Amount=81, 3483, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457}},
+               4 Content={3370},
+               5 Content={3280},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3004},
+               10 Content={2920}}
+
+Depots      = {0 Content={3504 Content={3504, 3504}, 3502}, 
+               1 Content={3031 Amount=66, 2866 Content={3164 Charges=1, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3035 Amount=41, 2853 Content={3291, 3736 Amount=1, 3337, 3272, 3412}, 2853 Content={3078, 3272, 3447 Amount=9, 3350}, 3504 Content={3279, 3446 Amount=46, 3471, 3446 Amount=100, 3465, 2853 Content={3447 Amount=1, 3305, 3349, 2853 Content={3425, 3349}, 3349, 3349, 3430}, 1781 Amount=5, 3349, 3350}, 2868 Content={2991, 2969 KeyNumber=3033, 3160 Charges=1}, 3502 Content={2868 Content={3591 Amount=50, 3593, 3584 Amount=5, 3588 Amount=3, 3723 Amount=27, 2893, 2885, 2877, 2882 ContainerLiquidType=1, 3593, 3593, 3606 Amount=13, 3578 Amount=35, 3586 Amount=2, 3585 Amount=10, 3598 Amount=31}, 2868 Content={2839, 3457, 3084 RemainingUses=250, 3083 RemainingUses=150, 3097, 3085 RemainingUses=200, 2659, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2914, 2914, 2914, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 3008}, 2866 Content={3463, 3270, 3084 RemainingUses=250, 3547 Amount=1, 3008, 3336, 3291, 3056 RemainingUses=200, 3308, 2853 Content={3565, 2955, 2991, 2955, 3505 String="te amo....lembra que c reclamava que eu nao era muito ciumenta...mudo de ideia né,meu verdadero eu,mas é pq te amo e tenho medo de te perder", 2815 String="Querida Bruninha.\n\nEsse é um presente especial para você, tem seu dinheiro que eu guardei, e outras coisas que eu peguei pensando em você, espero que goste.  ^^\nPra pegar o embrulho e até esse pedaço de papel tive que enfrentar perigos, mas nada que consiga me matar fácil...\n\n                  A   A\nVocê é =(^.^)=\n\n\nBjs. Sir Thanatos de Zanera\n", 3059}, 3552, 3552, 3552, 3084 RemainingUses=250, 3085 RemainingUses=116, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3}, 2870 Content={3301, 3421, 3191 Charges=2, 3289, 3421, 3299, 3297, 3307, 3457, 3291, 3272, 3307, 3198 Charges=5}, 2871 Content={3059, 3147, 3147, 2393, 2969 KeyNumber=3033, 3097 SavedExpireTime=3569, 3557, 3357, 2853 Content={2970 KeyNumber=3802, 2970 KeyNumber=3800, 2970 KeyNumber=3801}, 3384, 3456, 2992 Amount=5, 3449 Amount=6, 3736 Amount=1, 3083 RemainingUses=150, 3447 Amount=41}, 2869 Content={2857, 2866, 2865, 2854, 2867 Content={2867}, 2868 Content={2868, 3457, 3003}}, 2857 Content={3077, 3046, 3084 RemainingUses=250, 3098}, 2865 Content={3463, 2989, 3509, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 3547 Amount=7, 3465, 2970 KeyNumber=4502}, 2868 Content={3298 Amount=3, 2875, 2920, 3003, 3299, 3456}, 2853 Content={3492 Amount=100, 3605 Amount=17, 3003, 3003, 3003, 3003, 3003}}}, 
+               2 Content={3502 Content={2853 Content={3358, 3358, 3358, 3358, 3377, 3377, 3377, 3377}}}, 
+               3 Content={3504 Content={3507 String="Libini Devi\nAb'Dendriel" Editor="Sir Blackk Fhyoda"}, 3502}}

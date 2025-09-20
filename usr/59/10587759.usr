@@ -1,0 +1,61 @@
+ID              = 10587759
+Name            = "Makelito"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,115-126-114-126)
+CurrentOutfit   = (134,115-126-114-126)
+LastLogin       = 1148078859
+LastLogout      = 1148078946
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32921,32067,6]
+PlayerkillerEnd = 0
+
+Skill = (0,44,0,1,0,0,0,0,0,0,1,1279320,0,1328800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,316146,3000,582400,1600)
+Skill = (2,709,725,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,113,113,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1370,1370,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,333843,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,73,0,10,0,0,0,0,0,0,0,214468,1100,222395,50)
+Skill = (9,38,0,10,0,0,0,0,0,0,0,6933,1100,7431,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,87,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1620,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(28,1),(29,1),(30,1),(49,1),(50,1),(59,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(116,1),(117,1),(118,1),(119,1),(121,1),(124,1),(129,1),(130,1),(131,1),(132,1),(133,1),(135,1),(136,1),(137,1),(151,1),(152,1),(154,1),(170,1),(171,1),(172,1),(174,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(213,1),(214,1),(215,1),(217,3),(223,1),(253,1),(257,1),(324,1)}
+Murders     = {1146173772,1146696053,1148072450,1148073958}
+
+Inventory   = {1 Content={3369},
+               2 Content={3083 RemainingUses=149},
+               3 Content={2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3421, 3003, 3582 Amount=8, 3291}},
+               4 Content={3360},
+               5 Content={3416},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={3031 Amount=24}}
+
+Depots      = {0 Content={2867 Content={2854}, 3504 Content={3504 Content={3507 String="Makelito\nVenore" Editor="Makelito", 3504 Content={2854 Content={3045 RemainingUses=200, 3299}}}, 3507 String="Makelito\nThais" Editor="Makelito"}, 3003, 3330, 3046, 3502 Content={3026 Amount=1, 3003, 3457}}, 
+               1 Content={3504 Content={3507 String="Makelito\ncarlin" Editor="Guapoof-zanera"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={2867, 2853 Content={2853 Content={3275, 3358}, 3282, 3275, 3354, 3354, 3354, 3354, 3354}, 3035 Amount=3, 2866, 3502 Content={3093 SavedExpireTime=1498, 2853 Content={3450 Amount=5, 3449 Amount=12}, 2867, 2871}}, 
+               4 Content={3504, 3502}, 
+               5 Content={3138, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2853 Content={2853}, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}}}}, 2853, 2853 Content={2853}, 3492 Amount=2, 3267, 3138, 3138, 3492 Amount=10, 3138, 3138, 3138, 2664 RemainingExpireTime=498, 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 11\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 11\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 11\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3502}, 
+               6 Content={3502 Content={3483, 3492 Amount=41, 3503 Content={3349, 3349, 3349, 3425, 3298 Amount=2, 2853 Content={3349, 3083 RemainingUses=150, 2867 Content={3308, 3449 Amount=2, 3097, 3083 RemainingUses=150, 2870 Content={2865, 2853 Content={3172 Charges=1, 3172 Charges=3, 3148 Charges=2, 3148 Charges=1, 3148 Charges=3}}, 2854 Content={2854}}, 3046, 3074, 3049 SavedExpireTime=35, 3271, 3287 Amount=6}, 3279, 3313, 3093}, 2867 Content={3503 Content={3369, 2867 Content={3071, 3071, 3071}, 2868 Content={3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324, 3324}}, 2853 Content={2854 Content={3456, 3003, 3603 Amount=4}}, 3083 RemainingUses=41, 3483, 3377, 2856 Content={3034 Amount=1, 2971 KeyNumber=3702}}}}, 
+               7 Content={3502 Content={3349, 3031 Amount=2, 3301, 3085 RemainingUses=200}}, 
+               8 Content={3502 Content={3589 Amount=3, 3587 Amount=11, 3586 Amount=11}}}

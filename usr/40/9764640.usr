@@ -1,0 +1,57 @@
+ID              = 9764640
+Name            = "Darkeno the Hero"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,0-94-94-0)
+CurrentOutfit   = (134,0-94-94-0)
+LastLogin       = 1148247978
+LastLogout      = 1148247991
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32337,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,353354,0,368300,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,235886,1100,237809,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,662,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,36815,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,45,2000,90,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,10310,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,774,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,15,20,29,39,76,88,89}
+QuestValues = {(190,1),(191,1),(333,1)}
+Murders     = {1147815610}
+
+Inventory   = {1 Content={3356},
+               3 Content={2854 Content={3031 Amount=38, 3354, 3367, 3031 Amount=100, 3354, 3354, 3174 Charges=4, 3174 Charges=5, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3419},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2924 SavedExpireTime=275}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Darkeno the Hero\nCarlin" Editor="Rony The Hero"}, 3075, 3492 Amount=45, 3147, 3502 Content={3504 Content={3504, 3504, 3507 String="delta dreed\ncarlin" Editor="Delta Sim"}, 3147, 3147, 3147, 3504 Content={3492 Amount=50, 3504 Content={3507 String="sylwia the zanera\ncarlin" Editor="Thelu Glamenoras"}, 3504, 3504, 3504 Content={3507 String="olesivol mart\ncarlin" Editor="Olesivol Mart"}, 3504 Content={3507 String="sir zerrak\ncarlin" Editor="Kallax"}, 3507 String="Burzi\nCarlin\n" Editor="Fimel"}, 3147, 3453, 3072, 3492 Amount=100, 3565, 3492 Amount=85, 3075, 3147, 3147, 3147, 3147, 3147, 3147, 2920 SavedExpireTime=421, 3077, 3046, 3045 RemainingUses=200, 3032 Amount=8, 3285, 2970 KeyNumber=4601}}, 
+               3 Content={3504 Content={2922 SavedExpireTime=262, 3507 String="Darkeno the Hero\nAB'dendriel"}, 3502 Content={3308, 2969 KeyNumber=3033, 3003, 3457, 3492 Amount=72}}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={3147, 3147, 3059}}, 
+               6 Content={3502 Content={3492 Amount=20, 3282, 3354}}}

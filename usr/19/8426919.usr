@@ -1,0 +1,58 @@
+ID              = 8426919
+Name            = "Mortax Knight"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,0-0-0-0)
+CurrentOutfit   = (129,0-0-0-0)
+LastLogin       = 1148258479
+LastLogout      = 1148258724
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32917,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,499517,0,548900,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,210336,3000,582400,1600)
+Skill = (2,475,560,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,84,160,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1095,1095,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,71,0,10,0,0,0,0,0,0,0,350097,1100,367422,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,72,0,10,0,0,0,0,0,0,0,201491,1100,202132,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,124,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,41,0,10,0,0,0,0,0,0,0,9836,1100,10056,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4050,1100,4445,20)
+Skill = (14,0,1200,0,0,0,856,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(35,1),(37,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(190,1),(191,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={3035 Amount=15, 3031 Amount=6, 3160 Charges=1, 3607, 2853 Content={2874 ContainerLiquidType=10, 3031 Amount=100, 3358, 3358, 3031 Amount=100, 3031 Amount=100, 3352, 3358}, 3577 Amount=6, 3152 Charges=1, 3160 Charges=1, 2853 Content={3031 Amount=100, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3322}, 3003, 3457, 3152 Charges=1, 3152 Charges=1, 3308}},
+               4 Content={3357},
+               5 Content={3280},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3483}}
+
+Depots      = {0 Content={3582 Amount=2, 3504 Content={3507 String="mortax knight\nthais\n" Editor="Esteroid Knight"}, 3504 Content={3507 String="mortax knight\nthais" Editor="Mortax Knight"}, 3504 Content={3291, 3267, 2853 Content={3003, 3300, 3457, 3552, 3384}, 3507 String="Mortax Knight\nThais" Editor="Begoldenator"}, 3504 Content={3430, 3507 String="mortax knight\nThais"}, 3504 Content={3507 String="mortax knight \nthais"}, 3504 Content={3507 String="Mortax Knight\nThais"}, 3502 Content={3031 Amount=23, 3446 Amount=6, 2854 Content={3723 Amount=100, 3033 Amount=1, 3384, 3384, 3384, 3384, 3093, 3093}, 2872 Content={3421, 3310, 2853 Content={3093, 3350}, 3093, 3350, 3723 Amount=12, 3287 Amount=1, 2874 ContainerLiquidType=5, 3448 Amount=24}, 2854, 2854 Content={3093, 3384, 3384, 3384, 3384, 3384, 3384}, 2854 Content={3430}, 3362, 2854 Content={3316, 3316, 3316, 3316, 3316, 3316}}}, 
+               1 Content={3504 Content={3354, 3367, 3354, 3351, 3507 String="mortax knight\ncarlin" Editor="Mortax Knight"}, 3504 Content={3504, 3507 String="mortax knight\ncarlin" Editor="Mortax Knight"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3425, 3349, 3425, 3446 Amount=77, 3425, 3349, 3349}}, 
+               6 Content={3271, 3031 Amount=70, 3504 Content={3507 String="mortax knight\nvenore" Editor="Prencat Lockheart"}, 3504 Content={3577 Amount=3, 3507 String="mortax knight\nvenore" Editor="Prencat Lockheart"}, 3504 Content={3322, 3578 Amount=38, 3046, 3507 String="mortax knight\nvenore" Editor="Prencat Lockheart"}, 3504 Content={3507 String="mortax knight\nvenore" Editor="Prencat Lockheart"}, 3174 Charges=2, 3507 String="mortax knight\nvenore" Editor="Zeneth", 3299, 3504 Content={3507 String="mortax knight\nvenore" Editor="Zeneth"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="mortax knight \nvenore\n"}, 3504 Content={2853, 3507 String="mortax knight\nvenore" Editor="Mortax Knight"}, 3507 String="mortax knight\nvenore" Editor="Mortax Knight"}, 3504 Content={3507 String="mortax knight\nvenore\n"}, 3507 String="Mortax knight\nVenore"}, 3504 Content={3507 String="mortax knight\nvenore\n" Editor="Mortax Knight"}, 3504 Content={3507 String="mortax knight\nvenore" Editor="Esteroid Knight"}, 3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3507 String="Mortax Knight\nvenore\n" Editor="Edgar Shaku"}, 3504 Content={3504 Content={3017, 3504 Content={3507 String="Mortax Knight \nvenore" Editor="Edgar Shaku"}, 3504 Content={3507 String="mortax knight\nvenore" Editor="Zeneth"}, 3507 String="mortax knight\nvenore" Editor="Mortax Knight"}, 3507 String="mortax knight\nvenore" Editor="Mortax Druid"}, 3507 String="mortax knight\nvenore" Editor="Esteroid Knight"}, 3492 Amount=21, 3273, 3430, 3502 Content={2854, 3003, 3449 Amount=2, 2809}}}

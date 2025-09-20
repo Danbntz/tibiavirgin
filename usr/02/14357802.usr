@@ -1,0 +1,57 @@
+ID              = 14357802
+Name            = "Mount Daniel"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,0-86-89-86)
+CurrentOutfit   = (134,0-86-89-86)
+LastLogin       = 1148247764
+LastLogout      = 1148249742
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33211,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,90032,0,98800,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,43008,1100,44759,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,295,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11081,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1029,2000,1550,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,647,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,206,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,7,11,15,20,29,30,44,76,81,87,88,89}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(30,1),(33,1),(34,1),(37,1),(96,1),(97,1),(98,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3457, 3308, 2869, 3003}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3075},
+               10 Content={3031 Amount=25}}
+
+Depots      = {0 Content={3504 Content={3441, 3507 String="mount daniel\nthais" Editor="Madame Sazu"}, 3502 Content={2854 Content={3377, 2853 Content={2874, 2874, 3448 Amount=5, 3350}, 3412, 3003, 3291}, 3031 Amount=28, 3031 Amount=100, 3035 Amount=55, 2991}}, 
+               1 Content={3504 Content={3507 String="Mount Daniel\nCarlin\n" Editor="Madame Sazu"}, 3504 Content={3507 String="Mount Daniel\nCarlin" Editor="Rafiki Au"}, 3504 Content={3507 String="Mount Daniel\nCarlin" Editor="Rafiki Au"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Mount Daniel\nAb'dendriel\n" Editor="Madame Sazu"}, 3504 Content={3507 String="Mount Daniel\nAb'dendriel" Editor="Madame Sazu"}, 3502}, 
+               4 Content={3504 Content={3507 String="Mount Daniel\nEdron" Editor="Madame Sazu"}, 3502}, 
+               5 Content={3504 Content={3507 String="Mount Daniel\ndarashia" Editor="Madame Sazu"}, 3276, 2870 Content={2862}, 3074, 3504 Content={3483, 3492 Amount=85, 2867 Content={3147, 3147, 3147, 3457}, 2864, 3507 String="Mount Daniel\nDarashia" Editor="Mount Daniel"}, 3502 Content={3035 Amount=13, 2874}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3375, 3372, 3507 String="Mount Daniel\nAnkrahmun" Editor="Madame Sazu"}, 3504 Content={3507 String="Mount Daniel\nAnkrahmun" Editor="Madame Sazu"}, 3502 Content={3483}}, 
+               8 Content={3504 Content={3507 String="Mount Daniel\nport hope\n" Editor="Madame Sazu"}, 3502}}

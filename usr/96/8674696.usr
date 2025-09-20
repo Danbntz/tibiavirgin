@@ -1,0 +1,56 @@
+ID              = 8674696
+Name            = "Brewtos"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,85-77-85-77)
+CurrentOutfit   = (134,85-77-85-77)
+LastLogin       = 1137201910
+LastLogout      = 1137201911
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32237,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,40098,0,47000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,38880,3000,64000,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,61,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,53,0,10,0,0,0,0,0,0,0,61755,1100,65264,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,46,1100,50,50)
+Skill = (10,53,0,10,0,0,0,0,0,0,0,31837,1100,32632,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5938,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,20}
+QuestValues = {(84,1),(85,1),(86,1),(87,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=38, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3457, 3003, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2867, 3052 SavedExpireTime=986}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3317},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3354, 3354, 3354, 3578 Amount=19, 3577 Amount=6, 3035 Amount=10, 3504 Content={3003, 3457, 3578 Amount=3, 3293, 3304, 3507 String="Brewtos\nthais", 2853 Content={3354, 3354, 3354, 3354, 3354, 3367, 3455, 2853 Content={2867 Content={2867 Content={3578 Amount=53, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 2853 Content={3286, 3411, 3367, 3354, 3377, 3354, 3377}, 2853 Content={3578 Amount=95, 3578 Amount=100, 3578 Amount=99, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=43, 2853 Content={3354, 3367, 3354, 3354, 3367, 2853 Content={3354, 3411, 3354, 3411, 3354, 3411, 2853 Content={3358}}}}, 3367}}}, 3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}, 3507 String="Brewtos\nthais"}, 3276, 3268, 3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3577 Amount=6}, 3578 Amount=46, 3578 Amount=100, 3578 Amount=100, 3577 Amount=10, 3578 Amount=100}}}}}, 3507 String="Brewtos\nThais"}, 3504 Content={3507 String="Brewtos\nThais"}, 3504 Content={3031 Amount=100, 3031 Amount=100, 3507 String="Brewtos\nThais"}, 3268, 2853 Content={}, 3275, 3285, 3504 Content={2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2853 Content={}, 3507 String="Brewtos\nthais"}, 3502 Content={}}, 
+               4 Content={3358, 3264, 3083 RemainingUses=150, 3054 RemainingUses=200, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Brewtos\nVenore"}, 3502 Content={}}}

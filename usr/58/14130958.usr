@@ -1,0 +1,51 @@
+ID              = 14130958
+Name            = "Pogromca skorpionow"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-114-114-94)
+CurrentOutfit   = (128,114-114-114-94)
+LastLogin       = 1148208355
+LastLogout      = 1148212100
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32170,31935,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,305792,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,126443,3000,193600,1600)
+Skill = (2,184,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,19,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,144885,1100,155247,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,375,1400,489,30)
+Skill = (8,62,0,10,0,0,0,0,0,0,0,74610,1100,77623,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7599,1100,8028,20)
+Skill = (14,0,1200,0,0,0,1106,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,77,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(61,1),(62,2),(63,1),(64,1),(109,1),(190,1),(191,1),(220,1),(221,1),(223,1),(224,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               3 Content={2854 Content={3286, 3031 Amount=100, 3286, 3286, 3031 Amount=100, 3287 Amount=1, 3367, 3354, 3354, 3031 Amount=100, 3174 Charges=4, 3003, 3492 Amount=5, 2865 Content={3354, 3031 Amount=46, 3367, 2853 Content={3198 Charges=5, 3188 Charges=1, 3188 Charges=2, 3198 Charges=1, 3198 Charges=5, 3198 Charges=4}, 3031 Amount=100, 3367, 3354, 3354, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2874 ContainerLiquidType=10, 3457, 3483}},
+               4 Content={3370},
+               5 Content={3281},
+               7 Content={3557}}
+
+Depots      = {0 Content={3003, 3502 Content={2854 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2854 Content={3285, 3353, 3285, 3285, 3285, 3285, 3285, 3285, 3285}}}, 
+               1 Content={3046 SavedExpireTime=1184, 2868, 2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evil!", 2969 KeyNumber=3350, 2868 Content={3349, 3350, 3350, 3350, 3350, 3066}, 2854 Content={3298 Amount=4, 3287 Amount=3, 3330, 3046, 3299}, 2867 Content={3285, 3409, 3421, 2664 RemainingExpireTime=27}, 3502 Content={2868, 3003, 3416, 3085 RemainingUses=200, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3077, 3084 RemainingUses=250, 2857, 2868 Content={3031 Amount=84, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=37, 3062, 3287 Amount=3, 3004, 3066, 3147, 3552, 3551}, 3059, 2854 Content={3003, 3457, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3003, 3003, 3457, 3457, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2854 Content={2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600}, 2867 Content={3483, 3492 Amount=60, 3492 Amount=100, 3483, 3483, 3483, 3492 Amount=100}, 2854 Content={3012, 3085 RemainingUses=200, 3084 RemainingUses=88, 3083 RemainingUses=150, 3056 RemainingUses=200, 3008, 3084 RemainingUses=250, 3093, 3084 RemainingUses=250, 3077, 3050, 3050 SavedExpireTime=1788, 3056 RemainingUses=200, 3054 RemainingUses=140, 3097 SavedExpireTime=1897, 3050 SavedExpireTime=1768, 3008, 3008, 3054 RemainingUses=200}, 2871 Content={2871, 2865 Content={2865}, 2867, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2868 Content={2868, 2868, 2868, 2860, 2868, 2868, 2868, 2868, 2868, 2868}}}}, 
+               3 Content={3502 Content={3003}}}

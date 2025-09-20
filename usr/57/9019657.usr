@@ -1,0 +1,60 @@
+ID              = 9019657
+Name            = "Depredador Of Darknes"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-87-76-87)
+CurrentOutfit   = (134,0-87-76-87)
+LastLogin       = 1144370059
+LastLogout      = 1144370069
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32682,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,167969,0,179400,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,91429,1400,111701,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,260,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35833,1100,36404,100)
+Skill = (7,62,0,10,0,0,0,0,0,0,0,46343,1100,46574,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,352,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,986,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2106,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,20,29,42,49,51,76,79,81}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(86,1),(87,1),(96,1),(97,1),(98,1),(111,1),(112,1),(115,1),(121,1),(137,1),(151,1),(152,1),(190,1),(191,1),(213,1),(214,1),(215,1),(226,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2869 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3031 Amount=87, 3446 Amount=40, 3725 Amount=62, 3198 Charges=2, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=53}}
+
+Depots      = {0 Content={3504 Content={3384, 3483, 3507 String="depredador of darknes\nthais" Editor="Evelyne of Zanera", 3483}, 3504, 3502}, 
+               1 Content={3447 Amount=35, 3031 Amount=30, 3031 Amount=100, 3425, 3504 Content={3085 RemainingUses=200, 3507 String="depredador of darknes\ncarlin", 3093 SavedExpireTime=1796}, 3277 Amount=1, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3277 Amount=2, 3384, 3074, 3371, 3492 Amount=56, 3504 Content={3031 Amount=85, 3507 String="Depredador Of Darknes\nab'dendriel" Editor="Dragon Fork"}, 3369, 2969 KeyNumber=3033, 3483, 3425, 3277 Amount=2, 3447 Amount=19, 3504 Content={2854 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2869 Content={3198 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5}, 3507 String="Depredador Of Darknes\nab'dendriel" Editor="Jedi Berto"}, 3188 Charges=1, 3188 Charges=2, 2857 Content={3350, 3035 Amount=9, 3046, 3077, 3084 RemainingUses=250, 3098}, 3578 Amount=7, 3447 Amount=100, 3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 2872, 3384, 3504 Content={3412, 3504, 3504, 3504, 3031 Amount=8, 3507 String="depredador of darknes\nab'dendriel" Editor="Depredador Of Darknes"}, 3083 RemainingUses=150, 3502 Content={3492 Amount=100, 3492 Amount=100}}, 
+               4 Content={2857 Content={3375}, 3457, 2970 KeyNumber=4601, 3283, 3502}, 
+               5 Content={3031 Amount=20, 2970 KeyNumber=3802, 2869, 3409, 3277 Amount=4, 3092, 3092, 3083 RemainingUses=132, 3083 RemainingUses=150, 3085 RemainingUses=200, 2866 Content={2866 Content={3377, 3377, 3585 Amount=3}, 2871 Content={3287 Amount=1, 3301, 3301, 3301, 3062, 3732 Amount=1, 3083 RemainingUses=150, 3046, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 2472 Content={2853 Content={3305, 3349, 3740 Amount=2}, 2858 Content={2866 Content={3330, 3003, 3457}}}}, 2870 Content={3317, 3083 RemainingUses=127, 3147, 3147, 3147, 3147, 3147, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3313, 3084 RemainingUses=250, 3483}, 2854 Content={2854 Content={3054 RemainingUses=200, 3425, 3425, 3003, 3059}, 2857 Content={3457, 3083 RemainingUses=150, 3054 RemainingUses=6, 3054 RemainingUses=7}, 3483, 3305, 3097, 3349, 3349, 3349, 3350, 3349, 3349, 3349, 3349, 3349}, 2865 Content={3148 Charges=1, 3429, 3448 Amount=19}, 2854 Content={3092, 3050, 3050, 3205, 3078, 3046 SavedExpireTime=2069, 3046 SavedExpireTime=1748, 3046 SavedExpireTime=354, 3046 SavedExpireTime=2179, 3046 SavedExpireTime=839, 2868, 2867, 2869, 2867, 2870, 2868}, 2870 Content={2866, 2870}, 2866 Content={3483, 3483, 3046 SavedExpireTime=2847, 3017, 2866 Content={3282, 3282, 3083 RemainingUses=138, 3431, 3046 SavedExpireTime=1760, 3046 SavedExpireTime=1467, 3084 RemainingUses=250, 3077}, 3317}, 2970 KeyNumber=3802}, 2853 Content={3147, 3147, 3147, 3147}, 3492 Amount=100, 3059, 3059, 4290 Content={3504 Content={3503, 3503 Content={3507 String="zanerito\ncarlin"}, 3504, 3504 Content={3507 String="krusty the'archer\ndarashia"}, 3504 Content={3507 String="krusty the'archer\ndarashia"}}}, 3502}, 
+               6 Content={3503 Content={3357, 3097, 3425, 3026 Amount=1, 3093}, 3502}, 
+               7 Content={3465, 2871 Content={3147, 3147, 3147}, 2854, 3504 Content={3507 String="depredador of darknes\nankrahmun"}, 3457, 2920, 2854 Content={2869}, 3502 Content={2866}}, 
+               8 Content={2469 Content={2854 Content={2854 Content={3593, 3593, 3585 Amount=1, 3597 Amount=6, 3603 Amount=10, 3583 Amount=4, 3598 Amount=27, 3492 Amount=2, 3492 Amount=100}, 2854 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 2854 Content={2854 Content={3457, 3273, 3003, 2865 Content={3572, 2969 KeyNumber=3033, 3003, 3425, 3552, 3483, 2868 Content={3054 RemainingUses=200, 2989, 3289, 3289, 3362, 3483, 3425}, 3425, 3003}, 2471 Content={3425, 3457, 3430, 3003, 3425, 3008, 3425}, 3447 Amount=60, 2920 SavedExpireTime=322, 2857 Content={2868 Content={}, 2834 String="", 3003}}, 2865 Content={2865 Content={3483, 3447 Amount=61, 3377, 3375}}, 3425}, 3583 Amount=4, 3410, 3425, 3425, 3425, 3147, 3147, 3425, 3421, 3425, 3448 Amount=7, 3425, 3425}}, 3504 Content={3507 String="depredador of darknes\nport hope", 2854 Content={3446 Amount=100, 2968 KeyNumber=3940, 3583 Amount=2}}, 3504 Content={3447 Amount=100, 2854 Content={3350, 3447 Amount=56, 2853 Content={2853 Content={3012, 3054 RemainingUses=143, 3004}, 3056 RemainingUses=200, 3050 SavedExpireTime=1771, 3012, 3084 RemainingUses=194, 3083 RemainingUses=150, 3093 SavedExpireTime=0, 3093 SavedExpireTime=1563}}}, 2872 Content={3483, 3448 Amount=17, 2866 Content={2872 Content={}, 2854 Content={}, 2867 Content={}, 2854 Content={}}}, 2866 Content={}, 3308, 3502 Content={}}}

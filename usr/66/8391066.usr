@@ -1,0 +1,60 @@
+ID              = 8391066
+Name            = "Titostr"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,115-113-114-0)
+CurrentOutfit   = (134,115-113-114-0)
+LastLogin       = 1146447652
+LastLogout      = 1146447690
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32683,31688,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1387150,0,1423500,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,378515,3000,582400,1600)
+Skill = (2,740,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,70,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,75,0,10,0,0,0,0,0,0,0,502910,1100,538407,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,42,1400,71,30)
+Skill = (8,76,0,10,0,0,0,0,0,0,0,281026,1100,296174,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,114,1100,165,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,72,1100,105,50)
+Skill = (11,36,0,10,0,0,0,0,0,0,0,5575,1100,6054,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,10136,1100,10752,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,6000,6000,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(151,1),(152,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2872 Content={3003, 3091 SavedExpireTime=216, 3457, 3192 Charges=1, 2854 Content={2865 Content={3188 Charges=1, 3174 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2865 Content={2866}, 2853 Content={2920, 2920, 3483, 3308}}},
+               4 Content={3357},
+               5 Content={3419},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3031 Amount=56}}
+
+Depots      = {0 Content={3504 Content={3507 String="Titostr\nThais\n" Editor="Titostr"}, 3502}, 
+               1 Content={2854 Content={3565, 3454, 3412}, 3502}, 
+               3 Content={3369, 2659, 2659, 2659, 3507 String="Use the forum!!\nit's an important part of Tibia!\nLets make it funny! :)" Editor="Heda", 2659, 2659, 2659, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 3349, 3446 Amount=94, 2868, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Underwood 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3281, 3449 Amount=47, 3085 RemainingUses=200, 3046, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3061, 3279, 2992 Amount=5, 3077, 3404, 3076, 3017, 3287 Amount=17, 3085 RemainingUses=200, 3085 RemainingUses=178, 3035 Amount=29}}, 
+               4 Content={3502}, 
+               5 Content={3285, 3285, 3502}, 
+               6 Content={3289, 3502 Content={3265, 3583 Amount=8, 2853 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=23}, 3384, 3384, 3384, 2869 Content={3052, 3052, 3097 SavedExpireTime=3590}, 2991, 3028 Amount=1, 3030 Amount=1, 2865, 2868 Content={3059, 2991, 2865 Content={3353, 3353, 3353, 3353, 3353, 3353, 3353, 3316, 3421, 3425, 3572, 3293, 3316, 3316, 3299, 3299}, 2868 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=140, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2868 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2870 Content={2970 KeyNumber=3142, 2970 KeyNumber=3142, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2973 KeyNumber=3520}, 3059, 3292, 2955, 2952, 3147, 2955}, 2857 Content={3084 RemainingUses=15, 3084 RemainingUses=250}, 2870 Content={2868, 2865, 2865, 2868, 2865, 2854, 2865, 2865, 2854, 2854}, 2868 Content={3492 Amount=25, 3492 Amount=100, 2920, 3598 Amount=5, 3492 Amount=100}, 2854 Content={3449 Amount=88, 3448 Amount=8, 3504 Content={3353, 3299, 2853 Content={3308, 3291, 3412}, 2991, 3503 Content={3504, 3504 Content={3507 String="zaneriian\ndarashia\n"}}, 3504 Content={3504 Content={3507 String="nisky\nab'dendriel"}, 3507 String="anaki naboo \nab'dendriel\n"}, 3504 Content={3504 Content={3504 Content={3507 String="Ahzidahaka\nAb'dendriel\n\n\n"}, 3507 String="angel maliontri\nab'dendriel"}, 3503, 3507 String="sadiko\nab'dendriel\n"}, 3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}, 3507 String="dragoon wake\nab'dendriel\n"}, 3504 Content={3507 String="pi carmelo\nab'dendriel", 2853 Content={2853 Content={2853 Content={2853 Content={2853, 2874}}}}, 2853}, 3504 Content={3507 String="angel rain \nab'dendriel"}, 3507 String="Galer Yugo\nAb'Dendriel"}, 3507 String="Titostr\nAb'dendriel\n", 3507}, 2853 Content={3308, 3456, 3003, 3308, 3308, 3456, 3456, 3003}, 2853 Content={3292, 3294, 3267, 3300, 3300, 3291}, 2853 Content={2984, 3078, 3270, 2991, 2991, 3471, 3454, 3565}, 3277 Amount=29, 3504 Content={3447 Amount=41, 3447 Amount=100, 3447 Amount=100, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3447 Amount=100, 3447 Amount=100}, 3504 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 3504 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3504 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350}}}}, 
+               8 Content={3502}}

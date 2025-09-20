@@ -1,0 +1,58 @@
+ID              = 8737695
+Name            = "Sir Rekien"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-127-132-132)
+CurrentOutfit   = (134,0-127-132-132)
+LastLogin       = 1148240047
+LastLogout      = 1148243321
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32706,31608,6]
+PlayerkillerEnd = 0
+
+Skill = (0,55,0,1,0,0,0,0,0,0,1,2562608,0,2629000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,393092,3000,582400,1600)
+Skill = (2,841,890,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,158,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,124,124,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1645,1645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,77,0,10,0,0,0,0,0,0,0,609428,1100,651683,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,78,0,10,0,0,0,0,0,0,0,352591,1100,358475,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,237,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,100,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5449,1100,5982,20)
+Skill = (14,0,1200,0,0,0,574,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(20,1),(46,1),(49,1),(50,1),(67,1),(68,1),(69,1),(70,1),(71,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(99,1),(106,1),(107,1),(108,1),(110,1),(111,1),(112,1),(115,1),(133,1),(135,1),(136,1),(137,1),(145,1),(146,1),(147,1),(151,1),(152,1),(154,1),(179,1),(180,1),(190,1),(191,1),(192,1),(200,1),(201,1),(202,1),(217,3),(227,4)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               3 Content={2870 Content={3503, 3503, 3503, 3503, 3503, 3421, 3003, 2853 Content={3031 Amount=46, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3446 Amount=66, 3349}, 3457, 3492 Amount=60, 2854 Content={2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3077}},
+               4 Content={3357},
+               6 Content={3281},
+               7 Content={3382},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="sir rekien\nthais" Editor="Sir Rekien"}, 3504 Content={3507 String="sir rekien\nthais" Editor="Sir Rekien"}, 3504 Content={3507 String="sir rekien\nthais" Editor="Sir Rekien"}, 3504 Content={3507 String="sir rekien\nthais" Editor="Sir Rekien"}, 3504 Content={3507 String="Sir rekien\nthais"}, 3504 Content={3507 String="sir rekien\nthais"}, 3502 Content={2868, 2853, 2854 Content={2871}, 2869}}, 
+               1 Content={3504 Content={3507 String="sir rekien\ncarlin" Editor="Sir Rekien"}, 3502}, 
+               2 Content={3349, 3349, 3457, 2870 Content={3349, 3349, 3349}, 3483, 2867 Content={3446 Amount=36, 3446 Amount=100, 2853, 2854, 3092, 3033 Amount=1, 2870, 2969 KeyNumber=5010, 3492 Amount=25, 3092 SavedExpireTime=44, 3457, 2854}, 3033 Amount=1, 3039, 3308, 3504 Content={3483, 3483, 3483, 3483, 3483, 3457, 3507 String="sir rekien\nkazordoon" Editor="Sir Rekien"}, 2853 Content={3188 Charges=1, 3449 Amount=4, 2922 SavedExpireTime=188, 2920}, 3483, 2969 KeyNumber=4055, 3264, 3291, 3723 Amount=69, 3602 Amount=3, 3507 String="sir rekien\nvenore", 3502 Content={2970 KeyNumber=3800, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3492 Amount=58, 2924 SavedExpireTime=280, 3097, 3447 Amount=32, 3026 Amount=1, 3350, 3411}}, 
+               3 Content={2865 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3428, 2865 Content={3275, 3266, 3409, 3425, 3266, 3266, 3266, 3266, 3349, 3305, 3425, 3266, 3358, 3425, 3351, 3413, 3266, 3425, 3425, 3349}, 3503 Content={3492 Amount=100, 3188 Charges=2, 3492 Amount=100, 3492 Amount=100}, 3291, 3412, 2867 Content={3071, 3039, 2856 Content={2854 Content={3286, 3483}}, 2854 Content={2867, 2854 Content={3077}, 2854}, 2854, 2853 Content={3271, 3045 RemainingUses=200, 2989, 3725 Amount=1, 3735 Amount=1, 3463, 2989}, 3448 Amount=2, 3563, 2969 KeyNumber=5010, 3074, 3074, 2853 Content={3017, 3017, 3017}, 3308, 3483, 3457, 3083 RemainingUses=150, 2984, 3085 RemainingUses=200, 3350, 3483}, 3504 Content={2853 Content={2870 Content={2920 SavedExpireTime=254, 2924 SavedExpireTime=87, 2469 Content={2473 Content={2903, 3093}}, 3050 SavedExpireTime=1767, 3092, 3093 SavedExpireTime=252, 3505 String="Sir rekien training here" Editor="Sir Rekien", 3552}, 3384, 3421}, 3507 String="sir rekien\nab'dendriel" Editor="Sir Rekien"}, 3502 Content={3446 Amount=6, 3446 Amount=100, 3035 Amount=24}}, 
+               4 Content={3504 Content={3507 String="Sir Rekien\nEdron\n" Editor="Hell Zide"}, 3503 Content={3507}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

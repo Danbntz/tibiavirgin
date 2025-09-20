@@ -1,0 +1,53 @@
+ID              = 12058124
+Name            = "Ades night'walker"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,2-132-95-95)
+CurrentOutfit   = (129,2-132-95-95)
+LastLogin       = 1148185975
+LastLogout      = 1148185991
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,60898,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,13283,3000,20800,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,15898,1100,16449,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,41,0,10,0,0,0,0,0,0,0,9446,1100,10056,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,783,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,29}
+QuestValues = {(20,1),(31,1),(32,1),(33,1),(34,1),(59,1),(254,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               6 Content={3299},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="ades night'walker\nthais" Editor="Lupis Night'Walker"}, 3504 Content={3507 String="ades night'walker\nthais" Editor="Chabelo Dark'Kronus"}, 3504 Content={3507 String="ades night'walker\nthais" Editor="Sayn Abra"}, 3502}, 
+               3 Content={3504, 3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={2853 Content={3354, 3354, 3354, 3354}, 3507 String="ades night'walker\ndarashia" Editor="Ades night'walker"}, 3504 Content={3059, 3507 String="Ades night'walker\ndarashia" Editor="Sayn Abra"}, 3502 Content={3426, 3291}}, 
+               6 Content={3502 Content={3412, 3293, 3377}}, 
+               7 Content={3502}, 
+               8 Content={3542, 3114 Amount=2, 3492 Amount=2, 2949, 2955, 3077, 3042 Amount=1, 2893, 3042 Amount=1, 3425, 3074, 3050, 3114 Amount=1, 3432, 3271, 3265, 3492 Amount=1, 3076, 3283, 3264, 3046, 3412, 2667, 3350, 3004, 3536, 3114 Amount=2, 3492 Amount=2, 2481 Content={2854 Content={3372}, 2866 Content={3601 Amount=3, 3598 Amount=4, 3586 Amount=5, 3585 Amount=6, 3587 Amount=7}, 2864 Content={2854 Content={2853}}}, 3504 Content={3507 String="ades night'walker\nport hope" Editor="Sayn Abra"}, 2854 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"River Homes 2a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2821 String="The Lizard People\nIt seems the lizards we encountered in the jungle are some sort of civilised culture. When I speak of culture, I relate them only to primitive orcs and minotaurs of course. During our expeditions to the jungle we learned that they are hostile to humanity like most of the vile creatures of this new land. Their animosity also spreads to most other races we encountered here. They seem to be a warlike race, searching for conflicts and fights with each and everyone they encounter. Obviously this mindless aggression leaves little room to develop a culture like the human one,  achieved due to a long history. It is unlikely those primitive brutes even know the very concept of history at all. \nThis leaves one to wonder who supplies them with their exotic weaponary and armor. Perhaps they are some minor race of a greater dark power that lurks in the deepest depths of the jungle. The magic I have seen performed by those lizards was far from impressive. They use a very limited variety of shamanistic tricks that are insignificantly more powerful than the powers those average orcish hive shamans hold. \nTo sum things up, the lizard people are another hostile race that might be seen as a hindrance for humankind but they do not pose a threat. On the other hand they are of no use to us and a timely elimination could only be helpful.", 2816 String="The Ghosts of the Jungle\nEven though it is true that many people who have not returned from the jungle have fallen prey to animals and other natural dangers, it is quite sure that not in all cases this explanation is applicable. For all we know it is quite certain that there have to be other dangers in the jungle than such mundane ones. How can it be explained that several watchmen of expeditions have vanished over night while none of the people asleep in the camp was harmed? How is it possible that well armed and seasoned adventurers got lost in the jungle? Considering the expertise of some of the victims this jungle has taken, it would be highly ignorant to assume that a simple beast of some kind could be the source of their ultimate doom. In conclusion we have to assume that 'something' is out there. A malicious, unseen power. Never seen but often felt. Noticed only by the 'inner eye' but never actually seen. Everybody that has ever set foot in the jungle knows this eerie feeling of being watched and traced. Sometimes you can almost imagine the movements of something invisible in the bushes. \nAnd do all those glowing eyes in the darkness belong to animals? I don't think so."}, 3504 Content={3504 Content={3504 Content={3457, 3507 String="ades night'walker\nEdron" Editor="Grillo carcelo"}, 3504, 2871 Content={3483, 2866 Content={2866, 2866}}, 2868 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}, 3507 String="ades night'walker\nport hope" Editor="Ades night'walker"}, 3502}}

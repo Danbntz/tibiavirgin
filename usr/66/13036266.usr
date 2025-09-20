@@ -1,0 +1,55 @@
+ID              = 13036266
+Name            = "Kallax"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,77-81-95-114)
+CurrentOutfit   = (137,77-81-95-114)
+LastLogin       = 1148245472
+LastLogout      = 1148256543
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32132,31605,7]
+PlayerkillerEnd = 0
+
+Skill = (0,13,0,1,0,0,0,0,0,0,1,25570,0,29900,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,257970,3000,582400,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,4,60,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,82,82,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,595,595,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,79,0,10,0,0,0,0,0,0,0,787208,1100,788746,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,316,1100,385,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,142,1100,165,50)
+Skill = (10,79,0,10,0,0,0,0,0,0,0,392077,1100,394373,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,97,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,13036,1100,13052,20)
+Skill = (14,0,1200,0,0,0,333,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,35,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1)}
+Murders     = {1145816377}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2854 Content={3577 Amount=3, 3582 Amount=1, 3268, 3003, 3492 Amount=70, 3031 Amount=17, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3189 Charges=1, 3189 Charges=2, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3189 Charges=2, 3189 Charges=1}, 3160 Charges=1, 3160 Charges=1, 2871 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3483}}
+
+Depots      = {1 Content={3504 Content={3504 Content={3507 String="kallax\ncarlin" Editor="Druid Khest"}, 3504 Content={3504 Content={3507 String="kallax\ncarlin" Editor="Unknow ank"}, 3507 String="Angered\nCarlin" Editor="Chona'Druida", 3504 Content={3507 String="kallax\ncarlin" Editor="Ice'Crowller"}, 3507 String="Kallax\ncarlin" Editor="Thunder Khest"}, 3504 Content={2853, 3507 String="kallax\ncarlin" Editor="Hezzus Chrysto"}, 3504 Content={3507 String="Kallax\nCarlin" Editor="Grandofer"}, 3504 Content={3507 String="kallax\ncarlin" Editor="Kinary Blyshid"}, 3384, 3268, 3507 String="kallax\ncarlin" Editor="Sir Zerrak"}, 2867, 3457, 3504 Content={3723 Amount=2, 3097, 3031 Amount=100, 2854 Content={3483, 3483, 3577 Amount=5}, 3507 String="kallax\ncarlin" Editor="Kinary Dsyre"}, 3268, 3003, 3552, 2853 Content={3282}, 3504 Content={3065, 3279, 3066, 2854 Content={3446 Amount=6}, 3066}, 3274, 3504 Content={3504, 3504 Content={2853, 3507 String="Meth Cybarina\nCarlin" Editor="Meth Cybarina"}, 3504 Content={3430}, 3504, 3507 Editor="Arcsbla Wigol"}, 3504 Content={3507 String="Sniper Slayer Dragon \nAb'Andriel " Editor="Sniper Slayer Dragon", 3504 Content={3504, 3504, 3504}, 3457}, 3578 Amount=12, 3502 Content={3504 Content={3419, 3434, 3382, 3381, 2857 Content={3318, 3043 Amount=7, 3035 Amount=48, 3052, 3046, 3077, 3084 RemainingUses=250, 3098}, 3302, 3483}}}, 
+               2 Content={3504 Content={2853 Content={2853 Content={3349, 3410, 3012, 3577 Amount=12, 3582 Amount=10, 2853 Content={3358, 3358, 3358, 3377, 3358, 3266, 3358, 3425}}}, 3507 String="kallax\nkazordoon" Editor="Unknow ank"}, 3502}, 
+               3 Content={3502 Content={3446 Amount=38}}}

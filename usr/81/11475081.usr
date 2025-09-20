@@ -1,0 +1,57 @@
+ID              = 11475081
+Name            = "Xephiroth Necros"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,0-114-0-114)
+CurrentOutfit   = (134,0-114-0-114)
+LastLogin       = 1142743436
+LastLogout      = 1142743645
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32912,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,352458,0,368300,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,526614,1100,528063,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,491,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,53214,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,27190,2000,51150,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,177,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,254,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2765,1100,2972,20)
+Skill = (14,0,1200,0,0,0,918,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,13,16,17,21,25,27,29,30,39,44,76,87,88,89}
+QuestValues = {(21,1),(22,1),(23,1),(33,1),(34,1),(67,1),(68,1),(70,1),(71,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(208,1),(217,3),(223,1),(224,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2870 Content={3351, 3031 Amount=67, 3031 Amount=100, 3155 Charges=1, 3155 Charges=1, 3577 Amount=7, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3155 Charges=1, 3155 Charges=1, 3198 Charges=1, 3198 Charges=5}, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3282, 3031 Amount=80, 3031 Amount=100, 3035 Amount=3, 3031 Amount=100, 3031 Amount=100, 3285, 3603 Amount=5, 3059, 3502}, 
+               1 Content={3502 Content={}}, 
+               4 Content={3457, 3502}, 
+               6 Content={2871 Content={3043 Amount=1, 3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3026 Amount=1}, 2853 Content={2853 Content={2659, 2656, 2656, 2656, 2667, 3283, 2992 Amount=4, 3599 Amount=1}, 2667, 3591 Amount=35, 2656, 2656, 2656, 2656, 2656}, 2867 Content={3072, 3071, 3074, 3074, 3572, 3353, 3425, 3285, 3357, 3447 Amount=44, 3350}, 2867 Content={3583 Amount=1, 3588 Amount=17, 3588 Amount=100, 2868 Content={2969 KeyNumber=5010, 3059, 2854 Content={3097 SavedExpireTime=3598}}, 3599 Amount=1}, 2870 Content={3308, 2969 KeyNumber=4600, 3547 Amount=1, 2992 Amount=1, 2901}, 2854 Content={3275, 3266, 3372, 3359, 3307, 3447 Amount=39, 3446 Amount=23, 3316}, 2854 Content={3008, 3056 RemainingUses=200, 3012, 3012, 3008, 3008, 3008, 3008, 3008, 3012}, 2667, 2656, 3504 Content={2867 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=2, 3198 Charges=2, 3198 Charges=4, 3160 Charges=1, 3164 Charges=1, 3198 Charges=2}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3507 String="xephiroth necros \nvenore" Editor="Xephiroth Necros"}, 3504 Content={3507 String="xephiroth necros\nvenore" Editor="Xephiroth Necros", 2871 Content={3052, 3052, 3327, 3353, 3003, 3457, 3447 Amount=5, 3449 Amount=7, 3032 Amount=1, 3052, 3572, 3003, 3045 RemainingUses=200, 3045 RemainingUses=200, 2853 Content={3046, 3046, 3046, 3046, 3046}}, 2867 Content={3031 Amount=45, 2854 Content={3265, 3285, 3557}, 3035 Amount=87}}, 3504 Content={3483, 3507 String="xephiroth necros\nvenore" Editor="Xephiroth Necros", 2854 Content={3457, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2853 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3299, 3265, 3350}}, 2853 Content={3028 Amount=2, 3027 Amount=2, 3026 Amount=3, 3030 Amount=3}, 2854 Content={2872, 2870, 2872}, 2853 Content={3492 Amount=43, 2911 SavedExpireTime=2729, 2920, 3003, 3308, 3463, 3004, 2989}, 2867 Content={3448 Amount=3, 3275, 3350, 3441, 3377, 2867 Content={3092, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3054 RemainingUses=200, 3054 RemainingUses=200, 3483, 2920, 3054 RemainingUses=200, 3054 RemainingUses=123, 3008}, 3268, 3349, 3377, 3299, 3409}, 2867 Content={2854}, 2854 Content={3155 Charges=1, 3192 Charges=1, 3155 Charges=1, 3155 Charges=1, 3148 Charges=3, 3148 Charges=2, 3192 Charges=2}, 2871 Content={4290, 3310, 3310, 3299}, 2868 Content={3305, 3421, 3451, 3050 SavedExpireTime=1616, 3558, 3293, 3077, 3056 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150, 3085 RemainingUses=200, 3085 RemainingUses=200, 3509, 3452}, 3502 Content={3308, 3509, 3046, 3092, 2983, 3542, 2969 KeyNumber=3033, 3375, 3374, 3446 Amount=38}}, 
+               7 Content={3504 Content={3507 String="xephiroth necros\nankrahmun" Editor="Xephiroth Strife"}, 3504 Content={3507 String="xephiroth necros\nankrahmun" Editor="Xedis Willstar"}, 3504 Content={3507 String="Xephiroth necros\nankrahmun" Editor="Xephiroth Necros", 3504 Content={2875}}, 3504 Content={3507 String="Xephiroth necros \nankrahmun" Editor="Xephiroth Strife"}, 3502}, 
+               8 Content={3502}}

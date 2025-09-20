@@ -1,0 +1,56 @@
+ID              = 13051664
+Name            = "Telataxco"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,114-114-114-114)
+CurrentOutfit   = (130,114-114-114-114)
+LastLogin       = 1148065243
+LastLogout      = 1148072135
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32564,32058,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,56878,0,57600,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,46511,1100,50835,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,159,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11269,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,406,1800,593,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,41,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,902,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,499,1100,559,20)
+Skill = (14,0,1200,0,0,0,272,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,9,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,10,11,12,20,25,26,29,42,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(69,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={3384, 3300, 3031 Amount=8, 3031 Amount=100, 2853 Content={3359, 3492 Amount=15, 3003, 3188 Charges=3, 3188 Charges=2}, 3147, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3483}}},
+               4 Content={3357},
+               5 Content={3070},
+               6 Content={3418},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2925 RemainingExpireTime=139}}
+
+Depots      = {0 Content={3502 Content={3425, 3447 Amount=64, 3350, 3003, 2853 Content={3031 Amount=23, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2901}}, 
+               1 Content={3502 Content={3492 Amount=6, 2853 Content={3031 Amount=40, 3035 Amount=1, 3031 Amount=100}}}, 
+               3 Content={3502 Content={2853 Content={3031 Amount=60, 3035 Amount=31}, 2853 Content={3362, 2969 KeyNumber=3033, 3603 Amount=5, 3446 Amount=39, 3308}, 3004, 3505, 2473 Content={3065, 3350, 3421, 3425, 3425, 3066}, 2473 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3457, 3059, 2989, 3463}}}, 
+               6 Content={3502 Content={3031 Amount=100, 3268, 3507 String="Kikox sorcer\nvenore" Editor="Davion Alunando", 3503 Content={2856 Content={2906, 3012, 3059, 3059, 3008}, 3506 String="telataxco\nvenore\n\nHola bueno pues no estoy haciendo nada mas ke esperandote pero la vdad tengo sueño y me siento un poco sacada de onda, kiero que sepas que me caes muy bien y ke de vdad me interesa mucho tu amistad y pues me he encariñado mucho contigo y es sincero lo que te digo, espero lo que ti me dices sea sinero tambien cuidate mucho nos vemos atte. susy" Editor="Chobits Clamp", 3507 String="telataxco\nab´dendriel" Editor="Telataxco"}}}}

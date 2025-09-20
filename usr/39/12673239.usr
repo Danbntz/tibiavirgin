@@ -1,0 +1,56 @@
+ID              = 12673239
+Name            = "Lapanda"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,112-121-0-126)
+CurrentOutfit   = (128,112-121-0-126)
+LastLogin       = 1148149497
+LastLogout      = 1148154646
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32534,32200,13]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,600315,0,601800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,137396,3000,193600,1600)
+Skill = (2,575,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,14,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,55828,1100,59240,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,134,1400,213,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (9,56,0,10,0,0,0,0,0,0,0,43157,1100,43598,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,98,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,66,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,649,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(36,1),(38,1),(55,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(96,1),(97,1),(98,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3367, 3003, 3286, 3492 Amount=5, 3031 Amount=72, 2920, 2920, 3354, 2920, 3410, 3031 Amount=100, 2854 Content={3164 Charges=2, 3188 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=3}, 3174 Charges=5, 3198 Charges=4, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1}},
+               4 Content={3381},
+               5 Content={3436},
+               6 Content={3324},
+               7 Content={3371},
+               8 Content={3079},
+               10 Content={2921 RemainingExpireTime=549}}
+
+Depots      = {0 Content={3504 Content={3031 Amount=31, 3031 Amount=100, 3031 Amount=100, 3035 Amount=13, 3035 Amount=100, 3507 String="lapanda\nthais" Editor="Barris"}, 3504 Content={3425, 3507 String="lapanda\nthais" Editor="Barris"}, 3074, 2867 Content={3446 Amount=15, 3446 Amount=100, 3483, 3287 Amount=13, 2865 Content={2952}, 3446 Amount=100, 3457, 2867}, 3504 Content={3003, 3056 RemainingUses=200, 3093, 3507 String="lapanda\nthais\n" Editor="Elchurrumaiz"}, 3504 Content={3092, 2865, 2866, 2854, 3507 String="lapanda\nthais" Editor="Barris"}, 3192 Charges=2, 3457, 2867 Content={3031 Amount=60, 3031 Amount=100, 3287 Amount=13, 3031 Amount=100, 3446 Amount=66, 3349}, 3504 Content={3425, 3425, 3507 String="lapanda\nthais" Editor="Lapanda"}, 2853 Content={2853}, 2868 Content={2860 Content={3349, 3349, 3349, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3031 Amount=44, 3056 RemainingUses=200, 3031 Amount=100, 3385, 3287 Amount=13}, 3457, 3054 RemainingUses=6, 2867 Content={3275, 3066, 3287 Amount=26, 3031 Amount=100, 3446 Amount=6, 3447 Amount=8, 2853 Content={3457, 3097 SavedExpireTime=1065}, 3457}, 3457, 2969 KeyNumber=3600, 3502 Content={2853 Content={3031 Amount=75, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=3, 3031 Amount=100}, 2854 Content={3503 Content={2854, 3507 String="lapanda\nthais" Editor="Lapanda"}, 2854}, 3457}}, 
+               1 Content={3359, 3372, 3358, 3031 Amount=100, 3031 Amount=100, 3003, 3582 Amount=4, 3031 Amount=15, 3031 Amount=100, 3035 Amount=6, 3031 Amount=100, 3351, 3425, 3359, 3597 Amount=1, 3299, 3003, 3377, 3084 RemainingUses=250, 2973 KeyNumber=3520, 3457, 2854 Content={3372}, 3307, 2868 Content={2854, 3287 Amount=52}, 2865 Content={3413, 3446 Amount=100, 3446 Amount=48, 3446 Amount=100, 3003}, 3003, 2854 Content={3503 Content={3507, 3507}, 3503 Content={2854, 3507}, 3503}, 2854 Content={3147}, 2854 Content={2969 KeyNumber=4600, 3008, 3003, 2922 SavedExpireTime=63, 2920, 3003}, 3502 Content={3279, 2970 KeyNumber=3899, 2973 KeyNumber=3520, 2854 Content={3457, 2874, 2874}, 3177 Charges=1, 3177 Charges=1, 3172 Charges=1, 3449 Amount=3, 3003, 3285}}, 
+               2 Content={3266, 3358, 3035 Amount=22, 3349, 3349, 3349, 2969 KeyNumber=5000, 3074, 3305, 2867 Content={3446 Amount=6, 3349, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3457, 3446 Amount=100}, 3322, 2854, 2854, 3557, 2854 Content={2854 Content={3457, 3147}, 3457, 3084 RemainingUses=250, 3077, 3098 SavedExpireTime=448, 2868 Content={2868 Content={3457, 3492 Amount=49, 3083 RemainingUses=150, 2854 Content={2868, 3457, 3147, 3092}, 2874, 3457, 3283, 3056 RemainingUses=200}, 2868}}, 2868 Content={2865, 3307, 2854 Content={3457}}, 2868 Content={3457, 2868, 2868}, 2870, 2868 Content={2906, 3290, 2874, 2874, 3056 RemainingUses=200, 3507 String="lapanda\nthais\n" Editor="Lapanda", 3177 Charges=1, 3092 SavedExpireTime=1799, 3046, 3003, 3092}, 2868 Content={3148 Charges=3, 3148 Charges=3, 3457, 3003, 3492 Amount=24, 3507 String="lapanda\nKazordoon" Editor="Shev-cheko", 3457, 2969 KeyNumber=3033}, 3502 Content={3349, 3083 RemainingUses=150, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 3008, 3012, 3056 RemainingUses=200, 3483}}, 
+               6 Content={3502}}

@@ -1,0 +1,51 @@
+ID              = 14158913
+Name            = "Serius anne"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (139,15-17-53-15)
+CurrentOutfit   = (139,15-17-53-15)
+LastLogin       = 1148173461
+LastLogout      = 1148178107
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32925,32074,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,11000,0,13000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,3736,1100,5296,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,4978,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,273,2000,350,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4113,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1043,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,110,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(59,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2867 Content={3578 Amount=6, 3457, 3003}},
+               4 Content={3379},
+               5 Content={3430},
+               6 Content={3074},
+               7 Content={3559},
+               8 Content={3552}}
+
+Depots      = {6 Content={3502 Content={2920 SavedExpireTime=113, 3483, 2920, 3352, 3337, 1781 Amount=1, 3031 Amount=29, 3031 Amount=100, 3031 Amount=100, 3003, 3003, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3286, 3286, 2920, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2856 Content={3552, 2874, 3367}}}}

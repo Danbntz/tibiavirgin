@@ -1,0 +1,56 @@
+ID              = 12962820
+Name            = "Shel Kena"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (138,114-0-114-114)
+CurrentOutfit   = (138,114-0-114-114)
+LastLogin       = 1148253134
+LastLogout      = 1148253279
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32680,31687,5]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,350268,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,72781,3000,193600,1600)
+Skill = (2,309,490,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,18,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,980,980,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,126922,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,27,0,10,0,0,0,0,0,0,0,2041,1100,2279,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,86194,1100,94029,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,62,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,68,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,738,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(72,1),(73,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3578 Amount=10, 3457, 3308}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3324},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3585 Amount=2, 3454, 3502 Content={2983, 3198 Charges=2, 3275, 3658, 3084 RemainingUses=250, 3012, 3084 RemainingUses=250, 3012, 3012, 2981, 3456, 3308, 2981, 3658, 3050 SavedExpireTime=1290, 3658, 3147, 3030 Amount=1, 3189 Charges=2, 3198 Charges=5, 3308, 3008, 3509, 3374, 3291, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=58}}}, 
+               3 Content={3264, 3003, 3446 Amount=100, 3446 Amount=100, 3506 String="Shel kena\nab'dendriel\n\nEstas cordialmente invitada a festejar la inaguracion de mi nueva casa espero con tu presencia ya q eres uan persona muy importante para mi ademas de mi amiga espero y no faltes\n\nAtte: Bertha of darkness" Editor="Bertha of darkness", 3502 Content={3264, 2854 Content={3492 Amount=99, 3578 Amount=18, 2920 SavedExpireTime=194, 2920, 3270, 3412, 3483}, 3551, 3449 Amount=1, 2869, 3483, 2969 KeyNumber=3033, 3045 RemainingUses=175, 2853 Content={3003, 3174 Charges=5, 3031 Amount=24, 3031 Amount=100}, 3447 Amount=6, 3446 Amount=5, 3425, 3270, 3172 Charges=2, 3565, 2868 Content={3269, 3447 Amount=8, 3266, 3264, 3283, 3316, 3459, 2815, 2920, 2920, 3266}, 2857 Content={3012, 3056 RemainingUses=200, 3098 SavedExpireTime=444, 3083 RemainingUses=150, 3077}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3425, 3093 SavedExpireTime=722, 3093 SavedExpireTime=1797, 2865 Content={3308, 2865 Content={3031 Amount=10}, 2865 Content={3736 Amount=1, 2981, 2981, 2981, 2983, 2984, 2981, 3661, 3661, 3661, 2985, 3674, 3673, 2984}, 2854 Content={3084 RemainingUses=250, 2969 KeyNumber=3033, 3293, 3457, 2876, 3308, 2973 KeyNumber=3520, 3492 Amount=75, 3483, 3003, 3003, 3483, 3483, 3456, 2667, 3457, 2667}, 2868 Content={3046 SavedExpireTime=3000, 3446 Amount=3}}}}, 
+               6 Content={3502 Content={3425, 2865, 3452, 3578 Amount=7, 2870, 2867 Content={3300, 3273, 3336}, 2856 Content={3056 RemainingUses=200, 2991}, 3492 Amount=2, 3577 Amount=5}}}

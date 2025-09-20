@@ -1,0 +1,55 @@
+ID              = 14643364
+Name            = "Skazi Sonic"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,107-114-114-0)
+CurrentOutfit   = (134,107-114-114-0)
+LastLogin       = 1148240977
+LastLogout      = 1148241072
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33218,32283,9]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,76608,0,83400,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,143982,1100,157355,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,335,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11144,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,995,1800,1118,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5356,1100,5420,20)
+Skill = (14,0,1200,0,0,0,1074,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,8,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,42,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(84,1),(85,1),(86,1),(87,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3054 RemainingUses=151},
+               3 Content={2866 Content={3031 Amount=4, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3578 Amount=26, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3070},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {4 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Stonehome Village 9\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="skazi sonic\nedron" Editor="Dread Elder", 3035 Amount=1}, 3492 Amount=52, 2853 Content={1781 Amount=14}, 3502 Content={2853 Content={3031 Amount=19}}}, 
+               5 Content={3504 Content={3409, 3367, 3507 String="Skazi Sonic\nDarashia" Editor="Electro Amorpho"}, 3069, 3502 Content={2866 Content={3035 Amount=16}, 2866 Content={2853, 2853}}}, 
+               6 Content={3504 Content={3066, 3507 String="Skazi Sonic\nVenore" Editor="Dubfire"}, 3502}}

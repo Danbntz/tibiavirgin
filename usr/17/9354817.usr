@@ -1,0 +1,52 @@
+ID              = 9354817
+Name            = "Ispano"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,114-128-114-95)
+CurrentOutfit   = (134,114-128-114-95)
+LastLogin       = 1147989494
+LastLogout      = 1147989536
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32919,32079,4]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,82548,0,83400,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,114316,1100,127268,1600)
+Skill = (2,-5,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,25,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14277,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,26,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,130,1800,140,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,6343,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,170,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,473,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,5,8,9,10,11,15,17,20,25,29,42,87,88}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(35,1),(98,1),(100,1),(115,1),(125,1),(126,1),(153,1),(223,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={2853, 3507 String="ispano\nthais" Editor="Ispano"}, 3504 Content={3507 String="ispano\nthais" Editor="Zillion"}, 3504 Content={3410, 3507 String="ispano\nthais" Editor="Zillion"}, 3504 Content={3507 String="ispano\nthais"}, 3504 Content={3577 Amount=25, 3507 String="ispano\nthais"}, 3504 Content={3507 String="ispano\nthais"}, 3504 Content={3507 String="ispano\nthais"}, 3504 Content={3507 String="ispano\nthais"}, 3504 Content={3507 String="ispano\nthais"}, 3502 Content={3279, 3003, 2839 String="Ispano.\n\nPrimer dia\n\nSolo espero que me ayuden a pasa de lvl\nno los conosco mucho pero supongo que son amigos.", 3147, 3740 Amount=1, 3457, 3308, 3374, 3453, 3308, 3455}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3349, 3092, 3092, 2973 KeyNumber=3520, 3502 Content={3066, 3070, 2472 Content={2969 KeyNumber=3033, 2853 Content={3446 Amount=81, 3446 Amount=100, 3446 Amount=100}}}}, 
+               3 Content={3504 Content={3507 String="ispano\nab'dendriel"}, 3504 Content={3507 String="ispano\nab'dendriel"}, 3502 Content={2854, 2969 KeyNumber=3033, 3308, 3457, 3456}}, 
+               4 Content={3502}, 
+               5 Content={3031 Amount=61, 3031 Amount=100, 3031 Amount=100, 3483, 3003, 3457, 3504 Content={2853 Content={2853 Content={2853 Content={3031 Amount=3, 3492 Amount=64, 3578 Amount=14}, 3572, 3056 RemainingUses=200, 2853 Content={2853 Content={2853 Content={2853}}}}}}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

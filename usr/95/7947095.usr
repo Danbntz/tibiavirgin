@@ -1,0 +1,58 @@
+ID              = 7947095
+Name            = "Rinot"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-75-0-75)
+CurrentOutfit   = (134,0-75-0-75)
+LastLogin       = 1140998228
+LastLogout      = 1140998250
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32612,32064,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,520027,0,548900,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,370910,1400,440480,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,10,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,164586,1100,170871,100)
+Skill = (7,76,0,10,0,0,0,0,0,0,0,168702,1100,177704,30)
+Skill = (8,25,0,10,0,0,0,0,0,0,0,3751,1200,4372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,3,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,29,0,10,0,0,0,0,0,0,0,9109,1200,9334,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6708,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,96,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,42,51,76,79,81}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(49,1),(58,1),(59,1),(84,1),(85,1),(86,1),(87,1),(100,1),(106,1),(107,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3447 Amount=21, 2853 Content={3430, 3271, 3046 SavedExpireTime=546, 3277 Amount=4, 3031 Amount=71, 3349, 3003}}},
+               4 Content={3357},
+               5 Content={3350},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3447 Amount=89}}
+
+Depots      = {0 Content={3559, 3354, 3426, 3506 String="Rinot\nThais\n\nHola, ¿¿¿Quieres entrar en un concurso en el que puedes GANARTE UN PREMMY ACC.??? es muy facil solo debes contestar la siguiente encuesta y mandar la respuesta a tibialatino@hotmail.com, tienes oportunidad de madar tu respuesta hasta el 30 de junio de 2005, se hara un sorteo entre todos los que respondan esta encuesta el 5 de julio del 2005, los ganadores del los 20 PREMY ACC. seran notificados por este mismo medio.\n\n                       Encuesta de Tibia\n\n1. Tu Char:\n2 Server:\n3 Pais de donde eres?\n4 Que Edad Tienes?\n5 Cuantas Horas Juegas a Tibia a la semana?\n6 Que profesion prefieres?\n7 Cual es la peor profesion? porque?\n8 Te gustaria un server totalmente en ESPAÑOL?\n9 Que es lo que mas te gusta de tibia?\n10 Que es lo que menos te gusta?\n11 Te parece buena la idea de quitar la magia Utevo Lux y en cambia dejar la vision siempre perfecta? (sin obscuridad)\n12 Que le agregarias a Tibia?\n13 Te gusta Matar a otras personas?\n14 Te gustaria que hubiecen mas formas de hacerte Premy Acc. como pagando dentro del juego?\n15 Te gustaria Hacerte Premy Acc. pagadon directamente en cualquier banco de tu pais?\n16 Cual es tu meta en Tibia?\n17 Tienes Guild?\n18 Sabes como llegar ser tutor o Game Master?\n19 Te gustaria ser Elite, Elder, Royal o Mater sin necesidad de ser premy?\n20 Te gustaria una pag Web donde concigas informacion como hacer tus Quest?\n\nSolo contesta estas preguntas y recuerda mandar tus respuesta al correo tibialatino@hotmail.com antes del 30-06-05 para que concurses en el sorteo de 20 Premy Acc. No hay respuestas incorrectas. Gracias", 3502 Content={2853}}, 
+               1 Content={3502 Content={2920, 3552, 3003, 3504 Content={2853, 3507 String="Rinot\nCarlin" Editor="Aiyanito Juarias", 3504 Content={3307, 3377}}, 3003, 3350, 2853, 3430, 3300, 3286, 3358}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3723 Amount=62, 3502 Content={3003, 3457}}, 
+               5 Content={2656, 3449 Amount=1, 2656, 3449 Amount=1, 3425, 3425, 3092 SavedExpireTime=0, 2656, 3449 Amount=1, 3351, 2656, 3449 Amount=1, 3351, 2656, 3449 Amount=1, 3350, 2656, 2656, 3449 Amount=1, 2656, 3449 Amount=1, 3425, 3092 SavedExpireTime=0, 2656, 3449 Amount=1, 3377, 3377, 2656, 3449 Amount=1, 3351, 2656, 3449 Amount=28, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3155 Charges=1, 2667, 2667, 3425, 3425, 3092 SavedExpireTime=0, 2667, 3351, 2667, 3351, 2667, 3446 Amount=30, 3446 Amount=100, 3446 Amount=100, 2667, 2667, 3384, 2667, 3349, 3050 SavedExpireTime=0, 2667, 3349, 3050 SavedExpireTime=0, 2667, 3349, 3050 SavedExpireTime=0, 2667, 3349, 3093 SavedExpireTime=0, 2667, 2667, 2667, 3425, 3425, 3425, 2667, 3351, 2667, 3598 Amount=25, 2667, 2647, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2647, 3372, 3557, 2647, 3377, 2647, 3380, 2647, 3351, 3385, 2647, 2854 Content={}, 3008, 3012, 2866 Content={2866 Content={}, 2865 Content={2868 Content={}}, 2854 Content={}, 2867 Content={2865 Content={}, 2869 Content={}}, 2868 Content={2865 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 2868 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}}, 2854 Content={}, 2867 Content={2866 Content={2866 Content={2854 Content={2866 Content={}}}}}}, 2868 Content={}, 3358, 3358, 3413, 3155 Charges=1, 3155 Charges=1, 2869 Content={}, 3160 Charges=1, 2647, 3447 Amount=20, 2647, 3350, 2647, 3311, 2647, 3351, 2647, 3277 Amount=2, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2647, 2647, 2647, 2647, 2656, 3275, 3449 Amount=1, 3017, 2656, 3275, 3449 Amount=1, 2656, 3349, 3330, 2992 Amount=1, 3449 Amount=1, 2656, 2992 Amount=1, 3449 Amount=1, 2656, 2867 Content={3578 Amount=66, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3583 Amount=5, 2656, 2992 Amount=2, 3449 Amount=1, 2656, 2992 Amount=2, 3449 Amount=1, 2656, 2656, 2667, 3275, 3017, 2667, 3275, 2667, 3349, 3327, 2667, 3084 RemainingUses=250, 3084 RemainingUses=250, 3049 SavedExpireTime=311, 2667, 2667, 2667, 3277 Amount=4, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2874 ContainerLiquidType=0, 2667, 3271, 3351, 2667, 3077, 2667, 3449 Amount=1, 2667, 3349, 3330, 2667, 3084 RemainingUses=250, 3084 RemainingUses=250, 3049 SavedExpireTime=332, 2667, 2667, 2866 Content={3198 Charges=3, 3198 Charges=5, 3031 Amount=32}, 3457, 3003, 3425, 2667, 3271, 3297, 2667, 3429, 3077, 3160 Charges=1, 2667, 3449 Amount=1, 2667, 2647, 3349, 3327, 2992 Amount=1, 3449 Amount=1, 2647, 2992 Amount=1, 3449 Amount=1, 2647, 2647, 2992 Amount=2, 3449 Amount=1, 2647, 2992 Amount=2, 3449 Amount=1, 2647, 2992 Amount=2, 3449 Amount=1, 2647, 2647, 2992 Amount=2, 3449 Amount=1, 2647, 2647, 2647, 2647, 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 3385 gold\nfor your house \"Darashia 8, Flat 02\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3003}}, 
+               6 Content={3504 Content={2853 Content={2853 Content={}}, 3507 String="Rinot\nVenore"}, 3275, 3502 Content={}}, 
+               7 Content={3502 Content={2853 Content={3367, 3367, 3367, 3367}}}}

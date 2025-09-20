@@ -1,0 +1,51 @@
+ID              = 10042213
+Name            = "Fuel Sigode"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,3-114-77-114)
+CurrentOutfit   = (128,3-114-77-114)
+LastLogin       = 1146581442
+LastLogout      = 1146581622
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31785,5]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,19858,0,23200,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,52240,1100,57519,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,2,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,1630,1500,2078,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,4588,2000,6350,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,783,2000,1550,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1556,2000,3150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,57,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10}
+QuestValues = {(59,1),(60,1),(61,1),(125,1),(126,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2874, 2853 Content={2853}, 3003, 3198 Charges=5}},
+               4 Content={3377},
+               5 Content={3265},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={2917 SavedExpireTime=2485}}
+
+Depots      = {1 Content={2906, 2901, 3504 Content={3507 String="Fuel Sigode\nCarlin", 2469, 3447 Amount=26}, 2853 Content={3285, 3588 Amount=3, 2853 Content={3003}, 2853, 3003}, 3504 Content={2853 Content={3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 2874}}}, 3507 String="Fuel Sigode\nCarlin\n"}, 2473 Content={3031 Amount=100, 3035 Amount=10, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2473 Content={2473 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2471 Content={3031 Amount=31, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2868, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3446 Amount=16, 3503 Content={2469 Content={3595 Amount=1, 2471, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3590 Amount=3, 3602 Amount=2, 3503 Content={3507, 3453, 3350, 3507 String="Carla Enforcer\nCarlin"}}, 3585 Amount=4, 3600 Amount=4, 3350, 3578 Amount=41, 3588 Amount=27, 3597 Amount=1, 3595 Amount=6, 3577 Amount=23, 3723 Amount=10}, 3012, 2853 Content={3425, 3362, 3359, 2920 SavedExpireTime=516, 2920, 3003, 2853 Content={2853 Content={2853 Content={3457, 2853 Content={2853}}}, 3003, 3285, 3559, 3198 Charges=5, 3198 Charges=5}}, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3456}, 2853 Content={2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3504, 3504, 3504, 3504 Content={3507 String="sir patrick\ncarlin"}, 3504, 3504}}, 2853 Content={3003, 3374, 2920 SavedExpireTime=108}, 1781 Amount=7, 2853 Content={3447 Amount=5, 3056 RemainingUses=200}, 3293, 3504 Content={3507 String="Fuel Sigode \nCarlin\n"}, 2853, 2853 Content={2853 Content={2874, 2874, 2911}}, 2853, 2853, 2853 Content={3457}, 2874, 2853 Content={3003, 3003}, 2853 Content={2853 Content={2920, 3003, 2920, 2853 Content={3457, 2920}}, 3457}, 2973 KeyNumber=3520, 3502 Content={2868 Content={1781 Amount=2, 3147, 3147, 3147, 3147, 3588 Amount=3, 3050, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2865}, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003}, 3056 RemainingUses=200, 3266, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2868, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3198 Charges=5, 2955, 3492 Amount=100, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3361, 3559, 2853 Content={3457, 3003, 2922 SavedExpireTime=108}, 2853, 2853 Content={3008, 2868 Content={2973 KeyNumber=3520}, 2854, 2853 Content={3282, 3285, 2853}, 3457}, 2853 Content={3362, 3301, 3374, 3492 Amount=4}, 2853 Content={3377, 3572, 3492 Amount=2}, 3559, 2853, 2853 Content={2853}, 3504 Content={3507 String="gabrieldain\ncarlin"}, 2924 SavedExpireTime=245, 2874, 3504 Content={2922 SavedExpireTime=32, 3003, 3300, 2874, 2874, 2911, 3504 Content={3507 String="Fuel Sigode\nCarlin"}, 3507 String="Fuel Sigode\nCarlin\n"}, 2853 Content={1781 Amount=1, 2874}, 3552, 2854 Content={3483, 2973 KeyNumber=3520, 3198 Charges=5, 3003, 3456, 3153 Charges=1, 2853 Content={3430, 3736 Amount=1, 3457, 3003}, 2874, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3504 Content={2984, 3507 String="carlin\njack\n"}}, 2853, 2853 Content={3504 Content={3361}, 3003}, 3504 Content={3658, 3504 Content={2893, 2874, 2874, 2881, 3378, 3552, 3552}}, 2969 KeyNumber=4600, 2969 KeyNumber=4600}}}}

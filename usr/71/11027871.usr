@@ -1,0 +1,54 @@
+ID              = 11027871
+Name            = "Brod Helin"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (130,57-95-114-114)
+CurrentOutfit   = (130,57-95-114-114)
+LastLogin       = 1146764834
+LastLogout      = 1146766308
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32373,32411,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,180223,0,204800,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,138520,1400,157982,1600)
+Skill = (2,340,340,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,265,265,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,780,780,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,1351,1100,1357,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,21484,1100,21567,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,81,1200,109,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,918,1200,1039,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,23,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,36,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3627,1100,3638,20)
+Skill = (14,0,1200,0,0,0,1091,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,76,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,15,20,29,42,48,49,51}
+QuestValues = {(18,1),(24,1),(46,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(190,1),(191,1)}
+Murders     = {1145972467,1146030362}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={3577 Amount=2, 3031 Amount=25, 3582 Amount=2}},
+               5 Content={3350},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3447 Amount=41}}
+
+Depots      = {0 Content={3031 Amount=12, 3043 Amount=1, 3035 Amount=22, 2869 Content={3578 Amount=16, 3447 Amount=49, 3577 Amount=8, 3446 Amount=100, 3446 Amount=4, 3448 Amount=12, 3349, 3349}, 3492 Amount=2, 3483, 3661, 3457, 3059, 3504 Content={3572, 3410, 3074, 3410, 3409, 3372, 3507 String="Brod Helin\nThais" Editor="Brod Helin"}, 3307, 3504 Content={3285, 3265, 3421, 3411, 3411, 3354, 3410, 3411, 3411, 3275}, 3457, 3456, 3351, 3012, 3092 SavedExpireTime=1786, 3457, 3502 Content={3012}}, 
+               1 Content={3031 Amount=43, 3074, 3031 Amount=100, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 3031 Amount=100, 3453, 3483, 2873, 3097 SavedExpireTime=3588, 3305, 2866 Content={3349, 3350, 3350, 3277 Amount=15, 3578 Amount=9, 3449 Amount=12}, 3035 Amount=48, 2853 Content={3492 Amount=100, 3492 Amount=100}, 3504, 3503 Content={3507}, 3026 Amount=1, 3027 Amount=2, 3008, 3046 SavedExpireTime=2985, 3504 Content={2853, 3507 String="Brod Helin\nCarlin", 3504 Content={3507 String="Brod Helin\nAb'Dendriel"}}, 2857 Content={3056 RemainingUses=200, 3077}, 2854 Content={3559, 2853, 3425, 3350, 3056 RemainingUses=195, 3287 Amount=1, 3359}, 2868 Content={2868, 3148 Charges=3, 3164 Charges=3, 3147}, 3448 Amount=30, 1781 Amount=30, 3502 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2984, 3110, 3003, 3003, 3003, 3003, 3471, 3504 Content={3003, 2853 Content={3300, 2853, 2868 Content={2868 Content={2853 Content={3559, 3559, 3374, 3559, 3378}}, 2853, 3551, 3378, 3293, 3454, 3452, 3267, 2901, 3457, 3308, 3308, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3308}, 3430, 3378, 3559}, 2868 Content={3456}, 3503 Content={3504 Content={3504 Content={2853 Content={2853}, 3507 String="Brod Helin\nCarlin"}, 3374, 3466, 3430, 3003, 3003, 3507 String="Ganso of zanera\nCarlin"}, 2973 KeyNumber=3520, 3451, 3565, 3492 Amount=1, 3459, 2984, 2985, 3505 String="Chingue su madre el que lo lea", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 3507 String="sorcerder of the dead\ncarlin"}, 3470, 2914 SavedExpireTime=1434, 2920 SavedExpireTime=242, 2920 SavedExpireTime=439, 2911, 2924 SavedExpireTime=262, 2924 SavedExpireTime=81, 2911 SavedExpireTime=123, 2955, 2920 SavedExpireTime=598}}, 
+               2 Content={3492 Amount=2, 3483, 3031 Amount=31, 3446 Amount=5, 2870 Content={3723 Amount=17, 3578 Amount=2}, 3012, 3504 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3507 String="Brod Helin\nKazordoon"}, 3035 Amount=11, 3457, 3031 Amount=100, 3502}, 
+               3 Content={3483, 3453, 2875, 3308, 1781 Amount=19, 3457, 3003, 3502 Content={2853}}}

@@ -1,0 +1,57 @@
+ID              = 10163450
+Name            = "Dhaddy Trol"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1148232890
+LastLogout      = 1148233081
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32653,31920,8]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,244485,0,262600,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,251227,1100,263190,1600)
+Skill = (2,245,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,95,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,25549,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,8180,1800,12334,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,26,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,124,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1030,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,12,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,7,8,9,10,11,12,15,20,25,29,33,38,42,45}
+QuestValues = {(14,1),(15,1),(16,1),(96,1),(97,1),(98,1),(106,1),(107,1),(130,1),(131,1),(190,1),(191,1),(208,1),(332,1),(333,1)}
+Murders     = {1146174358}
+
+Inventory   = {1 Content={3384},
+               2 Content={3054 RemainingUses=39},
+               3 Content={2865 Content={3031 Amount=60, 3446 Amount=5, 3003}},
+               4 Content={3357},
+               5 Content={3069},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3065}}
+
+Depots      = {0 Content={3504 Content={3457, 3446 Amount=1, 3507 String="dhaddy trol\nthais\n" Editor="Dhaddy Trol"}, 3301, 3502}, 
+               1 Content={3502 Content={3504 Content={3507 String="Dhaddy Trol\nCarlin\n"}, 3504 Content={3507 String="Dhaddy Trol \nCarlin\n"}, 3504 Content={3507 String="Dhaddy Trol \nCarlin"}}}, 
+               2 Content={3425, 3504 Content={3035 Amount=20, 3507 String="dhaddy trol\nkazordoon" Editor="Golpazo"}, 3412, 3505 String="weiies tome el PLate set pal iki pa entrenar xD!\n\n\n\nDhaddy Trol here\n\nplz dont down\n\n-----------------------------Dhaddy Trol aki\n\nno bajes porfavor" Editor="Dhaddy Trol", 2968 KeyNumber=3940, 3483, 3279, 3504 Content={3507 String="Dhaddy trol\nkazordoon" Editor="Troliano Carranza"}, 3377, 3446 Amount=4, 3457, 2854 Content={3413, 3305, 3413, 3266, 3275}, 3492 Amount=97, 2853 Content={2970 KeyNumber=3802, 2970 KeyNumber=3301, 2969 KeyNumber=3302, 2969 KeyNumber=5010, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 3003, 3003, 3003, 3097, 3505 Editor="Bellfast", 4871, 3502 Content={2853 Content={2853 Content={2853}}, 2857 Content={3098 SavedExpireTime=418, 3046, 3077, 3084 RemainingUses=250}, 2865 Content={3457, 2857 Content={3413, 3305, 3305, 3413, 3305}, 3446 Amount=4, 3070}, 2854 Content={2854}, 3008, 3092}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={}}}

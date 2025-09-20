@@ -1,0 +1,52 @@
+ID              = 11227898
+Name            = "Telix Grob"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-79-117-76)
+CurrentOutfit   = (128,116-79-117-76)
+LastLogin       = 1148125433
+LastLogout      = 1148125639
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,6,0,1,0,0,0,0,0,0,1,1517,0,2600,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,1400,1600,1600)
+Skill = (2,100,165,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,75,75,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,430,430,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,13,0,10,0,0,0,0,0,0,0,381,1100,464,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1100,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,90,1200,109,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,170,1200,181,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,103,1200,109,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,19,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,82,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(35,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={3110, 3451, 3507 String="kenrox\nthais" Editor="Kenrox", 3507 String="BOE\nCaptain Scroty HES MACRO CHEATER" Editor="Fellowship spear", 3507 String="Sir Oberyn\nThais" Editor="Koko the Dark", 3507 String="Kadin Elan \nThais" Editor="Kadin norek", 3507 String="tyrion ascason\ncarlin" Editor="Tyrion Ascason", 3507 String="jesia xenalawa\nthais\n" Editor="Crasherman", 3507 String="plac-plac\nThais" Editor="Ploc-Ploc"}},
+               4 Content={3379},
+               5 Content={3425},
+               6 Content={3077},
+               9 Content={3007}}
+
+Depots      = {0 Content={3003, 3300, 2854, 3276, 3276, 2473, 2469, 2469, 3114 Amount=1, 3285, 2480, 3362, 2473 Content={3507 String="adus leon\nthais", 3507 String="hola soy angel toy vien bonito\n" Editor="Rith Shan", 3507 String="enriquelt\nthais" Editor="Momotachna"}, 2473, 2473, 2854, 3502 Content={3362, 3077, 3074, 3277 Amount=62, 2854 Content={3367, 2871 Content={3066, 2854 Content={3307, 3285, 3299, 3338, 3448 Amount=1, 2991, 3059, 3056 RemainingUses=197}}, 3582 Amount=1, 3054 RemainingUses=200, 3483, 3017, 3483, 2853 Content={3449 Amount=1, 3056 RemainingUses=195}}, 2854 Content={2853, 2854 Content={2854 Content={2854}}}}}, 
+               6 Content={3502 Content={3362}}}

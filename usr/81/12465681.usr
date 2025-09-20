@@ -1,0 +1,55 @@
+ID              = 12465681
+Name            = "Necrogrinder"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,113-12-114-58)
+CurrentOutfit   = (128,113-12-114-58)
+LastLogin       = 1147577556
+LastLogout      = 1147577650
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32647,31919,8]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,103098,0,116000,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,72767,1100,72958,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,395,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12902,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,253,2000,350,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,273,2000,350,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,54,2000,150,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,256,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,3,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,15,16,19,20,22,25,44}
+QuestValues = {(18,1),(59,1),(60,1),(96,1),(97,1),(98,1),(125,1),(126,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2867 Content={3003, 3266, 2874 ContainerLiquidType=10, 3031 Amount=1, 3031 Amount=100, 2874 ContainerLiquidType=10, 3031 Amount=100, 3582 Amount=6, 3031 Amount=50, 3031 Amount=100, 3084 RemainingUses=174, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3457, 3003}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3558},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="necrogrinder\nthais" Editor="Naruto Saint"}, 3074, 3074, 3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="Necrogrinder\nkazordoon\n" Editor="Dragon Aniquilador"}, 3502}, 
+               3 Content={3072, 3050 SavedExpireTime=1798, 2390, 3504 Content={3507 String="Necrogrinder\nvenore\n" Editor="Dragon Aniquilador"}, 2865 Content={2970 KeyNumber=3800, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=74, 3071, 2854 Content={2969 KeyNumber=3033, 3050, 3039, 3039, 3077, 3050 SavedExpireTime=1799, 3056 RemainingUses=200, 3026 Amount=1, 3097, 3027 Amount=2, 3097 SavedExpireTime=3328, 3054 RemainingUses=200, 3056 RemainingUses=200}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3658, 3659, 3271, 3297}, 2857, 3504 Content={3483, 3492 Amount=26, 3483, 3483, 3507 String="Necrogrinder\nab'dendriel" Editor="So una delisia"}, 3059, 3577 Amount=15, 3502}, 
+               6 Content={3504 Content={3507 String="Necrogrinder\nVenore" Editor="Dragoon Wake"}, 3502}}

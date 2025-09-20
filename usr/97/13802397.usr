@@ -1,0 +1,59 @@
+ID              = 13802397
+Name            = "Tony Dizze"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (128,114-88-125-0)
+CurrentOutfit   = (128,114-88-125-0)
+LastLogin       = 1148252949
+LastLogout      = 1148261387
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32336,32210,7]
+PlayerkillerEnd = 0
+
+Skill = (0,47,0,1,0,0,0,0,0,0,1,1549492,0,1626200,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1350417,1100,1395159,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,175,1205,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,116,116,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,860,860,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,95188,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,343,1800,593,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2459,1800,3763,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,57,1800,140,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,493,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3950,1100,4022,20)
+Skill = (14,0,1200,0,0,0,1047,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,19,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,18,20,29,39,44,45,81,84,87,88}
+QuestValues = {(96,1),(97,1),(106,1),(107,1),(121,1),(133,1),(137,1),(148,1),(149,1),(150,1),(151,1),(152,1),(179,1),(180,1),(190,1),(191,1),(211,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2866 Content={3483, 3067, 3578 Amount=14, 3031 Amount=10, 2854 Content={3160 Charges=1, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=100, 3504 Content={3492 Amount=25, 3492 Amount=73, 3507 String="tony dizze\ndarashia" Editor="Rko-Master"}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457}},
+               4 Content={3567},
+               5 Content={3434},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="tony dizze\nthais" Editor="Rko-Master"}, 3504 Content={3507 String="Tony Dizze\nThais" Editor="Boricua-Ale"}, 3504 Content={3507 String="tony dizze\nthais" Editor="Brodi Saint"}, 3504 Content={3504 Content={3430, 3507 String="Tony Dizze\nThais" Editor="Boricua-Soldier"}, 3507 String="tony dizze\nthais" Editor="Tony Dizze"}, 3504 Content={3507 String="Tony Dizze\nThais" Editor="Taudria Elzexera"}, 3502 Content={3413, 3305, 3421, 3429, 3003}}, 
+               1 Content={3504, 3504 Content={3507 String="Tony Dizze\ncarlin\n\n" Editor="Doucette", 3285, 3504, 3504, 3504}, 3504 Content={3507 String="tony dizze\ncarlin" Editor="Rko-Master"}, 3502}, 
+               3 Content={3504 Content={3353, 3559, 3056 RemainingUses=200, 3378, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="tony dizze\nab'dendriel" Editor="Halo-Saint", 3425}, 3504, 3504 Content={3353, 3377}, 3502 Content={3577 Amount=11}}, 
+               4 Content={3504 Content={3507 String="knight of da sword\nedron" Editor="Tony Dizze", 2872 Content={2872, 2872 Content={2872, 2872 Content={2872 Content={2872 Content={2872}}}}, 2872 Content={2872, 2872, 2872}}}, 3504 Content={3198 Charges=5, 3507 String="tony dizze\nedron" Editor="Rko-Master"}, 3446 Amount=4, 3502 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2853 Content={2853}, 2853 Content={2853}}}, 
+               5 Content={3504 Content={3507 String="Tony Dizze\nDarashia" Editor="Xaen Di'luv", 3035 Amount=50, 3043 Amount=1}, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2866 Content={2866}}}}}}, 2867 Content={2867 Content={2854 Content={2866 Content={2854 Content={2868 Content={2872 Content={3198 Charges=1, 3198 Charges=4, 3200 Charges=1, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=1}}, 3504 Content={3507 String="Tony Dizze\nDarashia" Editor="Gab-Doom"}, 3504 Content={3507 String="Tony Dizze\ndarashia\n" Editor="Sahory'Montecristo"}, 3504 Content={3042 Amount=6, 3507 String="tony dizze\ndarashia\n\nlos 9k, de las uhs :)" Editor="Xakese"}, 3504 Content={3507 String="tony dizze\ndarashia" Editor="Rko-Master"}, 2874 ContainerLiquidType=6, 3502 Content={3483, 3483, 3457, 3012}}, 
+               6 Content={3504 Content={2853 Content={3026 Amount=1}, 2853 Content={3097}, 3375, 2859 Content={2853}, 3507 String="tony dizze\nvenore" Editor="Zolrac"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="tony dizze\nport hope" Editor="Rko-Master"}, 3504 Content={3507 String="tony dizze \nport hope" Editor="Rko-Master"}, 3502 Content={2857 Content={3098, 2853 Content={3483, 3483, 3483}, 3077}, 2866 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Bamboo Garden 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}}}

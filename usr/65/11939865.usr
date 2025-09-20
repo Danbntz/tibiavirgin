@@ -1,0 +1,52 @@
+ID              = 11939865
+Name            = "Anwar"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (132,79-81-79-81)
+CurrentOutfit   = (132,79-81-79-81)
+LastLogin       = 1148101056
+LastLogout      = 1148101094
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32220,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,165790,0,179400,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,86580,1400,111701,1600)
+Skill = (2,308,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,1395,1100,1593,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,34522,1100,34917,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,322,1200,372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1464,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,30,42,51,76,79,81}
+QuestValues = {(27,1),(40,1),(59,1),(84,1),(85,1),(121,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3507}},
+               6 Content={3349},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="Anwar\nthais" Editor="Anwar"}, 3504 Content={2869 Content={2867, 2857}, 3377}, 3502}, 
+               1 Content={3504 Content={3507 String="anwar\ncarlin"}, 3502}, 
+               4 Content={3504 Content={2853 Content={2853 Content={3410}, 2853 Content={2853 Content={3354, 3354}, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 2853 Content={3264}}, 2866 Content={3271, 3285, 3294, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3267, 3559, 3412, 3355, 3563, 3003}, 3031 Amount=17, 3507 String="anwar\nedron" Editor="Rydan"}, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3502}, 
+               5 Content={2853 Content={2853}, 3140, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 3, Flat 05\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3277 Amount=8, 3502}, 
+               6 Content={3502}, 
+               7 Content={3505, 3502}}

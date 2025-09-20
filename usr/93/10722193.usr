@@ -1,0 +1,59 @@
+ID              = 10722193
+Name            = "Sir doh'ko"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,59-0-0-0)
+CurrentOutfit   = (134,59-0-0-0)
+LastLogin       = 1148251322
+LastLogout      = 1148253873
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33244,32443,7]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1120306,0,1152200,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1355331,1100,1395159,1600)
+Skill = (2,355,355,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,231,1055,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,111,111,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,810,810,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,128984,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,109546,2000,204750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,55,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,365,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,761,1100,810,20)
+Skill = (14,0,1200,0,0,0,1086,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,170,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,13,16,17,18,20,21,29,39,44,45,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(40,1),(59,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(137,1),(145,1),(146,1),(147,1),(151,1),(152,1),(190,1),(191,1),(217,3),(223,1),(257,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3210},
+               2 Content={3008},
+               3 Content={2867 Content={3577 Amount=19, 2866 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147}, 3031 Amount=5, 2856 Content={3198 Charges=5}}},
+               4 Content={3383},
+               5 Content={3147},
+               6 Content={3147},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={2871 Content={2868, 2869 Content={2868}}, 3349, 3507 String="Sir doh'ko\nThais" Editor="Sir doh'ko"}, 3504 Content={3507 String="sir doh'ko\nthais\n" Editor="Tiimmy Torner"}, 3504 Content={3507 String="Kanon Explosion\nThais"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2854 Content={3004, 3008, 3384, 3557, 3357, 3031 Amount=70}, 3294, 3327, 3502 Content={2393, 3457, 2969 KeyNumber=3033, 2815, 3492 Amount=77}}, 
+               4 Content={3583 Amount=1, 3046, 3505 String="hola niño :\n\nestos son mis telefonos para cuando me kieras hablar ok\n\ncel : 833152-76-11\n\nmi casa  833217-02-00 y 8332175188\n\nok \n\nari =***", 3551, 3448 Amount=4, 3307, 3502}, 
+               5 Content={2857 Content={2864 Content={2853 Content={3505 String="Gemininosaga hunting here...!!!\n\nMsg me or exiva..\n\nRespet. xD", 2853 Content={3409, 3313}}, 2853 Content={3446 Amount=45, 3083 RemainingUses=150, 3358, 3413}, 3588 Amount=11, 3298 Amount=1, 3060, 2472 Content={2869 Content={3294, 3551, 3409, 3085 RemainingUses=151, 3017, 2819 String="Mighty Zhandramon\n\nOur progress is very good! If we continue like that and without any problems then we will be able to close the investigations on the wand of might within 1 year!\n\nIm sure we will succeed!\n\nYours,\nAuterius\n", 3290, 3017, 3492 Amount=4, 3584 Amount=3}}}, 2864 Content={3349, 3289, 3377}}, 2853 Content={2856 Content={2906, 3058}, 3481, 2969 KeyNumber=3701, 3290, 3076}, 2853 Content={3082 RemainingUses=50, 2991, 2853 Content={3568, 3207 Amount=1}, 3273, 3008, 3012}, 3502 Content={2854 Content={2871 Content={2635}, 3313, 3054 RemainingUses=200, 2866 Content={2869 Content={2869 Content={3599 Amount=8, 3313, 3338}, 2853 Content={3285, 3283, 3358, 2853}, 2842 String="Spells for Level 8\n  utevo lux - Light : 20\n  exiva para - Find Person : 20\n\nSpells for Level 10\n  exana pox - Antidote : 30\n\nSpells for Level 11\n  exura gran - Intense Healing : 40\n\nSpells for Level 12\n  exori vis - Energy Strike : 20\n\nSpells for Level 14\n  utamo vita - Magic Shield : 50\n\nSpells for Level 20\n  exura vita - Ultimate Healing : 160\n  utani gran hur - Strong Haste : 100\n\nSpells for Level 23\n  adori gran flam - Great Fireball : 480\n\nSpells for Level 25\n  adori gran - Heavy Magic Missile : 280\n  utevo res para - Summon Creature : 0\n\nSpells for Level 27\n  adevo mas flam - Firebomb : 600\n\nSpells for Level 31\n  adevo mas hur - Explosion : 720\n\nSpells for Level 35\n  utana vid - Invisible : 440\n\nSpells for Level 38\n  exevo mort hur - Energy Wave : 250\n\nSpells for Level 45\n  adori vita vis - Sudden Death : 880\n\n" Editor="Sir doh'ko"}, 2866 Content={2866 Content={2826 String="*This book is made out of an odd leather and it's covered with strange symbols. You are not able to decipher the title but according to the pictures you guess it is about summoning creatures.*", 3046 SavedExpireTime=2998, 3045 RemainingUses=200, 3017, 2393, 3164 Charges=3, 3077, 2933, 3298 Amount=5, 3077, 2393}}}, 2857 Content={2864}}, 3504 Content={2864, 3507 String="Sir doh'ko\nDarashia" Editor="Sir doh'ko", 2853 Content={3505 String="                     (¨`·.·´¨)* I.....           \n                     `·.(¨`·.·´¨)*Love.....         \n                          `·.¸.·´*You.....        \n                    (¨`·.·´¨)*With all     \n                     `·.(¨`·.·´¨)* My.....     \n                          `·.¸.·´*Heart..\n\nte kiero chichiiiiiiiiiiiiiiiiiiiiiii" Editor="Sir doh'ko", 3505 String="chichi entre a hacer runas\nal rato te digo ke onda ya eres magic  40\njeje gratz. te tome 10k presstados al rato ke entre te los doy ok.. tube una emergencia ty  =**\n\nArianza" Editor="Sir doh'ko"}}}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="Sir doh'ko\nPort hope"}, 3502 Content={3457, 3449 Amount=47}}}

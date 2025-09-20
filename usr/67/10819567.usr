@@ -1,0 +1,59 @@
+ID              = 10819567
+Name            = "Son of Danilo"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,3-79-114-114)
+CurrentOutfit   = (134,3-79-114-114)
+LastLogin       = 1148190143
+LastLogout      = 1148190156
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33209,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,253113,0,262600,100)
+Skill = (1,42,0,0,0,0,0,0,0,0,0,896702,1100,947841,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,416,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,20117,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,79,1800,84,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,656,1800,1118,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,4653,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,38,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,54,0,10,0,0,0,0,0,0,0,14022,1100,14378,20)
+Skill = (14,0,1200,0,0,0,734,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,10,20,29,39,42,44,76,81,84,88}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(24,1),(27,1),(32,1),(33,1),(34,1),(59,1),(84,1),(85,1),(86,1),(87,1),(190,1),(191,1),(192,1),(206,1),(217,3),(224,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2872 Content={3492 Amount=56, 3031 Amount=100, 3031 Amount=29, 3031 Amount=100, 3031 Amount=100, 3492 Amount=100, 3031 Amount=100, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3457, 3003, 3503 Content={3507 Editor="Son of Danilo"}, 3188 Charges=3, 3188 Charges=3}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {3 Content={3502 Content={}}, 
+               4 Content={3502}, 
+               5 Content={2865 Content={3492 Amount=37, 3492 Amount=100, 3578 Amount=72, 3031 Amount=36, 3031 Amount=100, 3031 Amount=100, 3035 Amount=4, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3066, 2865 Content={3578 Amount=64, 3578 Amount=100, 3582 Amount=82, 3577 Amount=15, 3577 Amount=100}, 2871 Content={2872 Content={2863 Content={2861}, 2871 Content={2871}, 2869 Content={2869}, 2868 Content={2868, 2868, 2868}, 2867 Content={2867, 2867, 2867}, 2865 Content={2865, 2865, 2865}, 2866 Content={2866, 2866}, 2870 Content={2870, 2870}}, 2868 Content={3039, 3576, 3046}, 2867 Content={2859 Content={2853 Content={2393, 2393, 2393, 2393, 2393}, 3586 Amount=11, 3584 Amount=10, 3448 Amount=15}, 3311}, 2865 Content={2865 Content={2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647}, 2647, 2647, 2647, 2647, 2647}, 2854 Content={3425, 3384, 3147, 4871, 3074, 3314, 3010, 4871, 4871}, 2868 Content={3271, 3059, 2868 Content={3017, 3017, 3017, 2957, 2953, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=2995, 3046 SavedExpireTime=2994, 3046, 3046 SavedExpireTime=2999}, 2867 Content={3298 Amount=4, 2867 Content={2970 KeyNumber=3802, 2969 KeyNumber=3650, 2970 KeyNumber=3800, 2969 KeyNumber=5010, 2969 KeyNumber=3302, 2969 KeyNumber=3666, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2972 KeyNumber=3304}, 2869 Content={3098, 3098, 3098, 3049, 3004, 3050, 3051, 3097, 3097, 3093, 3092, 3093, 3050, 3051 SavedExpireTime=513, 3049 SavedExpireTime=332, 3051}, 2866 Content={3081 RemainingUses=5, 3085 RemainingUses=200, 3084 RemainingUses=250, 3014, 3084 RemainingUses=250, 3085 RemainingUses=177, 3054 RemainingUses=200, 3084 RemainingUses=250, 3085 RemainingUses=200, 3084 RemainingUses=250, 3045 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150, 3045 RemainingUses=200}, 3304, 2914 SavedExpireTime=1998, 3059, 3330, 3551, 3330, 3483}}, 2866 Content={3584 Amount=100, 3584 Amount=100, 3584 Amount=10, 3448 Amount=63, 2396, 2396, 2396, 2387, 2387, 2396}}, 3502 Content={2872}}, 
+               6 Content={3502}, 
+               7 Content={2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853}, 3031 Amount=100, 3031 Amount=100, 3502}, 
+               8 Content={3502}}

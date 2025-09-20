@@ -1,0 +1,59 @@
+ID              = 13097948
+Name            = "Taly the sky preinces"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (140,79-85-0-114)
+CurrentOutfit   = (140,79-85-0-114)
+LastLogin       = 1148258395
+LastLogout      = 1148260334
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32624,32747,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,330678,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,79873,3000,193600,1600)
+Skill = (2,500,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,0,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,30305,1100,33003,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,28264,1100,29620,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,882,1100,911,20)
+Skill = (14,0,1200,0,0,0,353,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(21,1),(22,1),(23,1),(32,1),(33,1),(35,1),(60,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(96,1),(97,1),(98,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3016},
+               3 Content={2868},
+               4 Content={3381},
+               6 Content={3281},
+               7 Content={3372},
+               8 Content={3556},
+               10 Content={3674}}
+
+Depots      = {0 Content={3447 Amount=100, 3425, 3448 Amount=100, 3447 Amount=100, 3447 Amount=100, 3287 Amount=2, 3447 Amount=100, 3447 Amount=66, 3448 Amount=70, 3483, 3447 Amount=100, 3447 Amount=100, 3483, 3502 Content={3577 Amount=7, 3582 Amount=2, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 
+               1 Content={3056 RemainingUses=200, 3446 Amount=20, 3447 Amount=12, 3504 Content={3507 String="Taly the sky preinces\nCarlin\n" Editor="Fenarax"}, 2981, 3502}, 
+               3 Content={3568, 3289, 3447 Amount=6, 3207 Amount=2, 3674, 3661, 3563, 2968 KeyNumber=3940, 3446 Amount=1, 3552, 3299, 3059, 3673, 3449 Amount=3, 3446 Amount=60, 2865, 2869, 2871 Content={2857}, 2872, 2868, 3502 Content={2854, 2969 KeyNumber=3033, 3077, 3046 SavedExpireTime=2343, 2969 KeyNumber=3033, 2865, 2871 Content={3078, 3083 RemainingUses=150, 3507 String="Ruxo\nankrahmun" Editor="Ruxo", 2853 Content={2853}, 2880, 2880, 2880, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880, 2880, 2880 ContainerLiquidType=3, 2880, 2880, 2880, 2880, 2866 Content={2880, 2880 ContainerLiquidType=3, 2880, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880, 2880 ContainerLiquidType=3, 2880, 2880, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880, 2880 ContainerLiquidType=3}}, 2854 Content={2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 2880, 2880 ContainerLiquidType=3, 2880, 2880, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3}, 2854 Content={3738 Amount=40, 3674, 3740 Amount=2, 3739 Amount=1, 3674, 2867 Content={3425, 3147}, 3059, 3147, 3425, 3299, 3266, 2853 Content={3059}, 2901, 2869 Content={3078}, 3425}}}, 
+               4 Content={3275, 3502}, 
+               5 Content={3447 Amount=9, 2854, 3447 Amount=83, 2866, 3504 Content={2469 Content={3503 Content={3056 RemainingUses=200, 2647, 2659, 2469 Content={2656, 2647, 2647, 2854 Content={2857, 3558, 3350, 3377, 3377, 3377}, 3114 Amount=4, 2854 Content={3465, 3582 Amount=45, 3457, 3003}}, 2482 Content={2647, 2656, 2656, 2656, 2656, 2656, 2867 Content={3447 Amount=100, 3446 Amount=5, 3353, 3447 Amount=4, 3447 Amount=100, 3572, 3350, 3330, 3330, 3330, 3330, 3330, 3330}}, 2469 Content={2659, 2469 Content={3503 Content={2659, 2659, 2659}}}, 2469 Content={2647, 2469 Content={2469}}, 2667, 2667, 2667}, 2667, 2667, 2667, 2647, 2667, 2667}, 3507 String="meminox\ndarashia" Editor="Taly the sky preinces"}, 2853 Content={3327, 3350, 2393, 2991}, 3457, 3502 Content={3008, 3446 Amount=4, 2469 Content={2469}, 3054 RemainingUses=68, 3291, 2949, 2981, 2983, 2983, 2983, 2906}}, 
+               6 Content={3504 Content={3507 String="taly the sky preinces\nvenore" Editor="Griel Crot gollo"}, 2473, 2857, 3003, 3457, 2393, 2399, 3447 Amount=8, 2396, 2386, 3502 Content={3012}}, 
+               7 Content={3502 Content={3577 Amount=7}}, 
+               8 Content={3046, 3384, 3419, 3042 Amount=10, 3032 Amount=2, 3033 Amount=2, 3287 Amount=10, 3287 Amount=100, 3050, 3050, 3097, 3050, 3050, 3097 SavedExpireTime=3595, 3736 Amount=3, 2991, 3035 Amount=43, 2854, 3008, 3083 RemainingUses=150, 3008, 2874 ContainerLiquidType=5, 3085 RemainingUses=200, 3056 RemainingUses=200, 3572, 3008, 3740 Amount=2, 3350, 3738 Amount=1, 3502 Content={2868 Content={3017, 3012, 3031 Amount=40, 2869 Content={3560, 3017, 3046, 3046 SavedExpireTime=1635, 3046, 3298 Amount=11, 3046 SavedExpireTime=604, 3046, 3046, 3046 SavedExpireTime=676, 3046 SavedExpireTime=2957, 3046, 3056 RemainingUses=200, 3008, 2969 KeyNumber=4600, 3012, 3012, 3012, 3046 SavedExpireTime=596, 3046}, 3017, 3031 Amount=100, 3031 Amount=100}, 3077, 3659, 2991, 3085 RemainingUses=198, 3659, 3659, 3061, 3271, 3093 SavedExpireTime=1647, 3050, 3050 SavedExpireTime=1779, 3050 SavedExpireTime=1773, 3012, 3026 Amount=2, 2991, 2991, 2991, 3207 Amount=21, 3736 Amount=4, 3735 Amount=1, 3083 RemainingUses=150, 3556, 3585 Amount=2, 3598 Amount=64, 3577 Amount=68, 3582 Amount=44, 2393, 3017, 3577 Amount=100}}}

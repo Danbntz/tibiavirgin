@@ -1,0 +1,55 @@
+ID              = 10151752
+Name            = "Rakeh"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (137,114-79-94-119)
+CurrentOutfit   = (137,114-79-94-119)
+LastLogin       = 1145428382
+LastLogout      = 1145429474
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32917,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,89595,0,98800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,94709,1400,111701,1600)
+Skill = (2,248,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,28,0,10,0,0,0,0,0,0,0,4766,1100,5115,100)
+Skill = (7,51,0,10,0,0,0,0,0,0,0,15254,1100,16129,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,173,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,228,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,12,1100,20,20)
+Skill = (14,0,1200,0,0,0,143,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,20,42,49,51}
+QuestValues = {(111,1),(112,1),(190,1),(191,1),(217,3),(292,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3377},
+               6 Content={3583 Amount=2},
+               7 Content={3557},
+               10 Content={3350}}
+
+Depots      = {0 Content={3504 Content={3507 String="rakeh\nthais\n"}, 3502 Content={}}, 
+               1 Content={3502}, 
+               3 Content={2949, 2471, 3504, 3083 RemainingUses=147, 2869 Content={2656, 2656, 2667, 2667, 2667, 2833 String="Report 78ACFF04\nThe usual turmoil when the QUEEN GENOVEVA is in town - the sailors, drunk as always, stood out with their usual misbehaviour with the result that one of them spilled the beer of a local dwarf. In the following fight a lot of property was destroyed and even lives were endangered. I sent word to Thais that such events destroy the peace of our colony and that we would probably do better to rely on the more disciplined seamen of Venore who are more accustomed to the hardships of long journeys than the men of the Thaian marine. A letter written by the local traders strongly supporting my point has been enclosed. ", 2650, 2659}, 2871 Content={2667, 2659, 2659}, 2854 Content={2865 Content={2392, 2857 Content={2656, 2656}, 2388, 2389, 2400, 2388}}, 3551, 2469 Content={3658, 3659, 2469}, 3658, 3738 Amount=2, 2667, 2667, 2667, 3506 String="Warning!\n\nThe monthly rent of 800 gold\nfor your house \"Treetop 8\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 800 gold\nfor your house \"Treetop 8\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 800 gold\nfor your house \"Treetop 8\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Rakeh\nAb'Dendriel"}, 3502}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Rakeh\ndarashia\n\nnaka plx"}, 3502 Content={}}, 
+               6 Content={3502}, 
+               7 Content={3003, 3457, 3502 Content={}}, 
+               8 Content={3502 Content={}}}

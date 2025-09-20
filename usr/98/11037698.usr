@@ -1,0 +1,58 @@
+ID              = 11037698
+Name            = "Edera Kayn"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (140,114-71-0-71)
+CurrentOutfit   = (140,114-71-0-71)
+LastLogin       = 1148248606
+LastLogout      = 1148248618
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32330,31824,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,295390,0,330400,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,234595,1100,237809,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,502,610,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,31508,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5457,1800,6824,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,17,1800,50,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1302,1800,2063,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,53,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1577,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,7,8,9,10,20,29,38,39,42,44,75,76,81,84,87,88}
+QuestValues = {(18,1),(35,1),(59,1),(61,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3003, 3457, 3069, 3191 Charges=2, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3198 Charges=2}},
+               4 Content={3357},
+               5 Content={3065},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3556}}
+
+Depots      = {0 Content={3502 Content={3410, 2901}}, 
+               1 Content={3583 Amount=2, 2989, 3084 RemainingUses=250, 2854 Content={3457, 3457, 3031 Amount=1}, 2867 Content={3188 Charges=3, 3188 Charges=2, 3188 Charges=1, 3425, 3415, 3418, 3357, 2955, 3377, 3425}, 2871 Content={3483, 2873, 3285, 3198 Charges=4, 3277 Amount=4, 1781 Amount=1, 3661}, 2866, 2868 Content={3592, 3577 Amount=31, 3602 Amount=38, 3600 Amount=3, 3602 Amount=100, 3582 Amount=20, 3585 Amount=42, 3583 Amount=9, 3602 Amount=100, 3595 Amount=12, 3590 Amount=54, 3588 Amount=58, 3598 Amount=29, 3606 Amount=10, 3588 Amount=100, 3578 Amount=51, 3578 Amount=100, 3599 Amount=14, 3723 Amount=21, 3578 Amount=100}, 2872 Content={3070, 3658, 3658, 3084 RemainingUses=250, 3084 RemainingUses=250, 3077, 3483, 3483, 3003, 2911 SavedExpireTime=1452, 3505 Editor="Edera Kayn", 2906, 3008, 3492 Amount=100, 2873, 2873 ContainerLiquidType=3}, 2866 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=2, 3287 Amount=3, 3492 Amount=24, 3471, 3464, 3658, 3492 Amount=100, 3658, 3066}, 2868 Content={2857 Content={2857}, 3552, 3188 Charges=2, 3506 String="edera kayn\ncarlin\n\nmami :( querenos mas a luli y ami ya que somos las mas grandes :( plz bueno bye tqm tc \natte: mariana :(" Editor="Eterr Mariana", 3003, 3505 String="hola yax!! oie te mando esto pero no lo tires ni t lo comas ehh!! por ke es un regalo d parte mia!! jijiji byee!! disfruta tus regalos!!\n" Editor="Edera Kayn", 3505 Editor="Edera Kayn", 2911 SavedExpireTime=318, 2873}, 2865 Content={3084 RemainingUses=250, 3097 SavedExpireTime=3554, 3050 SavedExpireTime=1774, 3012, 3012, 3012, 3008, 3008, 3008, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 3084 RemainingUses=250, 3658, 2955, 3056 RemainingUses=200}, 2854 Content={3209, 3375, 3375, 3375}, 2868 Content={3189 Charges=1, 3189 Charges=2}, 2870 Content={3425, 3603 Amount=10, 3409, 3425, 3291, 2815 Editor="Edera Kayn", 3454, 3003, 2860 Content={2393, 2393, 3505 String="para yax.!!! :P\n\nEsPeRo Ke tE La PaSeS sUpEr BiEn N eStE dIa Tn EsPeCiAl EhHhH fELiZ dIa DL aMoOr I lA aMiStAd..!\n\naTTe- **^^lula^^**" Editor="Shika Rebelde"}, 2856 Content={3446 Amount=1, 2873}, 3505 Editor="Edera Kayn", 3505 Editor="Edera Kayn", 3505, 3505 Editor="Edera Kayn", 3468}, 2863 Content={3003, 3673, 3466, 2873, 3188 Charges=3, 3188 Charges=3, 2815 Editor="Edera Kayn", 2815 String="\n" Editor="Edera Kayn"}, 3502 Content={2398, 2398, 3504 Content={3736 Amount=1, 3673, 3565, 2920 SavedExpireTime=597, 3563}, 3504 Content={3551, 3003, 2911 SavedExpireTime=2284, 3507 Editor="Edera Kayn"}, 3504 Content={3658, 3658, 3465, 3465, 2856 Content={3507 String="EDERA KAYN\nCARLIN" Editor="Tibi Aby", 3066, 3505 Editor="Edera Kayn"}}, 3504 Content={2647, 2659, 2644, 2647, 2667, 3507 Editor="Edera Kayn"}, 2880, 2893, 2882, 2472 Content={2875, 2875, 2875, 2882, 3504 Content={2880, 2873, 2873, 2873, 2873, 2880 ContainerLiquidType=2, 2873}}}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="edera kayn\nedron" Editor="Sir Betokas"}, 3504 Content={3507 String="edera kayn\nedron" Editor="Talegas de Perro Flam"}, 3502}, 
+               5 Content={3577 Amount=10, 3502 Content={3483, 3492 Amount=86, 3147}}, 
+               7 Content={2922 SavedExpireTime=255, 3502}, 
+               8 Content={2952, 3492 Amount=10, 3578 Amount=23, 3505 Editor="Edera Kayn", 3503, 3582 Amount=10, 3502 Content={3035 Amount=46}}}

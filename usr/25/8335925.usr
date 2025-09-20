@@ -1,0 +1,53 @@
+ID              = 8335925
+Name            = "Santiagoz"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (128,0-95-95-95)
+CurrentOutfit   = (128,0-95-95-95)
+LastLogin       = 1147914878
+LastLogout      = 1147914885
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,448146,0,452600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,113562,3000,193600,1600)
+Skill = (2,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1045,1045,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,195255,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,27,1400,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,336,1100,385,50)
+Skill = (9,67,0,10,0,0,0,0,0,0,0,123957,1100,125318,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,384,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1698,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(65,1),(69,1),(77,1),(78,1),(93,1),(94,1),(95,1),(106,1),(107,1),(111,1),(112,1),(137,1),(151,1),(152,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={2869 Content={3031 Amount=1, 2970 KeyNumber=3800, 2854 Content={2870 Content={3007}}, 3093, 2854, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3200 Charges=3, 3200 Charges=3}, 3031 Amount=100, 3457, 3003, 3577 Amount=1, 3582 Amount=14}, 3507 String="santiagoz\nthais" Editor="Santiagoz"}, 3504 Content={3507 String="Santiagoz\nThais"}, 3504 Content={3507 String="Santiagoz\nThais"}, 3502 Content={3483, 3350, 2865}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="Santiagoz\nKazordoon\n"}, 3502 Content={}}, 
+               3 Content={3351, 3283, 2864 Content={2864 Content={}}, 3603 Amount=10, 3504 Content={3583 Amount=18}, 2868 Content={3483, 3425, 2872 Content={3447 Amount=30, 3003, 3083 RemainingUses=43}, 3313, 3447 Amount=20}, 3457, 3059 String="", 3305, 3504 Content={3285, 3350, 3504 Content={2866 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3097 SavedExpireTime=2797}, 3446 Amount=4, 3044 Amount=1, 3483, 3453, 2865 Content={3590 Amount=3, 3588 Amount=23, 3600 Amount=100, 3587 Amount=2, 3588 Amount=100, 3595 Amount=14, 3597 Amount=7, 3591 Amount=91, 3598 Amount=2}, 2469 Content={3289, 3421, 3384, 3299, 3307, 3448 Amount=41, 2914 SavedExpireTime=1444}}, 3507 String="Santiagoz\nAb'dendriel"}, 2853 Content={3463, 3004, 2989}, 2857 Content={3046 SavedExpireTime=2999, 3077, 3084 RemainingUses=250, 3098 SavedExpireTime=0}, 2865 Content={2868 Content={}}, 2872 Content={3051 SavedExpireTime=0, 3505 String="Happy Birth Day\n\nTe kelo son feliz cumpleaños :*\n\nke te guste mi regalo :)\n\n\n\nTK1CH :)   TU PAPI XD"}, 2853 Content={3083 RemainingUses=150, 2667, 3310, 2853 Content={3003}, 3336}, 3336, 3483, 2853 Content={3457, 3492 Amount=23}, 3492 Amount=4, 3583 Amount=1, 3504 Content={3483, 3507 String="santiagoz\nab'dendriel", 3447 Amount=100}, 3502 Content={3283, 3050 SavedExpireTime=1780, 2667, 2949, 3308, 3483, 3457, 2853 Content={3492 Amount=56}, 2853 Content={3658, 3598 Amount=8}, 3457, 3093 SavedExpireTime=1626, 3097 SavedExpireTime=3428, 3050 SavedExpireTime=0, 3198 Charges=3, 2857 Content={3003, 2955, 3658, 2656}, 3448 Amount=2, 3287 Amount=8, 3084 RemainingUses=250}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Santiagoz\nVenore"}, 3504 Content={3507 String="Santiagoz\nVenore"}, 3502 Content={}}, 
+               7 Content={3504 Content={3507 String="Santiagoz\nankrahmun" Editor="Ladron on Zanera"}, 3412, 3483, 2970 KeyNumber=3012, 3007, 2853 Content={3367, 3367, 3367, 2853 Content={3367, 3367, 3367, 3367}, 3367}, 3275, 3349, 3084 RemainingUses=250, 3045 RemainingUses=200, 3349, 3349, 3410, 3350, 3304, 3502 Content={3114 Amount=5}}, 
+               8 Content={3502 Content={}}}

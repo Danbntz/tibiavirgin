@@ -1,0 +1,54 @@
+ID              = 13920243
+Name            = "Lady'Loirinhaa"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,79-0-126-0)
+CurrentOutfit   = (142,79-0-126-0)
+LastLogin       = 1148070990
+LastLogout      = 1148072335
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32933,32075,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,402764,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,92508,3000,193600,1600)
+Skill = (2,430,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,20,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,56,0,10,0,0,0,0,0,0,0,83187,1100,87197,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,225,1100,232,50)
+Skill = (10,58,0,10,0,0,0,0,0,0,0,52253,1100,52859,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2619,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               4 Content={3370},
+               5 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=65}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               6 Content={3504 Content={2920 SavedExpireTime=591, 3085 RemainingUses=200, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3350, 3350, 2867 Content={2854 Content={3084 RemainingUses=250}, 2854}, 2871 Content={3147, 2868 Content={3302, 3046 SavedExpireTime=1223, 3349, 3349, 3349, 3286, 3358, 3358, 3425, 3384, 3318, 3723 Amount=29, 3577 Amount=100, 3725 Amount=43}, 2869 Content={3291, 3456, 3316, 3384, 3092, 3092, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={3507 Editor="Lady'Loirinhaa", 3507, 3507 String="dark tenzor\nankrahmun" Editor="Alberto Quintanilla", 3506 String="Warning!\n\nThe monthly rent of 1320 gold\nfor your house \"Arakmehn I\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1320 gold\nfor your house \"Arakmehn I\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1320 gold\nfor your house \"Arakmehn I\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house."}, 2854 Content={3457, 3003}, 2854 Content={2871 Content={2866 Content={2866}}}, 3457, 3003, 3483, 3492 Amount=3, 3457, 3492 Amount=100, 3003, 3483, 3003, 3457}, 3507 String="Lady'Loirinhaa\nvenore\n" Editor="Lady'Loirinhaa"}, 3483, 3492 Amount=35, 3293, 3276, 3590 Amount=3, 3413, 2854 Content={3017, 3017, 3017, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3446 Amount=43, 3279, 3297, 3421, 3305, 3503 Content={3507 String="parcel bom\n" Editor="Lady'Loirinhaa"}, 3008, 3084 RemainingUses=250, 3097, 3092, 3004, 2989, 3276, 3276, 3308, 3504 Content={2867 Content={3279, 3008, 3003, 3003, 3349, 3311, 3270, 3285, 3456, 3004, 3046 SavedExpireTime=2730, 3066, 3307, 3350, 3266, 3483}, 2867 Content={3425, 3425, 3375, 3008, 3552, 3075, 3483, 3074}, 3147, 3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2870 Content={2854}, 3274, 3507 String="Lady'Loirinhaa\nhunting here!\nplz...\n*RESPECT*\n=)" Editor="Lady'Loirinhaa", 3046 SavedExpireTime=2041, 3507 String="dark sindios\nvenore" Editor="Peege'Lagarto", 3502 Content={3031 Amount=34, 3035 Amount=54, 3042 Amount=5}}, 
+               7 Content={3502}}

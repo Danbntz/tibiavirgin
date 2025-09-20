@@ -1,0 +1,60 @@
+ID              = 8980962
+Name            = "Wuamas"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,11-49-68-68)
+CurrentOutfit   = (128,11-49-68-68)
+LastLogin       = 1146447079
+LastLogout      = 1146447407
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32920,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,119325,0,135100,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,99070,1400,111701,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8198,1100,8849,100)
+Skill = (7,55,0,10,0,0,0,0,0,0,0,23124,1100,23753,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,60,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,533,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5812,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,20,29,30,42,44,51,76,79,81}
+QuestValues = {(46,1),(69,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(111,1),(112,1),(190,1),(191,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3083 RemainingUses=144},
+               3 Content={2872 Content={3447 Amount=52, 3354, 3031 Amount=13, 3446 Amount=90, 3349, 3446 Amount=100, 3447 Amount=100, 3147, 3003, 3457, 3191 Charges=2}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3447 Amount=38}}
+
+Depots      = {0 Content={3504 Content={3507 String="wuamas\nthais\n"}, 3504 Content={3507 String="Wuamas\nthais"}, 3605 Amount=28, 3504 Content={2868 Content={3483, 2853 Content={3483, 2853 Content={}}}, 3507 String="wuamas\nthais"}, 3502 Content={}}, 
+               1 Content={2853 Content={3492 Amount=12, 3367, 3354, 3367}, 3031 Amount=93, 3504 Content={2853 Content={2853 Content={3354, 3354}, 3377, 3377}, 3507 String="wuamas\ncarlin"}, 2868, 3287 Amount=1, 3504 Content={3205, 3507 String="Wuamas\ncarlin"}, 2853 Content={3446 Amount=4, 3492 Amount=70, 3492 Amount=100}, 3446 Amount=1, 3502 Content={2853 Content={2868, 2868, 2868}}}, 
+               2 Content={3504 Content={2853 Content={3377, 2853 Content={3349}, 2853 Content={3358, 3358, 3358, 3358}, 2853 Content={3413, 3413}, 2853 Content={}}, 3507 String="Wuamas\nkazordoon"}, 3504 Content={2853 Content={2853 Content={}}, 3507 String="Wuamas\nkazordoon"}, 3504 Content={3276, 2854 Content={3349, 3349, 3349}, 3507 String="wuamas\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3504 Content={3351, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2865 Content={2853 Content={3377}, 1781 Amount=3, 3282, 3308}, 2865 Content={3310, 3310, 3310}, 2865 Content={3349}, 2865 Content={3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3492 Amount=29, 3578 Amount=23}, 3305, 3507 String="Wuamas\nab'dendriel"}, 3504 Content={3421, 3004, 3507 String="wuamas\nab'dendriel"}, 2865 Content={3287 Amount=1, 3147, 3147, 3147, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147}, 2469 Content={2872 Content={3003, 2854, 3457}, 2865 Content={2969 KeyNumber=3033, 3147, 2968 KeyNumber=3940, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2973 KeyNumber=3520}, 2482 Content={2865 Content={3446 Amount=3}, 2867 Content={3447 Amount=100, 3447 Amount=100}}, 2482 Content={3557, 3425, 2969 KeyNumber=5010, 3084 RemainingUses=45, 2969 KeyNumber=5010, 2853 Content={3349, 3349, 3349}}, 2482 Content={2868, 2865 Content={2865, 2865, 2865, 2865}}, 2482 Content={3578 Amount=30, 3601 Amount=2, 3586 Amount=2, 3589 Amount=1, 3723 Amount=38, 2853 Content={3492 Amount=78, 3492 Amount=100}, 3577 Amount=5, 3598 Amount=14, 3602 Amount=6, 3585 Amount=13}}, 3277 Amount=17, 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4a\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Great Willow 4a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2853 Content={3377, 3377, 3276, 3276}, 3502 Content={3012, 3507 String="wuamas\ndarashia", 2857 Content={3098, 3098, 3046, 3077, 3084 RemainingUses=250}, 2869 Content={3031 Amount=57}}}, 
+               4 Content={3502 Content={3578 Amount=1}}, 
+               5 Content={2853 Content={2853 Content={3410, 3286}, 3358, 3354, 3352, 3410}, 2469 Content={3504 Content={3504 Content={3507 String="wuamas\ndarashia"}, 3507 String="Wuamas\nDarashia\n\n;)"}, 2472 Content={}, 2473 Content={3603 Amount=1, 2893 ContainerLiquidType=0, 2473 Content={}}}, 2853 Content={}, 3502 Content={2866 Content={}}}, 
+               6 Content={2872 Content={2872}, 3504 Content={2853 Content={2853 Content={3264, 3264}, 2853 Content={3286, 3286, 3286, 3286, 3286}, 3577 Amount=9, 3582 Amount=18}, 3492 Amount=30, 3492 Amount=100, 3507 String="Wuamas\nvenore"}, 3446 Amount=4, 3552, 3504 Content={2868 Content={2868}, 2868 Content={2868 Content={2853 Content={2853 Content={3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2868 Content={3372, 3359, 3351, 3357}, 3507 String="Wuamas\nVenore"}, 3463, 2989, 3504 Content={2868 Content={2866 Content={2868 Content={2868 Content={3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3507 String="wuamas\nvenore"}, 2853 Content={2853 Content={3352, 3352}}, 3504 Content={2866, 2866, 2866, 2866, 2866, 3507 String="wuamas\nvenore"}, 3504 Content={3425, 3457, 3507 String="wuamas\nvenore\n"}, 2853 Content={3590 Amount=6, 3585 Amount=1}, 2853 Content={3084 RemainingUses=250, 3056 RemainingUses=200, 3008, 3097, 3026 Amount=1, 3027 Amount=2}, 2885, 3504 Content={3353, 3507 String="wuamas\nvenore\n"}, 3502 Content={3449 Amount=90, 3483, 3492 Amount=29, 3353, 3017, 3083 RemainingUses=150, 3083 RemainingUses=150}}, 
+               7 Content={3502 Content={}}}

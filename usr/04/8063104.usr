@@ -1,0 +1,52 @@
+ID              = 8063104
+Name            = "Rask xenze"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,130-91-91-130)
+CurrentOutfit   = (134,130-91-91-130)
+LastLogin       = 1148036153
+LastLogout      = 1148036356
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33216,31841,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,102842,0,116000,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,367945,1100,392762,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,265,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5619,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,8711,1800,12334,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,440,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,59,0,10,0,0,0,0,0,0,0,21413,1100,23278,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,4,5,6,7,8,9,10,12,14,15,16,18,25,28,29,33,42,44,45,76,77,78,82,83,84,85,87,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(32,1),(33,1),(34,1),(46,1),(59,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {5 Content={3271},
+               6 Content={3147}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={2471 Content={}, 2983, 2482 Content={}, 2469 Content={2868 Content={}}, 2472 Content={}, 2667, 3270, 2469 Content={}, 2983, 2983, 3139, 2471 Content={}, 3138, 2471 Content={2866 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}}, 2656, 2656, 3177 Charges=1, 2983, 2472 Content={}, 2656, 3336, 2983, 3277 Amount=1, 3446 Amount=8, 2653, 2653, 3336, 2653, 2984, 2667, 2868 Content={2865 Content={}, 2869 Content={}, 2867 Content={}, 2865 Content={2868 Content={}}}, 2865 Content={3147, 3507 String="t djo el clarical en mi casa, en senja, es la k sta justo encima d dnd t dejo.", 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={}, 2893 ContainerLiquidType=0, 3059 String="", 3674, 2866 Content={}, 2473 Content={}, 3578 Amount=20, 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2620 gold\nfor your house \"Senja Village 11\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3188 Charges=3, 3502 Content={}}, 
+               3 Content={2866 Content={2868, 3147, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003}, 3031 Amount=73, 3035 Amount=20, 3031 Amount=100, 3502}, 
+               4 Content={3504 Content={3507 String="Rask xenze\nedron\n" Editor="Jahez"}, 3502}, 
+               5 Content={3504 Content={3507 String="Rask xenze\ndarashia"}, 2869, 3504 Content={3507 String="rask xenze\ndarashia"}, 3502}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={3286, 3327, 3409, 3409, 3409, 3409}}}

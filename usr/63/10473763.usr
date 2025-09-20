@@ -1,0 +1,58 @@
+ID              = 10473763
+Name            = "Pelozdip"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-121-86-78)
+CurrentOutfit   = (128,114-121-86-78)
+LastLogin       = 1148239896
+LastLogout      = 1148240092
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32651,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,120027,0,135100,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,65940,3000,193600,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,89564,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,58,0,10,0,0,0,0,0,0,0,49405,1100,52859,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,32,0,10,0,0,0,0,0,0,0,3692,1100,3977,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,37,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,112,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(15,1),(35,1),(59,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(125,1),(126,1),(217,3),(332,1)}
+Murders     = {1147285468,1147455744}
+
+Inventory   = {1 Content={3384},
+               2 Content={3085 RemainingUses=182},
+               3 Content={2865 Content={3031 Amount=3, 3412, 3291, 3577 Amount=3, 2865 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3504 Content={4871, 3457, 3031 Amount=27, 3446 Amount=4, 3507 String="Pelozdip\nKazordoon\n" Editor="Pelozdip"}, 3502}, 
+               3 Content={3446 Amount=17, 2868 Content={2868 Content={2854}, 3164 Charges=2}, 3083 RemainingUses=100, 3330, 3045 RemainingUses=187, 3074, 3093 SavedExpireTime=1301, 3504 Content={3056 RemainingUses=200, 3507 String="Pelozdip\nAb'dendriel" Editor="Mecanodip"}, 3502 Content={3097, 3504 Content={2868 Content={3282, 3425, 3425, 3308, 3425, 3282, 3294, 3430, 3267, 3266, 3003, 3282}, 2471 Content={3446 Amount=84, 3448 Amount=1, 1781 Amount=2, 3277 Amount=1, 3447 Amount=14}, 2473 Content={2865 Content={3350}, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3349}, 2473, 2472 Content={2970 KeyNumber=3801, 2970 KeyNumber=3800, 2853 Content={3492 Amount=7}, 2920, 2920 SavedExpireTime=600, 2920, 3097, 2853 Content={3723 Amount=6, 3598 Amount=27, 3583 Amount=2, 3586 Amount=5, 3606 Amount=4, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2393}, 2854 Content={3031 Amount=75, 3004, 3031 Amount=100, 3031 Amount=100, 3557, 3380, 3031 Amount=100, 3031 Amount=100, 2871 Content={2853 Content={2971 KeyNumber=3702, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 3003}, 2854 Content={2868 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3035 Amount=50}, 3017}}}, 3050}}, 
+               6 Content={3504 Content={3507 String="pelozdip\nVenore" Editor="Frozen'Mono-Mani"}, 3502}}

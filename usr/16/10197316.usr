@@ -1,0 +1,61 @@
+ID              = 10197316
+Name            = "Tibi Aby"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (142,94-52-15-52)
+CurrentOutfit   = (142,94-52-15-52)
+LastLogin       = 1148245875
+LastLogout      = 1148248146
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32625,32782,6]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,452989,0,499200,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,340210,1400,440480,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,99,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,950,950,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,50747,1100,53763,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,21534,1100,21567,30)
+Skill = (8,38,0,10,0,0,0,0,0,0,0,41291,1200,49203,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,31,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,42,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,336,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3150,1100,3289,20)
+Skill = (14,0,1200,0,0,0,153,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,184,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,20,29,42,44,51,76,79,81}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(54,1),(59,1),(60,1),(61,1),(67,1),(70,1),(71,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(113,1),(114,1),(190,1),(191,1),(217,3),(223,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(249,2),(250,2),(251,3),(253,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2866 Content={3198 Charges=5, 3052 SavedExpireTime=176, 3447 Amount=42, 3582 Amount=2, 3350, 3046 SavedExpireTime=1755, 3446 Amount=71, 3349, 3054 RemainingUses=62, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3160 Charges=1, 3160 Charges=1, 3003}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147}}}
+
+Depots      = {0 Content={3504 Content={3507 String="tibi aby\nthais" Editor="Shika Rebelde"}, 3504 Content={3507 String="tibi aby\nthais" Editor="Azkan luis"}, 3502 Content={3353, 3504 Content={2985, 3452, 2984, 2983, 2981, 2981, 2981, 2981}, 2473 Content={3504 Content={3470, 2873 ContainerLiquidType=1, 2873, 2873 ContainerLiquidType=1, 3465 ContainerLiquidType=1, 3466}}, 3504 Content={3674, 3741 Amount=8, 3507 String="tibi aby\nthais"}}}, 
+               1 Content={2870, 2872 Content={3449 Amount=50, 3349, 3448 Amount=21, 3349, 3349, 3349}, 2869 Content={3506 String="tibi aby\ncarlin\n\n\nbye,bye! me voi a mii residencia i espero ke vo vallas por ke pareces secuestradora bye" Editor="Shika Rebelde", 3506 String="tibi aby\ncarlin\n\n:D ya no estoy tan triste :p jiji aber si luego platicamos sale? :D lo tomare como un si jiji ~:p bueno chau \nATTE: mariana :D tc" Editor="Eterr Mariana", 3506 String="tibi aby\ncarlin\n\nhola... srry pero vn a venore a ayudarme cn las cosas... me voi d regreso!!!  jojijojijojijoji era juego... " Editor="Shika Rebelde"}, 2869 Content={3503}, 2866, 2871, 2866, 2867, 2868, 2868, 2868, 2865, 2865 Content={3661, 3668, 3012, 2865 Content={3323, 3017, 3172 Charges=3, 3046 SavedExpireTime=2947, 3093 SavedExpireTime=1797, 3172 Charges=3, 3017, 3046 SavedExpireTime=2996}, 2867, 3189 Charges=3, 2854, 3483, 2955, 3551, 3451, 3505 String="Feliz Naviadad\ngracias x el regalo y mana te kiero mucho \nJOJO a portate bien xqe si no santa no te va a traer regalos ok?\nBYE     BEST SISTERS FOREWER \n  JOJO =) " Editor="Tibi Aby", 2860, 3661, 2856 Content={3008, 3017, 2393, 3661}, 2815 String="tibi aby:\nola tibi te amo recuerdalo =* te mando un besote i ojala estemos juntos por muchisimo tiempo te amo.de Sir kiamy" Editor="Tibi Aby"}, 2870, 2471, 3503 Content={3457, 2471 Content={2473 Content={2471 Content={2853 Content={3466, 3466, 3466}, 2853 Content={2911 SavedExpireTime=2996}, 2853, 2469 Content={2917 SavedExpireTime=543, 2917 SavedExpireTime=1241}, 2473 Content={3470, 3470, 3470}}, 3504 Content={2860, 3507 String="Tibi Aby\nCarlin\n\nCuida mucho tus regalos!!!\n", 2917}, 2471 Content={3459, 3655, 2471, 2471, 2853 Content={3454, 3454, 3454, 3454, 3454}, 2472 Content={3507 String="no tomar nada no tengo casi nada \n                plz no tomen nada " Editor="Tibi Aby", 2911 SavedExpireTime=2811, 2911 SavedExpireTime=2747}, 3504 Content={2815 String="este cuerpo es d tibi aby \nk salio d campamento\ny murio tragicamente\ntodo lo k encontraras en esta backpack \nson puras cosas d campamento \njejeje\njiji\n", 2815}, 3504 Content={3505 String="MANa¡¡¡¡¡¡¡¡¡¿\njajajajjajaja manita!" Editor="Tibi Aby", 3505 String="                      quien llegue a agarrar\n                   yalo sabre a qui tengo mi                                   lista de lo q tengo\n                            gusanos 37\n                            caña de pescar 1\n                            belas 2\n                            adori gran 16\n                    atentamente:\n                          Daniel Isaac \n                 Rodriguez   Careaga\n                                tambien\n                            Dan cosmo\n                            Danlink\n                            Danyoda\n                            Danlegolas\n               podria ser tambien\n                            Dan Aragon \n                pero esta  en dolera\n                  " Editor="Tibi Aby", 2815 String="\nolas\nmanita tqm! =\n=P\n=D\n°.°\n=9\n.......... jaja\ntqm... manita !! tc tqm manita tibi aby dice:\noie\nya me tengo k ir.. ma haces un favor??ok\nte paso mi contraseña y me acomodas mi dp\nporfavorsip komo\nsip\nantala\n" Editor="Tibi Aby"}}}}, 3457}, 3502 Content={3266, 2854 Content={3017, 3313, 3734 Amount=1, 2989, 2876, 3008, 2857}, 2854 Content={3598 Amount=1}, 4285 Content={3483, 2834 Editor="Tibi Aby", 2869 Content={3563, 2970 KeyNumber=3800, 2860 Content={3552, 2393, 2400, 3177 Charges=1, 3606 Amount=8}, 3551, 3076, 3659, 3076, 3093 SavedExpireTime=1797, 2955, 2854 Content={3082 RemainingUses=50, 2874 ContainerLiquidType=11, 3046 SavedExpireTime=2992, 2970 KeyNumber=3801, 3209, 2874, 3012, 3008, 3085 RemainingUses=200, 3077, 2970 KeyNumber=4503, 2969 KeyNumber=5010, 3050 SavedExpireTime=1261}, 2854 Content={3082 RemainingUses=50, 3083 RemainingUses=150, 3085 RemainingUses=200, 3029 Amount=4, 3301, 2970 KeyNumber=3801, 3598 Amount=4, 2970 KeyNumber=3800, 3097, 3052, 2874 ContainerLiquidType=11}}, 2853 Content={2854, 3468}, 2854 Content={2991, 2815 Editor="Tibi Aby"}, 2835 String="el gran jugasl de los gartos\n" Editor="Tibi Aby"}, 2857 Content={3059, 2860 Content={3597 Amount=1, 3046 SavedExpireTime=1183, 3049 SavedExpireTime=14, 2390}, 2857 Content={3463, 3077, 3004, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=82, 3083 RemainingUses=150}, 3077, 3046 SavedExpireTime=2999, 3597 Amount=2, 2853 Content={3056 RemainingUses=189, 3059, 3120, 3115, 3097 SavedExpireTime=2650, 3050, 3008}}, 3504 Content={3425, 3317, 2853 Content={2857 Content={3066}, 3289, 3289}}}}, 
+               2 Content={2970 KeyNumber=3802, 3502}, 
+               3 Content={3467, 2911, 3502 Content={3579 Amount=1}}, 
+               4 Content={3504 Content={3507 String="tibi aby\nedron" Editor="Rufix Adrath"}, 2854, 3502 Content={2853}}, 
+               5 Content={3350, 3551, 3084 RemainingUses=250, 2866 Content={3377, 3316, 3045 RemainingUses=200, 3483, 3483}, 2866, 2866 Content={3582 Amount=23}, 2858, 3502 Content={3409, 3411}}, 
+               6 Content={3504 Content={3507 String="tibi aby\nvenore" Editor="Dark ger"}, 3504 Content={3507 String="tibi aby\nvenore" Editor="Andy soto"}, 3375, 3291, 3502}, 
+               7 Content={2853, 3483, 3473, 3502}, 
+               8 Content={2471, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Woodway 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3503 Content={3507 String="dark ger\ncarlin" Editor="Tibi Aby"}, 3285, 3285, 2853 Content={3115, 3115, 3115, 3115, 3115}, 2853 Content={3104}, 3507 String="tibi aby\nport hope" Editor="Tibi Aby"}, 3277 Amount=9, 3502 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}

@@ -1,0 +1,58 @@
+ID              = 10109526
+Name            = "Shadowkam"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,127-127-127-126)
+CurrentOutfit   = (129,127-127-127-126)
+LastLogin       = 1147968764
+LastLogout      = 1147969426
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,387220,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,127760,3000,193600,1600)
+Skill = (2,460,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,14,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,121265,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,138,1100,165,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,33,1100,50,50)
+Skill = (10,61,0,10,0,0,0,0,0,0,0,70440,1100,70521,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,829,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76}
+QuestValues = {(46,1),(60,1),(67,1),(68,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(109,1),(112,1),(125,1),(126,1),(153,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2853 Content={3304, 3003, 3031 Amount=23}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3276},
+               7 Content={3372},
+               10 Content={3092 SavedExpireTime=434}}
+
+Depots      = {0 Content={3504 Content={3507 String="shadowkam \nthais\n", 2853 Content={3305, 3305, 2853 Content={3413, 3305, 2853 Content={2853 Content={3305}}}, 3305}}, 3504 Content={3507 String="shadowkam\nthais\n"}, 3504 Content={3507 String="shadowkam\nthais\n"}, 3504 Content={3003, 3507 String="shadowkam\nthais\n"}, 3504 Content={3147, 3503 Content={3507}, 3507 String="shadowkam\nthais\n\n"}, 3504 Content={3507 String="shadowkam\nthais\n"}, 3502 Content={2871}}, 
+               1 Content={3349, 3367, 3504 Content={3358, 3358, 3446 Amount=100, 3446 Amount=63, 2853 Content={3358, 3358, 3358, 3358}, 3507 String="shadowkam\ncarlin\n" Editor="Shadowkam"}, 3504 Content={2969 KeyNumber=3033, 2920 SavedExpireTime=557, 3736 Amount=1, 2644, 2644, 2667, 3504 Content={3270, 3504 Content={3375, 3507 String="shadowkam\ncarlin" Editor="Elemental of zanera"}, 3504 Content={3504 Content={3504 Content={3507 String="Shadowkam\ncarlin\n"}, 3447 Amount=16, 3293, 3290, 3507 String="shadowkam\ncarlin"}, 3505 String="Um ferro bem grande pra vc nunca se eskecer de mim... e que eu sempre fike na sua lembrança... uahUAhhUAhA\nvlws ae!\nBy Sir Jolrael\nObs.: eu usei esse ferro vc sab ond neh? uiahUAhUAH", 3507 String="Shadowkam\ncarlin"}, 3504 Content={3507 String="shadowkam\ncarlin\n" Editor="Elemental Dark"}, 3507 String="Shadowkam\ncarlin\n"}, 3349, 3349, 3504 Content={3507 String="shadowkam\ncarlin\n"}}, 3502 Content={3447 Amount=56}}, 
+               2 Content={3446 Amount=41, 3446 Amount=100, 3503 Content={3507 String="carlin\nShadowkam\n"}, 3097, 3502 Content={3293, 3582 Amount=17, 3056 RemainingUses=200, 3734 Amount=1, 2853 Content={3349, 3349, 3349}}}, 
+               3 Content={3349, 3349, 3349, 3504 Content={3507 String="shadowkam \nab'dendriel\n", 2868}, 3504 Content={3507 String="shadowkam\nab'dendriel\n"}, 3504 Content={2865, 3507 String="shadowkam\nab'dendriel\n"}, 3504 Content={2870, 3507 String="shadowkam\nab'dendriel\n"}, 3504 Content={3507 String="shadowkam\nab'dendriel\n", 2867}, 3502 Content={3446 Amount=76, 3425, 3492 Amount=1}}, 
+               4 Content={2865 Content={}, 2866 Content={}, 3504 Content={2866 Content={}, 3507 String="shadowkam\nedron\n", 2866 Content={}}, 3298 Amount=1, 2853 Content={3354, 3354, 3354, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}, 3352}, 3352}}}}, 3352}}, 3352}, 3352}}, 3266, 3502 Content={3430, 3372}}, 
+               5 Content={2853 Content={2853 Content={2853 Content={2853 Content={3358, 3358, 3286, 3354}, 3354, 3264, 3286, 3410, 3410, 3264, 3410}, 3410, 3286, 3354, 3358, 3410, 3264, 3410}, 3410, 3354, 3354, 3358, 3354, 3358, 3286}, 3504 Content={2854 Content={3003}, 2854 Content={3286, 3410, 2920 SavedExpireTime=0}}, 2868 Content={3147, 3147, 2866 Content={}, 3492 Amount=87, 3446 Amount=13}, 3504 Content={3504 Content={3507 String="shadowkam\ndarashia\n"}, 3507 String="Shadowkam\nDarashia\n\n\n\n:* ueyeaguyeaguea sua biba"}, 2920 SavedExpireTime=0, 3492 Amount=81, 3502 Content={3551, 3492 Amount=27, 3456, 3330}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3504 Content={3507 String="shadowkam\nAnkrahmun\n"}, 2869 Content={3577 Amount=27}, 3504 Content={3504 Content={3507 String="macro mage\nAnkrahmun"}, 3504 Content={3507 String="macro mage \ncarlin\n\n"}, 3504 Content={3507 String="Macro Mage\nAnkrahmun"}, 3504 Content={3507 String="slate drake\nankrahmun"}, 3504 Content={3507 String="macro mage\ncarlin\n"}, 3504 Content={3507 String="princesa valerie\nankrahmun"}, 3504 Content={3504 Content={3507 String="don colunga\nankrahmun"}, 3507 String="don colunga\nankrahmun"}}, 3504 Content={3507 String="shadowkam\nAnkrahmun", 2857 Content={3084 RemainingUses=250}}, 3502 Content={}}}

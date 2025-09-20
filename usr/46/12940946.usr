@@ -1,0 +1,55 @@
+ID              = 12940946
+Name            = "Lord Drawing Of Druid"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,98-0-19-38)
+CurrentOutfit   = (137,98-0-19-38)
+LastLogin       = 1148145441
+LastLogout      = 1148145557
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32647,31919,8]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14938,0,17600,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,16360,1100,18297,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,111,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5758,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,2147,1800,3763,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,55,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,96,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(29,1),(30,1),(35,1),(125,1),(126,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3577 Amount=4, 3457, 3031 Amount=54}},
+               4 Content={3377},
+               5 Content={3430},
+               6 Content={3066},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3577 Amount=10, 2869 Content={2853 Content={2853 Content={3504 Content={3017, 3017}, 3077, 3077, 3077, 3076, 3551, 3017, 3017}, 3454, 2916, 2955, 2949, 2856 Content={2901}, 2644, 2667}, 2853 Content={3661, 3673, 2394, 2394}, 2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2853 Content={3483, 3492 Amount=26, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2853 Content={3602 Amount=3, 3595 Amount=8, 3588 Amount=100, 3588 Amount=53, 3590 Amount=6, 3586 Amount=4, 3585 Amount=15}}, 3723 Amount=44, 3582 Amount=4, 2867 Content={2866 Content={2866, 2866, 2866, 2866, 2866, 2866}, 2870 Content={2870}, 2871, 2865 Content={2865, 2865, 2865, 2865}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854}, 2867 Content={2867}}, 2868 Content={2854 Content={2865 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2865 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3177 Charges=1, 2870 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2871 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2865 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 2857 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}}, 2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 2853 Content={3375, 3375, 3375, 3375, 3375, 3375}, 2853 Content={3505, 3505, 3505, 3505}, 2469 Content={3282, 3293, 3266, 3377, 3377, 2473 Content={3349, 3349, 3377, 3277 Amount=11, 2481 Content={2865 Content={3074, 3384, 3357, 3425, 3556, 3558, 3075, 3072, 3572, 3416, 3380, 3351}, 3552, 3565, 3425, 3059, 3046 SavedExpireTime=2999, 3003}}, 3377, 3123}, 2870 Content={3008, 3045 RemainingUses=200, 3056 RemainingUses=200, 3008, 3045 RemainingUses=199, 3085 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=195, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150}, 2854 Content={3050, 3097 SavedExpireTime=3202, 3052 SavedExpireTime=1197, 3050, 3098 SavedExpireTime=387, 3050, 3050}, 2865 Content={3457, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2854 Content={3283, 3308, 3330, 3308, 3285, 3308, 3456, 3283, 3453, 3283, 3299, 3283, 3291}}, 3504 Content={3043 Amount=1, 3035 Amount=3}, 3502}, 
+               3 Content={2865 Content={3603 Amount=24, 3603 Amount=100, 3031 Amount=21, 3447 Amount=1}, 3502}}

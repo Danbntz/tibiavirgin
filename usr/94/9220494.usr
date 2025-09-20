@@ -1,0 +1,61 @@
+ID              = 9220494
+Name            = "Kamchall"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,58-79-44-61)
+CurrentOutfit   = (134,58-79-44-61)
+LastLogin       = 1148222986
+LastLogout      = 1148223083
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32219,5]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,997409,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,234259,3000,582400,1600)
+Skill = (2,501,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,194,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,68,0,10,0,0,0,0,0,0,0,268657,1100,275801,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,184,1400,213,30)
+Skill = (8,70,0,10,0,0,0,0,0,0,0,164051,1100,166964,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,125,1100,165,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,327,1100,385,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,364,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12088,1100,13052,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80,93}
+QuestValues = {(14,1),(15,1),(18,1),(20,1),(37,1),(55,1),(59,1),(60,1),(61,1),(69,1),(72,1),(73,1),(74,1),(75,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(125,1),(126,1),(128,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(192,1),(206,1),(217,3),(223,1),(257,1),(278,3),(285,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2872 Content={3049 SavedExpireTime=150, 3053 SavedExpireTime=59, 2977, 3373, 3351, 3353, 3425, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=85, 3585 Amount=11, 2920, 2920, 2920, 3457, 3003, 3483}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3503 Content={3507}}}
+
+Depots      = {0 Content={3504 Content={2868 Content={2869, 3369, 2868 Content={3031 Amount=12, 3031 Amount=100, 3353}, 2872 Content={3305, 2874, 2874, 2874}, 2871 Content={3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2871, 2871 Content={3504 Content={3507 String="Kamchall\nAnkrahmun" Editor="Cooir"}, 3446 Amount=100, 2868 Content={3147, 3147, 3031 Amount=4, 3322, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=1, 3503 Content={3050, 2970 KeyNumber=3142, 3301, 2854 Content={3271, 3003, 3050 SavedExpireTime=1744, 3097 SavedExpireTime=3598, 3093}, 3504, 3056 RemainingUses=200}, 3483, 3457, 3301, 3313, 2854 Content={3372, 3492 Amount=36}, 2871 Content={3313, 2871, 3265, 3367, 3056 RemainingUses=200}, 2857 Content={3264, 3313, 2868 Content={3042 Amount=1, 3051 SavedExpireTime=144}, 3595 Amount=6, 3052}, 2871 Content={3291, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 2871 Content={3429, 3586 Amount=5, 3052}, 2871 Content={3054 RemainingUses=134, 3085 RemainingUses=197, 2955, 3050 SavedExpireTime=1797, 3084 RemainingUses=250, 2870 Content={3457, 3313, 3313, 3279, 3275, 3056 RemainingUses=200, 2953, 3092, 3092, 3092, 3097, 3097, 3097, 3097 SavedExpireTime=2783}, 3077, 3586 Amount=9, 3599 Amount=8, 3351, 3017}, 2854, 2871 Content={3372}, 2871 Content={3372, 3286, 3367, 3078, 3372, 2871 Content={3409, 3007, 3372, 3425, 3092}}, 2868 Content={3286, 2872, 2872, 2871, 2871, 3311, 3732 Amount=4, 3311, 3311, 3372}, 2871 Content={2853, 3583 Amount=1, 3367, 3282, 3506 String="Kamchall\nankrahmun\n\nCZESC Koncze z  Tibia i chcialem ci zyczy jak najwiekszego lvl i radosci z gry \nths for game!!!\n" Editor="Sconio", 3504 Content={3507 String="Kamchall\nAnkrahmun\n" Editor="Karolina-ruless", 2815 String="Masz popekuj troche:)" Editor="Karolina-ruless", 3582 Amount=15, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 3504 Content={3492 Amount=31, 2854, 3507 String="Kamchall\nAnkrahmun" Editor="Connert"}, 3504 Content={3353, 3353, 3577 Amount=1, 3056 RemainingUses=200, 3507 String="Kamchall\nAnkrahmun" Editor="Connert"}, 3504 Content={3507 String="Kamchall\nAnkrahmun" Editor="Cooir"}, 3504 Content={3507 String="Kamchall\nAnkrahmun" Editor="Cooir"}, 3504 Content={3507 String="Kamchall\nankrahmun" Editor="Warrior Camus"}, 3504 Content={3507 String="Kamchall\nAnkrahmun" Editor="Chamisito"}, 3504 Content={3507 String="Kamchall\nankrahmun" Editor="Aragorn casas"}, 3504 Content={3507 String="Kamchall\nAnkrahmun" Editor="Venom Vanth"}, 3504 Content={3507 String="Kamchall\nankrahmun" Editor="Aragorn casas"}}}, 2871, 2869 Content={3349, 3349, 3349}, 2871 Content={3354, 3354, 3286, 3413}, 3732 Amount=1, 2866, 3504 Content={2871 Content={3017}, 2871, 2871, 2871 Content={3045 RemainingUses=200}, 3507 String="Kamchall\nThais" Editor="Kamchall"}, 3504 Content={3507 String="Kamchall \nThais" Editor="Risaa"}, 3504 Content={3353, 2870, 2866 Content={3045 RemainingUses=200}, 2854, 2866, 2871 Content={3045 RemainingUses=200, 3354, 3308}, 2871 Content={3299}, 3507 String="Kamchall\nThais" Editor="Kamchall"}, 3732 Amount=1, 2871 Content={3373, 3010, 3353}}, 2854 Content={3367, 3286, 3286, 3286, 3354, 3354, 3367, 3286, 3354, 3285, 3286, 3367, 3286, 3367, 3286, 3354, 3286, 3286, 3286, 3354}, 3409, 3372, 3425, 2853 Content={3031 Amount=96, 3093, 3031 Amount=40, 3425, 3425}, 3492 Amount=72, 2861 Content={3504 Content={3504 Content={3507 String="chipi gambler\ndarashia" Editor="Yo macho alfa"}, 3507 String="Chipi Gambler\nDarashia" Editor="Shadow Profeta"}}, 3507 String="Kamchall\nThais" Editor="Kamchall"}, 3504 Content={3507 String="Kamchall \nThais" Editor="Risaa"}, 3504 Content={2871 Content={3354, 3367, 3354, 3354, 3367, 3367, 3354, 3354, 3354, 3354, 3354, 3354, 3367}, 2871, 2871 Content={3353}, 2871 Content={3264, 3349, 3264, 3354, 3285, 3354, 3358, 3264, 3285, 3349, 3353, 3282, 3367, 3264, 3264, 3349, 3413, 3349}, 2854 Content={3349, 3349, 3353, 3358, 3353, 3353, 3282, 3409, 3285, 3264, 3264}, 2854 Content={3353, 3353, 3353, 3353, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3507 String="Kamchall\nThais" Editor="Kamchall"}, 3504 Content={2866 Content={3349, 3349}, 2871 Content={3097, 3349}, 2871 Content={3299}, 2871, 2871, 3507 String="Kamchall\nThais" Editor="Kamchall"}, 3504 Content={2870 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 3507 String="Kamchall\nThais" Editor="Kamchall"}, 3504 Content={3507 String="Kamchall\nThais" Editor="Skra Libjo"}, 3504 Content={3507 String="Kamchall \nThais\n" Editor="Risaa"}, 3504 Content={3507 String="Kamchall \nThais" Editor="Risaa"}, 3504 Content={2870 Content={3425}, 2870 Content={3425}, 2868 Content={3276, 3276, 3276, 3276, 3425}, 3507 String="Kamchall\nThais" Editor="Sajko lodz powrocilem"}, 3503 Content={3507 String="necroexodia\nthais"}, 3504 Content={2870 Content={2862, 2862, 2862, 2862, 2862 Content={3351}}, 3507 String="Kamchall\nThais"}, 3504 Content={2862, 2862, 2854 Content={2862, 2862, 2862, 2862, 2862 Content={3425, 3266}, 2862, 2862, 2862, 2862, 2862, 2862, 2862, 2862}, 3507 String="Kamchall\nThais"}, 3504 Content={2854 Content={2853, 2853, 2853, 2862, 2862, 2862, 2862, 2862, 2862, 2862, 2862, 2853, 2853}, 3507 String="Kamchall\nThais"}, 3504 Content={2870, 3507 String="Kamchall\nThais"}, 3504 Content={3492 Amount=20, 2870, 2870 Content={3457, 3457, 3456, 3456, 3457, 3425, 3425}, 2870 Content={3412, 2906, 3456, 3457, 3456, 3457, 3457, 3457, 3457}, 3507 String="Kamchall\nThais\n"}, 3502 Content={2871, 2854 Content={3035 Amount=3, 3031 Amount=34, 3446 Amount=2, 3305}, 2853 Content={3410, 2853 Content={2853 Content={3354}, 3410}, 3367, 3410, 3410}, 2871, 2871, 2867, 3457, 2871 Content={2920, 2920}, 3003, 3457, 2854 Content={2973 KeyNumber=3520, 3483, 3003, 2853 Content={2870 Content={3291}}}, 2870 Content={2853, 3291}, 2854 Content={3147, 3003, 3457, 3012, 3012}, 3012, 3503 Content={2853 Content={3003, 3430}, 3017}, 2870 Content={3456, 2906}, 3504 Content={3740 Amount=1, 3446 Amount=3, 3308, 3507 String="Kamchall\nVenore"}, 2870, 2854, 3504 Content={2870, 2870, 2870, 2870}, 2854 Content={3017, 2969 KeyNumber=4600, 3412}, 2854 Content={2870, 3147, 3506 String="Kamchall\nThais\nCzesc Mow do mnie tami. Jestem twoja ogromna wielbicielka. Spotkajmy sie jutro o 10:00, bo jutro o 12:00 biore slub, i musze sie rozerwac:) puzniej napisze gdzie sie spotkamy:)", 3291, 2969 KeyNumber=3600}, 2854 Content={3031 Amount=95, 3031 Amount=100, 3043 Amount=1, 3275, 3035 Amount=94, 3059, 3587 Amount=2}}}, 
+               1 Content={3504 Content={3507 String="Kamchall\nCarlin" Editor="Konki"}, 3502 Content={2973 KeyNumber=3520, 2922 SavedExpireTime=245}}, 
+               2 Content={3504 Content={3507 String="kamchall\nkazordoon"}, 3502 Content={3504 Content={3031 Amount=43, 2853 Content={2920, 2920, 2920, 2920}, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="vidur'carn\nkazordoon" Editor="Vidur'Carn"}, 3504 Content={3507 String="master kilika\ncarlin"}, 3504 Content={3507 String="master kilika\nkazordoon"}, 3504, 3504 Content={3507 String="Master Kilika\ncarlin"}, 2853, 3507 String="vidur'carn\nkazordoon" Editor="Master Kilika"}, 3446 Amount=55, 3264, 3457, 3446 Amount=100, 3291, 3059, 3503 Content={3503, 3503, 3503, 3503, 3503}, 2853 Content={3266, 3457, 2862, 2854 Content={2862, 2862, 2862, 2862, 2862, 2862}, 2867 Content={3349, 3425, 3349, 3425, 3358, 3358, 3358, 3349, 3425, 3286, 3358, 2869, 2865, 3291, 3031 Amount=100, 3269, 3264, 3358, 3264, 3269}, 3012, 3551, 2853 Content={2853 Content={3147}, 3147, 3147}}, 2853 Content={3492 Amount=25}, 2853 Content={2857, 3598 Amount=7}, 2853, 2853 Content={3592}, 3457, 3483, 3492 Amount=28, 3483, 3412, 3056 RemainingUses=200, 3483, 2969 KeyNumber=4055, 2853 Content={2953}, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3412, 3457, 2854 Content={3291, 3457}, 3310, 2970 KeyNumber=3800, 2970 KeyNumber=3801}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={3031 Amount=100}}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={3285, 3453}}, 
+               7 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 2920, 2920, 3367, 3291, 3502 Content={3503 Content={3507}, 3147, 3147, 3304}}, 
+               8 Content={3504 Content={3507 String="Kamchall \nPort Hope\n" Editor="Risaa"}, 3502 Content={3577 Amount=3, 3354, 3384}}}

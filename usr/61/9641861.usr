@@ -1,0 +1,55 @@
+ID              = 9641861
+Name            = "Brin Koro"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,120-100-100-119)
+CurrentOutfit   = (129,120-100-100-119)
+LastLogin       = 1131725166
+LastLogout      = 1131725191
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,4176,0,4200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,10000,1100,12344,1600)
+Skill = (2,180,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,1325,1500,2078,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,209,1800,356,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1055,1800,1118,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,73,1800,140,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,31,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,101,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,77,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,5,8,10,18,42}
+QuestValues = {(18,1),(22,1),(34,1),(35,1),(59,1),(60,1),(106,1),(107,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={1781 Amount=4},
+               6 Content={},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3504 Content={3507 String="Brin Koro\nThais"}, 3425, 3453, 3421, 3003, 3457, 3502 Content={3300, 3411, 2901 ContainerLiquidType=0, 3374, 3457, 3457, 2911 SavedExpireTime=940, 3462}}, 
+               1 Content={2853 Content={}, 3293, 3286, 3426, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 3502 Content={2955, 3457, 3003, 3003, 2853 Content={2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 3552, 3411, 3374, 3559, 3378, 3286, 2853 Content={3367, 3003, 2920 SavedExpireTime=0, 3374, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}}}}}}}, 2853 Content={3507 String="Drakon from zanera\ncarlin\n", 3507 String="drakon from zanera\ncarlin", 3559, 3552, 3507 String="popo'kix\ncarlin", 2911 SavedExpireTime=2623, 3507 String="Slam Da'Magno\ncarlin", 3507 String="Keddzior\nCarlin\n"}, 2853 Content={3559, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 3507 String="Uzas\nCarlin\n", 3507 String="Komisar of Zanera\ncarlin\n", 3507 String="Elzatu\ncarlin", 2880 ContainerLiquidType=0, 3507 String="batman style\ncarlin"}, 2853 Content={3374, 2920 SavedExpireTime=0, 2881 ContainerLiquidType=0, 3507 String="Merlyn'Crow\nCarlin", 3507 String="Merlyn'Crow\nCarlin", 3507 String="Merlyn'Crow\nCarlin", 3457, 2913}, 2853 Content={}, 2853 Content={}, 2853 Content={3137, 2893 ContainerLiquidType=3, 2882 ContainerLiquidType=2}, 2853 Content={}, 2853 Content={2905, 3507 String="", 3507 String="glormentor kurgurano\ncarlin\n"}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={3374, 3559, 2874 ContainerLiquidType=0}, 2853 Content={}, 2853 Content={}, 2853 Content={3136, 3140, 3507 String="Kssio Brax\nCarlin"}}}}

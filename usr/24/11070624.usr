@@ -1,0 +1,59 @@
+ID              = 11070624
+Name            = "Axell Necros"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,114-132-95-114)
+CurrentOutfit   = (134,114-132-95-114)
+LastLogin       = 1148181548
+LastLogout      = 1148184634
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33129,32834,7]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,791913,0,847400,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,593755,1400,618272,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,449,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,107,107,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,24933,1100,27102,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,80462,1100,82740,30)
+Skill = (8,32,0,10,0,0,0,0,0,0,0,15052,1200,16311,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,586,1200,645,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,48,1200,50,50)
+Skill = (11,24,0,10,0,0,0,0,0,0,0,3038,1200,3601,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,56,0,10,0,0,0,0,0,0,0,16000,1100,17439,20)
+Skill = (14,0,1200,0,0,0,1034,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,61,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,44,48,49,51,79}
+QuestValues = {(84,1),(85,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(115,1),(137,1),(151,1),(152,1),(153,1),(190,1),(191,1),(217,3),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3457, 3189 Charges=1, 3189 Charges=1, 3189 Charges=2, 3003, 3446 Amount=31, 3330, 3483, 3084 RemainingUses=156}},
+               4 Content={3370},
+               6 Content={3349},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3446 Amount=98}}
+
+Depots      = {0 Content={3502 Content={2853 Content={3607, 3585 Amount=2, 3588 Amount=9, 3582 Amount=6, 3578 Amount=44}, 3349, 1781 Amount=2, 3285, 3003, 3277 Amount=15}}, 
+               2 Content={2853 Content={3358, 3425}, 3502 Content={3582 Amount=15, 3577 Amount=21, 3349}}, 
+               3 Content={3266, 3391, 3502}, 
+               4 Content={3502 Content={3092, 3035 Amount=40, 2872 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2869 Content={3350}, 2867 Content={3031 Amount=28, 3031 Amount=100, 2991, 3093}, 2869 Content={3277 Amount=15}, 2868 Content={3289, 3457, 3457}}}, 
+               6 Content={3066, 3074, 3502 Content={3441, 3277 Amount=24, 2853 Content={3377, 2853 Content={2853 Content={2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 2871 Content={3357, 3372, 3046, 3299, 3338, 3353}, 2863, 2869 Content={3275, 2825 String="The great pyramid is the centre of our beloved city. It is there that our praised pharaoh resides, surrounded by his trusted servants. Far below the palace, hidden in the deepest dungeons of the ancient pyramid are the tombs of despair. The old pharaoh met his fate there, and it is said he still roams the hidden passageways, bound forever to his undead body. So great was the wisdom of Arkhothep that he granted his father eternal unlife, so that he may to atone for his sins and become worthy of ascension. Who knows? Perhaps one day he, too, will ascend, leaving both the curse and his tomb behind him and taking his place at Arkhothep's side. But I fear his folly defies all attempt to cure it. He has proved unyielding to the wisdom of his son's preachings for as long as I can remember. Long will be his road, and a million deaths he shall die before he will see the light of the wisdom that will free him from his prison.", 3092, 3349, 3008, 3008, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3277 Amount=8}}}, 
+               7 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3083 RemainingUses=150, 3502 Content={2861 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3191 Charges=2, 3191 Charges=2}, 3349, 2871 Content={3492 Amount=78, 3492 Amount=100, 3492 Amount=100, 3577 Amount=13}, 2871 Content={3035 Amount=7, 3031 Amount=10, 3031 Amount=100}, 2854 Content={2853 Content={3377, 3353, 3441, 3353, 3377}, 2853 Content={3308, 3285, 3338, 3327, 3299}, 2853 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3046, 2853 Content={3046, 3046, 3046, 3046, 3046 SavedExpireTime=2996, 3046, 3046, 3046}}}}, 
+               8 Content={3502}}

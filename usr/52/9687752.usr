@@ -1,0 +1,62 @@
+ID              = 9687752
+Name            = "Saz Lak"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (129,58-0-0-58)
+CurrentOutfit   = (129,58-0-0-58)
+LastLogin       = 1148234605
+LastLogout      = 1148243803
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33251,31694,7]
+PlayerkillerEnd = 0
+
+Skill = (0,56,0,1,0,0,0,0,0,0,1,2696448,0,2777600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,472159,3000,582400,1600)
+Skill = (2,628,905,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,175,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,125,125,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1670,1670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,321027,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,74,0,10,0,0,0,0,0,0,0,229833,1100,244685,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,215,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1648,1100,1769,20)
+Skill = (14,0,1200,0,0,0,909,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,93}
+QuestValues = {(14,1),(15,1),(37,1),(38,1),(50,1),(55,1),(56,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(121,1),(125,1),(126,1),(128,1),(133,1),(137,1),(140,1),(141,1),(143,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(155,1),(170,1),(171,1),(172,1),(175,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(217,3),(222,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(249,2),(250,2),(253,1),(257,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3057},
+               3 Content={2866 Content={3031 Amount=74, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3577 Amount=7, 3031 Amount=100, 3031 Amount=100, 3091 SavedExpireTime=309, 3003, 2871 Content={3294, 3031 Amount=8, 3305, 3351, 3358, 3266, 3294, 3294, 2920}, 3582 Amount=5, 2868 Content={3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5}, 3457, 2872 Content={2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}},
+               4 Content={3386},
+               5 Content={3295},
+               6 Content={3414},
+               7 Content={3364},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={2922 SavedExpireTime=227}}
+
+Depots      = {0 Content={3504 Content={3205, 3059, 2857 Content={2865 Content={3190 Charges=1, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4, 3190 Charges=4}, 2871 Content={3166 Charges=1, 2871, 3177 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}}, 3078}, 3504 Content={2857 Content={3578 Amount=99, 3583 Amount=28, 3577 Amount=46, 3582 Amount=22}, 2872 Content={3046, 3046 SavedExpireTime=2977}, 2865 Content={3031 Amount=21, 3035 Amount=39, 2871 Content={3031 Amount=100, 3031 Amount=100}, 3035 Amount=100, 3043 Amount=11, 3035 Amount=100}, 2868 Content={3291, 3557, 3304, 3557, 3322, 3556, 3552, 2867 Content={3349, 3349, 3267, 3568, 3429, 3003}}}, 2870, 2871 Content={3506 String="Saz Lak\nThais\n\n\nIm can pay for she 3 or more bp uhs in week, but im must first make mine druid,\nsry man but she has have pk im can pay ! plxxxxx" Editor="Kubaa of Zanera", 3503 Content={3507, 3507, 3507}, 3503, 3503, 3503, 3503, 3503 Content={3503}, 3506 String="Saz Lak\nThais\n\nHi jo was geht sazi\nhm..... ich wollte 2 fragen fragen\n1.wie heisst du denn ??\n2.muss ich sagen wenn du on bist" Editor="Aoc Deadman", 3506 String="Saz Lak \nThais\n\nhi saz lak\nwarum schenkst du dem alex und dem caos sachen un mir net ??" Editor="Aoc Deadman", 3506 String="Saz Lak\nThais\nUnd ich möchte mein schild bitte wieder\n" Editor="Aoc Deadman", 3506 String="Saz Lak\nThais\n\nHi saz lak.\nbitte sag dem dominik dem du denn acc gegeben hast das ich noch ein acc lv 18 habe denn ich dem dominik geben kann bitte sag ihm so schnell wie möglich schreib mir dann ein brief zurück und sag noch das ich alle aocs gegrüsst habe und das ich gewusst habe vom chaos das er mit der klasse weg war  In liebe Aoc Deadman" Editor="Aoc Deadman", 3506 String="Saz Lak \nThais\n\nHiHO :) \nalso wenn willst du denn haben pally oder knight ich muss das dann mit dem louis absprechen wenn du bekommst\nund ich spiele ab und zu tibia um denn alex zu helfen weil das alles was du fuer mich gemacht hast und fuer die aocs muss du mit einem anderen acc weiter machen\nGrusssssssssssssssssiIIIII\n\nDEADMAN hauhauhauah\nund sag wenn du haben will knight oder pally :)" Editor="Aoc Deadman"}, 3502 Content={3492 Amount=58, 3003, 2870, 2871 Content={2867, 2866, 2865 Content={2865 Content={2854}}, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870}, 2853, 2871 Content={2871, 2871, 2871, 2871}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={2854}, 2854, 2854 Content={2854}, 2854, 2854, 2854, 2854}}, 2868 Content={2868, 2868, 2868}}, 2865 Content={2472 Content={3294}, 2854 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2854 Content={2922 SavedExpireTime=190, 2920, 2920, 2911 SavedExpireTime=197, 2920, 2920, 2920 SavedExpireTime=500, 2911 SavedExpireTime=1344, 2920, 2920, 2920, 2920, 2917 SavedExpireTime=2304, 2911 SavedExpireTime=2214, 2911 SavedExpireTime=1963, 2917, 2911 SavedExpireTime=1508, 2920, 2920, 2920}}, 2868 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2854 Content={3483, 3457, 3457, 3457, 3457, 3457, 3551, 3457, 3457, 3457, 3457, 3457}}, 2871 Content={2871}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3502 Content={2872, 3577 Amount=26, 3582 Amount=16, 3056 RemainingUses=200, 3046 SavedExpireTime=2747, 3504}}, 
+               5 Content={3504 Content={3507 String="Saz Lak\nDarashia", 2854}, 3504 Content={3507 String="SAZ LAK \nDARASHIA"}, 3502}, 
+               6 Content={3504 Content={3507 String="Saz lak\nVenore\n" Editor="Begoldenator"}, 3503 Content={3503 Content={3503 Content={3503}, 3503, 3503, 3503, 3503, 3503}, 3503 Content={3503, 3503}, 3503 Content={3503}, 3503, 3503, 3503 Content={3503, 3503}, 3503 Content={3503, 3503}, 3503, 3503, 3503}, 3504 Content={3504 Content={3507 String="drut of zanera \nvenore"}, 3504 Content={3507 String="Saz lak\nvenore\n"}, 3504 Content={3507 String="Amrel\nvenore"}, 3507 String="saz lak\nvenore"}, 3308, 3502}, 
+               7 Content={3502 Content={3492 Amount=97}}, 
+               8 Content={3504 Content={3507 String="saz lak\nport hope"}, 3502}}

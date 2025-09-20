@@ -1,0 +1,57 @@
+ID              = 7975603
+Name            = "Chanz'Forces"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,0-76-126-0)
+CurrentOutfit   = (128,0-76-126-0)
+LastLogin       = 1148006390
+LastLogout      = 1148006602
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32922,32073,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,910147,0,917800,100)
+Skill = (1,47,0,0,0,0,0,0,0,0,0,1459050,1100,1536275,1600)
+Skill = (2,340,340,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,121,965,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,780,780,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,123442,1500,131168,100)
+Skill = (7,19,0,10,0,0,0,0,0,0,0,8488,1800,13351,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,1800,50,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,98264,1800,130081,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,1321,1500,1608,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,15374,1100,15835,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,2,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,11,12,14,15,16,17,18,20,25,26,27,28,29,30,31,32,33,38,42,44,45}
+QuestValues = {(14,1),(15,1),(18,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(37,1),(49,1),(54,1),(58,1),(59,1),(60,1),(69,1),(72,1),(73,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(115,1),(121,1),(125,1),(126,1),(130,1),(131,1),(134,1),(137,1),(138,1),(139,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(213,1),(226,1),(253,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2870 Content={3492 Amount=100, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2870 Content={2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 2854 Content={3148 Charges=3, 3152 Charges=1, 3152 Charges=1, 3198 Charges=4, 3166 Charges=3, 3192 Charges=1, 3148 Charges=3, 3155 Charges=1, 3155 Charges=1, 3153 Charges=1, 3153 Charges=1, 3153 Charges=1}}},
+               4 Content={3381},
+               5 Content={3065},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3003, 3031 Amount=51, 3035 Amount=74, 3457, 3308, 3483, 2968 KeyNumber=3940, 2854 Content={2854, 2867, 2867, 2867, 2854 Content={2867, 2868, 2854, 2870, 2868, 2854}}, 3457, 2973 KeyNumber=3520, 3421, 3502 Content={3287 Amount=1, 2865 Content={2867}, 2870 Content={3349}, 3313, 2870 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276}}}, 
+               1 Content={3350, 3447 Amount=23, 3502 Content={}}, 
+               2 Content={3503 Content={3507 String="Chanz'Forces\nvenore" Editor="Chanz'Forces", 3504 Content={2853 Content={3377, 3377, 3377, 3377, 3377}, 2853 Content={3449 Amount=8, 3447 Amount=7, 3274, 3274, 3092, 3274, 3274, 3274}, 3286, 3286, 3286, 3286, 3413, 3273, 3286, 2853 Content={3286, 3264, 3286, 3359, 3286, 2853 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286}}, 3286}, 3031 Amount=41, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=19, 3582 Amount=6, 2867, 2865, 3457, 3502 Content={2970 KeyNumber=3801, 3310}}, 
+               3 Content={3457, 3502 Content={3003, 3585 Amount=1, 2865 Content={2969 KeyNumber=3033, 3003}}}, 
+               6 Content={3279, 3503 Content={3503, 3507 String="Chanz'forces\nThais" Editor="Chanz'Forces", 3507 String="Chanz'forces\nThais" Editor="Chanz'Forces"}, 2868 Content={3324, 2473 Content={2865 Content={2870 Content={3053 SavedExpireTime=563, 3053, 3004, 3097, 3004, 3097, 3097, 3097, 3097 SavedExpireTime=3596, 3097, 3097, 3097 SavedExpireTime=2615, 3097, 3097}, 2868 Content={3004, 3092, 3097, 3092, 3092, 3097, 3093, 3093, 3093, 3093 SavedExpireTime=1798, 3050, 3092, 3093, 3097 SavedExpireTime=3228, 3097, 3092 SavedExpireTime=37, 3097, 3092, 3092}, 3017, 3205, 3017, 3017, 3017}, 2857 Content={3030 Amount=8, 3027 Amount=6, 3042 Amount=7, 3039, 2903, 3028 Amount=9, 3029 Amount=7, 3026 Amount=3}, 2854 Content={3055, 3054 RemainingUses=187, 3056 RemainingUses=200, 3045 RemainingUses=200, 3083 RemainingUses=150, 3085 RemainingUses=200, 3054 RemainingUses=67, 3008, 3008, 3082 RemainingUses=50, 3008, 3084 RemainingUses=250, 3008, 2867 Content={3083 RemainingUses=116, 3083 RemainingUses=150, 3083 RemainingUses=150, 3008, 3008, 3008, 3008, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012}}, 2868 Content={3077, 3077, 3077, 3077, 3077, 3077, 2853 Content={3507 String="llaves para la quest de la bright sword\n" Editor="Chanz'Forces", 2972 KeyNumber=3304, 2969 KeyNumber=3302, 2970 KeyNumber=3303, 2970 KeyNumber=3301}, 2970 KeyNumber=3142, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2970 KeyNumber=3800, 2970 KeyNumber=4503, 2970 KeyNumber=3301, 2969 KeyNumber=5010, 2969 KeyNumber=3302, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=5000}}, 3066, 3070}, 3502 Content={2469 Content={2869, 2872 Content={2874 ContainerLiquidType=11}, 2854 Content={2854 Content={3572}, 2870 Content={2870}, 2854 Content={2854, 2854}, 2867 Content={2867, 2867, 2867, 2867}, 2865 Content={2865, 2865, 2865, 2865}, 2872 Content={2872, 2872}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868}}, 2871 Content={2866 Content={2868 Content={3031 Amount=30, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=14}}, 2866, 2867 Content={2867}, 2865, 2870 Content={2868, 2854}, 2868 Content={2856 Content={2856, 2856, 2856}}}, 2473 Content={3286, 3286, 3286, 2867 Content={3301, 2854 Content={2868 Content={2854 Content={2853 Content={3307}}, 2854 Content={3046 SavedExpireTime=2946, 3659}}, 2906, 3504 Content={2469 Content={3533 Amount=1, 3543, 3534 Amount=1, 3537}, 2853 Content={2949}}, 2853 Content={2856 Content={3505 String="   Aun que ayer no me pusieras atencion yo aun pienso en ti te  agarre los 10K para comprarte lo qu quierias solo su sabes si lo queres usar ya odespues\nniña si lo usas ya cuidate nomas :) :*\n   No se como regalar una flor a otra flor pero te regalo una rosa hermosa como tu tembien te entreego mi corazon ojala lo sepas cuidar bien :*", 2393, 3658, 2853 Content={2902}}}}, 3658, 3658, 3270, 3453, 2853 Content={3432, 3421, 3441}, 2854 Content={3322, 3289, 3327, 3282, 3305, 3310, 3270}, 3421, 3421}}, 3492 Amount=100, 3483, 3492 Amount=81, 2867 Content={3463, 3290, 3604 Amount=3, 3308}, 2865, 2854 Content={3308, 3457, 3059, 3059}, 2867 Content={3292, 3287 Amount=1, 3289, 3299, 3299, 3298 Amount=2, 3289, 3289, 2991, 2991, 3209, 2991, 3292, 2906}, 2854 Content={2906, 3299, 3299, 3299, 3299}, 2857 Content={3483, 3483, 3483}, 2855 Content={2992 Amount=20, 3589 Amount=10, 3586 Amount=5, 3585 Amount=30, 3598 Amount=57}, 2855 Content={3506 String="Chanz'Forces \nvenore \n\nWE soy yo el pancho we asme un paro mandame unas legs deperdida unas brass y un scale\nplz we no tengo ni madres XD atte Olis Eton", 3308, 3492 Amount=100}, 2469 Content={2469 Content={2853, 3350, 2868 Content={3448 Amount=100, 3447 Amount=1, 3448 Amount=33, 3449 Amount=27, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3448 Amount=100}, 3349, 2854}, 3308, 2854 Content={3308, 3308, 3308}, 3457, 2870 Content={2854 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457}}, 3456, 2868 Content={3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 2870 Content={3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456}, 2870 Content={3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456}, 2870 Content={3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456}}, 3003, 2867 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}}, 3506 String="Chanz'Forces\nVenore\nChanz soy perez we, nomas te escribo para darte mi nueva contraseña porque la tuve que cambiar, apuntala es: 53673DFYND. Sale Pues, Has el Desert Quest y quedate con todo, solo skillealo un poco mas, yo voy a empezar a jugar pero en Agosto. GRACIAS!!", 3059, 3076, 3076}}}

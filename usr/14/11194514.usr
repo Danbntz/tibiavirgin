@@ -1,0 +1,55 @@
+ID              = 11194514
+Name            = "Moon Jedodorxus"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,115-1-111-122)
+CurrentOutfit   = (129,115-1-111-122)
+LastLogin       = 1148183026
+LastLogout      = 1148186668
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32342,32358,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,439818,0,452600,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,333530,1100,355602,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,725,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,44344,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,59,1800,84,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,3814,1800,6824,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,218,1800,302,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,142,1800,302,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,5202,1500,5666,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3219,1100,3289,20)
+Skill = (14,0,1200,0,0,0,1017,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,11,12,15,16,17,18,27,29,30,38,42,44}
+QuestValues = {(17,1),(18,1),(20,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(106,1),(107,1),(125,1),(126,1),(217,3),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3012},
+               3 Content={2868 Content={3483, 3352, 3358, 3582 Amount=1, 3577 Amount=3, 3483, 3031 Amount=91, 2854 Content={3160 Charges=1, 3160 Charges=1, 3148 Charges=1, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3492 Amount=9, 3492 Amount=100, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3003}},
+               4 Content={3357},
+               5 Content={3436},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3504 Content={3198 Charges=2, 3198 Charges=4, 3160 Charges=1, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3177 Charges=1}, 2854 Content={2854 Content={3352, 3352, 3352, 3358, 3352, 3358, 3358}, 3031 Amount=77, 3031 Amount=100, 3035 Amount=27, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3352, 3358, 3358}, 3031 Amount=100, 3031 Amount=100, 3093 SavedExpireTime=1798, 3012, 3056 RemainingUses=200, 3093 SavedExpireTime=1794}, 3504 Content={3483, 3384, 2969 KeyNumber=4600, 3492 Amount=100, 3492 Amount=100, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 2473 Content={2853 Content={3191 Charges=2, 3191 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3177 Charges=1}}, 2853 Content={3148 Charges=3, 3198 Charges=5, 2874 ContainerLiquidType=7, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=11, 3448 Amount=9, 3350}, 2854 Content={3425, 3384, 3384, 3305, 3275, 2853 Content={3299, 3289, 3283, 3446 Amount=4}, 2920, 3552, 3457, 3457, 3457, 3457, 3012, 3012, 3552, 2922 SavedExpireTime=225, 3456, 3453, 3483}, 3504 Content={3012, 3148 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2853 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}}, 3603 Amount=7, 2871 Content={2984, 2853 Content={3577 Amount=13, 3585 Amount=1, 3590 Amount=25, 3579 Amount=1, 3597 Amount=3, 3595 Amount=11, 3600 Amount=7, 3587 Amount=1}}, 2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3457}, 2853 Content={3425, 3316, 2853 Content={3377, 2906, 2906}}, 3504 Content={3283, 3012, 3483, 3483, 3457, 3447 Amount=59, 3362}, 2854 Content={2854, 2854, 2854, 2868, 2854, 2854, 2872 Content={3492 Amount=16}}, 3504 Content={3377, 3289, 2991, 2920, 2969 KeyNumber=4600}, 3502 Content={3056 RemainingUses=200, 3483, 2970 KeyNumber=4601, 3453, 3285, 3483, 2920}}, 
+               1 Content={3602 Amount=5, 3504 Content={3504 Content={3507 String="Norekx\nCarlin" Editor="Baxon Shan"}, 3504 Content={3507 String="Filo the Ancient Warlock\nCarlin" Editor="Kacperok"}, 3507 String="Flame Arch\nCarlin" Editor="Dawns Knight"}, 3413, 3572, 2868 Content={2868, 2868, 2868, 2866}, 3585 Amount=12, 3367, 3286, 3456, 3502 Content={3031 Amount=100, 3031 Amount=100, 3012, 3031 Amount=99, 3031 Amount=100}}, 
+               6 Content={3377, 3447 Amount=12, 3283, 3410, 3358, 3502 Content={3483}}}

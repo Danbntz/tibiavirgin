@@ -1,0 +1,55 @@
+ID              = 10722361
+Name            = "Guetoman"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,79-57-76-95)
+CurrentOutfit   = (128,79-57-76-95)
+LastLogin       = 1147144796
+LastLogout      = 1147144878
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32346,32224,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,12600,0,13000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,14534,1100,15179,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,19,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6744,1500,7488,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,32,1800,84,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1053,1800,1118,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,4388,1800,6824,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,91,1800,140,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,103,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,422,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,10,16,20,25,26,30,42}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(35,1),(93,1),(94,1),(95,1),(125,1),(126,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2853 Content={3031 Amount=29, 3504 Content={3507 String="Ordart Pagu\nport hope" Editor="Dragoon Wake"}, 3582 Amount=4}},
+               4 Content={3377},
+               5 Content={3410},
+               6 Content={3286},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={3372, 3483, 3372, 3004, 3456, 2920, 3286, 2874, 3507 String="Heaven Lights Shaman\nvenore" Editor="Caprates", 3059, 3012, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2922 SavedExpireTime=138, 2865 Content={2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3377}, 2867 Content={3358}, 2816 String="Wyrd Sisters\nby Terry P.", 2854 Content={3454, 3349, 1781 Amount=2, 3740 Amount=1, 3604 Amount=1, 3031 Amount=3, 3492 Amount=15, 3374}, 2920, 2920, 2920 SavedExpireTime=597, 2920 SavedExpireTime=598, 2920 SavedExpireTime=322, 2865 Content={3285, 3050 SavedExpireTime=1788, 2920, 2920 SavedExpireTime=562, 2853 Content={3409, 3289, 3266, 3286, 3375, 3358, 3504 Content={3031 Amount=63, 3031 Amount=100}}, 3285, 3367, 3411, 3552, 3459, 3374, 3430, 2989, 3559, 3463, 3463, 3411}, 2920, 2920}}, 
+               8 Content={3504 Content={3507 String="Guetoman\nPort Hope" Editor="Martin El Nada Fresa"}, 3502}}

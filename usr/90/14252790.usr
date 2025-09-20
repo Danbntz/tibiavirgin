@@ -1,0 +1,54 @@
+ID              = 14252790
+Name            = "Olis Chico"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,25-88-109-62)
+CurrentOutfit   = (134,25-88-109-62)
+LastLogin       = 1148179708
+LastLogout      = 1148182010
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32347,32228,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,310659,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,81590,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,135,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,33251,1100,36404,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (9,52,0,10,0,0,0,0,0,0,0,27237,1100,29620,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,44,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3356,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(55,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(140,1),(141,1)}
+Murders     = {1148158692,1148177571}
+
+Inventory   = {2 Content={3083 RemainingUses=12},
+               3 Content={2866 Content={3152 Charges=1, 3152 Charges=1, 3279, 3282, 3418, 3031 Amount=24, 3031 Amount=100, 2854}},
+               4 Content={3357},
+               7 Content={3557},
+               8 Content={3556}}
+
+Depots      = {0 Content={3504 Content={2853, 2853 Content={2853 Content={2853}}, 3507 String="Olis Chico\nthais" Editor="Olis Chico"}, 2853 Content={3504 Content={3031 Amount=100, 3031 Amount=100, 3035 Amount=5, 3031 Amount=100}}, 2854, 3504 Content={3507 String="olis chico\nthais" Editor="Tandaron Asty"}, 3504 Content={2853, 3507 String="olis chico\nthais" Editor="Tandaron Asty"}, 2854 Content={2872 Content={3448 Amount=1, 3598 Amount=1, 3592}}, 3270, 3504 Content={3507 String="Olis Chico\nthais" Editor="Bebe Suave"}, 3502 Content={3447 Amount=6, 3448 Amount=1, 3066, 3275, 3056 RemainingUses=163, 3003, 3457, 2853 Content={3085 RemainingUses=200}, 2969 KeyNumber=3600}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="olis chico\nedron\n" Editor="Tandaron Asty"}, 3502}, 
+               5 Content={3504 Content={2853, 3507 String="olis chico\ndarashia" Editor="Elex Veny"}, 2853 Content={2853 Content={2853 Content={3286, 3286, 3264, 3286, 3286, 3286, 3352, 3286}, 3354, 3264, 3264, 3286, 3286, 3264, 3286}, 3264, 3264, 3264, 3264, 3264}, 2393, 3504 Content={3507 String="Olis Chico\ndarashia" Editor="Bebe Suave"}, 2868 Content={3504 Content={2854 Content={3504 Content={3507 String="olis iryar\nthais\n" Editor="Tandaron Asty"}}, 3507 String="Olis Chico\ndarashia" Editor="Olis Iryar"}}, 3552, 3375, 3084 RemainingUses=250, 3504 Content={3504 Content={3507 String="olis chico\ndarashia\n" Editor="Amen Jaan"}, 3504 Content={3507 String="Olis chico\ndarashia" Editor="Fert Nekos"}, 3483, 3507 String="Olis Chico\ndarashia" Editor="Galon Ealelar"}, 3375, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3504 Content={3031 Amount=100, 3447 Amount=9, 3409, 3563, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2854 Content={2854 Content={3275, 2991, 3592, 3598 Amount=1, 3723 Amount=4, 3582 Amount=44, 3577 Amount=100, 2866 Content={3457}, 3504 Content={3492 Amount=100, 3492 Amount=100}, 3504, 3504 Content={3300}}, 3275, 2853 Content={3093 SavedExpireTime=1795, 3003, 2969 KeyNumber=4600, 2970 KeyNumber=3899, 2969 KeyNumber=3033, 2969 KeyNumber=3600, 2970 KeyNumber=4601, 2973 KeyNumber=3520}, 3565, 2868, 3504 Content={3093 SavedExpireTime=1797, 3736 Amount=1, 3507 String="Olis Iryar\nThais" Editor="Angatalia Surod"}, 3191 Charges=1, 2854 Content={3367, 3552, 2920 SavedExpireTime=441, 3291, 3457, 3273, 2815 String="un amigo el mejor Moor Telix que nunca sea malo como los demas me lo juras\nwe respuesta aqui\n\n\nokis =)\n" Editor="Moor Telix", 3147, 3147, 3147, 3447 Amount=12, 3457, 3291, 3367, 3446 Amount=1, 3454, 3551, 3147, 3147, 3147}, 2854, 2857 Content={3008, 3083 RemainingUses=150, 3097 SavedExpireTime=3596}, 2854, 2867, 3012, 3551, 3456}}, 3457, 3504 Content={3446 Amount=8, 3483, 2866 Content={3313, 3054 RemainingUses=12, 3603 Amount=1, 3492 Amount=19, 3492 Amount=100}, 3483, 3507 String="Olis Chico\ndarashia" Editor="Olis Chico"}, 2853 Content={3372, 3377, 3377, 3377}, 3504 Content={3588 Amount=100, 3507 String="Olis Chico\ndarashia" Editor="Galon Ealelar"}, 3097, 3483, 3551, 3456, 3097 SavedExpireTime=3328, 3350, 3655, 3056 RemainingUses=200, 3502 Content={3035 Amount=18, 3446 Amount=17, 3447 Amount=2, 3426}}, 
+               8 Content={2853, 3504 Content={3410}, 3502 Content={2864 Content={3354, 3354, 3354, 3410}}}}

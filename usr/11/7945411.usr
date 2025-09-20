@@ -1,0 +1,55 @@
+ID              = 7945411
+Name            = "Flikuz"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,40-114-114-0)
+CurrentOutfit   = (133,40-114-114-0)
+LastLogin       = 1145969320
+LastLogout      = 1145970120
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32336,32222,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,84245,0,98800,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,323830,1100,355602,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12789,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,173,2000,350,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,11223,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,44,2000,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,698,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,14558,1100,15835,20)
+Skill = (14,0,1200,0,0,0,385,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,16,17,18,20,21,29,39,44,45,76,81,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(27,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(106,1),(107,1),(128,1),(190,1),(191,1),(217,3),(254,1),(333,1)}
+Murders     = {1143744445,1143745205,1144347648}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={2473, 3275, 3031 Amount=36, 2871 Content={2870 Content={3198 Charges=5, 3198 Charges=3, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3031 Amount=100}},
+               4 Content={3359},
+               5 Content={3425},
+               10 Content={3155 Charges=1}}
+
+Depots      = {0 Content={2853 Content={3035 Amount=39, 3031 Amount=100}, 2853 Content={3066}, 3059, 3031 Amount=21, 2853 Content={2867 Content={2874, 2874, 2874, 2874, 2874}}, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874}, 2853, 3448 Amount=3, 3502}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}}

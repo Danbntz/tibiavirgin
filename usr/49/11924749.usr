@@ -1,0 +1,54 @@
+ID              = 11924749
+Name            = "Akebono Lord"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,57-107-125-114)
+CurrentOutfit   = (129,57-107-125-114)
+LastLogin       = 1147997760
+LastLogout      = 1147997906
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,258735,0,262600,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,207802,1100,214735,1600)
+Skill = (2,260,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,575,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,27387,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,63,1800,84,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5252,1800,6824,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,71,1800,140,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,269,1800,302,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,303,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4915,1100,5420,20)
+Skill = (14,0,1200,0,0,0,775,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,8,9,10,27,29,42,44}
+QuestValues = {(27,1),(32,1),(33,1),(34,1),(60,1),(61,1),(96,1),(97,1),(98,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2854 Content={3602 Amount=3, 3031 Amount=84, 3446 Amount=11, 3578 Amount=2, 3492 Amount=13, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3457, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003}, 2857 Content={3457, 3164 Charges=2, 3164 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={2472, 2472 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3273, 3273, 3273, 3578 Amount=72, 3003, 2482 Content={3572, 3448 Amount=3, 3349, 3098, 3084 RemainingUses=250, 3077, 3046, 3012, 3097, 3661, 2920, 2920, 2920}, 3056 RemainingUses=200, 2472 Content={3027 Amount=2, 3026 Amount=1, 3035 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=9}, 3066, 3502 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2952, 3425, 3552, 3264, 3264, 3003, 2921 RemainingExpireTime=523, 2920 SavedExpireTime=84, 3164 Charges=3, 2920, 2920, 2955, 3003}}, 
+               3 Content={3507 String="akebono lord\nab'dendriel" Editor="Jatai", 3507 String="akebono lord\nab'dendriel" Editor="Jatai", 2853, 3286, 3264, 3505, 3502 Content={3031 Amount=67, 3031 Amount=100, 3031 Amount=100, 3447 Amount=1, 3264, 3308, 3264, 3273, 3264, 3286, 3375, 3264}}}

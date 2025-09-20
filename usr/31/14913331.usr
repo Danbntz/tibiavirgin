@@ -1,0 +1,57 @@
+ID              = 14913331
+Name            = "Gober'precioso"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-0-114-0)
+CurrentOutfit   = (128,116-0-114-0)
+LastLogin       = 1148192676
+LastLogout      = 1148192683
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32431,31613,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,17126,0,17600,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,9134,1400,11366,1600)
+Skill = (2,197,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,46,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6200,1100,6400,100)
+Skill = (7,41,0,10,0,0,0,0,0,0,0,6005,1100,6034,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,211,1200,268,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,427,1200,496,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,182,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,523,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,81,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,33,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(21,1),(23,1),(32,1),(33,1),(34,1),(59,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3354},
+               2 Content={3572},
+               3 Content={2853 Content={3031 Amount=60, 3031 Amount=100, 3457, 3003}},
+               4 Content={3359},
+               5 Content={3425},
+               6 Content={3277 Amount=7},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3031 Amount=52, 3277 Amount=5, 2969 KeyNumber=3033, 3658, 3031 Amount=100, 3504 Content={3504 Content={3504 Content={3507 String="gober'precioso\nvenore\n'xD\n" Editor="Diego Santoy'Riveroll", 2854 Content={2854 Content={2969 KeyNumber=5010, 3174 Charges=2, 3174 Charges=3, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=3, 3174 Charges=4}, 3148 Charges=3, 3148 Charges=3, 3164 Charges=3, 3147, 3492 Amount=74, 3147, 2854 Content={3404, 2853 Content={3046, 3004, 3046 SavedExpireTime=2997, 3358, 3483}, 2853 Content={3457, 3308, 3483, 3003, 3003, 3003, 3003}, 3092, 2393, 2393, 2906, 3572, 3017, 3059, 2903, 3449 Amount=12, 3275, 3275, 3275, 3093, 3093, 3093 SavedExpireTime=1795, 3093}, 3585 Amount=1, 3507 String="put the name of the person who you want to send here\nand the city,\n" Editor="Master'Pucio", 3153 Charges=1, 2863 Content={2853 Content={3585 Amount=1, 2856 Content={3035 Amount=5, 3035 Amount=100, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3391, 3066, 3065, 3066, 3066}, 2864 Content={3074, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 3557, 3351, 3572, 3425, 3069, 3357}, 3483}}, 3507 String="gober'precioso\nthais" Editor="Gober'precioso"}, 3507 String="gober'precioso\ncarlin" Editor="Gober'precioso"}, 3502}, 
+               3 Content={3502}, 
+               6 Content={2920, 2920, 2920, 2920, 2920 SavedExpireTime=380, 3504 Content={3507 String="gober'precioso\nvenore\n" Editor="Diego Santoy'Riveroll"}, 3502}}

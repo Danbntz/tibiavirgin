@@ -1,0 +1,53 @@
+ID              = 10017249
+Name            = "Leon Faryn"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (131,0-57-69-115)
+CurrentOutfit   = (131,0-57-69-115)
+LastLogin       = 1132678916
+LastLogout      = 1132678938
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,3243,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,1100,1600,1600)
+Skill = (2,180,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,1912,1500,2078,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,294,1800,302,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,577,1800,593,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,357,1800,593,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,34,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,163,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(35,1),(59,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               3 Content={2853},
+               4 Content={3358},
+               5 Content={3411},
+               6 Content={3276},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={2917 SavedExpireTime=2467}}
+
+Depots      = {0 Content={3502 Content={3552}}, 
+               6 Content={3502 Content={2853, 3578 Amount=1, 3483, 3492 Amount=35, 3425, 3266, 3362, 3552, 3374, 3352, 3430, 3274, 2853 Content={2920, 2920, 2920, 3453, 2874, 3349, 3578 Amount=11}, 3286, 3559, 3492 Amount=50, 3492 Amount=100, 2824 String="Armaments, Chapter Two, Verses Nine to Twenty-One.\n\nAnd the Lord spake, saying:\n\"First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.\"", 3374, 3409, 3031 Amount=32, 2874, 3552}}}

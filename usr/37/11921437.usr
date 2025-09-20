@@ -1,0 +1,54 @@
+ID              = 11921437
+Name            = "Juan Walya"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,94-77-82-77)
+CurrentOutfit   = (129,94-77-82-77)
+LastLogin       = 1140699075
+LastLogout      = 1140699381
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32654,31672,8]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14071,0,17600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,14088,1400,17512,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,38,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11085,1100,12109,100)
+Skill = (7,39,0,10,0,0,0,0,0,0,0,4894,1100,4934,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,1666,1200,1979,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,274,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,120,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,15,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,26,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(98,1),(106,1),(107,1),(208,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3277 Amount=1, 3031 Amount=24, 3577 Amount=2, 2969 KeyNumber=3033, 2920}},
+               4 Content={3377},
+               5 Content={3411},
+               6 Content={3277 Amount=4},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2920}}
+
+Depots      = {0 Content={3502}, 
+               3 Content={3457, 2920 SavedExpireTime=385, 3277 Amount=31, 2854 Content={3152 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3003, 2920 SavedExpireTime=112, 3308, 2969 KeyNumber=3033, 3277 Amount=100, 3412, 3421, 3502 Content={2865 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=79, 3446 Amount=100, 3446 Amount=100}, 3453, 2853 Content={3035 Amount=4, 3031 Amount=54}, 2853 Content={3349, 3448 Amount=11, 3350}, 3456}}, 
+               6 Content={3502 Content={3277 Amount=3, 2821 String="Royal Archives - 943 p.g\n\nConcerns: City graveyard\n\nHRH has ordered an expansion of the city graveyard to the east, due to the increased demand for resting places. It is hoped that the eastward expansion will avoid problems with the undead experienced with previous graveyards closer to the city entrance."}}}

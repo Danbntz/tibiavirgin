@@ -1,0 +1,60 @@
+ID              = 9245723
+Name            = "Burco the Dark"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,114-95-57-95)
+CurrentOutfit   = (133,114-95-57-95)
+LastLogin       = 1148075881
+LastLogout      = 1148076199
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,677952,0,717600,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,534269,1100,582469,1600)
+Skill = (2,311,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,193,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,48351,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,6918,2000,12750,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,978,2000,1550,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,161,2000,350,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,424,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,260,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,17,18,19,20,22,23,25,26,27,28,29,30,38,39,44,45,50,76,78,81,83,86,87,88,89,90}
+QuestValues = {(20,1),(33,1),(34,1),(35,1),(37,1),(54,1),(59,1),(60,1),(61,1),(76,1),(77,1),(78,1),(84,1),(85,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(143,1),(190,1),(191,1),(217,3),(223,1),(253,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3457, 3035 Amount=18, 3031 Amount=99, 2871 Content={2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}},
+               4 Content={3381},
+               5 Content={3428},
+               6 Content={3071},
+               7 Content={3371},
+               8 Content={3079},
+               10 Content={2854 Content={2854 Content={2854 Content={2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502 Content={3097, 3083 RemainingUses=150, 2874, 3351, 3419, 3504 Content={2854 Content={3042 Amount=10, 3042 Amount=10, 3447 Amount=10, 3070, 3174 Charges=5, 3046, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Bloodhall\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2992 Amount=5, 3448 Amount=5, 3505, 3446 Amount=6, 2854 Content={3093, 2870 Content={2874, 2874}}, 3065, 2868 Content={2969 KeyNumber=3008, 3054 RemainingUses=149, 2970 KeyNumber=3012, 3051, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 3042 Amount=1, 3457, 3003, 2857 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3504 Content={3674, 3283, 3275, 3349, 2853, 3353, 3351, 3353}, 2869 Content={2650, 2667, 2659, 2667, 2469, 3059, 3046 SavedExpireTime=2991, 3391, 3298 Amount=1, 2981, 3307, 3297, 3279, 3085 RemainingUses=200, 3081 RemainingUses=5, 3297, 2867 Content={2868 Content={2647, 2667, 2656, 3054 RemainingUses=71, 3577 Amount=1, 2650, 3582 Amount=11, 2854 Content={2955, 3056 RemainingUses=200, 3062, 3093 SavedExpireTime=1049, 2659, 3017, 2473 Content={2644, 2638, 2861 Content={2656, 3578 Amount=2, 2992 Amount=1, 2653, 3046 SavedExpireTime=3000, 3446 Amount=1, 3031 Amount=37, 3031 Amount=100}, 3505 String="Tylko cos wezmisz z tej szawki to masz hunta ( Oprucz Burco the Dark )\n\nPOZWOLISZ ZE SIE DOPISZE KTOS MI ZWALOWAL MOJE RZECZY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ok spoko dopisz  sie burco" Editor="Mariuszziom", 3042 Amount=1, 2974, 2855 Content={2853 Content={3003}, 3074, 3353, 3558}, 2973 KeyNumber=3520, 3481}, 3505 String="                        WITAM\nto jest szafka moja(Mariuszziom,Bibi of zenera i Burco the Dark) wiec bardzo prosze nie zabierac z niej zadnych rzeczy\n\n\n                                                                     Dzieki" Editor="Mariuszziom", 2853, 3031 Amount=97, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=4}, 2653, 2977, 2650, 2659, 2647, 3277 Amount=60, 3093, 3074, 2667, 2469, 2647}, 2653, 3053 SavedExpireTime=591, 3287 Amount=100, 3287 Amount=2, 3049, 3052, 3029 Amount=13, 3044 Amount=4, 3589 Amount=51, 3033 Amount=17}, 3081 RemainingUses=5}, 3603 Amount=7, 3503 Content={2667, 2874, 2469 Content={3046, 3297, 3093, 2667, 3198 Charges=1, 3286, 2991, 2656}, 2874, 3275, 3734 Amount=1, 3085 RemainingUses=200, 3042 Amount=10, 3599 Amount=1, 3349}, 3503 Content={3004, 3076, 3734 Amount=1, 3582 Amount=3, 3577 Amount=5, 2647, 3547 Amount=1, 2647, 2647}, 2869 Content={2667, 3066, 3007, 3052 SavedExpireTime=872, 3289, 3287 Amount=1, 2469 Content={3083 RemainingUses=150}, 2469 Content={2991, 3042 Amount=1, 3083 RemainingUses=117}, 3275, 3429, 3031 Amount=100, 3035 Amount=100, 3035 Amount=100, 3043 Amount=4, 3552, 3351, 3046}, 2853 Content={3210, 2472 Content={2469, 2469, 3351, 3350, 3042 Amount=10, 3042 Amount=10, 3198 Charges=1, 2656, 2656, 2903, 3372, 3449 Amount=6, 3547 Amount=4, 2656, 3305}, 2866 Content={3174 Charges=5, 3083 RemainingUses=32, 3097 SavedExpireTime=3307, 3056 RemainingUses=200, 3077, 3045 RemainingUses=200, 3174 Charges=5, 3174 Charges=1, 4871, 3492 Amount=1, 3031 Amount=100, 3056 RemainingUses=200, 3092}, 3446 Amount=13, 3031 Amount=20, 3085 RemainingUses=64}, 2853 Content={3584 Amount=1, 3589 Amount=1}, 3504 Content={3017, 3077, 2647, 2659, 2992 Amount=15, 2650, 3599 Amount=1, 2659, 2914, 3736 Amount=1}, 3283, 2874, 3283, 3289, 3448 Amount=5, 3446 Amount=8, 3017, 2854 Content={3446 Amount=24, 3492 Amount=50}, 2472 Content={2829, 3506 String="Burco the Dark\nthais\n\n\njak bedziesz wyslijmi parcelemm rzeczy moje z GH roszczki tampersty itd.. thx" Editor="Kubaa of Zanera", 2989, 3406, 2644, 2991, 2393, 2664 RemainingExpireTime=108, 3425, 3327, 3457, 3375}, 2854 Content={3446 Amount=7, 3177 Charges=1, 3448 Amount=7, 3350, 3583 Amount=1, 3299, 3563}, 3056 RemainingUses=199, 2821 String="This week's specials:\n\n* Hot dog (real dog-meat! no fake!)\n* Chien chaud a la Trolloise\n* Pizza dog e salmone\n* Doggi Goreng\n* Doggenwurst with Sauerkraut\n* Dog Suey\n* T-Bone Dog\n", 2973 KeyNumber=3520, 2839 String="MEOW", 2857}}, 
+               1 Content={3504 Content={3507 String="Burco the Dark\nCarlin" Editor="Lukasz Druidos"}, 3504 Content={3507 String="Burco the dark\nCarlin" Editor="Koko the Dark"}, 3504 Content={3507 String="Burco the dark\nCarlin" Editor="Burco the Dark"}, 3502 Content={2955, 2853, 2469 Content={2853}, 2854 Content={3305, 2853 Content={2955, 3003, 3119, 3291, 3658, 3448 Amount=1}, 3097, 3003, 2973 KeyNumber=3520, 2854 Content={2920 SavedExpireTime=569, 2854, 3003, 3457}, 2815 Editor="Fofo pelao"}, 3661, 2866 Content={3598 Amount=37, 3740 Amount=1}, 3504 Content={3291, 3293, 3446 Amount=1, 3504 Content={3504, 3504, 3507 String="Mushroom blackdruid\ncarlin\napocalixis\n" Editor="Apocalixis"}, 3507 String="Burco the Dark\nCarlin" Editor="Telfir Nailo", 3462, 3507 String="Beadip\nCarlin" Editor="Beadip"}, 3462, 2970 KeyNumber=3801, 3504, 3504 Content={3483, 3084 RemainingUses=250, 3077, 2869}, 2829, 3008, 3504 Content={3056 RemainingUses=200, 2969 KeyNumber=4600, 3456, 3736 Amount=1}, 3483, 2992 Amount=10, 3451, 3483, 3504 Content={2853 Content={2853, 2874, 2853}, 3741 Amount=1, 3505 String="  (-.-)\n<|  S  |>\n_| |  | |_" Editor="Migis Knight Gir", 3270, 2906, 2920, 2922 SavedExpireTime=217, 2969 KeyNumber=4600, 2973 KeyNumber=3520}, 3454, 3455, 2911, 3291, 2973 KeyNumber=3520}}, 
+               3 Content={3502 Content={3504 Content={3507 String="Burco the Dark\nAb'dendriel" Editor="Burco the Dark"}}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="burco the dark\ndarashia" Editor="Thanal"}, 3502 Content={3286, 3286, 3286, 3286, 3147, 2853 Content={3446 Amount=28}}}, 
+               6 Content={3504 Content={3507 String="Burco the Dark\nVenore" Editor="Heyah Kamas", 3031 Amount=77, 3505 String="Czesc wez mi dopisz (Protected by Sakruz) prosze cie a to dla ciebie kasa za to ze zrobisz to :)" Editor="Heyah Kamas"}, 3502}, 
+               7 Content={3502 Content={2854 Content={2659, 2949, 2650, 2650, 2656, 2656, 2650}, 3464, 3464, 3466, 2659, 3059, 2854, 3548 Amount=1, 3547 Amount=1, 2868, 2865 Content={3507 String="Burco the Dark hunting here \nplx respect it \nMSG first" Editor="Burco the Dark"}, 3294, 3299, 2863 Content={3603 Amount=2, 3147, 3583 Amount=2}, 3504 Content={3446 Amount=30, 3503 Content={3577 Amount=9, 3507}, 2854, 3507 String="Burco the Dark\nAnkrahmun" Editor="Thanal"}, 3583 Amount=1, 3446 Amount=14, 2856 Content={3285, 3285, 2853 Content={3285}, 2871}, 2857 Content={2471 Content={3409, 3327, 3327, 3330}}, 3504 Content={2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 3008, 2920, 2874, 2969 KeyNumber=3033}, 2472 Content={2871, 3003, 3577 Amount=3, 3457}, 2473 Content={3072, 3299, 3299, 3066, 3045 RemainingUses=200}, 2473, 2853 Content={3046}}}, 
+               8 Content={3502}}

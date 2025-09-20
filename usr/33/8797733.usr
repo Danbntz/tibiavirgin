@@ -1,0 +1,55 @@
+ID              = 8797733
+Name            = "Sir barba roja"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (128,1-57-114-78)
+CurrentOutfit   = (128,1-57-114-78)
+LastLogin       = 1147987246
+LastLogout      = 1147989094
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31674,6]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,262965,0,295200,100)
+Skill = (1,41,0,0,0,0,0,0,0,0,0,818122,1100,860219,1600)
+Skill = (2,192,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,41701,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,250,1800,302,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1641,1800,2063,50)
+Skill = (10,20,0,10,0,0,0,0,0,0,0,27385,1800,40105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,71,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6188,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,8,9,10,16,20,29,39,42,44,45,76,81}
+QuestValues = {(84,1),(85,1),(86,1),(87,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2865 Content={3446 Amount=1, 3603 Amount=1, 3155 Charges=1, 3457, 3198 Charges=4, 3198 Charges=5, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=598}}
+
+Depots      = {0 Content={2853 Content={3031 Amount=32, 3031 Amount=100}, 3155 Charges=1, 3155 Charges=1, 3583 Amount=1, 2865, 2473 Content={3367, 2471 Content={2473, 2983, 2472, 3378, 3375}, 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 21\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 21\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 21\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 21\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house."}, 2853 Content={3085 RemainingUses=200, 3012, 3456, 3448 Amount=4, 3054 RemainingUses=183}, 3502 Content={3059}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={2854 Content={3070}, 2867, 3503 Content={3275, 3092 SavedExpireTime=1776, 3377, 3457, 3375, 3316, 3410, 3286, 3285, 3289}, 3323, 3492 Amount=34, 3658, 3504 Content={3314, 3507 String="sir barba roja\nab'dendriel" Editor="Tankez", 2866, 3552, 3559}, 2853 Content={3277 Amount=2, 3083 RemainingUses=150}, 2871 Content={3273, 3492 Amount=60, 3430}, 3502 Content={3603 Amount=19, 2857 Content={2857, 3077, 3084 RemainingUses=250}, 3056 RemainingUses=200}}, 
+               4 Content={3035 Amount=1, 3483, 3085 RemainingUses=200, 3673, 3502 Content={3304, 3054 RemainingUses=200, 3083 RemainingUses=144, 3276}}}

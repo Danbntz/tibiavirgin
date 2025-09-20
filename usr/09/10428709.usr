@@ -1,0 +1,55 @@
+ID              = 10428709
+Name            = "Jeblix Tatulanius"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,85-114-114-114)
+CurrentOutfit   = (129,85-114-114-114)
+LastLogin       = 1148226449
+LastLogout      = 1148229065
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,602179,0,658000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,254535,1400,313485,1600)
+Skill = (2,423,455,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,432,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,104,104,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1010,1010,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,31419,1100,33003,100)
+Skill = (7,66,0,10,0,0,0,0,0,0,0,66630,1100,68328,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,27,1200,50,50)
+Skill = (9,24,0,10,0,0,0,0,0,0,0,3085,1200,3601,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,84,1200,109,50)
+Skill = (11,31,0,10,0,0,0,0,0,0,0,12622,1200,13551,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,249,1100,271,20)
+Skill = (14,0,1200,0,0,0,161,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,11,20,29,42,45,48,49,51}
+QuestValues = {(20,1),(21,1),(35,1),(37,1),(38,1),(39,1),(55,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(115,1),(121,1),(140,1),(141,1),(143,1),(144,1),(145,1),(146,1),(147,1),(153,1),(190,1),(191,1),(217,3),(226,1),(253,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               3 Content={2868 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3425, 2968 KeyNumber=3940, 3003}},
+               4 Content={3381},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3079},
+               10 Content={3446 Amount=31}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3504 Content={3507 String="jeblix tatulanius\nthais" Editor="Jeblix Tatulanius", 3286, 3413, 3285, 3285, 2853 Content={3285, 3286}, 3285}, 2853 Content={3264}, 3264, 3285, 3285, 3264, 3264, 3409, 3286, 3507 String="jeblix tatulanius \nthais\n" Editor="Jeblix Tatulanius"}, 2853, 3065, 3282, 3353, 3282, 3265, 3265, 3507 String="jeblix tatulanius \nthais\n\n" Editor="Jeblix Tatulanius"}, 2853 Content={3035 Amount=37, 2854 Content={3031 Amount=93}}, 3504 Content={2866 Content={3275, 3359, 3269, 3282, 3282, 3409, 3367, 3046 SavedExpireTime=2971, 3046, 3367, 3367, 3367, 3367, 3413, 3285, 3285, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9}, 2854 Content={3353, 3282, 3285, 3285, 3449 Amount=21, 3447 Amount=100, 3448 Amount=7}, 2854 Content={2853 Content={3305, 3305, 3265, 3265, 3282}, 3286, 3372, 3367, 3286, 3367, 3409, 3282, 3285, 3285, 3367, 3367, 3372, 3313, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3425, 3313, 3301, 3425}, 2857 Content={3285, 3285, 3285, 3367, 3367, 3286, 3271, 3301}}, 2482 Content={3503 Content={3492 Amount=81, 2854 Content={2969 KeyNumber=3610, 2969 KeyNumber=3650, 2969 KeyNumber=3008, 3065, 3065, 3734 Amount=1, 3357, 3065, 3572, 2991, 2969 KeyNumber=3600, 2991, 2991}}, 3503 Content={3078, 2969 KeyNumber=5000, 1781 Amount=14, 3078, 3203 Charges=1, 3277 Amount=32, 2992 Amount=5, 2914 SavedExpireTime=635, 3287 Amount=48, 3046}, 3504 Content={2854 Content={3483, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3062, 3017, 3027 Amount=2, 3029 Amount=5, 3028 Amount=6, 3033 Amount=1, 3030 Amount=3}}, 3504 Content={3457, 3289, 3735 Amount=1, 3459, 3551, 3289, 3316, 3457}}, 3502 Content={2853 Content={3463, 2989, 3285, 3285, 3059, 3059}, 2853 Content={3284 RemainingUses=1, 3297, 3081 RemainingUses=5, 3051, 3097, 3097, 3085 RemainingUses=200, 3054 RemainingUses=200}, 2853 Content={3600 Amount=1, 3597 Amount=3, 3601 Amount=1, 3586 Amount=1, 3603 Amount=1}, 2853 Content={3456, 3293, 3308, 3469, 3451, 2969 KeyNumber=4600, 2969 KeyNumber=3600, 3605 Amount=1}, 2853 Content={3085 RemainingUses=200, 3097, 3004, 3076, 3082 RemainingUses=50, 3008, 3012, 3299}, 2853 Content={3083 RemainingUses=150, 3085 RemainingUses=193, 3084 RemainingUses=21, 3056 RemainingUses=200, 3008, 3056 RemainingUses=200, 3083 RemainingUses=145}}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={2854 Content={3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353, 3353}, 3507 String="jeblix tatulanius\nkazordoon" Editor="Jeblix Tatulanius"}, 3504 Content={3266, 3266}, 3504 Content={3349, 3349}, 3502}, 
+               3 Content={3504 Content={3507 String="Jeblix Tatulanius\nAb'dendriel" Editor="Claude Aldebaran", 3277 Amount=4}, 3504 Content={3507 String="jeblix tatulanius\nab'dendriel" Editor="Birayn Levontus"}, 3504 Content={3277 Amount=6}, 3502}, 
+               6 Content={3502}}

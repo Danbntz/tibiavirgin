@@ -1,0 +1,60 @@
+ID              = 10153522
+Name            = "Warrior Camus"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,2-114-114-2)
+CurrentOutfit   = (134,2-114-114-2)
+LastLogin       = 1147147803
+LastLogout      = 1147149985
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32645,31919,8]
+PlayerkillerEnd = 0
+
+Skill = (0,57,0,1,0,0,0,0,0,0,1,2860432,0,2931700,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,440291,3000,582400,1600)
+Skill = (2,920,920,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,126,126,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1695,1695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,236327,1100,250637,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,38,1400,71,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,63,1100,105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,72,0,10,0,0,0,0,0,0,0,187917,1100,202132,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,83,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,30,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80}
+QuestValues = {(14,1),(15,1),(16,1),(46,1),(50,1),(59,1),(69,1),(72,1),(73,1),(88,1),(89,1),(90,1),(91,1),(92,1),(99,1),(106,1),(107,1),(111,1),(112,1),(134,1),(137,1),(151,1),(152,1),(154,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(217,3),(253,1),(257,1),(269,1),(332,1)}
+Murders     = {1145045686,1145129292}
+
+Inventory   = {1 Content={3367},
+               3 Content={2866 Content={3075, 3577 Amount=18, 3723 Amount=32}},
+               4 Content={3357},
+               6 Content={3266},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={2870, 3507 String="warrior camus\nthais" Editor="Warrior Camus"}, 3504 Content={2853, 3507 String="warrior camus\nthais" Editor="Warrior Camus"}, 3012, 3430, 3504 Content={2870, 3507 String="warrior camus\nthais" Editor="Warrior Camus"}, 3504 Content={3507 String="warrior camus\nthais" Editor="Hiknos"}, 2853, 3292, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 3286, 3286, 2866 Content={2854, 2870, 2870, 2854, 2870, 2854, 2854}, 2638, 2635, 2865 Content={3355, 3308, 3451, 3307}, 3059, 2854 Content={3298 Amount=1, 3509, 3451}, 3483, 3483, 3502 Content={2970 KeyNumber=3800, 3268, 3506 String="Warning!\n\nThe monthly rent of 1300 gold\nfor your house \"Mill Avenue 1 (Shop)\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 2955, 2955, 2865 Content={2667, 2656, 2653, 2647, 2647, 2656, 2667, 2647, 2659, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647}, 3506 String="Warning!\n\nThe monthly rent of 1300 gold\nfor your house \"Mill Avenue 1 (Shop)\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3012, 3506 String="Warning!\n\nThe monthly rent of 1300 gold\nfor your house \"Mill Avenue 1 (Shop)\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house."}}, 
+               1 Content={3504 Content={3507 String="warrior camus\ncarlin\n\n"}, 3502}, 
+               2 Content={3293, 3504 Content={2893, 3507 String="warrior camus\nkazordoon" Editor="Pewikan Souron"}, 3504 Content={2870, 3507 String="warrior camus \nkazordoon" Editor="Taleron"}, 3349, 3003, 2854 Content={3285, 2854 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={2853 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 2853 Content={2857, 3349, 3349, 3349, 3349, 3349}, 3349, 3349}, 3349, 3349, 3349, 3349, 3349}}}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The Farms 5\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2871 Content={3404, 3082 RemainingUses=50, 3449 Amount=30, 2854 Content={3350}, 2854 Content={3074, 3441, 3282, 3007, 3031 Amount=5, 2992 Amount=7, 3046 SavedExpireTime=2997, 3046}, 2854, 3092 SavedExpireTime=1569, 3092 SavedExpireTime=1177, 3007, 3265, 3297, 3289, 3075, 2952, 3076, 3084 RemainingUses=250}, 3587 Amount=40, 3593, 3586 Amount=7, 3589 Amount=4, 3593, 3593, 3577 Amount=54, 3582 Amount=62, 3578 Amount=7, 3577 Amount=100, 3577 Amount=100}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="warrior camus\nedron\n"}, 3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={2867 Content={2853}, 3507 String="warrior camus\nvenore" Editor="Warrior Camus"}, 3504 Content={3507 String="warrior camus\nvenore" Editor="Warrior Camus"}, 3349, 3349, 3377, 3349, 3504 Content={3457, 3507 String="warrior camus \nvenore" Editor="Warrior Camus"}, 3504 Content={3457, 3507 String="warrior camus\nvenore" Editor="Warrior Camus"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3577 Amount=32, 3587 Amount=75, 3593, 3586 Amount=62, 3577 Amount=100, 3593, 3582 Amount=37, 3577 Amount=100, 3587 Amount=100, 3577 Amount=100, 3589 Amount=64, 3502 Content={3357, 3357, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}}}

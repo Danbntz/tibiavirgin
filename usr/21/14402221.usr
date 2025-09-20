@@ -1,0 +1,59 @@
+ID              = 14402221
+Name            = "Hijo de Zayuri of Zanera"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,94-114-114-114)
+CurrentOutfit   = (134,94-114-114-114)
+LastLogin       = 1148252309
+LastLogout      = 1148252668
+StartPosition   = [33217,31814,8]
+CurrentPosition = [32683,31806,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,133454,0,135100,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,111899,1400,157982,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,44,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7560,1100,7954,100)
+Skill = (7,56,0,10,0,0,0,0,0,0,0,24360,1100,26159,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,236,1200,268,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,233,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,531,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,638,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,75,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,95,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,51,79}
+QuestValues = {(27,1),(32,1),(33,1),(34,1),(35,1),(67,1),(68,1),(69,1),(71,1),(86,1),(87,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2868 Content={3577 Amount=10, 3031 Amount=9, 3447 Amount=1, 3447 Amount=100, 3003}},
+               4 Content={3381},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3425, 3059, 3447 Amount=46, 3031 Amount=76}}, 
+               3 Content={3003, 3447 Amount=50, 2874, 3035 Amount=6, 2969 KeyNumber=3033, 3266, 3003, 3266, 3483, 3504 Content={3316, 3316, 3316, 3316, 3316}, 2854 Content={3425}, 2868 Content={3586 Amount=1, 3587 Amount=5}, 2854 Content={3084 RemainingUses=250, 2854 Content={2854 Content={2853}}, 2866 Content={2871 Content={2857, 2867, 2853 Content={2872, 2853}, 2853 Content={2872}, 2865 Content={2867}, 2867}, 2875, 2877}, 2869 Content={3084 RemainingUses=229}, 2854 Content={3301}, 2865 Content={3301, 3054 RemainingUses=189, 3308}, 3042 Amount=1}, 2857 Content={2969 KeyNumber=4603, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2969 KeyNumber=4600, 2969 KeyNumber=4600}, 3502 Content={2914 SavedExpireTime=1442, 2914 SavedExpireTime=1988, 2920 SavedExpireTime=557, 2920 SavedExpireTime=562, 3457}}, 
+               4 Content={3264, 3286, 2865 Content={3031 Amount=44, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=1}, 3286, 3377, 3504 Content={3504 Content={3336, 3507 String="gasnatee\nedron", 2853 Content={2853, 3453, 3083 RemainingUses=150}}, 3504, 3507 String="gasnatee\nedron", 3504, 3507 String="Gasnatee\nedron", 3507 String="Petoz\nEdron" Editor="Peke Cachonda", 3504}, 3502 Content={2865, 2866 Content={3582 Amount=1, 3577 Amount=1, 3577 Amount=100, 3578 Amount=100, 3582 Amount=100, 3577 Amount=100, 3582 Amount=100, 3577 Amount=100, 3577 Amount=100, 3578 Amount=100, 3582 Amount=100}, 2854}}, 
+               5 Content={2854 Content={3264, 3286, 2874, 3286, 3286, 3286, 3286, 3410, 2874, 2874, 3354}, 2854 Content={3083 RemainingUses=150, 3425, 3277 Amount=1}, 2854 Content={3349, 3446 Amount=15, 3457, 2920 SavedExpireTime=341, 3003, 3372}, 2866 Content={3577 Amount=35, 3582 Amount=37}, 3502 Content={2870, 2870 Content={2870}, 3483, 3425}}, 
+               6 Content={3504 Content={3507 String="hijo de zayuri of zanera\nvenore\n" Editor="Laun Krian"}, 3502}, 
+               8 Content={3031 Amount=100, 3035 Amount=14, 2869 Content={2853 Content={2866 Content={2866, 2866}, 3003, 3457, 3349}, 2920, 2920, 2920, 2920}, 3502 Content={3447 Amount=66, 3447 Amount=100, 3577 Amount=80, 3577 Amount=100, 3598 Amount=4, 3578 Amount=39, 3582 Amount=52}}}

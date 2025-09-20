@@ -1,0 +1,52 @@
+ID              = 12943563
+Name            = "Filo the Ancient Warlock"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,132-114-115-114)
+CurrentOutfit   = (130,132-114-115-114)
+LastLogin       = 1140538784
+LastLogout      = 1140539843
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31785,5]
+PlayerkillerEnd = 1142708170
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,95355,0,98800,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,58907,1100,64871,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14403,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,3,2000,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1094,2000,1550,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,156,2000,350,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,15,19,20,25,27,29,44}
+QuestValues = {(32,1),(33,1),(34,1),(59,1),(60,1),(61,1),(69,1),(96,1),(97,1),(125,1),(126,1),(223,1),(332,1),(333,1)}
+Murders     = {1140115859,1140116067,1140116170}
+
+Inventory   = {1 Content={3375},
+               4 Content={3359},
+               5 Content={3425},
+               6 Content={3305},
+               7 Content={3362},
+               10 Content={2906}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 3276}, 3349, 3349, 3349, 3276, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3507 String="Filo the Ancient Warlock\nThais" Editor="Filo the Ancient Warlock", 3276, 3276, 3276}, 3504 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3507 String="Filo the Ancient Warlock\nThais" Editor="Filo the Ancient Warlock"}, 3504 Content={3266, 3349, 3349, 3349, 3349, 3349, 3349, 3507 String="FIlo the Ancient Warlock\nThais" Editor="Filo the Ancient Warlock"}, 3504 Content={3507 String="Filo the Ancient Warlock\nThais" Editor="Filo the Ancient Warlock"}, 3502}, 
+               1 Content={3504 Content={3446 Amount=100, 3377, 3377, 2853 Content={3377, 3446 Amount=100, 3446 Amount=100, 2874, 2874, 2874, 2874, 2874}, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3507 String="Filo the Ancient Warlock\nCarlin" Editor="Filo the Ancient Warlock"}, 3504 Content={3507 String="FIlo the Ancient Warlock\nCarlin" Editor="Filo the Ancient Warlock"}, 2854 Content={3092, 3164 Charges=3, 3266, 3266, 3358, 3266}, 2853, 3502 Content={3425, 3425, 3026 Amount=1, 3097 SavedExpireTime=3590, 3092, 3188 Charges=3, 3031 Amount=1, 3505 String="Filo the Ancient Warlock is hunting here\nplease do not disturb \nand leave" Editor="Filo the Ancient Warlock", 2920 SavedExpireTime=205, 2920, 2920, 2920, 3031 Amount=70, 3349, 3189 Charges=2, 2920 SavedExpireTime=595, 2920 SavedExpireTime=515, 2920 SavedExpireTime=528, 3266, 3316, 3723 Amount=33, 2973 KeyNumber=3520, 1781 Amount=10, 3600 Amount=22}}, 
+               2 Content={3031 Amount=14, 3035 Amount=3, 3031 Amount=100, 3446 Amount=92, 2868, 2854, 3031 Amount=100, 3003, 3457, 3503 Content={3504 Content={3349, 3349, 3349, 3349, 3349, 3507 String="Light Soul\nKazordoon" Editor="Light Soul"}, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3507 String="Filo the ancient warlock\nThais" Editor="Filo the Ancient Warlock"}, 3377, 3723 Amount=32, 2874, 3579 Amount=2, 3446 Amount=100, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3502 Content={3031 Amount=67, 3031 Amount=100, 3071, 3050, 3097, 3097, 3056 RemainingUses=200, 2874, 3056 RemainingUses=200, 3035 Amount=30, 3411, 3266, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3003, 3003, 3723 Amount=32}}}

@@ -1,0 +1,59 @@
+ID              = 8035534
+Name            = "Lord Rand"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (130,114-116-114-114)
+CurrentOutfit   = (130,114-116-114-114)
+LastLogin       = 1145442681
+LastLogout      = 1145443113
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33221,32464,6]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,413572,0,452600,100)
+Skill = (1,52,0,0,0,0,0,0,0,0,0,2463704,1100,2483955,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,143,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22791,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,17390,1800,22252,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,24,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,10,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,78,0,10,0,0,0,0,0,0,0,132072,1100,143390,20)
+Skill = (14,0,1200,0,0,0,1036,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,197,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,11,12,15,16,17,18,20,25,27,29,30,33,39,44,50,76,81,84,87,88,89}
+QuestValues = {(35,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(190,1),(191,1),(217,3),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3084 RemainingUses=111},
+               3 Content={2854 Content={3578 Amount=10, 2854 Content={3147}, 2857, 3003}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3147},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Lord Rand\ncarlin\n"}, 3502 Content={}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={2473 Content={3359, 3322, 3456, 2858}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2871 Content={3504 Content={3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285}, 3285, 3285}, 2471 Content={2473 Content={2872 Content={2864 Content={2970 KeyNumber=3800, 2970 KeyNumber=4601, 2973 KeyNumber=5050, 2969 KeyNumber=5000}, 2857 Content={2972 KeyNumber=3304, 2970 KeyNumber=3303, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 3505 String="Bright sword quest nycklar."}, 2854 Content={3507 String="postman quest... 20 bones dirty fur.moldy cheese mm.", 3104, 3105, 3120, 3115, 3115, 3115}, 2969 KeyNumber=3650, 2970 KeyNumber=3801, 2969 KeyNumber=5000, 2969 KeyNumber=3600, 2969 KeyNumber=3610}, 2871 Content={3091, 3091, 3091, 3091}, 2865 Content={3008, 3008, 3008, 3008}, 2471 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200}, 2469 Content={3083 RemainingUses=52, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}, 2866 Content={3056 RemainingUses=200, 3056 RemainingUses=184, 3056 RemainingUses=200, 2854 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=197, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}}, 2854 Content={3098, 3093, 3097 SavedExpireTime=3556, 3097, 3007, 3007, 3007, 3007, 3007, 3007}}, 2472 Content={3454, 2874 ContainerLiquidType=11}, 2471 Content={3456, 3456, 3456, 3483, 3483, 3003}, 2471 Content={1781 Amount=1, 3277 Amount=6, 3349, 3447 Amount=5, 3446 Amount=26}, 2471 Content={3377, 3563, 3572, 3375, 3377}}, 3507 String="lord rand\ndarashia\n"}, 2469, 2472 Content={2482 Content={2853 Content={3153 Charges=1, 3153 Charges=1, 2969 KeyNumber=4603, 2969 KeyNumber=4603}}}, 2471 Content={2920 SavedExpireTime=369, 2920, 2920 SavedExpireTime=123, 3483, 3003}, 3504 Content={3504 Content={3504, 3504 Content={3507 String="paxan citizen\ndarashia"}, 3504 Content={3507 String="paxan citizen\ndarashia"}, 3504, 3504 Content={3507 String="lord rand\ndarashia\n"}, 3504, 3504, 3504, 3504, 3504}, 2853 Content={2853}}, 2874 ContainerLiquidType=11, 3502}, 
+               7 Content={3502}, 
+               8 Content={3264, 3578 Amount=19, 3457, 3483, 3035 Amount=1, 3502}}

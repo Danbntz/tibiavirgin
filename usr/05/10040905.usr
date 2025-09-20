@@ -1,0 +1,49 @@
+ID              = 10040905
+Name            = "Jeff bolter"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,77-114-114-114)
+CurrentOutfit   = (134,77-114-114-114)
+LastLogin       = 1144007673
+LastLogout      = 1144008098
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33128,32846,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,125252,0,135100,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,166640,1400,222775,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,27,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,23965,1100,24547,100)
+Skill = (7,43,0,10,0,0,0,0,0,0,0,6735,1100,7364,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,33,0,10,0,0,0,0,0,0,0,16710,1200,19624,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,40,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,946,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3007,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,15,29,30,42,44,48,49,51,76,79,81}
+QuestValues = {(32,1),(33,1),(34,1),(55,1),(84,1),(85,1),(86,1),(87,1),(100,1),(106,1),(107,1),(115,1),(125,1),(126,1),(128,1),(140,1),(141,1),(153,1),(190,1),(191,1),(217,3),(223,1),(257,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 3483, 3457, 3273, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3017, 3056 RemainingUses=200, 2469, 3059, 2854 Content={3377, 3377, 3736 Amount=1, 3330}, 2471 Content={3492 Amount=45, 3590 Amount=3, 3600 Amount=5, 3578 Amount=2, 3582 Amount=3, 3601 Amount=2, 2471 Content={3585 Amount=26, 3600 Amount=13}, 3588 Amount=100, 3602 Amount=6, 3590 Amount=9}, 2473 Content={3091, 3266, 3359}, 2473 Content={1781 Amount=32, 2854 Content={3083 RemainingUses=145, 3410}, 3308, 3012, 3012, 3012, 3012}, 3502 Content={3551, 3012, 3367, 3012, 2920, 3457, 3410, 3457, 2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854}}}}}}}, 
+               2 Content={3502 Content={}}, 
+               4 Content={3270, 3264, 3336, 3502}, 
+               5 Content={3502 Content={}}, 
+               7 Content={3502}}

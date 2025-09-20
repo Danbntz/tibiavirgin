@@ -1,0 +1,57 @@
+ID              = 11476594
+Name            = "Luce Acris"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,76-127-114-114)
+CurrentOutfit   = (137,76-127-114-114)
+LastLogin       = 1148171999
+LastLogout      = 1148177868
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32667,32325,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,44325,0,47000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,40988,1100,44759,1600)
+Skill = (2,218,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6278,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,364,1800,593,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,5,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,428,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,54,1100,66,20)
+Skill = (14,0,1200,0,0,0,480,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,7,10,11,20,26,29,42,44}
+QuestValues = {(21,1),(22,1),(23,1),(27,1),(29,1),(32,1),(33,1),(34,1),(37,1),(55,1),(58,1),(59,1),(140,1),(141,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=58, 3031 Amount=100, 2853 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3160 Charges=1, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3070},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={2921 RemainingExpireTime=259}}
+
+Depots      = {0 Content={3066, 3504, 2867 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=32, 2853 Content={2854 Content={3483, 3492 Amount=17, 3457, 3003}, 3583 Amount=1, 3267, 3377}}, 3059, 3504 Content={2870 Content={3076, 3551, 3383, 2854 Content={2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 2865 Content={3505, 3505 String="ty downie :P\n" Editor="Gobart Aran"}, 2854 Content={3599 Amount=6, 2970 KeyNumber=4601, 2970 KeyNumber=3802, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2969 KeyNumber=4603, 2969 KeyNumber=3600}}}, 2866 Content={3085 RemainingUses=125, 2857, 2863, 3492 Amount=25, 3299}, 2853 Content={2920 SavedExpireTime=596, 2920, 2920, 2920}, 2867 Content={2867, 2870 Content={2870}, 3504 Content={3265, 3375, 3275, 3316, 3279, 3299}, 2872 Content={3084 RemainingUses=205, 2854, 2872}, 2868 Content={3012, 2868 Content={2870 Content={3492 Amount=81, 3552, 3452, 3451, 3483, 2853 Content={2874}}, 2867 Content={2854 Content={3736 Amount=1, 3661, 3120, 3661, 3661, 2815 String="Hola lucy ya te kiero bolver a ablar aora todos los dias nos bemos a las 2:00 pls ya kiero bolver a estar contigo te extraño mucho pls pls conectate." Editor="Luce Acris", 2815 String="Hola\nTe extraño mucho me ases mucha falta todos los dias los cuento estoy esperando tu regreso jaja se escucho muy cursi eso jaja no me agas caso estoy loco jejej te kiero mucho jeje te compre una arma muy padre me costo 2k  :) bye te amo.\nAtte: Juan" Editor="Luce Acris", 3283, 3463, 2854, 3410}, 2872 Content={3459, 3483, 3483, 3456}, 2871, 3492 Amount=32, 3483, 3552, 2920}, 2867 Content={3453, 2854 Content={3120, 3120, 3120, 3599 Amount=7, 2826 String="Tales of Tibia"}, 2870, 2868 Content={3590 Amount=12, 3585 Amount=5, 3559, 3595 Amount=2, 3354, 2911 SavedExpireTime=2639}, 2869 Content={3012, 2992 Amount=5, 3456, 3446 Amount=8, 3349, 3377, 3283, 3277 Amount=6}}}}, 2854 Content={3012, 3283, 2984, 2901, 3552, 3285, 3483, 3283, 3483}}, 3504 Content={3291, 2991, 3507 String="Shartim Nowez\nThais" Editor="Shartim Nowez", 2870 Content={3266, 3266}}, 3507 String="Shart saint\nThais" Editor="Shartim Nowez"}, 3316, 3504 Content={3572, 3377, 3362, 3384, 2857 Content={2853 Content={3059}, 2906, 3483}, 2868 Content={2865, 2854 Content={2873, 3121, 2834 String="sad", 3012}, 2868 Content={2857}, 2854 Content={2862, 2867}}, 3507 String="Luce Acris\nthais\n" Editor="Shartim Nowez", 2854 Content={3012}}, 3504 Content={3483, 3492 Amount=100, 3291, 2866 Content={2867, 3506 String="Luce acris\nThais\n\nlee la caja te amo te amo =)\nAtte; Juan (Goku Zeta)" Editor="Goku Zeta", 2815 String="hola\ney cambie la password de shartim nowez me boy a la isla del padre no se cuando regrese cuando te bea te doy la password espero ke no te enojes por ke la cambie ok bueno bye cuidate bye\n te amo . \nAtte: juan" Editor="Goku Zeta", 3506 String="Luce acris\nThais\nleela caja =) te amo te amo\nAtte:Goku Zeta" Editor="Goku Zeta", 2815 String="Hola:\nte amo te amo te amo\noye lamento ke no aya jugado estas semanas pero es ke mi compu no jalaba y tenia examenes y me fueron a arreglar mi computadora esta seman ke es marzo 7 boy a estar ocupado asiendo un projecto pero deves encuando jugare de ratos.  pero la otra semana ke es yamero boy a salir de vacasiones y jugare mucho mas rato ok ya te kiero ber.     bye\nAtte: Goku Zeta (Juan)  =) te amo jaja" Editor="Goku Zeta"}}, 2854 Content={3375, 3658, 3483, 3483}, 2854 Content={3283, 3275}, 2969 KeyNumber=3600, 3153 Charges=1, 3483, 3502}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

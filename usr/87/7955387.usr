@@ -1,0 +1,47 @@
+ID              = 7955387
+Name            = "Thor'Dark"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-69-69-76)
+CurrentOutfit   = (129,114-69-69-76)
+LastLogin       = 1144518226
+LastLogout      = 1144518230
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,2811,0,4200,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,5904,1400,6975,1600)
+Skill = (2,175,175,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,20,20,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,450,450,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,611,1100,771,100)
+Skill = (7,28,0,10,0,0,0,0,0,0,0,1409,1100,1534,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,19,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,16,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,16,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,87,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29,42,51}
+QuestValues = {(100,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3056 RemainingUses=200},
+               6 Content={3301}}
+
+Depots      = {0 Content={3483, 3502 Content={2853, 2968 KeyNumber=3940, 2968 KeyNumber=3940, 2853 Content={3310, 3031 Amount=60, 2854 Content={2854 Content={2870 Content={3045 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3054 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=236, 3083 RemainingUses=150, 3045 RemainingUses=200, 3084 RemainingUses=42, 3084 RemainingUses=250, 3084 RemainingUses=250, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3045 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=162, 3083 RemainingUses=148, 3083 RemainingUses=150, 3083 RemainingUses=72, 3084 RemainingUses=250, 3054 RemainingUses=54}, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2854 Content={2866 Content={2854 Content={2854, 2867, 2854, 2867, 2854, 2867, 2854, 2854, 2867, 2868, 2854, 2867, 2867, 2854}, 2868 Content={2865, 2870, 2871, 2867, 2865, 2854, 2854, 2865, 2854, 2854, 2854, 2865, 2854 Content={2867}, 2867, 2854, 2867, 2854, 2854}, 2854, 2868, 2854 Content={2854, 2854, 2854, 2854}, 2854, 2854, 2854, 2854, 2867, 2854, 2868, 2868, 2867, 2854, 2867, 2854, 2854}}, 2853 Content={2854 Content={2867 Content={3290, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301}}, 2868 Content={2865 Content={3046 SavedExpireTime=450, 3046 SavedExpireTime=1617, 3046 SavedExpireTime=2936, 3046 SavedExpireTime=508, 3046 SavedExpireTime=2110, 3046 SavedExpireTime=797, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=771, 2868 Content={2906, 3046 SavedExpireTime=2998, 2970 KeyNumber=3303, 2970 KeyNumber=4601, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2969 KeyNumber=4055, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=3610, 2970 KeyNumber=4601, 2969 KeyNumber=3008, 2970 KeyNumber=3800, 2969 KeyNumber=5010, 2970 KeyNumber=3301, 2970 KeyNumber=3142, 2969 KeyNumber=5010, 2969 KeyNumber=5010}, 3077}}}}, 3492 Amount=1}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,57 @@
+ID              = 13490342
+Name            = "Rennegada fantasmita akasha"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,116-101-79-114)
+CurrentOutfit   = (137,116-101-79-114)
+LastLogin       = 1148162769
+LastLogout      = 1148163250
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32258,31724,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,63488,0,69700,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,23415,3000,64000,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,41964,1100,44259,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,33194,1100,35945,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,26,1100,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,60,1100,105,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,196,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1663,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(21,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(96,1),(97,1),(100,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=197},
+               3 Content={2868 Content={3582 Amount=1, 3492 Amount=21, 3292, 3003}},
+               4 Content={3377},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3578 Amount=15}}
+
+Depots      = {0 Content={3578 Amount=29, 3492 Amount=23, 2471 Content={3411}, 2856 Content={2984}, 2870 Content={3074, 3430, 3294, 3267, 3291, 3317, 3421, 3003, 3349, 3264, 2854 Content={3503 Content={3003, 3557, 3074, 3507 String="Crital angelus\nThais" Editor="Higeras druid"}, 3264, 3291, 3456, 3456, 3559, 3266, 3291, 3551, 3361, 2854 Content={3003, 3410, 3558, 3552, 3003, 2853 Content={3552, 3084 RemainingUses=250, 3552, 3003, 3003, 3003, 3003, 3012}, 3003, 3471, 3552, 3375, 3353, 3350, 3377, 3375, 3282, 1781 Amount=1}, 3276}}, 2854 Content={3504 Content={3031 Amount=100}}, 2854 Content={2920, 2920, 2920, 2920, 2922 SavedExpireTime=212, 2853 Content={2920, 2920, 2922 SavedExpireTime=79, 2920, 2920 SavedExpireTime=596, 2920, 2920, 2920 SavedExpireTime=598}, 2911 SavedExpireTime=2009, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2854 Content={3578 Amount=55, 3723 Amount=8, 3582 Amount=2, 3600 Amount=1, 3590 Amount=2, 3577 Amount=61, 3602 Amount=1, 3593, 3595 Amount=1, 3504 Content={2853 Content={3607, 3607, 3607, 3607, 3607, 3607, 2853 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}}, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}, 3582 Amount=13, 3598 Amount=3, 3599 Amount=3, 3601 Amount=1, 3591 Amount=2, 3587 Amount=1, 3600 Amount=4}, 3502 Content={3492 Amount=35, 3492 Amount=100, 3547 Amount=1, 3483, 3300, 3148 Charges=1, 3492 Amount=100, 3504 Content={3492 Amount=100, 3483, 3673, 3565, 3471, 3548 Amount=1, 2906, 2906, 3463}, 3492 Amount=100, 2854 Content={3505 String="Pienso... Luego existo\n\nYour's Ragaseth" Editor="Ragaseth", 3505 String="QUE ONDA\nQUE HACES GUAPURA?" Editor="Madam Alus", 3505 String="hijito:\nAioros\n\nsolo kiero ke sepas ke te kiero muchote no lo olvides ok\n\ntu mami por siempre arianza\n\n=*****\ncuidae mucho bb \n\nya la lei mami\n\ny sabes que chinga a tu madre\nte apesta la rana gedionda\n" Editor="Orix tenose", 2854 Content={2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 2901, 2885, 3509, 2916, 3538, 3534 Amount=5, 3455, 3740 Amount=1}, 3504 Content={2853 Content={3468, 3468, 3467, 3469, 3467}, 3464, 3466, 3464, 3466}}, 3054 RemainingUses=200, 3174 Charges=5, 3059, 3658, 2985, 2906, 3454, 3463, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 3059, 2893, 2873, 3509}}, 
+               1 Content={3300, 3504 Content={3035 Amount=6, 3031 Amount=68, 3577 Amount=12, 3031 Amount=100, 3031 Amount=100, 2920 SavedExpireTime=10, 3504, 2853 Content={2853}}, 3492 Amount=81, 3172 Charges=3, 2911, 2874, 2911, 2969 KeyNumber=4600, 3590 Amount=2, 3291, 3736 Amount=1, 3504 Content={3505 String="\n\n\n" Editor="Rennegada fantasmita akasha", 3358, 3358, 3358, 3286, 3286}, 3492 Amount=45, 3269, 3492 Amount=100, 3059, 3505 String="verguz  here\n" Editor="Verguz'stein", 3723 Amount=5, 3658, 3502 Content={3546, 3264, 3012, 3012, 3293, 3174 Charges=5, 2911, 3430, 3352, 3361, 3377, 3577 Amount=9, 1781 Amount=1, 3505 String="LOL I LUV DRAN!!!\n" Editor="Lady Arella Of Zanera", 3505 String="a qui estubo el grandalf el blanco\n" Editor="Grandalf el blanco", 3661, 3505 String="soy jey de nacimiento\nlezza puta\nse la come\n" Editor="Manhy", 3552, 3552, 3277 Amount=1, 3462, 3505 String="adrian drez \nhunt here \nplx msn me\n" Editor="Adrian Drez", 3003, 3003, 3300}}, 
+               2 Content={3502 Content={3505 Editor="Gualdian of zanera"}}, 
+               6 Content={3577 Amount=5, 2969 KeyNumber=4600, 3559, 3375, 3430, 3283, 3362, 3502 Content={3411, 3374, 3294, 3267, 3374, 3272, 3374, 3411}}}

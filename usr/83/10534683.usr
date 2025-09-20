@@ -1,0 +1,55 @@
+ID              = 10534683
+Name            = "Kala Ihsperek"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,113-0-113-0)
+CurrentOutfit   = (137,113-0-113-0)
+LastLogin       = 1148189770
+LastLogout      = 1148189907
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32557,31931,8]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,234713,0,262600,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,237032,1100,237809,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,575,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7641,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,395,1800,593,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,25356,1800,40105,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,549,1800,593,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,167,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,181,1100,189,20)
+Skill = (14,0,1200,0,0,0,1116,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,61,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,35,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,7,8,9,10,12,18,20,26,27,29,33,38,42,44,45}
+QuestValues = {(16,1),(18,1),(35,1),(59,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3083 RemainingUses=149},
+               3 Content={2865 Content={3582 Amount=1, 3059, 3577 Amount=4, 2868 Content={3031 Amount=100, 3031 Amount=85, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3447 Amount=16}, 3198 Charges=5, 3198 Charges=4, 3160 Charges=1, 3198 Charges=4, 3160 Charges=1, 3457, 3003, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3160 Charges=1, 3198 Charges=5}},
+               4 Content={3370},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3147, 3147, 3147, 3147, 2970 KeyNumber=3802, 3031 Amount=9, 3723 Amount=46, 3502 Content={}}, 
+               3 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3582 Amount=5, 2853 Content={2853 Content={3031 Amount=100}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3492 Amount=33, 3456, 3483, 2949, 3077, 3191 Charges=2, 3191 Charges=2, 2853 Content={3152 Charges=1, 3198 Charges=5, 3198 Charges=5, 3174 Charges=2, 3198 Charges=5, 3164 Charges=3, 3198 Charges=5, 3012}, 2874, 2991, 3504 Content={3065, 3425, 3056 RemainingUses=200, 2853 Content={3507 String="de lord masterjack\nbobos", 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}, 3507 String="Kala Ihsperek\nAb'dendriel"}, 3506 String="Kala Ihsperek\nAb'dendriel\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 2857 Content={2969 KeyNumber=3033, 3505, 3505, 3446 Amount=2, 3077, 3084 RemainingUses=250}, 2469 Content={2853 Content={3003, 2853 Content={2853 Content={3207 Amount=1}, 3384}}, 3655, 3003}, 2857 Content={3045 RemainingUses=193, 3008, 3658, 3056 RemainingUses=200, 3008, 3056 RemainingUses=200, 3008}, 3054 RemainingUses=200, 2472 Content={3031 Amount=21, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3425, 3070, 3503 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=2, 3160 Charges=1, 3160 Charges=1, 3147, 2860 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3059}, 3504 Content={3031 Amount=100, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5}, 3507 String="Folkeen\nverone" Editor="Kala Ihsperek"}, 3031 Amount=100, 3357, 2874, 2874, 3358, 3035 Amount=44, 3270}, 2853 Content={3189 Charges=3, 3189 Charges=1}, 2853 Content={3735 Amount=1, 2920 SavedExpireTime=323, 3349, 2920}, 2472 Content={3003, 3084 RemainingUses=250, 3551}, 2853 Content={2853 Content={2920 SavedExpireTime=598}, 2853}, 3504 Content={3483, 3492 Amount=40, 2875, 3277 Amount=10, 3505 String="Domines\nvenore\n\nmsg\nhola", 3507 String="Kala Ihsperek\nAb'Dendriel\n Gracias por ser mi Mama"}, 3503 Content={3003, 3012, 3362}, 3502 Content={3572, 3003, 3282, 2856, 3270, 3412, 3362, 3311, 3148 Charges=2, 3572, 3336, 3459, 2920, 3505 String="Amor... un sueño adorado...\nson mil deseos cumplidos...\nla amo coomo nunca e amado... \ny la deseo como dios me lo puede cumplir...\nla amo como a nadie... y no se olvide...", 3349, 3505, 2906}}, 
+               6 Content={3056 RemainingUses=200, 3421, 3409, 3004, 2870 Content={2853 Content={3012, 3045 RemainingUses=196}, 3350, 3558, 2867, 3300, 2867}, 3411, 3410, 3504 Content={3457, 3003, 3308, 3291, 3285, 3264, 3330, 2969 KeyNumber=5000, 2973 KeyNumber=3520}, 2868, 2853 Content={3483, 3456, 3008, 2868 Content={3012, 3277 Amount=5}}, 2868 Content={3078, 2853 Content={3300, 3286, 3358, 3354, 3375}, 3276, 3559, 3425, 3552, 3285, 3349, 3012}, 3502 Content={3097 SavedExpireTime=3531, 3045 RemainingUses=200}}}

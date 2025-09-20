@@ -1,0 +1,57 @@
+ID              = 9409985
+Name            = "Zachk of Zanera"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,19-114-20-114)
+CurrentOutfit   = (129,19-114-20-114)
+LastLogin       = 1148183686
+LastLogout      = 1148183937
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31788,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,279912,0,295200,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,432618,1100,433638,1600)
+Skill = (2,279,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,535,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,64780,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,2000,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,45769,2000,51150,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,194,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,503,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,9815,1100,10752,20)
+Skill = (14,0,1200,0,0,0,887,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,13,15,16,17,20,21,26,28,29,30,44,45}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(35,1),(46,1),(58,1),(59,1),(60,1),(61,1),(67,1),(68,1),(70,1),(71,1),(96,1),(97,1),(98,1),(109,1),(125,1),(126,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3054 RemainingUses=24},
+               3 Content={2868 Content={3577 Amount=3, 3031 Amount=34, 3003}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2853 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3147, 3504 Content={3504 Content={3507 String="zachk of zanera\ncarlin" Editor="Aragorn from Zanera"}, 3504 Content={3507 String="zachk of zanera\ncarlin" Editor="Drakon from Zanera"}, 3504 Content={3507 String="zachk of zanera\ncarlin" Editor="Drakon from Zanera"}, 3504, 3504 Content={3507 String="Zachk of Zanera\ncarlin" Editor="Murka Steell"}, 3507 String="zachk of zanera\ncarlin" Editor="Isildur of Zanera"}, 3502 Content={3035 Amount=2, 3035 Amount=100, 2472 Content={3073, 2870 Content={2472 Content={3084 RemainingUses=250, 2854 Content={2472 Content={3447 Amount=40, 3452, 3457, 3287 Amount=4, 3552, 2397, 3552}, 3092 SavedExpireTime=852, 3050 SavedExpireTime=1726, 3050 SavedExpireTime=1768, 3050 SavedExpireTime=1530, 3097, 3097, 3097 SavedExpireTime=3585, 3097, 3097 SavedExpireTime=3597, 3097, 3097 SavedExpireTime=3584, 3046 SavedExpireTime=648, 3046 SavedExpireTime=2943, 3046 SavedExpireTime=2999}, 3030 Amount=2, 2815 String="Orc Language\n\nHi = Charach \nBye = Futchi \nYes = Mok \nNo = Nok \nOffers = Ikem goshak \nBuy = Goshak \nWeapon = Porak \nArmour = Bora \nShield = Dora \nStudded = Tulak \nLeather = Aka \n\nWeapons \n\nSword (85 GP) = burka bata \nSabre (25 GP) = charcha \nHatchet (85 GP) = hak hak \nShort sword (30 GP) = burka \nBow (400 GP) = batuk \nArrows (30 GP per 10)= pixo \n\nArmor \n\nStudded Armor (90 GP) = Tulak Bora \nLeather Armor (25 GP) = Aka Bora \nBrass Shield (65GP) = Donga \nStudded Helmet (65GP) = Grofa ", 3077, 3077, 3084 RemainingUses=39, 3056 RemainingUses=200, 3008, 3008, 3008, 3012, 3012, 3085 RemainingUses=195, 3085 RemainingUses=200}}, 3075, 3071, 3074, 3416, 3297, 3318, 3453, 3308, 3301, 3413}, 2473 Content={2868, 3492 Amount=100, 3492 Amount=14, 3492 Amount=100, 2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2868 Content={2868 Content={2868 Content={2868 Content={2866 Content={2868 Content={2868 Content={2868 Content={2868 Content={2865 Content={2854 Content={2870 Content={2865}}, 3409, 3409, 3409}, 3351}, 2854 Content={3446 Amount=59, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3350}, 3059, 3059, 3059}, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3305, 3305, 3305}, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2469 Content={3579 Amount=6, 3585 Amount=5, 3590 Amount=7, 3600 Amount=6, 3492 Amount=100, 3577 Amount=6, 3588 Amount=56}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3504 Content={3557, 3507 String="Zachk of Zanera\nvenore" Editor="Nightquest"}, 3502}}

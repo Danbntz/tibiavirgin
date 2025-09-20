@@ -1,0 +1,61 @@
+ID              = 9015051
+Name            = "Antagueule"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,119-119-119-119)
+CurrentOutfit   = (134,119-119-119-119)
+LastLogin       = 1148141910
+LastLogout      = 1148143524
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32440,32215,11]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,501910,0,548900,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,154649,1400,157982,1600)
+Skill = (2,388,430,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,280,400,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,960,960,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,29,0,10,0,0,0,0,0,0,0,5611,1100,5727,100)
+Skill = (7,63,0,10,0,0,0,0,0,0,0,49346,1100,51261,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,56,1200,109,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,1614,1200,1979,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,37,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1793,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,23,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,8,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,20,29,42,49,51,79,81}
+QuestValues = {(14,1),(15,1),(18,1),(35,1),(55,1),(58,1),(59,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(128,1),(140,1),(141,1),(190,1),(191,1),(192,1),(206,1),(213,1),(214,1),(222,1),(223,1),(226,1),(227,5),(228,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2869 Content={1781 Amount=2, 3457, 3031 Amount=80, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3446 Amount=50, 3003, 3052 SavedExpireTime=1153, 3446 Amount=100, 3446 Amount=100, 3098 SavedExpireTime=435, 2871 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3188 Charges=2, 3198 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3189 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3360},
+               5 Content={3349},
+               7 Content={3371},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3446 Amount=95}}
+
+Depots      = {0 Content={3504 Content={3507 String="Antagueule\nthais" Editor="Sir cordier ugh", 3370, 3035 Amount=60}, 3035 Amount=34, 3457, 3504 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3507 String="antagueule\nthais" Editor="Slayer Crocodile"}, 3449 Amount=11, 3504 Content={3031 Amount=17, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="antagueule\nthais" Editor="Grota"}, 3504 Content={3031 Amount=50, 3507 String="Antagueule \nThais" Editor="Gigowatt"}, 3003, 3504 Content={2853 Content={2854 Content={2872 Content={3483, 2854 Content={3492 Amount=25, 3492 Amount=100}, 2920, 3457}, 3425, 2868, 2854 Content={3286, 2920, 2920, 3457, 3003}, 3003}}, 3507 String="antagueule\nthais" Editor="Antagueule"}, 3504 Content={3577 Amount=100, 3447 Amount=79, 3507 String="Antagueule\nThais" Editor="Jemes"}, 3153 Charges=1, 3147, 3147, 3483, 3504 Content={3350, 3046, 3046, 3367, 3367, 3353, 3504 Content={2871, 3367, 3367, 2854}, 2871 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801, 3598 Amount=24, 3448 Amount=4, 3327}, 3507 String="antagueule\nthais" Editor="Antagueule"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Sunset Homes, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3074, 3507 String="Knight of Zanera\nThais" Editor="Knight of Zanera"}, 2854 Content={3289, 3003}, 2853 Content={2969 KeyNumber=4055, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2970 KeyNumber=3142, 2969 KeyNumber=3600, 2969 KeyNumber=4055}, 2853 Content={2953, 3349, 3285, 3367, 3367, 3285}, 3503 Content={2871, 2853, 3349, 3004, 2854 Content={1781 Amount=32, 1781 Amount=100, 2854}, 3444}, 2853 Content={2989}, 2853, 2920 SavedExpireTime=154, 2853 Content={3457, 3507 String="clark quinrif\nthais\n" Editor="Clark Quinrif"}, 2854, 3504 Content={3447 Amount=77, 3447 Amount=100, 3447 Amount=100, 3350, 3283, 3349, 3448 Amount=18}, 3502 Content={3504 Content={3350, 3507 String="antagueule\nthais" Editor="Antagueule"}, 2853 Content={3349, 3345}, 2874, 2874, 2854, 2857, 3457, 2853 Content={3003, 3492 Amount=30, 3483, 2856}, 3504 Content={3507 String="Antagueule\nThais" Editor="Jemes"}, 3504 Content={3507 String="Antagueule\nthais" Editor="Grota"}, 2854, 3503 Content={3507 String="Shyx Shan\nThais" Editor="Shyx Shan"}, 2853, 2868, 3003, 3188 Charges=1, 3504 Content={2870 Content={2920 SavedExpireTime=276, 2874, 2874, 3504 Content={3003, 2853 Content={3551, 2853 Content={2853 Content={3377, 2906, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 2815, 2853}}}, 2920, 2854 Content={3507 String="Antagueul\nThais", 3291, 3003, 2989, 2853 Content={3316, 3463, 3741 Amount=11, 3740 Amount=1, 3739 Amount=1, 3735 Amount=2, 3352, 2920}, 2906, 2858 Content={2922 SavedExpireTime=184, 2920 SavedExpireTime=303}}, 2865 Content={2854, 2853 Content={3042 Amount=1, 3017, 3033 Amount=2, 3062}, 2853 Content={3017, 3030 Amount=2, 3026 Amount=1, 3027 Amount=2, 3008}, 3155 Charges=1, 3155 Charges=1, 2868, 2854, 2859 Content={2854 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3097, 3050, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 3004, 3084 RemainingUses=145}, 3083 RemainingUses=150, 3054 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3054 RemainingUses=200, 2853 Content={3054 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3083 RemainingUses=92, 3050}, 3097}}, 2854 Content={3316, 3289, 3483}, 2869 Content={2471, 2853 Content={2854 Content={3311, 3471}, 3504 Content={3283, 3507 String="antagueul\nthais"}, 3504 Content={3483, 3507 String="antagueul\nthais"}, 2853 Content={2920}, 2857 Content={3372, 3377, 3083 RemainingUses=150, 3492 Amount=37, 3077}, 3012, 3097}, 3283, 3046 SavedExpireTime=2811}}}}, 3504 Content={3504 Content={2854, 3430, 2874, 3483, 3507 String="Antagueule\nCarlin"}, 3507 String="Antagueule\nThais" Editor="Antagueule"}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3504 Content={3507 String="Antagueule\nAb'Dendriel"}, 2854, 2853}}, 
+               4 Content={3502 Content={3337}}, 
+               5 Content={3502 Content={2866, 2854}}, 
+               6 Content={3502}, 
+               7 Content={3031 Amount=13, 3035 Amount=2, 3301, 3031 Amount=100, 3504 Content={3349, 3505 String="antagueule here plzz respect" Editor="Antagueule", 2968 KeyNumber=3940, 2856 Content={3447 Amount=39}, 3507 String="Antagueule\nAnkrahmun" Editor="Jemes"}, 3583 Amount=17, 3447 Amount=3, 3349, 3085 RemainingUses=200, 3449 Amount=30, 3504 Content={3409, 3301, 3349, 3301, 3356, 3507 String="antagueule\nankrahmun" Editor="Lord Belsatik"}, 2871 Content={2871}, 3286, 3504 Content={3557, 3275, 3301, 3349, 3301, 3071, 3349, 3298 Amount=2, 3301, 3507 String="Antagueule\nAnkrahmun" Editor="Max Uland"}, 2872 Content={3373, 3349, 3349}, 3504 Content={3507 String="antagueule\nankrahmun" Editor="Lord Belsatik", 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3045 RemainingUses=200, 3045 RemainingUses=200, 3042 Amount=1, 2857 Content={3027 Amount=2, 3026 Amount=1, 3032 Amount=1}, 2866 Content={3457, 3572, 3349, 3275, 3286, 3275, 3287 Amount=4, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3372}, 3504 Content={3286, 3507 String="Antagueule\nAnkrahmun" Editor="Lord Belsatik", 2854}, 3035 Amount=41, 3449 Amount=100, 3503 Content={3504 Content={3507 String="Antagueule\nAnkrahmun" Editor="Gigowatt"}, 3507}, 3286, 3266, 3504 Content={3447 Amount=27, 3507 String="Antagueule\nAnkrahmun" Editor="Jemes"}, 3502 Content={3275, 3275, 3351, 3351, 3504, 3264, 3457, 2874, 2920 SavedExpireTime=418, 2969 KeyNumber=3033, 3504, 3504 Content={2920 SavedExpireTime=514, 2920 SavedExpireTime=599, 2920, 3507 String="Antagueule\nAnkrahmun" Editor="Jemes"}}}, 
+               8 Content={3502}}

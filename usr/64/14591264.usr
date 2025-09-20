@@ -1,0 +1,56 @@
+ID              = 14591264
+Name            = "Bebe Suave"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,40-46-76-116)
+CurrentOutfit   = (134,40-46-76-116)
+LastLogin       = 1148242854
+LastLogout      = 1148243181
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32622,32750,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,188639,0,204800,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,194052,1100,214735,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,161,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22778,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1767,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,44,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2652,1100,2684,20)
+Skill = (14,0,1200,0,0,0,693,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,158,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,10,11,29,39,44,76,81,84,87,88,89}
+QuestValues = {(55,1),(86,1),(87,1),(106,1),(107,1),(109,1),(140,1),(141,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={3031 Amount=11, 3492 Amount=37, 3483, 3457, 3003}},
+               5 Content={3421},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {0 Content={3504 Content={3035 Amount=18, 3083 RemainingUses=150, 3093, 3574, 3507 String="bebe suave\nthais" Editor="Fert Nekos"}, 3504 Content={3507 String="Bebe Suave\nthais" Editor="Olis Chico"}, 3504 Content={3507 String="bebe suave\nthais" Editor="Samego druid"}, 2969 KeyNumber=3600, 3502 Content={2854 Content={3551, 3504 Content={3447 Amount=7, 3448 Amount=1, 3056 RemainingUses=200, 3504 Content={3507 String="bebe suave\nport hope" Editor="Samego druid"}, 3504 Content={3507 String="bebe suave\n port hope" Editor="Elon Froton"}, 3507 String="bebe suave \nthais" Editor="Bebe Suave"}, 2854 Content={3504 Content={3507 String="Bebe Suave\nthais\n" Editor="Fert Nekos"}, 3504 Content={2854, 3595 Amount=1, 3507 String="bebe suave\nthais" Editor="Dark yeka"}, 3410, 2854 Content={3349, 3349, 3459, 3289, 3299, 3292, 3293, 3349, 3307}, 2974, 2853 Content={2839, 3059}}, 3059, 2859 Content={2969 KeyNumber=3600, 2969 KeyNumber=5010, 2969 KeyNumber=3302, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=3600}, 3003, 3003, 3457, 3003, 3483, 3003, 3483, 3457, 3457, 3003, 3003, 3483, 3483, 3483}}}, 
+               3 Content={3504 Content={3507 String="bebe suave\nab'dendriel" Editor="Protector Chicho"}, 3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3577 Amount=65, 3507 String="bebe suave\ndarashia" Editor="Samego druid"}, 3504 Content={3507 String="bebe suave\ndarashia" Editor="Edera Kayn"}, 3504 Content={3503 Content={3505 String="oie we\n\nque hiciste con el platinum amulet??\nno lo encuentro por ningun lado no lo habras botado??? Ya no jugare tu char we siento que te estorbo xD te lo dejo en 20 y con el varo que te saque suerte y level up,  porfas mandame el platinum amulet... baba a samego druid\n" Editor="Bebe Suave", 3507}, 3507 String="bebe suave\ndarashia" Editor="Oxsly"}, 3502}, 
+               6 Content={3502}, 
+               8 Content={2853 Content={3552, 3505 String="we\nle di las boh a jacob porque estabamos hunted los 3 we nava yo y tu sorry we!!!!!!!!!!!!!!!!!!!! pero lo hice mas por ti que por nosotros we luego compramos otras somos druids coño!!!! =P ya se acabo el pedo we sorry otra vez!" Editor="Bebe Suave"}, 3421, 2853, 3504 Content={3507 String="bebe suave\nport hope" Editor="Dark philos"}, 3504 Content={3507 String="Bebe Suave\nport hope" Editor="Fert Nekos"}, 3502}}

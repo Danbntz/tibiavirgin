@@ -1,0 +1,53 @@
+ID              = 14494901
+Name            = "Ostatni Krol"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,38-79-79-79)
+CurrentOutfit   = (131,38-79-79-79)
+LastLogin       = 1148223844
+LastLogout      = 1148233151
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32918,32188,9]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,92875,0,98800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,11933,3000,20800,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,33832,1100,36404,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,47,0,10,0,0,0,0,0,0,0,16956,1100,18202,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,907,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,49,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(96,1),(97,1),(98,1),(99,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=91, 3578 Amount=42, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 3031 Amount=100}, 3003, 3308, 3457, 2853 Content={2874, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=11}}},
+               4 Content={3357},
+               5 Content={3280},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=470}}
+
+Depots      = {6 Content={3502 Content={2854 Content={3586 Amount=1, 3578 Amount=21, 3578 Amount=100, 3578 Amount=100, 3592, 3592, 3577 Amount=29, 3577 Amount=100, 3577 Amount=100, 3588 Amount=21, 3602 Amount=76, 3585 Amount=44, 3582 Amount=54}, 2868 Content={2854 Content={3192 Charges=2, 3177 Charges=1}, 2854 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3083 RemainingUses=150, 3056 RemainingUses=200, 3097 SavedExpireTime=3563, 3092}, 2901, 2991, 3030 Amount=1, 3027 Amount=4, 3046, 3147}, 2854 Content={3031 Amount=24, 3035 Amount=47, 2870 Content={3031 Amount=100, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}, 2867 Content={3454, 3003, 3003, 3003, 3457, 3457, 3457, 2969 KeyNumber=4600, 2970 KeyNumber=4601, 3456, 3483, 3459}, 2854 Content={2854 Content={2854, 2854, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}}, 3557, 3357, 3357, 3357, 3357, 3425, 3425, 3353, 3362, 3552, 3275, 3275, 3266, 3289, 3285}, 2868 Content={3350, 3350, 3448 Amount=3, 3447 Amount=69, 3446 Amount=2, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 1781 Amount=8}, 3492 Amount=29}}}

@@ -1,0 +1,55 @@
+ID              = 10550097
+Name            = "Magnuc Manowar"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,114-79-94-114)
+CurrentOutfit   = (133,114-79-94-114)
+LastLogin       = 1148247750
+LastLogout      = 1148248978
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32291,32086,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,42858,0,47000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,42361,1100,44759,1600)
+Skill = (2,206,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5299,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,6300,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,25,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,36,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,11,16,20,29,38}
+QuestValues = {(20,1),(84,1),(85,1),(190,1),(191,1),(333,1)}
+Murders     = {1148248015,1148248074}
+
+Inventory   = {1 Content={3374},
+               3 Content={2854 Content={3031 Amount=50, 3003}},
+               4 Content={3377},
+               5 Content={3074},
+               6 Content={3425},
+               7 Content={3559},
+               8 Content={3552}}
+
+Depots      = {0 Content={3316, 3492 Amount=77, 3316, 3316, 3316, 3316, 3316, 2667, 2664 RemainingExpireTime=247, 2656, 1781 Amount=82, 2885, 2885, 3603 Amount=1, 2885 ContainerLiquidType=3, 2885, 2969 KeyNumber=3033, 3504 Content={2667, 2667, 2667, 2667, 2667, 2667, 2667, 3492 Amount=47, 2656, 3483}, 3466, 3504 Content={2667, 2667, 2656, 3603 Amount=1, 3534 Amount=1, 3603 Amount=1, 2880, 3504 Content={3507 String="pipirisnaiz\nthais\n", 2853 Content={2853 Content={2853}}}, 3507 String="PIPIRISNAIZ \nTHAIS\n"}, 2853 Content={2667, 2473 Content={3354, 3457, 2472, 2469 Content={2469}}, 2667, 2667, 3421, 2656, 2656, 2853}, 2471 Content={3377, 2853 Content={3446 Amount=100, 3446 Amount=100}, 2853, 2656, 2471 Content={2480, 2471}, 2656, 2471, 2471, 2471}, 2472 Content={3301, 3603 Amount=1, 2667, 3504 Content={3421, 3421, 2656}, 2667, 3426, 3273, 3291, 3426}, 2472 Content={2667, 2667, 2667, 2667, 3740 Amount=1, 3483, 2639}, 3534 Amount=1, 3533 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 18740 gold\nfor your house \"Castle of Greenshore\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 18740 gold\nfor your house \"Castle of Greenshore\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502}, 
+               3 Content={3504 Content={3507 String="magnuc manowar\nab'dendriel" Editor="Cholo Robin"}, 3504 Content={3583 Amount=8, 3583 Amount=100, 3507 String="magnuc manowar\nab'dendriel"}, 2868 Content={2865, 2870, 2854, 2871, 2867, 2865, 2854, 2866, 2854, 2865, 2854, 2870, 2869, 2865, 2865, 2854, 2865}, 3504 Content={3492 Amount=27, 3287 Amount=1, 3264, 3426, 3507 String="magnuc manowar\nab'dendriel\n"}, 3502 Content={3297, 3297, 3557, 3557}}, 
+               4 Content={3504 Content={3507 String="Magnuc Manowar\nEdron" Editor="Von Boidkan"}, 2853 Content={2854 Content={2853 Content={3577 Amount=1, 3582 Amount=14, 3286}}}, 3054 RemainingUses=200, 3502}, 
+               5 Content={3180 Charges=3, 3504 Content={3031 Amount=50, 3035 Amount=7, 3507 String="magnuc manowar\ndarashia" Editor="Cholo Robin"}, 3292, 3502}, 
+               7 Content={3504 Content={2853, 3507 String="magnuc manowar\nankrahmun"}, 3502 Content={2977, 2977, 3349, 3349, 3349}}}

@@ -1,0 +1,53 @@
+ID              = 13754674
+Name            = "Zodrox"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-116-114-114)
+CurrentOutfit   = (128,114-116-114-114)
+LastLogin       = 1148153559
+LastLogout      = 1148154014
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31687,7]
+PlayerkillerEnd = 1149789224
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,246361,0,262600,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,160999,1100,174690,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,99,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21227,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1943,2000,3150,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,394,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,66,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,78,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,7,9,10,15,16,19,20,22,25,26,27,29,38,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1),(190,1),(191,1),(333,1)}
+Murders     = {1146181558,1146368930,1147037795,1147197012,1147197106,1147197224}
+
+Inventory   = {1 Content={3367},
+               2 Content={3054 RemainingUses=173},
+               3 Content={2865 Content={3172 Charges=2, 2969 KeyNumber=3033, 3003}},
+               6 Content={3074},
+               7 Content={3558},
+               8 Content={3551},
+               9 Content={3007}}
+
+Depots      = {1 Content={2868, 3377, 3503 Content={3507}, 2973 KeyNumber=3520, 3502 Content={2866 Content={3147}, 3448 Amount=4, 3447 Amount=21}}, 
+               2 Content={3504 Content={3507 String="zodrox\nkazordoon" Editor="Talegas here"}, 3502 Content={3017, 3017, 3017, 3017, 3017}}, 
+               3 Content={3073, 3003, 2865, 2865 Content={3031 Amount=59, 3268, 3492 Amount=5, 2853 Content={3367}, 2969 KeyNumber=3033, 3003}, 3017, 2857 Content={3046, 3077, 3483}, 2471 Content={3077, 3350, 3074}, 3502 Content={2827 String="The Akh'rah Uthun is the unity of that which cannot be united. The flawed Akh, which is our anchor to this mundane world, is generally weak. By giving in to the needs of the physical Akh, the Rah and the Uthun become enslaved to this world, even though their potential is such that they could transcend the physical world. However, the greatest flaw the Akh suffers from is its mortality. Why should we seek to satisfy its puny needs and its trivial urges if we know it is doomed to die? Yet this is how the Akh holds our spirit captive. It slowly poisons both the Rah as well as the Uthun.", 3483, 3059, 3092, 2969 KeyNumber=3033, 3449 Amount=7}}}

@@ -1,0 +1,58 @@
+ID              = 12957703
+Name            = "Padmme"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (142,59-114-95-114)
+CurrentOutfit   = (142,59-114-95-114)
+LastLogin       = 1148195418
+LastLogout      = 1148195495
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33151,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,457332,0,499200,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,467539,1100,478602,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,172,755,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,24063,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2017,2000,3150,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,355,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,6,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,135,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2480,1100,2684,20)
+Skill = (14,0,1200,0,0,0,984,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,192,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,16,17,18,20,25,29,44,81,86,87,88,89}
+QuestValues = {(1,1),(2,6),(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(32,1),(33,1),(34,1),(35,1),(69,1),(83,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(190,1),(191,1),(211,4),(222,1),(223,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(333,1)}
+Murders     = {1145926285}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2870 Content={3071, 3582 Amount=3, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3073, 3279, 2871, 2871, 2871, 3093 SavedExpireTime=1671, 3031 Amount=50, 3457, 3003, 3031 Amount=100, 3035 Amount=2}},
+               4 Content={3357},
+               6 Content={3418},
+               7 Content={3557},
+               10 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={2981, 3502}, 
+               4 Content={3504 Content={3507 String="Padmme\nedron" Editor="Jamoka"}, 3504 Content={3507 String="anaakinn\nedron\n" Editor="Aidi Quinrif"}, 2473 Content={2469}, 2473 Content={2469 Content={3316, 3316}, 3316, 3316, 3413, 3552}, 2473, 2473 Content={2874}, 2473 Content={2854}, 3502 Content={2473 Content={3505 String="Esposa mia: \nHola amore , hace muchito que n oescribia una cartita pero senti la ncesidad de hacerlos, par dcirte tantas cositas que siento, mi amor eres la esposa mas linda del mundo tu eres todo lo quey osoñe y e da maravillosos sentimientos saver que el dia d e estar juntos se acerca muy pronto, yo sueño muhcas veces que nos casamos y tenemo nuestro bbito asi como tu em as dicho tantas ocaciones, creo que nuestra relacion a pasado por cosas pero es tan fuerte el amor que nos tenemos mutuamente que nunca nunca se rompera, mi amore Te amo\n\n\n\n\n                            atte.  Tu esposito rudi que te ama\n\n" Editor="Anaakinn", 3505 String="Hola amore mio jejej mira te dejo un regalito.Te amo mucho terroncito de azucar :******: \n\n                                               de tu esposo que te ama Rudi(tu osito).\n" Editor="Padmme", 3505 String="Hola amore mio:\n\n                              Espero que ayas descansado muy y que no siguas preocupandote bb, recuerda amroe somos dos y poco a pokito lo lograremos :), saves niña hermosa me a pasado una cosa maravillosa e estado escuchando tu corazon..... jeje que como en verdad no lo se amore simplemente  lo siento latir , siento su calor, y su fuerza la cual me da mucha vitaldiad ami amore, sin duda alguna eres un angel amore mio, shi mi angel y que afortuando soy por tenerte como esposo. Por eso yo prometo cudiarte, valorate y amarte para siempre amore ( creo que eso tu lo saves amore mio).\n\nMe despido no sin antes decirte que te amo amor  y que nuestro amor nadien lo vencera ;) , tambien quiero decirte que estoy ancioso de que estes aca conmigo pero se que las cosas se hacen con calma asi que yo mientras preparare todo para cuando mi esposa linda venga y estar aqui listo esperandola.\n\n\n                                 ATTE. tu esposo que te ama muchisimo (demasiado) Rudi\nEres el amor de mi vida y todo para mi.\npd.: Oinc oinc jijijiji :**: \nContigo encontre la formula para amar y ser amado, te quiero mi angel, te amo\"" Editor="Padmme", 3505 String="hola mi niña, jeje saves todas las nochees me acuesto pronuncio tu nombre y cierro los ojos :) y cuando sueño , sueño contigo aveces es tan real que cuando despierto sierr ojos para tratar de volver al sueño pero yo se que el dia en que estemos juntos se acerta  :***:\n\nte amo eternamente mi nena.\n\n\n                          atte.\n               tu tontito rudi \n\npd.: te deje 10 uh amore siempre carga uhs " Editor="Padmme", 3505 String="hola amore:\n\n                                    mi angel , aveces suelo cometer errores mi terroncito de azucar espero que pueda remediar este chula por es te lo prometo que sera diferente mi chikita ya veras como tu esposillo feo te dara una sorpresa saves por ke por ke el te ama muchisimo .. no le digas que yo te dije ijijiijiji... si el te ama y ara todo lo que sea por su nenita ^^ .Vamos a divertirnos mas anda mi bb y a gosar los momentos felices ^^ .\n\n\n                               me despido de ti por un ratito mi angel dejandote saver que eres la estrellita que me guia en la obscuridad y el motivo de mi vida por le cual lucho con todas mis ganas :****: \n\n                                                    ATTE.\n                          tu esposo que te ama Rudi\n\npd.: queso!" Editor="Padmme", 3505 String="Padmme hunts here!!!!!!\ndont enter \nmsg frist a Shadow Spinal" Editor="Padmme", 3505 String="hola bb ya tienes exura y exana pox \ny tambien ya tienes todos los wands ^^\n\n\nTe amo mucho nena hermosa..\n atte. Tu Rudi que te ama eternamente  \n :**:" Editor="Padmme"}}}, 
+               5 Content={3503, 3457, 3502}, 
+               6 Content={3502 Content={2856 Content={3505 String="Juliana:\n\nGracias por este dia, me has dado la inspiracion para volver a jugar y estar aunque sea un rato online, ya tengo un motivo para prender mi monitor y entrar a tibia y msn. Gracias por este dia tan especial para mi , gracias por darme la oportunidad de conocerte. \nEres especial y lo seguirás siendo :)\n;****\nlove ya ;)" Editor="Nok Pyton", 3659}}}, 
+               7 Content={3042 Amount=30, 3502}, 
+               8 Content={3577 Amount=8, 3600 Amount=14, 2853, 3502}}

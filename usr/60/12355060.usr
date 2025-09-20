@@ -1,0 +1,54 @@
+ID              = 12355060
+Name            = "Sir Oyster Bar"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,94-132-131-0)
+CurrentOutfit   = (134,94-132-131-0)
+LastLogin       = 1148203169
+LastLogout      = 1148203188
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33250,32402,6]
+PlayerkillerEnd = 0
+
+Skill = (0,50,0,1,0,0,0,0,0,0,1,1957858,0,1965000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,414248,3000,582400,1600)
+Skill = (2,768,815,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,119,119,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1520,1520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,64,0,10,0,0,0,0,0,0,0,183887,1100,188059,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,133,1100,165,50)
+Skill = (9,68,0,10,0,0,0,0,0,0,0,126517,1100,137900,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,1,0,4,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(1,3),(2,6),(38,1),(39,1),(41,1),(42,1),(43,1),(44,1),(50,1),(55,1),(56,1),(57,1),(60,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(125,1),(126,1),(133,1),(134,1),(137,1),(138,1),(139,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(170,1),(171,1),(172,1),(173,1),(174,1),(175,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(213,1),(214,1),(217,3),(222,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1),(254,1),(292,1),(324,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854},
+               5 Content={3421}}
+
+Depots      = {0 Content={3504 Content={2866 Content={2867 Content={2865}}, 3507 String="sir oyster bar\nthais\n" Editor="Perdril"}, 3504 Content={3507 String="sir oyster bar\nthais" Editor="Sorata Wingxz"}, 3504 Content={3507 String="sir oyster bar\nthais" Editor="Sorata Wingxz"}, 3504 Content={3507 String="sir oyster bar\nthais" Editor="Sorata Wingxz"}, 3504 Content={3507 String="sir oyster bar\nthais" Editor="Sorata Wingxz"}, 2853 Content={3349}, 3504 Content={3504 Content={2853 Content={2853}, 3507 String="perdril\ndarashia\n" Editor="Perdril"}, 2854 Content={2866 Content={2866 Content={2866 Content={2854}}, 2853 Content={3372, 2853}}}, 3507 String="sir oyster bar\nthais\n" Editor="Perdril"}, 2853, 3504, 2866 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=62, 3059}, 2866, 2854 Content={2854 Content={2854, 2854 Content={2853}}, 3097, 3207 Amount=1, 3457, 2854 Content={2871 Content={2854}, 2854 Content={2854}}, 3292}, 3502 Content={2853, 2874, 3298 Amount=1, 3457, 2854 Content={2869 Content={3457, 3456, 3004, 3097, 3083 RemainingUses=150, 3503 Content={3504 Content={3507 String="sir oyster bar\nthais" Editor="Perdril"}, 3503 Content={3503, 3503, 3503}}, 3283, 3289, 2821 String="... the dreammaster retreated to the world behind the curtains of awareness, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed Goshnar's grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in possession of the key, so we can travel one of the dreampaths to a safer place to regroup and plan a counterattack. I fear we have to recruit new members and there is only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemies. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. It's already uncertain who took the nightmare chronicles out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 3114 Amount=25, 3457}, 2854 Content={3457, 3456}, 2866 Content={3349, 3349, 2857 Content={3077, 3085 RemainingUses=200, 3084 RemainingUses=250}}, 2854 Content={2969 KeyNumber=5010}}, 3492 Amount=8}}, 
+               1 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="sir oyster bar\nedron" Editor="Sir Oyster Bar"}, 2473, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Flat 08\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3504 Content={3507 String="sir oyster bar\ndarashia" Editor="Sir Oyster Bar"}, 3504 Content={3507 String="sir oyster bar\ndarashia" Editor="Sorata Wingxz"}, 3504 Content={3507 String="sir oyster bar\ndarashia" Editor="Sorata Wingxz"}, 3504 Content={3507 String="sir oyster bar\ndarashia" Editor="Sorata Wingxz"}, 2866 Content={2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3504 Content={3507 String="sir oyster bar\ndarashia" Editor="Sir Oyster Bar"}, 2969 KeyNumber=3610, 2969 KeyNumber=3667, 3085 RemainingUses=46, 3502 Content={2867 Content={2659, 2659, 2659}, 2854 Content={2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 2866 Content={3084 RemainingUses=247, 3441, 2866 Content={3457, 3552, 3456, 3084 RemainingUses=250, 2853 Content={2853 Content={2853 Content={3558, 2853 Content={2853}, 2853}, 2853, 2853}}, 3457, 3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3017, 3289, 3084 RemainingUses=250, 2955, 3209, 2853 Content={2853 Content={3093, 3092, 3092, 3092, 3092, 2857 Content={2857 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3092, 3092, 3092, 3093 SavedExpireTime=454}}, 2969 KeyNumber=5000, 2969 KeyNumber=3701, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 2969 KeyNumber=3650, 2969 KeyNumber=3620}}, 3311}}}, 
+               6 Content={3504 Content={3507 String="SIR OYSTER BAR\nVENORE\n" Editor="Perdril"}, 2854, 3456, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

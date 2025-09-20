@@ -1,0 +1,55 @@
+ID              = 10569572
+Name            = "Asca Ogor"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,0-109-114-57)
+CurrentOutfit   = (130,0-109-114-57)
+LastLogin       = 1148111229
+LastLogout      = 1148111875
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,673192,0,717600,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,429238,1100,433638,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,363,825,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,63950,1500,87378,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,69,2000,90,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,21734,2000,25550,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,7139,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,12,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,316,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2356,1100,2421,20)
+Skill = (14,0,1200,0,0,0,512,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,80,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,17,18,20,21,23,25,26,27,28,29,30,38,44,45}
+QuestValues = {(35,1),(49,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(115,1),(128,1),(134,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(223,1),(226,1),(227,1),(253,1),(333,1)}
+Murders     = {1147550939}
+
+Inventory   = {2 Content={3572},
+               3 Content={2868 Content={3577 Amount=5, 3031 Amount=15, 3147, 3147, 3147, 3147, 3147, 3147, 2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2866, 3003}},
+               5 Content={3073},
+               6 Content={3436},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3370, 3369, 3504 Content={3507 String="Asca Ogor\nVenore" Editor="Asca Ogor"}, 3503 Content={3507 String="Louco Pormuieh\nCarlin" Editor="Asca Ogor"}, 3502 Content={3465, 2854, 2868, 3504 Content={3504 Content={3114 Amount=1, 3507 String="cranio d ghoul" Editor="Asca Ogor"}, 3504, 3507 String="Asca Ogor\nvenore" Editor="Danibull"}, 2854 Content={3578 Amount=13, 3596 Amount=1, 3606 Amount=1, 3588 Amount=1, 3591 Amount=1, 3586 Amount=1, 3587 Amount=1, 3592, 3584 Amount=1, 3585 Amount=1, 3593, 3598 Amount=1, 3595 Amount=1}, 2469 Content={3174 Charges=5, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3280, 3174 Charges=5, 3174 Charges=5}, 2867 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3059, 3604 Amount=1, 2826 String="Mystic Rituals of the Ancient Trolls"}, 3035 Amount=30}, 2854 Content={3351, 3384, 3349, 3384, 3504 Content={2853 Content={3077, 3463, 2989, 2989, 2906, 3463, 2989}, 3004, 3734 Amount=1, 3017, 4871, 3017, 3077, 3077}, 2857 Content={3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046, 3046, 3046}, 2853 Content={2853 Content={3008, 3008, 3012, 3085 RemainingUses=200, 3085 RemainingUses=200}, 3084 RemainingUses=250, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}, 2853 Content={3282, 3065, 3285, 3071, 3074, 3065, 3307, 3071}, 2857 Content={3413, 3413, 3413, 3409, 3409}, 3374, 3289, 3337, 2853 Content={3354, 3565}}, 2471 Content={3174 Charges=5, 3174 Charges=4, 3188 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3148 Charges=1, 3177 Charges=1}, 2471 Content={2867, 2867, 2867 Content={3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=1, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2867 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2867 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2867, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 2471 Content={3506 String="Asca Ogor\nVenore\n\nSaudades!!!\nTE AMO!!!!\nBjos Vi" Editor="Zena Elexo", 3506 String="Asca Ogor\nVenore\n\nÉ hj Vi....\nAté mais tarde!\nSaudades!\nTE AMO!\nBjoks" Editor="Zena Elexo", 3506 String="Asca Ogor\nVenore\n\nParebéns p/ nós!!!!\n37 meses hehehehe\nTe amo!!!!!   Bjoks\n\n\n15/03/06\n" Editor="Zena Elexo", 3506 String="Asca Ogor\nVenore\n\nVi,\nTe gosto mto!!!!\nSaudades!!!!\nTe amo!!!\nBjim na boca..." Editor="Zena Elexo", 3506 String="Asca Ogor\nVenore\nAteh a noite Vi...." Editor="Zena Elexo", 3506 String="Asca Ogor\nVenore\nTE AMO!!!!!" Editor="Zena Elexo"}, 2853 Content={2853 Content={3093, 3097, 3093, 3093, 3093, 3092, 3097 SavedExpireTime=3595, 3097}, 2853 Content={3308, 3456}, 2853 Content={3492 Amount=18, 3483, 3456, 3457, 3457, 3504 Content={3456, 3504 Content={3507 String="Ryor Pluck\nvenore" Editor="Nharuto"}, 3504 Content={3507 String="Ryor Pluck\nvenore" Editor="Nharuto"}, 3504 Content={3507 String="Ryor Pluck\nvenore" Editor="Arbolita"}, 3504}, 3457, 3308}, 2853 Content={2885 ContainerLiquidType=3, 2885, 2885, 2885}, 2853 Content={2969 KeyNumber=5010, 2969 KeyNumber=5010, 2970 KeyNumber=3142, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 2970 KeyNumber=4601, 2969 KeyNumber=4600}}}}}

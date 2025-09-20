@@ -1,0 +1,60 @@
+ID              = 9770280
+Name            = "Asharian Valiant"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (130,116-126-114-116)
+CurrentOutfit   = (130,116-126-114-116)
+LastLogin       = 1147652185
+LastLogout      = 1147652971
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32924,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,305566,0,330400,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,744390,1100,780562,1600)
+Skill = (2,201,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,409,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,56708,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,48,2000,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,41509,2000,51150,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,61,2000,150,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,179,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1793,1100,1966,20)
+Skill = (14,0,1200,0,0,0,439,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,39,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,11,16,17,20,21,29,30,39,44,45,76,81,87,88,89}
+QuestValues = {(39,1),(99,1),(108,1),(113,1),(143,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2865 Content={3003, 3198 Charges=4, 3457, 3031 Amount=6, 3191 Charges=1, 3191 Charges=2, 3191 Charges=1, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3504 Content={2854 Content={2854, 2854, 2854}, 3507 String="Asharian Valiant\nab'dendriel\n"}, 3504 Content={3507 String="Asharian Valiant\nab'dendriel"}, 2785, 2785, 2785, 3003, 3502}, 
+               4 Content={3380, 2848, 2823 String="*You see a map of the surface of the Fields of Glory. There are many red lines and two golden points on it. You wonder what their meaning is.*", 3503 Content={3507 String=""}, 2865 Content={3357, 3441, 3384, 3557, 3557}, 3503 Content={3031 Amount=19}, 3504 Content={3507 String="asharian valiant\nedron"}, 3504 Content={2821 String="Report 13XAH07\nThese ape men have been causing turmoil once again. Their raids have become more frequent with each month since the rain season has ended. I guess they don't like showers. Given their savageness and unpredictability it is not easy to come up with a counter strategy. It is obvious that the majority of the apes are trying to distract our guards while others sneak in and steal equipment of all sorts. Some of them are agile like ... well, like monkeys. Hard to catch - and they are sort of escape artists and might hide right under the ceiling. I even had one report of a citizen finding a monkey hiding in his depot box after a raid. Given the number of men at our disposal it is impossible to defend each and every side of the settlement. No sort of barricade would be of any help considering the nature of our attackers. \nThey get into and out of our fort just as it pleases them, and even the upper levels of the town that have proven to be safe against other beasts of the jungle are no hindrance to them. I see no real option to stop those attacks unless an army is sent here to find the apes' base of operation which seems to be somewhere in the north eastern jungle. ", 2833 String="Report 67ABFG33\nCaptains report an increased activity of pirates on the routes from Port Hope to Thais and Venore. I support the traders' demand that the king should intervene. A well armed warship with some experienced fighters would not only secure the routes, but also boost our line of defence in Port Hope. With their support we could fight back such enemies like the ape men - or even capture Trapwood, an area rich in bamboo that is populated by those murderous dworcs. ", 2833 String="Report 27AAF36\nAlthough offered with the best intentions, the reward the tradesmen from Venore had put on monkey tails was revoked after a while. Even though many adventurers and soldiers of fortune had been able to pick up their rewards, the situation was worse than ever as the ape raids came even more frequently and ferociously. The loss of lives and the senseless destruction of property had increased enormously. Sadly Jorgin Beargin, the spokesman of the Venoran traders, was called back to Venore to report about the recent losses.\nThe traders are now asking us to keep adventurers from provoking the ape men in any way. I fear we cannot offer much assistance in that matter since those \"tail hunters\" are numerous and usually well armed but we will try our best.\n", 2833 String="Report 56IOLP56\nThe respectable mage Borsoz was able to provide us with a cure for the so-called 'jungle fever'. People repeatedly reported some kind of 'out-of-body experience'. While sleeping, they suddenly stood beside their own body and watched over it. The magician proved that the 'fever' actually was caused by a small bug. This bug injects a mildly toxic hallucinogen into the body of a sleeping person causing the mentioned phenomenon. Borsoz developed a paste that, when applied to the walls and the floor, keeps those bugs away. All settlers were provided with the paste and the \"fever\" has been efficiently eradicated. ", 2833 String="Report 34DFOO12\nWe still cannot figure out who or what caused the disappearance of Oliver Holmes. Aforesaid mage from the Noodles Academy of Magic Arts came here to study the different cultures of the area. After three days of preparation and planning, his room was found empty. His bed was unused but his clothes lay neatly folded on a chair as if he had undressed. There were no signs of a fight and the door had been locked from within. It is a complete mystery why or how he disappeared. \n", 2833 String="Report 67ZUFL90\nDeath caused by venomous local animals and by enemies using poisonous weapons against us are becoming more and more common. The traders of Venore gladly offered a vast supply of antidotes and suggested forming a monopoly to ensure the quality of the products and to stop scammers before their adulterated potions cause the deaths of innocents.", 2833 String="Report 78ACFF04\nThe usual turmoil when the QUEEN GENOVEVA is in town - the sailors, drunk as always, stood out with their usual misbehaviour with the result that one of them spilled the beer of a local dwarf. In the following fight a lot of property was destroyed and even lives were endangered. I sent word to Thais that such events destroy the peace of our colony and that we would probably do better to rely on the more disciplined seamen of Venore who are more accustomed to the hardships of long journeys than the men of the Thaian marine. A letter written by the local traders strongly supporting my point has been enclosed. ", 3507 String="Asharian Valiant\nEdron"}, 2854 Content={3347, 3560, 3403, 3492 Amount=95, 3504 Content={}, 3346, 3046 SavedExpireTime=0}, 3502 Content={3383}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3071, 3073, 3035 Amount=9, 2867 Content={2871 Content={2863, 2853}}, 3324, 3028 Amount=1, 2969 KeyNumber=3610, 2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3504 Content={2853 Content={3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 2853 Content={3377, 2853 Content={3377, 2853 Content={3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377}, 3377, 3377}, 3377, 3377, 3377}, 3507 String="eoh\nvenore"}, 3507 String="Eoh\nVenore"}, 2867 Content={2867, 2857 Content={3084 RemainingUses=250, 3077, 3077, 3084 RemainingUses=250}}, 3502}, 
+               7 Content={3502 Content={}}}

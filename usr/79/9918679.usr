@@ -1,0 +1,57 @@
+ID              = 9918679
+Name            = "Saria Alia"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,79-16-91-16)
+CurrentOutfit   = (137,79-16-91-16)
+LastLogin       = 1148064839
+LastLogout      = 1148065076
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32396,32039,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,256781,0,262600,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,257437,1100,263190,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,575,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,36226,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,14066,1800,22252,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,65,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,289,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2307,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,1,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,11,12,15,16,20,25,26,27,29,30,31,38,42,44}
+QuestValues = {(18,1),(35,1),(59,1),(61,1),(93,1),(94,1),(95,1),(106,1),(107,1),(113,1),(114,1),(115,1),(125,1),(126,1),(144,1),(190,1),(191,1),(217,3),(223,1),(224,1),(226,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2868 Content={3492 Amount=1, 3031 Amount=3, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2973 KeyNumber=3520, 3502 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3003}}, 
+               2 Content={3503 Content={2870, 2870 Content={3286, 3358, 3358, 3264, 3286, 3358, 3413, 3358, 3358, 3358, 3358, 3358, 3286, 3286, 3358, 3413, 3285, 3285, 3285}, 3507 String="saria alia\nab'dendriel" Editor="Saria Alia"}, 3503 Content={2870 Content={3266, 3305, 3349, 3349, 3266, 3266, 3349, 3349, 3349, 3266}, 2870 Content={3349, 3349, 3349, 3349, 3266, 3349, 3266, 3266}, 3507 String="saria alia\nthais" Editor="Saria Alia"}, 2870 Content={1780, 3446 Amount=10, 3723 Amount=26, 3457, 3457, 3446 Amount=100, 3492 Amount=6, 2854 Content={2867 Content={2870 Content={3425, 3425}}}, 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 3446 Amount=100, 3446 Amount=100, 3577 Amount=37, 3446 Amount=100, 3577 Amount=100, 3577 Amount=100, 2868 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3565, 3457, 3483, 3308}, 3502}, 
+               3 Content={3359, 2969 KeyNumber=3033, 3502 Content={3031 Amount=73, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               6 Content={3502}}

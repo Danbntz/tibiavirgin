@@ -1,0 +1,50 @@
+ID              = 7950823
+Name            = "Ortej"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,92-124-2-114)
+CurrentOutfit   = (128,92-124-2-114)
+LastLogin       = 1136834052
+LastLogout      = 1136835564
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32685,31688,6]
+PlayerkillerEnd = 1137502813
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,90639,0,98800,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,147127,1100,157355,1600)
+Skill = (2,159,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,285,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17722,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,520,1800,593,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,10868,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,167,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1212,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,8,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,4,5,8,10,16,20,42,45}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {1134620108,1134620769,1134908824,1134908904,1134909566,1134910033,1134910536,1134910813,1135686432}
+
+Inventory   = {3 Content={2853 Content={3003}}}
+
+Depots      = {0 Content={3504 Content={2853 Content={2968 KeyNumber=3940, 3577 Amount=2, 3582 Amount=1}, 3507 String="ortej\nthais"}, 3504 Content={3351, 3349, 3349, 3349, 3507 String="ortej\nthais", 3574, 3574, 3449 Amount=14}, 3003, 3457, 3502 Content={}}, 
+               1 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3507 String="ortej\ncarlin"}, 3502 Content={}}, 
+               2 Content={3502 Content={3446 Amount=2}}, 
+               3 Content={3031 Amount=28, 3031 Amount=100, 3279, 3279, 3070, 3425, 3504 Content={3507 String="ortej\nab'dendriel" Editor="Sir caritax"}, 3031 Amount=100, 3411, 3502}, 
+               4 Content={3504 Content={3507 String="ortej\nedron"}, 3502 Content={}}, 
+               6 Content={3322, 3457, 3483, 2969 KeyNumber=3033, 3003, 3483, 2870 Content={2857, 2857, 2854}, 2871 Content={3483, 3291}, 3483, 2816 String="The rat - I fear we brought this pest with us on the isle and they soon increased in numbers. You might encounter the rats nearly everywhere, though they prefer to live undergound. \nMostly harmless, they tend to destroy food supplies and can become dangerous in greater numbers to the bad equiped human.\n\nThe snake - The poisonous snakes hide in the woods and near the northern swamps. They usually can be found at the shores more often then in the isles centre. They are not too dangerous to a adventurer with some basic equipment. If poisoned it is a wise decision to run straight to the monk who guards the soul vortex, where everyone enters the world of Tibia, and ask for healing.\n\nThe spider - Similarly dangerous as the rat, the spiders were found by the first explorers of the isle and are native to Rookgard. They live above and beneath ground and tend to live and hunt in packs to increase their danger.\n\nThe wolf - There are some smaler wolf packs on this isle. Wolves are fast, tough and dangerous. Often they are the hunters and not the hunted on this island. It is a good decision to engage them in combat only with decent equipment and try to fight them only one on one.\n\nThe troll - Though intelligent in a limited way, the cowardish trolls are not a threat to our small outpost. They are able to create and use some basic equipment and quite tough to lesser weapons and unskilled fighters. Follow the advise to have mastered some basics in shielding, before you challenge even one of them.\n\nThe bear - Bears are hard to beat! Keep that in mind before challenging one. If you are unexperienced and have no good equipment, retreat is the tactic of choice. Best kill them in small hunting parties and use terrain to your advantage.\n", 3502 Content={3492 Amount=9, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}

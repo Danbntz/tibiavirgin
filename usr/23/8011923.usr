@@ -1,0 +1,60 @@
+ID              = 8011923
+Name            = "Elemental'Demon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,95-86-114-86)
+CurrentOutfit   = (128,95-86-114-86)
+LastLogin       = 1148238570
+LastLogout      = 1148238605
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32915,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1369173,0,1423500,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,209327,3000,582400,1600)
+Skill = (2,664,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,155,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,207329,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,68,0,10,0,0,0,0,0,0,0,131846,1100,137900,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1393,1100,1428,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80}
+QuestValues = {(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(49,1),(59,1),(69,1),(72,1),(73,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(115,1),(116,1),(117,1),(118,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(151,1),(152,1),(190,1),(191,1),(208,1),(213,1),(214,1),(217,3),(226,1)}
+Murders     = {1147601959}
+
+Inventory   = {1 Content={3384},
+               3 Content={2872 Content={3160 Charges=1, 3160 Charges=1, 2867, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}},
+               4 Content={3370},
+               5 Content={3281},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={2867 Content={2853 Content={3066, 3353, 3066, 3353}, 3031 Amount=72, 3035 Amount=3, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3506 String="elemental'demon\ncarlin\n\nHello my love!\nA little present for you...i missing you in tibia....\nKiss Kiss\nCamila", 3505 String="ia vendelo!!\nxD\nmmmm...\n...", 3291, 3502}, 
+               2 Content={3504 Content={3507 String="elemental'demon\nkazordoon\n" Editor="Elemental'Demon", 2867 Content={3351, 3413, 3367, 3367, 3372, 3367, 3504 Content={3413, 3410, 3367, 3354, 3367, 3367, 3367, 3367, 3367, 3507 String="elemental'demon\nvenore" Editor="Flydrone"}}}, 3504 Content={3504 Content={2853 Content={3349, 3349, 3349, 3349}}, 2867 Content={3358, 3358, 3359, 3353, 3353, 3353, 3353, 3359, 3359}, 2869 Content={3410, 3410, 3354, 3353, 3358, 3358, 3354, 3410, 3410}, 3358, 3507 String="elemental'demon\nKazordoon\n" Editor="Elemental'Demon"}, 3349, 3349, 3349, 3349, 2867, 3504 Content={3507 String="elemental'demon\n kazordoon" Editor="Elemental'Demon"}, 3502}, 
+               3 Content={3504 Content={3507 String="elemental'demon\nab'dendriel" Editor="Elemental'Demon"}, 3502}, 
+               4 Content={3504 Content={3507 String="Elemental'Demon\nEdron" Editor="Aiban"}, 3504 Content={3507 String="elemental'demon\nedron" Editor="Jack Stich"}, 3411, 2969 KeyNumber=3033, 3504, 3502}, 
+               5 Content={3502}, 
+               6 Content={3295, 3436, 2854, 2871, 2854, 2854, 2867 Content={3085 RemainingUses=200, 2969 KeyNumber=3033, 3085 RemainingUses=200, 3093 SavedExpireTime=1796, 3093, 3092 SavedExpireTime=1797, 3061, 3042 Amount=1, 3092 SavedExpireTime=1765, 3035 Amount=98, 3384, 3572, 3061}, 2853 Content={3585 Amount=15, 3595 Amount=5}, 2867 Content={2972 KeyNumber=3304, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 3083 RemainingUses=150, 3350, 2991, 3085 RemainingUses=200, 2969 KeyNumber=5000, 2969 KeyNumber=3302, 2991, 2969 KeyNumber=5010, 3008}, 2867, 2854 Content={2867 Content={2854}, 2920 SavedExpireTime=595}, 2854 Content={3003, 3483, 3308, 3291}, 3502 Content={3003, 3003, 2991, 3572, 2970 KeyNumber=4601, 3003, 2856, 3003, 3003, 3003, 2868}}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={3275}}}

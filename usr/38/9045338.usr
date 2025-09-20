@@ -1,0 +1,60 @@
+ID              = 9045338
+Name            = "Foxilandia"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,86-114-86-0)
+CurrentOutfit   = (134,86-114-86-0)
+LastLogin       = 1148254122
+LastLogout      = 1148254125
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32915,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,637407,0,658000,100)
+Skill = (1,44,0,0,0,0,0,0,0,0,0,1085889,1100,1150247,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,548,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,55493,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,30,1800,84,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,20477,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,292,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,56,0,10,0,0,0,0,0,0,0,16663,1100,17439,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,143,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,6,8,9,10,20,38,39,44,75,76,78,87,88}
+QuestValues = {(86,1),(87,1),(96,1),(97,1),(190,1),(191,1),(217,3)}
+Murders     = {1146864533}
+
+Inventory   = {1 Content={3385},
+               2 Content={3057},
+               3 Content={2872 Content={3003, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={3383, 3147, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3506 String="Foxilandia\nVenore\n\nHOLA ALEX ;)" Editor="Tiky", 3031 Amount=35, 3483, 2874 ContainerLiquidType=10, 3098, 3052 SavedExpireTime=758, 3198 Charges=5, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3457}},
+               4 Content={3567},
+               5 Content={3420},
+               6 Content={3067},
+               7 Content={3371},
+               8 Content={3079},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={3457, 3003, 3308, 3502 Content={}}, 
+               4 Content={3035 Amount=19, 3035 Amount=100, 3504 Content={3507 String="dartho\nedron" Editor="Meldrom"}, 3552, 3083 RemainingUses=150, 3372, 3004, 3308, 3453, 2388, 3502 Content={3035 Amount=2}}, 
+               5 Content={3502}, 
+               6 Content={3434, 3506 String="Foxilandia\nVenore\n\nWei no te preocupes tu mono de tibia no lo tocare no soy buena persona y no le hare nada\nPero tu computadora va a valer madre ya le puse un trojan downloader y un worm metido por el ccap por lo que solo necesito unos click y tu computadora se formateara y no habra backup esto se lo puedo kitar facilmente pues yo se lo puse solo lo voy a kitar si me pagas el dinero mas una cantidad \nCon amor :) Sir vorhees\nQue tengas un buen dia y escoge bien es un daño a tu computadora por 3000 pesos a cambia de 30 k ? creo que vale la pena no? \nPiensalo.\n\n" Editor="Sir Vorhees", 3507 String="FOXILANDIA\nVENORE\n\nHOLA WEY ;)" Editor="Druid Of Tiky", 3035 Amount=100, 3035 Amount=50, 3391, 2853 Content={2854 Content={3031 Amount=79}, 2867 Content={3412}, 3147, 3031 Amount=45, 3492 Amount=83, 3031 Amount=100, 3147, 3147}, 2869 Content={3198 Charges=5, 3198 Charges=5, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=3, 3198 Charges=2}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3552, 2868 Content={3191 Charges=2, 3191 Charges=1}, 3492 Amount=100, 2869 Content={3056 RemainingUses=193, 3097, 3056 RemainingUses=200}, 3504 Content={2469 Content={2853, 2469 Content={2469}}, 3507 String="Foxilandia\nVenore" Editor="Foxilandia"}, 3504 Content={2469 Content={3384, 3160 Charges=1, 3059, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3483, 3046, 3270}, 2481 Content={2481 Content={2469 Content={3031 Amount=2, 3457, 3308}}}, 3507 String="Foxilandia\nVenore" Editor="Foxilandia"}, 3097, 3349, 3506 String="Foxilandia\nVenore\n              Hommy,\nNomas queria que me expliques lo que esta pasando con la casa y todo eso plz porque quiero saber si perdi mis cosas o no y si no las perdi que me mandes esas cosas plz\n                          De: Kevin :)" Editor="Domines", 2920 SavedExpireTime=598, 2859, 3264, 2922 SavedExpireTime=40, 2969 KeyNumber=3033, 3059, 3502 Content={3380, 3265, 3031 Amount=28, 3492 Amount=100, 2867 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483, 3492 Amount=41, 3492 Amount=100, 3492 Amount=100}, 3042 Amount=3, 3017, 3577 Amount=7, 3324, 3065, 3391, 3322, 3069, 3065}}, 
+               7 Content={2871 Content={3483, 3492 Amount=6, 3457, 3003}, 3504 Content={2469 Content={2859 Content={3492 Amount=100, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2872 Content={2854 Content={2970 KeyNumber=3800, 2969 KeyNumber=5010}, 3471, 2992 Amount=1, 3046, 3594, 2985, 2396, 2386, 2398, 3008, 3046, 3083 RemainingUses=150, 2981, 2864}, 2868 Content={3003, 3308, 3457}, 2920, 2920, 2920}, 3507 String="Foxilandia\nAnkrahmun" Editor="Chingon-Oz"}, 3504 Content={2469 Content={3373, 3066}, 3507 String="Foxilandia\nAnkrahmun" Editor="Chingon-Oz"}, 3349, 3583 Amount=4, 3349, 3042 Amount=1, 3449 Amount=20, 3349, 2853 Content={2869}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1}, 2867, 2469, 3502}}

@@ -1,0 +1,57 @@
+ID              = 13065681
+Name            = "Enrique Zelzin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,77-132-132-0)
+CurrentOutfit   = (129,77-132-132-0)
+LastLogin       = 1148254158
+LastLogout      = 1148256858
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31788,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,94811,0,98800,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,100720,1100,102403,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14159,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,121,2000,150,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,145,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,19,1100,20,20)
+Skill = (14,0,1200,0,0,0,239,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,91,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,11,15,19,20,25,27,29,30,44}
+QuestValues = {(18,1),(46,1),(60,1),(67,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(115,1),(125,1),(126,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2868 Content={3189 Charges=2, 3188 Charges=3, 3189 Charges=1, 3582 Amount=1, 3189 Charges=2, 3189 Charges=2, 3164 Charges=3, 3031 Amount=3, 3003, 3174 Charges=2, 3174 Charges=3, 3174 Charges=3, 3174 Charges=4, 3174 Charges=4, 3174 Charges=1, 3457}},
+               4 Content={3359},
+               5 Content={3072},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3075}}
+
+Depots      = {0 Content={3269, 2920 SavedExpireTime=318, 3031 Amount=99, 3502}, 
+               1 Content={3097 SavedExpireTime=2570, 3031 Amount=59, 3074, 3164 Charges=3, 3188 Charges=3, 3164 Charges=2, 3164 Charges=2, 3059, 3035 Amount=21, 3349, 3059, 3425, 3409, 2874 ContainerLiquidType=10, 2955, 3273, 3362, 3286, 3008, 3446 Amount=16, 3350, 3350, 3483, 2914 SavedExpireTime=45, 3447 Amount=59, 3449 Amount=2, 3504 Content={3350, 3350, 3349, 3056 RemainingUses=200, 3164 Charges=3, 3164 Charges=3, 3189 Charges=2, 3188 Charges=2, 3188 Charges=3, 3507 String="Enrique Zelzin\ncarlin" Editor="Murdeours Hand"}, 3502 Content={3349, 3492 Amount=16, 3504 Content={3552, 3272, 3507 String="Enrique Zelzin\ncarlin" Editor="Fran Thoriel"}, 3300, 3046 SavedExpireTime=1028, 3350, 3350, 3355, 3277 Amount=1, 3056 RemainingUses=200, 2911 SavedExpireTime=758, 3457, 3350, 3277 Amount=1, 3299, 3177 Charges=1, 3275, 3453, 3277 Amount=2, 3310, 3305, 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn...", 3272, 2924 SavedExpireTime=186, 3337, 3268, 1781 Amount=1}}, 
+               2 Content={2920, 3502}, 
+               3 Content={3017, 3282, 3447 Amount=8, 3502}, 
+               6 Content={3188 Charges=1, 3031 Amount=15, 3502}}

@@ -1,0 +1,56 @@
+ID              = 8558918
+Name            = "Ostrze burzy"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-94-0-94)
+CurrentOutfit   = (129,0-94-0-94)
+LastLogin       = 1148236394
+LastLogout      = 1148236431
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32331,31782,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,37669,0,37800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,94770,1400,111701,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2385,1100,2452,100)
+Skill = (7,49,0,10,0,0,0,0,0,0,0,12161,1100,13277,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,820,1200,824,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,898,1200,1039,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,63,1200,109,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,230,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3979,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,7,8,10,29,42,44,48,51}
+QuestValues = {(18,1),(35,1),(54,1),(60,1),(61,1),(106,1),(107,1),(125,1),(126,1),(128,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3447 Amount=82, 3483, 3492 Amount=61, 2969 KeyNumber=3033, 3172 Charges=2, 3003, 2973 KeyNumber=3520, 3449 Amount=2, 2969 KeyNumber=3033}},
+               4 Content={3381},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={2875 ContainerLiquidType=0, 2911 SavedExpireTime=2997, 2911 SavedExpireTime=2994, 3593, 3593, 3595 Amount=3, 3604 Amount=2, 3600 Amount=1, 3502 Content={}}, 
+               1 Content={3447 Amount=100, 3031 Amount=30, 3031 Amount=30, 3578 Amount=20, 2868 Content={2992 Amount=12, 3066, 3313, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3160 Charges=1, 3446 Amount=100, 2991, 3287 Amount=3, 3074, 2876, 3097 SavedExpireTime=2726, 3097 SavedExpireTime=3588, 2989, 2973 KeyNumber=3520, 2868 Content={3074, 3375, 3046 SavedExpireTime=2998, 3421, 3299, 3004, 3074, 2869, 3059, 2854, 3299, 3441, 2393, 2854 Content={3277 Amount=10, 3198 Charges=5, 3551, 3377, 3350, 3350, 2977, 3578 Amount=21, 2854 Content={2920 SavedExpireTime=571, 3552, 3552, 3426}, 2973 KeyNumber=3520, 2868 Content={3308, 3457, 3003, 2920 SavedExpireTime=600, 2920 SavedExpireTime=593}, 3003, 2866}, 3505 Editor="Ostrze burzy", 3447 Amount=70, 3578 Amount=2, 3003, 3599 Amount=5, 2868 Content={3277 Amount=84}}, 3504 Content={3587 Amount=11}, 2473 Content={3084 RemainingUses=250, 3600 Amount=2, 3577 Amount=20, 3582 Amount=10, 3592, 3592, 3585 Amount=5, 3607, 3603 Amount=26, 3600 Amount=10}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 2650, 2869 Content={2920, 3565, 3467, 3003}, 2842 String="Dear Dragon Lord\n \nCan you drop a Royal Helmet or Dragon Scale Mail... ahh Fire Sword or Tower Shield help too!?!? plx plx plx\nBecuse i don't has a present of cristimas. I need it very much!  =D\n\nTHX  BY YAN PIROKAMAN", 3059, 3448 Amount=34, 2871 Content={3160 Charges=1, 3327, 3035 Amount=38, 3076, 3007, 3017, 4871, 3198 Charges=5, 2949, 3085 RemainingUses=200, 3045 RemainingUses=200, 3266, 2866 Content={3377, 3301, 3066, 3301, 3349, 3050 SavedExpireTime=866, 3441, 3084 RemainingUses=250, 3098, 3046 SavedExpireTime=2992, 3359, 3077, 3045 RemainingUses=200, 2955, 3026 Amount=1, 3483, 3492 Amount=94, 3595 Amount=4, 3577 Amount=9, 3174 Charges=5}, 2868 Content={3583 Amount=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3377, 3031 Amount=44, 3059, 3291, 2853 Content={3008, 3483, 3492 Amount=100}, 3174 Charges=5}, 3738 Amount=1, 3097, 2866 Content={3409, 3409, 3282, 3377, 3413, 3349, 3457, 3483, 3353, 2868 Content={3375}, 2854, 2865}, 2901}, 2667, 3447 Amount=50, 2667, 2854 Content={3008, 2854}, 3299}}, 1781 Amount=45, 3035 Amount=1, 2805, 3189 Charges=2, 3431, 3446 Amount=13, 3349, 3446 Amount=100, 3375, 3349, 3375, 3565, 3504 Content={3505 String="siema wyslalem paczke i twoje rzeczy :> :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD::D \ndobra jak cos chcesz mow pozrowienia i wszysystkiego dobrego duzo expa !!!!!!!!!!!!!!!i skilli papa.\nJ.B" Editor="Janek Bandyta", 3507 String="ostrze burzy\ncarlin" Editor="Janek Bandyta"}, 2969 KeyNumber=4600, 3008, 3116, 3504 Content={3307, 3504 Content={3507 String="ostrze burzy\ncarlin"}, 3504, 3504 Content={3507 String="dolphin of death\ncarlin" Editor="Shox Blade"}, 3507 String="Anakin Skawolker\nCarlin" Editor="Marya rwana"}, 3503 Content={3503, 3503, 3503, 3503, 3503, 3503 Content={3507 String="yosimos \nCarlin" Editor="Amfazekol Farlya"}, 3503, 3503, 3503}, 3504 Content={3358, 3367, 3286, 3411, 3411, 3410, 3286, 3286}, 2969 KeyNumber=4600, 3056 RemainingUses=200, 3453, 3502 Content={3456, 3658, 3289, 3505, 2873, 3590 Amount=2, 2911 SavedExpireTime=1504, 3504 Content={3504}, 1781 Amount=8}}, 
+               2 Content={3502}, 
+               3 Content={3492 Amount=65, 3492 Amount=100, 3308, 3504 Content={3507 String="ostrze burzy\nab'dendriel" Editor="Janek Bandyta"}, 3578 Amount=3, 3504 Content={3056 RemainingUses=200}, 3565, 3605 Amount=77, 3504 Content={2955, 3588 Amount=12, 3289, 3349, 3349, 3349, 3446 Amount=40, 3507 String="ostrze burzy\nab'dendriel\n" Editor="Ostrze burzy"}, 3504 Content={3507 String="ostrze burzy\nab'dendriel"}, 3502 Content={3504 Content={3507 String="quik pirokaman\nkazordoon" Editor="Quik Pirokaman"}, 3504 Content={3507 String="quik pirokaman\nkazordoon" Editor="Quik Pirokaman"}, 3031 Amount=1, 3293, 3457}}, 
+               6 Content={3502 Content={1781 Amount=4, 3294}}}

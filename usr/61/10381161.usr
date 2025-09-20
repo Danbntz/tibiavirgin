@@ -1,0 +1,51 @@
+ID              = 10381161
+Name            = "Dark sponk"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (134,12-69-0-69)
+CurrentOutfit   = (134,12-69-0-69)
+LastLogin       = 1147310687
+LastLogout      = 1147311299
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32096,32200,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,36,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,149,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,28,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,23,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,19,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               3 Content={2854 Content={3277 Amount=1, 3607, 3031 Amount=18}},
+               4 Content={3379},
+               5 Content={3412},
+               6 Content={3274},
+               7 Content={3559}}
+
+Depots      = {1 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3504 Content={3350, 3598 Amount=6, 3588 Amount=8, 3059, 3028 Amount=2, 3507 String="Dark sponk\nCarlin" Editor="Sergio chingon"}, 3003, 3504 Content={3507 String="Dark sponk\ncarlin"}, 3504 Content={3507 String="Lord Zurikatito\ncarlin"}, 3504 Content={3507 String="elemental dark\ncarlin\n"}, 3504 Content={3507 String="Dark sponk\ncarlin"}, 3502 Content={3446 Amount=100, 2865 Content={2854 Content={2857 Content={3411, 3411, 3123}, 3054 RemainingUses=200}, 3056 RemainingUses=190, 3056 RemainingUses=200}, 3003, 3110, 3459, 3362, 2853 Content={3588 Amount=75, 3003}, 3003, 3457, 2853 Content={3354}, 3425, 3353, 3285, 2969 KeyNumber=4600}}, 
+               4 Content={3504 Content={3504 Content={3425, 3457, 3350, 1781 Amount=10, 3277 Amount=19, 3507 String="Dark sponk\ncarlin"}, 3507 String="Dark sponk\nedron"}, 3504 Content={3507 String="Dark sponk\nedron"}, 3502 Content={3059 String="", 2865 Content={3277 Amount=1}, 3447 Amount=19, 3447 Amount=100, 3577 Amount=57, 3582 Amount=28, 2869 Content={3457}, 3056 RemainingUses=200, 1781 Amount=6, 3349, 2868 Content={}, 2868 Content={}, 2854 Content={}}}}

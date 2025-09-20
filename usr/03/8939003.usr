@@ -1,0 +1,56 @@
+ID              = 8939003
+Name            = "Xir Blak label"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,76-114-114-90)
+CurrentOutfit   = (129,76-114-114-90)
+LastLogin       = 1146619730
+LastLogout      = 1146619737
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,80152,0,83400,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,82484,1100,91639,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,10,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16095,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,7510,2000,12750,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,7695,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,114,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1922,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,10,16,20}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(86,1),(87,1),(109,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3576},
+               2 Content={3572},
+               3 Content={2853 Content={2957, 3003, 2969 KeyNumber=3600}},
+               4 Content={3379},
+               6 Content={3410},
+               8 Content={3552}}
+
+Depots      = {0 Content={3003, 3504 Content={3507 String="xir blak label\nthais"}, 3504 Content={3379, 3283, 3507 String="xir blak label\nthais"}, 3502}, 
+               1 Content={3502}, 
+               3 Content={3003, 2650, 2659, 2647, 3446 Amount=5, 3287 Amount=2, 3350, 2969 KeyNumber=3033, 3077, 3031 Amount=1, 3283, 3492 Amount=100, 3492 Amount=6, 3492 Amount=100, 3447 Amount=4, 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 650 gold\nfor your house \"Great Willow 3a\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="xir blak label\nab'dendriel\n"}, 3504 Content={3507 String="xir blak label\nab'dendriel"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Great Willow 3a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               4 Content={3504 Content={2868 Content={3031 Amount=88, 3035 Amount=3, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3507 String="xir blak label\nedron\n"}, 3577 Amount=1, 3585 Amount=2, 3504 Content={3504 Content={}, 3504 Content={}}, 3502 Content={}}, 
+               5 Content={3492 Amount=79, 2920 SavedExpireTime=0, 3502 Content={3492 Amount=16, 3003, 3354, 3410}}, 
+               6 Content={2854 Content={2854}, 2867, 2867, 3502}, 
+               7 Content={3031 Amount=7, 3031 Amount=100, 3483, 3504 Content={2854 Content={3507 String="", 3492 Amount=10, 3492 Amount=100, 3483, 3377}, 3377, 3578 Amount=15, 3507 String="xir blak label\nankrahmun"}, 3502 Content={}}}

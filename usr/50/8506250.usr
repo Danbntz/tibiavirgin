@@ -1,0 +1,55 @@
+ID              = 8506250
+Name            = "Roderic"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-114-114-114)
+CurrentOutfit   = (134,0-114-114-114)
+LastLogin       = 1148156842
+LastLogout      = 1148156847
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32915,32070,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,435135,0,452600,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,147857,1400,157982,1600)
+Skill = (2,415,415,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,930,930,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35532,1100,36404,100)
+Skill = (7,61,0,10,0,0,0,0,0,0,0,39546,1100,42312,30)
+Skill = (8,32,0,10,0,0,0,0,0,0,0,15172,1200,16311,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,40,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,46,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,1010,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,20,29,30,42,44,51,76,79,81}
+QuestValues = {(1,3),(2,6),(14,1),(20,1),(21,1),(22,1),(23,1),(37,1),(41,1),(42,1),(43,1),(44,1),(49,1),(65,1),(79,1),(80,1),(81,1),(82,1),(83,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(108,1),(116,1),(117,1),(118,1),(121,1),(124,1),(137,1),(151,1),(152,1),(179,1),(180,1),(190,1),(191,1),(211,4),(213,1),(214,1),(215,1),(216,1)}
+Murders     = {1145929061,1145992530,1146287482}
+
+Inventory   = {4 Content={3377},
+               6 Content={3349},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="roderic\nthais\n" Editor="Roderic"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3062, 3502 Content={2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2870 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}}}, 
+               3 Content={3084 RemainingUses=250, 3077, 3046, 3457, 3003, 3457, 3050, 2970 KeyNumber=3012, 3078, 3502}, 
+               4 Content={3504 Content={3507 String="Roderic\nedron", 3079}, 3349, 2869 Content={2865 Content={3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0}, 3723 Amount=30, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3003, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2853 Content={3578 Amount=52, 3483}, 2868 Content={3277 Amount=19, 3191 Charges=2, 3191 Charges=2}, 3357, 3384, 3504 Content={2853 Content={2867 Content={3446 Amount=100, 3446 Amount=100}}, 3507 String="roderic\nedron"}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3383, 2868 Content={2868 Content={2866 Content={}}, 2867 Content={2854 Content={}}, 2869 Content={}}, 3391, 3322, 2869 Content={3723 Amount=99, 3723 Amount=100, 3350, 3457, 3049 SavedExpireTime=140, 3085 RemainingUses=183, 2854 Content={3007, 3003, 3457}, 3026 Amount=3, 3091 SavedExpireTime=0, 2853 Content={3354, 3354, 3354, 3354, 3367}, 2857 Content={3287 Amount=1, 3083 RemainingUses=150, 3046 SavedExpireTime=0, 3732 Amount=4, 3450 Amount=2, 3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}, 3732 Amount=3, 3574, 3198 Charges=5, 3287 Amount=18, 3723 Amount=100}, 2869 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2869 Content={2866 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2868 Content={3349, 3349, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2869 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}}}}, 3504 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="Roderic\nedron"}, 3502 Content={3065, 3093 SavedExpireTime=0, 3035 Amount=66, 3552, 2869 Content={2869 Content={2854 Content={}}, 2869 Content={}, 2865 Content={}}, 3447 Amount=3, 3198 Charges=5, 3035 Amount=100, 3457, 3448 Amount=30, 3373, 3039, 3034 Amount=1, 3012}}, 
+               5 Content={2853 Content={3367, 3367, 3367, 3367}, 3504 Content={3507 String="roderic\ndarashia"}, 3502 Content={}}, 
+               6 Content={3050 SavedExpireTime=1528, 3589 Amount=12, 3504 Content={3577 Amount=40, 3507 String="Roderic\nvenore" Editor="Coyotitlan"}, 3504 Content={3507 String="Roderic\nVenore" Editor="Orsacchiotto"}, 3507 String="para Roderic de su amigo valentin elizalde" Editor="Roderic", 3350, 3350, 3410, 3410, 3410, 3410, 2867 Content={3305}, 2869, 3404, 3502}, 
+               7 Content={3502}, 
+               8 Content={2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3587 Amount=3, 3586 Amount=3, 3582 Amount=2, 3577 Amount=2, 3046, 3279}, 3502 Content={3349}}}

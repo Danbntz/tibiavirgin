@@ -1,0 +1,61 @@
+ID              = 7945888
+Name            = "Logan Spok"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,114-89-0-114)
+CurrentOutfit   = (133,114-89-0-114)
+LastLogin       = 1147292627
+LastLogout      = 1147292650
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32370,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,309145,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,86140,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,93,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,125820,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,70147,1100,70521,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,24,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2278,1100,2421,20)
+Skill = (14,0,1200,0,0,0,159,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(14,1),(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(59,1),(86,1),(87,1),(96,1),(97,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2871 Content={3052 SavedExpireTime=7, 2867 Content={3587 Amount=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=70, 3198 Charges=2, 3723 Amount=60}},
+               4 Content={3357},
+               5 Content={3428},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2970 KeyNumber=3800}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3578 Amount=26, 3446 Amount=22, 3504 Content={2854 Content={2868 Content={}, 3447 Amount=13, 3483, 3003}, 2853 Content={3425, 3353}, 3054 RemainingUses=145, 2973 KeyNumber=3520, 2853 Content={3425}, 2854 Content={3507 String="jskajskajksjskasj t pasasss"}, 3507 String="Logan Spok\nCarlin"}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2865 Content={3577 Amount=94, 3602 Amount=72, 3031 Amount=39, 3413, 3457, 3003}, 2992 Amount=9, 2469 Content={3504 Content={2659, 2667, 2659, 2667, 2659, 2667, 2659, 2659, 2659, 2667}, 3504 Content={2667, 2667, 2659, 2667, 2659, 2667, 2659, 2667, 2659, 2667}, 3265, 3349, 3504 Content={3504 Content={3507 String="ken thudor\ncarlin"}, 3503 Content={3503}, 3503, 3504, 2853, 3507 String="Kindoms\nVenore"}, 3425, 3375, 3372, 2902, 2969 KeyNumber=3033}, 3483, 3291, 3357, 2667, 2659, 3446 Amount=100, 2667, 2659, 2667, 3447 Amount=100, 2667, 2659, 2854 Content={3300, 3507, 3377, 3481, 3054 RemainingUses=200}, 3583 Amount=1, 3275, 3030 Amount=1, 2854 Content={3349, 3327, 3172 Charges=3, 3097, 3083 RemainingUses=150, 3012, 3046, 3097, 3084 RemainingUses=250, 2955}, 3026 Amount=1, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3504 Content={2659, 2667, 2659}, 3504 Content={2659, 2969 KeyNumber=3033, 3507 String="Logan Spok\nEdron"}, 3504 Content={3507 String="Logan Spok\nEdron", 3054 RemainingUses=39, 3552, 2869 Content={2853 Content={3504 Content={3277 Amount=4, 3377, 3362, 3459, 3507 String="Paxan Citizen\nedron"}, 3446 Amount=10, 2973 KeyNumber=3520, 2826 String="Tales of Tibia", 3083 RemainingUses=150, 3083 RemainingUses=150}, 3308, 3377, 3447 Amount=18, 3483, 3377, 3377, 3377, 3483}, 3377}, 3504 Content={2667, 3578 Amount=84, 3582 Amount=22, 3578 Amount=100, 3578 Amount=100, 3582 Amount=100, 3577 Amount=100}, 3502 Content={3031 Amount=35, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Wood Avenue 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3447 Amount=78, 3502 Content={3504 Content={3267, 3507 String="logan spok\nvenore"}}}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3504 Content={3507 String="Logan Spok\nPort Hope"}, 3502 Content={}}}

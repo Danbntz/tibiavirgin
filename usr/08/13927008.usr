@@ -1,0 +1,56 @@
+ID              = 13927008
+Name            = "Toy pdo"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,39-87-0-94)
+CurrentOutfit   = (134,39-87-0-94)
+LastLogin       = 1148182295
+LastLogout      = 1148182410
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33094,32857,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,5940,0,6400,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,3503,1100,5296,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,33,35,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2640,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,45,2000,50,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,1368,2000,1550,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,54,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1}
+QuestValues = {(25,1),(26,1),(32,1),(33,1),(34,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3008},
+               4 Content={3377},
+               5 Content={3074},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3504 Content={2664 RemainingExpireTime=569, 3492 Amount=29, 3031 Amount=88, 3035 Amount=55, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3507 String="toy pdo \nankrahmun" Editor="Azkan luis"}}}
+
+Depots      = {1 Content={3504 Content={3507 String="toy pdo\ncarlin" Editor="Dark ger"}, 3031 Amount=1, 3504 Content={3507 String="toy pdo\ncarlin" Editor="Azkan luis"}, 3504 Content={2853 Content={3430}, 3447 Amount=12, 2854, 3507 String="toy pdo \ncarlin" Editor="Dark ger"}, 3504 Content={3507 String="toy pdo\ncarlin" Editor="Dark-ger"}, 3504 Content={3507 String="toy pdo\ncarlin" Editor="Dark ger"}, 3362, 3504 Content={3507 String="toy pdo\ncarlin" Editor="Dark ger"}, 3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="toy pdo\nankrahmun" Editor="Dark ger"}, 2854 Content={2647, 2659, 2659, 2647, 2647, 2659, 2659, 2653, 2653, 2659, 2653, 2659, 2659, 2659, 2653, 2659, 2659, 2659, 2659, 2656}, 3409, 3502}, 
+               8 Content={3507 String="toy pdo\nport hope" Editor="Arka Rausanoc", 3274, 3359, 3453, 3367, 3367, 3367, 3502 Content={3551, 2992 Amount=4, 3483, 2874 ContainerLiquidType=9, 3483}}}

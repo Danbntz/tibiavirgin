@@ -1,0 +1,48 @@
+ID              = 13152481
+Name            = "Aburame Shyno"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-57-56-114)
+CurrentOutfit   = (129,114-57-56-114)
+LastLogin       = 1144469484
+LastLogout      = 1144469796
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32304,32267,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,20242,0,23200,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,12393,1100,15179,1600)
+Skill = (2,178,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,90,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5263,1500,7488,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,64,2000,90,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2974,2000,3150,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,139,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,132,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(28,1),(30,1),(32,1),(33,1),(34,1),(106,1),(107,1),(115,1),(223,1),(224,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853},
+               10 Content={3446 Amount=22}}
+
+Depots      = {0 Content={3318, 3504 Content={3507 String="aburame shyno\nthais" Editor="Protos Master"}, 3300, 3504 Content={2868 Content={2920, 3492 Amount=24, 3034 Amount=1, 2473 Content={2854, 2914 SavedExpireTime=1024, 3350, 3084 RemainingUses=250}, 2955, 2973 KeyNumber=3520, 2868 Content={3050, 3056 RemainingUses=200}, 2911 SavedExpireTime=2952, 2911, 1781 Amount=2, 3147, 3147, 3147}, 2920 SavedExpireTime=550, 3507 String="Aburame Shyno\nThais\n" Editor="Alecxi"}, 3504 Content={2920 SavedExpireTime=215, 3578 Amount=17, 3377, 2865 Content={3377, 3377, 3003, 2868 Content={3003, 2970 KeyNumber=3800, 2920}, 3003, 3003, 3084 RemainingUses=250, 3492 Amount=100, 2854 Content={3533 Amount=1, 3533 Amount=1, 3533 Amount=1, 3533 Amount=1, 3533 Amount=1, 3534 Amount=1, 3534 Amount=1, 3534 Amount=1, 3534 Amount=1, 3534 Amount=1}}, 3507 String="Aburame Shyno\nThais\n" Editor="Preator Zeratul"}, 3504 Content={3052, 2854 Content={2970 KeyNumber=4503, 3084 RemainingUses=250, 3052, 3052 SavedExpireTime=1194, 3147, 3046, 2874 ContainerLiquidType=10}, 3507 String="Aburame Shyno\nThais\n" Editor="Preator Zeratul", 3577 Amount=22}, 3504 Content={3577 Amount=62, 3507 String="Aburame Shyno\nThais\n" Editor="Preator Zeratul"}, 3504 Content={3577 Amount=1, 3577 Amount=5, 2865, 3577 Amount=20, 3507 String="Aburame Shyno\nThais\n" Editor="Preator Zeratul"}, 3504 Content={3052, 3084 RemainingUses=156, 3097 SavedExpireTime=3598, 3085 RemainingUses=200, 3492 Amount=100, 3492 Amount=84, 3492 Amount=68, 2865 Content={2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=4055, 2968 KeyNumber=3940, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2816 String="Wyrd Sisters\nby Terry P.", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2824 String="Armaments, Chapter Two, Verses Nine to Twenty-One.\n\nAnd the Lord spake, saying:\n\"First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.\"", 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn..."}, 2867 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3507 String="Aburame Shyno\nThais\n" Editor="Preator Zeratul"}, 3504 Content={3059, 2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2471 Content={2911 SavedExpireTime=2999, 2911, 2920, 2911 SavedExpireTime=2383, 2920, 2920 SavedExpireTime=536, 2920, 2920, 2920 SavedExpireTime=599, 2920, 3046 SavedExpireTime=2996, 2920, 2920, 2920}, 3507 String="Aburame Shyno\nThais" Editor="Preator Zeratul"}, 3504 Content={2906, 3350, 2854 Content={3085 RemainingUses=190, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3056 RemainingUses=200, 3056 RemainingUses=200, 3003, 3003, 3003, 3003, 3471, 3003, 2906, 2955}, 3004, 2970 KeyNumber=3802, 3600 Amount=57, 3059, 3507 String="Aburame Shyno\nThais\n" Editor="Preator Zeratul"}, 2874, 2853 Content={3271, 3377, 3054 RemainingUses=114, 3046 SavedExpireTime=2978}, 3451, 3456, 3291, 3308, 3307, 3085 RemainingUses=200, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3502}, 
+               3 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=67, 3502}, 
+               6 Content={2853 Content={3409, 3456, 3492 Amount=100, 3456, 2914 SavedExpireTime=1270}, 3285, 3285, 2853 Content={3017, 3285, 3031 Amount=66, 3017, 3030 Amount=2, 3028 Amount=3}, 3577 Amount=5, 3421, 3502}}

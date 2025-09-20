@@ -1,0 +1,53 @@
+ID              = 9040793
+Name            = "Kod Royal Tom"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,0-93-93-0)
+CurrentOutfit   = (133,0-93-93-0)
+LastLogin       = 1145579040
+LastLogout      = 1145579052
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,71848,0,83400,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,41609,1400,55031,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,79,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,13100,1100,13420,100)
+Skill = (7,51,0,10,0,0,0,0,0,0,0,15073,1100,16129,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,49,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,89,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,323,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,29,42,51,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(69,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3031 Amount=96, 3031 Amount=100, 3446 Amount=2, 3031 Amount=100, 3349, 3031 Amount=100, 3504 Content={3507 String="kod royal tom\ncarlin\n", 2854 Content={3377, 3003}}, 3457, 3457, 3504 Content={3504 Content={}}, 3504 Content={3507 String="Kod Royal Tom\nCarlin"}, 3506 String="Kod royal tom\ncarlin\n\ncara vc eh um tosco e bobaO AHUAHUAHUAUH ZUERA TU E CAMARADA PACAS \nASS: KOD ROYAL ALE\n\n", 3502 Content={3084 RemainingUses=250, 3077, 3046 SavedExpireTime=0}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3504 Content={3507 String="kod royal tom\nedron"}, 3502 Content={2853 Content={3056 RemainingUses=200, 3285, 3027 Amount=2, 3026 Amount=1, 3147, 3147, 3147}, 3083 RemainingUses=150}}, 
+               5 Content={3504 Content={3507 String="kod royal tom\ndarashia"}, 3504 Content={3504 Content={}}, 3425, 3425, 3277 Amount=7, 3293, 3483, 3502 Content={2868 Content={2868 Content={}}, 2868 Content={3350, 3504 Content={3507 String="kod royal tom\n\n                  hunte here"}, 3504 Content={3507 String="don pepe\nvenore"}, 3277 Amount=3, 3430, 3372}, 2866 Content={2647, 2667, 2656}, 2866 Content={3447 Amount=34, 3350, 3031 Amount=76, 3056 RemainingUses=200, 3097 SavedExpireTime=3598, 3083 RemainingUses=150}, 2854 Content={3507 String="Galahad Ladwys Hunting Here\nRespect pls\nMsg me before\n\nThx a lot!", 3349, 3483, 3349, 3456, 3349}}}}

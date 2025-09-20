@@ -1,0 +1,57 @@
+ID              = 8647486
+Name            = "Sir Willian-Wallace"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,59-101-79-94)
+CurrentOutfit   = (130,59-101-79-94)
+LastLogin       = 1148242741
+LastLogout      = 1148246713
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32439,31971,11]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,643437,0,658000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,430973,3000,582400,1600)
+Skill = (2,377,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,52,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,76,0,10,0,0,0,0,0,0,0,568451,1100,592348,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,77,0,10,0,0,0,0,0,0,0,297916,1100,325841,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,58,0,10,0,0,0,0,0,0,0,19941,1100,21143,20)
+Skill = (14,0,1200,0,0,0,1120,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,7,0,64,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,36,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(38,1),(39,1),(55,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(115,1),(128,1),(132,1),(137,1),(140,1),(141,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(190,1),(191,1),(222,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2865 Content={3446 Amount=3, 3031 Amount=20, 3349, 3349, 3349, 3031 Amount=100, 3457, 3582 Amount=3, 3003, 3308, 2854 Content={3349, 3349, 3425, 3425, 3413, 3425, 3349, 3367, 3305, 3413}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3582 Amount=18, 3059, 2854 Content={3028 Amount=1, 3349, 3446 Amount=100, 3031 Amount=100, 3446 Amount=100, 2853 Content={3483, 3003}, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3077, 3446 Amount=100, 3446 Amount=35, 3077, 3077}, 3504 Content={3277 Amount=1, 3264, 2853 Content={3457, 3577 Amount=1, 3582 Amount=3}, 3507 String="Sir Willian-Wallace\nThais" Editor="Sir Willian-Wallace"}, 2854 Content={3492 Amount=70, 3492 Amount=100, 3291, 3307, 3425, 3294, 3412, 3267, 2970 KeyNumber=3142}, 3504 Content={3447 Amount=80, 3473, 3083 RemainingUses=150, 3507 String="Sir Willian-Wallace\nthais" Editor="Neo Zildjian"}, 3505 String="Sir Willian-Wallace\nMaruchan Montecristo(Protect be Cholo Robin)\n\nHunt here\nRespet cave\nMsg plz" Editor="Sir Willian-Wallace", 3505 String="\n" Editor="Zir Of Dragons", 2969 KeyNumber=3033, 2865 Content={3583 Amount=8, 3297, 3061, 3449 Amount=10, 3147, 3147, 3147, 3147}, 3298 Amount=1, 3283, 3308, 3307, 3299, 3083 RemainingUses=150, 3507, 3046 SavedExpireTime=2913, 3046, 3504 Content={3456, 3046 SavedExpireTime=2578, 3294, 3507 String="Sir Willian-Wallace\nthais" Editor="Felipeniebla"}, 2870 Content={3035 Amount=14, 3031 Amount=50, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3502 Content={2867 Content={3289, 3425}, 2854 Content={3066, 3066, 3050, 3097, 3083 RemainingUses=146, 3093 SavedExpireTime=1390, 3008, 3084 RemainingUses=56, 3076, 3046 SavedExpireTime=2045, 3310, 3097, 3050 SavedExpireTime=1085, 2969 KeyNumber=3650, 2969 KeyNumber=3610, 3293}, 2856 Content={3456, 2969 KeyNumber=3600, 3585 Amount=10}, 2870 Content={2869, 2871 Content={2871 Content={2874, 2874}, 2871}, 2867 Content={2867}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2865 Content={2865, 2865, 2865}, 2866 Content={2866}, 2868 Content={2868}, 2870 Content={2870}}}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="Sir Willian-Wallace\nKazordoon" Editor="Sir Willian-Wallace"}, 3504 Content={3507 String="sniper palgawn\nkazordoon" Editor="Deli Yask"}, 3504 Content={3507 String="isao krosan\nkazordoon" Editor="Isao Krosan"}, 2853 Content={2853 Content={2853}}, 3504 Content={3507 String="sir willian-wallace\nkazordoon" Editor="Cartman Paradise"}, 3505 String="Sir Willian-Wallace \nhunt in soldiers =)\n\nPlz leave\n\nRespet plz\n" Editor="Sir Willian-Wallace", 3505 String="Sir Willian-Wallace hunt here\n\nPlz leave\n\nRespet plz\n" Editor="Sir Willian-Wallace", 3505, 3505 String="Phantom'Lizus\nHunting here\nplz respect\nmsg me before u go down\n" Editor="Phantom'Lizus", 3505 String="Sir Willian-Wallace\nHunt here\n\nLeave plz\n\nRespet plz" Editor="Sir Willian-Wallace", 3505 String="Sir Willian-Wallace\nHunt here\n\nLeave plz\n\nRespet plz" Editor="Sir Willian-Wallace", 3559, 3378, 3457, 3502}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Sir Willian-Wallace\nVenore" Editor="Sir Willian-Wallace", 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3507 String="Sir Willian-Wallace\nThais" Editor="Sir Willian-Wallace"}}, 3502}}

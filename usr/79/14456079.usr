@@ -1,0 +1,58 @@
+ID              = 14456079
+Name            = "Master magoo"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,39-57-76-76)
+CurrentOutfit   = (134,39-57-76-76)
+LastLogin       = 1148241480
+LastLogout      = 1148241603
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33148,32794,7]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,698595,0,717600,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,339238,1100,355602,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,82,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,18062,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1762,2000,3150,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,2000,50,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,419,2000,750,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,456,1100,490,20)
+Skill = (14,0,1200,0,0,0,619,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,196,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,17,18,19,20,22,23,25,26,27,28,29,30,32,38,39,44,45,50,75,81,87,88,89,90}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2870 Content={2870 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3147, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3031 Amount=22, 3174 Charges=3, 3174 Charges=5, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3071},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3046 SavedExpireTime=2429}}
+
+Depots      = {0 Content={3502 Content={2854 Content={2857 Content={3077, 3084 RemainingUses=250, 3098}, 3572, 3003, 3457}}}, 
+               2 Content={3502}, 
+               4 Content={3502 Content={3446 Amount=17, 3582 Amount=6, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2872 Content={2868 Content={3289, 3425, 3384, 3425, 3425, 3425, 3289, 3384, 3425, 3092, 3093, 3384, 3384}, 2872, 2870 Content={3457}}}}, 
+               5 Content={3504 Content={3507 String="master magoo\ndarashia" Editor="Master magoo"}, 3502}, 
+               7 Content={3502 Content={2853 Content={3035 Amount=53, 3035 Amount=100}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3313, 3075, 3583 Amount=3, 3492 Amount=54, 3483, 2868 Content={3198 Charges=5, 3198 Charges=5}, 2871 Content={2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3049, 2869 Content={2871}, 3446 Amount=19, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3074, 3073, 3449 Amount=9, 2853 Content={3164 Charges=3, 3164 Charges=3, 3189 Charges=2, 3189 Charges=2, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3148 Charges=2, 3148 Charges=3, 3172 Charges=3, 3172 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2871 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3425, 3093, 3042 Amount=1}}}

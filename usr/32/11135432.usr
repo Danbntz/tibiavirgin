@@ -1,0 +1,55 @@
+ID              = 11135432
+Name            = "Master Sanmar"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,44-44-44-44)
+CurrentOutfit   = (128,44-44-44-44)
+LastLogin       = 1148206484
+LastLogout      = 1148209113
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32500,31862,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,477230,0,499200,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,244635,1400,313485,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,375,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,950,950,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51805,1100,53763,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,21078,1100,21567,30)
+Skill = (8,38,0,10,0,0,0,0,0,0,0,42786,1200,49203,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,10,1200,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,123,1200,181,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,92,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1010,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,24,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,92,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,8,10,29,51}
+QuestValues = {(35,1),(37,1),(46,1),(49,1),(59,1),(69,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(227,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3056 RemainingUses=148},
+               3 Content={2854 Content={3031 Amount=65, 3425, 3280, 3582 Amount=3, 3577 Amount=3, 3031 Amount=100, 3447 Amount=100, 3446 Amount=21, 3446 Amount=100, 3349, 2872 Content={3285, 2874, 2874, 2874, 2874, 2874, 2874, 3425, 2874, 2874, 2874, 2874}, 3457, 3003, 2867 Content={3160 Charges=1, 3160 Charges=1, 3198 Charges=2, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3370},
+               6 Content={3350},
+               7 Content={3372},
+               10 Content={3447 Amount=62}}
+
+Depots      = {0 Content={3354, 3286, 3413, 3413, 3483, 2859, 3483, 3504 Content={2874, 3507 String="Master Sanmar\nthais" Editor="Master Sanmar", 3160 Charges=1, 3446 Amount=100, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3266, 3266, 3266, 3286, 3286, 3286, 3286, 3285, 3286, 3286, 3286, 3266, 3286, 3286, 3286}}, 3285, 3483, 3275, 3305, 3421, 3293, 3483, 3353, 3359, 2854 Content={2854, 2872, 2867, 2871, 2868}, 3350, 3059, 3059, 3502 Content={3031 Amount=73, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=58}}, 
+               1 Content={2866 Content={3425, 3266, 3282, 3285, 3075, 3317, 3305, 3275, 3282, 3282, 3282, 3282, 3279, 3310}, 2867 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2867 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=600, 2920, 2920, 2920 SavedExpireTime=598, 2920, 2920 SavedExpireTime=128, 2920, 2920, 2920, 2922 SavedExpireTime=3}, 2854 Content={3059, 3003, 2969 KeyNumber=3033, 3059, 3059, 3552, 3003, 3572, 2969 KeyNumber=3033, 3003, 3077, 3059}, 2854 Content={3097, 3056 RemainingUses=200, 3050 SavedExpireTime=1791, 3056 RemainingUses=200, 3045 RemainingUses=200, 3012, 3084 RemainingUses=250, 3083 RemainingUses=150, 3085 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3083 RemainingUses=148, 3054 RemainingUses=200, 3054 RemainingUses=200, 3084 RemainingUses=250, 3008}, 2854 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2865 Content={3359, 3359, 3359, 3359, 3359, 3359}, 2857 Content={2829 String="The magic city Demona\nWritten by Danae, historian of the warlocks\nPart5\n\nWith our mighty magic abilities and the help of our new friends, a tribe of trolls, we could create the maze within one month!\n\nAfter it was finished nearly nobody found out the way to our city. The few who found it were killed by us.\n\nWe hired some mercenaries too. We pay them good for protecting parts of the maze against enemies.\n\nAnd thats how is was for centuries until today.\nWe could make our researches in silence and without fear of an attack.\n\nOne day we will reach our main goal. And then we wont have to fear anyone.\n\n\n<End of the five books History of the Warlocks>", 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3802}, 2853 Content={2911}, 2482 Content={2868, 2868, 2865, 2865, 2854, 2854, 2854, 2866, 2869, 2871}, 2471 Content={3349, 3349, 3349, 3349, 3349, 3349, 3446 Amount=100, 3446 Amount=100, 3349, 2867 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3350, 2854 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 2469 Content={3293, 3307, 3301, 3307, 3308}, 2473 Content={3409, 3409, 3413}, 2472 Content={3357, 3357, 3372, 3353, 3377, 3375}, 3502 Content={2865 Content={3031 Amount=66, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=19, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 3577 Amount=9, 3590 Amount=7, 3579 Amount=3, 3585 Amount=9, 3586 Amount=10, 3505, 3505, 3505, 2857 Content={3092, 3092, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 3098, 3084 RemainingUses=250, 3077, 3046 SavedExpireTime=2995}, 3582 Amount=20, 3504 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3153 Charges=1}, 2853 Content={3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853}}}, 
+               2 Content={3504 Content={3507 String="Master Sanmar\nKazordoon" Editor="Master Sanmar", 3425}, 3502}, 
+               3 Content={3502 Content={3577 Amount=8, 3582 Amount=4}}, 
+               6 Content={3082 RemainingUses=50, 2853 Content={2874, 2874}, 3502 Content={3031 Amount=25, 3031 Amount=100, 3031 Amount=100}}}

@@ -1,0 +1,48 @@
+ID              = 12827660
+Name            = "Druid el Assassin"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,114-114-114-94)
+CurrentOutfit   = (129,114-114-114-94)
+LastLogin       = 1145477756
+LastLogout      = 1145477837
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32342,31786,7]
+PlayerkillerEnd = 1145903675
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,96388,0,98800,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,86404,1100,91639,1600)
+Skill = (2,-5,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11178,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,294,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,49,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,21,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,244,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,10,11,16,20,26,29,38,42,44}
+QuestValues = {(18,1),(54,1),(61,1),(106,1),(107,1),(115,1),(125,1),(126,1),(333,1)}
+Murders     = {1143310241,1143310282,1143311515,1143311589,1143311675}
+
+Inventory   = {}
+
+Depots      = {0 Content={3506 String="Druid el assassin\nthais\n\nKuri ilus seu amigao para todo sempre porfavor manow leia ate o fin pq e inportante eu to escrevendoe sa carata chorando,esa carta e grande leia ela toda\n\n\n\nmanow esssa carta e para diser que se vc quiser ser meu amigo de volta vc me mande uma carata disendo que vc nao queria falar comigo pq eu era chato ou se explique pq vc nao quis falar comigo\n\n\n\n\n\nsua amizade e muito enportante para min\n\n\n\n\n\nmanow para vc ter certesa que sou eu meu nome e Marcio Rosa Braz meu irmao e Jarbas Rosa Braz Junior meu pai tbm e iqual emu irmao minha mae e Marcia Ferreira Da Silva Braz\n\n\n\n\n\n\nblz fui todo dia vo entra no char para ve se vc ando a carata\n\n\n\n\n\n\n\n\n\n\nesa carata foi enviado no dia 21/03/2006" Editor="Kuri Ilus", 3502}, 
+               1 Content={3147, 3504 Content={3504 Content={3504 Content={3504 Content={3310, 3059, 3507 String="druid el assassin\nthais" Editor="Akoth Karega", 3504 Content={3507 String="akoth karega\ncarlin" Editor="Druid el Assassin", 2854 Content={3054 RemainingUses=200, 3456, 2865 Content={3456, 3308, 3017}, 2973 KeyNumber=3520, 3050, 3316, 3316, 3012, 3453, 3092, 3289}, 3059, 2970 KeyNumber=4503, 3097}}, 3507 String="kuri ilus\ncarlin" Editor="Druid el Assassin"}, 3507 String="Druid el assassin\nthais" Editor="Kuri Ilus"}, 3507 String="druid el assassin\ncarlin" Editor="Druid el Assassin"}, 3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

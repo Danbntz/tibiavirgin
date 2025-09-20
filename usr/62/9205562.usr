@@ -1,0 +1,60 @@
+ID              = 9205562
+Name            = "Zaurino"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,114-0-114-114)
+CurrentOutfit   = (128,114-0-114-114)
+LastLogin       = 1148183984
+LastLogout      = 1148189503
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31683,8]
+PlayerkillerEnd = 0
+
+Skill = (0,46,0,1,0,0,0,0,0,0,1,1423502,0,1522600,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,384439,1400,440480,1600)
+Skill = (2,565,565,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,605,605,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,115,115,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1230,1230,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,18035,1100,18194,100)
+Skill = (7,72,0,10,0,0,0,0,0,0,0,110582,1100,121279,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,35,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,227,1200,268,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,276,1200,372,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1084,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,569,1100,635,20)
+Skill = (14,0,1200,0,0,0,281,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,42,44,45,51,79,81,95}
+QuestValues = {(14,1),(21,1),(22,1),(23,1),(36,1),(46,1),(50,1),(62,2),(69,1),(72,1),(73,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(121,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(154,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(209,1),(217,3),(218,1),(222,1),(223,1),(225,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3)}
+Murders     = {1146102311}
+
+Inventory   = {1 Content={3576},
+               2 Content={3012},
+               3 Content={2870 Content={3035 Amount=12, 2865 Content={3723 Amount=40, 2853 Content={2868 Content={3446 Amount=3, 3446 Amount=100, 3446 Amount=100}, 3425, 3425, 3351}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3003}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=99}}
+
+Depots      = {0 Content={3502 Content={3447 Amount=3, 3285}}, 
+               1 Content={3502}, 
+               2 Content={3457, 3502 Content={2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2870 Content={2868 Content={2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3409, 3409, 2869 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}}, 
+               3 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2868, 3031 Amount=73, 3003, 2854 Content={3198 Charges=3, 3198 Charges=1, 3198 Charges=4}, 2867 Content={3092, 3092}, 2860 Content={2859, 3034 Amount=2, 3061}, 3502 Content={3031 Amount=19, 3035 Amount=5, 3457}}, 
+               4 Content={2866 Content={3377, 3308}, 3504 Content={3507 String="zaurino\nedron" Editor="Zaurino"}, 3502 Content={3563, 3448 Amount=2, 3449 Amount=3}}, 
+               5 Content={3504 Content={2867, 3507 String="zaurino\ndarashia" Editor="Sir Moppetir"}, 3502}, 
+               6 Content={3502 Content={3308, 3003}}, 
+               7 Content={3504 Content={3507 String="zaurino\nankrahmun"}, 3502 Content={3504 Content={3507 String="zaurino\nankrahmun"}}}}

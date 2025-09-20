@@ -1,0 +1,59 @@
+ID              = 8209487
+Name            = "Scout Leonard"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,87-87-87-87)
+CurrentOutfit   = (133,87-87-87-87)
+LastLogin       = 1145825612
+LastLogout      = 1145825753
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31685,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,500408,0,548900,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,140560,1400,157982,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,410,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,52288,1100,53763,100)
+Skill = (7,67,0,10,0,0,0,0,0,0,0,71858,1100,75191,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,57,1200,109,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,510,1200,645,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,798,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2902,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,29,42,51,76,79}
+QuestValues = {(21,1),(22,1),(23,1),(27,1),(86,1),(87,1),(116,1),(117,1),(118,1),(121,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3035 Amount=12, 3457, 3031 Amount=36, 3503 Content={3507}, 3052, 2856 Content={2868 Content={3425, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3191 Charges=2, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2867 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5}}, 3003, 3723 Amount=24}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3446 Amount=81}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2469 Content={2854 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 2853 Content={2853 Content={2853 Content={3283, 3275, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3275, 3266, 3351, 3351, 3351, 3351, 3351}, 2853 Content={3425, 3425, 3425, 3425, 3425}, 2853 Content={3092, 3092, 3092, 3092}}, 4277, 2857 Content={2865, 2866, 2867}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2870 Content={3352, 3410, 3358, 3359, 3286, 3354, 3354, 3264, 3384, 3410, 3276, 3358, 3276, 3352, 3410, 3358, 3354, 3352, 3276, 3410}, 3286, 3358, 3285, 3410, 3276, 3411, 3286}, 3276, 3354, 3276, 3354, 3354, 3286, 3411}, 3266, 3276, 3286, 3409, 3354, 3411, 3354}, 3411, 3411, 3286, 3411, 3286, 3264, 3276}, 3286, 3358, 3410, 3358, 3359, 3354, 3410}, 3446 Amount=100, 3035 Amount=50, 3502 Content={2857 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Great Willow 4d\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3208, 3046, 3077, 3084 RemainingUses=250, 3034 Amount=1, 3155 Charges=1}, 2853 Content={3447 Amount=12, 3120, 3104, 3105}, 2854 Content={2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3093, 3308, 3483, 3277 Amount=7, 3483, 3483, 3483, 3384, 3307, 3457, 3083 RemainingUses=150, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2854 Content={3350, 3447 Amount=59, 3349}}}, 
+               4 Content={3502 Content={3457}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={2867 Content={2853 Content={3349, 3349, 3349, 3349}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3349, 3276, 3276, 3276, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2867 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}, 
+               7 Content={3502 Content={}}}

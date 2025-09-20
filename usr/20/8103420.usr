@@ -1,0 +1,61 @@
+ID              = 8103420
+Name            = "Lady Violet Quim"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,78-30-0-10)
+CurrentOutfit   = (142,78-30-0-10)
+LastLogin       = 1148258463
+LastLogout      = 1148259908
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32347,32222,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,607902,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,146892,3000,193600,1600)
+Skill = (2,578,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,323245,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,73,0,10,0,0,0,0,0,0,0,216258,1100,222395,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6095,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(15,1),(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(27,1),(52,1),(53,1),(59,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(98,1),(106,1),(107,1),(112,1),(113,1),(114,1),(125,1),(126,1),(128,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3),(222,1),(223,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(257,1),(324,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=100, 3035 Amount=1, 2871, 3279, 3456, 3031 Amount=100, 3266, 4871, 2853 Content={2970 KeyNumber=3801, 3598 Amount=27}, 2970 KeyNumber=3800, 3003, 3457}},
+               4 Content={3381},
+               5 Content={3428},
+               6 Content={3324},
+               7 Content={3371},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2866 Content={2868 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Maverick Quim"}, 2853 Content={2853, 2853, 2853}, 3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Wixuraxo Quim"}, 2985, 2981, 3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Lady Violet Quim"}, 3504 Content={3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Lady Violet Quim"}, 3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Lady Violet Quim"}, 2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}, 3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Lady Violet Quim", 2853, 2853, 2853}, 3504 Content={3504 Content={3507 String="Lady Violet Quim\nThais"}, 3507 String="Lady Violet Quim\nThais"}, 3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Wixuraxo Quim"}, 3504 Content={3507 String="Lady Violet Quim\nThais" Editor="Wixuraxo Quim"}, 3507 String="Lady Violet Quim\nThais" Editor="Wixuraxo Quim"}, 3502 Content={3105, 3120, 3105, 2870 Content={3092 SavedExpireTime=1796, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}}}, 
+               1 Content={3003, 3504 Content={2866 Content={3542, 3542, 3540, 3539, 3541, 3537, 3535, 3535, 3535, 3534 Amount=17, 3538, 3540, 3538, 3539, 3535, 3535, 3535, 3535, 3535, 3536}, 2865 Content={3541, 3542, 3546, 3541, 3544, 3541, 3543, 3541, 3541, 3544, 3542, 3541, 3533 Amount=20, 3545, 3544, 3543, 3544, 3541, 3543, 3541}, 3547 Amount=7, 3548 Amount=7, 3507 String="lady violet quim\ncarlin" Editor="Macaquito Blanco"}, 3502 Content={2870, 2871 Content={3035 Amount=11, 3031 Amount=6}, 2854 Content={3276, 3276, 2870 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3266, 3266}}}, 
+               2 Content={3504 Content={3507 String="Lady Violet Quim\nKazordoon", 2853}, 3502}, 
+               3 Content={3504 Content={2853, 2853 Content={2853 Content={2853}}, 2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="Lady Violet Quim\nAb'Dendriel" Editor="Lady Violet Quim"}, 3502 Content={2969 KeyNumber=3033, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 
+               5 Content={3502 Content={3588 Amount=6, 2853 Content={2853 Content={2853 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115}, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 3115, 3115, 3115, 3115, 3115, 3115}, 2853 Content={3264, 3358, 3354, 3264, 2853 Content={3286, 3264, 3264, 3264}}}}, 
+               6 Content={3504 Content={3507 String="Lady Violet Quim\nVenore" Editor="Lady Alica Quim"}, 3502}, 
+               7 Content={3504 Content={3507 String="Lady violet quim\nankrahmun" Editor="Wixuraxo Quim"}, 3502 Content={3577 Amount=35, 3035 Amount=40, 2868 Content={3349, 3282}}}, 
+               8 Content={2853 Content={3031 Amount=53, 2853}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Jungle Edge 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3367, 3367, 3661, 3661, 3661, 3502 Content={2869 Content={3673}, 2865 Content={2853 Content={3299, 2874 ContainerLiquidType=6, 3449 Amount=1, 3446 Amount=14}, 2865 Content={3092}, 2857 Content={3084 RemainingUses=250, 3509, 3463}, 2854 Content={3465, 3723 Amount=1, 2882, 2853 Content={3466, 3467, 3468, 3469, 3469, 3468, 3471, 3473}}, 2854 Content={2472, 3551, 2911 SavedExpireTime=2269, 2853 Content={3056 RemainingUses=200, 3008, 3008}, 2914, 3454, 3452, 2917 SavedExpireTime=2771, 3308, 3453, 3277 Amount=1, 2853 Content={3565, 3293, 3056 RemainingUses=200, 2989}, 3273}, 2911 SavedExpireTime=2997, 2983, 2983, 2983, 2983, 2985, 2853 Content={2973 KeyNumber=3520}, 3004}, 2871 Content={2985, 3035 Amount=92, 3577 Amount=19, 3582 Amount=2, 2880, 3465}, 3097, 3464, 2656, 3092, 2667, 2667, 3264, 3410}}}

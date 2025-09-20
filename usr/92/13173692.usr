@@ -1,0 +1,51 @@
+ID              = 13173692
+Name            = "Martin Tu Angel De La Guarda"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,76-114-114-78)
+CurrentOutfit   = (134,76-114-114-78)
+LastLogin       = 1147505035
+LastLogout      = 1147505042
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32377,32221,6]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15130,0,17600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,11027,1100,12344,1600)
+Skill = (2,121,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3546,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,401,2000,750,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2115,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,26,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,55,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(21,1),(22,1),(23,1),(100,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3316, 3409, 3003}},
+               5 Content={3421},
+               6 Content={3074},
+               7 Content={3362}}
+
+Depots      = {0 Content={2659, 2393, 2393, 2393, 2393, 2659, 2906, 2659, 3563, 3012, 3374, 3308, 3059, 3374, 2667, 3603 Amount=10, 3565, 2659, 3045 RemainingUses=98, 3008, 2659, 2992 Amount=5, 2659, 2992 Amount=5, 2659, 2906, 2906, 3003, 3316, 2659, 3598 Amount=7, 2394, 3375, 2667, 3012, 2659, 2992 Amount=7, 2659, 2992 Amount=5, 3316, 3059, 2659, 3457, 3059, 2659, 3054 RemainingUses=200, 2991, 2659, 2920 SavedExpireTime=262, 2659, 3285, 3658, 2659, 2647, 2667, 2656, 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3502 Content={2854 Content={3578 Amount=80, 3577 Amount=37, 3375, 3350}, 3483, 2969 KeyNumber=4600}}, 
+               1 Content={3502 Content={3362, 3362, 3374, 3374}}, 
+               4 Content={3502}, 
+               8 Content={3502 Content={3031 Amount=1, 3059}}}

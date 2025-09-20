@@ -1,0 +1,55 @@
+ID              = 13805820
+Name            = "Lucia Khan"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,95-94-0-94)
+CurrentOutfit   = (137,95-94-0-94)
+LastLogin       = 1148217711
+LastLogout      = 1148232920
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32647,31916,8]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,395980,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,167078,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,145,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,231549,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,1400,30,30)
+Skill = (8,66,0,10,0,0,0,0,0,0,0,111747,1100,113880,50)
+Skill = (9,45,0,10,0,0,0,0,0,0,0,14556,1100,14956,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,128,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,9819,1100,10752,20)
+Skill = (14,0,1200,0,0,0,722,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,42,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,93,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(35,1),(69,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={2870, 3304, 2868 Content={2854}, 3031 Amount=47, 3031 Amount=100, 3483, 3492 Amount=100, 3266, 3578 Amount=68, 3031 Amount=100, 3492 Amount=66, 3483, 3031 Amount=100, 3457, 3003, 3723 Amount=97}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3291},
+               7 Content={3362}}
+
+Depots      = {0 Content={3502 Content={2853, 3264}}, 
+               1 Content={3502 Content={2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2871, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2871, 3723 Amount=87, 3031 Amount=35, 2853 Content={3377, 3377, 3377, 3377, 3377}, 2860 Content={3035 Amount=60}, 2865 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=2}, 3059, 2870, 3264, 3723 Amount=88, 2473 Content={3503, 3503 Content={3507 String="Annix'Lome" Editor="Frocos Alarge"}, 3503 Content={3507}, 3503, 3503}, 2471 Content={3092}, 2854 Content={2854, 2871, 2866}, 3723 Amount=100, 2472 Content={3483, 3483, 3084 RemainingUses=250, 3353, 3003, 3304, 3054 RemainingUses=105, 3305, 3083 RemainingUses=150}, 3504 Content={2991, 2992 Amount=1, 3587 Amount=1, 3725 Amount=2}}}, 
+               2 Content={3502 Content={3285, 2853 Content={3097}, 2920, 3031 Amount=100, 3265, 3370, 3079, 3419, 3295, 3369, 3557, 3031 Amount=2, 3456, 2857 Content={3578 Amount=99, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3582 Amount=48, 3577 Amount=82}, 2815 String="sell 989 bolts, 127arrows, 1 axe ring, 1 ring of healing, 1 magic light wand,, 1two handed sword, all is new" Editor="Lucia Khan", 3492 Amount=3, 3031 Amount=100, 2853, 3003, 2874 ContainerLiquidType=5, 3483, 2653, 2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3056 RemainingUses=200, 2862, 3483, 2969 KeyNumber=3620, 3003, 2853 Content={3456, 3457, 3003}}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2853}}}

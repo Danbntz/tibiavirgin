@@ -1,0 +1,53 @@
+ID              = 12795585
+Name            = "Dragos Gruziel"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (128,114-94-79-114)
+CurrentOutfit   = (128,114-94-79-114)
+LastLogin       = 1148220258
+LastLogout      = 1148220264
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32897,32069,6]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,80615,0,83400,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,73179,1100,81854,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,103,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8148,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,13,2000,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,475,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,62,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,139,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,10,16,20,22,29,39,44,88}
+QuestValues = {(61,1),(86,1),(87,1),(100,1),(190,1),(191,1),(333,1)}
+Murders     = {1147912556}
+
+Inventory   = {2 Content={3008},
+               5 Content={3412},
+               6 Content={3277 Amount=1}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Dragos Gruziel\nCarlin" Editor="Dragos Gruziel"}, 3502 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 3492 Amount=3, 3492 Amount=10, 3207 Amount=1, 3338, 2866, 2854 Content={3447 Amount=15, 2920 SavedExpireTime=540, 2917, 2917, 2917, 2917, 3003, 2874}, 2854 Content={2854 Content={3483, 3483, 3483, 2920, 2920}}, 3056 RemainingUses=200, 2854 Content={1781 Amount=11}}}, 
+               4 Content={3502 Content={3425, 3349, 3083 RemainingUses=150, 3147}}, 
+               5 Content={3504 Content={3507 String="Dragos Gruziel\nDarashia" Editor="Khons"}, 3504 Content={3507 String="Dragos Gruziel\nDarashia" Editor="Khons"}, 3502 Content={3551, 3551, 2866, 2857}}, 
+               6 Content={3504 Content={3507 String="Dragos Gruziel\nVenore" Editor="Skoll Gruziel"}, 3502 Content={3504, 3504, 3582 Amount=12, 3504 Content={3492 Amount=40, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3031 Amount=58, 2913, 3504 Content={3507 String="Makaduende Junior \nThais\n" Editor="Protector de makaduende"}, 3507 String="Makaduende Junior\nThais\n" Editor="Protector de makaduende", 3506 String="Warning!\n\nThe monthly rent of 3610 gold\nfor your house \"Old Lighthouse\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house."}}}, 
+               7 Content={3502 Content={3577 Amount=5, 3031 Amount=71, 3582 Amount=5, 3042 Amount=1}}, 
+               8 Content={3502 Content={3577 Amount=4, 3492 Amount=100, 3483}}}

@@ -1,0 +1,48 @@
+ID              = 9247818
+Name            = "Druid of the suoth"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,76-126-95-57)
+CurrentOutfit   = (133,76-126-95-57)
+LastLogin       = 1144231403
+LastLogout      = 1144231979
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32325,32186,10]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,20467,0,23200,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,75450,1100,81854,1600)
+Skill = (2,201,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2678,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,29,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5643,1800,6824,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,289,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,180,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1592,1100,1769,20)
+Skill = (14,0,1200,0,0,0,362,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,7,8,10,16,25,26,39}
+QuestValues = {(32,1),(33,1),(34,1),(60,1),(217,3)}
+Murders     = {}
+
+Inventory   = {8 Content={3552},
+               10 Content={2854 Content={3031 Amount=100, 3147, 3147, 3147, 3147, 3003}}}
+
+Depots      = {0 Content={3031 Amount=30, 2854 Content={3374, 3003}, 2854, 3502 Content={2860 Content={2969 KeyNumber=3033}, 3003, 2854, 2853, 2867 Content={2865 Content={3507, 3503, 2853 Content={2867 Content={2869 Content={3003, 2471, 2471, 2471, 2471, 2924 SavedExpireTime=233}, 3003, 3003}}}, 3289, 3003, 3287 Amount=2, 3059, 3056 RemainingUses=200, 3503 Content={2905, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2955, 3507 String="druid of the suoth\nthais\n"}, 3264, 2955, 2920 SavedExpireTime=259, 3209}}}, 
+               1 Content={2955, 3502 Content={2969 KeyNumber=3033, 2827 String="The Akh'rah Uthun is the unity of that which cannot be united. The flawed Akh, which is our anchor to this mundane world, is generally weak. By giving in to the needs of the physical Akh, the Rah and the Uthun become enslaved to this world, even though their potential is such that they could transcend the physical world. However, the greatest flaw the Akh suffers from is its mortality. Why should we seek to satisfy its puny needs and its trivial urges if we know it is doomed to die? Yet this is how the Akh holds our spirit captive. It slowly poisons both the Rah as well as the Uthun.", 2824 String="Time is of no importance to the dead. To understand the concept of time is to understand the cruel trick the gods played on all mortals. Just because it pleased them to do so they stripped all living creatures of their immortality, thus turning anything they hope to achieve into futile ambition. For what is left to hope for if you know the sands of time are moving relentlessly in your hourglass, and that death will be the end of all? Whatever a mortal can hope to achieve time will take from him eventually, and all his hardships and his glorious achievements will be just a distant memory in an indifferent world.", 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings.", 3430, 2832 String="Mehrah asram cha mehe than. Uth a'thul at cha there. Orum tha cha elik jahara. Udhun zah fahr mal. Chamek at uthul hatradek asram. Mehrem alir iktha at uthun. Kasin tha Ur ch helim doh. Mah dah direm. Athul as hathu, athul as dofah, athul as mereth. Cha ukhtu muhn dahra. Sethor mah amin dah. At meruhm cha me dah. Chamek persim kaharah bah tufi. Moh dah rah. Moh Udhin cha uthul. Meheth Zuhl tha berah.", 2639, 3471, 2973 KeyNumber=3520, 3374}}, 
+               4 Content={3502 Content={}}}

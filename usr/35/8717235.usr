@@ -1,0 +1,57 @@
+ID              = 8717235
+Name            = "Obi-wan de Jedi"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,115-85-68-114)
+CurrentOutfit   = (128,115-85-68-114)
+LastLogin       = 1128782024
+LastLogout      = 1128782318
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32649,31925,11]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,33500,0,37800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,49520,1400,55031,1600)
+Skill = (2,186,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4190,1100,4559,100)
+Skill = (7,42,0,10,0,0,0,0,0,0,0,6237,1100,6667,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,1825,1200,1979,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,35,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,297,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,540,1100,559,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,7,8,10,20,29,42,44,51}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(58,1),(59,1),(100,1),(125,1),(126,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={},
+               4 Content={3377},
+               5 Content={3350},
+               6 Content={},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={3504 Content={3050 SavedExpireTime=0, 3507 String="Obi-wan de Jedi\ncarlin\n"}, 2853 Content={3012, 3504 Content={3507 String="Lord betawn\ncarlin"}, 2853 Content={}}, 3483, 2473 Content={2853 Content={3468, 2920 SavedExpireTime=0, 3456, 3455, 2853 Content={3277 Amount=1, 3350, 2853 Content={}}, 3446 Amount=7, 3454}, 2853 Content={3277 Amount=3, 3509}, 3412, 1781 Amount=82, 3504 Content={2853 Content={3535, 3538, 3536, 3535}, 3539, 3538, 3536, 3542, 3543, 3544, 3546, 3545, 3544}, 3504 Content={3543, 3542, 3541, 3541, 3541, 3541, 3541, 3541, 3541, 3541}}, 3504 Content={3008, 3349, 3377, 3377, 3375, 3349, 3430, 2856 Content={3050 SavedExpireTime=0, 3446 Amount=21, 3056 RemainingUses=200, 3084 RemainingUses=250}}, 2853 Content={3723 Amount=1, 3607, 3607, 3577 Amount=17, 3492 Amount=29, 3582 Amount=33, 3578 Amount=17, 3577 Amount=100}}}, 
+               2 Content={3502 Content={3375}}, 
+               3 Content={3502 Content={3377, 3349, 3446 Amount=44, 2816 String="The story of old Dragons mountain...\nAuthor: Anonymous\n\nIt is said, that near the swamp of the damned there is supposed to be a dragons lair in the mountains north of it. Legends speak about dragons with red scales and a fiery breath, which store great amounts of treasure in their lair. But since nobody will have the courage to go there, it will never be known, if the legends are true.", 1781 Amount=4, 3349, 3412, 2853 Content={3277 Amount=21, 3003, 3003, 3003, 3003}}}}

@@ -1,0 +1,58 @@
+ID              = 11010853
+Name            = "Chwitt"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-114-114-109)
+CurrentOutfit   = (128,114-114-114-109)
+LastLogin       = 1148257362
+LastLogout      = 1148259499
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32329,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,566738,0,601800,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,647001,1100,708148,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,456,790,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,38553,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,76,2000,90,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,8884,2000,12750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,24,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,239,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,260,1100,271,20)
+Skill = (14,0,1200,0,0,0,137,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,53,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,16,17,18,19,20,22,23,25,29,30,32,38,44}
+QuestValues = {(54,1),(60,1),(61,1),(67,1),(71,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(125,1),(126,1),(190,1),(191,1),(217,3),(254,1),(333,1)}
+Murders     = {1146540938}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2865 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3147}, 3155 Charges=1, 3075, 3031 Amount=4, 2868 Content={3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3003, 2860 Content={3092, 3093, 3507, 3046 SavedExpireTime=2641, 2920, 3725 Amount=14}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2870 Content={3191 Charges=2, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2866 Content={3191 Charges=2, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3381},
+               5 Content={3071},
+               6 Content={3434},
+               7 Content={3371},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3582 Amount=4}}
+
+Depots      = {0 Content={3504 Content={3507 String="chwitt \nthais\n" Editor="Chwitt", 2853, 2853}, 3502 Content={3299, 2901}}, 
+               1 Content={3079, 3311, 3450 Amount=1, 3457, 3658, 3271, 2977, 3572, 3659, 3178 Charges=1, 3307, 3471, 3076, 2473 Content={3148 Charges=3, 3155 Charges=1, 3177 Charges=1, 3177 Charges=1, 3164 Charges=2, 2869 Content={3073, 3059, 3074, 3059}, 2853 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}}, 2472 Content={2853 Content={3046}, 3504 Content={2853 Content={3425, 3377, 2853 Content={3377, 3377, 3377}, 2853 Content={3377, 3377}, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3507 String="chwitt\ncarlin" Editor="Knight-chi"}, 3504 Content={3507 String="chwitt \ncarlin" Editor="Chwitt Master", 2870 Content={3324, 3572, 3003, 3505, 3349}}, 2871 Content={3084 RemainingUses=250, 3033 Amount=3, 3287 Amount=1, 3658, 3658, 3658, 3658, 3092, 3084 RemainingUses=250, 3012, 3084 RemainingUses=250, 3505, 3083 RemainingUses=150, 3097, 2874 ContainerLiquidType=5}, 2854 Content={3033 Amount=1, 2901, 3030 Amount=1, 3308, 2955, 2914 SavedExpireTime=736, 3077, 2893, 3454, 3291, 3293, 3456, 3122, 3661, 3121, 3509, 2992 Amount=5, 3287 Amount=5}, 2853 Content={3092, 3092, 2969 KeyNumber=3033, 3012, 3054 RemainingUses=81, 3012, 3082 RemainingUses=50, 3012}, 2860 Content={3056 RemainingUses=200, 3012, 3012, 3056 RemainingUses=200, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250}, 2853 Content={3505, 3505 Editor="Kamakazy Shootz", 3505 String="ello. i am chi, this the money pay for ur hmm\nthx dude\nbye" Editor="Knight-chi", 3506 String="Chwitt\nCarlin\n\nHola nena, ké es de ti? ké horas de estar d obceso son estas? en fin,  yo estoy muy aburrida y por eso me pongo a escribirt, es lo úniko entretenido ke se me ocurre hacr, tngo sueño y flojera, y otra vz las aspirinas me salvaron de ke me explotara la cabeza, voy a ver envangelion con mi hermana.mmmm y creo ke ya, kiero momir porke mañana será un día largo, según se viene gente a arreglar cosas\nchausi" Editor="Zrai", 3506 String="Chwitt\nCarlin\n\najajaja, aja ja ja, para ke veas el poder druida, muajajaja, yo si hago uh, yo si hago uh!\n\nanDY" Editor="Zrai", 3506 String="Chwitt\nCarlin\n\narg, me mataron, no jugaré más porke me he estresado demasiado, ropearon 4 demon skeletons y morí en un parpadeo!!!! arg!! ahora soy 24 y 25 en ,agia!!!! arg sí no fuera por ville pería mi bp llena d runas\npro pues ya\nsí puedes juegas por mi? el número de cuenta es 5027209 y el pass phifpd7g, aaarg estaba a 8%%%%%%%%%%%% y ya era 20 no se ké en magia!!!! aaaarg, estoy muy molesta\nya me voy a momir yo creo arg\nvomitaré mi leche de soya!\n\nDulces pesadillas \nP.D. hay me avisas sí tienes o no planes\n anDY muuuy molesta" Editor="Zrai", 3506 String="Chwitt\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3505 String="zrai \ncarlin\n\nya me jui a dormir noz vemos n el futuro akaba tu tarea \n" Editor="Chwitt"}, 2853 Content={3056 RemainingUses=200, 3008, 3012, 3083 RemainingUses=150, 3008, 3084 RemainingUses=250, 3085 RemainingUses=200, 3083 RemainingUses=150}, 2853 Content={3092 SavedExpireTime=336, 3004, 3097 SavedExpireTime=3594, 3092, 3098, 3050, 3093}, 2853 Content={2968 KeyNumber=3940, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2970 KeyNumber=4503, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 2853 Content={2853 Content={3349, 3349, 3349, 3377, 3377, 3377}, 2853 Content={3425, 3349, 3349, 3349, 3349, 3349, 3349, 3425}, 2853}}, 2472 Content={3725 Amount=28, 3577 Amount=10, 3590 Amount=3, 3598 Amount=45, 3586 Amount=1, 3587 Amount=1, 3600 Amount=18, 3602 Amount=26, 3591 Amount=24, 3595 Amount=1, 3583 Amount=3, 3597 Amount=1, 3592, 3585 Amount=35, 3599 Amount=3}, 3502 Content={2854 Content={3031 Amount=2, 3035 Amount=57, 3042 Amount=2}}}, 
+               2 Content={3502 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 
+               3 Content={3504 Content={3507 String="chwitt\nAb'Dendriel" Editor="Chwitt"}, 3504 Content={3507 String="chwitt\nAb'Dendriel" Editor="Chwitt"}, 3502}, 
+               6 Content={3504 Content={3504 Content={3504 Content={3504 Content={2905, 3463, 2989, 2880, 3470, 3463, 2885, 2893, 2981, 3507 String="chwitt \nvenore\n"}, 3483, 3492 Amount=9, 2873, 3464, 3507 String="chwitt\nvenore" Editor="Chwitt", 3504 Content={2860 Content={2853 Content={3353, 3425}}}}, 3507 String="chwitt\nvenore"}, 3463, 2989, 3507 String="Tenso westside\nVenore\n"}, 3502}}

@@ -1,0 +1,48 @@
+ID              = 9863948
+Name            = "Wenate"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,85-114-114-114)
+CurrentOutfit   = (129,85-114-114-114)
+LastLogin       = 1142357172
+LastLogout      = 1142357230
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,41222,0,47000,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,54395,1100,57519,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12462,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,8380,1800,12334,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,113,1800,140,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,146,1800,302,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,29,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,970,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,82,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,5,8,10,29,42,76}
+QuestValues = {(20,1),(27,1),(37,1),(84,1),(85,1),(86,1),(87,1),(109,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3377}}
+
+Depots      = {0 Content={3504 Content={3507 String="wenate\nthais"}, 3502}, 
+               4 Content={3504 Content={2867 Content={2869 Content={}, 2854 Content={2854 Content={2866 Content={2866 Content={2854 Content={2869 Content={2869 Content={2869 Content={2869 Content={}}}}}}}}}}, 2858 Content={3457, 3003, 2867 Content={2920 SavedExpireTime=598, 2920 SavedExpireTime=0, 2920 SavedExpireTime=599, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=600, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2867 Content={2867 Content={}, 2865 Content={}}}, 2869 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3492 Amount=35}, 3507 String="wenate\nedron"}, 3502 Content={}}, 
+               5 Content={2868 Content={2866 Content={2869 Content={3578 Amount=71, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3600 Amount=100, 3601 Amount=7, 3590 Amount=4, 3585 Amount=13, 3723 Amount=40, 3579 Amount=14}, 3425, 3377, 3372, 3384, 3289, 3083 RemainingUses=150, 3266, 3327, 3275, 3301, 3349, 3349}, 2858 Content={2859 Content={3042 Amount=5, 3052 SavedExpireTime=1085, 3085 RemainingUses=200}}, 3483, 2854 Content={3492 Amount=45, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3061, 2868 Content={}, 3017}, 2469 Content={2902 ContainerLiquidType=0, 2902 ContainerLiquidType=0, 2659, 2659, 2667, 2659}, 3054 RemainingUses=200, 3054 RemainingUses=65, 3054 RemainingUses=200}, 3502 Content={}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,51 @@
+ID              = 11165775
+Name            = "Lady with cold"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (142,3-94-94-0)
+CurrentOutfit   = (142,3-94-94-0)
+LastLogin       = 1148230521
+LastLogout      = 1148230847
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32229,7]
+PlayerkillerEnd = 1150045921
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,153773,0,156200,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,117313,1100,127268,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,19935,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,18,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3258,1800,3763,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,658,1800,1118,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,908,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,138,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,6,7,9,10,11,39,42,44,76,81,84,88}
+QuestValues = {(86,1),(87,1),(93,1),(94,1),(95,1),(100,1),(121,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {1147452531,1147453562,1147453921}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3035 Amount=8, 3502 Content={3031 Amount=69, 3265, 2853 Content={2853 Content={2853 Content={2853 Content={3264, 3358, 3358, 3413}, 3446 Amount=15, 3377, 3349, 3358, 3266, 3305}, 3266, 3305, 3413, 3413, 3266}, 3358, 3286, 3377, 3377, 3377, 3377}}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="lady with cold\nedron" Editor="Natilla junior"}, 3502}, 
+               5 Content={3504 Content={3507 String="Lady with cold\ndarashia" Editor="Natilla junior"}, 3114 Amount=4, 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1125 gold\nfor your house \"Darashia 7, Flat 02\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Lady with cold\ndarashia\n" Editor="Chaplin Caguamas"}, 3502}, 
+               8 Content={3504 Content={3507 String="lady with cold\nport hope" Editor="Elnoviodetum ama"}, 3502}}

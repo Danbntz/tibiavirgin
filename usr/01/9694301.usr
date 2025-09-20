@@ -1,0 +1,58 @@
+ID              = 9694301
+Name            = "Jill of Chamberi"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (140,79-85-0-85)
+CurrentOutfit   = (140,79-85-0-85)
+LastLogin       = 1146963579
+LastLogout      = 1146963597
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33219,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,87365,0,98800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,25097,3000,64000,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,49707,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,166,1100,232,50)
+Skill = (9,53,0,10,0,0,0,0,0,0,0,29915,1100,32632,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,325,1100,385,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,110,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1213,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(17,1),(18,1),(21,1),(22,1),(23,1),(60,1),(100,1),(106,1),(107,1),(217,3)}
+Murders     = {1145840353,1145841758}
+
+Inventory   = {1 Content={3375},
+               4 Content={3377},
+               5 Content={2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"},
+               6 Content={3483},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3279}}
+
+Depots      = {0 Content={3264, 3336, 3367, 3367, 3504 Content={3492 Amount=95, 3031 Amount=44, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3425, 3308}, 3504 Content={3425, 3327, 3446 Amount=33, 3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2906}, 3504 Content={3469, 3316, 2853 Content={2885, 3457, 2885 ContainerLiquidType=3, 2991, 3316}, 3054 RemainingUses=160, 3012}, 3502 Content={2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2881 ContainerLiquidType=2, 2881 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875, 3492 Amount=53, 3308}}, 
+               1 Content={2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 3285, 1781 Amount=3, 3504 Content={3337, 2973 KeyNumber=3520, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3034 Amount=1, 3264, 3316}, 3502 Content={3264, 3276}}, 
+               2 Content={3502}, 
+               3 Content={3503 Content={3327, 3268, 3361, 3421, 3507}, 3504 Content={3507 String="lord sastre\nab'dendriel"}, 3502 Content={3504 Content={3507 String="sir janus\nab'dendriel"}, 3308}}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={3552, 3413, 3377, 3066, 2859 Content={3492 Amount=39}}}, 
+               6 Content={2952, 3483, 3083 RemainingUses=150, 2955, 3504 Content={3447 Amount=7}, 3502}, 
+               7 Content={3502}}

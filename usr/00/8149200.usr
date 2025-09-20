@@ -1,0 +1,56 @@
+ID              = 8149200
+Name            = "Darko Valiant"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,58-114-94-114)
+CurrentOutfit   = (134,58-114-94-114)
+LastLogin       = 1140130798
+LastLogout      = 1140130900
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32917,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,425064,0,452600,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1339890,1100,1395159,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,311,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,59049,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,46567,1800,72239,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,226,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,60,0,10,0,0,0,0,0,0,0,24233,1100,25625,20)
+Skill = (14,0,1200,0,0,0,960,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,30,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,6,8,9,10,16,20,29,30,38,39,42,44,45,76,78,81,82,84,87,88,89}
+QuestValues = {(21,1),(23,1),(27,1),(32,1),(33,1),(34,1),(37,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(100,1),(113,1),(114,1),(190,1),(191,1),(208,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2872 Content={3578 Amount=55, 3061, 3457, 3003, 3308}},
+               4 Content={3357},
+               7 Content={3557},
+               9 Content={3007},
+               10 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               4 Content={3447 Amount=25, 3504 Content={2853 Content={2853 Content={2853 Content={3285, 3285, 3285, 3285, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3061}}, 2853 Content={2854 Content={2853 Content={2853 Content={3409, 3409}, 3409, 3409, 3409, 3409, 3409, 3409, 3409}, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409}}}, 2853 Content={3351, 3351, 3351, 3275, 3449 Amount=12, 3449 Amount=100, 3275, 3275}, 2853 Content={3557, 3557, 3557, 3557, 3557, 3557, 3557}, 2853 Content={3583 Amount=37, 3583 Amount=100}, 2853 Content={3301, 3301, 3297, 3301, 3301, 3301, 3301, 3297}}}, 3504 Content={2854 Content={}}, 3504 Content={3046 SavedExpireTime=2997, 3425, 2861 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3046 SavedExpireTime=3000, 3046 SavedExpireTime=1610, 3046 SavedExpireTime=2999}}, 3504 Content={3504 Content={2853 Content={2853 Content={3551, 2853 Content={}, 3083 RemainingUses=150, 3054 RemainingUses=7, 3012, 3483}, 2635, 2969 KeyNumber=5010, 2853 Content={2469 Content={2469 Content={}, 3505 String="", 3077, 3084 RemainingUses=250}, 2469 Content={3046 SavedExpireTime=2484, 3059 String="", 2398, 2644, 2644, 2656, 2659, 3483, 2644, 2656}, 3311, 2869 Content={3492 Amount=67, 3578 Amount=52, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 2874 ContainerLiquidType=0, 3448 Amount=5, 3350}, 3507 String="aloren valiant\nedron"}, 3507 String="Darko Valiant\nEdron"}, 3502 Content={2865 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2865 Content={2868 Content={2865 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3003, 3031 Amount=1, 2853 Content={3035 Amount=6, 3322, 3403, 3085 RemainingUses=160}}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3504 Content={3578 Amount=100, 3507 String="Darko Valiant\nVenore" Editor="Aloren Valiant"}, 3301, 3502 Content={3308, 3097}}, 
+               7 Content={3502 Content={}}}

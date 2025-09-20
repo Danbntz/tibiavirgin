@@ -1,0 +1,53 @@
+ID              = 10523489
+Name            = "Pazurdik"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,50-95-67-116)
+CurrentOutfit   = (128,50-95-67-116)
+LastLogin       = 1135313680
+LastLogout      = 1135313717
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32639,31925,11]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,56666,0,57600,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,96880,1100,102403,1600)
+Skill = (2,111,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,103,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14104,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,90,1800,181,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,83,1800,140,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,13238,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,6,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,38,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2289,1100,2421,20)
+Skill = (14,0,1200,0,0,0,842,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,57,100,0,0,0,1,0,32,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,7,8,10,14,16,17,27,29,38,42}
+QuestValues = {(129,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=46, 3483, 3031 Amount=100, 3031 Amount=100, 3578 Amount=11, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3492 Amount=84, 3457, 3003}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {2 Content={3409, 3502 Content={3548 Amount=5, 3547 Amount=5}}, 
+               6 Content={3582 Amount=10, 3291, 2876 ContainerLiquidType=0, 3084 RemainingUses=23, 3059 String="", 3003, 3270, 3456, 3502 Content={2870 Content={}, 3035 Amount=1, 2868 Content={3291, 3003, 3457}, 3084 RemainingUses=250, 3077, 3305, 3533 Amount=2, 3337, 2872 Content={3046 SavedExpireTime=2999, 3266, 3349, 3307, 3285, 3291, 3046 SavedExpireTime=0, 3285, 3059 String="", 3269, 3300, 3294, 3349, 3349, 3349, 3349}, 2870 Content={3588 Amount=9, 3582 Amount=3, 3577 Amount=5, 3601 Amount=1, 3598 Amount=1, 3606 Amount=2, 3593, 3587 Amount=4, 3578 Amount=10, 3592, 3590 Amount=11, 3724 Amount=1, 3602 Amount=30, 3583 Amount=3}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2867 Content={2874 ContainerLiquidType=8, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3097 SavedExpireTime=0, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 2969 KeyNumber=4055, 2970 KeyNumber=3303, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=12, 2874 ContainerLiquidType=0}, 3003, 2981}}}

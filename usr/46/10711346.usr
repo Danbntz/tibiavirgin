@@ -1,0 +1,56 @@
+ID              = 10711346
+Name            = "Drakes Mom"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,116-120-120-116)
+CurrentOutfit   = (137,116-120-120-116)
+LastLogin       = 1148237152
+LastLogout      = 1148238258
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32421,31749,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,91169,0,98800,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,177814,1100,193759,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,315,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11143,1500,11333,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,73,2000,90,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,9018,2000,12750,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4331,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,118,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1440,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,13,15,16,20,21,22,28,29,30,32,38,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(55,1),(58,1),(59,1),(61,1),(100,1),(106,1),(107,1),(113,1),(114,1),(121,1),(128,1),(140,1),(141,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3012},
+               3 Content={2854 Content={3031 Amount=57, 3446 Amount=1, 3174 Charges=5, 2920, 3031 Amount=100, 3147, 3148 Charges=1, 3003}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3582 Amount=20, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2469 Content={2853 Content={3453, 3456, 3455, 3457, 3457, 3457, 3457}, 3003, 2873, 3492 Amount=32, 3003, 3003}, 2469 Content={3593, 3597 Amount=8, 3595 Amount=24, 3596 Amount=1, 3593, 3593, 3593, 3593, 3593}, 2472 Content={3316, 3269, 3297, 3285, 3301, 3285, 3279, 3275, 3316, 2865 Content={3349, 3349, 2992 Amount=15, 3448 Amount=3, 3446 Amount=100, 3350, 3350, 3287 Amount=15, 1781 Amount=8}, 3289, 3316, 3316, 3316, 3289}, 2472 Content={3383, 3425, 3377, 3377, 2854 Content={3375, 3384, 3375, 3353}, 3425, 3425, 3421, 3377, 3377, 3565, 3377}, 2867 Content={3603 Amount=11, 3599 Amount=8, 3585 Amount=13, 3586 Amount=15, 3591 Amount=11, 3584 Amount=11, 3587 Amount=33, 3590 Amount=35, 3606 Amount=21, 3658, 2867 Content={3592, 2853 Content={3592, 3592, 3592, 3592, 3592, 3592, 3592, 3592}, 3592, 3592, 3588 Amount=51, 2977, 2977, 2977, 2977, 2977, 2977, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100}, 3658, 2853 Content={3472, 3583 Amount=5}, 3602 Amount=7, 3598 Amount=29, 2875 ContainerLiquidType=9, 2875 ContainerLiquidType=12, 3601 Amount=13, 3600 Amount=44, 3723 Amount=37}, 2469 Content={2911, 2911 SavedExpireTime=1596, 2911 SavedExpireTime=2227, 2853 Content={2920, 2920, 2920, 2920, 2920 SavedExpireTime=579, 2920 SavedExpireTime=398}, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2911 SavedExpireTime=2997, 2911 SavedExpireTime=1797}, 3502 Content={3291, 2472 Content={3505 String="Tano Surius: smack!!!!!!\nTano Surius: smack!!!!!!!!\nTano Surius: kiss!!!", 3505 String="here are all facking noobs. Every bady is here a noob.\n\n\n\nWie dit geschereven heeft weet geen mens.\n", 3505, 3505 String="ziomal to ja masz tu itemy wartosc lacznie 280gp\nnie kalmie", 3505 String="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                          pa abajo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                       xD!", 3505}, 2469 Content={3059, 2834 String="    Yo dawgz this is Drakes Mom's stuff                         don't mess with it ;)\n\n                              ~Peace~\n\n                           Drakes Mom", 3506 String="Master Cricket\nthais\n\n\nDude this is lame, you rwally think i wanted this,       dude stop thinking of this as killing me and sending my to rook will do any thing \ni now your point you made your point your point was why is he beeing a jackass, well why was i beeing a jackass is something you will have to ask me or even ask ron but after today i dont know if ron is going to happy with or even sean\nlast night ron told me you cant hack me OR put a keylogger on hise cpu that is use ( hope you know you will have to put keylogers on both comps beace i play on both of them) and to the point when i said you use your freinds it is true you even use ron for his computers to play tibia because your computer is well slower than his and if your mom would buy cavleonme she would be able to use the phone, w8 thee i go with the damn \"bragging\" because i bet you already now this. dont get me hunted dont kill me because you still made your point but i will still stay a jackass till you and sean apresiate me not use me and thik im always in the way then ill stop being a jackass and im sending you this becasue id rather have freinds instead of enemy(oh and if really think about on why you are rooking me think about that all this fight is abut is some lassy ass plate armor. and i one question why dont you havw sean or you go kill some valks for plate armor. and hope you by tommorw ron will now about this fight and you tryin to kil me and all and you hacking me( oh and ron also said RON said you cant hack me unless you here at my uncles and i guess it is a good thing you will never come here so and id love to c you hack me when i have 3 e-mail adress with all differnt passwords one on which you will never now.\n\nso just leave me alone and we can live peacefully ", 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3059, 3059, 3059, 3059, 3059, 3059}, 2469 Content={2854 Content={2854, 2854}, 2864, 2870 Content={2862, 2862, 2870, 2664 RemainingExpireTime=41, 2950, 2974, 3459, 2667, 2667, 2667, 2667}, 2869 Content={3074, 2874 ContainerLiquidType=10, 3074, 3074, 3074, 2869, 3046, 3077, 3164 Charges=3, 3177 Charges=1}, 2865 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 2857, 2857}, 2868 Content={2860, 2860}, 2867 Content={3012, 3012, 3551, 2991, 2991, 3012, 3012, 3012, 3012, 3012, 3551, 3012, 3012, 3083 RemainingUses=150, 2906, 2906, 2859, 2859}}, 2469 Content={3056 RemainingUses=200, 3004, 3056 RemainingUses=200, 3093 SavedExpireTime=1555, 3035 Amount=46, 2874 ContainerLiquidType=11, 2969 KeyNumber=3600, 3026 Amount=3, 2973 KeyNumber=3520}, 2856}}, 
+               1 Content={4201 RemainingExpireTime=1342, 3502}, 
+               2 Content={3035 Amount=2, 2870, 2874, 3502}, 
+               3 Content={3367, 3505 String="", 3605 Amount=1, 3502 Content={}}, 
+               6 Content={2920 SavedExpireTime=571, 3003, 2920, 2920 SavedExpireTime=133, 3492 Amount=26, 3483, 3502}}

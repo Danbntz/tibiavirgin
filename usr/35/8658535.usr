@@ -1,0 +1,54 @@
+ID              = 8658535
+Name            = "Tarzoth Steelsoul"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,3-131-0-131)
+CurrentOutfit   = (133,3-131-0-131)
+LastLogin       = 1141827059
+LastLogout      = 1141827069
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,190118,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,66155,3000,193600,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,115,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,36242,1100,36404,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,139,1100,165,50)
+Skill = (10,51,0,10,0,0,0,0,0,0,0,26035,1100,26881,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,973,1100,1023,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(27,1),(37,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               4 Content={3357},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3412, 3268, 2853 Content={3375, 3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2920 SavedExpireTime=181, 2853 Content={3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 2853 Content={2857 Content={2667, 3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3598 Amount=2, 2667, 2667, 2656, 3084 RemainingUses=250}, 3506 String="Warning!\n\nThe monthly rent of 2955 gold\nfor your house \"Darashia 7, Flat 12\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3505 String="Tarzoth Steelsoul is hutning here~", 3077, 3045 RemainingUses=200}, 3031 Amount=2, 3083 RemainingUses=150, 3050, 3008}, 3277 Amount=7, 3337}, 3411, 2906, 3451, 3504 Content={3282, 3507 String="Tarzoth Steelsoul\nThais", 2853 Content={3337, 3337, 3337, 3337, 3337, 3277 Amount=1}, 2853 Content={3337, 3337, 3504 Content={2667, 2656, 2656, 2656, 3377, 3377, 3504 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 7, Flat 12\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="Razoroth\nDarashia"}, 2854 Content={3017}, 2853 Content={2853 Content={2853}, 2853 Content={3003}, 2853 Content={3147, 2983, 2983, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}, 3504 Content={2656, 2656, 2392, 2392, 2392, 2392, 2392, 2392, 2392, 2392}, 3504 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2667, 2656, 3507 String="Chololoo\ndarashia"}, 3504 Content={2667}, 3504 Content={2392}}, 2853 Content={3354, 3410, 2853 Content={2853 Content={3358, 3286, 3410, 3354, 2853 Content={3286, 3358, 3410}, 3358, 3410, 3410}, 3410, 3354, 3358}, 3264, 3410, 3286}, 3291, 2865}, 2853 Content={2392, 2392, 2392, 3337, 2392, 2853 Content={3337, 3337, 3337, 3337, 3337, 3337, 3337, 3337}}, 2853 Content={2392, 3337, 3337, 2392, 3277 Amount=5}}}, 3410, 3301, 2473 Content={2473, 2473}, 3597 Amount=1, 3502 Content={3446 Amount=4, 3349, 3349}}, 
+               2 Content={3502 Content={}}, 
+               4 Content={2983, 2472 Content={}, 2983, 3093 SavedExpireTime=0, 2472 Content={}, 2469 Content={}, 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2035 gold\nfor your house \"Cormaya 3\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="Tarzoth Steelsoul\nEdron"}, 3504 Content={3504 Content={3507 String="Tarzoth Steelsoul\nEdron"}, 3504 Content={2853 Content={3410, 3410, 3410, 3410, 3410, 3410}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}}}, 3577 Amount=6, 3582 Amount=44}, 3507 String="Tarzoth Steelsoul\nEdron"}, 2869 Content={3410, 2869 Content={}}, 3507 String="Tarzoth Steelsoul\nEdron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Tarzoth Steelsoul\nDarashia"}, 3504 Content={3269, 3507 String="tarzoth steelsoul\ndarashia"}, 3504 Content={3507 String="tarzoth steelsoul\ndarashia"}, 3504 Content={3507 String="Tarzoth Steelsoul\ndarashia"}, 3504 Content={3507 String="Tarzoth Steelsoul\ndarashia\n"}, 3504 Content={3507 String="Tarzoth Steelsoul\nDarashia"}, 3502 Content={3031 Amount=33, 3035 Amount=7}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3031 Amount=80, 3268, 3274, 3425, 3502 Content={}}}

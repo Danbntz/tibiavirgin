@@ -1,0 +1,60 @@
+ID              = 7942247
+Name            = "Fabi Ravena"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,59-19-53-0)
+CurrentOutfit   = (142,59-19-53-0)
+LastLogin       = 1146606649
+LastLogout      = 1146606800
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,321158,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,89680,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,63,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,34550,1100,36404,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,33867,1100,35945,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1644,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29,76}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(59,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(100,1),(190,1),(191,1),(223,1),(224,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=49, 3308, 2869, 3457, 3003, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3271},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2866 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3504 Content={3507 String="Fabi Ravena\nthais"}, 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="Fabi Ravena\nCarlin"}, 3504 Content={3507 String="fabi ravena\ncarlin"}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3503 Content={}, 2969 KeyNumber=3033, 3502 Content={}}, 
+               6 Content={3578 Amount=26, 3502 Content={2853 Content={2393, 2644, 2644, 3736 Amount=1, 2395, 3275}, 2856 Content={2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 3505 String="Brindemos todos juntos...\n\nPela amizade!\n\nSaúde!!!\n\nPelos amigos...\n\nE pelas amigas!\n\nSaúde!!!\n\nPelos amigos que se foram...\n\nE pelos amigos que virão!\n\nSaúde!!!\n\nPor alguns que foram amigos...\n\nE por aqueles que nunca\nserão amigos!\n\nSaúde!!!\n\nPor aqueles que sempre\nserão amigos!\n\nSaúde!!!\n\nPor você e por mim!\n\nSaúde...\n\nPur...todozzz nóshh...\n\nPur...todozzz nóshh aqui...\n\nSaúúúde...\n\nPur todozzz nósh qui ficamos...\n\nPur todzzz nósh qui são\nmaish amigos...\n\nSaúdeee...\n\nPur tudo isso a gente\nbrinda maisssh...\n\nPur tudo isso e maishhh...\nAchôôô que a gente... hic...\nNão vaiii chegar nu fim\ndo dia...hic!\n\nZuuzo bem...\n\nAinda tem muito amigo\npra brindar...\n\nSaú...hic...deee...\n\nBrindemos à Nossa Amizade! \n\nauahuaha\namo mt vc leo.. =****************", 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3}, 3582 Amount=26, 3092, 3505 String="amor\n\neu gastei a mais... mas eu pensei bem...eu acho melhor... pq amanha tem tempo de fazer uh e vender.. vende a spike tb e vo pega dimdim com o povo ainda.. entaum... upei ml logo de uma vez pra acaba com o sofrimento de hj...\ngastei o dinheiru da hunt de hj... 8 k e poko... tem 2 k com o druid.. bom amanha eu faço umas 2 bp.. ja repoe 5 k... dai pego dinheiro com o pessoal e repoe isso..\npelo menos vc vai caça e eu mais tranquila, ja nao aguentava mais... \nte amooo muito... agora sim da gosto de caça...\nbeijus nene\nvc eh minha vida\n=****", 3504 Content={3504 Content={2866, 2853, 3507 String="Fabi Ravena\nVenore"}, 3507 String="Fabi Ravena\nVenore"}, 3504 Content={3092, 3411, 2393, 2393}, 2867 Content={2920 SavedExpireTime=199, 3097, 3046 SavedExpireTime=2996, 2969 KeyNumber=5010, 3425, 3285, 3054 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3083 RemainingUses=131, 3054 RemainingUses=6, 3008, 3054 RemainingUses=200, 3084 RemainingUses=250, 3008, 3077, 3097}, 2867 Content={3083 RemainingUses=150, 3579 Amount=1, 2393, 3425, 3446 Amount=10, 3349, 2393, 3282, 3349, 3590 Amount=20, 3572, 3409, 3283, 2667, 2656, 2656, 3031 Amount=62, 3031 Amount=100, 3031 Amount=100}, 2867 Content={3349, 3349, 2667, 2656, 3551, 3579 Amount=2, 3446 Amount=100, 3446 Amount=90, 3505 String="Fabi Ravena Here... Dont down....", 3457, 3308, 2395, 2644, 2644, 2644, 2393, 2393, 3008, 2867 Content={2659, 2659, 2656, 2659, 2659, 2656, 2667, 2667, 2667, 2667, 2395, 2992 Amount=2, 3411}}, 3590 Amount=80, 2970 KeyNumber=4601, 2969 KeyNumber=3033, 2992 Amount=10, 2855 Content={2638, 2664 RemainingExpireTime=7, 3083 RemainingUses=150, 3483}, 3031 Amount=32, 3031 Amount=100, 3035 Amount=15, 3266, 3375, 3375, 2866, 2867 Content={3147, 3147}, 2867, 2854 Content={3377, 2853 Content={3292, 3505 String="Fabi Ravena Here", 3505 String="Fabi Ravena Here"}, 3377, 3377, 3503 Content={3507}, 3264, 3273, 3456, 3267, 3447 Amount=15, 3375, 2853 Content={3411, 3411, 3410, 3411, 3411, 3411, 3411, 3411}}, 2857}}, 
+               7 Content={3502 Content={}}}

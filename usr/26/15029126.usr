@@ -1,0 +1,55 @@
+ID              = 15029126
+Name            = "Lafkiss"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,114-114-77-0)
+CurrentOutfit   = (133,114-114-77-0)
+LastLogin       = 1148231002
+LastLogout      = 1148231016
+StartPosition   = [32649,31925,11]
+CurrentPosition = [33126,32832,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,69998,0,83400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,27152,1100,29649,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,59,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8179,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1754,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,32,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,8,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,676,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={2866, 3505 String="Lafkiss\nhunt here \nmsg me" Editor="Lafkiss", 3031 Amount=7, 3577 Amount=5, 3457, 3003, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3152 Charges=1}}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3035 Amount=1}}
+
+Depots      = {2 Content={3503 Content={3507 String="Lafkiss\nEdron" Editor="Lafkiss"}, 2853 Content={2853 Content={2853 Content={3266, 3413, 3358, 3286, 3286, 3413, 3413, 3264}, 2853 Content={3358, 3358, 3266, 3358, 3358, 3286, 3413}, 2853 Content={3425, 3425, 3425, 3358, 3358, 3358, 3358, 3413}, 2853 Content={3425, 3358, 3413, 3358, 3266, 3286, 3286, 3286}, 2853 Content={3358, 3413, 3425, 3358, 3349, 3349, 3349, 3349}, 2853 Content={3358, 3286, 3358, 3358, 3358, 3358, 3266, 3266}, 2853 Content={3413, 3413, 3413, 3413, 3275, 3275}, 2853 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}}, 2853 Content={3413, 3413, 3266, 3264, 3305, 3358, 3358, 3286}, 2853 Content={3446 Amount=63, 3266, 3413, 3358, 3425, 3349, 3305}, 2853 Content={3286, 3446 Amount=100, 3286, 3358, 3425, 3358}}, 2854 Content={3567, 3074, 3425}, 2867 Content={2854, 2866}, 2866 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3031 Amount=50, 3351, 3723 Amount=70, 3577 Amount=24, 3582 Amount=44, 3502 Content={2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 2854 Content={3350, 3483, 2970 KeyNumber=3801, 2970 KeyNumber=3800}, 2871 Content={3035 Amount=22, 3583 Amount=1, 3028 Amount=2, 3059}, 2868 Content={2870 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2872 Content={3198 Charges=4, 3198 Charges=3, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3, 3172 Charges=3}, 2868 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2868 Content={3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2, 3149 Charges=2}}, 2854 Content={3279, 2854, 3282, 3282}}}, 
+               5 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3147}, 2854, 3502}, 
+               7 Content={3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}

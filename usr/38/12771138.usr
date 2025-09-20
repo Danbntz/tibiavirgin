@@ -1,0 +1,53 @@
+ID              = 12771138
+Name            = "Guitarrista Gerardo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,116-59-114-114)
+CurrentOutfit   = (129,116-59-114-114)
+LastLogin       = 1148161234
+LastLogout      = 1148163965
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32435,32339,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,144559,0,156200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,51750,3000,64000,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,775,775,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,79122,1100,79179,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,58,0,10,0,0,0,0,0,0,0,49050,1100,52859,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,55,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4254,1100,4445,20)
+Skill = (14,0,1200,0,0,0,745,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,19,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(18,1),(35,1),(55,1),(59,1),(100,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(223,1)}
+Murders     = {1148162991}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=11, 3447 Amount=100, 3577 Amount=13, 3152 Charges=1, 3291, 3152 Charges=1, 3412, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={2473 Content={2950, 2870, 2857 Content={3077, 3046, 3084 RemainingUses=250}, 2869, 2952, 2864, 2867, 2868 Content={2868}, 2872 Content={2872}, 2854 Content={3191 Charges=2, 2853 Content={3147, 3147, 3147, 3147}, 2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2854 Content={2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 2949, 2969 KeyNumber=3600, 2906}}, 3504 Content={3585 Amount=5, 3723 Amount=1, 3583 Amount=6, 3577 Amount=90, 3590 Amount=2, 3588 Amount=80, 3597 Amount=1, 3595 Amount=1, 3593, 3579 Amount=1}, 3504 Content={3483, 3003, 3046 SavedExpireTime=2958, 3456, 2854 Content={3052, 3504 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2874 ContainerLiquidType=12, 3056 RemainingUses=200, 3083 RemainingUses=6, 3084 RemainingUses=250, 3003, 3093, 2901 ContainerLiquidType=1, 3056 RemainingUses=200, 3093 SavedExpireTime=1794, 3083 RemainingUses=150, 3012}, 3456, 3451, 3462, 3483, 3452}, 2473 Content={2853, 2853 Content={3031 Amount=76, 3035 Amount=42, 3035 Amount=100, 3504}}, 3504 Content={3504 Content={2989, 3463, 3504 Content={3077, 2854 Content={2656, 2656, 2656, 3122, 2991, 2647, 2667, 2656, 3673, 3077, 2667}, 3004, 2983, 4285, 2991, 2902}, 3059, 2839 String="Hola a todos los que lean esta carta, quisiera contarles que un dia mi amigo benito camelo rico y memo herdez \"el chile\" estaban comiendo una torta de milarguesa y agua de mamarindo en el puesto de veronica galindo, cuando empezaron a chupar y comenzo el desmadre, empezaron con 4 michelargas y terminaron bien jodidos con 5 piñas enculadas al final se les voltea la canoa y el resto termino en esta frase \"mientras que sea agujero no importa que sea de caballero\" jajajaja para reirse chingo atteGuitarristagba" Editor="Guitarristagba", 2885, 3012, 3468, 3469, 3467}, 2985, 3661, 2981, 2983, 3465, 3504 Content={2905, 2911, 2875, 3464, 2882, 2881, 3470, 3466, 3471, 3472}, 3509, 2969 KeyNumber=4600, 2893}, 2480 Content={3275, 3362, 3453, 3267, 3504 Content={3377, 3349, 3504 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3425, 3074, 3565, 3504 Content={3269, 3361, 3377, 3297, 3504 Content={3305, 3316, 3359, 3313, 2854 Content={3504 Content={3409, 3421, 3299, 3504 Content={3377, 3377, 3289, 3289, 3289, 3289, 3289, 3275, 3289}, 3504, 2970 KeyNumber=4502}, 3349, 3285, 3066, 3563, 3557, 3415, 3271, 3413, 3552, 3307, 3289, 3289}, 3074, 3413, 3421}, 3384, 3265}, 3299, 3301, 3316}, 2473 Content={3370, 3551, 3270, 3307, 3337, 3410, 3285, 3294, 3374}, 3358, 3453, 3350, 3376, 3411, 3378, 3367, 3430, 3504 Content={3264, 3412, 3336, 3293, 3286, 3276, 3273, 3308, 3300, 3283}}}}}

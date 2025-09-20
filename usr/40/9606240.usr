@@ -1,0 +1,58 @@
+ID              = 9606240
+Name            = "Megazero-rulz"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-109-94-0)
+CurrentOutfit   = (129,79-109-94-0)
+LastLogin       = 1147730461
+LastLogout      = 1147734737
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32716,31622,6]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,964395,0,992000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,258965,3000,582400,1600)
+Skill = (2,591,665,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,133,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,109,109,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1270,1270,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,64,0,10,0,0,0,0,0,0,0,182156,1100,188059,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,150,1400,213,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,63,1100,105,50)
+Skill = (9,68,0,10,0,0,0,0,0,0,0,134230,1100,137900,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,55,1100,105,50)
+Skill = (11,35,0,10,0,0,0,0,0,0,0,5348,1100,5459,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6575,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(46,1),(49,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(125,1),(126,1),(137,1),(138,1),(139,1),(151,1),(152,1),(190,1),(191,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2867 Content={3093 SavedExpireTime=1332, 3266, 2867 Content={3507 String="megazero-rulz\nab'dendriel" Editor="Megazero-rulz"}, 2868 Content={3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3052 SavedExpireTime=228}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3324},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3046 SavedExpireTime=316}}
+
+Depots      = {0 Content={3504 Content={3507 String="megazero-rulz\nthais" Editor="Megazero-rulz"}, 3504 Content={3507 String="megazero-rulz\nthais" Editor="Megazero-rulz"}, 3502}, 
+               1 Content={3504 Content={3507 String="megazero-rulz\ncarlin" Editor="Megazero-rulz"}, 3504 Content={3147, 3147, 3507 String="megazero-rulz\ncarlin" Editor="Megazero-rulz"}, 3504 Content={3507 String="megazero-rulz\ncarlin" Editor="Megazero-rulz"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3074, 3577 Amount=20, 3582 Amount=15, 3504 Content={3507 String="Megazero-rulz\nAb'dendriel" Editor="Shaka'Vith"}, 3084 RemainingUses=233, 3313, 3583 Amount=2, 3279, 2854 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868}, 2865 Content={3349, 3349, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349}, 2854, 2854, 2854, 2854}, 2866 Content={2854 Content={2854, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2865 Content={2854 Content={3404, 3425, 3432, 3070, 3066, 3074, 3563, 3289, 3310, 3307, 3316, 3283, 3301, 3563, 3463, 2969 KeyNumber=3033}}, 2871 Content={3305, 3305, 3305, 3305, 3305}, 2854 Content={2393, 2989, 3209}, 3301, 3085 RemainingUses=200, 3310, 3198 Charges=4, 2970 KeyNumber=3142, 3457, 3283}, 3085 RemainingUses=200, 3552, 3457, 3003, 2867 Content={2854 Content={3425, 3425, 3425, 3425}, 2867 Content={3046 SavedExpireTime=2304, 3425, 3425, 3425}, 3282, 3492 Amount=100, 3298 Amount=3, 3483, 3282, 3282, 3282}, 2870 Content={3266, 2865 Content={3266, 3266, 3266, 3266, 3275, 3266, 3266, 3547 Amount=1, 3277 Amount=40}}, 3658, 3110, 3291, 2864 Content={3270, 3336, 3409, 3293, 2991, 2860 Content={2973 KeyNumber=3520, 2393}, 2862 Content={3046 SavedExpireTime=2553, 3286, 3456, 3308}}, 3502 Content={2854 Content={3147, 2952, 3174 Charges=3, 3191 Charges=1, 3155 Charges=1}, 2867 Content={3031 Amount=74, 3031 Amount=100, 3031 Amount=100, 3035 Amount=14, 3031 Amount=100, 2854 Content={3026 Amount=2, 3027 Amount=3, 3033 Amount=1, 3029 Amount=2, 3028 Amount=3, 3030 Amount=4}}, 2869 Content={3723 Amount=24, 3446 Amount=42, 3447 Amount=15, 3448 Amount=72, 3447 Amount=100, 3447 Amount=100, 2869 Content={3446 Amount=100, 3446 Amount=100}, 3447 Amount=100, 3447 Amount=100, 3449 Amount=18, 3507 String="\npa el keko\n\n"}, 3287 Amount=2, 2857 Content={2874 ContainerLiquidType=4, 2857, 2857, 2955, 3059, 3059}, 2854 Content={2854 Content={3723 Amount=12, 3577 Amount=73, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3598 Amount=100, 3077, 3585 Amount=100, 3602 Amount=100, 3598 Amount=100}, 3588 Amount=46, 3606 Amount=1, 3598 Amount=22, 3585 Amount=3, 3602 Amount=4, 3084 RemainingUses=250, 3595 Amount=11, 3579 Amount=2, 3583 Amount=8, 3590 Amount=5, 3597 Amount=1, 3593, 3600 Amount=32, 3601 Amount=23, 3586 Amount=39, 3592}, 2868 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2868 Content={3483, 3483, 3483, 3483}, 2870 Content={3084 RemainingUses=250, 3084 RemainingUses=177, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2868 Content={3291, 3272}, 2865 Content={3092, 3053 SavedExpireTime=541, 3093 SavedExpireTime=1559, 3051 SavedExpireTime=591, 3098 SavedExpireTime=445, 3091, 3092, 3097, 3097, 3092, 3050 SavedExpireTime=1712, 3097, 3076, 3046, 2865 Content={3084 RemainingUses=202, 3085 RemainingUses=150, 3085 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=149, 3045 RemainingUses=192, 3081 RemainingUses=5, 2969 KeyNumber=3008, 2969 KeyNumber=5000, 3008, 3054 RemainingUses=2, 3085 RemainingUses=198, 3082 RemainingUses=50, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2874 ContainerLiquidType=11}, 2854 Content={2854 Content={2854}, 2872, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}, 2867 Content={2867, 2867, 2867, 2867}, 2871 Content={2871}, 2869 Content={2869}, 2866 Content={2866, 2866}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865}, 2870 Content={2870, 2870}}, 2856 Content={3655, 3738 Amount=1, 3129}, 2853 Content={2969 KeyNumber=5010, 2854 Content={2969 KeyNumber=5010, 3310, 3308, 2969 KeyNumber=5010, 3470, 3466, 3290, 2877 ContainerLiquidType=1, 3308, 3473, 3469}, 3123, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2839, 3292}}}, 
+               6 Content={1781 Amount=1, 3502}}

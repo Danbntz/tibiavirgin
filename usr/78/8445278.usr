@@ -1,0 +1,57 @@
+ID              = 8445278
+Name            = "Rascuach"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-124-19-114)
+CurrentOutfit   = (129,114-124-19-114)
+LastLogin       = 1125369036
+LastLogout      = 1125369095
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,33173,0,37800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,13920,3000,20800,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,22941,1100,24547,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,48,0,10,0,0,0,0,0,0,0,18985,1100,20072,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1825,1100,1966,20)
+Skill = (14,0,1200,0,0,0,820,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(54,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={2868 Content={3031 Amount=85, 3577 Amount=4, 3305, 3031 Amount=100, 3578 Amount=5, 3003, 3457, 3031 Amount=100}},
+               4 Content={3357},
+               5 Content={3322},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={3412, 3097 SavedExpireTime=0}}, 
+               3 Content={3504 Content={3507 String="Rascuach\nAb'dendriel"}, 3504 Content={3507 String="Rascuach\nAb'dendriel"}, 3502 Content={2853 Content={2853 Content={3372, 3282, 3285, 3451, 3375, 3375, 3377}, 2853 Content={3056 RemainingUses=200, 3337, 3012, 2970 KeyNumber=4503, 2973 KeyNumber=3520}}, 2853 Content={}, 2865 Content={2868 Content={}, 2868 Content={}}, 2854 Content={3377, 3305, 3147, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2854 Content={3028 Amount=2, 3035 Amount=29, 2955, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3483, 3602 Amount=1, 2865 Content={3409, 3299, 3056 RemainingUses=200, 3454, 3026 Amount=1, 2955, 3050 SavedExpireTime=0, 3565, 3027 Amount=2, 2973 KeyNumber=3520, 3008, 3012, 3097 SavedExpireTime=0, 3050 SavedExpireTime=1785, 3059 String=""}, 3056 RemainingUses=200, 3054 RemainingUses=80, 3483, 3552, 3585 Amount=2, 3587 Amount=1, 2955, 3590 Amount=2}, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}}}

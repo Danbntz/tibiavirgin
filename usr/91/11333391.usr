@@ -1,0 +1,56 @@
+ID              = 11333391
+Name            = "Gadri"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (142,132-114-114-114)
+CurrentOutfit   = (142,132-114-114-114)
+LastLogin       = 1147444568
+LastLogout      = 1147444573
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4571,0,6400,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,28,1100,1600,1600)
+Skill = (2,155,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2298,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,325,1800,593,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1111,1800,1118,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,92,1800,140,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,36,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(112,1),(257,1),(269,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3084 RemainingUses=140},
+               3 Content={2870 Content={2874, 2874, 2874, 2874, 3031 Amount=41}},
+               6 Content={3441},
+               7 Content={3558},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="gadri\nthais" Editor="Shika Rebelde"}, 3504 Content={3507 String="gadri\nthais" Editor="Gadria Gryffindor"}, 3502}, 
+               1 Content={3504 Content={3507 String="Gadri\nCarlin" Editor="Pancho Cronos"}, 3506 String="gadri\ncarlin\n\n\nniña hola no se xq te mando esta carta\nesq me salio en un dwaf y no sabia qe aser kon ella jeje bye" Editor="Tibi Aby", 3504 Content={3507 String="gadri\ncarlin\n" Editor="Shika Rebelde"}, 3504 Content={3507 String="gadri\ncarlin" Editor="Sir Salvador"}, 3504 Content={2473 Content={3459, 3466, 2905, 3509, 3548 Amount=6}, 3507 String="gadri\ncarlin" Editor="Eterr Mariana"}, 3504 Content={3507 String="gadri\ncarlin"}, 3504 Content={3507 String="LUTH ZIRIU\nCARLIN"}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="gadri\nedron\n" Editor="Shika Rebelde"}, 3504 Content={3507 String="gadri\nedron" Editor="Shika Rebelde"}, 3504 Content={3505 String="ten tu propina  los 5gp e\nde aby\n", 3507 String="gadri\nedron"}, 3502 Content={2854 Content={3737 Amount=1, 2647, 2644, 2650, 2647, 2653, 2656, 2659, 2659, 2656, 2659, 2659, 2650, 2667, 2659, 3673, 2656, 2656, 2653, 2644}}}, 
+               5 Content={3504 Content={3507 String="gadri\ndarashia" Editor="Shika Rebelde"}, 2880, 2880, 2875, 3503, 3502 Content={2911 SavedExpireTime=2512}}, 
+               6 Content={3504 Content={3507 String="gadri\nvenore" Editor="Eterr Mariana"}, 3502}, 
+               7 Content={3504 Content={3311, 3590 Amount=1, 3017, 3590 Amount=1, 2869 Content={3576, 3590 Amount=2, 3449 Amount=13, 2957, 3074, 3293, 3330}, 3507 String="gadri\nankrahmun" Editor="Shika Rebelde"}, 3046, 3287 Amount=2, 3590 Amount=1, 2854 Content={2854 Content={3270, 3147, 3147, 3045 RemainingUses=200, 3504 Content={3147, 3147, 3507 String="reyruz irem\nankrahmun" Editor="Angel Daxus"}, 3372, 3350, 3349, 3446 Amount=21}, 2854, 2871, 2867, 2871, 2868, 2870, 2871, 2867, 2854}, 2868 Content={2854 Content={3042 Amount=10, 2871}, 3004, 3505, 3483, 2871, 2854, 2871}, 2871 Content={3293}, 3301, 3590 Amount=1, 3293, 3147, 3590 Amount=1, 3590 Amount=1, 3413, 3590 Amount=2, 3205, 3590 Amount=1, 3007, 3008, 3590 Amount=1, 3085 RemainingUses=150, 3576, 3045 RemainingUses=200, 2868, 2871, 2867 Content={2871, 3085 RemainingUses=110, 3425}, 3590 Amount=1, 2854 Content={2853 Content={2854, 2868, 2854}, 2866}, 2870 Content={2853 Content={3092, 3092, 3092, 3092}, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2871, 3590 Amount=1, 3007, 3075, 3082 RemainingUses=7, 3590 Amount=1, 3007, 3054 RemainingUses=200, 3012, 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Othehothep II f\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Othehothep II f\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3426, 3502}, 
+               8 Content={3504 Content={3507 String="gadri\nport hope" Editor="Shika Rebelde"}, 3502}}

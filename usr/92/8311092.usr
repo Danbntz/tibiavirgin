@@ -1,0 +1,56 @@
+ID              = 8311092
+Name            = "Falorfore Sorm"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,132-0-0-114)
+CurrentOutfit   = (133,132-0-0-114)
+LastLogin       = 1136451137
+LastLogout      = 1136451145
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32353,32228,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,18120,0,23200,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,14880,3000,20800,1600)
+Skill = (2,197,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,55,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12221,1100,13420,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,38,0,10,0,0,0,0,0,0,0,6983,1100,7431,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,34,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1748,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(61,1),(86,1),(87,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3012},
+               3 Content={2866 Content={2868, 3031 Amount=1, 3152 Charges=1, 3152 Charges=1, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3271},
+               6 Content={3421},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Falorfore Sorm\nThais"}, 3504 Content={3507 String="Falorfore Sorm \nThais"}, 3502 Content={2853}}, 
+               1 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3588 Amount=61, 2920 SavedExpireTime=0, 3578 Amount=15, 2920 SavedExpireTime=0, 2853 Content={2854 Content={2868 Content={3483, 3047 RemainingExpireTime=1039}, 2854 Content={3372, 3003, 3277 Amount=8, 3268, 3061, 3450 Amount=1, 3082 RemainingUses=50, 3425}, 3552, 3027 Amount=2, 2973 KeyNumber=3520, 3658, 3658, 3658, 3003, 3483}, 3031 Amount=90, 3372, 3552, 3351, 3054 RemainingUses=200, 2973 KeyNumber=3520, 3003}, 3502 Content={}}, 
+               4 Content={3003, 3502 Content={3110}}, 
+               5 Content={3377, 3502 Content={3504 Content={2868 Content={3446 Amount=1, 3031 Amount=2, 2868 Content={}}, 3578 Amount=12, 3457, 2853 Content={2853 Content={3267, 3412, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}}, 3507 String="Falorfore Sorm\nDarashia"}, 2853 Content={3147, 3147}, 2865 Content={3503 Content={2853 Content={}, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3507 String=""}, 2853 Content={3412, 3411, 3409, 3412, 3421}, 2853 Content={3283, 3294, 3291, 3285, 3330, 3285, 3301}, 2853 Content={3305, 3046 SavedExpireTime=2999}, 2853 Content={3375}, 2853 Content={3050 SavedExpireTime=1798, 3083 RemainingUses=150, 3085 RemainingUses=181, 3054 RemainingUses=176, 3372}, 2853 Content={3582 Amount=10, 3577 Amount=18}}, 2867 Content={2920 SavedExpireTime=593, 2920 SavedExpireTime=490, 2922 SavedExpireTime=113, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 2853 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5}, 2868 Content={2865 Content={2854 Content={3376, 3503 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2853 Content={3507 String="Falorfore Sorm\nDarashia", 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3147}, 2856 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3507 String="Falorfore sorm\nDarashia", 3377, 3583 Amount=2, 3552, 3552, 2973 KeyNumber=3520}}}}}}

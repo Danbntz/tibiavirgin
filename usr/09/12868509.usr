@@ -1,0 +1,57 @@
+ID              = 12868509
+Name            = "Mefhez"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,95-17-0-116)
+CurrentOutfit   = (128,95-17-0-116)
+LastLogin       = 1148237770
+LastLogout      = 1148239709
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32482,32057,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,120186,0,135100,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,72235,3000,193600,1600)
+Skill = (2,361,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,88930,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,57,0,10,0,0,0,0,0,0,0,47438,1100,48008,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,658,1100,678,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,56,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(15,1),(16,1),(32,1),(33,1),(34,1),(46,1),(67,1),(68,1),(71,1),(125,1),(126,1),(190,1),(191,1),(332,1)}
+Murders     = {1145827097,1146856955,1147206373,1148105173,1148193760}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2869 Content={3582 Amount=1, 3003, 3160 Charges=1, 3031 Amount=89, 3577 Amount=6, 3457}},
+               4 Content={3357},
+               5 Content={3428},
+               6 Content={3280},
+               7 Content={3372},
+               8 Content={3551},
+               10 Content={3046 SavedExpireTime=553}}
+
+Depots      = {0 Content={3504 Content={3507 String="mefhez\nthais" Editor="Mefhez"}, 3502}, 
+               1 Content={3504 Content={3507 String="mefhez\ncarlin" Editor="Dark'Masther"}, 3502}, 
+               2 Content={3425, 3367, 3504 Content={3447 Amount=10, 3286, 3349, 3457, 3446 Amount=33, 3349, 3349, 3504 Content={3507 String="mefhez\nkazordoon" Editor="Royal'Partch"}, 3504 Content={3504 Content={3507 String="angel athion\ndarashia" Editor="Plasmoid"}, 3507 String="mefhez\nkazordoon" Editor="Anagel'Adrushtt"}, 3507 String="mefhez\nkazordoon" Editor="Dark'Masther"}, 3502 Content={2870 Content={2970 KeyNumber=3802, 3457, 3504 Content={3504, 3504 Content={3507 String="mefhez\nkazordoon" Editor="Royal'Partch"}, 3504 Content={3507 String="mefhez\nkazordoon" Editor="Dark'Masther"}, 3504 Content={3507 String="mefhez\nkazordoon" Editor="Dark'Masther"}, 3507 String="dark'masther\nthais" Editor="Mefhez"}}, 2854 Content={3074}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={2869 Content={2853, 3050, 4871, 3661, 3097}, 2865, 2854 Content={2969 KeyNumber=3033, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 2970 KeyNumber=3800}, 2865 Content={3483}, 2854 Content={3092}}, 2870 Content={2867 Content={3056 RemainingUses=198, 3003}, 2870}, 2854 Content={2853 Content={2868 Content={2970 KeyNumber=3802, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 2973 KeyNumber=3520, 2969 KeyNumber=3033}}}}}, 
+               3 Content={2865 Content={3003}, 2867 Content={3412, 3336, 3003}, 3502 Content={3504 Content={3409, 3446 Amount=35, 3349, 3446 Amount=100, 3446 Amount=17, 3410, 3357, 3507 String="mefhez\nab'dendriel" Editor="Mefhez"}, 2473 Content={3425, 3425, 3362}, 2469, 3056 RemainingUses=200, 3267}}, 
+               6 Content={3502}}

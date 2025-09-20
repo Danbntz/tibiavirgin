@@ -1,0 +1,57 @@
+ID              = 8536203
+Name            = "Eoxy Delis"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,15-91-15-91)
+CurrentOutfit   = (134,15-91-15-91)
+LastLogin       = 1148055658
+LastLogout      = 1148055668
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33228,31857,6]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1175934,0,1238400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,339326,3000,582400,1600)
+Skill = (2,710,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,210,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1345,1345,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,72,0,10,0,0,0,0,0,0,0,379392,1100,404265,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,35,1100,50,50)
+Skill = (10,73,0,10,0,0,0,0,0,0,0,212117,1100,222395,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2633,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(46,1),(49,1),(59,1),(60,1),(61,1),(70,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(83,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(121,1),(125,1),(126,1),(151,1),(152,1),(190,1),(191,1),(213,1),(224,1),(226,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2865 Content={3313, 3031 Amount=59, 3031 Amount=100, 3092 SavedExpireTime=586, 3505 String="\n" Editor="Eoxy Delis", 3351, 3092 SavedExpireTime=78, 3003}},
+               6 Content={3418},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={2853 Content={3504 Content={3507 String="Eoxy delis\nThais"}}, 3502}, 
+               1 Content={2854 Content={3483, 3350, 3447 Amount=15, 3003}, 3505 String="\n", 3502}, 
+               2 Content={3502}, 
+               3 Content={2867 Content={2853 Content={3059, 3147, 2874}, 2870 Content={2865 Content={3377}, 3284 RemainingUses=1, 3384, 3384, 3384, 3574, 2969 KeyNumber=5000, 2865 Content={3012, 3012, 3012, 3008}, 2865 Content={3421, 3012, 3012, 3077, 3056 RemainingUses=200, 2955, 2973 KeyNumber=3520, 3056 RemainingUses=200, 3003, 3003, 3483, 2969 KeyNumber=3033, 3483, 3504 Content={3050, 2635, 3483}, 3056 RemainingUses=191, 3003, 2969 KeyNumber=5010}, 2865, 2853 Content={3008, 3299, 3448 Amount=3, 3097 SavedExpireTime=3560, 3097 SavedExpireTime=3540, 3050, 3589 Amount=1}, 2867}, 3003, 3457}, 3504 Content={3507 String="Eoxy Delis\nAb'dendriel" Editor="Druid Yory"}, 3504 Content={3507 String="Eoxy Delis\nAb'dendriel" Editor="Vantuz"}, 3502 Content={3583 Amount=4, 2862 Content={2865}, 2865 Content={3446 Amount=23, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2865 Content={3351, 3266, 3353, 3351, 3084 RemainingUses=220, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3042 Amount=13, 3293, 3412}}, 
+               4 Content={3035 Amount=54, 3031 Amount=5, 3358, 3285, 3504 Content={3425, 3446 Amount=43, 3507 String="Eoxy Delis\nEdron\n\nHuhu ;*" Editor="Angelita De Curz"}, 3502 Content={3323, 3028 Amount=2, 2871, 3033 Amount=1, 3032 Amount=1, 2872 Content={2854 Content={3353, 3285, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian"}, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1798, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2857 Content={3083 RemainingUses=150, 3076, 3082 RemainingUses=50, 3046, 3077, 3084 RemainingUses=250}}}, 
+               5 Content={2853 Content={3577 Amount=16}, 3049, 3084 RemainingUses=250, 3413, 3409, 3507 String="Eoxy Delis\nHunt Here" Editor="Eoxy Delis", 3502}, 
+               6 Content={3502}, 
+               7 Content={3503, 3502}, 
+               8 Content={3502}}

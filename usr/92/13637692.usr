@@ -1,0 +1,58 @@
+ID              = 13637692
+Name            = "Greenlee"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (142,78-24-59-118)
+CurrentOutfit   = (142,78-24-59-118)
+LastLogin       = 1148199901
+LastLogout      = 1148201961
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33133,32436,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,726440,0,780700,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,429269,1100,433638,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,504,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,48338,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,26,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1498,2000,1550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,130,2000,150,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,267,2000,350,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,395,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,149,1100,154,20)
+Skill = (14,0,1200,0,0,0,286,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,12,0,11,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,8,9,10,16,19,20,25,26,29,44,45,76,81,89}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(55,1),(60,1),(93,1),(94,1),(95,1),(100,1),(106,1),(107,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(192,1),(223,1),(225,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3286, 3031 Amount=43, 3264, 3031 Amount=100, 3582 Amount=6, 3277 Amount=3, 3577 Amount=9, 3457, 3003, 3191 Charges=1, 3198 Charges=5}},
+               4 Content={3380},
+               5 Content={3071},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=437}}
+
+Depots      = {0 Content={2854, 3375, 3457, 3507 String="Greenlee \nThais" Editor="Greenlee", 3502 Content={3577 Amount=5, 3358, 3198 Charges=1, 2920 SavedExpireTime=598, 3003, 3264, 3384, 2869 Content={3457, 3551, 3457, 3506 String="greenlee \nthais\n\nTo my love, thankyou for... being you.love you\n\nbilly" Editor="Cozoc", 3285, 3413, 3413, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572}, 2874 ContainerLiquidType=10, 3349, 2920, 3421, 2872 Content={2989, 3305, 3003, 3349, 3413, 3603 Amount=10, 3492 Amount=41, 3483, 3083 RemainingUses=126, 3074, 2867 Content={3110, 2911 SavedExpireTime=112, 3457, 3377, 2867}, 3287 Amount=1, 3349, 3093 SavedExpireTime=469}, 3504 Content={3349, 3359, 3359, 2922 SavedExpireTime=13, 3375, 3507 String="Greenlee\nThais" Editor="Greenlee"}, 3504 Content={2874 ContainerLiquidType=6, 3120, 2916, 2969 KeyNumber=4055, 3283, 3457, 3421, 3003, 3507 String="Greenlee\nThais" Editor="Greenlee"}, 2853 Content={3120, 3120, 3115, 3115, 3115, 3115, 3115, 3115}, 3004, 2853 Content={3316, 2874 ContainerLiquidType=1, 3003, 3463, 2885 ContainerLiquidType=2, 3457}}}, 
+               1 Content={3502 Content={3031 Amount=70}}, 
+               4 Content={3502}, 
+               5 Content={3031 Amount=69, 2920, 2920, 2853 Content={3031 Amount=87}, 2853, 2854 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2868 Content={3264, 3264, 3286, 3286, 3031 Amount=100, 3031 Amount=19, 3031 Amount=100, 3031 Amount=100}, 3074, 3059, 2854 Content={3449 Amount=7, 2922 SavedExpireTime=108, 2853 Content={3147, 3147, 3147, 3147}, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3583 Amount=6, 2920 SavedExpireTime=586, 3059, 3582 Amount=66, 3577 Amount=41, 3446 Amount=5, 3059}, 3504 Content={3147, 3147, 3147, 3147, 3147, 3191 Charges=2, 3349}, 3502 Content={3035 Amount=7, 2920 SavedExpireTime=231, 3375, 3505 Editor="Karius devil", 2866 Content={3265, 3198 Charges=4, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3265, 3282}, 2872, 2868 Content={2866, 3012, 1781 Amount=6, 3586 Amount=1, 2874 ContainerLiquidType=6, 3409, 2874 ContainerLiquidType=6, 3059}, 3738 Amount=5, 3052 SavedExpireTime=1197, 3035 Amount=100, 3035 Amount=100, 3072, 2866, 3277 Amount=3, 3056 RemainingUses=200, 2825, 3447 Amount=5, 3409, 3503 Content={2920, 2920}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3045 RemainingUses=146, 3017, 3330}, 3507 String="ljhgv" Editor="Greenlee", 3503 Content={3507}, 3504 Content={3115, 3115, 3507 String="greenlee and cozoc hunting here, Please Respect Please" Editor="Greenlee", 3507 String="greenlee hunting here\nrespct please..\nmessage :)\nty" Editor="Greenlee", 3003, 2901, 3300, 3446 Amount=4, 3507 String="greenlee\ndarashia" Editor="Cozoc"}, 3504 Content={3012, 2920 SavedExpireTime=366, 2920, 3003, 3059, 3507 String="Greenlee\nThais" Editor="Greenlee"}}}, 
+               7 Content={3502 Content={3367, 3447 Amount=2, 3031 Amount=44, 3031 Amount=100, 3031 Amount=100, 3367, 3031 Amount=100, 3031 Amount=11, 3042 Amount=1, 3031 Amount=80, 3046, 3031 Amount=100, 3031 Amount=100, 3191 Charges=1, 2820 String="Researchpaper 56-09 A\nWe lost three mages in our last attempt at performing a controlled demon summoning. It is still too difficult to predict in what way the fabric of time and space is affected by the breach of the sphere, and from what we have seen the backlash of nature against demonic incursion can range from a slightly offensive odour to a sizeable explosion such as the one we saw yesterday. I am personally disappointed to observe that the elemental protection spells we put up did not work at all. Perhaps there is some truth in the reports that the unleashed energy is of purely entropical nature. We have yet to decide whether or not it makes sense to create an entropic counterspell first, but I support the idea that the loss of manpower while trying to balance the spell is manageable. It is possible, though, that this will lead to no convincing result at all due to the uncontrollable nature of the demonic realm. If this should be the case the use of entropic countermagic is the only option left.\nBy the way: The summoning of lesser creatures, the so-called 'reds', progressed comparatively well. Of course, these creature are mere borderdwellers and may consequently not be considered true demons of course. However, it may prove that the development of summoning spells for 'reds' will prove a rewarding spin-off of demon summoning research.", 3031 Amount=100, 3031 Amount=100, 3035 Amount=7, 3031 Amount=100, 2920 SavedExpireTime=171, 3330, 3046, 3447 Amount=2}}, 
+               8 Content={3502}}

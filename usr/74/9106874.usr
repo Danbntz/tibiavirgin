@@ -1,0 +1,59 @@
+ID              = 9106874
+Name            = "Apolo Death"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,0-114-0-0)
+CurrentOutfit   = (134,0-114-0-0)
+LastLogin       = 1148069798
+LastLogout      = 1148069810
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33234,31811,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1347406,0,1423500,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,372055,1400,440480,1600)
+Skill = (2,555,555,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,590,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1210,1210,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,65800,1100,71890,100)
+Skill = (7,76,0,10,0,0,0,0,0,0,0,173109,1100,177704,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,299,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,22,0,10,0,0,0,0,0,0,0,2000,1200,2424,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2437,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,20,29,42,44,51,76,79,81}
+QuestValues = {(1,2),(2,6),(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(41,1),(42,1),(43,1),(44,1),(56,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(137,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(211,4),(257,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2854 Content={3582 Amount=2, 3583 Amount=13, 2865 Content={3031 Amount=85, 3552, 3008, 3004, 3003}, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2659, 3449 Amount=7, 3031 Amount=70}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=59}}
+
+Depots      = {0 Content={2853 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3503 Content={3504 Content={}, 3504 Content={}, 3503 Content={}, 3503 Content={}}, 3003, 3502 Content={2865 Content={2854 Content={}}}}, 
+               1 Content={3504 Content={3507 String="apolo death\ncarlin"}, 3502 Content={}}, 
+               2 Content={2853 Content={2853}, 3504 Content={3507 String="Apolo Death\nKazordoon\n", 2853 Content={3425, 3351, 3351, 2853 Content={3351, 3351, 3275, 3275, 3275, 3275, 3351, 3351}}}, 3504 Content={3507 String="Apolo Death\nKazordoon", 2867 Content={2871}}, 3425, 2853 Content={3050 SavedExpireTime=1794, 3092, 3092, 3092, 3092, 3092}, 3502}, 
+               3 Content={3504 Content={2854}, 2865 Content={2871 Content={2868}}, 2853 Content={2969 KeyNumber=3033, 3283, 3448 Amount=4, 3062, 3377, 3078, 3062}, 2853 Content={3457, 3457, 3104, 3120, 3105, 3504 Content={3507 String="apolo death\ncarlin"}}, 3502 Content={2853, 3083 RemainingUses=150, 3078, 3377, 3457}}, 
+               4 Content={2865 Content={3483, 3007, 3046 SavedExpireTime=2851, 3046, 3305, 3305, 3277 Amount=9, 3447 Amount=15, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3031 Amount=35, 3092, 2842, 2469 Content={2871 Content={3097}, 2854 Content={3572, 3045 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3012, 3012, 3012, 3083 RemainingUses=150, 3045 RemainingUses=200, 3083 RemainingUses=150}, 2854 Content={2991}, 2865 Content={2868 Content={3298 Amount=1, 3597 Amount=3, 3736 Amount=1, 3077, 2949, 3289, 3316, 3316}, 2991, 2969 KeyNumber=5010, 3059, 3078, 3062, 3739 Amount=1, 3077, 3307, 3441, 3017, 2901, 2973 KeyNumber=3520}}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2859 Content={3077, 3039, 3050}, 3077, 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2469 Content={3004}, 3077, 3078, 2469 Content={3081 RemainingUses=5, 3450 Amount=12, 2957, 3451, 2952, 2952, 3082 RemainingUses=50, 2866 Content={2867 Content={2868 Content={2866 Content={2867}}}}}, 2469 Content={2842, 2949, 2842, 3061, 3051, 3457, 2866 Content={2659, 2659, 2659, 2659}, 2871 Content={3104, 3120, 3105, 2871, 2871}}, 3504 Content={2842 String="asterit se la come entera\n", 3507 String="Apolo Death\nEdron"}, 3504 Content={3507 String="Apolo Death\nEdron", 2854 Content={3492 Amount=12, 3003, 3505}}, 3504 Content={3507 String="Deka'here\n=) NIcE", 2857 Content={3084 RemainingUses=250}}, 3504 Content={3046 SavedExpireTime=65, 3507 String="Apolo Death\nEdron", 2872 Content={3483, 3003}}, 2969 KeyNumber=3620, 2867 Content={3447 Amount=56, 3350, 3447 Amount=23, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3504 Content={2871 Content={3349, 3317, 3311, 3543, 3537, 3377, 3377, 3349, 3349}}, 3083 RemainingUses=150, 3502 Content={3504 Content={2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3035 Amount=63, 2854 Content={3062, 2866 Content={2866}}}}}, 
+               5 Content={3457, 3084 RemainingUses=250, 3504 Content={2868 Content={3583 Amount=16}, 3507 String="apolo death\ndarashia"}, 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 11\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 11\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2853, 2922 SavedExpireTime=98, 3457, 2871 Content={2871, 3017, 3017, 3441}, 2853 Content={2922 SavedExpireTime=86, 2920}, 3502 Content={3349, 3275}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={2867 Content={3441}, 2853 Content={3349, 3349}, 2854 Content={3449 Amount=42, 3583 Amount=65}, 3483, 3504 Content={3507 String="Apolo Death\nAnkrahmun", 3504 Content={2865 Content={2853 Content={2853 Content={2853}}, 3579 Amount=22, 3578 Amount=70, 3578 Amount=100}, 2867 Content={2871 Content={2854 Content={3354, 3277 Amount=44, 3311, 3351, 3425, 3046 SavedExpireTime=2990, 3311, 3441, 3084 RemainingUses=250, 3045 RemainingUses=200, 3429, 3349, 3349, 3349, 3409, 3409, 3275, 3349, 3275, 3409}, 3409, 3327, 3409, 3409, 3349, 3409, 3409, 3285, 3349, 3349, 3409, 3409, 3409, 3272, 3353, 3305, 3265, 3377, 3377}, 3447 Amount=31}, 2870 Content={2857 Content={2920 SavedExpireTime=471, 2920 SavedExpireTime=520, 2920, 2920, 2920, 2920, 2920, 2920}, 3003, 3003, 3003, 3003, 3457, 3457, 3483, 3483}, 3507 String="detektus\ndarashia"}, 3504 Content={3504 Content={3507 String="Detektus\nDarashia"}, 3507 String="detektus\ndarashia"}, 2857 Content={3092, 3084 RemainingUses=250, 3046}}, 2854 Content={3297, 3017, 2853 Content={3032 Amount=2, 3042 Amount=2, 3007, 3033 Amount=2, 3298 Amount=7, 3007, 3017, 3017}, 3045 RemainingUses=200, 3046, 3429, 3045 RemainingUses=200, 3384, 2853 Content={3330, 3045 RemainingUses=200, 3045 RemainingUses=200, 3299, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3046, 3046, 3372, 4290 Content={3299, 3046}, 3152 Charges=1, 3155 Charges=1, 3152 Charges=1}, 3504 Content={3504 Content={3507 String="Apolo Death\nAnkrahmun"}, 3504 Content={3507 String="Apolo Death\nAnkrahmun"}, 3507 String="apolo death\nankrahmun"}, 3502 Content={3405, 2641, 3425, 2853 Content={2970 KeyNumber=3801, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 3598 Amount=20}, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3035 Amount=98, 3035 Amount=100, 3504 Content={3504, 3507 String="apolo death\nankrahmun"}}}}

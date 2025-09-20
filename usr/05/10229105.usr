@@ -1,0 +1,56 @@
+ID              = 10229105
+Name            = "Feria Alora"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,87-87-87-88)
+CurrentOutfit   = (129,87-87-87-88)
+LastLogin       = 1148142526
+LastLogout      = 1148142827
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32921,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,48661,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,13585,3000,20800,1600)
+Skill = (2,214,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,52,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,31,0,10,0,0,0,0,0,0,0,6432,1100,7140,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,11,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,89,1100,105,50)
+Skill = (9,37,0,10,0,0,0,0,0,0,0,6587,1100,6710,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,19,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,62,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,438,1100,490,20)
+Skill = (14,0,1200,0,0,0,445,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,70,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(33,1),(34,1),(59,1),(96,1),(97,1),(98,1),(99,1),(125,1),(126,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2854 Content={3358, 3273, 3031 Amount=24, 3578 Amount=4, 3308, 3446 Amount=3, 2920 SavedExpireTime=598, 3457, 3003, 3599 Amount=3}},
+               4 Content={3357},
+               5 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3492 Amount=4}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3310}}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3507 String="Feria Alora\nvenore\n"}, 3504 Content={3507 String="Feria Alora\nvenore"}, 3502 Content={3031 Amount=13, 3012, 3483, 2854 Content={3147, 3046}, 3463, 3425, 3322, 3035 Amount=6, 3308, 2992 Amount=1, 2920 SavedExpireTime=217, 2914, 3430, 2816 String="The War over the Creation BOOK THREE\n\nBut on the other hand, many dragons fell due to the onslaught of the enormous hordes of orcs and their allies. Until today\nnone of the old peoples has recovered from the great war. Tibia was completely scattered with the corpses of the great battle,\nand all life threatened to be suffocated thereby. \nThere the gods decided that Uman should unite with the earth in order to create a godly being, which would take care of the\ndead. But Zathroth used a deception and appeared to the earth as its other side, Uman, and conceived in his place a being.\nThis was the birth of Urgith, the master of the undead. \nAnd immediately the dead ones began to raise themselves on his calling, and they all were his creatures. Like the orcs before\nthem, now the undead covered the body of the mother Tibia, and his children, the rats, were Urgith's messengers and scouts. \nThen however Uman and Tibia united, as it had been agreed upon, and Toth was born. Toth became the guardian of the\ndead ones and sent his large worms which began to devour the undead. For a long time the struggle lasted and again no end\nwas to be foreseen. ", 2816 String="The Great Creation BOOK ONE\n\nUman in his wisdom recognized the possibilities, which revealed themselves to them here, and he asked Tibiasula join in the\ncircle of the creators and help them with the task of the creation. Tibiasula agreed, because she also was fascinated by the idea\nof the creation. \nUman, whose nature was to win secrets and gain insights, had relized what their error at the preceding attempts had been:\nWithout a fixed pivot point there was no existence possible, and everything had to diffuse away as it was without direction and\ntarget. \nAnd to remedy that he invented TIME! \nIn order to create the time, the Gods united their powers. Even Zathroth was fascinated by the idea of his other half and\ncontributed a tiny proportion of his strength to the effort. The wise claim that it is to be due to his working that all time strives in\nthe long run to decay and destruction. \nThe powers of the godly bundled themselves to an enormous power greater than any in existence before. It began to\ncrystallize itself in the void to an enormous spiral. Higher and higher it mounted up, became firmness, pivot point, direction and\naim of existence! And in such a way the crystal column of time grew upwards and was from then on the unmovable center of\ncreation. "}}}

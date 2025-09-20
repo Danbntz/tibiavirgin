@@ -1,0 +1,52 @@
+ID              = 9106559
+Name            = "Puma vel Dark"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-113-114-113)
+CurrentOutfit   = (128,114-113-114-113)
+LastLogin       = 1146148712
+LastLogout      = 1146148737
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15911,0,17600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,22140,1400,26118,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2420,1100,2452,100)
+Skill = (7,38,0,10,0,0,0,0,0,0,0,4131,1100,4458,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,55,1200,109,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,63,1200,109,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,315,1200,372,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,882,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,863,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,116,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,29,51}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(23,1),(35,1),(37,1),(106,1),(107,1),(128,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               4 Content={3377},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=91}}
+
+Depots      = {0 Content={3504 Content={3503 Content={2871, 2868 Content={3147, 2867}}, 2854 Content={2867 Content={3505 String="pendejo y noob el ke lo lea \nputo el drAKEsITo    \nmama HUEVOS\n", 2853 Content={3273, 2901}, 3505, 3276}, 2854 Content={1781 Amount=11, 3277 Amount=20, 3349, 3446 Amount=24, 3174 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2868 Content={3448 Amount=35, 3447 Amount=51}, 2867 Content={2874 ContainerLiquidType=8, 2874 ContainerLiquidType=12, 2874, 2874 ContainerLiquidType=4}, 2865 Content={3723 Amount=1, 3583 Amount=1, 3602 Amount=5, 3577 Amount=5, 3582 Amount=5, 3483, 3578 Amount=100, 3578 Amount=100, 3578 Amount=13}}, 2867 Content={2394, 2989, 3565, 2949, 3078, 3003, 3084 RemainingUses=250}, 2854 Content={2901, 3503 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854 Content={3359, 2659, 2667, 2659, 3492 Amount=55, 3492 Amount=100, 2650, 2659, 2659, 2644, 3377}}, 2901, 2853 Content={2920 SavedExpireTime=509, 2920, 2920, 2920, 2969 KeyNumber=4600, 2969 KeyNumber=3600, 3588 Amount=1}, 2914 SavedExpireTime=779, 3456, 3505, 3505, 3453, 2920 SavedExpireTime=599, 2920, 3587 Amount=2, 2815 String="hi = charach\nbye = futchi\nyes = mok\nno = nok\nbuy = goshak\nweapon = porack\n-sword = burka bata  85 gp\n-sabre = charch  25 gp\n-hatchet = hakhak  85 gp\n-short sword = burka  30 gp \n-bow = batuk  400 gp\n--arrows = pixo 30 gp/10 arr\narmor = bora\n-studden armor = tulak bora  90 gp\n-leather armor = aka bora 25 gp\nshield = pora\n-brass shield = donga  65 gp\n-studden shield tulak pora  ? gp\nstudden = tulak\nleather = aka", 2920, 2815, 2969 KeyNumber=4600}, 3504 Content={2854 Content={3003}, 3003, 3003, 3507 String="Puma vel Dark\nVenore", 2853 Content={3456, 2969 KeyNumber=4600, 2917 SavedExpireTime=2994, 2882}, 3504 Content={3457, 3056 RemainingUses=200, 3054 RemainingUses=184, 2814, 3300, 2920 SavedExpireTime=114}, 3507 String="Puma vel Dark\nThais\n"}, 3507 String="Puma vel Dark\nThais" Editor="Puma vel Dark"}, 3502 Content={3003, 3264, 3286, 3264, 3264, 3264, 2955, 1781 Amount=1, 3293, 3375, 3350, 3504 Content={3266, 2989}, 3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="Puma vel Dark \nThais", 2866 Content={3384, 2854, 3277 Amount=4, 3031 Amount=69, 3031 Amount=100, 3031 Amount=100, 3031 Amount=90, 3415, 3305, 3421, 3590 Amount=1, 3349, 3287 Amount=13, 3446 Amount=100, 3446 Amount=23, 3285, 3266}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=7}, 3504 Content={3357, 3031 Amount=21, 3350, 1781 Amount=1, 3273, 3734 Amount=1, 3410, 3354, 3367, 3507 String="Puma vel Dark\nThais"}, 3674, 3738 Amount=3, 3674, 3308}}, 
+               1 Content={3502 Content={}}, 
+               6 Content={3504 Content={3505, 3504 Content={2853, 3507 String="Puma vel Dark\nVenore"}}, 3502}}

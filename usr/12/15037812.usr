@@ -1,0 +1,53 @@
+ID              = 15037812
+Name            = "Arcangel Suburbano"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,0-0-0-0)
+CurrentOutfit   = (128,0-0-0-0)
+LastLogin       = 1148256128
+LastLogout      = 1148256200
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32917,32072,6]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4953,0,6400,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,7980,3000,20800,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10262,1100,10918,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,34,0,10,0,0,0,0,0,0,0,4904,1100,4917,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,25,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,29,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10}
+QuestValues = {(21,1),(23,1),(32,1),(33,1),(34,1),(106,1),(107,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3003, 3291}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3421},
+               7 Content={3557}}
+
+Depots      = {0 Content={3502 Content={3412, 3551, 3008, 3059, 3294, 2867 Content={2829 String="Notes about gharonk language\n\n... It's now the forth day here in this town. I wasn't able to find out, how the town is called, but that\ndoesn't seem important to me.\nMore important seems to me to find out more details of gharonk language. I found out that they use some words for some different but similar expressions. Gharonk doesn't seem to distinguish between the word for \"I\" (nag) and the words for \"mine\", \"my\", \"me\", and so on. That makes the language more simple, and I think it's always clear what it means from the context. Of course, that are only speculations, I'm not quite sure about it at all...", 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn...", 3097 SavedExpireTime=3181, 3447 Amount=26, 3483}, 2853 Content={3084 RemainingUses=231, 3027 Amount=3, 3092 SavedExpireTime=1767, 3097 SavedExpireTime=3417, 3026 Amount=2, 3097 SavedExpireTime=3542}, 2854 Content={3045 RemainingUses=200, 3457, 3003}, 3003}}, 
+               1 Content={3502}, 
+               6 Content={3502}}

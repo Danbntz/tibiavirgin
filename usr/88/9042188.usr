@@ -1,0 +1,61 @@
+ID              = 9042188
+Name            = "Novato Lagger"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,76-21-76-38)
+CurrentOutfit   = (133,76-21-76-38)
+LastLogin       = 1146539685
+LastLogout      = 1146540014
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33131,32839,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,414631,0,452600,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,495786,1100,528063,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,307,675,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,46636,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,113,2000,150,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,53283,2000,102350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,35,2000,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,886,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2502,1100,2684,20)
+Skill = (14,0,1200,0,0,0,245,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,143,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,15,18,20,21,22,25,28,33,39,44,45}
+QuestValues = {(93,1),(94,1),(95,1),(97,1),(98,1),(99,1),(107,1),(190,1),(191,1),(208,1),(217,3),(223,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3147, 2867, 3577 Amount=7, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3589 Amount=1, 3586 Amount=1, 1781 Amount=3, 3587 Amount=1, 3582 Amount=1, 3031 Amount=70, 3035 Amount=4}},
+               4 Content={3380},
+               5 Content={3188 Charges=2},
+               6 Content={3074},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={2853 Content={3004, 2853 Content={3551, 3059}, 2970 KeyNumber=4601, 3054 RemainingUses=22, 3599 Amount=2, 2853 Content={2952, 3577 Amount=3, 3507 String="Use the forum!\nIt's an important part of Tibia.\n Lets make it funny :)!" Editor="Medicium", 2853 Content={3551, 3507 String="Use the forum!\nlet's make it funny!\nthe forum is an important part of tibia! ^^" Editor="Batman del future"}, 3294, 3054 RemainingUses=200, 3563}}, 2659, 2656, 3031 Amount=2, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 1781 Amount=2, 2659, 3147, 3351, 3003, 2656, 3300, 2867, 2659, 3034 Amount=1, 3492 Amount=10, 2656, 3551, 2955, 2659, 2853 Content={2877, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2}, 2853 Content={2885 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2874, 2874, 2874 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3}, 2656, 2667, 2867 Content={2853 Content={3354, 3046, 3085 RemainingUses=200, 3457}}, 2667, 2391, 2815 Editor="Batman del future", 2667, 2871 Content={2905, 2905, 2867}, 2667, 2667, 3077, 3505 String="we\nnovato mi lnuevo msn es link_moreno1 el otro lo perdi we ya no me acuerdo de la contraseña plx a y me agregas o pones tu msn aki we \n\natte: alex qoz\n" Editor="Alex Qoz", 2392, 3077, 2815, 2854 Content={3463, 2644, 2644, 2644, 2644, 2647}, 2659, 2667, 2667, 2667, 2877, 2901 ContainerLiquidType=3, 2902, 2902, 2902, 2902, 3174 Charges=5, 2854 Content={3492 Amount=100, 3492 Amount=13, 3283, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3507 String="Novato Lagger\nvenore", 2916, 2916, 2853, 2853}, 3298 Amount=1, 3441, 2853 Content={2919, 3441, 3403, 3403, 3299, 3298 Amount=1}, 3502 Content={2853 Content={2853, 3430}, 3050 SavedExpireTime=1681, 3504 Content={3507 String="Novato Lagger\nVenore", 2854, 2865, 2854, 2871, 2868, 2868, 2866, 2854 Content={3603 Amount=10, 2991, 2955, 2949, 2868 Content={3310, 3291, 2969 KeyNumber=3033}, 2650, 2650, 2650, 2650, 2650, 2650, 2650, 2650, 2650, 2656, 2650, 3492 Amount=99}}, 2867 Content={3425}, 2867 Content={2869, 2867, 2871 Content={2868, 2854}, 2992 Amount=5}, 3492 Amount=100, 2949, 3492 Amount=100, 2867 Content={2854, 2853}, 2906, 2867 Content={3008, 3008, 3008, 3008, 3008, 3456, 3059, 3059, 3054 RemainingUses=89, 3565, 2906, 3483, 2969 KeyNumber=5010, 2916, 2902, 2853 Content={2853 Content={3012}}, 3054 RemainingUses=200}}}, 
+               7 Content={3502}, 
+               8 Content={3502}}

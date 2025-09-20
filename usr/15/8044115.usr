@@ -1,0 +1,62 @@
+ID              = 8044115
+Name            = "Verguz'fenix"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,79-94-88-0)
+CurrentOutfit   = (134,79-94-88-0)
+LastLogin       = 1148050750
+LastLogout      = 1148050917
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32016,31710,9]
+PlayerkillerEnd = 0
+
+Skill = (0,118,0,1,0,0,0,0,0,0,1,26341651,0,26703400,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,2276136,3000,5248000,1600)
+Skill = (2,1835,1835,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,585,585,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,187,187,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,3220,3220,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,84,0,10,0,0,0,0,0,0,0,1176259,1100,1270895,100)
+Skill = (7,21,0,10,0,0,0,0,0,0,0,3550,1400,4177,30)
+Skill = (8,91,0,10,0,0,0,0,0,0,0,1191247,1100,1238782,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,287,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,63,0,10,0,0,0,0,0,0,0,31303,1100,34174,20)
+Skill = (14,0,1200,0,0,0,68,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,54,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(1,3),(2,6),(3,1),(4,1),(5,1),(6,1),(7,1),(9,1),(10,1),(11,1),(12,1),(14,1),(15,1),(16,1),(22,1),(23,1),(32,1),(33,1),(34,1),(36,1),(37,1),(38,1),(41,1),(42,1),(43,1),(44,1),(50,1),(54,1),(56,1),(59,1),(62,2),(63,1),(64,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(79,1),(80,1),(81,1),(82,1),(83,1),(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(101,1),(102,1),(103,3),(104,1),(105,1),(108,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(122,1),(123,1),(127,1),(129,1),(130,1),(131,1),(132,1),(133,1),(135,1),(136,1),(137,1),(143,1),(151,1),(152,1),(153,1),(154,1),(155,1),(156,1),(157,1),(158,1),(166,1),(167,1),(168,1),(169,1),(170,1),(171,1),(172,1),(173,1),(174,1),(175,1),(176,1),(177,1),(179,1),(180,1),(181,1),(183,1),(184,1),(185,1),(186,1),(187,1),(188,1),(189,1),(190,1),(191,1),(193,1),(194,1),(195,1),(196,1),(197,1),(198,1),(200,1),(201,1),(202,1),(203,1),(205,1),(208,1),(211,4),(217,3),(220,1),(221,1),(222,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(254,1),(257,1),(258,1),(261,1),(264,1),(266,1),(292,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={3148 Charges=2, 3456, 2854 Content={3031 Amount=98, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2868 Content={2868 Content={3384, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 3035 Amount=7, 2866 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3457, 3177 Charges=1, 3492 Amount=38}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3198 Charges=4}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={2868 Content={2865, 2854, 2865, 2865 Content={2854}}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={2866 Content={3492 Amount=100, 3031 Amount=53, 3031 Amount=100, 3031 Amount=12, 2866, 2866, 2866}, 2853 Content={3286}, 3492 Amount=66, 3502}, 
+               6 Content={2854 Content={2867, 2869 Content={2866}, 2866, 2867, 2866, 2866, 2854 Content={2866}, 2866, 2854, 2854, 2866, 2866, 2866, 2866, 2868, 2867, 2867, 2867, 2867, 2854}, 3502 Content={2854 Content={2865, 2854, 2867, 2854, 2866, 2866, 2854 Content={2854}, 2869 Content={2869}, 2854 Content={2854}, 2867}, 2867 Content={2869 Content={2866}, 2871, 2866, 2866, 2866, 2866, 2866, 2854, 2866, 2869 Content={2869}, 2866 Content={2866}, 2867}, 2854 Content={2866 Content={2866}}, 2867 Content={2866 Content={2866}, 2866 Content={2854}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={2865}, 3291, 2866 Content={3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}, 
+               7 Content={2471, 3504, 3504, 3504, 2471, 3311, 3311, 2853 Content={2853 Content={2853}, 2853}, 3504, 3061, 3504, 3505 String="WE soy ricardo si eres FER o CESAR \ncheka bien esto:\nayer fui a casa de cesar para ir a lavar la camioneta namas ke eno encontramos lavado abierto nos kedamos asta las 11:30 en su casa luego fuimos a buskar a gracia, (pasamos por el malecon) luego regresamos a casa de cesar y estubimos jugando tibia y vimos la pelicula de DOOM ke traia  adrian, y pus hay no la pasamos asta la 1 am\nluego ya los fui a dejar a todos y ya llegue a mi casa como ala 1:40 am okas repasenlo y si pueden le dicen a manolo pa keno la caguen \nenseña esta carta al otro we ya sea mingo o fer. plx\nNO CREO KE VALLA A TAMP EL MARTES TENGO COSAS QUE HACER :( LUEGO NOS PONEMOS DEACUERDO PARA IR AL MAR.\nsi ya fue vista por los 2 tirenla ala basura \nesta carta se autodestruira en 6 seg" Editor="Takemaru-sama", 2949, 2949, 2949, 2949, 3062, 3061, 2656, 2659, 2659, 2659, 2659, 3061, 2659, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 2667, 3061, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2664 RemainingExpireTime=595, 2866 Content={3004, 3004, 3004, 3004, 3004, 3004, 3004}, 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1580 gold\nfor your house \"Charsirakh I b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3504 Content={3586 Amount=1, 3591 Amount=1, 3587 Amount=1, 3597 Amount=1, 3590 Amount=1, 3507 String="Verguz'fenix\nAnkrahmun" Editor="Knight Poseido"}, 2815, 2815, 2815 Editor="Verguz'fenix", 2815, 3502 Content={2866 Content={2842, 2991, 3061, 2842, 2842, 3061, 3061, 3061, 3061, 2906, 3208, 2842, 3010, 3243, 3243, 2815 Editor="Verguz'fenix"}, 2949, 2952, 2955, 2870 Content={3446 Amount=26, 2868 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3447 Amount=27, 2868 Content={3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100, 3448 Amount=100}, 2866 Content={3447 Amount=100, 3447 Amount=100, 3298 Amount=100, 3447 Amount=100}, 3347, 3448 Amount=26, 3450 Amount=2, 3287 Amount=27, 3277 Amount=29, 3298 Amount=5}}}, 
+               8 Content={2853, 3502}}

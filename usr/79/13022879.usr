@@ -1,0 +1,52 @@
+ID              = 13022879
+Name            = "Liverrin dark"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,87-0-0-0)
+CurrentOutfit   = (131,87-0-0-0)
+LastLogin       = 1143709969
+LastLogout      = 1143710494
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32342,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8328,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,603,3000,1600,1600)
+Skill = (2,113,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,2032,1100,2138,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,25,0,10,0,0,0,0,0,0,0,1627,1100,1797,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,34,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,71,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(32,1),(33,1),(34,1),(35,1),(59,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=200},
+               4 Content={3377},
+               5 Content={3271},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={2853 Content={3012, 3457, 3003}}}
+
+Depots      = {0 Content={3283, 2825 String="20 Tricks to Get People's Money\n\n...", 3463, 3046 SavedExpireTime=1264, 3188 Charges=3, 3198 Charges=4, 3066, 3374, 3130, 2854 Content={3451, 3452, 3003, 3483, 3362, 2854}, 3504 Content={3457, 3492 Amount=19, 3738 Amount=4}, 3504 Content={3003}, 3504 Content={3003}, 3504, 3504, 2821 String="Royal Archives - 960 p.g\n\nConcerning: Graveyard rumours\n\nHRH has issued orders that the continuing rumours about a dungeon entrance at the graveyard be publicly denied and then ignored as they are obviously untrue.\n\nNo further action is to be taken.", 2821 String="Royal Archives - 943 p.g\n\nConcerns: City graveyard\n\nHRH has ordered an expansion of the city graveyard to the east, due to the increased demand for resting places. It is hoped that the eastward expansion will avoid problems with the undead experienced with previous graveyards closer to the city entrance.", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3456, 2873, 3483, 3483, 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn...", 1781 Amount=11, 2870 Content={3374, 3374, 3297, 3375, 3300, 3362, 3362, 3374, 3374, 3374, 3362, 3375, 3362, 3362, 3374, 3374, 3066, 3377, 3377, 3377}, 2854, 2854 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3504 Content={3582 Amount=2, 3578 Amount=41, 3590 Amount=3, 2853 Content={3593, 3593, 3607, 3607, 3607, 3607, 3607}, 3595 Amount=3, 3588 Amount=15, 3577 Amount=38, 3579 Amount=60, 3492 Amount=100, 3600 Amount=26}, 3504 Content={3465, 3472, 3471, 3470, 3456, 3457, 2920 SavedExpireTime=329, 3471, 3464, 3466}, 3502 Content={3031 Amount=77, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=10}}}

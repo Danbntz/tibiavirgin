@@ -1,0 +1,50 @@
+ID              = 13863256
+Name            = "Sir alex archer"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,78-114-87-0)
+CurrentOutfit   = (133,78-114-87-0)
+LastLogin       = 1147919105
+LastLogout      = 1147919163
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32919,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,60453,0,69700,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,29147,1400,38165,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2306,1100,2452,100)
+Skill = (7,47,0,10,0,0,0,0,0,0,0,10461,1100,10921,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,270,1200,372,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,99,1200,109,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,89,1200,109,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,334,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,93,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,20,29,51}
+QuestValues = {(59,1),(96,1),(97,1),(98,1),(153,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3008},
+               3 Content={2853 Content={3425, 3457}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3558}}
+
+Depots      = {6 Content={3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3377, 3558, 3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Demon Druid Of Caos"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3504 Content={3504 Content={3300}, 3426, 3507 String="sir alex archer\nvenore" Editor="Sir Merin Fraf"}, 3502 Content={3504 Content={3377, 3421, 3425, 2853, 3507 String="armel tyran\nvenore" Editor="Lemis Fyfenis"}, 3308, 3411, 3354}}, 
+               7 Content={3504 Content={3507 String="sir alex archer\nankrahmun" Editor="Sir Merin Fraf"}, 3271, 3504 Content={2854, 3507 String="sir alex archer\nankrahmun" Editor="Sir Merin Fraf"}, 3504 Content={3507 String="sir alex archer\nankrahmun\n" Editor="Sir Merin Fraf"}, 3502 Content={3031 Amount=100, 3349, 3042 Amount=1}}}

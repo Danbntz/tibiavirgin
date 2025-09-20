@@ -1,0 +1,56 @@
+ID              = 9617713
+Name            = "Shypon Kilers"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-120-114-0)
+CurrentOutfit   = (134,0-120-114-0)
+LastLogin       = 1148256005
+LastLogout      = 1148256482
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33131,32839,7]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,882847,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,318513,3000,582400,1600)
+Skill = (2,650,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,2,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,211983,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,69,0,10,0,0,0,0,0,0,0,145313,1100,151740,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,50,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,52,0,10,0,0,0,0,0,0,0,11364,1100,11848,20)
+Skill = (14,0,1200,0,0,0,405,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80,81}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(24,1),(46,1),(60,1),(61,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(125,1),(126,1),(128,1),(190,1),(223,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2868 Content={2869, 3003, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3425, 3291}}},
+               6 Content={3281},
+               7 Content={3371},
+               8 Content={3551},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504, 3504 Content={3504 Content={3507 String="dogaum de zanera\ncarlin" Editor="Safada Brax"}}, 3483, 3504 Content={3507 String="Shypon Kilers\ncarlin\n" Editor="Shypon Kilers", 3577 Amount=5}, 3502 Content={2853 Content={3264}}}, 
+               3 Content={3502}, 
+               5 Content={3502 Content={3410, 3410}}, 
+               6 Content={3504 Content={3507 String="shypon kilers \nvenore" Editor="Shypon Kilers"}, 3502}, 
+               7 Content={2871 Content={3354, 3004, 3286, 3286}, 2868 Content={3384, 3425, 3447 Amount=100, 3411, 3411, 3367, 3354, 3358, 3266, 3447 Amount=15}, 2871, 3483, 3502 Content={2869 Content={3031 Amount=93, 3031 Amount=70, 3031 Amount=100, 3035 Amount=7, 3410, 3410, 3318, 3035 Amount=100}, 2866 Content={3042 Amount=33, 3032 Amount=13, 2859 Content={3050, 3098, 3052, 3097 SavedExpireTime=3576, 3052, 3052, 3052}, 3028 Amount=2, 3033 Amount=12}, 2868 Content={3577 Amount=20, 3026 Amount=1, 3583 Amount=6, 3577 Amount=100, 3593, 3593, 3588 Amount=12, 3598 Amount=6}, 2866 Content={3456, 3377, 3377, 3377, 3377, 3377}, 2868 Content={3059, 3059, 3059}, 2866 Content={3492 Amount=50, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2865 Content={2868 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2868 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2867 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2868 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2868 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}}, 2872 Content={2867 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3046, 3287 Amount=1, 3046, 3077, 3084 RemainingUses=250, 2973 KeyNumber=3520, 2970 KeyNumber=3802, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 3054 RemainingUses=200}, 2866 Content={3354, 3504 Content={3507 String="rokus\nankrahmun\n" Editor="Crayola-fire"}, 3504 Content={3507 String="rokus\nankrahmun" Editor="Kawashi Salvavidas"}, 3008, 3074, 3269}}}}

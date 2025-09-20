@@ -1,0 +1,55 @@
+ID              = 9078777
+Name            = "Druid Lara"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (139,79-38-0-57)
+CurrentOutfit   = (139,79-38-0-57)
+LastLogin       = 1147663742
+LastLogout      = 1147663808
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31685,8]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15369,0,17600,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,402628,1100,433638,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,105,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6419,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,329,1800,593,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,3610,1800,3763,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,18,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,46,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,8,10,12,20,29,42}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(27,1),(32,1),(33,1),(34,1),(59,1),(125,1),(126,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3054 RemainingUses=45},
+               3 Content={2865 Content={3577 Amount=1, 1781 Amount=6, 3285, 3031 Amount=31, 3147}},
+               4 Content={3377},
+               5 Content={3066},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={2854, 3003, 3031 Amount=16, 3317, 2973 KeyNumber=3520, 3502 Content={3004, 2854 Content={3035 Amount=1}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3504 Content={3504 Content={3507 String="Lord Zakece\ncarlin"}, 3507 String="lord zakece\ncarlin"}, 3506 String="Warning!\n\nThe monthly rent of 22980 gold\nfor your house \"House of Recreation\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3507 String="lord zakece\ncarlin" Editor="Dark Of Luis"}, 3504 Content={3269, 3446 Amount=21, 3492 Amount=100, 3085 RemainingUses=200, 3046 SavedExpireTime=2900, 3492 Amount=21, 3507 String="Druid Lara\nAb'Dendriel"}, 2872 Content={2870 Content={3276, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2992 Amount=5, 3505 String="Sir Blackk Fhyoda\nCarlin\n\nBom, o q eu poderia dizer pra pessoa q revolucionou minha vida e meus sentimentos...dona de uma alegria contagiante...um humor fantástico...uma pessoa carismática...companheira...carinhosa...linda... e com um unico defeito (corinthiana) rs....nao sei o q dizer , entao vou apenas repetir q vc eh ", 3483, 3277 Amount=3, 3292, 3275, 3269, 3056 RemainingUses=200, 3085 RemainingUses=200, 3269, 3377, 3483, 3008, 3578 Amount=14}, 3504 Content={3447 Amount=4, 3046, 3507 String="Druid Lara\nAb'Dendriel"}, 2853 Content={2853 Content={2853 Content={3483, 3084 RemainingUses=250, 3059, 3077, 3008, 3551}}, 2874 ContainerLiquidType=3, 2874, 3446 Amount=8, 3447 Amount=23, 3736 Amount=1, 2969 KeyNumber=4600}, 2870 Content={2870 Content={2870}, 3147}, 3504 Content={3192 Charges=2, 2854, 3507 String="Druid Lara\nAb'Dendriel", 2870 Content={2866 Content={2866, 2866, 2866}}}, 3056 RemainingUses=200, 3502 Content={2870 Content={3504 Content={2853 Content={2853 Content={3264, 3410}, 3410, 3354, 3358, 3358, 3410, 3354, 3410}, 2871, 2834 Editor="Druid Lara", 3035 Amount=10, 3507 String="Selin Furic\nAb'Dendriel"}, 3583 Amount=49, 2853 Content={2853 Content={2853 Content={3385, 2853 Content={3356, 3351, 3351, 3351, 2853 Content={2970 KeyNumber=3802, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 2969 KeyNumber=3008, 2853 Content={3576, 2957, 2853 Content={3210, 3419, 3314, 3081 RemainingUses=5, 3014, 3380, 3295, 3039}, 3051, 3081 RemainingUses=5}, 3297, 3284 RemainingUses=1}, 3351, 3351, 3351}, 3083 RemainingUses=150, 3029 Amount=2, 3269, 3383}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 2853, 2857 Content={2869 Content={2865, 2853 Content={2856 Content={3506 String="Topinga Quim\nAb'Dendriel\n\nbom...vamos ver se essa carta sai pro seu dp agora...mas tbm se num sai reu desisto..hehehehhee...so num vo desistir nunk de vc meu anjo!!!!\nbom num sei se eu vo ter ver hj...mas saiba q to com saudade...to adorando ter speedy pq assim posso falar mais com vc..!!! espero q seu dia tenha sido bom.....e q o de amanha seja melhor ainda....afinal amanha vo sair com a deia e vo ver o neg dasaida pq num aguento mais ficar longe de vc(se qndo na saida eu travar...e normal =/).....poxa saiba q eu TE ADORO....so loucamnete apaixonada por vc....e te qro tds os dias...se cuida meu ano....minha vida...bom descanço.....bjox..mtos mos bjos...de sua Cá!\n^^", 3505 String="Topinga Quim\nAb'Dendriel\n\nLindaum...essa e uma carta teste pra ver se eu realmente sei mandar uma carta...e dificil levar uam vida de noob mais td bem!\"\nLindo TE ADORO mtão....sinto mto sua falta qndo num falo com vc....pq sou mto apaixonada por vc.....num sei oq seria de mim sem vc meu anjo!!!!!!1minha vida!!!!!\nse cuida.....pq se vc num se cuidar po deixar q eu cuido...com mtos bjos!!!!\n^^\nI love You....=*\nmal espero a hr de nos encontrarmos...pra mim ficar junto d vc!\n^^\nS2\nps: espero q goste dop presente!" Editor="Druid Lara", 3447 Amount=13, 3446 Amount=2}, 3446 Amount=15, 3505 String="lindaum.....\naxei outra cartinha....hehehehhe...sou mo desocupada mais td bem....tava pensando em jogar fora...mais ai pensei....posso usa-la pra escrever uma carta pra minha vida!!!!! ^^\nLindo...pra terminar a carata de hj...espero q vc goste desse presente...saiba q eu TE ADORO mtooooooooooo...soy loka pro ti minha vida...totalmente apaixonada.....\nse cuida e bonsa sonhos meu anjo!!!!!!!\nbjos da SUA Cá!\n=*" Editor="Druid Lara", 3447 Amount=45}, 3505 String="Lindaum...TE ADORO!!!!!!\npoxa....nunk tinha escreto uma carta pra vc...mais como minha letra e q nem essa...entaum ate q da pra enganar..hehehehe..poxa...saiba q eu TE ADORO...so apaixonada por vc...e qro td de bom pra vc..pq vc merece...valeu pela força q vc me deu com o sneg do meu vô e por estar sempre me apoiando...sou mto grata por  td.....to com saudades...mtas saudades...e espero matar logo essa saudade....pode contar sempre comigo!!!!!\nmeu vc se tornou algo fundamental na minha vida....sem vc agora num sei mais viver...se cuida....e prometo fazer uma carta mehlor da proxima vez....bjos...da sua Cá! ^^\n=*\nPS: prometo cumprir a aposta!", 2853 Content={3447 Amount=14, 3448 Amount=16, 3447 Amount=100}}, 3043 Amount=2, 3046, 3077, 3084 RemainingUses=250, 3098}}, 3061, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3483, 3430, 2856 Content={2854 Content={3447 Amount=2, 2854 Content={2853}}, 2853 Content={2856 Content={3668, 2393, 2874 ContainerLiquidType=2}, 2856 Content={2815 String="Lindo...\nespero q vc goste do presente...pq foi de coração..mas se vc num qser usar eu entendo...mas saiba q eu TE ADORO...sou loka por vc...e qro estar cada minuto do seu lado!!!!!\nse cuida vida....bjos..mtoooooos bjos....da mina q te adora!!!!!!\nPS: caso vc duvide...bjos da SUA Cá" Editor="Druid Lara"}, 3503 Content={3507}, 2853}}, 2853 Content={2870, 2870 Content={2865}}}}}

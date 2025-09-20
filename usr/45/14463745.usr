@@ -1,0 +1,45 @@
+ID              = 14463745
+Name            = "Velzemon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,78-114-114-78)
+CurrentOutfit   = (128,78-114-114-78)
+LastLogin       = 1147905852
+LastLogout      = 1147905897
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32955,32075,6]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,19950,0,23200,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,5286,3000,6400,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,55,55,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4453,1100,4559,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,30,0,10,0,0,0,0,0,0,0,2948,1100,3200,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,100,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,59,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(115,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {6 Content={3003, 3552, 3375, 3297, 3357, 3425, 3372, 3367, 3046 SavedExpireTime=429, 3273, 3540, 3446 Amount=70, 3446 Amount=100, 3378, 3504 Content={3457, 3003, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3267, 3456, 3507 String="velzemon\nvenore" Editor="Mirach"}, 3299, 3377, 3035 Amount=11, 3272, 3502 Content={3457, 3017, 3003, 3367, 3301, 3301}}}

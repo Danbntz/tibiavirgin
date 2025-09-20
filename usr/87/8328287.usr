@@ -1,0 +1,59 @@
+ID              = 8328287
+Name            = "Zantino"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (128,114-114-115-95)
+CurrentOutfit   = (128,114-114-115-95)
+LastLogin       = 1130530199
+LastLogout      = 1130531837
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 1133123836
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,61344,0,69700,100)
+Skill = (1,45,0,0,0,0,0,0,0,0,0,1192320,1100,1266872,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,195,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,13,0,10,0,0,0,0,0,0,0,568,1500,812,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,6782,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,55,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5770,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,90,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,16,20,21,29,45,76}
+QuestValues = {(35,1),(38,1),(52,1),(54,1),(56,1),(61,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2854 Content={2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3147, 3147, 3147}, 3031 Amount=47, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2865 Content={2854 Content={3191 Charges=2, 3191 Charges=2, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5}}}},
+               4 Content={},
+               5 Content={3412},
+               6 Content={3327},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={3059 String="", 3483, 3046 SavedExpireTime=2994, 3035 Amount=9, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={}, 2869 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}}, 
+               1 Content={3502 Content={2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3492 Amount=28, 3035 Amount=20, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3083 RemainingUses=150, 2970 KeyNumber=4501, 2970 KeyNumber=4503, 3504 Content={3582 Amount=11, 2853 Content={2853 Content={2853 Content={3354, 3410}, 3264, 3352, 3264, 3274, 3354, 3264, 3358}, 3352, 3410, 3274, 3264, 3286, 3410, 3410}, 3507 String="zantino\ncarlin\n"}, 3504 Content={2853 Content={2853 Content={2853 Content={3411, 2853 Content={3286, 3264}, 3273, 3274, 3264, 3286, 3264}, 3358, 3264, 3286}, 3274, 3352, 3264, 3264, 3358, 3264}, 3308, 3507 String="zantino\ncarlin\n"}}}, 
+               3 Content={3504 Content={3507 String="Zantino\nAb'dendriel"}, 3504 Content={3507 String="Zantino\nAb'dendriel"}, 3502 Content={}}, 
+               4 Content={2656, 2853 Content={}, 2667, 2650, 2644, 2640, 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Castle, 4th Floor, Flat 02\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3035 Amount=1, 3507 String="zantino\nedron"}, 3377, 3003, 2868 Content={2865 Content={2869 Content={}, 2869 Content={}}, 2868 Content={2869 Content={2869 Content={}, 2869 Content={2869 Content={}, 2869 Content={3282}}, 2869 Content={2869 Content={2868 Content={}, 2869 Content={}}, 2869 Content={}}, 2869 Content={}, 2869 Content={}, 2869 Content={3031 Amount=35, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2869 Content={2869 Content={}, 2869 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 2869 Content={}, 2869 Content={}}}}, 2854 Content={}}, 2973 KeyNumber=3520, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Castle, 4th Floor, Flat 02\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2869 Content={}}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

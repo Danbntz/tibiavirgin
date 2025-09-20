@@ -1,0 +1,59 @@
+ID              = 11583755
+Name            = "Herakles warrior"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,95-58-58-58)
+CurrentOutfit   = (134,95-58-58-58)
+LastLogin       = 1148245385
+LastLogout      = 1148245414
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31781,6]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,452983,0,499200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,136335,3000,193600,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,96,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,142499,1100,155247,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,63,0,10,0,0,0,0,0,0,0,82120,1100,85435,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76}
+QuestValues = {(59,1),(84,1),(85,1),(111,1),(112,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2866 Content={3003, 3457, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3360},
+               5 Content={3419},
+               6 Content={3280},
+               7 Content={3382},
+               8 Content={3552},
+               10 Content={3582 Amount=2}}
+
+Depots      = {0 Content={3504 Content={3507 String="herakles warrior \nthais" Editor="Herakles warrior", 2853 Content={2853 Content={3285, 3285}, 3410, 3286, 3354, 3410, 3264, 3286, 3413}}, 3502 Content={3074}}, 
+               1 Content={3271, 3459, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 Editor="Herakles warrior", 3291, 3272, 3267, 3031 Amount=100, 3031 Amount=100, 3582 Amount=9, 2870 Content={3415, 3359}, 3084 RemainingUses=250, 2970 KeyNumber=4601, 2920 SavedExpireTime=327, 2815 Editor="Herakles warrior", 3412, 3350, 3447 Amount=6, 2473, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={3264, 3264, 3264, 3286, 3286, 3059, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=10}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="herakles warrior\nedron" Editor="Mephistroth warrior"}, 3738 Amount=1, 3446 Amount=25, 3265, 3502}, 
+               5 Content={3603 Amount=3, 3114 Amount=1, 3114 Amount=1, 3114 Amount=1, 3603 Amount=100, 2639, 2639, 2857 Content={2854 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2868, 2868 Content={2865 Content={2865 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 2865 Content={3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264}}, 3282, 3147, 3035 Amount=17, 3409, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 4, Flat 01\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2866 Content={3083 RemainingUses=150, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2393, 3174 Charges=2, 3557, 3372, 3372, 3359, 3425, 3351, 3174 Charges=5, 3056 RemainingUses=200, 3045 RemainingUses=200, 3085 RemainingUses=200}, 3291, 2834, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3299, 2974, 3032 Amount=5, 3042 Amount=8, 3301, 2955, 3264, 3285, 3084 RemainingUses=100, 3084 RemainingUses=110, 3084 RemainingUses=250, 3084 RemainingUses=250, 3045 RemainingUses=200, 3045 RemainingUses=196, 3077, 3049 SavedExpireTime=462, 3350, 3327, 3298 Amount=1, 3285}, 3502 Content={2920, 3046 SavedExpireTime=676, 2920, 2920, 3147}}, 
+               6 Content={3502}}

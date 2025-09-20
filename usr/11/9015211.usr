@@ -1,0 +1,59 @@
+ID              = 9015211
+Name            = "Royal Xeus"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,3-114-0-95)
+CurrentOutfit   = (134,3-114-0-95)
+LastLogin       = 1147718290
+LastLogout      = 1147718315
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,828597,0,847400,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,366343,1400,440480,1600)
+Skill = (2,484,485,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,403,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,107,107,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,28687,1100,29912,100)
+Skill = (7,70,0,10,0,0,0,0,0,0,0,91572,1100,100178,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,566,1200,645,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,16,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,748,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2064,1100,2183,20)
+Skill = (14,0,1200,0,0,0,473,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,121,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,42,44,45,51,76,79,81,95}
+QuestValues = {(1,4),(2,6),(15,1),(16,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(39,1),(41,1),(42,1),(43,1),(44,1),(50,1),(55,1),(67,1),(70,1),(71,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(124,1),(128,1),(129,1),(130,1),(131,1),(132,1),(133,1),(135,1),(136,1),(137,1),(140,1),(141,1),(142,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(213,1),(214,1),(216,1),(217,3),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,1),(246,1),(247,1),(249,4),(250,4),(251,3),(253,1),(257,1),(292,1)}
+Murders     = {1145890638,1145969754}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3446 Amount=55}}
+
+Depots      = {0 Content={3070, 3504 Content={3507 String="royal xeus\nthais\n" Editor="Lucrath Sath"}, 3354, 3031 Amount=2, 3492 Amount=55, 2472, 2870 Content={3507 String="Zevity\nThais" Editor="Zevity", 3507 String="Warinator Singh\nDarashia" Editor="Warinator Singh", 2853, 2853 Content={2874}, 2874, 2913, 3336, 3506 String="Warning!\n\nThe monthly rent of 3800 gold\nfor your house \"Upper Swamp Lane 12\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3147, 3506 String="Warning!\n\nThe monthly rent of 3800 gold\nfor your house \"Upper Swamp Lane 12\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3147, 3507 String="heavens blade\nthais" Editor="Sacred Light", 3147, 3147, 3552, 2853, 3504, 3507 String="juan druid\nthais\n" Editor="Juan Dilom", 3507 String="Xnexus\nThais" Editor="Zerovisk", 2854 Content={2874, 2853, 3506 String="Warning!\n\nThe monthly rent of 3800 gold\nfor your house \"Upper Swamp Lane 12\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3507 String="rubrah\nthais" Editor="Rubrah", 2853, 3507 String="heavens blade\nthais" Editor="Sacred Light", 3504, 3504, 3507 String="boricua-soldier\nthais\n" Editor="Tony Dizze", 3504, 2853, 3507 String="figue junin\nthais\n" Editor="Knight-Lucax", 2853, 3504, 3507 String="azuxz\nthais" Editor="Azuxz", 2853, 3504, 3147, 2853, 2854 Content={3507 String="joto" Editor="Xandok Viper", 3504, 3504, 3504, 3504, 3507 String="Elem faire\nthais", 3507 String="Dragon Lure\nThais" Editor="Ogi Lure", 3507 String="Semyours soul\nthais" Editor="Band Zarm", 2853, 3507 String="Thedom Vammy\nthais" Editor="Amigo Infernal", 3507 String="heavens blade\nthais" Editor="Heavens Blade", 3507 String="Xadow Kitad\nThais" Editor="Xadow Kitad", 3507 String="royal xeus\nthais" Editor="Royal Xeus", 3504, 3144, 3504, 3504, 3507 String="Semyours soul\nthais" Editor="Delta Clipse", 2854 Content={3507 String="Lord-music\nThais" Editor="Math Faler", 2924 SavedExpireTime=131, 3509, 3507 String="Drandok\ncarlin" Editor="Gogax Sijakor", 3507 String="=) =( =0 -.-\n\n\n\n\n\n" Editor="Patinadorloco", 2853, 2853, 2853, 3507 String="zanera mage\nthais" Editor="Vinceart", 3507 String="glan cerim\nthais\n" Editor="Ture Ghald", 3507 String="Lucas Kosawa\nCarlin" Editor="Gogax Sijakor", 2853, 3504, 3507 String="Arbu vildus \nThais" Editor="Leonos", 3507 String="Fadi Ryin\nThais" Editor="Fadi Ryin", 3504, 3507 String="dohko roberto\nthais" Editor="Rikkuh", 3507 String="dohko roberto\nthais" Editor="Lady-moxa", 3507 String="Dohko roberto\nThais" Editor="Meldrom", 2854 Content={2853, 2853, 3504, 3504, 2853, 2853, 2853, 2853, 2924 SavedExpireTime=37, 2853, 2853, 2913, 3507 String="Stalk\nThais" Editor="Stalk", 3507, 3507 String="Junior of the Sakarum\nThais" Editor="Junior of the Sakarum", 3507 String="xarth deon\nthais\n" Editor="Xarth Deon", 3507 String="Static Ekiz\nThais" Editor="Static Ekiz", 2853, 3507 String="rafita devil\nthais" Editor="Rafita devil", 2854 Content={3505 String="nada\nbacio\nempty\nlol\n" Editor="Hermano de francolo el bueno", 3505 String="a goldy lucy e pk matem ela se vcs forem msm forte \n" Editor="Dragon of Legendary", 3505 String="leave o hunted\n     ok\n" Editor="Luna Fous", 3505, 3505, 3505 String="][_([])][_\n" Editor="Ziomek Darks", 3505, 2853 Content={3507 String="Kalan Sata\nThais" Editor="Kalan Sata", 3507 String="Delta'Oblivion\nThais" Editor="Mac'Dre", 3507 String="juan druid\nthais\n" Editor="Juan Dilom"}, 3507 String="Sharad-Waador \nThais" Editor="Xagarqueve the Smoko Slayer", 3504, 3504, 3507 String="Thais" Editor="Thon Mero", 2853, 2853, 3504, 3507 String="Kalan Sata\nThais\n" Editor="Kalan Sata", 3507 String="Kalan Sata\nThais\n" Editor="Kalan Sata", 2853, 3507 String="ushi the druid\nthais" Editor="Ushi the druid", 3507}}}}}}, 3286, 3425, 2854 Content={2854}, 3457, 3457, 2854 Content={2469, 2853 Content={2853 Content={2853 Content={2471 Content={2471}}}}}, 2854 Content={2471, 2471, 3003, 3457}, 3059, 3457, 3075, 3504 Content={2854 Content={3074}, 3507 String="royal xeus\nthais\n" Editor="Royal Xeus"}, 3349, 2868 Content={3349, 3483, 2869 Content={3412, 2853 Content={3457}, 2868}, 2854 Content={3268}, 2868}, 3502 Content={2853, 3350, 2854, 2868 Content={2854 Content={2865 Content={2854 Content={2870 Content={3457}}, 3483, 3003, 3003}, 3350}}}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={2871 Content={2854, 2871}, 2870 Content={2857 Content={2970 KeyNumber=3801, 2970 KeyNumber=3802, 2969 KeyNumber=5010, 2857 Content={3033 Amount=1, 3027 Amount=2, 3026 Amount=2, 2853 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871}}}}}}}}}, 2854 Content={2854 Content={2871 Content={2854}}}, 2854}}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3457, 3507 String="royal xeus\nedron" Editor="Emece"}, 3504 Content={2874, 2874, 2874, 2874, 2874, 2874, 3507 String="royal xeus\nedron" Editor="Lucrath Sath"}, 3502}, 
+               5 Content={3504 Content={3507 String="Royal Xeus\nDarashia" Editor="Royal Xeus", 2854 Content={2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3277 Amount=1, 2991, 3504 Content={3507 String="Royal Xeus\nThais" Editor="Royal Xeus"}, 3084 RemainingUses=250}, 3504 Content={3350, 3447 Amount=68, 3059, 3092, 2853 Content={2853 Content={2853 Content={3375, 3375}}, 2853}, 3507 String="royal xeus\nthais" Editor="Azie Sarek"}}, 3502 Content={2870, 2866 Content={2866, 2865 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2866, 2854, 2854, 2866, 2866, 2865, 2866, 2866, 2866}, 3277 Amount=9}}, 
+               6 Content={3092, 3092, 3092, 3298 Amount=1, 3177 Charges=1, 3505 String="Royal Xeus here dont go down." Editor="Royal Xeus", 3177 Charges=1, 3502}, 
+               7 Content={3504 Content={3070, 3432, 3507 String="royal xeus\nankrahmun" Editor="Arwin Fyor"}, 3504 Content={3507 String="royal xeus\nankrahmun" Editor="Baa-al"}, 3504 Content={3507 String="royal xeus\nankrahmun" Editor="Lucrath Sath"}, 3502}, 
+               8 Content={3504 Content={3507 String="royal xeus\nport hope"}, 3504 Content={3507 String="royal xeus\nport hope"}, 3502}}

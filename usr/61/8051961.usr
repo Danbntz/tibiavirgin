@@ -1,0 +1,54 @@
+ID              = 8051961
+Name            = "Brigitta"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (142,114-114-114-114)
+CurrentOutfit   = (142,114-114-114-114)
+LastLogin       = 1146415003
+LastLogout      = 1146415083
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32370,32232,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,142452,0,156200,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,102320,1400,111701,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12587,1100,13420,100)
+Skill = (7,55,0,10,0,0,0,0,0,0,0,23742,1100,23753,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,72,1200,109,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,251,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,21,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,745,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2179,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,20,29,42,51,76,79}
+QuestValues = {(15,1),(17,1),(31,1),(53,1),(59,1),(69,1),(86,1),(87,1),(96,1),(97,1),(98,1),(113,1),(114,1),(190,1),(191,1),(192,1),(208,1),(224,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3377},
+               6 Content={3349},
+               7 Content={3362}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3446 Amount=77, 3430, 3277 Amount=4, 3300, 2853 Content={3430, 3349, 3267}, 3504 Content={3504 Content={}, 3507 String="brigitta\ncarlin"}, 3502 Content={}}, 
+               2 Content={3504 Content={3507 String="brigitta\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="Brigitta\nab'dendriel"}, 3565, 2969 KeyNumber=5010, 3658, 3287 Amount=1, 3658, 3046 SavedExpireTime=0, 3287 Amount=1, 3050 SavedExpireTime=0, 3046 SavedExpireTime=2998, 3287 Amount=1, 3050 SavedExpireTime=0, 3658, 3050 SavedExpireTime=0, 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Underwood 9\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Underwood 9\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Underwood 9\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3578 Amount=7, 3277 Amount=2, 3457, 3483, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3551, 4094 RemainingExpireTime=184 Content={4158 RemainingExpireTime=585 Content={}, 4158 RemainingExpireTime=609 Content={}}, 3504 Content={3507 String="brigitta\nankrahmun"}, 3502 Content={}}}

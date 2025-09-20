@@ -1,0 +1,59 @@
+ID              = 8046639
+Name            = "Nene Moxita"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,94-114-114-114)
+CurrentOutfit   = (142,94-114-114-114)
+LastLogin       = 1148240665
+LastLogout      = 1148249689
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32609,31937,10]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,242578,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,93677,3000,193600,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,121,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,149436,1100,155247,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,66,0,10,0,0,0,0,0,0,0,108039,1100,113880,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,181,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,119,1100,122,20)
+Skill = (14,0,1200,0,0,0,464,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,33,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,76}
+QuestValues = {(14,1),(15,1),(20,1),(23,1),(27,1),(84,1),(85,1),(86,1),(87,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={3582 Amount=1, 3291, 3292, 3031 Amount=71, 3264, 3723 Amount=100, 3723 Amount=100, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3264},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3723 Amount=36}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2856 Content={}, 3411, 3466, 3447 Amount=48}}, 
+               2 Content={3031 Amount=37, 3266, 2854 Content={3267}, 3425, 3267, 3003, 3446 Amount=11, 3031 Amount=100, 3349, 3504 Content={3272, 3375, 3377, 3507 String="Nene Moxita\nKazordoon" Editor="Edor Laennor"}, 3504 Content={2872 Content={3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}, 3507 String="Nene Moxita\nKazordoon" Editor="Edor Laennor", 3504 Content={2853 Content={2853 Content={3358, 3358}, 3358, 3358}, 3507 String="Edor Laennor\nKazordoon" Editor="Max Laennor", 2862 Content={3577 Amount=12}}}, 3447 Amount=6, 3147, 2870 Content={3354, 3114 Amount=1, 3286, 3354}, 2469 Content={2866 Content={2650, 2656, 2667, 2667, 2647, 2667, 2667, 2656, 2647, 2656, 2656, 2656, 2667, 2667, 2667, 2667, 2667, 2647, 2667, 2656}, 2659, 2659, 2656, 2659, 2659}, 2473 Content={3077, 3046 SavedExpireTime=2997, 2865 Content={2863, 2870, 3003}, 2854 Content={3457, 3104, 2857 Content={3054 RemainingUses=17, 3083 RemainingUses=150, 3084 RemainingUses=250}, 3092, 3447 Amount=45, 3003, 3267, 3003, 3483, 3267, 3267, 3147, 3457, 3267, 3104}, 2870 Content={3446 Amount=89, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2874, 2874, 2874, 2874, 2874}, 2854 Content={3147, 3375, 3372}}, 2469 Content={2469 Content={3447 Amount=51, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}}, 3606 Amount=1, 3155 Charges=1, 3092, 3155 Charges=1, 3155 Charges=1, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Tunnel Gardens 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3446 Amount=5, 3425, 3425, 3457, 3031 Amount=54, 3031 Amount=100, 3385, 3055, 3007, 3297, 3419, 3035 Amount=100, 3035 Amount=100, 3598 Amount=27, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 3059, 3003, 3457, 3377}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3504 Content={2869 Content={2854}, 3507 String="Nene Moxita\nedron" Editor="Nene Moxita"}, 3502 Content={3505 String="nene moxita\nHUNTING HERE", 3300, 3267, 3291, 3592, 3267, 3578 Amount=1, 3267, 3430, 3590 Amount=14}}, 
+               5 Content={3502 Content={3457}}, 
+               6 Content={3502}}

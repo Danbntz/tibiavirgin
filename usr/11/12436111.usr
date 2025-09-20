@@ -1,0 +1,54 @@
+ID              = 12436111
+Name            = "Fadi Ryin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-116-121-115)
+CurrentOutfit   = (129,114-116-121-115)
+LastLogin       = 1147905907
+LastLogout      = 1147906463
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32404,32162,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38471,0,47000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,23656,1100,25499,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,225,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4491,1500,4925,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,71,2000,90,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,352,2000,750,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,437,2000,750,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,643,2000,750,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,11,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,49,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,25,26,29,44}
+QuestValues = {(35,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2853},
+               4 Content={3377},
+               5 Content={3413},
+               6 Content={3075},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2920 SavedExpireTime=204, 3350, 3275, 2911 SavedExpireTime=2983, 3504 Content={3074, 3114 Amount=1, 3446 Amount=6, 2922 SavedExpireTime=134, 3308, 3577 Amount=1}, 3504 Content={3507 String="Fadi Ryin\nThais" Editor="Vick Sako", 3483, 2853 Content={2920, 2920 SavedExpireTime=238, 2922 SavedExpireTime=294, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=313}, 2853 Content={2911 SavedExpireTime=2919, 2911, 2911 SavedExpireTime=2985, 2911 SavedExpireTime=2501, 2911 SavedExpireTime=2946, 2911 SavedExpireTime=2996, 2911 SavedExpireTime=2997, 2911}}, 3505 String="Archer of the empire hunting here\npls respect\n\nmsg me  if you want hunt\n" Editor="Archer Of The Empire", 3285, 3003, 2853 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3166 Charges=3, 3174 Charges=5}, 3504 Content={3723 Amount=11, 3585 Amount=2, 3577 Amount=74, 3586 Amount=8, 3590 Amount=2, 3582 Amount=18}, 3504 Content={1781 Amount=2, 2906, 2854 Content={2853 Content={3300, 3300}, 3268, 3274, 3590 Amount=1, 3349}, 2853 Content={3507 String="Vick Sako\nCarlin" Editor="Vick Sako", 2922 SavedExpireTime=18, 2920, 3457}, 3059}, 3504 Content={3059, 3377, 3504 Content={3031 Amount=80, 3035 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3282}, 3502 Content={3188 Charges=3, 3188 Charges=3, 3412, 2853 Content={2969 KeyNumber=4600, 3276, 3003, 3603 Amount=6, 3003, 3272, 2853 Content={3003, 2853}}}}, 
+               1 Content={3502}, 
+               3 Content={3377, 3502}}

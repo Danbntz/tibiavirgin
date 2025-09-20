@@ -1,0 +1,56 @@
+ID              = 11936334
+Name            = "Jezana Luin"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,0-67-67-0)
+CurrentOutfit   = (137,0-67-67-0)
+LastLogin       = 1148241154
+LastLogout      = 1148241460
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32848,31919,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,117899,0,135100,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,20187,3000,20800,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,26,0,10,0,0,0,0,0,0,0,3651,1100,4054,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,60,1100,105,50)
+Skill = (9,44,0,10,0,0,0,0,0,0,0,12399,1100,13551,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,24,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,12,1100,20,20)
+Skill = (14,0,1200,0,0,0,491,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(16,1),(20,1),(22,1),(23,1),(46,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2868 Content={3084 RemainingUses=250, 3358, 3358, 3358, 3358, 3031 Amount=11}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3079},
+               10 Content={2921 RemainingExpireTime=116}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={2853, 2853 Content={3457, 3411, 3411, 3411, 3411, 3411}}}, 
+               3 Content={3502}, 
+               6 Content={2650, 3502 Content={2868 Content={3031 Amount=59, 3035 Amount=3}, 2872 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3551, 3050 SavedExpireTime=656, 3279, 2867, 3275, 3578 Amount=8, 3336, 2991, 3377, 2853 Content={3736 Amount=2, 2920, 3492 Amount=16, 3277 Amount=11, 3287 Amount=1, 3030 Amount=1}, 3349, 2853 Content={3083 RemainingUses=123, 2854 Content={3457, 3008, 3046 SavedExpireTime=2998, 3097 SavedExpireTime=3075}}}, 2854 Content={3377, 3280, 3003, 3446 Amount=11, 3316, 2991, 2991, 3305, 3551, 3266, 3350, 3377, 3357, 3349, 3349, 3377, 3266, 3266, 3377, 3349}, 2854 Content={2876, 3353, 2393, 2991, 3421, 2856 Content={3463, 3054 RemainingUses=200}, 3425, 3289, 3367, 3421, 3377, 3421}, 2854 Content={3483, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=2970, 3209, 3085 RemainingUses=60, 3289, 3448 Amount=11, 3551, 3299, 2876, 3007, 3349, 3004, 3045 RemainingUses=200}, 2854 Content={3311, 3350, 3291, 3552, 3377, 2815 String="RECUERDA QUE TE AMO DEMACIADO Y ESPERO QUE JAMAS ME OLVIDES CADA DIA TE AMO MAS- yo tambien te amo mi amor, y no te quiero perder en ningun moomento- TU SABES QUE TE QUIERO DEMACIADO PARA DEJARTE Y TE PROMETO QUE CUANDO TENGA DINERO ME IRE PARA MEXICO A ESTAR CONTIGO MI AMOR TE AMOO MUXO Y NO QUIERO PERDERTE NUNCA MI AMOR X TI ES INEXPLICABLE TE AMOOO DEMACIADO ADRIAN TE AMOO" Editor="Jezana Luin", 3378, 3378, 3377, 2853 Content={3375, 3411, 3411, 3367, 3410, 3425, 3410}, 2853 Content={2970 KeyNumber=3802, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=4603, 2970 KeyNumber=4601, 2969 KeyNumber=4600}, 2853 Content={3003, 3003, 3003}, 2853 Content={3457, 3457, 3457}, 2853 Content={3492 Amount=8, 2855 Content={3483, 3577 Amount=7, 3578 Amount=7, 3586 Amount=1, 3598 Amount=2}, 3457, 3552}, 2853 Content={3362, 3316, 2911 SavedExpireTime=2997, 2911 SavedExpireTime=2998, 2911 SavedExpireTime=2923, 2911 SavedExpireTime=2995, 2911, 2911}}, 2854 Content={2991, 3352, 2981, 3430, 3059, 3551, 2949, 3275, 3046 SavedExpireTime=2999, 3074, 2876, 2901, 2901, 3084 RemainingUses=250}, 2854 Content={3275, 3285, 3285, 3285, 3285, 3285, 3066, 3377, 2853 Content={3285, 3285, 3285, 3447 Amount=100, 3447 Amount=12}, 3008, 3350, 3377, 3066, 3410, 3410, 3277 Amount=19, 3008, 2920}, 2872 Content={2867 Content={2867 Content={3031 Amount=100}, 2867, 2867, 2867, 2867, 2867}, 2871 Content={2871, 2871, 2871}, 2869 Content={2869}, 2866, 2865 Content={2865, 2865, 2865, 2865}, 2868, 2870}, 2854 Content={3349, 3003, 2950, 3008, 2920, 3447 Amount=6, 3425, 3270, 3008, 3003, 3349, 3412, 3266, 3350, 3349, 3552, 3421, 2981, 2815 Editor="Jezana Luin"}, 2854 Content={3457, 3097 SavedExpireTime=3536, 3290, 3425, 3377, 3084 RemainingUses=250, 3003, 3075, 3457, 3084 RemainingUses=250, 3008, 3084 RemainingUses=250, 3097 SavedExpireTime=3596, 3030 Amount=1, 3027 Amount=2, 3457, 3003, 3362}}}}

@@ -1,0 +1,57 @@
+ID              = 10927560
+Name            = "Kaczor ziomek"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,116-106-114-114)
+CurrentOutfit   = (129,116-106-114-114)
+LastLogin       = 1148113512
+LastLogout      = 1148113526
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32926,32078,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,477920,0,499200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,101020,3000,193600,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,13,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,118011,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1400,30,30)
+Skill = (8,62,0,10,0,0,0,0,0,0,0,73601,1100,77623,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,50,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,41,1100,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,266,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5700,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(22,1),(27,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(125,1),(126,1),(190,1),(191,1),(223,1),(226,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2854 Content={3357, 3031 Amount=70, 2874 ContainerLiquidType=12, 3578 Amount=19, 2853 Content={3085 RemainingUses=125, 3318, 3003, 2874 ContainerLiquidType=10, 3457, 3084 RemainingUses=228, 3091 SavedExpireTime=1420, 2906}, 2853, 2854 Content={3188 Charges=3, 3188 Charges=2, 3188 Charges=2, 3188 Charges=2, 3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2867 Content={2952, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2853 Content={2854 Content={3578 Amount=5, 3483, 3492 Amount=25}}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3035 Amount=2}},
+               4 Content={3381},
+               5 Content={3425},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502 Content={3483}}, 
+               1 Content={3504 Content={3507 String="Kaczor ziomek\nCarlin" Editor="Kaczor ziomek"}, 3502}, 
+               2 Content={3502 Content={2853 Content={3349}, 3350, 3349, 3534 Amount=1, 3267, 3411, 3291, 2853 Content={2815, 3289, 3289}, 2854 Content={3582 Amount=4, 2853 Content={3483, 3483, 3492 Amount=100, 3003, 3003, 3003}, 3578 Amount=10, 3577 Amount=16}}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3578 Amount=52, 3035 Amount=20, 3147, 3147, 3084 RemainingUses=250, 3316, 3377, 2969 KeyNumber=3033, 3409, 3208, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3045 RemainingUses=200, 3504 Content={3507 String="Kaczor ziomek\nVenore" Editor="Monster sport", 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2867 Content={3279, 3282, 3275}, 3411, 3291, 2857, 3502 Content={2868 Content={2869 Content={3467, 3059, 3537, 3543, 2991, 2853 Content={2854 Content={3291, 3292, 3412, 3267, 3267, 3413}, 3453}, 3287 Amount=1, 3545, 3017}, 2867, 2870 Content={3375, 3353, 2853, 2853}, 2866 Content={3285, 3285, 3289, 3289, 3316, 3316, 3308, 3308, 2853 Content={3350, 3349}, 3316, 3300, 3456}, 2854, 2853 Content={2853 Content={2853}}}, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=10, 2857 Content={2854 Content={3046 SavedExpireTime=2998, 3056 RemainingUses=200, 3056 RemainingUses=200, 2854 Content={3004, 3054 RemainingUses=185, 3054 RemainingUses=200, 3004, 3097 SavedExpireTime=3595, 4871}, 3093, 3056 RemainingUses=200, 3056 RemainingUses=200, 3050 SavedExpireTime=1783, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 3097, 3092 SavedExpireTime=1794, 3093 SavedExpireTime=9, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3092, 3077, 3052}}}, 2853 Content={3483, 3483, 3483, 3483, 2853}, 2854 Content={3583 Amount=8, 3578 Amount=25, 3578 Amount=100, 3578 Amount=100, 3449 Amount=1, 3448 Amount=1, 2854 Content={2865}}, 2983}}}

@@ -1,0 +1,55 @@
+ID              = 9852120
+Name            = "Tankez"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,114-96-95-0)
+CurrentOutfit   = (134,114-96-95-0)
+LastLogin       = 1147733866
+LastLogout      = 1147734195
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32222,8]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,132470,0,135100,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,87764,3000,193600,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,114843,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,60,0,10,0,0,0,0,0,0,0,63369,1100,64064,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,127,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,88,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,202,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81,93}
+QuestValues = {(20,1),(59,1),(85,1),(96,1),(97,1),(98,1),(112,1),(217,3)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3031 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 8420 gold\nfor your house \"Thais Clanhall\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3507 String="Ascasa Cadistall\nThais" Editor="Coronel Of brunomaniack", 3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 04\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house."}},
+               5 Content={3507 String="mogwaixv\nthais" Editor="Mogwaixv"},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="tankez\nthais" Editor="Sir barba roja"}, 3267, 3502 Content={3069}}, 
+               1 Content={2854 Content={}, 2866 Content={}, 3504 Content={3507 String="Tankez\ncarlin", 2866 Content={}}, 2869 Content={}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3425, 3425, 3297, 3271, 2853 Content={2853, 2853, 2853, 2853}, 3502 Content={3059, 3282}}, 
+               4 Content={3503 Content={3507 String="Sir halbarad\ndarashia"}, 2870 Content={}, 3504 Content={3507 String="Tankez\nedron", 2853 Content={2853 Content={2853 Content={}, 3377}, 2853 Content={2853 Content={2853 Content={}, 3483}}}}, 3504 Content={3507 String="satri\nedron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Tankez\nDarashia"}, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="tankez\nvenore", 2865 Content={3449 Amount=64, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}}, 3502 Content={}}, 
+               7 Content={2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=249, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3504 Content={3507 String="tankez\nankrahmun", 2854 Content={3350, 3008, 3483, 2969 KeyNumber=3033, 3374, 2868 Content={3372, 3054 RemainingUses=200, 3350, 3446 Amount=63, 3446 Amount=49, 3447 Amount=31}, 3299, 3349, 2868 Content={3411, 2955, 2952, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=599, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3083 RemainingUses=139, 3349, 3483, 3483, 3483, 2955, 3083 RemainingUses=150, 3083 RemainingUses=150}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it."}, 3349, 2854 Content={}, 3412, 3504 Content={3504 Content={}, 3504 Content={3507 String="Tankez\nAnkrahmun", 2853 Content={3307, 3283, 2853 Content={3275, 3294, 3294, 3349, 2853 Content={3349, 3294, 3349, 3294, 2853 Content={3349, 3294, 3294, 2853 Content={2867 Content={}, 3294, 3294, 3349, 3294, 2853 Content={}}}}}}}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 2854 Content={2867 Content={}}, 3502 Content={3504 Content={2867 Content={3483, 2814 String="\n", 3311}, 2865 Content={2865 Content={3003, 2869 Content={3483}, 3457, 3003, 3457}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147}}, 2866 Content={2854 Content={}}}}}, 
+               8 Content={2854 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1}, 3374, 3297, 3425, 3504 Content={3507 String="tankez\nport hope\n", 2869 Content={2872 Content={2854 Content={2868 Content={}, 3049 SavedExpireTime=28, 2865 Content={2866 Content={3091 SavedExpireTime=0, 3091 SavedExpireTime=1351, 3092 SavedExpireTime=0, 3098 SavedExpireTime=305, 3093 SavedExpireTime=1246, 3092 SavedExpireTime=0, 3091 SavedExpireTime=0, 3004, 3004, 3004}, 3297, 3357, 3421, 3318, 3425, 3369}, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 2872 Content={3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3583 Amount=99, 3578 Amount=72, 3583 Amount=67, 2865 Content={3031 Amount=3, 2869 Content={3492 Amount=66, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3265, 3055, 3380, 3284 RemainingUses=0, 3403, 2870 Content={3574, 3574}}, 2870 Content={3051 SavedExpireTime=0, 3051 SavedExpireTime=0, 3098 SavedExpireTime=342, 3051 SavedExpireTime=53, 3051 SavedExpireTime=388, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3051 SavedExpireTime=54, 3051 SavedExpireTime=582, 3092 SavedExpireTime=0, 3097 SavedExpireTime=0, 3051 SavedExpireTime=0, 3051 SavedExpireTime=0, 3098 SavedExpireTime=0, 3050 SavedExpireTime=0, 3589 Amount=18, 3450 Amount=18}, 3583 Amount=100, 3031 Amount=100, 2868 Content={2872 Content={3322, 3077, 2859 Content={2969 KeyNumber=3610, 2969 KeyNumber=4600, 2969 KeyNumber=3008, 2969 KeyNumber=3620, 2970 KeyNumber=3301, 2969 KeyNumber=3302, 2972 KeyNumber=3304, 2970 KeyNumber=3303}, 3191 Charges=2, 3198 Charges=2, 3200 Charges=3, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3003, 3457, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2}, 3007, 3504 Content={3097 SavedExpireTime=0, 2866 Content={}, 2854 Content={3031 Amount=27, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=5, 3507 String="monhas\nport hope\n"}, 3305, 3305, 2872 Content={}, 3357, 3409}, 3457}}, 3504 Content={3507 String="tankez\nport hope"}, 3059 String="", 3504 Content={3507 String="tankez\nport hope", 2870 Content={2865 Content={3579 Amount=7, 3606 Amount=29, 3593, 3586 Amount=1, 3602 Amount=77, 3588 Amount=96, 3585 Amount=94}, 3085 RemainingUses=200, 2865 Content={2866 Content={2867 Content={}, 2854 Content={}, 2865 Content={}, 2866 Content={2869 Content={}, 2871 Content={}, 2865 Content={}, 2867 Content={}, 2867 Content={}, 2869 Content={}, 2868 Content={}, 2854 Content={}, 2854 Content={}, 2867 Content={}}}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2868 Content={2869 Content={}}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2865 Content={2869 Content={2865 Content={}}}, 2865 Content={2865 Content={}}, 2865 Content={}, 2865 Content={2868 Content={2869 Content={2869 Content={2867 Content={2867 Content={2869 Content={2867 Content={}}}}}}}}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2869 Content={2865 Content={2865 Content={2869 Content={2868 Content={2870 Content={2866 Content={}}}}}}, 2868 Content={}}, 2869 Content={2865 Content={}, 2854 Content={2854 Content={2865 Content={2865 Content={2867 Content={2867 Content={2868 Content={2869 Content={}}}}}}}}, 2854 Content={2869 Content={2868 Content={2866 Content={2866 Content={2867 Content={2865 Content={2867 Content={2868 Content={2868 Content={2871 Content={2868 Content={2866 Content={}}}}}}}}}}}}}, 2865 Content={2854 Content={2865 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2868 Content={2869 Content={2868 Content={}}}}}}}}}}}}, 2869 Content={}, 2869 Content={2854 Content={2869 Content={2854 Content={2865 Content={}}}}}}}, 2869 Content={3557, 3557, 3557}}, 3502 Content={}}}

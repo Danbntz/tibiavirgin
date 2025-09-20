@@ -1,0 +1,56 @@
+ID              = 12773027
+Name            = "Magy Slash"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,19-114-132-114)
+CurrentOutfit   = (129,19-114-132-114)
+LastLogin       = 1145408023
+LastLogout      = 1145408805
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32646,31908,9]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,417651,0,452600,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,274941,1100,291109,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,293,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,24786,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1291,1800,2063,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,236,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,139,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1175,1100,1280,20)
+Skill = (14,0,1200,0,0,0,150,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,35,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,15,16,20,25,26,29,42}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2865 Content={3031 Amount=11, 3003, 3505 String="magick daly here\nhunted for ever \nrespete no pase peligro\n" Editor="Magick Daly", 3031 Amount=100, 3578 Amount=8, 3457, 3147, 3147, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2870 Content={3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=2, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3065}}
+
+Depots      = {0 Content={3035 Amount=14, 3425, 3372, 3502}, 
+               1 Content={3504 Content={3507 String="magy slash\ncarlin" Editor="Magy Slash"}, 3504 Content={3507 String="magy slash\ncarlin" Editor="Magy Slash"}, 3502}, 
+               2 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={3578 Amount=78, 3507 String="Magy Slash\nkazordoon" Editor="Spinal'Collins"}, 3092, 3446 Amount=5, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={2853 Content={3413, 3377, 3413, 3377, 3413, 3413, 3305, 2853 Content={3413, 3377, 3305, 3413, 3377, 3413, 3305, 2853 Content={2853 Content={2853 Content={2853 Content={3358, 3358, 3413, 3351, 3358, 3413, 3413}, 3413, 3377, 3358, 3377, 3413, 3349, 3305}, 3377, 3305, 3413, 3351, 3377, 3377, 3358}, 3305, 3266, 3446 Amount=48, 3358, 3349, 3377}}}, 2853, 3507 String="magy slash\nkazordoon" Editor="Magy Slash"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3277 Amount=1, 3286, 3358, 3358, 3358, 3358, 3358}, 3413, 3305, 3377}, 3305, 3305, 3351, 3377, 3351, 3377, 3413}, 3349, 3413, 3377, 3377, 3413, 3377, 3266}, 3349, 3264, 3425, 3358, 3446 Amount=36, 3425, 3266}, 3507 String="Magy Slash\nkazordoon" Editor="Magy Slash"}, 3097 SavedExpireTime=3506, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853, 3305, 3305}, 3305}, 3305, 3305}, 3305, 3305}}, 3305}, 3305}, 3305}}, 3507 String="Magy Slash\nkazordoon" Editor="Magy Slash"}, 2870 Content={3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351, 3351}, 2870 Content={3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 2853 Content={2853 Content={2853 Content={2853}}}}, 2853 Content={3305, 3305, 3305, 3305, 3305, 3305, 3305, 2853 Content={3305, 3305, 3305, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3286, 3286, 3492 Amount=15}}}, 2870 Content={2853 Content={3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2870 Content={3275, 2865}, 2870 Content={3492 Amount=33, 3492 Amount=100, 3492 Amount=100, 2853 Content={3492 Amount=100, 3492 Amount=42, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}, 2870 Content={2853 Content={2853 Content={2853 Content={2853 Content={2870 Content={2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=33, 3031 Amount=100, 3031 Amount=100}}, 
+               3 Content={3504 Content={2853 Content={3446 Amount=12, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3413, 3305, 3413}, 3413, 3413, 3413, 3377, 3377, 3305, 3413}, 3377, 3413, 3377, 3377, 3358, 3358, 3425}, 3413, 3266, 3286, 3578 Amount=31, 3358, 3266, 3582 Amount=3}, 3377, 3264, 3358, 3425, 3358, 3358, 3349}, 3274}, 3507 String="Magy Slash\nab'dendriel\n" Editor="Raspix"}, 2853 Content={3446 Amount=7}, 3504 Content={2870 Content={2870 Content={2853 Content={2853 Content={2853}}}}, 3507 String="magy slash\nab'dendriel" Editor="Magy Slash"}, 2870 Content={2853, 3283, 3350, 2853 Content={3092, 3097 SavedExpireTime=1346, 3097 SavedExpireTime=3566, 3008, 3027 Amount=2, 3008, 3026 Amount=1}, 3308, 3003, 3207 Amount=1, 3305}, 3504 Content={3507 String="magy slash\nab'dendriel" Editor="Magy Slash"}, 2865 Content={3492 Amount=100, 3598 Amount=9, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2865 Content={3269, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3504 Content={3349, 3349, 3446 Amount=10, 3446 Amount=100, 3349, 3446 Amount=100, 3349, 3349}, 2853 Content={3377, 3070, 3066, 3074}, 3502 Content={3031 Amount=12, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2857 Content={3046, 3077, 3084 RemainingUses=250}, 3035 Amount=83, 3031 Amount=100, 3031 Amount=100}}}

@@ -1,0 +1,61 @@
+ID              = 10218657
+Name            = "Rexi of the guard"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,2-76-95-114)
+CurrentOutfit   = (133,2-76-95-114)
+LastLogin       = 1148255005
+LastLogout      = 1148255275
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33125,32833,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,551528,0,601800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,195646,3000,582400,1600)
+Skill = (2,288,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,27,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,137369,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,65,0,10,0,0,0,0,0,0,0,95901,1100,103482,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5718,1100,5982,20)
+Skill = (14,0,1200,0,0,0,1056,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,6,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,7,0,6,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(46,1),(60,1),(61,1),(69,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(190,1),(191,1),(217,3),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=46, 3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3032 Amount=1, 3577 Amount=9, 3578 Amount=58, 3292, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 3492 Amount=62, 3267, 3412, 3003, 3457}},
+               4 Content={3370},
+               5 Content={3436},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2857 Content={2870, 2854, 2854, 3350, 2865 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 3375}}}, 
+               2 Content={3502 Content={3503 Content={3507 String="rexi of tha guard\nkazoordon" Editor="Rexi of the guard", 2854}}}, 
+               3 Content={3502 Content={3457, 3316, 3483, 3483, 3267, 3316, 3316, 2955}}, 
+               4 Content={3502 Content={3035 Amount=25}}, 
+               5 Content={3502 Content={2869, 2867 Content={2854 Content={2853, 3483}}, 2854}}, 
+               7 Content={3281, 2868 Content={2868, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 2868}, 3504 Content={3017, 3046, 3412, 2949, 3503 Content={3483, 3507 String="Disipulo de Ular Chin\nthais" Editor="Rexi of the guard"}, 3507 String="rexi of the guard\nankrahmun" Editor="Rexi of the guard"}, 3502 Content={2865 Content={3031 Amount=12, 3031 Amount=100, 3031 Amount=100, 3035 Amount=24}, 2865 Content={2865 Content={3017, 3017, 3017, 3017}, 3042 Amount=4, 3061, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=57, 3085 RemainingUses=200, 3050 SavedExpireTime=1699, 3050, 3050 SavedExpireTime=1799, 3084 RemainingUses=250, 3077}, 2854 Content={3492 Amount=99, 2859, 3059, 2955, 2906, 2973 KeyNumber=3520, 3503 Content={3507 String="rosito de oro\ncarlin" Editor="Xira Xilamin culera"}, 3505 String="\nConsuelo te quiero mucho pero creo que lo mejor es olbidarte y que tu te olbidi de mi  porque no te quiero perder y yo se que tenemos algo mas que amistad nos vamos a cagar todo lo que emos sembrado aparte tu no perdai el tiempo  listo me olbide de ti y ahora estoy pololiando y feliz con la barbara callejas es mi niña y la amo chao\n\nTe amo mi barbarita te amo mucho y no dejo de penzar en ti te amo y me encanta tu boquita y tu carita te amo eres preciosa te amo chao que esti bkn te amo.\n\nte amo mi barbarita te quiero mucho y me da mucha lata que no quieras estar con migo \n\nmi chanchita te digo que te amo demaciado mas de lo que tu te imaginas te amo muchisimo te adoro mi corazon la mujer que amo yo eres tu angelito bueno te amo mucho y decirte que te quiero mucho... un besito muy grande nos vemos....LOVE...\n\nbarbara callejas esto es todo para ti" Editor="Rexi of the guard", 3003}, 2854 Content={2659, 2647, 2659, 2659, 2659, 2659, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2667, 2656, 2656, 2656, 2656, 2656}, 2868 Content={3582 Amount=59, 3577 Amount=100}, 2869 Content={3046, 3465, 2991, 2991, 3350, 3483, 3483, 2854 Content={2853 Content={2868, 2866, 2869}, 2868 Content={3003}, 2865, 2869}, 3003, 3457}, 2854 Content={3492 Amount=100, 2992 Amount=5, 3576, 2957, 3483, 3059, 3483, 3483}, 2854 Content={3421, 3059, 3059, 3059}, 2870 Content={3269, 3359, 3301, 3282, 3449 Amount=1, 3299, 3301, 2854 Content={2867, 2870 Content={2854, 2854, 2854 Content={2869}}}, 2868 Content={3267, 3412, 3289, 3310, 3304}, 3330, 3330, 3299, 3338, 3327, 3338, 3327, 3421}, 2854 Content={3046, 3046, 3044 Amount=2, 3003, 2393, 3457}}}, 
+               8 Content={3502}}

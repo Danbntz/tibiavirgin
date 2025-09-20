@@ -1,0 +1,51 @@
+ID              = 15125844
+Name            = "William Rohrbauck"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (130,88-0-0-0)
+CurrentOutfit   = (130,88-0-0-0)
+LastLogin       = 1148247883
+LastLogout      = 1148252827
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32083,32100,10]
+PlayerkillerEnd = 0
+
+Skill = (0,4,0,1,0,0,0,0,0,0,1,568,0,800,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,34,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,15,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,73,73,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,430,430,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,12,0,10,0,0,0,0,0,0,0,348,1500,475,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,563,2000,750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,81,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1),(35,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3355},
+               3 Content={2853 Content={3277 Amount=1, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 2816 String="The rat - I fear we brought this pest with us on the isle and they soon increased in numbers. You might encounter the rats nearly everywhere, though they prefer to live undergound. \nMostly harmless, they tend to destroy food supplies and can become dangerous in greater numbers to the bad equiped human.\n\nThe snake - The poisonous snakes hide in the woods and near the northern swamps. They usually can be found at the shores more often then in the isles centre. They are not too dangerous to a adventurer with some basic equipment. If poisoned it is a wise decision to run straight to the monk who guards the soul vortex, where everyone enters the world of Tibia, and ask for healing.\n\nThe spider - Similarly dangerous as the rat, the spiders were found by the first explorers of the isle and are native to Rookgard. They live above and beneath ground and tend to live and hunt in packs to increase their danger.\n\nThe wolf - There are some smaler wolf packs on this isle. Wolves are fast, tough and dangerous. Often they are the hunters and not the hunted on this island. It is a good decision to engage them in combat only with decent equipment and try to fight them only one on one.\n\nThe troll - Though intelligent in a limited way, the cowardish trolls are not a threat to our small outpost. They are able to create and use some basic equipment and quite tough to lesser weapons and unskilled fighters. Follow the advise to have mastered some basics in shielding, before you challenge even one of them.\n\nThe bear - Bears are hard to beat! Keep that in mind before challenging one. If you are unexperienced and have no good equipment, retreat is the tactic of choice. Best kill them in small hunting parties and use terrain to your advantage.\n", 2854 Content={2853, 2816 String="Magic \n\nThere are two kinds of spells: rune-spells, and spontaneous spells. \nRune-spells are cast on blank runestones and some mana is used up in this proces. This stones can easily be carried around and store the specific spell. It can be used at any time, and only some require further investment of mana. \nSpontaneous spells are cased in the heartbeat they are needed and take effect instantly. Most of these spells are spells of healing but some of them are agressive and some even have more astonishing effectes, as invisibility, illusionary shapechage etc.", 3292, 3292, 2853, 3577 Amount=3}, 3031 Amount=45}},
+               4 Content={3361},
+               5 Content={3412},
+               6 Content={3273},
+               7 Content={3559},
+               10 Content={2921 RemainingExpireTime=131}}
+
+Depots      = {}

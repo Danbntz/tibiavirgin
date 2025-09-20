@@ -1,0 +1,61 @@
+ID              = 8129556
+Name            = "Sir eduardito"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,114-95-114-0)
+CurrentOutfit   = (134,114-95-114-0)
+LastLogin       = 1147667283
+LastLogout      = 1147667537
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32676,31681,6]
+PlayerkillerEnd = 0
+
+Skill = (0,54,0,1,0,0,0,0,0,0,1,2349824,0,2485800,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,647507,1400,867181,1600)
+Skill = (2,645,645,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,725,725,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,123,123,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1390,1390,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,20022,1100,20113,100)
+Skill = (7,75,0,10,0,0,0,0,0,0,0,160427,1100,161522,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,446,1200,496,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,70,1200,109,50)
+Skill = (10,24,0,10,0,0,0,0,0,0,0,3282,1200,3601,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,776,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,672,1100,718,20)
+Skill = (14,0,1200,0,0,0,307,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,11,20,29,42,45,51,76,79,81,95}
+QuestValues = {(1,4),(2,6),(14,1),(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(35,1),(38,1),(41,1),(42,1),(43,1),(44,1),(46,1),(50,1),(59,1),(66,1),(67,1),(68,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(129,1),(130,1),(131,1),(132,1),(133,1),(135,1),(136,1),(137,1),(151,1),(152,1),(153,1),(154,1),(170,1),(171,1),(172,1),(174,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(213,1),(214,1),(217,3),(224,1),(225,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2872 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3003, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3446 Amount=5}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="sir eduardito\ncarlin\n"}, 3502}, 
+               2 Content={2868 Content={}, 2866 Content={2866 Content={}}, 3502 Content={}}, 
+               3 Content={3504 Content={2969 KeyNumber=3033, 2865 Content={2865, 2865 Content={2865}}, 3268, 3507 String="Sir eduardito\nAb'dendriel" Editor="Abelort De'Vile"}, 3207 Amount=1, 3277 Amount=84, 3504 Content={2853 Content={3350, 3349, 3349, 3447 Amount=21, 3350}, 3505, 3600 Amount=20, 3507 String="Sir eduardito\nAb'dendriel" Editor="Sir eduardito"}, 2867 Content={3291, 2854 Content={3723 Amount=9, 3723 Amount=100}, 2865 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 2870 Content={3483, 2853 Content={3092, 3092, 3599 Amount=8, 3092}, 3350, 2970 KeyNumber=3800, 3177 Charges=1}, 2865 Content={2854 Content={2865, 2870}, 2871 Content={2868 Content={2868, 2868, 2868, 2868, 2868, 2868}, 2870 Content={2870, 2870}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865, 2865 Content={3505 String="puto el k lo lea\n:D\n"}, 2865}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2866}}, 2868 Content={2870 Content={2969 KeyNumber=5000}, 2870 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2865 Content={3308, 3287 Amount=3, 3277 Amount=2}, 2865 Content={2868 Content={2973 KeyNumber=3520, 3457, 3457, 2865}, 2854 Content={3059}, 2854, 2869 Content={3492 Amount=13, 3287 Amount=2, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 3205, 2970 KeyNumber=4601, 2842 String="hey pendejo no muevas nada de lo que tengo we es para ir a dragones  ahi deja el mono bye\nno li kites naa ni agarres nada\n"}, 2854 Content={2865, 2865, 2854}}}, 3502 Content={2865, 3483, 2857 Content={2853, 2853, 3056 RemainingUses=200}}}, 
+               4 Content={3504 Content={3507 String="sir eduardito\nedron"}, 2867 Content={2867 Content={2867 Content={2867 Content={}}}}, 2867 Content={2865 Content={2865 Content={2865 Content={2866 Content={2866 Content={}}}}}}, 2872 Content={2853 Content={}, 2867 Content={}, 2872 Content={}, 2872 Content={}, 2874 ContainerLiquidType=0, 3586 Amount=1, 3589 Amount=5, 2870 Content={}, 3003}, 2872 Content={}, 2867 Content={2869 Content={2869 Content={2869 Content={2868 Content={2868 Content={2868 Content={2868 Content={2868 Content={2865 Content={2870 Content={2866 Content={2866 Content={2865 Content={}}}}}}}}}}}}}}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 3502 Content={3003, 3092 SavedExpireTime=1798, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2867 Content={}, 2866 Content={2870 Content={}}, 2872 Content={2872 Content={}, 2872 Content={}, 2872 Content={}, 2872 Content={}}}}, 
+               5 Content={3492 Amount=6, 2866 Content={}, 3457, 3350, 3483, 3492 Amount=32, 3504 Content={2866 Content={}, 3507 String="Sir Eduardito\nDarashia"}, 3504 Content={3507 String="sir eduardito\ndarashia"}, 3504 Content={3507 String="sir eduardito\ndarashia"}, 3504 Content={3507 String="sir eduardito\ndarashia"}, 2868 Content={}, 3502 Content={3430, 3409, 3056 RemainingUses=200, 3308, 3457, 3377, 2969 KeyNumber=3033}}, 
+               6 Content={3504 Content={3507 String="Sir eduardito\nVenore" Editor="Sir eduardito"}, 3504 Content={3507 String="Sir eduardito\nVenore" Editor="Sir eduardito"}, 3504 Content={3507 String="Sir eduardito\nVenore" Editor="Sir eduardito"}, 2865 Content={3551, 3003, 2969 KeyNumber=3033}, 3504 Content={3507 String="Sir eduardito\nvenore" Editor="Sir eduardito"}, 3504 Content={2853 Content={3421, 3008}, 3507 String="Sir eduardito\nVenore\n" Editor="Sir eduardito"}, 3502 Content={2867 Content={3003, 3457}}}, 
+               7 Content={3502 Content={}}, 
+               8 Content={3502 Content={}}}

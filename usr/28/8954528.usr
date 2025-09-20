@@ -1,0 +1,50 @@
+ID              = 8954528
+Name            = "Phantom Lucifer"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,79-114-114-0)
+CurrentOutfit   = (134,79-114-114-0)
+LastLogin       = 1147761495
+LastLogout      = 1147761511
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32226,6]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,61445,0,69700,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,212393,1100,214735,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,305,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4007,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,6271,1800,6824,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,108,1800,140,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,169,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8848,1100,8851,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,132,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,5,8,9,10,14,20,29,38,39,42,45,76,81,84,87,88}
+QuestValues = {(20,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(109,1),(115,1),(153,1),(217,3),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853},
+               10 Content={3507 String="Joko Reth\nThais" Editor="Joko Reth"}}
+
+Depots      = {0 Content={2854 Content={3147}, 3502}, 
+               4 Content={3559, 3457, 3374, 3377, 3502 Content={2869, 2854}}, 
+               5 Content={2469 Content={}, 2469 Content={}, 2826 String="Flora and Fauna of Darama", 2469 Content={}, 2469 Content={}, 3506 String="Warning!\n\nThe monthly rent of 1100 gold\nfor your house \"Darashia 1, Flat 05\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1100 gold\nfor your house \"Darashia 1, Flat 05\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Botham III h\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3045 RemainingUses=200, 3507 String="Phantom Lucifer\ndarashia"}, 3504 Content={3507 String="Phantom Lucifer\ndarashia"}, 3425, 2984, 3502 Content={3035 Amount=1, 3582 Amount=7}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502}}

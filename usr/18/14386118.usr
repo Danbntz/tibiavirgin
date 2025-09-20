@@ -1,0 +1,52 @@
+ID              = 14386118
+Name            = "Death'bardock"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,1-132-95-0)
+CurrentOutfit   = (133,1-132-95-0)
+LastLogin       = 1148255787
+LastLogout      = 1148256874
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32306,31824,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,125730,0,135100,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,32615,3000,64000,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,40,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,23679,1100,24547,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,47,0,10,0,0,0,0,0,0,0,17389,1100,18202,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,205,1100,232,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,27,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(61,1),(115,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {1148255667}
+
+Inventory   = {10 Content={2924 SavedExpireTime=86}}
+
+Depots      = {0 Content={3502 Content={2866, 3411, 3285, 3350}}, 
+               1 Content={2866, 2865 Content={2853 Content={3031 Amount=18}, 2922 SavedExpireTime=163}, 2867, 2854 Content={3367}, 3003, 3507 String="death'bardock\ncarlin" Editor="Shadow Demoniak", 2853 Content={3504 Content={2853, 3507 String="ashfaran vumbla\ncarlin" Editor="Sir'Boromir"}, 3504 Content={3507 String="lord vazfer di'temple\ncarlin\n" Editor="Lord Vazfer"}, 3504}, 3459, 3472, 3412, 3308, 2969 KeyNumber=3033, 2922 SavedExpireTime=118, 3308, 3502}, 
+               2 Content={2853 Content={3012}, 3504 Content={3507 String="death'bardock\nKazordoon" Editor="Dark boffo", 3457}, 3502 Content={3503}}, 
+               3 Content={2969 KeyNumber=4600, 2874 ContainerLiquidType=6, 3285, 3362, 3563, 3504, 3502 Content={3412}}, 
+               4 Content={3502}, 
+               5 Content={3377, 2920 SavedExpireTime=59, 3425, 3300, 2969 KeyNumber=3033, 2853 Content={3017}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 2, Flat 12\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2922 SavedExpireTime=37, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 3504 Content={3504 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 3502 Content={3457}}, 
+               6 Content={3502}, 
+               7 Content={3502}}

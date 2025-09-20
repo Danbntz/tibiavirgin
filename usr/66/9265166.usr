@@ -1,0 +1,51 @@
+ID              = 9265166
+Name            = "Dorey Fire"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,114-114-114-93)
+CurrentOutfit   = (133,114-114-114-93)
+LastLogin       = 1145110323
+LastLogout      = 1145110326
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32370,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15928,0,17600,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,46553,1100,50835,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7508,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,78,1800,140,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,4596,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3358,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,8,10,20}
+QuestValues = {(35,1),(84,1),(85,1),(86,1),(87,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               4 Content={3377},
+               6 Content={3066},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3448 Amount=8}}
+
+Depots      = {0 Content={2868 Content={2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2868 Content={3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=4}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2854, 2865 Content={3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3}, 2853 Content={3155 Charges=1, 3155 Charges=1}}, 3311, 3425, 2992 Amount=5, 2869, 2868 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 3483, 3578 Amount=8, 3502}, 
+               4 Content={3578 Amount=57, 2920 SavedExpireTime=351, 2920 SavedExpireTime=171, 2911 SavedExpireTime=1946, 2920 SavedExpireTime=0, 2920 SavedExpireTime=389, 2920 SavedExpireTime=597, 2920 SavedExpireTime=596, 3502 Content={}}}

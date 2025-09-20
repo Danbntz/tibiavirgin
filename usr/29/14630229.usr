@@ -1,0 +1,52 @@
+ID              = 14630229
+Name            = "Kalf Ellman"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,0-114-95-57)
+CurrentOutfit   = (129,0-114-95-57)
+LastLogin       = 1147504746
+LastLogout      = 1147504749
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4464,0,6400,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,1998,1100,2138,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,599,1100,678,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,753,1100,796,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,243,1100,305,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1042,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1),(20,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3355},
+               3 Content={2853 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3267, 3273}},
+               4 Content={3358},
+               5 Content={3286},
+               6 Content={3426},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502 Content={3504 Content={2473, 2472, 2473 Content={2853 Content={3590 Amount=1, 3577 Amount=2}, 2853 Content={3562, 3559, 3426}, 2853 Content={3003, 2924 SavedExpireTime=174, 3426, 3277 Amount=2, 3267, 3114 Amount=9, 3447 Amount=1, 3003}, 2853 Content={3507 Editor="Knight-chi", 2924 SavedExpireTime=30, 3267, 3456, 3264, 3274, 3507 String="Elite'Demi\nCarlin" Editor="Foxy'druid", 3003}}, 2853 Content={3031 Amount=1, 3031 Amount=100}, 2853 Content={2911 SavedExpireTime=2182, 3292, 3504, 3504, 3504}}}}, 
+               3 Content={3502 Content={3378, 3273, 3273, 3595 Amount=1, 3607}}}

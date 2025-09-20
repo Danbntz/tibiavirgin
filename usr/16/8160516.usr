@@ -1,0 +1,55 @@
+ID              = 8160516
+Name            = "Castrech"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,77-9-125-128)
+CurrentOutfit   = (133,77-9-125-128)
+LastLogin       = 1148105033
+LastLogout      = 1148105105
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,59511,0,69700,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,67760,1100,72958,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,305,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15827,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2461,2000,3150,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,11701,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,102,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,22,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,16,17,18,19,20,27,29,30,44,45}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(35,1),(72,1),(73,1),(74,1),(75,1),(113,1),(114,1),(125,1),(126,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3083 RemainingUses=150},
+               4 Content={3377},
+               5 Content={3430},
+               6 Content={3311},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={2920 SavedExpireTime=0}}, 
+               1 Content={3502 Content={3367, 2865 Content={}, 3266, 3301, 3148 Charges=3, 3003, 3503 Content={2969 KeyNumber=3033, 3507 String=""}}}, 
+               2 Content={3502 Content={3264, 3031 Amount=79}}, 
+               3 Content={3003, 3502 Content={3322, 3425, 3504 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=28, 3031 Amount=100, 3504 Content={3349, 3350, 3449 Amount=2, 3446 Amount=4, 3350, 3350, 3350, 3447 Amount=75, 3350}, 2853 Content={3605 Amount=1, 2816 String="The Manasphere\nby Rail Ashkil\n\nThe whole planet is surrounded by an energetic field called \"Manasphere\", produced  by \"Mother Nature\". Nearly every living being is able to tap it and store a certain amount of this \"mana\".  Even less beings are able to use this energy to produce light etc. In most cases the user will \"cast a spell\" - but only to concentrate on his natural abbility of mana-using. Some beings, dragons e.g., seem to use the mana more instinctively but nevertheless with great efficiency.", 2816 String="The Teshial were never fighters. They retreated in the early days of war to hidden refuges, not as a whole caste but only in small family groups. Their hideouts were additionally protected by strong illusionary magic and offered them peace from the madness around them. These elves developed due to meditation and a special philosophy in the art of dream magic, dramatically enhancing their initial abilities in the decades. So they began to exist almost permanently in a state of dreams, only rarely appearing now and then amidst the other elves to give them advice and try to convince some of them to join their way of life. As the war grew more and more fierce these visits became less and less frequent until they were almost a myth, even for elvenkind. In the new awakening of the world they were some of the first to appear, apparently far less disoriented then other beings. Many races welcomed their help, but their teachings seldom found dedicated listeners. After they taught a part of their secrets to some humans they found worthy, they had to see their pupils tortured by developments they judged themselves guilty of.  Also, other elves put pressure on the humans to give up the secrets of dreams.  They withdrew from the world of mortals and it is rumored they have physically entered the realm of dreams. \nThe Teshial are 'typical' in appearance for elves, but they could create the illusion of almost any appearance if they so choose. Some people even say that due to their enormous control of dreams they could shape their children as they wish, giving them human or even orcish appearance. On the other hand, even people who come up with such theories go silent when asked why an elf should choose to have a child that looks that way. \n", 2816 String="Elven names are chosen in adulthood. Until they acquire a name, elves are called 'son/daughter of ___' usually naming the parent with the same gender. Upon reaching adulthood, the young elf gets his first name, divined by the elders who know him in dreams. It is merely a single name, a description of the elf in the elven tongue.  Usually elves love to add a translation of their name which is often mistaken for a second name by other races. Since the elven language is far more complicated and has thousands of nuances, often elves with the same 'second name' have a different first name, confusing the other races even more. ", 2816 String="The Manasphere\nby Rail Ashkil\n\nThe whole planet is surrounded by an energetic field called \"Manasphere\", produced  by \"Mother Nature\". Nearly every living being is able to tap it and store a certain amount of this \"mana\".  Even less beings are able to use this energy to produce light etc. In most cases the user will \"cast a spell\" - but only to concentrate on his natural abbility of mana-using. Some beings, dragons e.g., seem to use the mana more instinctively but nevertheless with great efficiency.", 2816 String="The elves are able to manipulate their unborn children by some kind of dream magic. This magic changes appearance and personality slightly, allowing elven parents to give birth to 'wish-kids'. In their shared dreams the elven parents seem to sculpture their child like a piece of art. Though most of the dream magic of the past is long forgotten, this rudimentary magic seems to be natural to the elves. It is possible to 'choose' things like hair or eye color and even gender. Even slight changes of the physique are possible, though considerable changes take place in the span of generations. Wise men assume this ability was a 'gift' of the gods to make more adaptable tools for the elves' war. But the mentality of the elves did not allow them to form their children in a 'convenient' way. Since most of this magic is instinctual, they form their children in an aesthetic way. On the other hand, what is seen as aesthetic is based on the philosophy of the parents and so their background changes this view dramatically. This is even more evident in the castes that were separated in the war. "}, 3456, 2853 Content={3282, 3359, 3266, 3425, 3282}, 3059 String="", 2973 KeyNumber=3520}}, 
+               7 Content={3502 Content={}}}

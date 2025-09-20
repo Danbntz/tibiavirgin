@@ -1,0 +1,58 @@
+ID              = 7956781
+Name            = "Venthos"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,116-21-40-115)
+CurrentOutfit   = (133,116-21-40-115)
+LastLogin       = 1146003328
+LastLogout      = 1146003369
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32890,32125,6]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,415694,0,452600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,93045,3000,193600,1600)
+Skill = (2,385,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,51,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1045,1045,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,100693,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,19,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (10,60,0,10,0,0,0,0,0,0,0,60617,1100,64064,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1235,1100,1280,20)
+Skill = (14,0,1200,0,0,0,837,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(49,1),(59,1),(69,1),(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(111,1),(112,1),(115,1),(125,1),(126,1),(135,1),(136,1),(137,1),(151,1),(152,1),(156,1),(157,1),(158,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(249,2),(250,2),(251,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3572},
+               3 Content={2869 Content={3308, 3503 Content={3504 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3507 String="venthos\nab'dendriel" Editor="Arthen Zentherius"}, 3507 String="venthos\nvenore" Editor="Venthos"}, 2821 String="Diary of Palkar, leader of the outcasts\n\nWe found this cave - hidden in the labyrinth - and made it our new headquarter. I think it is save.\n\nMore deep in the cave is a tribe of cyclops. We made an alliance with them. They will fight with us and guard the key to the secret laboratory.\n\nKing Markwin protected the entrance to the lab with a dragon, but my druid could convince it. So we can use the lab to increase our power.\n\nWe were digging a new tunnel to the city. Markwin locked the hidden entrance with a rock.\n\nYeah! The tunnel is finished and we were able to attack king Markwin within his own walls. They weren´t prepared at all and we killed many of those creepy bastards.\n\nSoon we will be strong enough to convince the other dragon and reach the surface.\n\nToday I send a group of diggers to make a new way up to the light of the sun. They really have a hard job to do, but I think they will do it.\n\nI haven´t heard anything of my diggers since a whole month. I hope this is no bad sign.", 3723 Amount=75, 3483, 3492 Amount=14, 3031 Amount=24, 3003}},
+               4 Content={3377},
+               5 Content={3409},
+               6 Content={3276},
+               10 Content={3449 Amount=42}}
+
+Depots      = {0 Content={2866 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3350, 3349, 3350}, 2865, 3268, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="venthos\nthais"}, 3504 Content={3409, 3409, 3409, 3409, 3507 String="venthos \nthais"}, 3504 Content={3446 Amount=100, 3507 String="venthos\nthais"}, 3375, 3504 Content={3507 String="venthos\nthais"}, 3559, 3504 Content={3412, 3507 String="Venthos\nthais\n"}, 3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3504 Content={2866 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}, 3507 String="venthos\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3028 Amount=2, 3410, 2869 Content={2821 String="Diary of Palkar, leader of the outcasts\n\nWe found this cave - hidden in the labyrinth - and made it our new headquarter. I think it is save.\n\nMore deep in the cave is a tribe of cyclops. We made an alliance with them. They will fight with us and guard the key to the secret laboratory.\n\nKing Markwin protected the entrance to the lab with a dragon, but my druid could convince it. So we can use the lab to increase our power.\n\nWe were digging a new tunnel to the city. Markwin locked the hidden entrance with a rock.\n\nYeah! The tunnel is finished and we were able to attack king Markwin within his own walls. They weren´t prepared at all and we killed many of those creepy bastards.\n\nSoon we will be strong enough to convince the other dragon and reach the surface.\n\nToday I send a group of diggers to make a new way up to the light of the sun. They really have a hard job to do, but I think they will do it.\n\nI haven´t heard anything of my diggers since a whole month. I hope this is no bad sign.", 3305, 3305, 3377, 2867}, 2866 Content={2866, 2854}, 3358, 3350, 3447 Amount=22, 3446 Amount=65, 3350, 3305, 3412, 3293, 3354, 3412, 3504 Content={3286, 3507 String="Venthos\nAb'dendriel"}, 3502}, 
+               4 Content={3504 Content={2854 Content={2866 Content={2866 Content={}, 2866 Content={}, 3457}}, 3367, 3507 String="venthos\nedron\n"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="VENTHOS\nDARASHIA"}, 2853 Content={}, 2853 Content={2853 Content={}}, 3447 Amount=20, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 2969 KeyNumber=4600, 3349, 3293, 2656, 2970 KeyNumber=3142, 2667, 2667, 2656, 2667, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2659, 3502 Content={}}, 
+               6 Content={3577 Amount=1, 2870 Content={3583 Amount=10}, 2866 Content={2853, 3377, 3377, 3377, 3377, 3377, 3377}, 3293, 3504 Content={2853, 3507 String="venthos\nvenore"}, 3502}, 
+               7 Content={3502 Content={}}}

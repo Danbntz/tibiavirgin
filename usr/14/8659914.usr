@@ -1,0 +1,52 @@
+ID              = 8659914
+Name            = "Adonis soul"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,115-0-67-114)
+CurrentOutfit   = (133,115-0-67-114)
+LastLogin       = 1148108600
+LastLogout      = 1148108628
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32681,31675,6]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,4189,0,4200,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,13360,1100,15179,1600)
+Skill = (2,180,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,1711,1500,2078,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,26,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1034,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,11,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,73,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,20,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(59,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2865 Content={3174 Charges=1, 3198 Charges=5, 3198 Charges=5, 3190 Charges=4, 3723 Amount=87, 2977, 3160 Charges=1, 3031 Amount=87, 3031 Amount=100, 2399, 2399, 2399, 3483}},
+               4 Content={3378},
+               5 Content={3322},
+               6 Content={3430},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2853 Content={3578 Amount=35}, 3160 Charges=1, 3160 Charges=1, 3035 Amount=24, 3031 Amount=100, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={3503 Content={2853 Content={3410, 3410, 3410, 3410, 3410, 3413, 3413}, 3410, 3410}, 3359, 3273, 3273, 3358, 3286, 3411, 3273}, 3286, 3273, 3273, 3273, 3286, 3410, 3352}, 3358, 3352, 3354, 3264, 3285, 3273, 3273}, 3352, 3358, 3410, 3358, 3410, 3286, 3264}, 2853 Content={2853 Content={2853 Content={3266, 3350, 3350, 3266, 3266, 3266, 3266, 3266}, 3410, 3410, 3286, 3286, 3358, 3264, 3264}, 3358, 3358, 3358, 3410, 3358, 3410, 3410}, 3507 String="Adonis soul\nAb'dendriel"}, 3598 Amount=1, 2667, 2398, 3741 Amount=1, 3457, 2876, 3502}, 
+               4 Content={3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1270 gold\nfor your house \"Cormaya 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3307, 3304, 2870 Content={2868 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3093, 3046 SavedExpireTime=2997, 3093, 3093 SavedExpireTime=1363, 2647, 2647, 2644, 2644, 2647, 2659, 2656, 2659, 3149 Charges=1, 3148 Charges=1, 3198 Charges=5, 3197 Charges=3, 3177 Charges=1, 3197 Charges=3}, 3585 Amount=84, 3606 Amount=12, 2977, 2869 Content={3147, 3147, 3147, 3147, 3147}, 3148 Charges=2, 3449 Amount=9, 3010, 2977, 3469, 3446 Amount=73, 3093, 3093, 3046 SavedExpireTime=1159, 2853 Content={2853 Content={3425, 3377, 3349, 3413, 3358, 3377, 3358, 3349}, 2853 Content={3425, 3266, 3425, 3413, 3384, 3305, 3425, 3349}, 3358, 3358, 3358, 3413, 2853 Content={3384, 3413, 3377, 3413, 3377, 3266, 3266, 3425}}, 2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469 Content={2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}}, 2469}, 3585 Amount=100, 3377, 3429, 3349, 3585 Amount=63, 3377, 3502}, 
+               6 Content={2856 Content={}, 3031 Amount=72, 3031 Amount=100, 3035 Amount=1, 3588 Amount=74, 3031 Amount=100, 3585 Amount=1, 3590 Amount=6, 3456, 2969 KeyNumber=4600, 3447 Amount=12, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3502 Content={}}}

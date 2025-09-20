@@ -1,0 +1,54 @@
+ID              = 8202118
+Name            = "Janek Bandyta"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-95-132-113)
+CurrentOutfit   = (128,114-95-132-113)
+LastLogin       = 1143305331
+LastLogout      = 1143305347
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,69739,0,83400,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,134895,1100,141595,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,271,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4878,1500,4925,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,284,1800,356,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,62,1800,140,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,146,1800,302,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,4674,1800,6824,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,158,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2464,1100,2684,20)
+Skill = (14,0,1200,0,0,0,49,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,81,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,7,8,9,10,12,14,15,16,17,18,20,25,26,27,29,30,32,33,38,42,44,45,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(54,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(125,1),(126,1),(128,1),(190,1),(191,1),(217,3),(223,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3056 RemainingUses=200},
+               3 Content={2854 Content={3003}},
+               8 Content={3552},
+               10 Content={2922 SavedExpireTime=46}}
+
+Depots      = {0 Content={3031 Amount=5, 3504, 2853, 3504 Content={2854 Content={3503 Content={3507 String="wojownik janek\ncarlin" Editor="Janek Bandyta"}, 2853 Content={3599 Amount=1}}, 2868, 3504 Content={3377, 3505 String="jenek bandyta\ncarlin\nwesolych swiat \nzyczy o.b\n" Editor="Janek Bandyta", 3504 Content={3504 Content={3507 String="amfazekol farlya\nCarlin" Editor="Yosimos"}, 3483, 2992 Amount=5, 3483, 3056 RemainingUses=197, 3507 String="janek bandyta\ncarlin" Editor="Janek Bandyta", 3504 Content={2644, 2868 Content={3492 Amount=76, 3492 Amount=100}, 3003, 3507 String="janek bandyta\ncarlin" Editor="Janek Bandyta"}}, 3504 Content={3285, 3504 Content={3507 String="Xavila Asen\nCarlin" Editor="Janek Bandyta"}, 3504, 3504 Content={3507 String="mizter xander\nab'dendriel"}, 3504, 3507 String="Piranhia\ncarlin" Editor="Piranhia"}, 2472 Content={3084 RemainingUses=250, 2868 Content={3174 Charges=4, 3174 Charges=4, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 3492 Amount=100, 3507 String="janek bandyta\nthais" Editor="Janek Bandyta"}, 3502 Content={2854 Content={3661, 3661, 3661, 2981, 2981, 2981}, 3031 Amount=2, 2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 2874, 3456, 3147, 2839 String="Do not touch food or u are hunted by : \n\nSazuki San\nCrusanderth\nZhaka Saint\nSavage Saint\nShadow Spinal\nRollish\nDran hood\nand\nKaede Knightheart\n\nThanks,\n\nSigned\n\nDran hood", 3003}}, 
+               1 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3054 RemainingUses=200, 3430, 3502 Content={3003}}, 
+               2 Content={3502}, 
+               3 Content={3059, 2650, 2874, 3506 String="janek bandyta\nab'dendriel\njanek zaluz wkacu gildie!!plz\npodpisano o.b" Editor="Ostrze burzy", 2815, 2815, 3504 Content={2856, 3507 String="janek bandyta\nab'dendriel" Editor="Ostrze burzy"}, 3457, 3492 Amount=94, 3308, 3031 Amount=4, 3502 Content={3147, 3147, 3147, 2868, 3059, 3504, 3605 Amount=8}}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={3286, 3031 Amount=1}}, 
+               7 Content={3504 Content={3507 String="Janek Bandyta\nankrahmun" Editor="Wojownik Janek"}, 2854 Content={2871}, 3504 Content={2857, 3507 String="janek bandyta\nAnkrahmun" Editor="Janek Bandyta"}, 2871 Content={2871 Content={2853 Content={3349, 3409}, 2863 Content={3164 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3447 Amount=4, 3054 RemainingUses=182, 3054 RemainingUses=200}}, 3504 Content={3008, 3507 String="janek bandyta\nAnkrahmun" Editor="Ostrze burzy"}, 3502 Content={3447 Amount=6, 2632, 3588 Amount=54, 3597 Amount=2, 3483, 3316, 2865}}}

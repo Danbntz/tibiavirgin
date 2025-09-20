@@ -1,0 +1,60 @@
+ID              = 9805023
+Name            = "Sir Calimero"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,98-126-98-126)
+CurrentOutfit   = (134,98-126-98-126)
+LastLogin       = 1146902881
+LastLogout      = 1146902941
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32350,32222,6]
+PlayerkillerEnd = 0
+
+Skill = (0,60,0,1,0,0,0,0,0,0,1,3391044,0,3428000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,508323,3000,582400,1600)
+Skill = (2,965,965,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,153,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,129,129,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1770,1770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,80,0,10,0,0,0,0,0,0,0,795781,1100,867721,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,36,1400,71,30)
+Skill = (8,42,0,10,0,0,0,0,0,0,0,10270,1100,11112,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,233,1100,305,50)
+Skill = (10,81,0,10,0,0,0,0,0,0,0,439519,1100,477296,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,167,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3795,1100,4022,20)
+Skill = (14,0,1200,0,0,0,161,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(14,1),(15,1),(16,1),(32,1),(33,1),(35,1),(37,1),(38,1),(50,1),(55,1),(56,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(116,1),(117,1),(118,1),(119,1),(121,1),(125,1),(126,1),(128,1),(133,1),(137,1),(140,1),(141,1),(146,1),(147,1),(151,1),(152,1),(154,1),(155,1),(170,1),(171,1),(172,1),(173,1),(174,1),(190,1),(191,1),(208,1),(213,1),(214,1),(215,1),(217,3),(222,1),(253,1),(257,1),(324,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3055},
+               3 Content={2854 Content={3092 SavedExpireTime=1446, 2865 Content={3031 Amount=31, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3053 SavedExpireTime=358, 3052 SavedExpireTime=24, 3092, 2857 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}}}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}, 2853 Content={3293, 3457, 3003, 3456}}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3079},
+               10 Content={2925 RemainingExpireTime=69}}
+
+Depots      = {0 Content={3506 String="Sir Calimero\nThais\nWe are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3504 Content={2853, 3504, 3504, 3504, 3504}, 2859 Content={2853 Content={3027 Amount=1, 3042 Amount=31, 3032 Amount=7, 3033 Amount=15, 2969 KeyNumber=3620, 2969 KeyNumber=3650}, 3026 Amount=3, 3298 Amount=24, 3034 Amount=3, 3029 Amount=3, 3028 Amount=8, 3732 Amount=1, 3075}, 2866 Content={2842, 2842, 2903, 3072}, 3081 RemainingUses=2, 3317, 3502 Content={2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2854 Content={3349, 3349, 2854 Content={2867}}}, 2872 Content={2854 Content={3483, 3492 Amount=78, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2870 Content={2853 Content={2853 Content={2972 KeyNumber=3304, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 3050, 2969 KeyNumber=3302}, 2970 KeyNumber=3800, 2969 KeyNumber=5010, 2970 KeyNumber=3802, 3287 Amount=23, 2968 KeyNumber=3940, 2970 KeyNumber=3801, 3598 Amount=27}, 2871 Content={3456}, 2872, 2854, 2854, 2854, 2854 Content={3465, 3465, 3465}}, 2865 Content={2854 Content={3083 RemainingUses=141, 3083 RemainingUses=150, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3012}, 3097, 3097, 3097, 3097, 3097, 3097, 3097, 3097 SavedExpireTime=3577, 3097 SavedExpireTime=3595, 3097, 3097, 3050 SavedExpireTime=1464, 3050, 3050 SavedExpireTime=1793, 3050, 3050, 3050}, 3049, 3723 Amount=46, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3093, 2854 Content={3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 2866 Content={3091, 3091, 3091, 3091, 3091, 3091, 3091}, 3039, 2992 Amount=10}, 2867 Content={3446 Amount=6, 3351, 3556, 3284 RemainingUses=1, 3279, 3351, 2870 Content={3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384, 3384}}, 2854 Content={2854 Content={2865 Content={3301, 3301, 3301, 3301, 3297, 3297, 3301, 3301}, 3557, 3301, 3297, 3557, 3301, 3301, 3301, 3301, 3416, 3557, 3557, 3557, 3301, 3557, 3301, 3322, 3557, 3297, 3297}, 3301, 3071, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3071, 3071, 3301, 3301, 3301, 3301, 3301, 3301, 3071, 3301}, 2867 Content={3449 Amount=89, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}, 2870 Content={3583 Amount=48, 3583 Amount=100, 3583 Amount=100, 3583 Amount=100}, 2871 Content={3031 Amount=81, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3043 Amount=3}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3277 Amount=10}}, 
+               3 Content={3502 Content={3287 Amount=3}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={3031 Amount=45, 3031 Amount=100, 3031 Amount=100, 3027 Amount=2, 3026 Amount=1}}, 
+               7 Content={2922 SavedExpireTime=48, 3504 Content={3507 String="sir calimero\nankrahmun" Editor="Robin schoot", 3507}, 3504 Content={2854 Content={2854 Content={3456, 3017, 2854 Content={3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301}}, 3084 RemainingUses=250, 2853 Content={2853 Content={2871 Content={2871 Content={2871 Content={2871 Content={2871 Content={2853 Content={2853 Content={2853}}}}}}}}}, 3350, 3285, 3504 Content={2854, 3507 String="Undead'bolter\nAnkrahmun" Editor="Undead'Bolter"}, 2853 Content={3503 Content={3507}}, 3504 Content={2867 Content={2871}, 3507 String="undead'bolter\nankrahmun" Editor="Sir Calimero"}, 2969 KeyNumber=3650, 2969 KeyNumber=3620, 3447 Amount=98, 3483, 3483, 3483, 3483, 3483, 3483}, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3502}}

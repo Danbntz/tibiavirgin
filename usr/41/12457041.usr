@@ -1,0 +1,57 @@
+ID              = 12457041
+Name            = "Dragor Zaban"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,59-132-38-0)
+CurrentOutfit   = (133,59-132-38-0)
+LastLogin       = 1143437257
+LastLogout      = 1143437460
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33153,32751,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,645267,0,658000,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1386056,1100,1395159,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,731,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,28084,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7157,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,903,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,989,1100,1023,20)
+Skill = (14,0,1200,0,0,0,1021,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,8,9,11,12,16,18,29,39,44,84,88}
+QuestValues = {(80,1),(82,1),(83,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(121,1),(140,1),(141,1),(145,1),(146,1),(147,1),(190,1),(191,1),(213,1),(214,1),(215,1),(217,3),(269,1),(324,1),(333,1)}
+Murders     = {1142422509}
+
+Inventory   = {1 Content={3351},
+               3 Content={2871 Content={3031 Amount=25, 3582 Amount=9, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               5 Content={3416},
+               6 Content={3271},
+               7 Content={3557},
+               9 Content={3007},
+               10 Content={2871 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}
+
+Depots      = {0 Content={3583 Amount=4, 3502}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502 Content={3031 Amount=88}}, 
+               6 Content={3502}, 
+               7 Content={2659, 2659, 2659, 3350, 2656, 2659, 2656, 2469 Content={2469, 2853 Content={3503 Content={3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503 Content={3503}, 3503, 3503}, 3503 Content={3503, 3503, 3503, 3503, 3504 Content={3507 String="Wild monk\nthais\n" Editor="Wild monk"}, 3503, 3503, 3503, 3503, 3503}}}, 2656, 3071, 3003, 2656, 3147, 3147, 3147, 3147, 3147, 3147, 2656, 2656, 2656, 2656, 4839, 3177 Charges=1, 3177 Charges=1, 2857, 2659, 2656, 3311, 3042 Amount=59, 3031 Amount=79, 3003, 2667, 3078, 3061, 3576, 2853, 2656, 3007, 3092, 4839, 3010, 3077, 2659, 2659, 3077, 3077, 2871 Content={3731 Amount=3, 3083 RemainingUses=150, 3083 RemainingUses=93, 3083 RemainingUses=28}, 2857 Content={3432, 3572, 3409}, 2667, 3147, 3147, 3044 Amount=1, 2656, 3091, 3147, 2667, 3304, 2659, 2656, 3031 Amount=17, 3367, 2667, 3177 Charges=1, 2659, 2871 Content={3287 Amount=99, 3298 Amount=45}, 2859 Content={1781 Amount=31}, 2656, 2656, 3008, 3091, 3446 Amount=57, 2667, 2656, 3582 Amount=2, 3578 Amount=50, 2659, 2659, 2854 Content={3003, 3457, 3277 Amount=63, 3059, 3327, 3457}, 2659, 2853 Content={2871 Content={3583 Amount=20}, 3492 Amount=100}, 3046, 3084 RemainingUses=250, 3273, 2667, 3092, 2656, 3078, 2667, 2656, 2656, 2656, 2656, 4839, 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1950 gold\nfor your house \"Botham II d\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3059, 3502}}

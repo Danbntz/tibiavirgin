@@ -1,0 +1,55 @@
+ID              = 12046917
+Name            = "Sevius Dras"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,126-67-94-7)
+CurrentOutfit   = (130,126-67-94-7)
+LastLogin       = 1139776482
+LastLogout      = 1139776632
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32225,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,45212,0,47000,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,30094,1100,34214,1600)
+Skill = (2,158,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8914,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1643,2000,3150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,427,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,10,26,29}
+QuestValues = {(18,1),(22,1),(27,1),(32,1),(33,1),(34,1),(37,1),(58,1),(121,1),(217,3),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3012},
+               3 Content={2867 Content={3577 Amount=3, 3031 Amount=63, 3003, 3492 Amount=10, 3457}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={2854 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2854, 3093 SavedExpireTime=1794, 2868, 2865, 2871 Content={3056 RemainingUses=199, 3377, 3072, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3350, 3377, 3155 Charges=1, 3059}, 2854 Content={3597 Amount=1}, 2867 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854, 2854 Content={3035 Amount=1, 3031 Amount=100}, 2854 Content={3308, 3046 SavedExpireTime=1771, 3289}}}, 
+               2 Content={3502}, 
+               6 Content={3502 Content={3503 Content={3507}}}}

@@ -1,0 +1,56 @@
+ID              = 13390624
+Name            = "Vovan Steel"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,114-38-47-0)
+CurrentOutfit   = (134,114-38-47-0)
+LastLogin       = 1148221572
+LastLogout      = 1148221620
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33214,32453,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,69667,0,69700,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,50989,1400,55031,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10194,1100,10918,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18865,1100,19579,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,99,1200,109,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,220,1200,268,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,94,1200,109,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,351,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,44,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,11,20,29,42,44,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3559},
+               9 Content={3007},
+               10 Content={3447 Amount=48}}
+
+Depots      = {0 Content={3358, 3362, 3502}, 
+               1 Content={3277 Amount=35, 3723 Amount=40, 3582 Amount=29, 2853 Content={3504 Content={3504 Content={3507 String="sariel angelwings\ndarashia\n" Editor="Von'Breaker"}, 3504 Content={3507 String="JAMES DUENDE\nDARASHIA" Editor="Malpa'Lew"}, 3504, 3504}, 3504 Content={3504, 3504 Content={3507 String="ture ghald\ndarashia" Editor="Glan Cerim"}, 3504 Content={3507 String="Dokas\ndarashia" Editor="Mugi-cio"}, 3504 Content={3507 String="tyron averoc\ndarashia" Editor="Sorcerer Xiaolim"}, 3504 Content={3507 String="shypon kilers\ndarashia\n" Editor="Shypon Kilers"}, 3504 Content={3507 String="Chilofompila\nDarashia" Editor="Chilofompila"}, 3504, 3504, 3504, 3504}, 3504 Content={3504 Content={3507 String="talegas de perro flam\ncarlin" Editor="Sir Betokas"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="talegas de perro flam\ncarlin" Editor="Talegas de Perro Flam"}, 3504 Content={3507 String="talegas de perro flam\ncarlin" Editor="Talegas de Perro Flam"}, 3504, 3504, 3504}, 3504 Content={3504 Content={3507 String="Sconio\nEdron" Editor="Meario Artorex"}, 3504 Content={3507 String="Sconio\nEdron" Editor="Eraell"}, 3504 Content={3507 String="Quik Pirokaman\nEdron" Editor="Dufinin"}, 3504 Content={3507 String="pompi\nAnkrahmun\n" Editor="Pompi"}, 3504, 3504 Content={2853 Content={3446 Amount=29, 2853 Content={2853}}, 3507 String="entenooki\nankrahmun" Editor="Entenooki"}, 3504 Content={3507 String="erick gortari\nankrahmun" Editor="Galer Rafa", 3507}, 3504, 3504 Content={3507 Editor="Magoton"}, 3504}, 3504 Content={3504 Content={3507 String="kuldan azielmak\nedron" Editor="Gustaw zabijaka"}, 3504 Content={3507 String="eternal captain\nedron" Editor="Phan Raen", 3504 Content={3507 String="phan raen\nab'dendriel" Editor="Phan Raen", 3384}}, 3504 Content={3507 String="Telfir Nailo\nEdron" Editor="Telfir Nailo"}, 3504 Content={3507 String="ojos saint\nedron" Editor="Master Encke"}, 3504 Content={3507 String="darkannis\nedron" Editor="Nok Pyton"}, 3504 Content={3507 String="Neo kanguro\nedron" Editor="Neo Kanguro"}, 3504 Content={3507 String="Telfir Nailo\nedron" Editor="Telfir Nailo"}, 3504 Content={3504 Content={3507 String="entenooki\nedron" Editor="Entenooki"}, 3504 Content={3507 String="entenooki\nedron" Editor="Entenooki"}, 3507 String="edron\n" Editor="Entenooki"}, 3504 Content={3507 String="mugi-cio\nDarashia" Editor="Olan the dark garrobo"}, 3504}}, 2868 Content={3349, 3492 Amount=100, 3457, 3003, 3003, 3457, 1781 Amount=5, 3349, 3046 SavedExpireTime=2157, 3046 SavedExpireTime=741, 3046, 3425, 3425, 3349, 3457, 3457, 4871, 3308, 3349, 3492 Amount=100}, 2868 Content={3418, 2866 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3421, 3052, 3052, 3092 SavedExpireTime=1776, 2870 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3377, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3050, 3097 SavedExpireTime=3471, 2865 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3356, 3084 RemainingUses=250, 3084 RemainingUses=250, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3059, 2867 Content={2868, 2868 Content={2872, 2866, 2867, 2867, 2867, 2867, 2866, 2866, 2866, 2866, 2868 Content={2868}, 2854 Content={2869 Content={2854}}, 2866}, 2872, 2868, 2870, 2866, 2866, 2866, 2868, 2868}, 3502 Content={3035 Amount=14, 3035 Amount=100}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

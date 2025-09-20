@@ -1,0 +1,49 @@
+ID              = 9860948
+Name            = "Kolo-Runacz"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (128,0-76-42-76)
+CurrentOutfit   = (128,0-76-42-76)
+LastLogin       = 1147882417
+LastLogout      = 1147882422
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32092,32193,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,0,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(224,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3492 Amount=5}},
+               4 Content={3379},
+               5 Content={3270},
+               10 Content={3588 Amount=3}}
+
+Depots      = {1 Content={2874, 3502 Content={3070, 3355, 3457, 3426, 3505 String="\n\n", 2472 Content={3655}, 3504 Content={3655, 2853 Content={3138, 3136, 3140, 3136, 3137, 3137, 3138, 3140}, 2853 Content={2922 SavedExpireTime=173}, 2853 Content={2853, 3507 String="Femea Brax\nCarlin", 3506 String="Aikux\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3506 String="Jaburu de Zanera\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\n\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please logg to our page:\n\nhttp://CipSoftTeam.nasze.com \n\nCopyright 1996-2005 CipSoft GmbH.\n", 3138, 3138, 3140, 3137}}, 3177 Charges=1, 3457, 3456, 3012, 2969 KeyNumber=4600, 2924 SavedExpireTime=135, 3059, 3453, 2920 SavedExpireTime=591}}, 
+               6 Content={3502 Content={3031 Amount=2, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3661, 3505, 3003, 2977, 2977, 3469, 2977, 2880, 3724 Amount=1, 3725 Amount=5, 2865, 2854 Content={3447 Amount=30}, 3160 Charges=1, 3129, 3469, 3469, 3003, 2882}}}

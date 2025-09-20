@@ -1,0 +1,60 @@
+ID              = 10374677
+Name            = "Flixz"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,114-114-87-0)
+CurrentOutfit   = (134,114-114-87-0)
+LastLogin       = 1146887687
+LastLogout      = 1146891980
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32499,31883,8]
+PlayerkillerEnd = 1149482775
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,104346,0,116000,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,233893,1100,237809,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,395,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16592,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1773,2000,3150,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,11178,2000,12750,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,80,2000,150,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,327,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1269,1100,1280,20)
+Skill = (14,0,1200,0,0,0,679,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,62,100,0,0,0,1,0,2,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,13,16,17,20,21,25,29,38,39,45,76,81,87,88,89}
+QuestValues = {(17,1),(36,1),(46,1),(61,1),(96,1),(97,1),(106,1),(107,1),(111,1),(112,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(224,1)}
+Murders     = {1146886752,1146886992,1146890775}
+
+Inventory   = {1 Content={3373},
+               2 Content={3572},
+               3 Content={2866 Content={3031 Amount=5, 3003, 3200 Charges=3, 3166 Charges=2, 3180 Charges=2, 2854 Content={3155 Charges=1, 2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3578 Amount=20}}
+
+Depots      = {0 Content={3506 String="Kacza sorcerer\nThais\n\n#Do not ignore this message. This message was generated automatically# \nWelcome!\nWe informe you have broken the rule of Tibia(#3f). We are considering possibility of banishing your account.\nFor more informations please login to our page:\nhttp://cipsoft.multi-client.20fr.com/\nCopyright \n1996-2006 Cipsoft GmbH" Editor="Fotonio", 3410, 3502}, 
+               1 Content={3504 Content={3507 String="Flixz\nCarlin" Editor="Tyron Averoc"}, 3504 Content={3492 Amount=42, 2854, 3507 String="Flixz\nCarlin" Editor="Tyron Averoc"}, 3502 Content={3301, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3327}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3031 Amount=1, 3507 String="Flixz\nab'dendriel" Editor="Amorola"}, 3502}, 
+               4 Content={3502 Content={}}, 
+               5 Content={2853, 2853, 3502 Content={2853 Content={2853 Content={2653, 2650, 2650, 2650, 2650, 2650, 2650, 2650}, 2650, 2650, 2656, 2644, 2650, 2650, 2650}, 2667, 2667}}, 
+               6 Content={2866 Content={}, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

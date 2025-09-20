@@ -1,0 +1,59 @@
+ID              = 7948450
+Name            = "Grekkio De'Sarem"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,20-68-114-114)
+CurrentOutfit   = (134,20-68-114-114)
+LastLogin       = 1148080114
+LastLogout      = 1148080138
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32219,6]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,738565,0,780700,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,258690,3000,582400,1600)
+Skill = (2,620,620,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,161,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1195,1195,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,68,0,10,0,0,0,0,0,0,0,256348,1100,275801,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,69,0,10,0,0,0,0,0,0,0,149176,1100,151740,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,118,1100,165,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,93,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,26,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6344,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(14,1),(15,1),(16,1),(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(28,1),(30,1),(32,1),(33,1),(34,1),(37,1),(58,1),(59,1),(67,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(106,1),(107,1),(111,1),(112,1),(113,1),(114,1),(125,1),(126,1),(135,1),(136,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2872 Content={3031 Amount=12, 3492 Amount=66, 3492 Amount=100, 3578 Amount=52, 2920 SavedExpireTime=129, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Grekkio De'sarem\nthais" Editor="Sorrento De'Sarem"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={2853 Content={2853 Content={}}, 3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={2871 Content={2920 SavedExpireTime=311, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2871 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 3504 Content={2853 Content={2853, 2853}, 3507 String="Grekkio De'sarem\nEdron"}, 2869 Content={3291, 3291, 3084 RemainingUses=250, 3084 RemainingUses=250, 3457, 3003, 3308, 2955}, 2854 Content={3008, 3083 RemainingUses=150, 3056 RemainingUses=200}, 3504 Content={2969 KeyNumber=3033, 2920, 2920, 2992 Amount=4, 2969 KeyNumber=4603, 2970 KeyNumber=4601, 2970 KeyNumber=4601, 3374}, 3502}, 
+               5 Content={3483, 3267, 3492 Amount=72, 3578 Amount=62, 3506 String="Warning!\n\nThe monthly rent of 2665 gold\nfor your house \"Darashia 8, Flat 05\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2665 gold\nfor your house \"Darashia 8, Flat 05\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2665 gold\nfor your house \"Darashia 8, Flat 05\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2665 gold\nfor your house \"Darashia 8, Flat 05\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 2665 gold\nfor your house \"Darashia 8, Flat 05\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3502}, 
+               6 Content={2865 Content={3507 String="Grekkio De'Sarem lvl here plx respeten msg primero thx" Editor="Grekkio De'Sarem", 3507 String="Grekkio De'Sarem\nmsg or exiva" Editor="Grekkio De'Sarem", 3507 String="Grekkio De'Sarem lvl here plx respeten msg primero thx" Editor="Grekkio De'Sarem", 2920, 2920, 2920, 2920, 2920, 2920}, 3504 Content={3425, 3425, 3449 Amount=30}, 3054 RemainingUses=200, 3446 Amount=9, 3502 Content={2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3042 Amount=2, 3291, 3412, 3035 Amount=51, 2871, 3030 Amount=1, 3085 RemainingUses=128}, 2868 Content={2867, 2866 Content={2871}}}}, 
+               7 Content={3504 Content={3507 String="Grekkio De'Sarem\nAnkrahmun" Editor="Akiless"}, 2854 Content={3377, 3551}, 3502}, 
+               8 Content={3502 Content={}}}

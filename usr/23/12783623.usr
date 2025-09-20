@@ -1,0 +1,57 @@
+ID              = 12783623
+Name            = "Contrabandista Sorridente"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,115-79-0-88)
+CurrentOutfit   = (129,115-79-0-88)
+LastLogin       = 1148252438
+LastLogout      = 1148252810
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32329,31782,6]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,399096,0,409000,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,619494,1100,642316,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,645,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,38738,1500,58185,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,148,2000,210,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,651,2000,750,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1179,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,765,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,57,0,10,0,0,0,0,0,0,0,17476,1100,19203,20)
+Skill = (14,0,1200,0,0,0,247,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,13,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,1,0,198,200,0,0,1000,2147483647,2147483647)
+Skill = (22,38,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,17,19,22,23,25,26,27,29,30,32,38,44}
+QuestValues = {(18,1),(20,1),(35,1),(46,1),(61,1),(99,1),(125,1),(126,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2872 Content={3585 Amount=7, 3075, 3457, 2871 Content={3155 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2871 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3003}},
+               4 Content={3381},
+               5 Content={3073},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2991}}
+
+Depots      = {0 Content={3504 Content={3507 String="Contrabandista Sorridente\nThais" Editor="Contrabandista Sorridente"}, 3502}, 
+               1 Content={3504 Content={3507 String="contrabandista sorridente\ncarlin" Editor="Son Danilo"}, 3504 Content={3507 String="Contrabandista sorridente\nCarlin" Editor="Son Danilo"}, 3504 Content={3506 String="Contrabandista Sorridente\nCarlin\n\n03:52 Warning! The murder of Gorjuzz was not justified.\n\n03:52 You see a backpack (Vol:20).It weighs 199.70 oz.\n\n03:53 You see a dead human (Vol:10).You recognize Gorjuzz. She was killed by Brother Ent.\n\nPRONTO JA VINGUEI A SUA MORTE !!!\n(peguei ela em venore no sul)\n\nMUHAHAHAHAHAHA\n\nAss: Brother Ent" Editor="Brother Ent", 3506 String="Contrabandista Sorridente\nCarlin\n\n03:52 Warning! The murder of Gorjuzz was not justified.\n\n03:52 You see a backpack (Vol:20).It weighs 199.70 oz.\n\n03:53 You see a dead human (Vol:10).You recognize Gorjuzz. She was killed by Brother Ent.\n\nPRONTO JA VINGUEI A SUA MORTE !!!\n(peguei ela em venore no sul)\n\nMUHAHAHAHAHAHA\n\nAss: Brother Ent " Editor="Brother Ent", 3506 String="Contrabandista Sorridente\nCarlin\n\n03:52 Warning! The murder of Gorjuzz was not justified.\n\n03:52 You see a backpack (Vol:20).It weighs 199.70 oz.\n\n03:53 You see a dead human (Vol:10).You recognize Gorjuzz. She was killed by Brother Ent.\n\nPRONTO JA VINGUEI A SUA MORTE !!!\n(peguei ela em venore no sul)\n\nMUHAHAHAHAHAHA\n\nAss: Brother Ent" Editor="Brother Ent", 3506 String="Contrabandista Sorridente\nCarlin\n\n03:52 Warning! The murder of Gorjuzz was not justified.\n\n03:52 You see a backpack (Vol:20).It weighs 199.70 oz.\n\n03:53 You see a dead human (Vol:10).You recognize Gorjuzz. She was killed by Brother Ent.\n\nPRONTO JA VINGUEI A SUA MORTE !!!\n(peguei ela em venore no sul)\n\nMUHAHAHAHAHAHA\n\nAss: Brother Ent" Editor="Brother Ent", 3506 String="Contrabandista Sorridente\nCarlin\n\nBom cara espero q esteja tudo bem, estou saindo do server durante uns tempos ai n sei dizer se é por muito ou pouco, preciso estruturar minha vida e espero q vc se de bem com o Danilo, continua vendendo as hmm pra ele avisei pra ele comrpar todas pra mim ate la.....\nAbraços foi bom ter sua amizade aki " Editor="Brother Ent", 3507 String="Contrabandista Sorridente\ncarlin" Editor="Son Danilo"}, 3502 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2860 Content={3008}, 2868 Content={2973 KeyNumber=3520, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2955, 2955, 2991, 3290}, 2868 Content={3092 SavedExpireTime=1791, 3092, 3504 Content={3084 RemainingUses=250, 3507 String="azuxz\ncarlin" Editor="Azuxz"}, 3547 Amount=1, 3492 Amount=74, 2991}, 2865 Content={3504 Content={3446 Amount=7, 3658, 3349, 3350}, 2969 KeyNumber=4600, 3003}, 2868 Content={3092 SavedExpireTime=1797, 3059, 3050}, 2872 Content={3492 Amount=32, 3483, 3277 Amount=1, 2955, 2952, 3297}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2868 Content={3003, 2973 KeyNumber=3520}, 2854 Content={3593, 3593, 3588 Amount=14, 3595 Amount=2, 3602 Amount=10, 3586 Amount=4, 3585 Amount=21}, 2854, 2867, 2868, 2870 Content={3031 Amount=44, 3008, 3035 Amount=32, 3287 Amount=1, 3043 Amount=10, 2868, 2872 Content={2872}, 2868 Content={3446 Amount=30, 3492 Amount=100, 3551, 3004, 3503}, 2857 Content={3740 Amount=1}}, 2869, 2854 Content={3059, 2659}, 2854 Content={3046 SavedExpireTime=2993, 3077, 3492 Amount=100, 3308, 3071, 2647, 3287 Amount=4}, 2854 Content={3008, 3379, 3097}, 2867 Content={3290, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 2867 Content={2839 String="hola\n" Editor="Sir alex knight of zanera"}, 2866 Content={3492 Amount=100, 3492 Amount=100, 3003, 3736 Amount=11, 3083 RemainingUses=150, 2856 Content={3738 Amount=1, 3455, 2969 KeyNumber=4600}, 3050, 3453, 3291, 2973 KeyNumber=3520, 3289, 3056 RemainingUses=200, 3576, 2969 KeyNumber=3033, 2955, 2973 KeyNumber=3520, 3658, 3658, 3077, 3077}, 2865 Content={3590 Amount=3, 3582 Amount=4, 3483, 3585 Amount=2, 3602 Amount=2, 3447 Amount=6, 3583 Amount=1, 3588 Amount=21, 3590 Amount=100, 3598 Amount=62}}}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3507 String="contrabandista sorridente\nvenore" Editor="Asama Blago"}, 3504 Content={3507 String="contrabandista sorridente\nvenore" Editor="Asama Blago"}, 3502 Content={2853, 3300, 3430, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3430, 3374, 3361, 3430, 3374, 3412, 2920, 2920, 3355}}}

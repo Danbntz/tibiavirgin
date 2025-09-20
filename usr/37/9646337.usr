@@ -1,0 +1,53 @@
+ID              = 9646337
+Name            = "Dragons'fire"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-25-114-0)
+CurrentOutfit   = (129,114-25-114-0)
+LastLogin       = 1147802163
+LastLogout      = 1147802167
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32698,32018,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,104431,0,116000,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,62875,1400,78644,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,205,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12620,1100,13420,100)
+Skill = (7,52,0,10,0,0,0,0,0,0,0,16812,1100,17772,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,133,1200,181,50)
+Skill = (9,23,0,10,0,0,0,0,0,0,0,2874,1200,2959,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,54,1200,109,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1447,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,857,1100,911,20)
+Skill = (14,0,1200,0,0,0,783,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,60,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,10,15,29,42,51}
+QuestValues = {(20,1),(35,1),(59,1),(125,1),(126,1),(208,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3012},
+               3 Content={2867 Content={3264, 3286, 3264, 3031 Amount=12, 3031 Amount=100, 3349, 3457, 2867 Content={3349}, 3031 Amount=65}},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3446 Amount=1}}
+
+Depots      = {3 Content={3447 Amount=9, 3502}, 
+               6 Content={2854 Content={2854, 3372, 3301, 2854, 3372}, 3059, 3504 Content={2868 Content={3279}, 3457, 2853, 3425, 3377, 3507 String="dragons'fire\nvenore" Editor="Dragons'fire"}, 2871 Content={3031 Amount=33, 3031 Amount=100, 2854}, 3421, 2867 Content={3286, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 2867 Content={3379}, 2871 Content={2871 Content={2867}}, 3003, 3457}, 2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2867 Content={3447 Amount=10, 3277 Amount=18}, 2992 Amount=14, 3504 Content={3351, 3377, 3413, 3305, 3377, 3377, 3377}, 3050 SavedExpireTime=1796, 3504 Content={2920 SavedExpireTime=599, 3504 Content={2853 Content={2853 Content={2853 Content={3425, 3425, 2853 Content={3425, 3425}}}, 2853 Content={2853 Content={3349, 3447 Amount=10}}}, 3507 String="Dragons'fire\nvenore" Editor="Dragons'fire", 3507 String="Dragons'fire\nvenore" Editor="Dragons'fire"}}, 2469 Content={3308, 2870 Content={3035 Amount=1, 3446 Amount=1, 3031 Amount=19, 3349, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3372, 3372, 3003}, 2853 Content={3425, 2853, 3273, 3273, 3273, 3273}, 2469 Content={3308}, 2469, 2469}, 3286, 3456, 2920 SavedExpireTime=598, 2922 SavedExpireTime=167, 3367, 3285, 2969 KeyNumber=5010, 3308, 3504 Content={3277 Amount=21, 2920 SavedExpireTime=595, 3374, 2969 KeyNumber=5000, 3456, 3504 Content={3012, 3565, 3285, 3354, 3376, 3507 String="Elite-choms\nvenore\n"}, 3504 Content={3054 RemainingUses=200, 3578 Amount=12, 3353, 3507 String="dragons'fire\nvenore"}}, 3502 Content={2854 Content={3003}, 2854, 3492 Amount=61, 3534 Amount=1, 3533 Amount=8, 3277 Amount=6, 3483, 3054 RemainingUses=200, 3483, 3483, 3483, 3377}}}

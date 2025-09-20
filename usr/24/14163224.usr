@@ -1,0 +1,53 @@
+ID              = 14163224
+Name            = "Arcamx"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (142,116-19-124-124)
+CurrentOutfit   = (142,116-19-124-124)
+LastLogin       = 1148060101
+LastLogout      = 1148060179
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33310,31975,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1050837,0,1070100,100)
+Skill = (1,42,0,0,0,0,0,0,0,0,0,935101,1100,947841,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,456,1025,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,800,800,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,69307,1500,87378,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,142,1800,181,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,5804,1800,6824,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,9575,1800,12334,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,4012,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,5,8,9,10,12,16,20,29,39,42,44,45,76,81,82,84,88,94}
+QuestValues = {(56,1),(111,1),(112,1),(125,1),(126,1),(137,1),(148,1),(149,1),(150,1),(151,1),(152,1),(190,1),(191,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(333,1)}
+Murders     = {1145902951,1145913350}
+
+Inventory   = {1 Content={3385},
+               3 Content={2866 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3578 Amount=62, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3093, 3483}},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="arcamx\nthais" Editor="Akaldallus"}, 3504 Content={3507 String="arcamx\nthais" Editor="Akaldallus"}, 3504 Content={2871 Content={2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 2853 Content={3276, 3276, 3276, 3276}}}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3507 String="arcamx\nthais" Editor="Arcamx"}, 3502}, 
+               2 Content={3502 Content={2867 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2867 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}}, 
+               4 Content={2853 Content={2853 Content={3377, 3425, 3425, 3349}, 3425, 3377, 3349}, 3506 String="Arcamx\nEdron\n\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 2853 Content={3349, 3349, 2853 Content={2853, 3425, 3377, 3377}, 3377, 3377, 3425, 3425}, 3504 Content={3507 String="Arcamx\nEdron" Editor="Sellcius"}, 3504 Content={2853 Content={3046, 3046, 3046, 3046}, 3507 String="arcamx\nedron" Editor="Akaldallus"}, 3504 Content={3507 String="arcamx\nedron" Editor="Akaldallus"}, 3504 Content={3298 Amount=2, 3559, 3378, 3507 String="arcamx\nedron" Editor="Sin-Ji"}, 3502 Content={2853, 3298 Amount=1, 3313, 3046, 2869 Content={3046}, 3066}}, 
+               5 Content={3504 Content={3507 String="Arcamx\nDarashia" Editor="Sellcius"}, 3504 Content={3507 String="arcamx\ndarashia" Editor="Akaldallus"}, 3504 Content={3507 String="arcamx\ndarashia" Editor="Shading'knight"}, 3504 Content={3507 String="arcamx\ndarashia" Editor="Shading'knight"}, 3502 Content={3504 Content={3504 Content={3507 String="daur\ndarashia\n" Editor="Lamaquina"}, 3507 String="DAUR\nDARASHIA\n" Editor="Blade Fury", 2853}, 3492 Amount=6, 3483, 3077, 3066}}, 
+               6 Content={3504 Content={3358, 3507 String="arcamx\nvenore" Editor="Arcamx"}, 3504 Content={3507 String="arcamx\nvenore" Editor="Arcamx"}, 3504 Content={2853 Content={2853 Content={3411, 3411, 3411, 3411, 3411, 3411}, 2871}}, 3504 Content={2853, 2853, 2853 Content={3349, 3349, 3349}, 3507 String="arcamx\nvenore" Editor="Arcamx"}, 3504 Content={2853 Content={2853 Content={3305, 2853 Content={2853, 3286, 3286}}, 3349, 3425, 3349, 3349, 3092, 3425}, 3507 String="arcamx\nvenore" Editor="Arcamx"}, 3504 Content={2853 Content={3425, 3425, 3349, 2853}, 3507 String="Arcamx\nvenore" Editor="Puppet master of zanera"}, 3504 Content={2469 Content={3298 Amount=2, 2469 Content={2469 Content={2667, 2469 Content={2469 Content={2656, 2854 Content={3176 Charges=3, 2971 KeyNumber=3702, 3176 Charges=2}, 2869 Content={3275, 3330}, 2469 Content={2469 Content={3425}, 2659, 2842}, 2659}, 2842, 2656, 2867 Content={2903, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2867 Content={3349, 3349, 3425, 3349, 3349, 3372}, 2869 Content={2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampathes to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicals out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 2853 Content={2842, 2842, 2842, 2842, 2842}, 3447 Amount=100, 3293, 3425, 3026 Amount=1, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 2869 Content={3432, 2659, 2667, 3448 Amount=20, 3448 Amount=100, 2644}}, 2656, 2469 Content={3483, 2469 Content={2842, 2656}, 2656, 2469 Content={2656, 3091}}}, 2656, 3311, 2659, 3091, 2656}, 2659, 2842, 2656, 2659, 2659, 3007}, 3507 String="arcamx\nvenore" Editor="Arcamx"}, 3502 Content={3003}}, 
+               7 Content={2853 Content={2853 Content={2853}}, 3003, 2853 Content={2871 Content={2871 Content={2853 Content={3301, 3275}}, 2871, 2871, 2871}}, 3502 Content={3577 Amount=4, 2871, 2853 Content={2871, 2871, 2871}, 2853, 2866 Content={3330, 3330, 3330}, 2866 Content={3377, 3003, 3003, 2853, 2853 Content={3367, 3367, 3367, 3354, 3264, 3354}, 2853 Content={2853 Content={2853 Content={2853 Content={2853, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2920 SavedExpireTime=598, 2920 SavedExpireTime=598, 2920}, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2920, 2920, 2920, 2920, 2920, 2920, 2920}}}}}

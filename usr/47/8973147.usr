@@ -1,0 +1,57 @@
+ID              = 8973147
+Name            = "Lord Dromars"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,85-79-85-79)
+CurrentOutfit   = (134,85-79-85-79)
+LastLogin       = 1142817038
+LastLogout      = 1142817081
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33209,32465,8]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1035624,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,258560,3000,582400,1600)
+Skill = (2,590,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,195,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,64,0,10,0,0,0,0,0,0,0,181708,1100,188059,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,226,1400,328,30)
+Skill = (8,67,0,10,0,0,0,0,0,0,0,117286,1100,125318,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,260,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,128,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2912,1100,2972,20)
+Skill = (14,0,1200,0,0,0,829,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,116,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(37,1),(60,1),(61,1),(62,2),(63,1),(64,1),(70,1),(71,1),(80,1),(82,1),(83,1),(106,1),(107,1),(111,1),(112,1),(121,1),(137,1),(190,1),(191,1),(208,1),(221,1),(225,1),(257,1),(292,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={3035 Amount=2, 3384, 2869 Content={2869, 2869, 2869}, 3012, 3582 Amount=3, 2920, 3447 Amount=45, 3350, 3723 Amount=38, 3457, 3003}},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=431}}
+
+Depots      = {0 Content={2853 Content={3504 Content={3504, 3504, 3504 Content={3507 String="ganems soul\ncarlin"}}, 2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evil!", 2969 KeyNumber=3350, 2815 String="I have to hide that key better. One of that greedy adventurers that came here seemingly out of nowhere and refused to tell me how he got here stole it and disturbed the contemplation of the brothers upstairs. Gladly they could defeat him. When will those people learn some respect. How could they think there would anything valuable? The next intruders will pay a bitter price for such an act of evil!", 2969 KeyNumber=3350}, 3350, 3447 Amount=9, 3114 Amount=3, 3483, 3504 Content={3457, 3372, 2861 Content={2854 Content={2868, 2854, 2868, 2868}, 3266, 2869, 2869, 2869}, 3507 String="Lord Dromars\nThais"}, 2922 SavedExpireTime=282, 2853 Content={2871}, 2868, 3421, 3502}, 
+               1 Content={2869 Content={}, 2868 Content={3207 Amount=1, 2869 Content={2856 Content={}}, 3483, 3003, 3504 Content={3504 Content={}}, 2911 SavedExpireTime=1505, 2881 ContainerLiquidType=0}, 3003, 3275, 3317, 2469 Content={3059 String="", 3464, 3507 String="aki"}, 2867 Content={3003}, 3503 Content={3507 String=""}, 3447 Amount=15, 2868 Content={2659, 2659, 2659, 2868 Content={2868 Content={}, 3504 Content={}, 3091 SavedExpireTime=54, 3503 Content={}, 2854 Content={}, 2860 Content={3504 Content={2920 SavedExpireTime=0, 3504 Content={}}}, 2854 Content={3503 Content={}}, 3483}, 2659, 2659, 2659, 2865 Content={3298 Amount=12, 2394, 4290 Content={}, 2955, 3598 Amount=22, 3097 SavedExpireTime=3519, 3097 SavedExpireTime=0, 3114 Amount=1, 3012, 3304, 3114 Amount=1, 3012, 3304, 3736 Amount=3, 3097 SavedExpireTime=0, 3590 Amount=3}}, 2868 Content={2853 Content={}, 3456, 3003, 3457, 2973 KeyNumber=3520, 2955, 3457, 3483, 2659, 2970 KeyNumber=4502, 3483, 3451, 3457}, 2868 Content={2659, 3059 String="", 2970 KeyNumber=4601, 3457, 3083 RemainingUses=150, 3083 RemainingUses=150, 2983, 2983, 2983, 2983, 2983, 2983, 3077, 3008, 3054 RemainingUses=200}, 2854 Content={2659, 2659, 2659, 2650, 2650, 2650, 2650, 2650, 2650, 2650, 2650, 2650, 2650}, 2955, 2873 ContainerLiquidType=2, 2973 KeyNumber=3520, 3464, 2469 Content={2854 Content={3579 Amount=1}, 2868 Content={}, 2853 Content={2854 Content={}, 3507 String="Lord Dromars\nCarlin", 2854 Content={}, 2868 Content={}, 2868 Content={2868 Content={}}, 2866 Content={}}, 2853 Content={2973 KeyNumber=3520, 2874 ContainerLiquidType=0}, 3291}, 3598 Amount=1, 3457, 3504 Content={2854 Content={3590 Amount=60, 3585 Amount=5, 3587 Amount=29, 3595 Amount=2, 3601 Amount=20, 3602 Amount=13, 3588 Amount=20, 2973 KeyNumber=3520, 2853 Content={}, 3725 Amount=1}, 3507 String="Lord Dromars\nCarlin"}, 2853 Content={2871 Content={2868 Content={}}}, 3507 String="\nnicca--\n597771\nskroted666\n--enjoy", 3502 Content={3492 Amount=7, 3358, 3430, 2969 KeyNumber=5000, 2969 KeyNumber=5010}}, 
+               2 Content={3504 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=83, 3446 Amount=100, 3507 String="suppac'forces\nkazordoon"}, 3504 Content={3507 String="Lord Dromars\nKazordoon"}, 3502 Content={2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}}}, 
+               3 Content={3502 Content={2853 Content={}}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Lord dromars\nDarashia"}, 2868 Content={2853 Content={3410, 3264, 3352, 3264, 3354}, 2853 Content={3410, 3264, 3358, 3358, 3286, 3358, 3286, 3410}, 2853 Content={3410, 3264, 3358, 3354, 3358, 3286, 3354, 3410}, 2853 Content={3286, 3410, 3286, 3352, 3410, 3286, 3410, 3354}, 2853 Content={3352, 3286, 3358, 3410, 3410, 3410, 3410, 3264}}, 3203 Charges=2, 2857 Content={3723 Amount=84, 3723 Amount=99}, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 2865 Content={3504 Content={3291, 3483, 3492 Amount=78}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3483, 3507 String="lord dromars training down... please please dont come and kill", 3507 String="lord dromars training down... please please dont come and kill", 3507 String="lord dromars training down... please please dont come and kill", 2856 Content={2870 Content={3583 Amount=1, 3198 Charges=2, 3349, 3598 Amount=100, 3091, 2868 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=1, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2857 Content={3203 Charges=2}, 3658, 2865 Content={3042 Amount=3, 3033 Amount=2, 3028 Amount=1, 3026 Amount=2, 3027 Amount=2, 3032 Amount=2, 3030 Amount=1}}}, 3457, 3502 Content={2865 Content={2867 Content={3597 Amount=3, 3454, 3291, 2853 Content={2853 Content={3147, 3147, 3147}}}, 2868, 2868 Content={3349, 3504 Content={3504, 3504, 3504}, 3349, 3349, 3349, 2860, 3349}, 3504 Content={2867 Content={3349, 3349, 3349}, 3507 String="lord dromars\ndarashia"}, 3506 String="Lord Dromars\nDarashia\n\nHola, ¿¿¿Quieres entrar en un concurso en el que puedes GANARTE UN PREMMY ACC.??? es muy facil solo debes contestar la siguiente encuesta y mandar la respuesta a tibialatino@hotmail.com, tienes oportunidad de madar tu respuesta hasta el 30 de junio de 2005, se hara un sorteo entre todos los que respondan esta encuesta el 5 de julio del 2005, los ganadores del los 20 PREMY ACC. seran notificados por este mismo medio.\n\n                       Encuesta de Tibia\n\n1. Tu Char:\n2 Server:\n3 Pais de donde eres?\n4 Que Edad Tienes?\n5 Cuantas Horas Juegas a Tibia a la semana?\n6 Que profesion prefieres?\n7 Cual es la peor profesion? porque?\n8 Te gustaria un server totalmente en ESPAÑOL?\n9 Que es lo que mas te gusta de tibia?\n10 Que es lo que menos te gusta?\n11 Te parece buena la idea de quitar la magia Utevo Lux y en cambia dejar la vision siempre perfecta? (sin obscuridad)\n12 Que le agregarias a Tibia?\n13 Te gusta Matar a otras personas?\n14 Te gustaria que hubiecen mas formas de hacerte Premy Acc. como pagando dentro del juego?\n15 Te gustaria Hacerte Premy Acc. pagadon directamente en cualquier banco de tu pais?\n16 Cual es tu meta en Tibia?\n17 Tienes Guild?\n18 Sabes como llegar ser tutor o Game Master?\n19 Te gustaria ser Elite, Elder, Royal o Mater sin necesidad de ser premy?\n20 Te gustaria una pag Web donde concigas informacion como hacer tus Quest?\n\nSolo contesta estas preguntas y recuerda mandar tus respuesta al correo tibialatino@hotmail.com antes del 30-06-05 para que concurses en el sorteo de 20 Premy Acc. No hay respuestas incorrectas. Gracias"}, 2868 Content={3483, 3077, 2866 Content={2868 Content={2870 Content={2869 Content={2869 Content={2866}}}}}, 3291, 2856}, 3483, 2866 Content={3084 RemainingUses=250, 2854 Content={3374, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov..."}, 3084 RemainingUses=250, 3505}}}, 
+               6 Content={3504 Content={3507 String="Lord dromars\nVenore"}, 3291, 3504 Content={3507 String="lord dromars\nvenore"}, 3502 Content={}}, 
+               7 Content={3350, 3264, 3291, 3291, 3350, 3447 Amount=49, 3502 Content={3483}}, 
+               8 Content={2872 Content={3044 Amount=2, 3308, 3350, 3298 Amount=1, 3448 Amount=3}, 3502 Content={3589 Amount=3, 3031 Amount=100, 3031 Amount=100, 3593, 3587 Amount=31, 3586 Amount=7}}}

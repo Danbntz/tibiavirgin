@@ -1,0 +1,55 @@
+ID              = 9872643
+Name            = "Victor Eliwood"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,94-77-94-77)
+CurrentOutfit   = (128,94-77-94-77)
+LastLogin       = 1147633367
+LastLogout      = 1147633374
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32729,31635,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,302395,0,330400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,161693,1400,222775,1600)
+Skill = (2,380,380,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,325,325,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,860,860,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,33573,1100,36404,100)
+Skill = (7,66,0,10,0,0,0,0,0,0,0,66508,1100,68328,30)
+Skill = (8,22,0,10,0,0,0,0,0,0,0,2088,1200,2424,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,201,1200,268,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,118,1200,181,50)
+Skill = (11,25,0,10,0,0,0,0,0,0,0,4192,1200,4372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,199,1100,228,20)
+Skill = (14,0,1200,0,0,0,964,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,32,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,15,20,29,30,42,44,48,49,51}
+QuestValues = {(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(58,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={3582 Amount=2, 3012, 3277 Amount=1, 3008, 3577 Amount=5, 3447 Amount=57, 3447 Amount=100, 3035 Amount=1, 3003}},
+               4 Content={3357},
+               5 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=78}}
+
+Depots      = {0 Content={3502 Content={3277 Amount=1, 3031 Amount=3, 3595 Amount=1, 3471, 3350, 3503 Content={3507, 3504 Content={3507 String="Victor Eliwood\nThais" Editor="Griel Crot gollo"}}, 3448 Amount=56}}, 
+               1 Content={3502 Content={3454, 3565, 3504 Content={3507 String="Victor Eliwood\nCarlin" Editor="Victor Eliwood"}}}, 
+               3 Content={3502 Content={3425, 3448 Amount=10, 3362, 2469 Content={3277 Amount=25, 3577 Amount=45, 3592, 3595 Amount=2}, 2866 Content={2869 Content={3160 Charges=1, 3160 Charges=1}, 3585 Amount=8, 2854 Content={3411, 3012, 3372, 3359, 3353, 3557, 3370, 3369, 3380, 3557, 3551, 3430, 3413, 3353, 3384}, 2854 Content={3298 Amount=1, 3059, 2901, 3583 Amount=5, 3449 Amount=24, 2393, 2856 Content={3160 Charges=1, 3454, 3305, 3305}, 3287 Amount=13, 2853 Content={3174 Charges=5, 3174 Charges=5, 3148 Charges=1, 3153 Charges=1, 3198 Charges=5, 3174 Charges=5}, 2857 Content={3092 SavedExpireTime=1633, 2853 Content={3093, 3097, 2853 Content={3054 RemainingUses=200, 3082 RemainingUses=50, 3052, 3097, 3097}, 3050, 3084 RemainingUses=9, 3008, 3008, 3054 RemainingUses=138}, 3084 RemainingUses=217, 3056 RemainingUses=200, 3046 SavedExpireTime=2999, 3077, 3084 RemainingUses=250, 3098}, 3509, 3121, 3350, 3289, 3551, 3563, 3593, 2469, 2469 Content={2853 Content={2853 Content={3450 Amount=2, 3007, 3028 Amount=1, 3035 Amount=14, 3026 Amount=1, 3027 Amount=1}}}}}, 2854 Content={2865 Content={3046 SavedExpireTime=2956, 2969 KeyNumber=3033, 2973 KeyNumber=3520}}, 2865 Content={3349, 3349, 3110, 3110, 3110, 3110, 2854 Content={3447 Amount=100, 2857, 3447 Amount=100}, 3349, 3349, 3350, 3349, 2853 Content={3446 Amount=93, 3446 Amount=100, 2853 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3446 Amount=100}, 3350}, 2854 Content={3361, 3452, 3350, 3453, 2853 Content={3456}, 3305, 3421}, 2870 Content={3593, 3736 Amount=1, 3661, 3659, 3012, 3505 String="gracias   victor    tu  me as ayudado musho   en  todo y eres  mi   novio  aki en  tibia jijijiji    bueno  ya nada mas   es  eso   jijij  y  ahora  me  yebas  a  ab  por  ke  en  venore me matan   musho  \n" Editor="Victor Eliwood", 2989, 2906, 3658, 3505 String="para     victor   ke   ya  lo  conoci\n" Editor="Victor Eliwood", 3661, 2981, 2992 Amount=5, 3661, 3661, 2985}, 3483, 3504 Content={3551, 3412}, 3350, 3504 Content={3374, 3358, 3362, 3264, 3264, 3286, 3507 String="Victor Eliwood\nAb'Dendriel" Editor="Victor Eliwood"}, 3605 Amount=7, 3504, 3504 Content={3425, 3285, 3285, 3266, 3275, 3425, 3409, 2853}}}, 
+               6 Content={3502}}

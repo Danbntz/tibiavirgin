@@ -1,0 +1,62 @@
+ID              = 13656898
+Name            = "Kanon Sama"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,0-94-114-94)
+CurrentOutfit   = (211,0-0-0-0)
+LastLogin       = 1148243014
+LastLogout      = 1148243221
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32683,31692,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,580830,0,601800,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,652736,1100,708148,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,715,815,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,37192,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,665,2000,750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,51,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,81,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6688,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,1,0,77,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,26,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,17,18,19,20,23,25,26,27,29,30,38,39,44,45,76,81,87,88,89}
+QuestValues = {(96,1),(97,1),(98,1),(111,1),(112,1),(190,1),(191,1),(257,1),(333,1)}
+Murders     = {1145819782,1147140998,1147141765,1147288758,1147604942}
+
+Inventory   = {1 Content={3210},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=29, 3578 Amount=8, 2868 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3147, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3003, 3457}},
+               4 Content={3567},
+               5 Content={3419},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2865 Content={2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+
+Depots      = {0 Content={3504 Content={3507 String="kanon sama\nthais\n" Editor="Phan Raen"}, 3502}, 
+               1 Content={3504 Content={3507 String="kanon sama\ncarlin" Editor="Skazi Loko"}, 3504 Content={3507 String="kanon sama\ncarlin" Editor="Phan Raen"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3483, 3492 Amount=4, 2865, 2969 KeyNumber=3033, 2871 Content={2854, 2868 Content={3505 String="de gerson (captain) para elg ey\nde daniel pa cuando seas 33 :P\n" Editor="Eternal Captain", 3008}, 2871}, 3504 Content={3504 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Botham II e\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2865 Content={3425, 3425, 3003}, 2854 Content={3338, 3049, 3084 RemainingUses=250, 3042 Amount=5}, 2865 Content={2868, 3483, 2970 KeyNumber=4503, 3147, 3598 Amount=5, 3074, 3075}, 2857 Content={2853 Content={2970 KeyNumber=3142, 2970 KeyNumber=3800, 2972 KeyNumber=3304, 2853 Content={3059, 2970 KeyNumber=3801, 2970 KeyNumber=3899, 2969 KeyNumber=5000, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=5010, 2969 KeyNumber=4600}}, 2871 Content={2871 Content={3003, 3327, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2853 Content={2853 Content={3266, 3358, 3358, 3410, 3349, 3266}}, 3504 Content={3172 Charges=2, 3148 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3507 String="mortadela the knight\nankrahmun" Editor="Mortadela the knight"}, 3046, 3084 RemainingUses=250}, 2854 Content={3147, 3147, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2659, 2868 Content={2865 Content={2854 Content={3483, 3412, 3412, 3483, 3355, 3272, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3563, 3268, 2901, 3085 RemainingUses=200, 2973 KeyNumber=3520, 3552}}, 2911 SavedExpireTime=2960, 3412, 2868 Content={2859, 3504 Content={3483, 3268, 3457, 3008, 3457}, 3504 Content={3349, 2969 KeyNumber=3033}, 3059, 3083 RemainingUses=150, 2865 Content={3160 Charges=1, 3034 Amount=1, 2970 KeyNumber=3802, 3287 Amount=3, 3349}, 2473 Content={3349, 3425, 3349, 3349, 2853 Content={3092, 3092, 3033 Amount=1, 3277 Amount=20}, 3349, 3349}}, 3552, 2970 KeyNumber=3012, 3504 Content={2977, 3291, 3189 Charges=2, 3267, 2868 Content={3384, 2973 KeyNumber=3520, 3291, 3084 RemainingUses=250, 3289, 2969 KeyNumber=4600, 3077, 3268}, 3504 Content={3310, 3283, 3188 Charges=3, 3188 Charges=1, 3188 Charges=1}, 2970 KeyNumber=3899, 2968 KeyNumber=3940}, 2865 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3587 Amount=1, 3308, 3504 Content={2857 Content={2969 KeyNumber=3033, 3272}, 3031 Amount=7, 3283, 2859}, 3308, 2865 Content={2854 Content={2868 Content={2865 Content={2868 Content={2867 Content={2865 Content={2867 Content={2865 Content={3504 Content={3504 Content={3050 SavedExpireTime=1595, 2969 KeyNumber=3033, 3050 SavedExpireTime=1790, 3504 Content={3504 Content={3504 Content={3504 Content={2865 Content={3457}, 3430, 3268, 2969 KeyNumber=3033, 3551}, 3299}, 3552}, 3268, 3003, 3299}, 3483}, 3421}, 3003, 3551, 3412}, 3003, 3003, 3267, 3412, 3304}, 3003}, 3289, 3289, 3097}, 3542, 3504 Content={2922 SavedExpireTime=22, 3504 Content={3085 RemainingUses=180, 2865 Content={2866 Content={3003}}, 2865 Content={2949, 3056 RemainingUses=200, 3085 RemainingUses=200, 3551}}, 2865 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 4871, 3056 RemainingUses=200, 3085 RemainingUses=200}}, 3017, 2853 Content={3452, 2865 Content={2874, 3084 RemainingUses=250, 3658, 3658, 3056 RemainingUses=200, 3012, 3085 RemainingUses=200, 3097, 3056 RemainingUses=200, 3085 RemainingUses=173, 3084 RemainingUses=96, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3551, 3084 RemainingUses=250}}, 2853 Content={3081 RemainingUses=5, 3059, 3456, 3085 RemainingUses=200, 3085 RemainingUses=73}, 3045 RemainingUses=200, 3045 RemainingUses=200, 3085 RemainingUses=200, 3083 RemainingUses=150, 3535, 3535, 3535, 3538, 2949, 3084 RemainingUses=250}, 3552, 3541, 3540, 3546, 2917 SavedExpireTime=2563, 3734 Amount=1}, 3586 Amount=8, 3602 Amount=2, 3598 Amount=100, 3740 Amount=1, 3579 Amount=1, 3605 Amount=36, 2992 Amount=5}, 2972 KeyNumber=3304, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 2969 KeyNumber=3007, 2969 KeyNumber=3003, 2969 KeyNumber=3006, 2969 KeyNumber=3005, 2969 KeyNumber=3004, 2969 KeyNumber=3002, 2973 KeyNumber=5050, 2973 KeyNumber=3520, 2969 KeyNumber=4600}, 3299}, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3004, 3457}}, 3507 String="kanon sama\nab'dendriel" Editor="Kanon Sama"}, 2854, 3502 Content={3265, 3269, 3492 Amount=10, 3492 Amount=100, 2970 KeyNumber=3012, 2853, 2868 Content={3582 Amount=6, 3585 Amount=1, 3586 Amount=4, 3035 Amount=21}}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3589 Amount=3, 3351, 3265, 3507 String="kanon sama\ndarashia" Editor="Skazi Loko Hijo"}, 3504, 3502 Content={2869}}, 
+               6 Content={3504 Content={2866 Content={3066, 3290, 3299, 3284 RemainingUses=1, 2865, 2853 Content={3583 Amount=11, 3586 Amount=8, 3595 Amount=1, 3598 Amount=56, 3601 Amount=1, 3585 Amount=20}, 3066, 3563, 2865, 3299}, 2865 Content={3492 Amount=12, 3483, 3492 Amount=100, 3483, 3483, 3492 Amount=100, 3492 Amount=100}, 3507 String="kanon sama\nvenore" Editor="Taro Sama"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3457, 3502}}

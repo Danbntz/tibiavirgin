@@ -1,0 +1,56 @@
+ID              = 9878849
+Name            = "Borma Java balta"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,76-88-82-114)
+CurrentOutfit   = (134,76-88-82-114)
+LastLogin       = 1147977058
+LastLogout      = 1147977070
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32649,31657,8]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,160198,0,179400,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,48082,3000,64000,1600)
+Skill = (2,387,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,90,110,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,845,845,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35127,1100,36404,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,69,1400,71,30)
+Skill = (8,51,0,10,0,0,0,0,0,0,0,26341,1100,26881,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,65,1100,105,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,62,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,65,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,187,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(46,1),(49,1),(69,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={3600 Amount=39, 3330}},
+               4 Content={3377},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2472 Content={}, 2916}}, 
+               2 Content={3502 Content={3300, 3300}}, 
+               3 Content={3504 Content={3374, 3507 String="Borma Java balta\nAb'dendriel\n" Editor="Aran Zephimas"}, 3506 String="Calirikur Antront\nAb'dendriel\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 2471 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3349, 3349, 3349, 3350, 3350}, 3506 String="Borma Java balta \nAb'dendriel\n\n\ngorilon cagado gasela maria", 3502 Content={3605 Amount=48, 3056 RemainingUses=200}}, 
+               6 Content={3502}}

@@ -1,0 +1,57 @@
+ID              = 10294486
+Name            = "Axtak"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,57-114-94-57)
+CurrentOutfit   = (134,57-114-94-57)
+LastLogin       = 1148221334
+LastLogout      = 1148224800
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32562,32772,6]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,186552,0,204800,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,240602,1100,263190,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,132,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,42129,1500,58185,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,875,1800,1237,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,8,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,26186,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,326,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,835,1100,911,20)
+Skill = (14,0,1200,0,0,0,1055,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,166,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,8,10,11,12,15,16,17,18,20,25,26,27,29,30,31,32,38,39,42,44,75,77,78,81,83,84,91}
+QuestValues = {(25,1),(26,1),(190,1),(191,1),(217,3),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               3 Content={2866 Content={3492 Amount=13, 2872 Content={2866 Content={2866 Content={3577 Amount=13, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3436, 3587 Amount=25, 3324}}}},
+               4 Content={3370},
+               5 Content={3147},
+               6 Content={3147},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3147}}
+
+Depots      = {4 Content={3502 Content={3492 Amount=5, 3031 Amount=8, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               5 Content={3502 Content={3286, 3577 Amount=9, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3026 Amount=1, 3492 Amount=22, 2920, 2920}}}, 
+               6 Content={3502}, 
+               7 Content={3583 Amount=3, 3502 Content={2833 String="Report 27AAF36\nAlthough offered with the best intentions, the reward the tradesmen from Venore had put on monkey tails was revoked after a while. Even though many adventurers and soldiers of fortune had been able to pick up their rewards, the situation was worse than ever as the ape raids came even more frequently and ferociously. The loss of lives and the senseless destruction of property had increased enormously. Sadly Jorgin Beargin, the spokesman of the Venoran traders, was called back to Venore to report about the recent losses.\nThe traders are now asking us to keep adventurers from provoking the ape men in any way. I fear we cannot offer much assistance in that matter since those \"tail hunters\" are numerous and usually well armed but we will try our best.\n"}}, 
+               8 Content={3502 Content={3035 Amount=36, 3056 RemainingUses=199}}}

@@ -1,0 +1,55 @@
+ID              = 13299749
+Name            = "Rammones"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-107-114-114)
+CurrentOutfit   = (128,114-107-114-114)
+LastLogin       = 1148237433
+LastLogout      = 1148247923
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32928,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,525217,0,548900,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,244133,1400,313485,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,138,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,30305,1100,33003,100)
+Skill = (7,67,0,10,0,0,0,0,0,0,0,71097,1100,75191,30)
+Skill = (8,27,0,10,0,0,0,0,0,0,0,5451,1200,6405,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,346,1200,372,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,60,1200,109,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,677,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1740,1100,1769,20)
+Skill = (14,0,1200,0,0,0,353,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,85,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,11,15,20,29,30,44,48,49,51}
+QuestValues = {(18,1),(59,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(115,1),(121,1),(153,1),(190,1),(191,1),(208,1),(226,1),(253,1)}
+Murders     = {1145921016,1146094192,1147293660}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2865 Content={3446 Amount=66, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3457, 3003, 2872 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3200 Charges=3, 3200 Charges=3, 3200 Charges=1, 3083 RemainingUses=150}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3446 Amount=91}}
+
+Depots      = {2 Content={3504, 3504 Content={3507 String="Ramonesmx\nkazordoon" Editor="Xena of future"}, 3504 Content={3504 Content={3504 Content={3504 Content={2862}}}, 3507 String="Ramonesmx\nkazordoon" Editor="Ramonesmx"}, 3502 Content={2862}}, 
+               3 Content={3502}, 
+               6 Content={3504 Content={3172 Charges=1, 3164 Charges=3, 3188 Charges=2, 3188 Charges=2, 3164 Charges=1, 2853 Content={2853 Content={3367, 3367, 3354, 3367, 3377}, 3410, 3367, 3354, 3367, 3354}, 3507 String="Ramonesmx\nvenore" Editor="Ramonesmx"}, 3504 Content={2853 Content={3285, 3285, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3377, 3354, 3354, 3354}, 3354, 3377, 3367, 3354, 3354, 3354}, 3354, 3354, 3354, 3367, 3354}}}, 3285, 3285, 3285}, 3507 String="Ramonesmx\nvenore" Editor="Ramonesmx"}, 3483, 3504 Content={3507 String="ramonesmx\nvenore" Editor="Rifadito"}, 3083 RemainingUses=150, 3097, 3504 Content={2853 Content={2853 Content={3353, 3367, 2853 Content={3367, 3354, 3354, 3354, 3367, 3354, 3367}, 3367, 3367, 3354, 3354, 3367}, 2853 Content={2853 Content={3377, 3377, 3377, 3354, 3354, 3354}, 2853 Content={3285, 3354, 3354, 3354, 3367, 3354}}, 3367, 3354}, 3507 String="Ramonesmx\nvenore" Editor="Ramonesmx"}, 3504 Content={2853 Content={2853 Content={3377, 3377, 3377, 3367, 2853 Content={3367, 3367, 3354, 3367, 3367, 3354}, 2853}, 2853 Content={2853 Content={2853 Content={3377}}, 2853 Content={3377}}}, 3507 String="Ramonesmx\nvenore" Editor="Ramonesmx"}, 2853, 3504 Content={3354, 2853 Content={2853}, 3507 String="Ramonesmx\nvenore" Editor="Ramonesmx"}, 2870 Content={3449 Amount=100, 3449 Amount=93, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}, 2866 Content={3050 SavedExpireTime=1722, 3349, 3349, 3084 RemainingUses=3, 3350, 3350, 3056 RemainingUses=199, 3349, 3287 Amount=1, 3054 RemainingUses=200, 3097 SavedExpireTime=3461, 3053, 3092, 3298 Amount=4, 3448 Amount=38}, 2866 Content={3003, 2874, 3327}, 2872 Content={3188 Charges=3, 3188 Charges=1, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2872 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3736 Amount=1}, 2868 Content={2854 Content={3349, 3349, 3285, 3354, 3410, 3285, 3285, 3285}, 2955}, 2867 Content={3098, 3084 RemainingUses=145, 3308, 3085 RemainingUses=108, 3734 Amount=1, 3598 Amount=7, 3367, 3350, 3349}, 2473 Content={2854, 3457, 3492 Amount=6, 3483, 2862 Content={3349, 3349, 3349}, 2872 Content={2854 Content={3031 Amount=23, 3031 Amount=100, 3035 Amount=16, 2868, 2854, 2854}, 2862, 2862, 2969 KeyNumber=3033, 2969 KeyNumber=5010}}, 3504 Content={3004, 3285, 3552, 3065, 3065, 3076}, 3502 Content={2865, 2854 Content={3349, 3046 SavedExpireTime=2794, 3350, 3456, 2969 KeyNumber=5000}, 2870 Content={2854, 2870, 2870 Content={3736 Amount=1, 3598 Amount=1}}, 3065, 3299, 2872, 2868 Content={3551}, 2853 Content={3350, 2983}, 2865 Content={2853 Content={3059}, 2853, 3066}, 2865 Content={2854, 2857 Content={3456, 3046, 3077}}}}}

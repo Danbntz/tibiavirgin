@@ -1,0 +1,57 @@
+ID              = 9709345
+Name            = "Welczer"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,95-132-126-114)
+CurrentOutfit   = (129,95-132-126-114)
+LastLogin       = 1147884724
+LastLogout      = 1147885023
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,146952,0,156200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,23814,3000,64000,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,32107,1100,33003,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,51,0,10,0,0,0,0,0,0,0,26190,1100,26881,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1372,1100,1428,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(32,1),(33,1),(34,1),(60,1),(61,1),(96,1),(97,1),(113,1),(114,1),(125,1),(126,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2868 Content={3492 Amount=40, 2920, 3457, 3003, 2920, 2920, 2854, 3577 Amount=1, 3483}},
+               4 Content={3370},
+               5 Content={3280},
+               6 Content={3428},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2922 SavedExpireTime=237}}
+
+Depots      = {0 Content={3502 Content={3552, 3031 Amount=5, 2920, 3483, 2992 Amount=5, 3031 Amount=100, 3412, 3504}}, 
+               1 Content={3056 RemainingUses=199, 3147, 3425, 3008, 3504 Content={3507 String="Welczer\nCarlin" Editor="Welczer"}, 2853 Content={2955, 3658}, 3504 Content={3507 String="Welczer \nCarlin" Editor="Kolo-Runacz", 2644, 2644, 2644}, 3267, 3504 Content={3507 String="Welczer\nCarlin" Editor="Kolo-Runacz"}, 3355, 3412, 2853, 3506 String="Welczer\nCarlin\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\nCzesc Welczer!\n\nTwoje nowe wymagania to:\n1. Skille ze sworda 50\n2.Skille z shieldinga 42\n\n                    I pamietaj narazie trenuj na trollach, a potem idz na dk i na Smugglerach!                       \n\n                                     Good Luck!!!  \n\n                                              Twój Trener" Editor="Kolo-Runacz", 3504 Content={3507 String="Welczer \nCarlin" Editor="Kolo-Runacz"}, 3504 Content={3507 String="Welczer \nCarlin" Editor="Kolo-Runacz"}, 3504 Content={3507 String="Welczer\nCarlin \nSwordzik dla ciebie\n" Editor="Mariusz Najemnik"}, 3504 Content={3505 String="Welczer\nCarlin\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  oz ty lolku maly ty !!!   Masz ten prezent sobie ode mnie i zacieszaj bez sworda !! :P Nara" Editor="Welczer", 3507 String="Welczer\nCarlin\n" Editor="Welczer"}, 3502 Content={2854 Content={3075, 3074, 3075, 2868, 2853 Content={3301, 3066}, 2868 Content={3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3572, 3505 Editor="Kolo-Runacz"}, 2868, 3198 Charges=5, 2870 Content={2656, 2644, 2922 SavedExpireTime=228, 2920, 2920, 2920, 2920 SavedExpireTime=538, 3355, 3377, 3160 Charges=1}, 2854 Content={3383, 3377, 3008, 3008}, 3198 Charges=5, 3293, 3300, 3504 Content={2667, 3003, 3559, 3561, 3355, 3267, 2853 Content={2853}, 3507 String="Welczer\nCarlin"}, 3598 Amount=2, 2853 Content={3114 Amount=9, 3008, 2854 Content={3598 Amount=1}, 3012, 3056 RemainingUses=200}, 2853 Content={3593, 3592, 3595 Amount=1, 3601 Amount=1, 3590 Amount=5, 3723 Amount=2}, 3293, 3587 Amount=1, 3504 Content={3198 Charges=5, 3198 Charges=5}, 3506 String="Welczer\nCarlin\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nSiemka.\nUmówmy sie, ze jak bedziemy chcieli, zeby druga osoba (Ty lub ja) wlazla na Tibie to puszczamy sobie wedke. Ok? Odpisz.\n\nPS. I gramy bez hamstwa: zabieranie loota branie wszytkich potworów dla siebie oraz zabieranie (przesuwanie) truposzy.    :) :D x) xD :] x]\n\n                   Dziutrix, Dziutrix'owy Runacz\n                                                                  Carlin\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~", 3507 String="pogromsa szczurow \nCarlin", 2865 Content={3375, 3377, 3305, 3307, 3375, 3301, 3299, 3279, 3351, 3409, 3265, 3059, 3375, 2991, 3291, 3372, 3375, 2991, 3446 Amount=3}, 2868 Content={3097 SavedExpireTime=3598, 3031 Amount=60, 3031 Amount=100, 3483, 2868, 2854 Content={3148 Charges=2, 3291, 3412}, 3578 Amount=40, 2872 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3035 Amount=55, 2969 KeyNumber=3033, 3030 Amount=1}, 2854 Content={3285, 3565, 3272, 3273, 3377}, 2853 Content={3050, 3565, 3300, 3468, 3467, 3293}, 2853 Content={2920, 2920, 2920}, 2853 Content={2920, 2920, 2920, 2955, 2920, 2922 SavedExpireTime=94, 2920, 2920}, 3507 String="Welczer\nCarlin", 3504, 2920, 3507 String="Wopasolka\nThais", 3507, 3506 String="Welczer\nCarlin\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nSluchaj, ja chce sie trzymac z wami obydwoma, i mysle ze powinienes oddac mu miecz a nie zachowywac sie jak jakis thief. I jesli dzwonie to odbierz tem telefon. Przez 10 dni bylismy razem w tym zamku, a Ty teraz Zbyszkowi puszczasz takie gówno. Zastanów sie nad tym. Ja Ci zaufalem, ze mnie ropniesz na quescie, i gralem w fast hand moja halabarda, a Ty teraz pokazujesz ze nie warto sie z Toba trzymac. Powtarzam... JA CHCE SIE TRZYMAC I Z TOBA I ZE ZBYSZKIEM. I mam nadzieje ze mu oddasz tego sworda i sie pogodzicie i sie na mnei nie obrazisz...\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~", 3506 String="Welczer\nCarlin\n\nCiekawe, czy dojdzie :P"}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={3504 Content={3507 String="nowy master niszczyciel\ncarlin\n\n\n" Editor="Nowy Master niszczyciel"}, 3504, 2920, 2920, 3469, 3469, 3128, 3129, 3129, 3129, 3492 Amount=3, 3012, 2876}}}

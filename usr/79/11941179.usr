@@ -1,0 +1,57 @@
+ID              = 11941179
+Name            = "Demon of Lord Skull"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-76-114-0)
+CurrentOutfit   = (130,114-76-114-0)
+LastLogin       = 1147961764
+LastLogout      = 1147961777
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31781,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,41846,0,47000,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,51157,1100,57519,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,207,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,9102,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2312,2000,3150,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2178,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,37,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1492,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,11,20,25,26,29,44}
+QuestValues = {(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(60,1),(61,1),(113,1),(114,1),(115,1),(223,1),(333,1)}
+Murders     = {1146484431}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2868 Content={3148 Charges=2, 3031 Amount=56, 3003, 3160 Charges=1, 2868 Content={3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3457}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3026 Amount=3, 2906, 3301, 3425, 3359, 3265, 3066, 3289, 2868 Content={2868, 2854, 2854}, 2973 KeyNumber=3520, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3425, 2970 KeyNumber=4601, 2920, 2969 KeyNumber=4600, 2920, 2854 Content={3074, 3031 Amount=2, 3375, 3017, 3425, 3059, 3565, 3565, 3565, 3503, 2970 KeyNumber=3802, 2969 KeyNumber=4600, 3003}, 3505 String="Knight of the Scalibur\nRookgaard\nkra tu eh um cuzau vai toma nu cu manou tu eh um fdp manu lvl 9ml5" Editor="Demon of Lord Skull", 2955, 3502 Content={3056 RemainingUses=200, 3003, 3552, 3552, 3552}}, 
+               2 Content={3506 String="Demon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai assim msm\ncuzao\nDemon of Lord Skull\nKazordoon\nvc mata ratu seu fdp?\nse mata vai toma nu cu msm se naum mata vai", 3502}, 
+               3 Content={2853 Content={3504, 3504, 3504}, 2920, 3447 Amount=9, 3504 Content={3507 String="knight drakra will\nab'dendriel\n"}, 3354, 3505, 2920 SavedExpireTime=599, 3502}, 
+               6 Content={3362, 3502}}

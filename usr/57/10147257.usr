@@ -1,0 +1,61 @@
+ID              = 10147257
+Name            = "Chamoi"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (128,79-88-114-94)
+CurrentOutfit   = (128,79-88-114-94)
+LastLogin       = 1148256164
+LastLogout      = 1148256363
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33125,32831,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1401023,0,1423500,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,443757,3000,582400,1600)
+Skill = (2,740,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,217,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,74,0,10,0,0,0,0,0,0,0,482589,1100,489370,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,76,0,10,0,0,0,0,0,0,0,282912,1100,296174,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,38,1100,50,50)
+Skill = (10,34,0,10,0,0,0,0,0,0,0,4872,1100,4917,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,54,0,10,0,0,0,0,0,0,0,13454,1100,14378,20)
+Skill = (14,0,1200,0,0,0,267,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(14,1),(16,1),(20,1),(32,1),(33,1),(34,1),(46,1),(59,1),(96,1),(97,1),(98,1),(100,1),(137,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3),(224,1),(278,2),(280,2),(281,1),(332,1)}
+Murders     = {1145922173}
+
+Inventory   = {1 Content={3369},
+               2 Content={3008},
+               3 Content={2865 Content={3031 Amount=77, 2871 Content={2871 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2871 Content={2870}}, 3505 String="Chamoi hunting here\nleave or msg\n;)" Editor="Chamoi", 3505 String="Chamoi hunting here\n leave or msg\n;)" Editor="Chamoi", 3046, 3457, 3003, 3416, 3505 String="llego dufinin a atakarme hahaaha pero por ke taba mtando al tomacito lol...\n" Editor="Chamoi", 3046, 2863 Content={3052 SavedExpireTime=298, 3052 SavedExpireTime=885, 3198 Charges=2, 3091 SavedExpireTime=1295, 3465, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}},
+               4 Content={3381},
+               6 Content={3281},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={2922 SavedExpireTime=27}}
+
+Depots      = {0 Content={3504 Content={2853 Content={2970 KeyNumber=3801, 2970 KeyNumber=3801, 2970 KeyNumber=3802}, 3504 Content={2866 Content={2865 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}, 3082 RemainingUses=50}, 3507 String="chamoi\ncarlin", 2868 Content={2853 Content={2854 Content={2867 Content={3045 RemainingUses=200, 3003}, 2854 Content={2862, 2870 Content={3293, 3293, 3293, 3293, 3293, 3293}}, 2970 KeyNumber=3142, 3304, 3289, 3412, 3003, 3003, 3457}, 2870 Content={2853 Content={3504 Content={3504 Content={2871, 2871, 2854 Content={2854 Content={2854, 2854, 2854, 2854, 2854}, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}}, 2870 Content={2870, 2870, 2870, 2870}, 2854 Content={2870, 2870, 2870, 2870, 2854, 2854, 2866, 2870, 2854, 2866, 2866, 2870, 2870, 2870, 2870, 2870, 2870, 2854, 2870, 2854}, 3507 String="eternal druida\nkazordoon" Editor="Eternal Druida"}, 2866, 2867, 2867, 2871, 2868, 2870, 2870}}}, 3084 RemainingUses=250}, 3049 SavedExpireTime=358, 3050, 3091, 3098, 3049 SavedExpireTime=597, 3093 SavedExpireTime=1598}}, 2473 Content={3504 Content={3577 Amount=24, 3586 Amount=10, 3598 Amount=54, 3585 Amount=4, 3582 Amount=70}, 3577 Amount=100, 3577 Amount=51, 3578 Amount=20, 3578 Amount=100, 3578 Amount=100, 3577 Amount=100, 3577 Amount=100, 3582 Amount=100}, 2871 Content={2871 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3507 String="chamoi\nthais" Editor="Chamoi"}, 3504 Content={2870 Content={2854 Content={2854 Content={2854}}}, 3349, 3507 String="vivi mage\nthais" Editor="Vivi Mage"}, 3502 Content={3035 Amount=13, 3457, 2854 Content={2870 Content={2870 Content={2870 Content={2870}}, 3349}}, 3291}}, 
+               1 Content={3506 String="Chamoi\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3267, 3412, 3502 Content={3503}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3503, 3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3273, 3582 Amount=42, 3582 Amount=100, 3507 String="chamoi\nvenore" Editor="Chamoi"}, 3504 Content={2970 KeyNumber=3800, 2854 Content={3282, 3412, 3362, 3291, 3267, 3308}}, 3502 Content={3267, 3552, 3431}}, 
+               7 Content={2853 Content={3354, 3354, 3354, 3354, 3354, 2853 Content={3354, 3367, 3354, 3367, 3354, 3367, 3354, 2853 Content={3354, 3354, 3367, 3354, 3354, 3354, 3354, 2853 Content={3354, 3367, 3367, 3367, 3354, 3354, 2853 Content={3286, 3286, 3286, 3286, 3367, 3367, 3354, 2853 Content={3264, 3286, 3286, 3354, 3354, 3286, 3354, 2853 Content={3354, 3286, 3286, 3354, 3354, 3367, 3354, 2853 Content={3354, 3354, 3354, 3367, 3354, 3354, 3367, 3354}}}}}}}}, 2866 Content={3299, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3503 Content={3577 Amount=15, 2854 Content={3436, 2865, 2920 SavedExpireTime=28, 2853 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}, 3351, 3425, 2922 SavedExpireTime=199, 3552, 2853 Content={3483, 3412, 3378, 3374, 3492 Amount=100, 3492 Amount=100}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003}, 3507}, 3502 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3043 Amount=3, 3035 Amount=51, 3029 Amount=5, 3032 Amount=15, 3033 Amount=28, 3042 Amount=41, 3505 String="wei no toques las perlas plis =)" Editor="Chamoi"}}, 
+               8 Content={3502}}

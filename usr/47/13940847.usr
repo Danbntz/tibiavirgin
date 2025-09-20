@@ -1,0 +1,49 @@
+ID              = 13940847
+Name            = "Lady Latuzz"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (140,59-78-78-97)
+CurrentOutfit   = (140,59-78-78-97)
+LastLogin       = 1147555203
+LastLogout      = 1147556052
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33297,31968,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,101636,0,116000,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,67315,1100,72958,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,373,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6516,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,173,2000,350,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1131,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1095,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,198,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,10,11,15,19,20,29,30,39,44,76,81,87,88,89}
+QuestValues = {(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(59,1),(87,1),(190,1),(191,1),(224,1),(257,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3583 Amount=1, 3035 Amount=2, 3031 Amount=78, 3031 Amount=100, 3457, 3003}},
+               6 Content={3189 Charges=2}}
+
+Depots      = {4 Content={3506 String="Warning!\n\nThe monthly rent of 2710 gold\nfor your house \"Cormaya 8\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2853 Content={2853 Content={3377, 3465, 3367, 3286, 3367, 2853 Content={3354, 3354, 3367, 3354, 3367, 3354, 3377, 2853 Content={3354, 3286, 3354, 3367, 3377, 3354, 3354, 2853 Content={3367, 3354, 3354, 3354, 3367, 3354, 3354, 2853 Content={3367, 3377, 3286, 3354, 3354, 3377, 3367, 2853 Content={3354, 3354, 3367, 3286, 3354, 3377, 3354, 2853 Content={3286, 3354, 3354, 3367, 3367, 3354, 3377}}}}}}}, 3367, 3354, 3354, 3377, 3354, 2853 Content={3264, 3354, 3354, 3354, 3367, 3367, 2853 Content={3282, 3367, 3367, 3286, 3286, 3367, 3286, 2853 Content={3286, 3286, 3286, 3286, 3377, 3372, 3354, 2853 Content={3354, 3367, 3264, 3367, 3264, 3367, 3286, 2853 Content={3367, 3367, 3354, 3354, 3354, 3367, 3354, 3354}}}}}}, 3377, 3377, 3301, 3301, 3301, 3301, 3504 Content={3504 Content={2854 Content={3450 Amount=60, 3450 Amount=100, 3450 Amount=100, 3450 Amount=100, 3081 RemainingUses=5, 3081 RemainingUses=3, 2854 Content={3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5, 2871 Content={2991, 2991, 2991, 3046 SavedExpireTime=2663, 3318}}}, 3507 String="Lady Latuzz\ndarashia" Editor="Lady Latuzz"}, 3507 String="Lady Latuzz\nEdron" Editor="Lady Latuzz"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya 8\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3367, 3502 Content={3077, 2819 String="Seems I fell in this hole and can't get out anymore. Unfortunatly there is no friend near to pull me up with a rope. What have I done to deserve this? What?", 2828 String="On Netlios VI books about adventurers\n\nI think Netlios is a liar. I followed all tips given by him in his books, but i didn't become a great adventurer.\nI really don't know what to do - but I think, becoming a farmer instead of an adventurer is a good choice. Sheeps are not as dangerous as dragons are, and it's better to drink a glass of milk than a glass of green slime!\nMaybe it would help to find the last two parts of \"Dangers of Adventures\", because i only read the first four parts... the others are vanished a long time ago... if I could only find them, but how should I without being an adventurer? I need the books to be an adventurer, and to get the books, I need to be an adventurer!\nBeing a farmer is really better for my nerves...", 3054 RemainingUses=200, 3556, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3578 Amount=99, 3578 Amount=100, 3556, 3492 Amount=77, 1781 Amount=19}}, 
+               5 Content={3298 Amount=1, 3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="lady latuzz\nankrahmun" Editor="Cardo Zort"}, 3502 Content={3031 Amount=65}}}

@@ -1,0 +1,54 @@
+ID              = 11512063
+Name            = "Alex Quintanilla"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,0-114-114-114)
+CurrentOutfit   = (129,0-114-114-114)
+LastLogin       = 1147331638
+LastLogout      = 1147331857
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32377,32224,6]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,175059,0,179400,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,125513,1100,127268,1600)
+Skill = (2,187,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,70,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,11799,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,13,2000,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,703,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,66,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1189,1100,1280,20)
+Skill = (14,0,1200,0,0,0,758,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,19,20,22,25,26,27,29,30,38,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(121,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3059, 3031 Amount=57}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={2869, 3003, 3097 SavedExpireTime=3575, 2826 String="Flora and Fauna of Darama", 3357, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3289, 3409, 3003, 3031 Amount=100, 3031 Amount=100, 3066, 2853 Content={3425, 2920 SavedExpireTime=586}, 3504 Content={3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but I have no proof yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3410, 3147, 3147, 3147, 3504, 3504 Content={3507 String="meldrom\nthais" Editor="Ladytron'Zoe"}, 3504 Content={3507 String="Mac'Dre\nThais\n" Editor="Mac'Dre"}, 3504, 3507 String="Alex Quintanilla\nThais" Editor="Alex Quintanilla"}, 2854 Content={3372, 3285, 3736 Amount=1, 2920, 2920, 2922 SavedExpireTime=3, 2920, 2920, 2920 SavedExpireTime=598, 2920 SavedExpireTime=599, 2920, 2920, 2920, 2920, 3483, 3003, 3483, 3349, 3350}, 3425, 3367, 3367, 3483, 2853 Content={3308, 3448 Amount=2}, 3425, 2859 Content={3003, 3056 RemainingUses=200, 3279, 3457, 3275, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3384}}}}, 
+               3 Content={3502 Content={3492 Amount=23, 2853, 2920, 3446 Amount=2, 3377}}, 
+               6 Content={3502}}

@@ -1,0 +1,59 @@
+ID              = 8127102
+Name            = "Mythikuz"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (128,116-113-132-0)
+CurrentOutfit   = (128,116-113-132-0)
+LastLogin       = 1148178796
+LastLogout      = 1148178800
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32641,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,90353,0,98800,100)
+Skill = (1,31,0,0,0,0,0,0,0,0,0,295756,1100,321820,1600)
+Skill = (2,238,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,97,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2604,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,135,2000,150,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2268,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,15,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,34,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,15365,1100,15835,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,13,16,17,18,19,20,21,23,25,26,27,29,30,44,45,55,76,81,86,87,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(55,1),(77,1),(78,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(115,1),(140,1),(141,1),(153,1),(190,1),(191,1),(217,3),(226,1),(253,1),(254,1),(333,1)}
+Murders     = {1146772099,1146873151,1146947049}
+
+Inventory   = {1 Content={3375},
+               3 Content={2870 Content={2853 Content={3031 Amount=60, 3266, 3492 Amount=52, 3092}, 3003}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3074}}
+
+Depots      = {0 Content={3504 Content={3507 String="mythikuz\nThais\n" Editor="Khanor"}, 3502}, 
+               1 Content={3502 Content={2868 Content={3198 Charges=3, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 
+               2 Content={3377, 3349, 3349, 3046, 3003, 3056 RemainingUses=177, 3502}, 
+               3 Content={3502 Content={2970 KeyNumber=3012, 2969 KeyNumber=3001, 2969 KeyNumber=3002, 2969 KeyNumber=3003, 2969 KeyNumber=3004, 2969 KeyNumber=3005, 2969 KeyNumber=3007, 2969 KeyNumber=3006}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Mythikuz\ndarashia"}, 3504 Content={3507 String="mythikuz\ndarashia"}, 3503 Content={3504 Content={}, 3504 Content={}, 3503 Content={}, 3503 Content={}, 3503 Content={}, 3503 Content={}, 3503 Content={}, 3503 Content={}, 3503 Content={3503 Content={}}}, 3502 Content={2866 Content={}, 2869 Content={3003}, 2866 Content={}, 2866 Content={3351, 3338, 3483, 3483, 3409}, 2866 Content={3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3017, 3045 RemainingUses=200, 3054 RemainingUses=200}, 2854 Content={3457, 3457}}}, 
+               6 Content={2867 Content={}, 3273, 3349, 3504 Content={3507 String="mythikuz\nvenore"}, 3035 Amount=5, 2867 Content={}, 3031 Amount=75, 3457, 3502 Content={}}, 
+               7 Content={3003, 2867 Content={}, 2866 Content={3457, 3003, 2867 Content={3191 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2867 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={2867 Content={}, 2867 Content={2867 Content={2867 Content={}, 2867 Content={2867 Content={}}}}, 2867 Content={2867 Content={2867 Content={2866 Content={2866 Content={}}}}}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={2866 Content={2866 Content={}}}}, 3502 Content={2871 Content={}, 2871 Content={}, 2871 Content={}, 2871 Content={3282, 3282}, 2871 Content={}, 2866 Content={3031 Amount=87, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}}

@@ -1,0 +1,54 @@
+ID              = 8726811
+Name            = "Eviil Shiryu"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-38-76-114)
+CurrentOutfit   = (128,114-38-76-114)
+LastLogin       = 1145227856
+LastLogout      = 1145227859
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31683,5]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,268501,0,295200,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,538084,1100,582469,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,265,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,29207,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2741,2000,3150,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,23428,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,61,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,54,0,10,0,0,0,0,0,0,0,13268,1100,14378,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,21,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,3,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,13,16,17,18,19,20,21,27,28,29,30,44,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3483, 3003, 3031 Amount=67, 2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3190 Charges=3, 3148 Charges=3, 3200 Charges=3, 3164 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3172 Charges=3}, 3457}},
+               5 Content={3074},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3503 Content={3507 String="eviil shiryu\ncarlin" Editor="Eviil Shiryu"}}}
+
+Depots      = {1 Content={3322, 3506 String="eviil shiryu\ncarlin\n\nwe nos unimos a los biohazards ya estas invited aya unete plx\n\namoth", 3357, 2644, 3200 Charges=3, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5}, 2854 Content={2868, 2854, 2854, 2854, 2868, 2868}, 2854 Content={2920 SavedExpireTime=205, 2920, 2920, 2920, 3448 Amount=3, 3350, 3003, 3446 Amount=1}, 2854 Content={2867 Content={3147, 3200 Charges=2, 3191 Charges=1, 3188 Charges=3, 3192 Charges=2, 3188 Charges=3, 3148 Charges=1, 3191 Charges=2}, 3351, 3279, 3372, 3310, 2644, 3425, 3311, 3457, 3003}, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3188 Charges=3, 3188 Charges=3, 3031 Amount=24, 3588 Amount=21}, 2853, 2856 Content={2856}, 2853 Content={3597 Amount=1, 3008}, 3300, 3504 Content={3286, 3410, 2874, 2874, 2874, 2874, 3507 String="Eviil shiryu\nCarlin"}, 2854 Content={2853 Content={2853}, 3377, 3375, 3362, 3430, 3377, 3509, 3552, 2821 String="Hardek *\nBozo *\nSam ****\nOswald \nPartos ***\nQuentin *\nTark ***\nHarsky ***\nStutch *\nFerumbras * \nFrodo ** \nNoodles **** \n", 2955, 3003}, 3504 Content={3507 String="Eviil shiryu\nCarlin", 3483, 3483}, 3509, 2853 Content={3456, 3374, 3446 Amount=11, 2970 KeyNumber=4601, 2969 KeyNumber=4603, 2973 KeyNumber=3520}, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 3059, 3054 RemainingUses=190, 2854 Content={3031 Amount=11, 3035 Amount=14, 3031 Amount=100, 3031 Amount=100, 2857 Content={3052 SavedExpireTime=12, 3052}, 2853 Content={3492 Amount=100}}, 3282, 3502 Content={3191 Charges=1, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2868 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2854 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2868 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2865 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3357, 3597 Amount=3, 3595 Amount=3, 3602 Amount=4, 2853 Content={3358, 2853 Content={3273, 3286, 3286, 3358, 3410, 3286, 3264}, 3273, 3273, 3264, 3286, 3273}, 3031 Amount=45, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3502 Content={2874, 2874, 2874, 2874, 2874}}}

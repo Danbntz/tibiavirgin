@@ -1,0 +1,50 @@
+ID              = 10597347
+Name            = "Acko'Archer"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,75-0-0-132)
+CurrentOutfit   = (134,75-0-0-132)
+LastLogin       = 1148253026
+LastLogout      = 1148253028
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32680,31683,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,362781,0,368300,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,142115,1400,157982,1600)
+Skill = (2,378,395,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,235,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,890,890,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,26,0,10,0,0,0,0,0,0,0,3697,1100,4054,100)
+Skill = (7,61,0,10,0,0,0,0,0,0,0,39986,1100,42312,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,1288,1200,1297,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,474,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,102,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,20,29,42,44,51}
+QuestValues = {(111,1),(112,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {6 Content={3277 Amount=1},
+               10 Content={3074}}
+
+Depots      = {0 Content={2854, 3504 Content={3507 String="acko'archer\nthais"}, 3504 Content={2866, 3507 String="acko'archer\nthais"}, 3502}, 
+               1 Content={3502}, 
+               3 Content={3031 Amount=50, 3350, 3504 Content={3507 String="Acko'archer\nab'dendriel" Editor="Hypnoz"}, 3277 Amount=2, 3504 Content={3507 String="acko'archer\nab'dendriel" Editor="Chipi Gambler"}, 3504 Content={3507 String="Acko'Archer\nAb'Dendriel"}, 3504 Content={3507 String="Acko'Archer\nAb'Dendriel"}, 3457, 3504 Content={3059, 3316, 3270, 3492 Amount=35}, 3502 Content={3504 Content={3507 String="Chipi Gambler\nab'dendriel"}, 3504 Content={3507 String="acko'archer\nab'dendriel"}}}, 
+               5 Content={3504 Content={3507 String="acko'archer\ndarashia"}, 3506 String="Acko'Archer\nDarashia\n\ntake care boy\ndont forget that i luv ya \n:*\nKrEn [w*h]", 3507 String="Acko'Archer\ndarashia", 3504 Content={3507 String="Acko'archer\ndarashia\naqui va!!! :>\n"}, 3504 Content={3507 String="acko'archer\ndarashia", 3504 Content={3507 String="Robyn'Hood\nab'dendriel"}}, 3502}, 
+               6 Content={3502}}

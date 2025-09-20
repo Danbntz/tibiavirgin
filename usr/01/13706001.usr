@@ -1,0 +1,48 @@
+ID              = 13706001
+Name            = "Jizar Arus"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (130,0-132-113-108)
+CurrentOutfit   = (130,0-132-113-108)
+LastLogin       = 1144885284
+LastLogout      = 1144885512
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32083,32198,7]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,56,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,64,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,104,2000,150,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,66,2000,150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,4,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(223,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3292, 3292, 3292, 3031 Amount=13, 2853 Content={3292, 2816 String="As we traveled through the dungeon tunnels we came to a big cave. In the light of our torches we saw several eyes glowing in the darknes, then the trolls attacked, silent as usual. We imediately dropped our torches and raised our shields to block the first attack, then we counterattacked. Soon the floor was wet with blood, ours and theirs. They were verry skilled in blocking our blows and I am sure with inferior weapons we would have hacked on this beasts for an eternity."}, 2920 SavedExpireTime=591, 3292, 3292}},
+               4 Content={3562},
+               5 Content={3268},
+               10 Content={2920 SavedExpireTime=75}}
+
+Depots      = {}

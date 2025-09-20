@@ -1,0 +1,53 @@
+ID              = 13877463
+Name            = "Shavo De Kaka"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,2-114-114-2)
+CurrentOutfit   = (134,2-114-114-2)
+LastLogin       = 1147674273
+LastLogout      = 1147675782
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32919,32072,6]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,571658,0,601800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,188752,3000,193600,1600)
+Skill = (2,326,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,213254,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,66,0,10,0,0,0,0,0,0,0,106849,1100,113880,50)
+Skill = (9,23,0,10,0,0,0,0,0,0,0,1250,1100,1398,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,607,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(111,1),(112,1),(124,1),(137,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3357},
+               5 Content={3425},
+               6 Content={3297},
+               8 Content={3552}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={3457, 3003, 3502}, 
+               4 Content={3502 Content={3351, 3425, 3425, 3425}}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={2854 Content={3031 Amount=4}, 2853 Content={2971 KeyNumber=3702, 3085 RemainingUses=200, 3271, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}}}, 
+               7 Content={3502}}

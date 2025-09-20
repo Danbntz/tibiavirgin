@@ -1,0 +1,57 @@
+ID              = 10646065
+Name            = "Frank Astelaf"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,59-118-115-58)
+CurrentOutfit   = (134,59-118-115-58)
+LastLogin       = 1144478414
+LastLogout      = 1144478422
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32680,31685,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,262774,0,295200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,83160,3000,193600,1600)
+Skill = (2,470,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,58,130,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,945,945,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,28888,1100,29912,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,50,0,10,0,0,0,0,0,0,0,23332,1100,24392,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,694,1100,796,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,6000,6000,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(60,1),(96,1),(97,1),(98,1),(100,1),(125,1),(126,1),(190,1),(191,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3054 RemainingUses=200},
+               4 Content={3357},
+               5 Content={3412},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3551}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2471 Content={2471 Content={2469 Content={2469 Content={3279, 3279, 3279, 3318}, 2469, 2469}, 2473 Content={3551, 3572, 2949, 2950, 3576, 3563, 3574, 3559, 3565}}, 2473 Content={2471 Content={3291}, 2469 Content={3384}, 2473 Content={2471 Content={3289, 3310, 3327, 3282}, 3459, 3459, 3310, 3299, 3299, 3301}}}, 2473 Content={2473 Content={3483, 3457, 2868 Content={2968 KeyNumber=3940, 2970 KeyNumber=3012, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 2969 KeyNumber=3033}, 2854 Content={3308, 2853 Content={3453, 3492 Amount=81, 3492 Amount=100, 3492 Amount=100}, 3457, 3293, 3483, 3483, 3059, 3456}}, 2472 Content={2857 Content={2857 Content={3084 RemainingUses=250, 2989, 3084 RemainingUses=152, 3014, 3017, 3056 RemainingUses=200}, 3007, 3045 RemainingUses=163, 3008, 3083 RemainingUses=150, 3008}, 2469 Content={3084 RemainingUses=250, 3097, 3046, 3077, 3084 RemainingUses=250, 3008, 2853 Content={3082 RemainingUses=50, 2853 Content={3046 SavedExpireTime=2999}, 3008, 3008, 3012, 3012, 3012}}}}, 2471 Content={2472 Content={2865 Content={3446 Amount=100, 3446 Amount=1, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}}, 2471 Content={2853 Content={2853 Content={3535, 3535, 3535, 3535, 3535, 3535, 3535, 3535}, 2853 Content={3541, 3541, 3541, 3541, 3541, 3541, 3541, 3541}, 2853 Content={3546, 3545, 3544, 3544, 3543, 3543, 3542, 3542}, 2853 Content={3537, 3537, 3538, 3539, 3538, 3536, 3540, 3536}}, 2473 Content={2842, 2955, 2955, 2948, 3734 Amount=1, 3463, 3406, 3304, 2957, 2859 Content={3658, 3658, 3658, 3658, 3658, 3658}}, 2854 Content={2854 Content={3505, 3505, 3505, 3505, 3505, 3505, 3505, 3505, 3505, 3505, 3505}, 2991, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2856, 3506 String="Frank Astelaf\nAb'dendriel\n\nWe ke pedo con la Guild me dijeron que esta hunted.\n22:00 Blin Blin: 21:49 Kito'pax: hey la guild ta hunted we.\nA Blin Blin se la hicieron de pedo.\nMandame una resp.\n\nAtte. Joseph huhuhuhuhuuuhuhuhuhu. x\nxD!! Guerrero."}, 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 2885, 3207 Amount=1, 2955, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Great Willow 2b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3471}, 2473 Content={3503, 3504 Content={2853 Content={3351, 2853 Content={2853 Content={3266, 3266, 2853 Content={3409, 2853 Content={3425, 3349, 3349, 3425, 3266, 3349}, 3349, 3349, 3266}, 3377, 3425, 3425, 3349}, 3358, 3358, 3349, 3349, 3349}, 3266, 3351, 3377, 3377, 3349}}}, 3502 Content={2868 Content={2868 Content={3603 Amount=24, 3603 Amount=100, 3603 Amount=100, 3603 Amount=100, 3605 Amount=88, 3605 Amount=100, 3605 Amount=100, 3577 Amount=90, 3577 Amount=100, 3577 Amount=100, 3601 Amount=25, 3723 Amount=48, 3578 Amount=7, 2977, 3579 Amount=21, 3724 Amount=15, 3602 Amount=32, 3725 Amount=13, 3723 Amount=100, 3723 Amount=100}, 3589 Amount=2, 3583 Amount=16, 3587 Amount=15, 3588 Amount=30, 3595 Amount=20, 3584 Amount=20, 3591 Amount=30, 3587 Amount=20, 3597 Amount=30, 3598 Amount=30, 3606 Amount=32, 3590 Amount=20, 3588 Amount=35, 3596 Amount=20, 3585 Amount=30, 3586 Amount=38, 3593, 3594}, 2867, 2865 Content={2866 Content={2866, 2866, 2866}, 2869 Content={2869, 2869, 2869}, 2871 Content={2871}, 2865 Content={2865, 2865, 2865, 2865, 2865, 2865}, 2867 Content={2867, 2867, 2867}, 2870 Content={2870}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2868 Content={2868, 2868, 2868, 2868}}, 2854 Content={3198 Charges=4, 2867, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3197 Charges=2}}}, 
+               4 Content={2853 Content={3579 Amount=9}, 3502 Content={}}, 
+               6 Content={3504 Content={2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3507 String="frank astelaf\nvenore"}, 3502 Content={}}, 
+               7 Content={3502 Content={3503 Content={3507 String=""}}}}

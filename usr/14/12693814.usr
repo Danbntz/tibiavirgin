@@ -1,0 +1,56 @@
+ID              = 12693814
+Name            = "Obierek sorcerer"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,57-79-125-114)
+CurrentOutfit   = (130,57-79-125-114)
+LastLogin       = 1148129547
+LastLogout      = 1148129557
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31819,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,84878,0,98800,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,50130,1100,50835,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11129,1500,11333,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,30,2000,90,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,116,2000,150,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,737,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,65,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,30,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,10,15,29,44}
+QuestValues = {(35,1),(55,1),(59,1),(60,1),(61,1),(99,1),(100,1),(109,1),(125,1),(126,1),(128,1),(140,1),(141,1),(192,1),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3056 RemainingUses=199},
+               3 Content={2854 Content={3003, 3003, 2853 Content={3457, 3085 RemainingUses=200, 3052}, 3189 Charges=2, 3189 Charges=2, 3598 Amount=1}},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3072}}
+
+Depots      = {0 Content={3547 Amount=7, 3502 Content={2969 KeyNumber=3600, 3504 Content={3457, 2853 Content={2873, 2873, 2873, 2873}, 3452, 3456, 3471, 3451, 3507 String="sir calimero\nthais" Editor="Undead'Bolter"}, 2920, 2853 Content={2853, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3507 String="sir oyster bar\nthais\n" Editor="Perdril", 2920, 2853, 3504 Content={3552, 3552, 3308, 3308, 3430, 3266, 3559, 3375}, 2853 Content={3607, 3606 Amount=1, 3592, 3592, 3595 Amount=2}}}, 
+               1 Content={3504 Content={2874, 2874, 2874, 2874}, 3504 Content={2868 Content={3191 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3147, 3147, 3147, 3147, 3147}, 3507 String="Obierek sorcerer\nCarlin\n" Editor="Amervar"}, 3506 String="Obierek sorcerer\ncarlin\n\nJuz jestem na mainie ;) Przesle Ci niedlugo plecak :D Ale musisz jeszcze troche poczekac :)" Editor="Pasiasty Kociak", 3502 Content={2853 Content={3054 RemainingUses=200, 2853 Content={3012, 3093, 3050 SavedExpireTime=1715, 3093}, 3012, 3054 RemainingUses=200, 3054 RemainingUses=200, 3085 RemainingUses=200, 3083 RemainingUses=150}, 3579 Amount=3, 3504 Content={3465, 2873}, 2853 Content={2856, 2853 Content={2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 3504, 2874, 2874, 2874, 2874}}, 2865 Content={2854 Content={2854 Content={3457}, 2873, 3092, 3046}, 2854, 2868, 3147, 3147, 3147, 2973 KeyNumber=3520, 3551, 2906, 3059, 2857 Content={2865 Content={2868 Content={2871}}}}, 2853 Content={2911 SavedExpireTime=1638, 2920 SavedExpireTime=598, 2920, 3430}, 2853 Content={2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 2853 Content={3505 Editor="Obierek sorcerer", 3505 Editor="Obierek sorcerer", 3505 String="to: Thren\nIn: Carlin\n\nMam nowa kome moj numer to 514994524 Mam nokie 6600 z aparatem, bluetoothem i podczerwieniem" Editor="Obierek sorcerer", 3505, 3505}, 2853 Content={2853 Content={2853 Content={3003, 3003, 3003}, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3430, 2853 Content={3003, 3054 RemainingUses=200}, 3457, 3374, 2991, 3377}, 3504 Content={2985, 3293, 2853 Content={2875, 2875, 1781 Amount=23, 3459, 3459, 3129, 3129, 2955}, 3466, 3114 Amount=7, 3658, 3741 Amount=1, 3507 String="zozolekk\ncarlin" Editor="Varrez"}, 2853 Content={2853 Content={2920, 2920}, 2920, 2920, 2922 SavedExpireTime=153, 2920, 2920, 2920, 2920}, 3504 Content={3358, 3413, 3504 Content={3377, 3358, 3285, 3293, 3074, 3266, 2853 Content={3375, 3559, 3358, 3286, 3264, 3411, 3367, 3430}, 3300, 3375}, 3425, 3266, 3349}, 2853 Content={3035 Amount=8}, 2853 Content={3577 Amount=7, 2853 Content={3590 Amount=8, 3579 Amount=3, 3577 Amount=100, 2853 Content={3577 Amount=100}}, 3723 Amount=67, 3585 Amount=10, 3582 Amount=16, 3590 Amount=4, 3595 Amount=5}, 2853 Content={3456, 3483, 3483, 3492 Amount=38, 3456, 3492 Amount=100, 3456, 3483}}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

@@ -1,0 +1,59 @@
+ID              = 8092304
+Name            = "Ivax kalan"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,39-51-0-68)
+CurrentOutfit   = (128,39-51-0-68)
+LastLogin       = 1147826811
+LastLogout      = 1147826818
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,191814,0,204800,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,209014,1400,222775,1600)
+Skill = (2,345,345,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,115,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,790,790,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,25021,1100,27102,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,78043,1100,82740,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,39,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,331,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,13,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,772,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,11868,1100,13052,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,20,29,49,51,76,79,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(55,1),(59,1),(61,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(128,1),(140,1),(141,1),(153,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3492 Amount=1, 3046 SavedExpireTime=1909, 3031 Amount=18, 2874, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3446 Amount=76, 3446 Amount=100, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3349},
+               7 Content={3371},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={2853, 3377, 3008, 3292, 2906, 3456, 3598 Amount=1, 2816 String="The Awaking of the Gods BOOK TWO \n\nFor a long time Fardos exhausted his enormous powers in futile activity. Finally he asked his companion for support in his\nattempts. Uman consented only too readily, but Zathroth, the dark one of the twins, refused himself. Thus Fardos and Uman\nstrived together to attempt the CREATION - however their laborings were not rewarded with success again. Just like before\neverything was drained away as soon as they created it, and Zathroth laughed full of contempt. \n      The power however, which Uman and Fardos spent, did seep away in the universe-filling void. Nobody knows\n      whether it was this power that lured another entity to them, whether it aroused this godly being, or whether in a\n      mysterious way it created this entity. In any event, suddenly the enormous entity Tibiasula rose from the void and\nexamined the two other godly beings. Fardos and Uman welcomed Tibiasula as their sister and admired her, because she was\nthe perfect unity of the elements. Zathroth however fumed with silent hate, as he didn't want to share the void with one more\nentity.", 3457, 3410, 3578 Amount=4, 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 3049 SavedExpireTime=69, 3049 SavedExpireTime=390, 3059, 3502 Content={2870 Content={3447 Amount=10, 3147, 3147, 3147, 3377, 3547 Amount=1, 3548 Amount=1, 3457, 3275, 3275, 3377, 3285, 2647, 2667, 2656, 3464, 3483, 3012, 2854 Content={3147, 3147, 3147, 3147, 3483, 2647, 3003, 3483, 3191 Charges=2, 3152 Charges=1, 3177 Charges=1, 3155 Charges=1, 3375, 3104, 3104, 3012, 3266, 3012, 3308, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3003, 3450 Amount=1, 3155 Charges=1, 2656, 2667, 3289, 3299, 3003, 3457, 3003, 3605 Amount=1, 2854 Content={3147, 3147, 3147, 3147, 3147, 3046 SavedExpireTime=2995, 3017, 3299, 3287 Amount=33, 3457, 2854 Content={3147, 3147, 3147, 3457, 3017, 3046, 3046 SavedExpireTime=2974, 3017, 3017, 3046, 3017, 3017, 3017, 3017, 3017, 3266, 3121, 3483, 3059, 2854 Content={3147, 3046, 3540, 3546, 3481, 2874 ContainerLiquidType=2, 3545, 3003, 2874 ContainerLiquidType=2, 3539, 3046, 3046 SavedExpireTime=2986, 3046 SavedExpireTime=2999, 2969 KeyNumber=3600, 3017, 3046, 3017, 3017, 3012, 2854 Content={3147, 3046 SavedExpireTime=2994, 3045 RemainingUses=200, 3045 RemainingUses=200, 3017, 3077, 3017, 3017, 3029 Amount=1, 3017, 3093, 2991, 2968 KeyNumber=3940, 3039, 3076, 3046 SavedExpireTime=2935, 3046, 3008, 3017, 2854 Content={2969 KeyNumber=3600, 3093, 3093 SavedExpireTime=1798, 3029 Amount=1, 2968 KeyNumber=3940, 2969 KeyNumber=4600, 3084 RemainingUses=27, 2973 KeyNumber=3520, 3082 RemainingUses=50, 3083 RemainingUses=150, 3008, 3008, 3056 RemainingUses=200, 2992 Amount=3, 3017, 3046, 3084 RemainingUses=250, 3085 RemainingUses=200, 3012, 2854 Content={3083 RemainingUses=150, 3316, 2920 SavedExpireTime=297, 3316, 2949, 2970 KeyNumber=4601, 3084 RemainingUses=250, 3085 RemainingUses=197, 3084 RemainingUses=250, 3084 RemainingUses=250, 3028 Amount=1, 2667, 2647, 2656, 3655, 2906, 3093 SavedExpireTime=109, 3092 SavedExpireTime=1753, 3093, 2854 Content={3147, 3147, 3147, 3147, 3147, 3046, 2968 KeyNumber=3940, 3292, 3147, 3147, 3147, 3147, 3147, 3093, 3012, 2973 KeyNumber=3520, 3289, 3046, 3046 SavedExpireTime=2990, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2659, 2659, 2667, 3267, 3046 SavedExpireTime=294, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2874 ContainerLiquidType=6, 3147, 3291, 2854}}}}}}}}, 3456, 3277 Amount=4, 3012, 3110, 3453, 3283, 3457, 3283}}}, 3059}, 2472 Content={2854 Content={2854, 2854, 2854, 2854, 2854}, 2868 Content={2868, 2868, 2868, 2868}, 2870, 2867 Content={2867, 2867}, 2866 Content={2866}, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}}, 2469, 2473 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2471}, 2867 Content={3492 Amount=25, 3492 Amount=100, 3492 Amount=100, 2854 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}, 2867, 3603 Amount=33, 3588 Amount=1, 3104, 3578 Amount=90, 3600 Amount=2, 3592, 3590 Amount=98, 3590 Amount=100, 3590 Amount=100, 3590 Amount=100, 3590 Amount=100, 3595 Amount=1}, 2854 Content={3446 Amount=93, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3349, 3350, 3447 Amount=100, 3448 Amount=94, 3447 Amount=37}, 2868 Content={3557, 3297, 3425, 3354, 3307, 3354, 3367, 3301, 3425, 3425, 3425, 3425, 3425}, 2866 Content={3031 Amount=97, 3031 Amount=100}}}, 
+               1 Content={3504 Content={3507 String="ivax kalan\ncarlin\n"}, 3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502 Content={3504 Content={3507 String="ivax kalan\nvenore"}, 3504 Content={3507 String="ivax kalan\nvenore"}, 3354}}, 
+               7 Content={3502 Content={}}}

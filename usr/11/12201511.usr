@@ -1,0 +1,57 @@
+ID              = 12201511
+Name            = "Vobigu"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,78-114-114-78)
+CurrentOutfit   = (134,78-114-114-78)
+LastLogin       = 1140663089
+LastLogout      = 1140663356
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32683,31684,7]
+PlayerkillerEnd = 1140725118
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,217757,0,232500,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,84526,3000,193600,1600)
+Skill = (2,347,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,26,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,125856,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,61,0,10,0,0,0,0,0,0,0,67695,1100,70521,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5203,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2870 Content={3031 Amount=70, 3174 Charges=1, 3308, 2969 KeyNumber=3033, 3457, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003}},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3031 Amount=10}}
+
+Depots      = {0 Content={3504 Content={3507 String="vobigu\nthais" Editor="Kodiza"}, 3430, 3003, 3286, 3378, 3374, 3308, 3358, 3358, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2868 Content={3446 Amount=1, 3147, 3147, 3147, 3147}, 3502 Content={3425, 3282, 3391, 3380, 3492 Amount=100, 3412, 3583 Amount=5, 3425, 3483, 2853 Content={2857 Content={3290, 3071, 3046, 3077, 3084 RemainingUses=250}, 3492 Amount=75, 3492 Amount=100, 3659, 3017, 2969 KeyNumber=3033, 3052}, 3457, 3421, 2865 Content={2870 Content={2853, 2866 Content={2857 Content={2857 Content={3082 RemainingUses=50, 3084 RemainingUses=250, 3008, 3056 RemainingUses=200, 3092, 3097, 3098 SavedExpireTime=381, 3097 SavedExpireTime=3523}, 3077, 2952, 3076, 3599 Amount=8, 3289, 3046 SavedExpireTime=2999}}}}}}, 
+               5 Content={3502}, 
+               6 Content={3286, 3502 Content={3327, 3412, 3286, 2857, 3003}}, 
+               7 Content={2853, 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3504 Content={3507 String="vobigu\nankrahmun" Editor="Kodiza"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Thanah II g\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3282, 3502}}

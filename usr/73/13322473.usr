@@ -1,0 +1,57 @@
+ID              = 13322473
+Name            = "Zaurina"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,92-114-114-92)
+CurrentOutfit   = (137,92-114-114-92)
+LastLogin       = 1147801240
+LastLogout      = 1147809408
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32925,32077,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,102484,0,116000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,270643,3000,582400,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,82,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,75,0,10,0,0,0,0,0,0,0,513278,1100,538407,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,252,1100,305,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (10,75,0,10,0,0,0,0,0,0,0,259024,1100,269203,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,257,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,58,0,10,0,0,0,0,0,0,0,20164,1100,21143,20)
+Skill = (14,0,1200,0,0,0,93,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(96,1),(97,1),(98,1),(106,1),(107,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3293, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="zaurina\nthais" Editor="Mazitoo"}, 3504 Content={3066, 3377, 3373, 3507 String="zaurina\nthais" Editor="Blazt'hell"}, 3504 Content={3350, 3349, 3504 Content={2868 Content={3268, 3578 Amount=67, 3578 Amount=100, 3492 Amount=4, 3578 Amount=100, 3285, 3276, 3274}, 3507 String="lord stream\nab'dendriel" Editor="Dy'Harmy"}, 3507 String="zaurina\nthais" Editor="Lord stream", 3266}, 3504 Content={3336, 3412}, 3504 Content={3507 String="Zaurina\nThais" Editor="Zaurina"}, 3502 Content={3425, 3557, 3412, 3483, 3457}}, 
+               1 Content={3412, 3502 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033}}, 
+               3 Content={3504 Content={3492 Amount=50, 3492 Amount=100, 3457, 3031 Amount=5, 3507 String="Zaurina\nAb'dendriel" Editor="Irony Saint"}, 2868 Content={2867, 3483, 3492 Amount=7, 3003, 3457}, 3504 Content={2853 Content={2853 Content={2853, 2853, 2853, 2853, 2853 Content={2853 Content={2853, 2853, 2853}}, 2853, 2853}}, 3507 String="Zaurina\nAb'dendriel" Editor="Zaurina"}, 3274, 3504 Content={3504 Content={2865 Content={3308, 3738 Amount=1, 3583 Amount=2}, 3507 String="Zaurina\nAb'dendriel" Editor="Cabello-life"}, 3507 String="Zaurina\nAb'Dendriel" Editor="Dark'Fashion"}, 3502 Content={3446 Amount=55, 3316, 2854 Content={3268, 3003, 3504 Content={3412, 3308, 3504 Content={3268, 3451, 3507 String="Zaurina\nAb'dendriel" Editor="Zaurina"}, 3504 Content={2874, 3046 SavedExpireTime=2995, 3457, 3301, 3504 Content={2969 KeyNumber=3033, 3425, 2857 Content={3077, 3084 RemainingUses=250}, 3507 String="irony saint\nab'dendriel\n"}, 3559, 3504 Content={3507 String="Zaurina\nAb'dendriel" Editor="Vannessita"}, 3504 Content={3507 String="zaurina\nab'dendriel" Editor="Seredik'wizard"}, 3507 String="zaurina\nab'dendriel" Editor="Karla Alvarez"}, 3507 String="Zaurina\nAb'dendriel" Editor="Dany'chan"}, 3384, 2853 Content={2853 Content={3266, 3266, 3266}}, 2869}, 2854 Content={3349, 3349, 3349, 3349, 3349}}}, 
+               6 Content={3504 Content={3504 Content={3483, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=79, 3507 String="Zaurina\nVenore" Editor="Zaurina"}, 3504 Content={3507 String="Zaurina\nVenore" Editor="Irony Saint"}, 3504 Content={3507 String="zaurina\nvenore\n" Editor="Blazt'hell"}, 3504 Content={3504, 3507 String="zaurina\nvenore" Editor="Blazt'hell"}, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="zaurina\nvenore" Editor="Mazitoo", 3504 Content={3504 Content={3507 String="zaurina \nvenore" Editor="Seredik'wizard", 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Dufel \nvenore" Editor="Dufel", 3507 String="Zaurina\nVenore" Editor="Don Pepe", 3507 String="Zaurina\nVenore" Editor="Zaurina", 3507 String="Zaurina\nVenore" Editor="Zaurina", 3507 String="Zaurina\nVenore" Editor="Rollalyti", 3507 String="Zaurina\nVenore" Editor="Irony Saint", 3507 String="Zaurina\nVenore" Editor="Cabello-life", 3507 String="Wanderluster\nVenore" Editor="Apitovito"}}}, 3507 String="zaurina\nvenore" Editor="Master Encke", 3507 String="angel sonic\nvenore" Editor="Angel Daxus"}}}}}}}}}}, 3502 Content={2865 Content={3077, 3084 RemainingUses=250, 3046, 3098, 3425, 3092, 3092, 3092, 3092 SavedExpireTime=56, 2968 KeyNumber=3940, 2853 Content={3046 SavedExpireTime=2999, 3008, 3059, 3308, 3305, 3147, 3147}, 2857 Content={3084 RemainingUses=250, 2859 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3269, 2968 KeyNumber=3940, 3317, 3046, 3077}, 3200 Charges=3, 3200 Charges=3, 3174 Charges=2, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2866 Content={3031 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=35, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3035 Amount=100}, 2870 Content={3552, 3436, 3279, 3071, 3557, 3313, 3357, 3322, 3007, 3351, 3351, 3369, 3324, 3391, 3557}}}}

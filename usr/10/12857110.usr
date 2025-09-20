@@ -1,0 +1,52 @@
+ID              = 12857110
+Name            = "Luko'Lark"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,58-18-79-18)
+CurrentOutfit   = (128,58-18-79-18)
+LastLogin       = 1143915237
+LastLogout      = 1143915257
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32590,31962,10]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14355,0,17600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,21942,1400,26118,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,1234,1100,1357,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,13890,1100,14635,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,800,1200,824,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,17,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1400,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,118,1100,122,20)
+Skill = (14,0,1200,0,0,0,394,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               10 Content={3446 Amount=94}}
+
+Depots      = {0 Content={2857, 3504 Content={3577 Amount=14, 3277 Amount=16, 2853, 3507 String="luko'lark\nthais" Editor="Luko'Lark"}, 3502 Content={3035 Amount=7, 3283, 3300}}, 
+               1 Content={3502}, 
+               2 Content={2872 Content={2399, 2656, 2653, 2656, 2647, 2656, 2667, 2647, 2653, 3053 SavedExpireTime=574}, 3277 Amount=54, 2865 Content={2868 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3483, 3492 Amount=43, 3492 Amount=100, 3492 Amount=100, 3483, 3492 Amount=100, 3492 Amount=100}, 3502 Content={2868 Content={3085 RemainingUses=123, 3093 SavedExpireTime=1298, 3050 SavedExpireTime=1798, 3050 SavedExpireTime=1789, 3050 SavedExpireTime=1795, 3050 SavedExpireTime=1798, 2853 Content={3052 SavedExpireTime=49, 3052 SavedExpireTime=1106, 3052, 3052}, 2854 Content={3093 SavedExpireTime=864, 2857 Content={3077, 3084 RemainingUses=250}, 3050, 2968 KeyNumber=3940, 3056 RemainingUses=200, 3097 SavedExpireTime=3592, 3658, 3077, 3056 RemainingUses=200, 3077, 3050, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 3097 SavedExpireTime=3557, 3097 SavedExpireTime=2120, 2854 Content={3093 SavedExpireTime=1500, 3046 SavedExpireTime=2726, 2969 KeyNumber=3600, 3026 Amount=1, 3027 Amount=2, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 3097 SavedExpireTime=3448, 3092 SavedExpireTime=589, 3093, 3017, 2970 KeyNumber=4503, 3054 RemainingUses=85, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046 SavedExpireTime=2976}}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2853 Content={3174 Charges=5, 3172 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=3, 3174 Charges=2, 3188 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3174 Charges=5, 3174 Charges=5, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=3, 3188 Charges=1, 3189 Charges=2, 3189 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=1, 3174 Charges=5}, 2857 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=3, 3189 Charges=2, 3188 Charges=3}, 2854 Content={3177 Charges=1, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2868 Content={2853, 2868 Content={3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2, 3192 Charges=2}, 2854 Content={3166 Charges=1, 3174 Charges=5, 3188 Charges=3, 3188 Charges=3}}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3177 Charges=1, 3174 Charges=5, 3177 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 2867 Content={3301, 3275, 3322, 3313, 3279, 3042 Amount=1, 3322, 3070}, 2854 Content={3083 RemainingUses=150, 3557, 3297, 3593, 2968 KeyNumber=3940, 3029 Amount=2, 3448 Amount=60}, 2868 Content={3350, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 3033 Amount=1, 3083 RemainingUses=150, 3082 RemainingUses=50, 2992 Amount=1, 3323, 3076, 3428}, 2867 Content={3449 Amount=30, 2968 KeyNumber=3940, 3042 Amount=1, 3587 Amount=1, 3322, 3059, 2864, 2393}}}}

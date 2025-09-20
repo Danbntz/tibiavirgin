@@ -1,0 +1,52 @@
+ID              = 14632450
+Name            = "Uogra"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,79-132-132-132)
+CurrentOutfit   = (131,79-132-132-132)
+LastLogin       = 1148225924
+LastLogout      = 1148225943
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32004,31622,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10778,0,13000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,19774,3000,20800,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,11,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51459,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,28277,1100,29620,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,19,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,315,1100,318,20)
+Skill = (14,0,1200,0,0,0,863,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,63,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,11,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10}
+QuestValues = {(17,1),(20,1),(32,1),(33,1),(34,1),(35,1),(60,1),(61,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2868 Content={3582 Amount=1, 3031 Amount=47, 3277 Amount=2, 3031 Amount=100, 2920, 2854 Content={3267, 2920, 2920, 3457, 3031 Amount=5}, 3003}},
+               4 Content={3358},
+               5 Content={3300},
+               6 Content={3425},
+               7 Content={3559},
+               10 Content={2920}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=91, 3349, 3007, 3277 Amount=17, 3003, 3602 Amount=3, 3595 Amount=3, 3031 Amount=100, 3585 Amount=5, 3590 Amount=13, 3578 Amount=21, 3577 Amount=39, 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2816 String="Alistair Cropwell's Travel Notes\n\n...strange things I saw today! A mighty city, inhabited with fearsome beings. Dark rituals, the reason of which I could not discern. Are these people friend or foe? I do not know. I remain in hiding and observe.. and what is the meaning of this strange talisman that I found? The symbol appears everywhere, I fear it may have powers that could cause damage in the wrong hands.\n\nI have been travelling so long, I can hardly remember the features of my beloved ones. Will they recognise, will they remember me? What will they make of my tales? Oh, that I be back with them, walk the city again...\n", 3588 Amount=3, 3031 Amount=100}}, 
+               1 Content={3504 Content={3507 String="Uogra\nCarlin \n\n" Editor="Szaman Uogra"}, 3502 Content={2973 KeyNumber=3520, 2955, 3286, 3283, 2920, 2920, 3031 Amount=9, 2920 SavedExpireTime=497, 3031 Amount=100, 3031 Amount=80, 3272, 3453}}}

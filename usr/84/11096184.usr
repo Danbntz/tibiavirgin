@@ -1,0 +1,49 @@
+ID              = 11096184
+Name            = "Sialem"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,126-114-95-115)
+CurrentOutfit   = (129,126-114-95-115)
+LastLogin       = 1148092723
+LastLogout      = 1148093204
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32337,31789,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,2635,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,1312,3000,1600,1600)
+Skill = (2,0,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,30,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,445,445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,820,1100,948,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,776,1100,796,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(35,1),(59,1),(121,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {10 Content={3507 String="accocount:7708034\nPassword:cn3t2ghv" Editor="Sialem"}}
+
+Depots      = {0 Content={3502 Content={3059 String="", 3012, 3008, 3292, 3012, 2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 2473 Content={}, 2473 Content={3552, 3376, 3412, 3274, 3308}, 2472 Content={}, 2473 Content={2816 String="I've managed to imprison two cyclops in my secret dungeon under the lighthouse. I forced them to create some magic equipment. Soon I will be the mightiest warrior in Tibia.", 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2893 ContainerLiquidType=0}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={3456, 3456, 3378, 2853 Content={3430, 3430}, 2853 Content={}}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,54 @@
+ID              = 10400260
+Name            = "Royal Genises"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (130,88-0-114-0)
+CurrentOutfit   = (130,88-0-114-0)
+LastLogin       = 1140336096
+LastLogout      = 1140336101
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32898,32083,6]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,90189,0,98800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,90640,1400,111701,1600)
+Skill = (2,252,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,11,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,37890,1100,40144,100)
+Skill = (7,45,0,10,0,0,0,0,0,0,0,8377,1100,8973,30)
+Skill = (8,32,0,10,0,0,0,0,0,0,0,14987,1200,16311,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,48,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1236,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,802,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,15,20,44,51}
+QuestValues = {(17,1),(18,1),(20,1),(59,1),(96,1),(97,1),(106,1),(107,1),(113,1),(114,1),(190,1),(191,1),(208,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}},
+               4 Content={3357},
+               5 Content={3350},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               6 Content={3457, 3506 String="Dark Mony\nvenore\n\nCongratulations!!\nYou are one of the few selected free account players,\nfor the gift of a totally free 3 months of Premium account.\nWhy did Cipsoft decided to do this for Zaneran players?\nwe want for you to have a full experience of Tibia\nstarting from: explore new areas, beat new challenges\nand feel free to travel all around Tibia.\nSend us your account numer and password to the next\ndirection so we can activate your premium account:\ntibiapremiumtest@yahoo.com.au ", 3430, 3075, 2656, 3308, 3503 Content={3003}, 2854 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2469 Content={3416, 3411, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=47, 3147, 3198 Charges=5}, 3271, 3277 Amount=1, 2864 Content={3062, 3673, 3483, 3457, 2853 Content={3031 Amount=1, 3003, 3457, 3308, 3031 Amount=100, 3308, 1781 Amount=58, 3035 Amount=17}, 2853 Content={3026 Amount=4}}, 2870 Content={3003, 3350, 3446 Amount=100, 3305, 3350, 3446 Amount=32, 2853 Content={1781 Amount=48, 3457, 3492 Amount=5, 2973 KeyNumber=3520, 3740 Amount=1, 3285, 3285, 3349}, 3425, 2853 Content={3723 Amount=1, 3483, 3732 Amount=9, 3375, 2853, 2969 KeyNumber=5010, 3492 Amount=85, 3483}, 3003, 2874 ContainerLiquidType=7, 3409, 3413, 2854 Content={3285, 3003, 3591 Amount=2, 3293, 2853 Content={3552}, 3293, 3300, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=8, 3465, 3457, 3267, 3003, 3457, 3285}, 2854 Content={3578 Amount=83, 2853 Content={3552, 3457, 2876, 3003, 2920 SavedExpireTime=58}, 2853 Content={3457, 3375, 3362, 3454}, 3579 Amount=8, 3452, 3598 Amount=5, 2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3578 Amount=100, 3577 Amount=27, 3582 Amount=40, 3012, 3377, 3375, 3003, 3377, 3425, 3007, 3421}, 3457, 3425, 3003, 3457}}, 3453, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 2854 Content={2920, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 3293, 2901, 2901, 3349, 2853 Content={3308, 3308, 3308, 3308, 2853 Content={3308, 3308, 3308, 3308, 3308, 2853 Content={2853 Content={2853 Content={3548 Amount=1, 3003, 3470, 2853 Content={3362, 3308, 3308}, 2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3003, 3456}, 3003, 2853 Content={3483}, 3425, 2853, 3503 Content={3054 RemainingUses=119, 3507 String="royal genises\nvenore\n"}, 3277 Amount=51, 2857 Content={3003, 3285, 2874, 3097, 3492 Amount=15, 3483, 2853}, 3059, 2853 Content={3003, 3003, 3003, 3361, 2874}, 2870 Content={2853 Content={3361}}, 2867 Content={3308, 3483, 3492 Amount=27, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3448 Amount=8, 3374, 3300, 3375}, 2853 Content={3003, 3558, 3378, 3374, 3430}, 3054 RemainingUses=200, 2866 Content={3085 RemainingUses=189, 3003, 2874, 3552, 3007, 3377, 3425, 3457}, 2853 Content={2874, 2874, 2874, 3361, 2876}, 3504 Content={3504 Content={3003, 3507 String="royal genises\nvenore", 3504 Content={3003, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja"}}, 3492 Amount=84, 3285, 3462, 3456, 3559, 3375, 3377, 3425}, 2854 Content={3301, 3301, 2471 Content={3552, 3552, 3552}, 3097, 3559}, 3502 Content={3003, 2469 Content={3361, 3300, 3552}, 2469 Content={3300, 3736 Amount=1, 2922 SavedExpireTime=32, 3552}, 3003, 2471 Content={2471}, 2471 Content={3411, 3308}, 2471 Content={3355}, 2471 Content={2853, 3412, 2471}, 2471 Content={3559, 3285}, 2471 Content={3337, 3268}, 2853, 3507 String="Royal Genises\nvenore", 3559, 2469 Content={3412, 2853 Content={2853, 2853}, 2473 Content={2473, 2473 Content={2473}, 2473, 2473, 2473}}, 2469 Content={3426}, 2469 Content={3552, 3412, 2920, 2920, 2920, 3430, 2853 Content={3552, 2989, 3430, 3559, 2920, 3411, 3410}, 3559, 3410}, 2853, 3374, 3426, 3412, 2920, 2920, 2920, 2920 SavedExpireTime=373}}}

@@ -1,0 +1,54 @@
+ID              = 9397562
+Name            = "Dark Vandalmor"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,0-114-126-114)
+CurrentOutfit   = (129,0-114-126-114)
+LastLogin       = 1147546277
+LastLogout      = 1147546288
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32306,32251,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,5093,0,6400,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2640,3000,6400,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,15,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,1955,1100,2138,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,24,0,10,0,0,0,0,0,0,0,1398,1100,1588,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,89,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,183,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2853 Content={3492 Amount=4}},
+               4 Content={3358},
+               5 Content={3426},
+               6 Content={3307},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2471 Content={3451, 2901, 2885, 3504 Content={3507 String="Dark Vandalmor\nVenore"}, 2911 SavedExpireTime=2904, 3504 Content={3507 String="sekul'hell\nthais"}, 2911 SavedExpireTime=1956, 2911 SavedExpireTime=2997, 3504 Content={3507 String="Dark Vandalmor\nVenore\n"}}, 2473 Content={2815 String="Inventario:\nMeat: 118\nHam: 8\nBlue Berries: 50\nCheese: 23\nWorms: 107" Editor="Dark Vandalmor", 2853 Content={3577 Amount=18, 2853 Content={3492 Amount=7, 3492 Amount=100}, 3588 Amount=50, 3582 Amount=8, 3577 Amount=100}, 2471 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 2471 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}}}, 3502 Content={2920 SavedExpireTime=382, 2839 String="kill to emoatreyu.allwais" Editor="Jorgete", 3588 Amount=6, 3003, 3352, 3294, 3559, 3283, 3378, 2473 Content={3457, 3003, 3457, 3457, 3003, 3003, 3003, 3003, 3457, 3003}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=85}, 3374, 3374, 3376, 3308, 3378, 2920 SavedExpireTime=142, 3376, 3426, 3361, 3378, 3374, 3552, 3426, 3378}}, 
+               1 Content={2471, 2473 Content={3412}, 3504 Content={3003, 3582 Amount=3, 3577 Amount=14, 3116, 3115, 3505 String="eu quero capacete\n", 3505 String="Eu quro corda\n", 3507}, 3502 Content={2853 Content={1781 Amount=1, 3267, 3267, 3267, 3267, 3267, 3267, 3267}, 3267, 3361, 3286, 2853 Content={3505 String="\nHola\ncomo estas?\n"}, 3367, 3276, 3504 Content={3507 String="Requiem Stark\ncarlin"}}}, 
+               6 Content={3504 Content={3507 String="Dark Vandalmor\nVenore"}, 2473 Content={3577 Amount=47, 3578 Amount=22, 3582 Amount=3, 2815 String="Inventario\nMeat: 47\nHam: 3\nFish: 22\nCheese: 3", 2853 Content={3607, 3607, 3607}}, 2865 Content={2853 Content={3035 Amount=3, 3031 Amount=26}, 3552, 3367, 3411, 3378}, 3502 Content={3462, 3483, 3507 String="9223285 account number", 3504 Content={3504 Content={3507 String="lurias\nvenore"}, 3507 String="Raimbow spear\nvenore"}, 2981, 3410, 2473 Content={3411, 3411, 3507 String="", 3507 String="", 2880 ContainerLiquidType=0, 3207 Amount=1, 3507 String="siltrier\nvenore", 3507 String="Siltrier\nVenore", 3507 String="Siltrier\nVenore"}, 3552, 3046 SavedExpireTime=2713, 3457, 2815 String="\nBitacora de Dark Vandalmor: El 8 de agosto alas 1:30 horas, me tope con un toque de suerte, varios chicos abian hecho equipo para conseguir el quest, tuve la suerte de conseguir la carlin sword. \n10 de agosto: Falta poco para que abandone este lugar, dentro de poco pazare al mundo dos, he tenido varias dudas de si pasar o noo pasar, ye que segun lo contado la cantidad de peligros es inmensa, aun con un gran armamento siento miedo de salir, espero poder con lo que sige. "}}}

@@ -1,0 +1,58 @@
+ID              = 9598595
+Name            = "Perroni Guau"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,130-132-130-132)
+CurrentOutfit   = (129,130-132-130-132)
+LastLogin       = 1132099956
+LastLogout      = 1132099968
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,40144,0,47000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,25440,1400,26118,1600)
+Skill = (2,217,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,56,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,17097,1100,18194,100)
+Skill = (7,28,0,10,0,0,0,0,0,0,0,1526,1100,1534,30)
+Skill = (8,31,0,10,0,0,0,0,0,0,0,11917,1200,13551,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,37,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,289,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,25,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,8,10,15,29,44,48,51}
+QuestValues = {(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(54,1),(58,1),(59,1),(60,1),(61,1),(100,1),(125,1),(126,1),(128,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2865 Content={3031 Amount=56, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2860 Content={3189 Charges=2, 3189 Charges=3, 3189 Charges=3, 3198 Charges=1, 3198 Charges=1, 3198 Charges=5}, 2853 Content={3308, 3582 Amount=1, 3577 Amount=2, 3457, 3003, 3588 Amount=93}}},
+               4 Content={3377},
+               5 Content={3285},
+               6 Content={3409},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={2854 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3457, 3003}, 2472 Content={2853 Content={3367, 3353, 3375, 3354}, 2853 Content={3350, 3350, 3350, 3350}, 3410, 3430, 3266, 3300}, 2854 Content={3492 Amount=20, 3582 Amount=29, 3577 Amount=82, 3577 Amount=100, 3738 Amount=30, 3492 Amount=100, 3492 Amount=100, 3593, 3593, 3593, 3588 Amount=100, 3578 Amount=6, 3605 Amount=17, 3595 Amount=18, 3597 Amount=7}, 2853 Content={3607, 3607, 3607, 3607, 3607, 3607, 3607, 3607}, 2853 Content={2873 ContainerLiquidType=0, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=1, 2873 ContainerLiquidType=1, 2873 ContainerLiquidType=1, 2873 ContainerLiquidType=1}, 2853 Content={3453, 1781 Amount=2, 3277 Amount=7, 3293, 3456, 3457, 3308, 3003}, 3502 Content={3031 Amount=77, 2839 String="Singing I love rock an roll \nbetter not because we are singing!", 2839 String="Guide of the little druid:\n\n1. Delete your druid character;\n2. Create a new character;\n3. Level 8 up;\n4. Choose knight vocation;\n5. Be happy for the life ;)", 2821 String="This week's specials:\n\n* Hot dog (real dog-meat! no fake!)\n* Chien chaud à la Trolloise\n* Pizza dog e salmone\n* Doggi Goreng\n* Doggenwurst with Sauerkraut\n* Dog Suey\n* T-Bone Dog\n", 2816 String="We have destroyed the key. It is of no use now.", 2816 String="We have stolen the key to the large ancient temple hall under the city of Tibia. But the key is useless now, because the temple has been plundered by the humens. The temple is free, also for us, the trolls. The entrance is outside the human city.\n", 2917 SavedExpireTime=1632, 2969 KeyNumber=3600, 3059 String=""}}, 
+               1 Content={3457, 2473 Content={3308, 3375, 3375, 3148 Charges=3}, 2472 Content={3308, 3285, 3277 Amount=32, 3274, 3300}, 3504 Content={3504 Content={3507 String="Tamires Druida\ncarlin"}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}}, 2853 Content={3585 Amount=3, 3595 Amount=2, 3577 Amount=23, 3600 Amount=3, 3577 Amount=100, 3582 Amount=34, 3578 Amount=100, 3578 Amount=100}, 2853 Content={3308, 3003, 3003, 2916, 2882 ContainerLiquidType=0, 3453, 3457, 3456}, 3502 Content={2970 KeyNumber=4503, 3588 Amount=100, 3588 Amount=100, 3308, 3035 Amount=13, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 3492 Amount=92, 3509, 3012, 3012, 3506 String="Treasure of captain Iglue", 3059 String="", 2955}}, 
+               2 Content={2866 Content={1781 Amount=7, 3577 Amount=14, 3294, 3430, 3308, 3446 Amount=9, 3003}, 3502 Content={3456, 3607, 3198 Charges=1, 3198 Charges=5, 3588 Amount=49, 3582 Amount=5, 3577 Amount=12}}, 
+               3 Content={3003, 2854 Content={3294, 3559, 3447 Amount=81, 3350, 3448 Amount=21, 3189 Charges=2, 3188 Charges=3, 3349, 3446 Amount=6, 3003}, 3504 Content={3504 Content={}, 3504 Content={3507 String="Doh'Dle\nab'dendriel\n"}, 3504 Content={}, 3504 Content={}}, 2854 Content={3588 Amount=100, 3588 Amount=100, 3582 Amount=3, 3600 Amount=80, 3578 Amount=12, 3577 Amount=21}, 2853 Content={3003, 3003, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3492 Amount=26, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1}, 2853 Content={3292, 3276, 3430, 3300, 3277 Amount=1}, 3502 Content={2901 ContainerLiquidType=0, 2969 KeyNumber=3033, 3453, 3563, 2816 String="The 5th elven cultural group are the Chelabdil. There role in the war and their fate is yet unclear, but they have few contact with the other elven casts. They are usually a bit taller and stronger than elves of the other races, and there skin is silvery-white or in blue to greenish tones. Their eyes are often pale blue or green, sometimes a faint yellow. They have long black hair, or sometimes dark brown. They seem to live nowadays in the region northwest of Carlin and are seen quite often there. They have the keenest eyes of the elves, and the weapons of their choice are spears, knives and sometimes the short bow. They are fine hunters and sometimes trade furs, but the main part of their life remains yet uncertain."}}, 
+               6 Content={3502 Content={}}}

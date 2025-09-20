@@ -1,0 +1,57 @@
+ID              = 11924406
+Name            = "Grande de furious"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-114-94-114)
+CurrentOutfit   = (129,114-114-94-114)
+LastLogin       = 1148254039
+LastLogout      = 1148254066
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32647,31665,8]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,55225,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,19530,3000,20800,1600)
+Skill = (2,268,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,59,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10056,1100,10918,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,40,0,10,0,0,0,0,0,0,0,8454,1100,9097,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,309,1100,385,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,170,1100,232,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(58,1),(59,1),(60,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(192,1),(217,3),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3085 RemainingUses=22},
+               3 Content={2854 Content={3003, 3031 Amount=71, 3447 Amount=3, 3446 Amount=5}},
+               4 Content={3380},
+               5 Content={3297},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3035 Amount=6}}
+
+Depots      = {0 Content={3504 Content={3316, 3507 String="Grande de furious\nThais" Editor="Grande de furious", 3377, 3377}, 3502 Content={2893}}, 
+               1 Content={3502 Content={3031 Amount=100, 3035 Amount=2, 3358, 3421, 3276, 3504 Content={3535, 3535, 3541, 3535, 2920 SavedExpireTime=580, 3452, 3374, 3507 String="Grande de furious\nCarlin" Editor="Sunshine of the dead"}, 2471 Content={2920, 3293, 3430}}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3447 Amount=1, 3447 Amount=100, 3350, 3425, 3421, 3551, 3456, 3291, 3308, 3301, 3457, 3456, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 2914 SavedExpireTime=1041, 2471 Content={3308, 2880, 2902, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3504 Content={2853 Content={3172 Charges=3, 3552, 3274, 3377, 2875, 3467}, 3505 String="CONGRATULATIONS!!!!\nYUO FOUND A PARCEL WHIT MUCH COSAS\nYUO HAVE A 150GP'S,AN HAND AXE, A LEATHER BOOTS, 2 ROPES, FLOWER BOWL,STUDDED SHIELD Y YA.\nJAJA\nATTE TU HERMANA KERIDA(AJA)" Editor="Lord Otrebor de Madero", 3122, 3268, 3003, 3426, 2983}, 3504 Content={3374, 2839 String="hola\n" Editor="Krosana Dairler", 2901, 3507 String="Grande de furious\nAb'dendriel" Editor="Grande de furious", 3463}, 3504 Content={3289, 3003, 3509, 3509, 2874 ContainerLiquidType=10, 3147, 3056 RemainingUses=200}}, 2473 Content={3003, 3291, 3294, 3054 RemainingUses=198, 3008, 3008, 3012, 3008}, 2472 Content={2914 SavedExpireTime=1995, 2853, 3446 Amount=11, 3504 Content={3552, 3507 String="Grande de furious\nAb'dendriel" Editor="Grande de furious"}, 3289, 3300}, 2853 Content={2853 Content={2973 KeyNumber=3520, 3451, 2880, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3097}, 3588 Amount=3, 2885, 3459, 2876, 2949, 3123, 3740 Amount=1}, 3504 Content={3466, 3467, 2920, 2920, 2920, 2911 SavedExpireTime=2067, 2917 SavedExpireTime=1519, 2920, 3109}}}, 
+               6 Content={3502}}

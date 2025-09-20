@@ -1,0 +1,55 @@
+ID              = 14004615
+Name            = "Master'saint"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,79-44-102-63)
+CurrentOutfit   = (134,79-44-102-63)
+LastLogin       = 1148008874
+LastLogout      = 1148009116
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33229,31833,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,31935,0,37800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,22144,1100,25499,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,164,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,7357,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,114,2000,150,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1380,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,832,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,20,29,88,89}
+QuestValues = {(257,1),(269,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3577 Amount=2, 3457, 3003}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {3 Content={3504 Content={3552, 2922 SavedExpireTime=226, 3074, 2870, 3507 String="master'saint\nab'dendriel\n" Editor="Eleriek Arcycta"}, 3502 Content={3457}}, 
+               4 Content={3502 Content={3572, 2854 Content={3279, 2917 SavedExpireTime=2955}, 2877 ContainerLiquidType=4, 2906, 3448 Amount=2, 3447 Amount=31, 3074, 2869 Content={3410}, 2854 Content={2869}, 2854, 2869, 3572, 3572, 3572, 3572, 3012, 3003, 3177 Charges=1, 3367, 3367, 3367, 3367, 3457}}, 
+               5 Content={3502 Content={3045 RemainingUses=200, 3353, 3425, 3446 Amount=12}}, 
+               7 Content={2920, 3092, 3327, 3384, 3425, 3377, 3502 Content={3327, 3327, 2828 String="... were sealed with powerful magic. Only those were allowed to pass who sacrificed one of the peculiar coins that in ancient times were paid by those who came to visit their beloved dead. For this was the way of the Ritual of Sealing. Behind the seal, the mighty traitors were trapped forever. Such was their hatred and their lust for revenge that the very walls and stones became imbued with them and the lower tombs turned into places of utter doom, places where no mortal should venture to go. And to this day one of the traitors lurks in each of these tombs, surrounded by vicious traps and by powerful minions that serve both to protect them and to hold them captive. Woe to the fools who dare challenge the traitors in their prisons! For torturing and killing intruders is the only amusement that is left to these tortured souls.", 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 2816 String="Tales of a Stranger, Part II\nBut since there were only acolytes there the nature of the prophecy was kept a secret by the priests. They called for the stranger, who seemed to have lost his memory, to be brought to the temple, where they talked to him and asked him all kinds of questions. But much to their dismay he could not give them the answers they sought, for his memory seemed to be blank like the surface of the desert after a sandstorm. However, the priests had the wisdom of the secret prophecy to guide them, and so they knew that they had to give the strangers five tasks to fulfil before they could reveal his destiny to him. And so they did, and the stranger swore he would fulfil all the tasks or die in the attempt. His first task was to travel into the desert and to find the eldest of the scarabs there, so that the priests would reveal their wisdom to him and fill his empty mind with recollections. The stranger descended deep into the burrows of the scarabs in order to face their judgement and to find answers that had been lost in the desert sand aeons ago. But the stranger never returned.", 2816 String="Tales of a Stranger, Part I\nIt was in a time of dread that a stranger came to our lands. More dead than alive was he when he was found in the desert, and the merchants who found him took pity on him and brought him hither. But how great was the amazement and the wonder when it turned out that he wore a birth-mark on his neck that looked exactly like a scarab! The crowd was struck with awe, and it was soon decided that he was to be taken to the priests, so that they might ask the gods for an omen. And so it came that while the man was still lying in a slumber full of delirious dreams the priests burnt incense and performed the ancient rituals to ask the gods for advice and for guidance. The high priest climbed the highest pyramid and called for the knowledge of the wind and the wisdom of the sand. For three long days the stranger was caught in the perilous lands that separate life from death, and for three long days the priest was haunted by visions. But when those days had passed, everything changed. All of a sudden the stranger opened his eyes and looked around in amazement, and it was that very moment that the delirious priest began to utter a prophecy.", 2826 String="The tibian world-wonders!\nThe known and aknowledged world-wonders are:\nThe colossus of Kazordoon\nThe black pyramid of Dracoria\nThe great lighthousetree of Ab'dendriel\nThe thorntower of Shadowthorn\nThe undergroundcity of Mintwalin\nThe black city of skulls in hellsgate\nThe great lava falls in hellsgate\nThe pyramid city of Ankrahmun", 3026 Amount=1}}}

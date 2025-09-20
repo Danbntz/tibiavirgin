@@ -1,0 +1,52 @@
+ID              = 13617804
+Name            = "Tofikus"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,120-81-118-116)
+CurrentOutfit   = (129,120-81-118-116)
+LastLogin       = 1148222042
+LastLogout      = 1148222194
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31785,6]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38701,0,47000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,29080,1400,38165,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,140,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11071,1100,12109,100)
+Skill = (7,46,0,10,0,0,0,0,0,0,0,9634,1100,9901,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,5067,1200,5296,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,792,1200,824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1703,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,675,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,44,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(33,1),(34,1),(37,1),(60,1),(61,1),(100,1),(113,1),(114,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3084 RemainingUses=110},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3277 Amount=1},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={2839, 2473, 2473}}, 
+               1 Content={3502 Content={2871, 2868 Content={2853}, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504 Content={3507 String="Michirulino\nCarlin" Editor="Sinistri"}, 3504}, 2471 Content={2973 KeyNumber=3520, 2868 Content={2955, 2949, 2955, 2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!", 2917 SavedExpireTime=1022, 2916, 3658, 3658, 3658, 3658, 3059, 3059, 3059}, 2656, 2659, 2973 KeyNumber=3520}, 2867 Content={3191 Charges=2, 3046 SavedExpireTime=2849, 3046, 3074, 3066, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3189 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3191 Charges=2, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3164 Charges=2, 3164 Charges=3}, 2469 Content={2868 Content={3003, 3466, 2973 KeyNumber=3520, 2873, 2873, 2873, 3453, 3293, 3293, 3456, 3456, 3457, 3003, 3003, 2968 KeyNumber=3940, 2973 KeyNumber=3520}, 2860 Content={3492 Amount=64, 3492 Amount=100, 3483, 3483}}, 2473 Content={3008, 3012, 3289, 2868 Content={3008, 3285, 3084 RemainingUses=250, 3385, 3351, 3097, 3289, 3421, 3083 RemainingUses=150, 3285, 3291, 3551, 3056 RemainingUses=200, 3008, 3307, 3299}}, 2853 Content={2868 Content={3595 Amount=1, 3577 Amount=10, 3579 Amount=1, 3593, 3583 Amount=2, 3723 Amount=2, 3600 Amount=20, 3582 Amount=16}}, 2860 Content={3077, 2991, 2853 Content={3031 Amount=35, 3035 Amount=1, 3031 Amount=100}, 3026 Amount=3, 3042 Amount=1}, 2872 Content={3447 Amount=24, 1781 Amount=10, 2868 Content={3350, 3350, 3350, 3350, 3350, 3349, 3349, 3349, 3349}, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3448 Amount=29, 3446 Amount=98, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}}}

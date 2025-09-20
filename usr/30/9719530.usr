@@ -1,0 +1,51 @@
+ID              = 9719530
+Name            = "Lemac Hanis"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,86-0-76-114)
+CurrentOutfit   = (129,86-0-76-114)
+LastLogin       = 1139137791
+LastLogout      = 1139137803
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,8224,0,9300,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,10850,1100,12344,1600)
+Skill = (2,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2737,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,2381,1800,3763,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,400,1800,593,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,204,1800,302,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,34,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,92,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {4,8,10,42}
+QuestValues = {(15,1),(16,1),(18,1),(21,1),(22,1),(33,1),(59,1),(60,1),(61,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3377},
+               5 Content={3430},
+               6 Content={3264},
+               10 Content={3003}}
+
+Depots      = {0 Content={3506 String="Lemac Hanis\nThais \nten koles co go chcesz zabic bedzie jutro okolo 13-14 a ty kiedy bedziesz", 3502 Content={3031 Amount=9, 3031 Amount=100, 3301, 3492 Amount=34, 3277 Amount=13, 2955, 1781 Amount=5, 3012, 3483}}, 
+               1 Content={3307, 3375, 3056 RemainingUses=200, 3426, 3552, 3559, 3359, 2871 Content={2472, 3267, 3509, 3552, 3277 Amount=1, 3031 Amount=7, 3457, 3459}, 3378, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 3003, 3504 Content={2853, 3507 String="Lemac Hanis\nCarlin" Editor="Sylax Ziwi"}, 2868 Content={2969 KeyNumber=3033}, 3504 Content={2981, 3492 Amount=2, 2875, 3509, 2969 KeyNumber=3033, 3504 Content={3507 String="Lemac Hanis" Editor="Lemac Hanis"}, 3507 String="Lemac Hanis\nCarlin" Editor="Sylax Ziwi"}, 3459, 2970 KeyNumber=3802, 3502 Content={3430}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={2815 String="Raptizer is very good hero and strange man.its a king.......:)" Editor="Lano Marra", 3276, 3592, 2920 SavedExpireTime=150, 3585 Amount=1, 2920, 3456}}}

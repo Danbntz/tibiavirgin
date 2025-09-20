@@ -1,0 +1,60 @@
+ID              = 8819478
+Name            = "Perro desgraciado"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,2-94-114-39)
+CurrentOutfit   = (134,2-94-114-39)
+LastLogin       = 1143418259
+LastLogout      = 1143418282
+StartPosition   = [32732,31634,7]
+CurrentPosition = [33253,32844,11]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,132940,0,135100,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,166285,1100,174690,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,51,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10374,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,483,1800,593,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,752,1800,1118,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1171,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,5,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,5,6,8,10,11,20,26,29,42,44,76,81,87,88,89}
+QuestValues = {(18,1),(20,1),(111,1),(112,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=29, 3031 Amount=100, 2874, 2874 ContainerLiquidType=10, 3031 Amount=100, 2874, 3031 Amount=100, 3031 Amount=100, 2874, 2874, 3031 Amount=100, 2874, 2874, 2874, 3031 Amount=100, 2874}},
+               4 Content={3357},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={2868 Content={3577 Amount=10, 3457, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3045 RemainingUses=200, 3045 RemainingUses=200}}}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502}, 
+               3 Content={3504 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3266, 3504 Content={3308, 3483, 3457, 3507 String="perro desgraciado\nab'dendriel" Editor="Perro desgraciado", 2868 Content={3017, 3017, 3017, 3045 RemainingUses=200, 3046 SavedExpireTime=2673, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3046, 3046 SavedExpireTime=2992, 3046, 3046}}, 3505 String="Oye amor, aki en donde esta mi monito se me hace buen lugar para la casa, esta mas o menos grande, tiene dos camas y tiene terraza con banca, esta muy bonita, espero que te guste , aunque es en carlin en donde dices que es de pak pero ni siquiera nos vamos a acercar al dp por ke esta cerca del barquito, no vamos a tener la necesidada de llegar hasta el dp, bueno es todo, espero que te guste por que faltan pocos dias para que termine la subasta y para inscribirme antes de que la renten y ganarsela =P, bueno no olvides que TE AMO y que te extraño mucho, como siempre te mando muchos besos bye" Editor="Perro desgraciado", 3172 Charges=1, 3456, 3504 Content={3351, 3507 String="perro desgraciado\nab'dendriel" Editor="Lord Aerg", 3351, 3177 Charges=1, 3177 Charges=1, 3050 SavedExpireTime=1795, 2955}, 2857 Content={3738 Amount=1, 3661, 3077, 3084 RemainingUses=250, 3098, 3046}, 3483, 3012, 2866 Content={3592, 3601 Amount=2, 3591 Amount=10, 3595 Amount=4, 3585 Amount=41, 3588 Amount=100, 3588 Amount=98, 3598 Amount=17, 3600 Amount=9, 3587 Amount=8, 3590 Amount=11, 3586 Amount=7}, 2867 Content={3031 Amount=80, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=28, 3070, 3042 Amount=7}, 3504 Content={3059, 3049 SavedExpireTime=592, 3084 RemainingUses=250, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3425, 3372, 3066, 3359}, 3471, 3017, 3502 Content={2843, 2914 SavedExpireTime=1999, 3350, 2969 KeyNumber=3033, 3269, 3085 RemainingUses=200, 3449 Amount=1, 3350, 3059, 2983, 3147, 3565}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="perro desgraciado\ndarashia" Editor="Lord Aerg"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3031 Amount=11, 3502}, 
+               8 Content={3502}}

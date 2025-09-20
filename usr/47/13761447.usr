@@ -1,0 +1,53 @@
+ID              = 13761447
+Name            = "Asana Nerconoc"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,20-114-0-0)
+CurrentOutfit   = (134,20-114-0-0)
+LastLogin       = 1148091327
+LastLogout      = 1148091351
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32340,31740,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,49864,0,57600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,16606,1400,17512,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,28,0,10,0,0,0,0,0,0,0,5021,1100,5115,100)
+Skill = (7,51,0,10,0,0,0,0,0,0,0,16069,1100,16129,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,295,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1620,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,225,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,99,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,42,51}
+QuestValues = {(59,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2865 Content={3582 Amount=1, 3447 Amount=100, 3447 Amount=100, 3031 Amount=79, 3003}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=56}}
+
+Depots      = {1 Content={3297, 3416, 3277 Amount=8, 3074, 3425, 3557, 3583 Amount=14, 3012, 3198 Charges=1, 2480 Content={3505 String="alana sio \"name (exit)\naleta grav \" name (for the door )\naleta sio \"name ( invited )\n" Editor="Kursat'Sackville"}, 3147, 3147, 3147, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2854 Content={2865 Content={3059, 3147, 3147, 3147}, 2866, 2869 Content={3350, 3449 Amount=27, 2856 Content={3056 RemainingUses=200}}, 2854 Content={3359}, 2872 Content={3383, 3359, 3042 Amount=1, 3384, 3084 RemainingUses=250}, 2867 Content={2970 KeyNumber=4503, 3093 SavedExpireTime=1627, 3003, 2969 KeyNumber=3033}}, 3492 Amount=82, 3492 Amount=100, 3483, 3454, 3452, 3287 Amount=2, 2853 Content={3035 Amount=100, 3035 Amount=35}, 3502}, 
+               3 Content={3502}}

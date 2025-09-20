@@ -1,0 +1,49 @@
+ID              = 13373284
+Name            = "Shire Veven"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,1-86-38-1)
+CurrentOutfit   = (128,1-86-38-1)
+LastLogin       = 1147696100
+LastLogout      = 1147696416
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31692,7]
+PlayerkillerEnd = 1148219113
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,97344,0,98800,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,113681,1100,114244,1600)
+Skill = (2,-5,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,295,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8422,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,522,1800,593,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,810,1800,1118,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,63,1800,140,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,24,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,314,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,64,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,19,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,12,14,15,17,25,26,27,29,30,38,42,44}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(96,1),(97,1),(98,1),(190,1),(191,1),(208,1),(332,1),(333,1)}
+Murders     = {1145624511,1145624592,1145625679,1145626988,1145627113}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3031 Amount=99, 2870, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 2870, 2854 Content={3349, 2839 String="TESTY\n\nNOWY-zabic 5 rootwormow i szkieleta\nChonorowy Wojownik-Zabic 2 scorpiony 5 orc warior i 5 rootwormow\nCiemny Wojonik-2 cyclopy 3 elfy\nWojownik Krola-10 cyclopow 10 elfow 5 elf scouth,walka z najmocniejszym ziomkiem z gangu nie na smierc i zycie.\nII Vice Lider-Zezwolenie Szefa i Vice szefa sojuszu\nVice lider-Zezwolenie szefa oraz czlonkow gangu\nSzef-2 konkurencje:\nq.kto pierwszy dojdzie do elf fortes i wroci do bazy9odliczanie przeciwnikowi 5 min na przyjscie do bazy.\n2 Wlka na smierc i zycuie szef oraz wyzywajacy.\n(wyzywac do walki moze tylko Vice Lider II Vice lider oraz Rycerz armi krolewskiej.)" Editor="Arigroin", 3003}, 3065, 3457, 3003}, 3071}}, 
+               6 Content={3502}}

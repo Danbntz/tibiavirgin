@@ -1,0 +1,53 @@
+ID              = 10898402
+Name            = "Dig Tempis"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-81-114-114)
+CurrentOutfit   = (129,114-81-114-114)
+LastLogin       = 1147378635
+LastLogout      = 1147378842
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31781,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,203971,0,204800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,50415,3000,64000,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,115,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,90072,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,20,1100,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,86,1100,105,50)
+Skill = (10,57,0,10,0,0,0,0,0,0,0,47898,1100,48008,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,40,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,15,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,16,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(46,1),(190,1),(191,1),(223,1)}
+Murders     = {1146280915,1146425859}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               4 Content={3381},
+               5 Content={3416},
+               6 Content={3318},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3031 Amount=84}}
+
+Depots      = {1 Content={3092, 3268, 3031 Amount=100, 3031 Amount=100, 2868 Content={3447 Amount=20, 3449 Amount=6, 3446 Amount=45}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2854 Content={3188 Charges=3, 3188 Charges=2, 3188 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2854 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3172 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=2, 3188 Charges=3, 3188 Charges=1, 3174 Charges=5, 3152 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3}, 2868 Content={3188 Charges=3, 3189 Charges=2, 3160 Charges=1, 3174 Charges=5, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={2868 Content={3069, 3084 RemainingUses=250, 3035 Amount=51, 3008, 3046, 3284 RemainingUses=1, 3425, 3357, 3483}, 3483, 3483, 3483, 3483, 3483, 3483, 2853, 3372, 2854 Content={3092 SavedExpireTime=1217, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=79, 3012, 3077, 3098, 3092 SavedExpireTime=1753, 3092, 3056 RemainingUses=200, 3085 RemainingUses=200, 3056 RemainingUses=200, 3012, 3012, 3012}, 2868 Content={3074, 3066, 3305, 3301, 3349, 3074, 3066, 3285, 3349, 3300, 3322}, 2854 Content={3425, 3425, 3409, 3421, 3425}, 2854 Content={3353, 3375, 3375, 3375, 3353, 3375, 3375, 3375, 3375, 3353, 3375, 3375}, 2854 Content={3377, 3377, 3377, 3377, 3377}}, 2868 Content={3577 Amount=33, 3582 Amount=31, 3578 Amount=6, 3590 Amount=12, 3595 Amount=3, 3585 Amount=21, 3723 Amount=9}, 2868, 3502 Content={2667, 3507, 3503, 3504 Content={3507 String="dig tempis\ncarlin" Editor="Sera Oldokko"}, 3470, 3503 Content={3507 String="dig tempis\ntahis" Editor="Dig Tempis"}, 3588 Amount=15}}, 
+               6 Content={3502}}

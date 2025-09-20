@@ -1,0 +1,54 @@
+ID              = 11917280
+Name            = "Lady Empujon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,79-91-91-0)
+CurrentOutfit   = (137,79-91-91-0)
+LastLogin       = 1135181995
+LastLogout      = 1135186834
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32232,31845,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,67199,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,17180,3000,20800,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,15494,1100,16449,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,44,0,10,0,0,0,0,0,0,0,13209,1100,13551,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,158,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1795,1100,1966,20)
+Skill = (14,0,1200,0,0,0,678,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,113,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(22,1),(23,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3012},
+               3 Content={2854 Content={3367, 3031 Amount=38, 3492 Amount=41, 3031 Amount=100, 2969 KeyNumber=3033, 3308, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3271},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={3456, 3409, 3492 Amount=51, 3457, 3003, 2853 Content={2969 KeyNumber=3033, 2816 String="The story of old Dragons mountain...\nAuthor: Anonymous\n\nIt is said, that near the swamp of the damned there is supposed to be a dragons lair in the mountains north of it. Legends speak about dragons with red scales and a fiery breath, which store great amounts of treasure in their lair. But since nobody will have the courage to go there, it will never be known, if the legends are true.", 3357, 2816 String="I've managed to imprison two cyclops in my secret dungeon under the lighthouse. I forced them to create some magic equipment. Soon I will be the mightiest warrior in Tibia.", 3121, 3116, 2821 String="Behold the beholders!\nThe beholders are a ancient race of underground dwelling necromancers. Allthough they can 'speak' like humans using some membranes, their native 'toungue' consisnts of a blinking code wih each eye, in which blinking could mean some syllable,\nletter or word. Its by far the most complex speach we ever encountered and almost impossible to comprehend. As far as we can tell its not only a language but also some kind of mathemathics. This combination makes it tedious even to try to understand that language. The books the beholder write constist only numbers and the code behind them is incredibly complex. This race was one of\nthose which were part in the creation wars and therefore its peak of civilisation and power is long gone. Its rumored of still existant settlements\nof beholders where they try to improove their unspeakable necromantic rituals and create an army of undead. In general they seem malicious but without ambition to do more then to claim some lairs and defend them. They seem too haveno ambitions in conquering or allying with other races in a bigger style then an ocasionally beholder merchenary which joins forces with other entitys for private reasons.", 3124}, 3456, 3502 Content={3008, 3084 RemainingUses=250, 3291, 3084 RemainingUses=250, 3035 Amount=16}}, 
+               3 Content={3502}}

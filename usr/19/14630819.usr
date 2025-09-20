@@ -1,0 +1,51 @@
+ID              = 14630819
+Name            = "Stassiiu"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,94-82-118-0)
+CurrentOutfit   = (131,94-82-118-0)
+LastLogin       = 1148207139
+LastLogout      = 1148207193
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32923,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,11015,0,13000,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,510,3000,1600,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6007,1100,6400,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,32,0,10,0,0,0,0,0,0,0,3838,1100,3977,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,348,1100,370,20)
+Skill = (14,0,1200,0,0,0,518,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={2920 SavedExpireTime=569, 3031 Amount=26, 2922 SavedExpireTime=273, 3308, 3492 Amount=47, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3301},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {6 Content={3492 Amount=60, 3286, 3483, 3504 Content={2874, 3003, 2853 Content={2880}, 2920, 3003, 3003, 2911, 3003, 2855, 3003}, 2854 Content={3425, 3285, 2969 KeyNumber=4603}, 2853 Content={3411, 3551, 3031 Amount=100, 2911 SavedExpireTime=2915, 3264, 3031 Amount=41, 3031 Amount=100}, 2853 Content={3293}, 2853 Content={2970 KeyNumber=4601, 2815 String="Charach=czesc\ngoshak batuk=luk (400 gp )\ngoshak pixo = 10 strazl ( 30 gp )\nMok=tak\nFutchi=nara\n" Editor="Kran Amon", 3552}, 2853 Content={3072, 3074, 2855 Content={3453, 3504 Content={3504 Content={3504 Content={3003, 3003, 3003, 3285, 2920, 3738 Amount=60, 2920, 2920, 3453, 2853 Content={3308, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}, 3285, 3003, 2914 SavedExpireTime=137, 3483, 3483, 3483, 3483, 3003}, 2874, 2874, 3003, 3483, 3003, 3483, 2922 SavedExpireTime=249, 2920, 2920}, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2969 KeyNumber=5000, 2853 Content={2920, 2989, 2989, 2989, 2989}}, 2969 KeyNumber=5010, 2853 Content={2973 KeyNumber=3520, 3413, 3413, 2853 Content={3286}, 3003, 2853 Content={3003}}, 3558}, 2853 Content={2882, 2901, 2901, 2901, 2911 SavedExpireTime=2329, 2882, 2901, 2853 Content={3456, 3447 Amount=1, 3286, 3286, 3286, 3286}}, 3502 Content={3264, 3286, 3031 Amount=31, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=16, 2920, 2920, 2920, 3492 Amount=89, 2854 Content={2955, 2853 Content={2991, 1781 Amount=10, 3492 Amount=70, 3453, 2901, 3463, 3463}, 3362, 3492 Amount=41, 3377, 2853 Content={3308, 2920 SavedExpireTime=326, 3003}, 3736 Amount=1, 2857 Content={2854 Content={3077, 3084 RemainingUses=250, 3046, 3046}, 2854 Content={3092, 3098, 3093, 3093, 3097 SavedExpireTime=275, 3097, 3052}}, 2853 Content={3349}, 2914 SavedExpireTime=1998, 3384, 3287 Amount=1, 3085 RemainingUses=200, 3578 Amount=7, 3269, 3413, 3413, 3285}, 2867 Content={3559, 2920 SavedExpireTime=436, 3552, 3004, 3416, 3357, 2853 Content={2853}, 2920, 3492 Amount=4, 3483, 2920, 3578 Amount=5, 3308, 3457, 3003}}}}

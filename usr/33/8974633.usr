@@ -1,0 +1,57 @@
+ID              = 8974633
+Name            = "Lord Jote"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,97-119-76-76)
+CurrentOutfit   = (129,97-119-76-76)
+LastLogin       = 1130099393
+LastLogout      = 1130099413
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,90693,0,98800,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,99760,1100,102403,1600)
+Skill = (2,227,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,278,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4446,1500,4925,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,554,1800,671,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,8483,1800,12334,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7180,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,33,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,212,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1778,1100,1966,20)
+Skill = (14,0,1200,0,0,0,270,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,22,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,8,10,11,16,18,25,29,42,45}
+QuestValues = {(14,1),(16,1),(18,1),(20,1),(22,1),(23,1),(35,1),(54,1),(58,1),(59,1),(60,1),(125,1),(126,1),(223,1),(227,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2868 Content={3031 Amount=59, 3503 Content={3272, 3031 Amount=100, 3264, 3410, 3308, 3507 String="lethal lasse\ncarlin"}, 3291, 3578 Amount=2, 3492 Amount=54, 2853 Content={3191 Charges=2, 3191 Charges=1, 3198 Charges=1, 3198 Charges=4, 3147}, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3279},
+               6 Content={},
+               7 Content={3558},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={3308, 3378, 3456, 3003}}, 
+               1 Content={3502 Content={3504 Content={3147, 3147, 3147, 3147, 3147, 2853 Content={}, 3507 String="Parik\ncarlin"}, 3492 Amount=50, 3358, 2853 Content={3035 Amount=24}, 2970 KeyNumber=4503, 3448 Amount=5, 3447 Amount=51, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={2853 Content={2874 ContainerLiquidType=3, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2}, 2893 ContainerLiquidType=0, 3110, 3595 Amount=1, 3579 Amount=9, 3492 Amount=35, 3738 Amount=6}, 2853 Content={}, 3457, 2853 Content={3265, 3059 String="", 3430, 3293, 3277 Amount=10, 3456, 3349, 3409}, 3504 Content={3349, 3349, 3447 Amount=18, 3308, 3350, 3362, 3378, 3378, 3374, 3378}, 2973 KeyNumber=3520, 2911 SavedExpireTime=868, 3050 SavedExpireTime=1792, 3603 Amount=6}}, 
+               3 Content={3502 Content={3559, 2853 Content={3409, 3059 String="", 3277 Amount=1}, 3374, 3505 String="Apocalipse Cosme is hunting here.\nNow, leave please.\nHaill meee d...(o.O)...b", 3505 String="", 2955}}, 
+               6 Content={3502 Content={3453, 3446 Amount=13}}}

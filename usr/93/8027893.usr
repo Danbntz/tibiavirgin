@@ -1,0 +1,57 @@
+ID              = 8027893
+Name            = "Cerdric"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,2-86-108-0)
+CurrentOutfit   = (133,2-86-108-0)
+LastLogin       = 1134355679
+LastLogout      = 1134356119
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,78048,0,83400,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,32640,1400,38165,1600)
+Skill = (2,231,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10232,1100,10918,100)
+Skill = (7,48,0,10,0,0,0,0,0,0,0,11369,1100,12043,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,24,0,10,0,0,0,0,0,0,0,3335,1200,3601,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,789,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,778,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,20,51,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(84,1),(85,1),(86,1),(87,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={3035 Amount=3, 3031 Amount=3, 3483, 3457, 3003, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3377},
+               5 Content={3409},
+               6 Content={3277 Amount=12},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}, 3507 String="Cerdric\nThais"}, 3504 Content={3507 String="Cerdric\nThais"}, 3502}, 
+               1 Content={3504 Content={3507 String="Cerdric\nCarlin"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}, 2853 Content={3286}}}}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3264}}}}}}, 3507 String="Cerdric\nCarlin"}, 3504 Content={3507 String="Cerdric\nCarlin"}, 3502 Content={3031 Amount=81}}, 
+               4 Content={3504 Content={2853 Content={2869 Content={}, 2853 Content={}}, 3507 String="Cerdric\nEdron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Cerdric\nDarashia", 2853 Content={}}, 3504 Content={3457, 3003, 3507 String="Cerdric\nEdron"}, 3504 Content={3507 String="Cerdric\nDarashia"}, 3504 Content={3507 String="Cerdric\nDarashia", 2853 Content={3577 Amount=1, 3582 Amount=1}}, 3502 Content={3367, 3367, 3277 Amount=3, 3578 Amount=12, 2853 Content={}, 3358, 3083 RemainingUses=150, 3054 RemainingUses=200, 2969 KeyNumber=4600, 3283}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3504 Content={3507 String="Cerdric\nAnkrahmun"}, 3504 Content={2866 Content={3447 Amount=25, 3447 Amount=100, 3447 Amount=100}, 3507 String="Cerdric\nAnkrahmun"}, 3502 Content={3311, 3350, 3447 Amount=90, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3031 Amount=26, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=26, 2853 Content={3578 Amount=6, 3577 Amount=31}, 3578 Amount=1, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3287 Amount=1, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3}}}}

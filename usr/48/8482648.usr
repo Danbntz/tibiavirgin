@@ -1,0 +1,53 @@
+ID              = 8482648
+Name            = "Reaben"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,85-88-88-85)
+CurrentOutfit   = (134,85-88-88-85)
+LastLogin       = 1147380675
+LastLogout      = 1147381224
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32921,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1000626,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,208585,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,167280,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,67,0,10,0,0,0,0,0,0,0,118145,1100,125318,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,60,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,45,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,379,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(99,1),(115,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(213,1),(226,1),(253,1),(332,1)}
+Murders     = {}
+
+Inventory   = {10 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="reaben \nvenore" Editor="Rey Arturos"}, 3507 String="reaben\nvenore" Editor="Daya Anycolrena"}, 3507 String="reaben\nvenore" Editor="Dreck de asgar"}, 3504 Content={2854, 3507 String="reaben\nvenore" Editor="Wamlo"}, 3504 Content={3507 String="reaben\nvenore" Editor="Sir Thari Romeo"}, 3504 Content={3507 String="reaben\nvenore" Editor="Kigura Batusay"}, 3503, 3504 Content={3507 String="reaben\nvenore" Editor="Ojos Asgar"}, 3504 Content={2854 Content={2854 Content={3457, 3003}, 3552, 3483, 3456, 3268, 2984, 3674, 3457, 3003}, 3507 String="reaben \nvenore" Editor="Ojos Asgar"}, 2880, 3447 Amount=3, 3507 String="reaben\nvenore" Editor="Genur"}}}
+
+Depots      = {0 Content={3504, 3502 Content={3559}}, 
+               1 Content={3504 Content={3507 String="reaben\ncarlin" Editor="Aiban"}, 3504 Content={3507 String="reaben\ncarlin" Editor="Mystic Swordman"}, 3504 Content={3507 String="ston\ncarlin\n"}, 3502}, 
+               2 Content={3504 Content={3349, 3349, 3425, 3425, 3425, 3425, 3266, 3308, 3003, 3457}, 3504 Content={3092, 3349, 3413, 3446 Amount=73, 3446 Amount=100, 3425, 3264, 3425}, 3502 Content={3031 Amount=100, 3031 Amount=40, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3266, 3266, 3291, 2868 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3359, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3359, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3411, 3031 Amount=75, 3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003, 3598 Amount=1, 3031 Amount=100, 3031 Amount=100, 3003, 3358, 3358}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3308, 3003, 3483, 3457, 3502}, 
+               6 Content={2472 Content={2854 Content={3446 Amount=100, 3003, 3457, 3446 Amount=49}, 3451, 2865 Content={3291}, 2866, 2949}, 2867 Content={3446 Amount=2, 2970 KeyNumber=3802, 2969 KeyNumber=3033}, 3502 Content={3017, 3092 SavedExpireTime=1788, 3504 Content={3483, 2866 Content={3412, 3582 Amount=28, 3291, 3017}}, 3092 SavedExpireTime=1207}}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3504 Content={2866 Content={2866}, 3507 String="bless of zanera\ndarashia\n" Editor="Bless Of Zanera"}, 3507 String="reaben\nport hope" Editor="Reaben"}, 3502 Content={2854 Content={3582 Amount=6}, 2854 Content={3577 Amount=74}}}}

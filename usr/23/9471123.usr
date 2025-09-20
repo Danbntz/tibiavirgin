@@ -1,0 +1,61 @@
+ID              = 9471123
+Name            = "Ragaseth"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,129-114-95-95)
+CurrentOutfit   = (134,129-114-95-95)
+LastLogin       = 1148059649
+LastLogout      = 1148063453
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33233,31690,9]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,940307,0,992000,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,596603,1100,642316,1600)
+Skill = (2,305,345,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,492,995,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,790,790,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,65906,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,12515,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,133,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6911,1100,7280,20)
+Skill = (14,0,1200,0,0,0,1003,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,66,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,12,0,3,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,13,15,20,23,25,26,27,29,30,38,39,44,45,76,81,87,88,89}
+QuestValues = {(21,1),(22,1),(23,1),(35,1),(53,1),(54,1),(55,1),(59,1),(86,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(109,1),(113,1),(114,1),(124,1),(137,1),(140,1),(141,1),(143,1),(190,1),(191,1),(216,1),(217,3),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2871 Content={3031 Amount=36, 3072, 3413, 2866 Content={3031 Amount=100, 3031 Amount=100, 3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3269, 2869}, 3582 Amount=3, 3155 Charges=1, 3588 Amount=4, 3457, 3003, 3031 Amount=16, 2969 KeyNumber=3033, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}},
+               4 Content={3567},
+               5 Content={3419},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2868 Content={2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}
+
+Depots      = {0 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Greenshore Village, Shop\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3035 Amount=64, 3504 Content={3507 String="ragaseth\nthais" Editor="Barcker"}, 3502}, 
+               1 Content={3456, 3483, 2853 Content={2970 KeyNumber=4503, 3446 Amount=19, 3301, 3384, 3298 Amount=4, 3147, 2970 KeyNumber=4502}, 3504 Content={3507 String="Ragaseth\nCArlin" Editor="Zerl-lo"}, 3504 Content={3507 String="Ragaseth\nCarlin\n" Editor="Ronnyn", 3492 Amount=20, 3492 Amount=100}, 3297, 3504 Content={3507 String="Ragaseth\ncarlin"}, 3505 String="pa me dejaste sin palabras neta te considero un buen amigo de hecho hasta me isiste llorar cuando te fuiste y espero y llegues a leer esta carta el GRAN GUS CRISTIAN  MILEXAVO etc...  como sea es el mismo kbron y espero q algun dia te tengamos o minimo veamos por camarita \nTQM: tu hijo zatix\n\ntbn le doy  gracias a gus (duwith) por q por el te conoci graxx bro a ti tbn te kiero mucho te conosco desde hace un putero y desde el primer dia q nos conosimos no nos hemos dejado de ver graxx bro.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Suntower\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Ragaseth\nab'dendriel" Editor="Zirkan"}, 3504 Content={3425, 3507 String="Ragaseth\nAb'dendriel" Editor="Hyp'frank", 2853 Content={2854 Content={3457, 3308, 3147, 2969 KeyNumber=3033}, 3457}}, 3505 Editor="Khons", 3505 String="Circocle and Ragaseth\n\nhunting here." Editor="Ragaseth", 3502}, 
+               4 Content={3093, 3661, 2866, 3042 Amount=1, 3027 Amount=1, 3551, 3046, 3046, 3045 RemainingUses=200, 3093, 3093, 2833 String="We raided that ape city but there was nothing that would have been worth to be taken. Seems those apes did not build that city after all. They are just primitive idiots. When we went to that river area southeast, we saw the lizards' settlement. Given the fact that they live in shabby huts but also built a huge stone structure similar to the ones in the ape city, I would bet the apes have driven those losers out.", 3492 Amount=16, 3504 Content={3507 String="Ragaseth\nEdron" Editor="Zirkan"}, 2874, 2874, 2874, 2874, 2874, 3502 Content={2874, 2874, 2833 String="We built our camp far away from those greedy scammers in Port Hope that are planning on stealing our gold as soon as we have found it. I know it is here. I am a dwarf, I must know. The others get impatient like silly elves. Until now we have found only little gold but at least it proves that the gold is here and we will defend it fiercly against everyone that tries to steal it. We have already chased away those apes and lizards that used to prowl around here. Too bad there are no dworcs around whom me and the boys could teach about the sharpness of our axes. We have already killed some adventurers that came here. As if we did not knew that they are after our gold. I can see the greed in their eyes. They would kill for a nugget, so they get killed for a nugget. "}}, 
+               5 Content={3322, 3050, 3050, 3502}, 
+               6 Content={3380, 3008, 3097, 3083 RemainingUses=150, 3093, 3492 Amount=100, 3483, 3457, 3448 Amount=20, 3483, 3492 Amount=34, 3483, 2874, 2991, 2874, 2867, 3457, 3583 Amount=2, 3092, 2469 Content={2469, 3457, 3003, 3031 Amount=9, 2469, 2469, 2469 Content={2917, 2917}, 2469}, 3740 Amount=1, 3502 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3147, 3492 Amount=100, 3492 Amount=100, 2969 KeyNumber=3600, 2853 Content={3492 Amount=100}, 3456, 3463, 2989, 3492 Amount=12, 3084 RemainingUses=250, 2969 KeyNumber=3033}}, 
+               7 Content={3504 Content={3507 String="Ragaseth\nankrahmun" Editor="Circocle"}, 3425, 3504 Content={3483, 2920, 2920, 2920, 2920, 3507 String="Ragaseth\nankrahmun"}, 3502}}

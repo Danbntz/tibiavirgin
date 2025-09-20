@@ -1,0 +1,53 @@
+ID              = 10391921
+Name            = "Encork"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (128,39-1-114-95)
+CurrentOutfit   = (128,39-1-114-95)
+LastLogin       = 1147641980
+LastLogout      = 1147642582
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32682,31684,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,392995,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,134616,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,25,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,142304,1100,155247,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,62,0,10,0,0,0,0,0,0,0,77060,1100,77623,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,54,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,275,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(16,1),(69,1),(112,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(257,1)}
+Murders     = {1145275281,1146355107,1146625405}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={3507 String="encork\nthais" Editor="Kha'Zuz"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3446 Amount=87, 3446 Amount=100, 3446 Amount=100, 2870 Content={3349, 3349, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3457, 3502 Content={}}, 
+               5 Content={3506 String="Warning!\n\nThe monthly rent of 1260 gold\nfor your house \"Darashia 2, Flat 05\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1260 gold\nfor your house \"Darashia 2, Flat 05\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1260 gold\nfor your house \"Darashia 2, Flat 05\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1260 gold\nfor your house \"Darashia 2, Flat 05\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1260 gold\nfor your house \"Darashia 2, Flat 05\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3056 RemainingUses=200, 3507 String="ENCORK\nDARASHIA", 3045 RemainingUses=189, 2991}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 2, Flat 05\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3008, 2854, 2854, 3552, 3492 Amount=3}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Encork\nAnkrahmun"}, 3502 Content={3270, 3412}}, 
+               8 Content={3502 Content={}}}

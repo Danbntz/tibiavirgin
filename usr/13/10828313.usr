@@ -1,0 +1,54 @@
+ID              = 10828313
+Name            = "Amorola"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,97-128-128-114)
+CurrentOutfit   = (134,97-128-128-114)
+LastLogin       = 1148257686
+LastLogout      = 1148258167
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33176,32862,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1335124,0,1423500,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,331904,3000,582400,1600)
+Skill = (2,740,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,1,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,314200,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,183,1100,232,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,72,0,10,0,0,0,0,0,0,0,191882,1100,202132,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,161,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8610,1100,8851,20)
+Skill = (14,0,1200,0,0,0,1158,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,81,93}
+QuestValues = {(46,1),(61,1),(69,1),(72,1),(73,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(109,1),(113,1),(114,1),(137,1),(138,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(214,1),(217,3)}
+Murders     = {}
+
+Inventory   = {3 Content={2872 Content={3457, 2866 Content={3578 Amount=3, 2871 Content={3031 Amount=64, 3031 Amount=100}, 2871 Content={3507 String="Amorola\nHERE\nRESPECT\nMSG ME TO OTHER PROBLEMS\nty" Editor="Amorola", 3507 String="AMOROLA \nHERE RESPECT \nTY,,\nEXIVA ME FOR OTHER PROBLEMS.\n" Editor="Azuxz", 3507 String="AMOROLA \nIS HERE\nRESPECT PLX...\nFOR OTHER PROBLEMS MSG MEE..\nOR EXIVA ME..\n" Editor="Amorola", 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2866 Content={3092 SavedExpireTime=1589, 3003, 3198 Charges=2, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=1, 2854 Content={3174 Charges=1, 3174 Charges=4, 3174 Charges=5}}}},
+               10 Content={2869 Content={2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={2471 Content={2471 Content={2471}}, 2854, 3551, 3502 Content={3605 Amount=6, 3003, 2866 Content={2854}, 2867}}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3409, 3409, 3409, 3507 String="amorola\nKazordoon  " Editor="Amorola"}, 2853 Content={2853, 2853 Content={3349}, 2853, 2853 Content={2853}, 2853, 2853 Content={3349, 2853 Content={3349, 2853 Content={2853}}}, 2853 Content={3377, 3377, 3377, 3377}, 2853 Content={3349, 3349, 2853}}, 3502 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

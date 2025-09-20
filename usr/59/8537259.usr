@@ -1,0 +1,54 @@
+ID              = 8537259
+Name            = "Sir Extesis de'Fire"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,114-114-114-114)
+CurrentOutfit   = (134,114-114-114-114)
+LastLogin       = 1140974817
+LastLogout      = 1140974940
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32543,31904,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,2721,0,4200,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2400,3000,6400,1600)
+Skill = (2,132,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,30,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,445,445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,1260,1100,1357,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,141,1100,165,50)
+Skill = (10,22,0,10,0,0,0,0,0,0,0,1080,1100,1226,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,45,1100,66,20)
+Skill = (14,0,1200,0,0,0,738,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,56,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2865 Content={3421, 3276, 3457}},
+               4 Content={3377},
+               6 Content={3266},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={2870 Content={3031 Amount=100, 3031 Amount=96}, 2865, 3305, 3504 Content={3504, 3507 String="angel ganix\nab'dendriel\n", 3504, 3504 Content={3507 String="sir extesis de'fire\nab'dendriel", 3504 Content={2853 Content={3507 String="robyn'hood\nab'dendriel"}, 2853 Content={3378, 3507 String="sir pretorian\nab'dendriel", 2853, 2853, 2853, 2853, 2853, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 2853 Content={3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 2\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3361, 2853, 3507 String="arcus leven\n ab'dendriel", 2853, 3507 String="sir pretorian\nab'dendriel"}, 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 2\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 2\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 2853 Content={3506 String="Warning!\n\nThe monthly rent of 980 gold\nfor your house \"Coastwood 2\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house."}}, 2880 ContainerLiquidType=2, 3505 String="Felicidades!!\nLes Decea La Familia\nWevon Fairy\n\n*Pou Fairy & Bruno Wevon*\n                 Cagancho" Editor="Sir Extesis de'Fire", 2880, 3507 String="Sir Extesis de'Fire\nab'dendriel", 2875}, 3507 String="stone legolas\nab'dendriel"}, 3502}, 
+               4 Content={3502}, 
+               6 Content={3502}}

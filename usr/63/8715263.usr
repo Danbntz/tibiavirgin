@@ -1,0 +1,59 @@
+ID              = 8715263
+Name            = "Thor Zanera"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,95-0-96-115)
+CurrentOutfit   = (134,95-0-96-115)
+LastLogin       = 1147805075
+LastLogout      = 1147805085
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33156,31785,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,321506,0,330400,100)
+Skill = (1,41,0,0,0,0,0,0,0,0,0,802923,1100,860219,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,635,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,114406,1500,131168,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,102,2000,210,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,8744,2000,12750,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,61166,2000,102350,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,10751,2000,12750,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,698,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,57,0,10,0,0,0,0,0,0,0,17482,1100,19203,20)
+Skill = (14,0,1200,0,0,0,1002,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,7,8,10,11,16,17,18,21,27,29,39,44,45,55,76,87,88}
+QuestValues = {(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(37,1),(60,1),(61,1),(84,1),(85,1),(86,1),(87,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(121,1),(125,1),(126,1),(128,1),(217,3),(223,1),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,1),(246,1),(247,1),(249,4),(250,4),(251,1),(254,1),(269,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2867 Content={3578 Amount=8, 3492 Amount=14, 2853, 3003, 3457, 3093 SavedExpireTime=1595}},
+               4 Content={3370},
+               5 Content={3073},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={2469 Content={3507 String="Home Zenek (zenus)\n\nWelcome in my Hause"}, 3270, 3411, 3412, 2920 SavedExpireTime=597, 2472 Content={3289, 3453, 3308, 3456, 3003, 3457, 2869 Content={}, 2865 Content={2857 Content={}}, 2867 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}, 2854 Content={2854 Content={}, 2854 Content={}}, 2853 Content={2868 Content={2868 Content={}}}, 3457}, 2472 Content={3336, 3446 Amount=3, 3349, 3273, 3273, 3358, 3362, 3353, 3505 String="well party sucked died twice", 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3012}, 2854 Content={2854 Content={3483}, 2868 Content={2853 Content={3353, 3056 RemainingUses=200, 2949}, 3349, 3446 Amount=2}, 2867 Content={}}, 3503 Content={3507 String=""}, 3502 Content={3576, 3220, 2957, 2472 Content={3505 String=""}, 2472 Content={3308, 3350, 3056 RemainingUses=200, 3271, 3305}}}, 
+               1 Content={3336, 3504 Content={3507 String="thor zanera\ncarlin"}, 3502 Content={2472 Content={2955, 2973 KeyNumber=3520}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3425, 2853 Content={3352, 2853 Content={3286, 3264}, 3286, 3264, 3264, 3286, 3286, 3264}, 3352, 3502 Content={3446 Amount=4, 3350}}, 
+               4 Content={2469 Content={3483, 3267, 2853 Content={3421, 3421, 3377, 3377, 3377, 3377, 3377}}, 3504 Content={2854 Content={3505 String="Aeons pmts\n2.5k    8-15-05", 3003, 2853 Content={3372, 3372}, 3008, 3119, 3457}, 2920, 2853 Content={3582 Amount=32, 3583 Amount=3}, 3599 Amount=8, 3586 Amount=8, 3506 String="thor zanera\nedron\n\n\nyo dude this is brandun, i now it has been a while since i have talked to you. my mother has banned me from going over to your house or calling you with her phone. she also made me miss 2 damn weeks of school for hunting when all we got was 2 damn deer.  and y is mike hanging out with sean when i know and probably you no mike did it. i dont know what has happend when i was gone but too me it makes no sense. because i know mike did it because he hacks just about every person if he has there acc and password. me i will nver trust mike i dont know about you but yeah well i have to go    try sending me a letter back.\n", 3507}, 3502 Content={2871 Content={3092 SavedExpireTime=420, 3054 RemainingUses=200, 3093, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2865 Content={2861 Content={3031 Amount=24, 3035 Amount=11, 3043 Amount=5}, 3042 Amount=1, 3004}, 3153 Charges=1}}, 
+               5 Content={2858, 2853 Content={2853 Content={2853 Content={3410, 3410, 3410, 3410, 2853 Content={2853}}}}, 3059, 2469 Content={2853 Content={3492 Amount=54, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3577 Amount=3, 3582 Amount=6}, 2469 Content={2854, 2867, 2854 Content={3056 RemainingUses=200, 3483, 3457, 3003, 3003, 3457, 3267, 3285, 3412, 3336, 3483}, 2872}, 2469 Content={3007}, 3503 Content={2853 Content={3286, 3286, 3286, 2853 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}}, 2853 Content={2853 Content={3286, 3286, 3358, 2853 Content={3358, 3286, 3358, 3286, 3286, 3358, 3286}}}, 2853 Content={3264, 3264, 3264, 3264, 3264, 3264, 3286, 2853 Content={3352, 3358, 3358, 3264, 3358, 3358, 3264, 3264}}, 2853 Content={3264, 2853 Content={3286, 3358, 3358, 3358, 3358, 3286, 3286, 3358}, 3286, 3286, 3286, 3358}, 3507}, 3504 Content={3504, 3504, 3504 Content={3507 String="lezdes\ndarashia" Editor="Lezdes"}}, 3502 Content={3031 Amount=59, 3035 Amount=31, 3043 Amount=1, 3056 RemainingUses=200, 3056 RemainingUses=200}}, 
+               6 Content={3504 Content={3507 String="thor zanera\nvenore"}, 3502 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2920 SavedExpireTime=600}}, 
+               7 Content={3293, 2853, 3411, 3110, 3502 Content={3031 Amount=16, 3301}}}

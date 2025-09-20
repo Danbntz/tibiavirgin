@@ -1,0 +1,53 @@
+ID              = 12872620
+Name            = "Rasputin On Zanera"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,41-114-126-79)
+CurrentOutfit   = (128,41-114-126-79)
+LastLogin       = 1148190810
+LastLogout      = 1148191436
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33191,32433,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,39818,0,47000,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,26342,1100,29649,1600)
+Skill = (2,164,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,195,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,7071,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1356,1800,2063,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1045,1100,1145,20)
+Skill = (14,0,1200,0,0,0,919,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,65,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,1,0,101,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,4,6,10,20,29,87,88}
+QuestValues = {(28,1),(29,1),(30,1),(333,1)}
+Murders     = {1146723459,1146725122}
+
+Inventory   = {1 Content={3367},
+               3 Content={2866 Content={3031 Amount=2, 3031 Amount=100, 3031 Amount=100, 3492 Amount=56, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3070},
+               7 Content={3559}}
+
+Depots      = {0 Content={3502}, 
+               4 Content={3313, 3504 Content={3507 String="rasputin on zanera\nedron" Editor="Gerudopro"}, 3502}, 
+               5 Content={3043 Amount=1, 3504 Content={3507 String="ALEJANDRADIP\nTHAIS" Editor="Alejandradip"}, 3504, 2480, 2853 Content={3504 Content={3507 String="Kalan Sata\nThais" Editor="Kalan Sata"}, 3504 Content={3507 String="proffesor roshi\ndarashia" Editor="Vergus'fenix"}, 3504, 3504 Content={3507 String="proffesor roshi\ndarashia" Editor="Vergus'fenix"}, 3504 Content={3507 String="coronel pancho\ndarashia" Editor="Coronel Pancho"}, 3504 Content={3507 String="bureau en'gros\ndarashia" Editor="Bureau en'Gros"}}, 3568, 3035 Amount=4, 3504 Content={3507 String="Rasputin on Zanera\ndarashia" Editor="Gerudokabron"}, 3588 Amount=100, 3504 Content={3507 String="Rasputin on zanera\nDarashia" Editor="Gerudokabron"}, 3502 Content={3377, 2853}}, 
+               6 Content={3502}}

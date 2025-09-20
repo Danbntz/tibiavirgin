@@ -1,0 +1,61 @@
+ID              = 7944842
+Name            = "Kanox Meger"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-76-76-0)
+CurrentOutfit   = (134,0-76-76-0)
+LastLogin       = 1121256833
+LastLogout      = 1121256841
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,214230,0,232500,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,77280,3000,193600,1600)
+Skill = (2,440,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,58,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,895,895,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,32254,1100,33003,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,42,1400,71,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,31,1100,50,50)
+Skill = (10,50,0,10,0,0,0,0,0,0,0,23341,1100,24392,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1861,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(24,1),(37,1),(86,1),(87,1),(96,1),(97,1),(108,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2869 Content={3031 Amount=9, 3035 Amount=1, 2869 Content={3160 Charges=1}, 3457, 3483, 3003}},
+               4 Content={3383},
+               5 Content={3433},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3046 SavedExpireTime=1416}}
+
+Depots      = {0 Content={3582 Amount=7, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2869 Content={2656, 2656, 2656, 2656, 2656}, 2469 Content={2869 Content={3045 RemainingUses=200, 3421, 3372, 3446 Amount=100, 3446 Amount=58}, 2865 Content={3583 Amount=11, 3578 Amount=67, 3577 Amount=80, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 2866 Content={2869 Content={3349, 3264, 3349, 3349, 3349, 3349}, 3375, 3367, 3367, 3354, 3354, 3354}, 2854 Content={3046 SavedExpireTime=2989, 3077, 3046 SavedExpireTime=2991, 3046 SavedExpireTime=2996, 3084 RemainingUses=250, 3046 SavedExpireTime=2998, 3084 RemainingUses=250, 3056 RemainingUses=200, 3056 RemainingUses=200, 2853 Content={2853 Content={3110, 3110, 3110, 3110}, 3110, 3110, 3505 String="huh are you crazy???\n", 3507 String="Kanox Meger \n\n\nHunting here!!!!\n\nleave or msg me!!!\n", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Castle, 4th Floor, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3110, 3110}, 3097 SavedExpireTime=3522, 2853 Content={3483, 3483, 3483, 2857 Content={}, 3483, 3483, 3483, 3483}, 3083 RemainingUses=150, 3083 RemainingUses=150, 3012}, 2869 Content={3551, 3552}}, 2469 Content={3031 Amount=76, 3035 Amount=14, 3098 SavedExpireTime=441, 3052 SavedExpireTime=420, 3297}, 3502 Content={2867 Content={2866 Content={3198 Charges=5, 3198 Charges=5}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 
+               5 Content={2853 Content={3274, 3358, 3446 Amount=66, 2866 Content={2867 Content={3410, 3286, 3410, 3286, 3410, 3410, 3286, 3264, 3354, 3410, 3410, 3354}, 3410, 3410, 3483, 3264, 3286, 3286, 3410, 3286, 3358, 3286, 3264, 3264, 3354, 3410, 3264, 3410, 3359, 3286, 3264}}, 3502 Content={}}, 
+               6 Content={3578 Amount=8, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

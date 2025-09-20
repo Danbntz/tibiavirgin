@@ -1,0 +1,58 @@
+ID              = 9656702
+Name            = "Choran"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,94-132-113-131)
+CurrentOutfit   = (129,94-132-113-131)
+LastLogin       = 1147994870
+LastLogout      = 1147996895
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32603,32304,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,293868,0,295200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,144542,3000,193600,1600)
+Skill = (2,470,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,114,130,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,945,945,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,194341,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,65,0,10,0,0,0,0,0,0,0,101618,1100,103482,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,76,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,796,1100,810,20)
+Skill = (14,0,1200,0,0,0,517,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,90,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,37,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(58,1),(61,1),(67,1),(69,1),(71,1),(98,1),(106,1),(107,1),(121,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={3291, 3031 Amount=85, 2854 Content={3447 Amount=16, 3354, 3155 Charges=1, 3353}, 3003, 2868 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3447 Amount=3, 3449 Amount=1, 3031 Amount=100, 3031 Amount=100, 3353, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3085 RemainingUses=200, 3409, 3359, 3367, 3354}, 2854 Content={3084 RemainingUses=250, 3084 RemainingUses=54, 3152 Charges=1, 3152 Charges=1, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3148 Charges=3}, 3457, 3723 Amount=6, 3198 Charges=5, 3198 Charges=5}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3046 SavedExpireTime=1778}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3349, 3358, 3358}, 3358, 3358, 3358, 3349, 3349, 3310, 3359, 3359, 3507 String="Choran\nThais\n\n" Editor="Choran"}, 3504 Content={3507 String="Choran\nThais" Editor="Choran", 2865 Content={2853 Content={3358, 3358, 3358, 3358, 3358, 3358}, 3359, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="choran\nthais\n" Editor="Smania"}, 2853 Content={2853 Content={2853}}, 3507 String="Choran\nThais\n" Editor="Choran"}, 3507 String="choran\nthais\n" Editor="Smania"}, 3504 Content={3507 String="Choran\nThais\n" Editor="Choran", 2853 Content={2853 Content={2853 Content={2853}}}}, 3504 Content={3507 String="Choran\nThais" Editor="Choran"}, 3504 Content={3507 String="Choran\nThais\n" Editor="Choran"}, 3504 Content={3507 String="Choran\nThais" Editor="Smania"}, 3507 String="Choran\nThais"}, 3502}, 
+               1 Content={3504 Content={3507 String="choran\ncarlin" Editor="Smania"}, 3504 Content={3504 Content={3507 String="Choran\nCarlin" Editor="Choran"}, 3504 Content={3504 Content={3507 String="Choran\nCarlin\n" Editor="Bum-Bum Branco"}, 3507 String="Choran\nCarlin\n" Editor="Gray Swordsman"}, 3504 Content={3504 Content={3507 String="Choran\nCarlin\n" Editor="Choran"}, 3504 Content={3504 Content={2983, 2981, 3658, 2981, 3658, 2983, 3661, 3507 String="Choran\nCarlin"}, 3504 Content={3507 String="Choran\nCarlin"}, 3504 Content={3109, 2955, 2955, 3054 RemainingUses=200, 3056 RemainingUses=200, 3505 String="O restinho", 3507 String="Choran\nCarlin"}, 3504 Content={2917, 2917, 2917 SavedExpireTime=2946, 3507 String="Choran\nCarlin"}, 3506 String="Choran\nCarlin\n\n\n=============Tiket======================================================================Vale uma crow armor=================================Trocar com Smania ou gumercindo====================", 3504 Content={3507 String="Choran\nCarlin"}, 3504 Content={3507 String="Choran\nCarlin"}, 3506 String="Choran\nCarlin\n\nCara, estou mandando essa carta pra dizer q to mudando de cidade, to indo pra thais!!!! Vou mudar pra la e levar ts os meus itens e virar dakela cidade, vou ficar la pra pegar lvl nos cyclops, carlin ta mt lotada nas valks!!!!! Nos falamos!!! (e visse o c. shield q te enviei???) \nE ve c responde essa carta c eu nao tiver online!!!!!\n    Flwwww!!!!!", 3504 Content={3507 String="Choran\nCarlin"}, 3507 String="Choran\nCarlin"}, 3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={2853}}, 3507 String="Choran \nCarlin" Editor="Choran"}, 3738 Amount=6, 3507 String="Choran\nCarlin\n"}, 3504 Content={3504 Content={3504 Content={2853, 3507 String="Keni Aerni\nCarlin"}, 3507 String="Choran\nCarlin"}, 3504 Content={2853 Content={3352, 2853, 2853 Content={2853, 2853}}, 3507 String="Choran\nCarlin\n"}, 3504 Content={2853, 3507 String="Choran\nCarlin\n"}, 3504 Content={3507 String="Choran\nCarlin\n"}, 3507 String="Choran\nCarlin\n"}, 3507 String="Choran\ncarlin"}, 3507 String="Choran\nCarlin"}, 3507 String="Choran\nCarlin\n" Editor="Choran"}, 3504 Content={1781 Amount=100, 3507 String="Choran\nCarlin" Editor="Smania"}, 3504 Content={3507 String="Choran\nCarlin\n" Editor="Choran"}, 3483, 3492 Amount=49, 3483, 3506 String="Choran \nCarlin\n\nMudei de city\nfui pra carlinhos tbm\n" Editor="Smania", 3502 Content={2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2868 Content={3174 Charges=3, 3174 Charges=5}, 3305, 2866 Content={2867 Content={3384, 3457, 3003}, 2868 Content={3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4}, 2868, 2854, 2854 Content={3305, 3305, 3305, 3305, 3349, 3413, 3413, 3413}}, 2871 Content={3446 Amount=23, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3483, 3421, 3447 Amount=39, 3447 Amount=100, 3353, 3148 Charges=3, 3164 Charges=2, 1781 Amount=59, 3447 Amount=100, 3447 Amount=100}, 2867 Content={3275, 3425, 3425, 3425, 3425, 3425, 3483, 3425, 2854 Content={3148 Charges=3, 3148 Charges=3, 3192 Charges=2}}, 2473 Content={3031 Amount=100, 3031 Amount=29, 2969 KeyNumber=3600, 2973 KeyNumber=3520, 3264, 3285, 3267, 2955, 2911 SavedExpireTime=1320}, 2869 Content={2857 Content={3077, 3084 RemainingUses=250, 3098}, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3097}, 2872 Content={3280, 3425, 3357, 3046, 3351, 3046, 3279, 3300, 3046 SavedExpireTime=1751, 3084 RemainingUses=250, 3372, 3457}, 2868 Content={3084 RemainingUses=67, 3008, 3084 RemainingUses=250, 2868 Content={3160 Charges=1, 3160 Charges=1, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2481 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=57, 3031 Amount=100, 3035 Amount=100, 3027 Amount=2}, 2473 Content={3582 Amount=3, 2969 KeyNumber=3033, 3456, 3110, 3110, 3110, 3552, 2920 SavedExpireTime=508, 3294}, 2473 Content={2920 SavedExpireTime=599, 2922 SavedExpireTime=183, 3590 Amount=1, 3585 Amount=3, 3595 Amount=1}}}, 
+               2 Content={2853, 3502}, 
+               3 Content={3083 RemainingUses=150, 3502}, 
+               6 Content={3504 Content={3507 String="choran \nvenore" Editor="Smania"}, 3502}}

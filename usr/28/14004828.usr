@@ -1,0 +1,52 @@
+ID              = 14004828
+Name            = "Hektik Saint"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-0-0-91)
+CurrentOutfit   = (130,0-0-0-91)
+LastLogin       = 1148197161
+LastLogout      = 1148197306
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31682,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54307,0,57600,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,81141,1100,81854,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,129,275,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,20608,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1800,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,14109,1800,22252,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,58,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,929,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1452,1100,1590,20)
+Skill = (14,0,1200,0,0,0,1093,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,39,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,10,20,42}
+QuestValues = {(59,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2865 Content={3031 Amount=71, 3031 Amount=100, 3031 Amount=100, 3582 Amount=1, 2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2969 KeyNumber=3033}},
+               4 Content={3377},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3297}}
+
+Depots      = {0 Content={3504 Content={3376, 3426, 3507 String="Hektik Saint\nThais" Editor="Hektik Vato"}, 3502 Content={3376, 3378}}, 
+               3 Content={3152 Charges=1, 2853 Content={4277 Content={3582 Amount=5}}, 3031 Amount=88, 3031 Amount=100, 3492 Amount=27, 3483, 3198 Charges=3, 3198 Charges=5, 3066, 3372, 2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2647, 2865 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3003, 3059, 2853, 2969 KeyNumber=3033, 3504 Content={3507 String="Hektik Saint\nAb'dendriel\n" Editor="Hektik Saint"}, 3502 Content={3457}}}

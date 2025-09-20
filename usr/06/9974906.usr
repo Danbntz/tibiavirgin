@@ -1,0 +1,61 @@
+ID              = 9974906
+Name            = "Nomenklatura"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,92-114-95-114)
+CurrentOutfit   = (134,92-114-95-114)
+LastLogin       = 1128414653
+LastLogout      = 1128416430
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33213,32454,1]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,315553,0,330400,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,473040,1100,478602,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,165,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35516,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,28,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,34499,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,128,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,989,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,187,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,8,9,14,16,17,18,39,42,45,76,85,88}
+QuestValues = {(62,2),(84,1),(179,1),(180,1),(190,1),(191,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={2869 Content={3200 Charges=3, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2920 SavedExpireTime=598, 3031 Amount=97, 3031 Amount=100, 3031 Amount=100, 3457, 3031 Amount=100, 3003}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3324},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={}}
+
+Depots      = {0 Content={3504 Content={3507 String="nomenklatura\nthais"}, 3457, 3502 Content={}}, 
+               1 Content={3503 Content={}, 3504 Content={3507 String="nomenklatura\ncarlin\n"}, 3504 Content={}, 3503 Content={3503 Content={3507 String="nomenklatura\ncarlin\n"}}, 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="nomenklatura\nab'dendriel"}, 3503 Content={3507 String=""}, 3504 Content={3507 String="nomenklatura\nab'dendriel"}, 3504 Content={3507 String="nomenklatura\nab'dendriel\n"}, 3502 Content={}}, 
+               4 Content={3552, 3031 Amount=3, 3282, 3509, 3308, 3035 Amount=1, 2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2871 Content={}, 3502 Content={}}, 
+               5 Content={2650, 2867 Content={3372, 3464, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3372, 2647, 2853 Content={3503 Content={}}, 2653}, 2854 Content={3483, 3483}, 3582 Amount=95, 2656, 3606 Amount=6, 3591 Amount=1, 2656, 3591 Amount=10, 3598 Amount=5, 2667, 3590 Amount=9, 3449 Amount=3, 3577 Amount=10, 2650, 3591 Amount=4, 3031 Amount=100, 3590 Amount=3, 3077, 2647, 2656, 3606 Amount=5, 3591 Amount=1, 2656, 3591 Amount=10, 3046 SavedExpireTime=210, 2866 Content={3483, 3483, 3483, 3483, 2868 Content={2854 Content={}}}, 2667, 3590 Amount=15, 2659, 3591 Amount=4, 3031 Amount=100, 3590 Amount=3, 2968 KeyNumber=3940, 2656, 3606 Amount=5, 3591 Amount=1, 2656, 3591 Amount=10, 3598 Amount=5, 2656, 3591 Amount=10, 2650, 3031 Amount=100, 3590 Amount=3, 3504 Content={}, 3504 Content={3507 String="dientes saint\ndarashia"}, 3504 Content={3507 String="Dienekes warrior\nDarashia"}, 2656, 3606 Amount=5, 3591 Amount=1, 2656, 3591 Amount=10, 2656, 3591 Amount=10, 2659, 3031 Amount=85, 3590 Amount=3, 3077, 2656, 3606 Amount=5, 3591 Amount=1, 2656, 3591 Amount=10, 3598 Amount=5, 2656, 3591 Amount=9, 3540, 3279, 2650, 2398, 3351, 3598 Amount=5, 3059 String="", 3039, 3042 Amount=3, 2644, 2644, 2644, 2644, 2853 Content={3031 Amount=4, 3507 String="necros plis plis necros plis 30 plis"}, 3582 Amount=8, 2644, 2653, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3504 Content={3507 String="nomenklatura\ndarashia"}, 3504 Content={3507 String="nomenklatura\ndarashia"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 4, Flat 11\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3504 Content={3507 String="nomenklatura \ndarashia\n"}, 3504 Content={3507 String="nomenklatura\ndarashia"}, 3504 Content={3507 String="nomenklatura\ndarashia"}, 3504 Content={3286, 3409}, 3504 Content={3507 String="nomenklatura\ndarashia\n"}, 3504 Content={3507 String="nomenklatura \ndarashia\n"}, 3504 Content={}, 3504 Content={3507 String="nomenklatura \ndarashia\n"}, 3504 Content={3507 String="nomenklatura\ndarashia\n"}, 3507 String="nomenklatura\ndarashia\n"}, 3504 Content={3507 String="nomenklatura\ndarashia"}, 3502 Content={2853 Content={}, 3447 Amount=23, 2393}}, 
+               6 Content={3504 Content={3507 String="Nomenklatura\nvenore"}, 3504 Content={3507 String="Nomenklatura\nvenore\n"}, 3504 Content={3507 String="Nomenklatura\nvenore\n"}, 3502 Content={}}, 
+               7 Content={3504 Content={2853 Content={3264, 3264, 3264, 3582 Amount=7, 3286, 3286}, 3507 String="nomenklatura\nankrahmun\n"}, 3504 Content={2853 Content={2853 Content={2925 RemainingExpireTime=187, 2853 Content={3286}}, 2853 Content={3286, 3286, 3286}, 3264}, 3507 String="nomenklatura \nankrahmun"}, 3504 Content={3003, 3457, 2920 SavedExpireTime=0, 3507 String="nomenklatura \nankrahmun"}, 3378, 3376, 3411, 3502 Content={3507 String="", 3354}}, 
+               8 Content={3502 Content={}}}

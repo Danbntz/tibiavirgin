@@ -1,0 +1,57 @@
+ID              = 8822721
+Name            = "Shinobin"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,0-114-114-0)
+CurrentOutfit   = (128,0-114-114-0)
+LastLogin       = 1148057842
+LastLogout      = 1148058501
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32215,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,268355,0,295200,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,105779,1400,111701,1600)
+Skill = (2,280,375,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,850,850,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,473,1100,610,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,30402,1100,31715,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,81,1200,109,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,144,1200,181,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,91,1200,109,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,113,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,171,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,10,20,29,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(55,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(115,1),(121,1),(125,1),(126,1),(131,1),(132,1),(140,1),(141,1),(190,1),(191,1),(213,1),(214,1),(217,3),(223,1),(226,1),(253,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3446 Amount=100, 3446 Amount=100}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3504 Content={3031 Amount=63, 3286, 3286, 3354, 3264, 3358, 3354, 3286, 3507 String="Shinobin\nThais\n" Editor="Shinobin"}, 3502 Content={3446 Amount=40, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3003, 3448 Amount=5, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3198 Charges=5, 3447 Amount=81, 3350, 3349, 3059, 3007, 3349}, 3585 Amount=2, 3285, 3285, 3285, 2968 KeyNumber=3940, 3280, 2874 ContainerLiquidType=10, 3287 Amount=5, 3367, 3198 Charges=5, 2867 Content={3031 Amount=90, 3031 Amount=100, 3031 Amount=100, 3035 Amount=8, 3031 Amount=100}, 3577 Amount=5, 3582 Amount=10}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={2853 Content={3492 Amount=28, 3483, 3031 Amount=17}}}, 
+               3 Content={3502 Content={2854 Content={3031 Amount=6, 3031 Amount=100, 3031 Amount=100, 3446 Amount=8, 3035 Amount=4, 3354, 3354, 3286, 3286, 3286, 3425, 3285}}}, 
+               6 Content={3502 Content={2854 Content={}, 3308, 2865 Content={3031 Amount=100, 3031 Amount=100, 2865 Content={3031 Amount=55, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3035 Amount=6}, 2869 Content={3354, 3354, 3354, 3367}, 2853 Content={3446 Amount=17, 3446 Amount=100, 3449 Amount=2, 3287 Amount=3}, 2854 Content={2839 String="", 3078, 3507 String="Gustavo the shadow master\nVenore", 2853 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!"}, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampathes to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicals out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 3457, 3457, 3457, 2991, 3673, 3736 Amount=1, 2902 ContainerLiquidType=0, 2821 String="I can't figure out how to reanimate \ndragons and other monsters yet. \nI am sure the secret was hidden by \nthis ancient knightly order after they \ndefeated Goshnar. \nI am also sure that the 'thing' called \n'necromants nectar' is crucial to \nfind the secret entrance to the Pits \nof Inferno. And what is the meaning of \nthe phrase 'feed those in need', which \nI discovered in the ancient scrolls of my \nformer master, before he hid them from me. \nI have to find them or figure out the secret \non my own. I will never share my secrets and the success with the brotherhood, but now \nthat the summoning of Urgith went wrong I \nhave to spend to much time in fighting the \nundead back that are out of control. \nBut now, after all what I did allready to \nbecome the new necromant king, I can't give \nup and i will not. Never! \nThe secrets of death will be mine! MINE!", 2906, 3483, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3483, 3003}, 2854 Content={3279, 3350, 3350, 3350, 3350, 3305, 3007, 3425, 3350, 3350, 3008, 3350, 3350, 3377, 3279, 3317, 3350, 3350, 3301, 3008}, 2853 Content={3188 Charges=3, 3188 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3189 Charges=3, 3147}, 2854 Content={3597 Amount=2, 3595 Amount=2, 3585 Amount=7, 3586 Amount=9, 3601 Amount=5, 3598 Amount=57, 3602 Amount=35, 3577 Amount=20, 3582 Amount=5}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}

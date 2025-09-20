@@ -1,0 +1,59 @@
+ID              = 8430168
+Name            = "Asterisk"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (130,0-2-60-57)
+CurrentOutfit   = (130,0-2-60-57)
+LastLogin       = 1118983130
+LastLogout      = 1118983389
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,94529,0,98800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,95920,1400,111701,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,85,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,53,0,10,0,0,0,0,0,0,0,60341,1100,65264,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,30910,1100,31715,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,284,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,30,0,10,0,0,0,0,0,0,0,9813,1200,11251,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6000,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,20,29,42,44,51,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(58,1),(86,1),(87,1),(93,1),(94,1),(98,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3447 Amount=100, 3447 Amount=100, 3425, 3031 Amount=15}},
+               4 Content={3358},
+               5 Content={},
+               6 Content={3350},
+               7 Content={3372},
+               8 Content={},
+               9 Content={},
+               10 Content={3447 Amount=10}}
+
+Depots      = {0 Content={3504 Content={3507 String="asterisk\nthais"}, 3502 Content={}}, 
+               3 Content={3502 Content={3097 SavedExpireTime=3250, 3483, 3277 Amount=8, 3446 Amount=6, 3349, 3035 Amount=6, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3457}}, 
+               4 Content={3504 Content={3412, 3507 String="Asterisk\nEdron"}, 3504 Content={3507 String="Asterisk\nEdron"}, 3504 Content={3084 RemainingUses=250, 3507 String="asterisk\nedron\n"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Asterisk\nDarashia"}, 3504 Content={3507 String="Asterisk\nDarashia"}, 3504 Content={3507 String="Asterisk\nDarashia"}, 3502 Content={}}, 
+               6 Content={2853 Content={3504 Content={3504 Content={3507 String="quik pirokaman\nvenore"}, 3507 String="dufinin\nvenore"}, 3504 Content={3507 String="Actoer\nVenore"}, 3504 Content={3507 String="Actoer\nvenore"}, 3008}, 3502 Content={2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2880 ContainerLiquidType=0, 3083 RemainingUses=55, 3374, 3411, 3270, 3270}}, 
+               7 Content={3504 Content={3507 String="Asterisk\nAnkrahmun"}, 3502 Content={}}}

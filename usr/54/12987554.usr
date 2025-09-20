@@ -1,0 +1,55 @@
+ID              = 12987554
+Name            = "Shinigami Guard"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1148224004
+LastLogout      = 1148228265
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32350,32215,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54734,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,14104,3000,20800,1600)
+Skill = (2,257,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,21,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14298,1100,14863,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,42,0,10,0,0,0,0,0,0,0,10477,1100,11112,50)
+Skill = (9,25,0,10,0,0,0,0,0,0,0,1635,1100,1797,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,4,0,55,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(18,1),(20,1),(35,1),(37,1),(59,1),(60,1),(61,1),(69,1),(98,1),(100,1),(125,1),(126,1),(128,1),(192,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2867 Content={2885, 2885 ContainerLiquidType=2, 3577 Amount=2, 3505, 3308, 3003, 3031 Amount=10, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2875}}
+
+Depots      = {0 Content={2853, 2816 String="Diary of E. R. Grossom\n\n", 3310, 3310, 3299, 2824 String="How to mix magical potions\n\nPotion of regained vision\n\nDrinking this will give you back the abilty to see for some time. It does not last too long...\nAll you need is:\na roll\nflour\ndough\na rose\na cherry.\nPut all these ingredients into a mug and heat it for 31 minutes. Speak out the words \"nalus murtu\"\nto finish the potion.\nNow drink it. You will see again - and you will be able to read this book!\nMay the world become clearer!", 3504 Content={3059, 3059, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard"}, 3504 Content={3504 Content={3504 Content={3504, 2880, 2905, 3464, 2905, 2905, 2905, 2880 ContainerLiquidType=1, 2911, 2911 SavedExpireTime=2938}, 3469, 2880 ContainerLiquidType=1, 2880 ContainerLiquidType=1, 3464, 3467, 2893}, 3469, 3469, 2905, 2905, 2905, 3468, 3464, 2905, 3469}, 3504 Content={3504 Content={3504 Content={3031 Amount=73, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3502 Content={2853 Content={3595 Amount=2, 3590 Amount=1, 3598 Amount=1}, 3504 Content={3316, 3349, 3285, 3285, 3504 Content={3291, 3291}, 3285}, 3504 Content={3308, 3003, 3003, 3456, 3483, 2853 Content={3003, 3003, 3003, 3456, 3456, 3308, 3308}, 3003, 3003, 3003, 3003}, 2853 Content={2955, 3012, 3174 Charges=2, 2906, 3012, 3008, 3008}, 2853 Content={3509, 2873, 2983, 3505 String="thanal\nhunting here\nmsg first dont go down" Editor="Thanal"}, 2853 Content={3732 Amount=1, 3582 Amount=9, 3577 Amount=80, 3607}, 2853 Content={2973 KeyNumber=3520, 2970 KeyNumber=4601}, 3504 Content={3565, 3377, 3425, 3377, 3377}}}, 
+               1 Content={3266, 3504 Content={3507 String="Shinigami Guard \nCarlin" Editor="Shinigami Guard"}, 3003, 3502 Content={3031 Amount=54, 3031 Amount=100, 3035 Amount=4, 3308, 3582 Amount=3, 3578 Amount=4, 3577 Amount=3, 3505 String="shUASHUaeh\n" Editor="Dolin Ba", 3505, 3459, 3446 Amount=4, 3509, 3456, 3430}}, 
+               6 Content={3502 Content={2853, 2901, 3492 Amount=18, 2853 Content={2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it."}, 2859 Content={2983, 3565, 3565, 3123}, 3504, 2853 Content={3054 RemainingUses=200, 3008, 2969 KeyNumber=4055, 2969 KeyNumber=4600, 3012}, 2853 Content={3505, 3505 String="fuck!\n" Editor="Urbinator", 3505 String="vai se fuder seu babaca\nyour mother is chiken\ndo you gay!!!\n" Editor="Gerrard klein", 3059}, 3504 Content={3457, 3293, 3293, 2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 2853 Content={3003, 3003}, 2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3457, 3456}, 2853 Content={3582 Amount=2, 3577 Amount=28, 3585 Amount=2}}}}

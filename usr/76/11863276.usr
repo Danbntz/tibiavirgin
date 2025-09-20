@@ -1,0 +1,48 @@
+ID              = 11863276
+Name            = "Elon Froton"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,78-114-95-110)
+CurrentOutfit   = (134,78-114-95-110)
+LastLogin       = 1148165712
+LastLogout      = 1148165733
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32345,32218,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,104099,0,116000,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,52975,1400,55031,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,19,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,18987,1100,20113,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,20277,1100,21567,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,423,1200,496,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,747,1200,824,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,189,1200,268,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,164,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,62,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,11,20,29,51,79}
+QuestValues = {(21,1),(23,1),(25,1),(26,1),(27,1),(35,1),(55,1),(59,1),(86,1),(87,1),(100,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3377}}
+
+Depots      = {0 Content={3504 Content={3507 String="elon froton\nthais" Editor="Samego druid"}, 3504 Content={3507 String="elon froton\nthais" Editor="Samego Dalin"}, 3504 Content={3507 String="elon froton\nthais" Editor="Bebe Suave"}, 2394, 2401, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Alai Flats, Flat 24\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3504, 3507 String="elon froton\nthais" Editor="Elon Froton"}, 3502}, 
+               4 Content={3504 Content={3056 RemainingUses=200, 3552, 3507 String="elon froton \nedron" Editor="Bebe Suave"}, 3350, 3483, 3354, 3367, 3313, 3502}, 
+               5 Content={3504 Content={3447 Amount=10, 3430, 3286, 3507 String="elon froton\ndarashia" Editor="Pallus Invi"}, 3504 Content={3374, 3507 String="elon froton\ndarashia\n" Editor="Samego Dalin"}, 3504 Content={3507 String="elon froton\ndarashia" Editor="Elon Froton"}, 3502 Content={3447 Amount=10}}, 
+               8 Content={3504 Content={3507 String="elon froton\nport hope\n" Editor="Samego druid"}, 3457, 3277 Amount=3, 3412, 3349, 3446 Amount=42, 3483, 3504 Content={3507 String="elon froton\nport hope" Editor="Pallus Invi"}, 3502}}

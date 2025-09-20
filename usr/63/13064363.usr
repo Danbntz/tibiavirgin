@@ -1,0 +1,59 @@
+ID              = 13064363
+Name            = "Wind Halk"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,22-95-114-116)
+CurrentOutfit   = (134,22-95-114-116)
+LastLogin       = 1147981199
+LastLogout      = 1147981249
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31785,5]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,621526,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,191876,3000,193600,1600)
+Skill = (2,590,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,94,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,68,0,10,0,0,0,0,0,0,0,254176,1100,275801,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,34613,1100,35945,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (10,66,0,10,0,0,0,0,0,0,0,104295,1100,113880,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,75,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8592,1100,8851,20)
+Skill = (14,0,1200,0,0,0,96,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81,93}
+QuestValues = {(61,1),(76,1),(77,1),(78,1),(111,1),(112,1),(125,1),(126,1),(151,1),(152,1),(190,1),(191,1),(227,5),(228,2),(229,3),(249,1),(250,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3483, 3031 Amount=82, 3492 Amount=15, 3308, 3492 Amount=100, 3003, 3457, 3092, 2866 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2866}, 3505 String="Wind Halk huting down\nRespect please...\n msg me first\n thx \ncya..\n" Editor="Wind Halk"}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={2867 Content={2868 Content={2868 Content={2868 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={3483, 2854 Content={2858 Content={2858, 2858}, 2857, 2860, 2869 Content={2865 Content={2865 Content={2857, 2857}}, 2867 Content={2867 Content={2859, 2859}}, 2866 Content={2858}, 2870 Content={2862}, 2869 Content={2861, 2861}}, 2865 Content={2868, 2854, 2868, 2867, 2854, 2854, 2868, 2866, 2854, 2854, 2854, 2869, 2854, 2854, 2854, 2868, 2854, 2854, 2868, 2868 Content={2868 Content={2868}}}}, 2854 Content={3450 Amount=5, 4839, 4839, 2647, 2644, 3453, 2854 Content={3734 Amount=1, 3734 Amount=1, 3738 Amount=7, 2989, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3298 Amount=14, 2992 Amount=27, 3287 Amount=9, 2853 Content={2977, 2977}, 3599 Amount=16, 3290, 3290, 3292, 3291, 3308, 2473 Content={2955, 2955, 2955, 2955}, 2853 Content={3076, 3076}, 3738 Amount=9}}, 2868 Content={2854 Content={3046, 3046, 3046, 3046, 3046, 3046, 2871 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 2871 Content={2868 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=2498, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 2866 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 2868 Content={3046 SavedExpireTime=2995, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 2867 Content={2854 Content={3046 SavedExpireTime=2999, 3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3046, 3046, 3046 SavedExpireTime=2370, 3046, 3046 SavedExpireTime=2698, 3046 SavedExpireTime=2644, 3046 SavedExpireTime=1970, 3046 SavedExpireTime=1943, 3046, 3046 SavedExpireTime=222, 3046, 3046, 3046, 3046 SavedExpireTime=2991, 3046, 3046 SavedExpireTime=1928, 3046 SavedExpireTime=2997, 3046, 3046 SavedExpireTime=2995}}}}, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}}, 2854 Content={2865 Content={3049}, 2854 Content={3004}, 2868 Content={3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007}, 2868 Content={3050, 3050}, 2868 Content={3093, 3093, 3093, 3093, 3093 SavedExpireTime=1447, 3093 SavedExpireTime=1798, 3093, 3093, 3093, 3093, 3093}, 2865 Content={3052 SavedExpireTime=761, 3052 SavedExpireTime=862, 3052, 3052 SavedExpireTime=1078, 3052, 3052, 3052, 3052, 3052, 3052, 3052, 3052}, 2865 Content={3092, 3092, 3092, 3092, 3092, 3092}, 2865 Content={3097, 3097 SavedExpireTime=3595, 3097}, 2868 Content={3053, 3053 SavedExpireTime=590}, 2854 Content={3051, 3051}, 2853 Content={2857 Content={3098, 3098}, 3098, 3098, 3098, 3098, 3098, 3098, 3098}, 2871 Content={3091 SavedExpireTime=485, 3091, 3091 SavedExpireTime=1798}}, 2853 Content={2865 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=182, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 2857 Content={3081 RemainingUses=5, 3081 RemainingUses=5, 3081 RemainingUses=5}}, 2854 Content={3083 RemainingUses=147, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150}, 2854 Content={3082 RemainingUses=50, 3082 RemainingUses=50, 3082 RemainingUses=50, 3082 RemainingUses=50, 3082 RemainingUses=49}, 2868 Content={3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=151, 3085 RemainingUses=163, 3085 RemainingUses=106}, 2854 Content={3054 RemainingUses=200, 3054 RemainingUses=162, 3054 RemainingUses=125, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200}, 2854 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2865 Content={3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008}, 2854 Content={2865 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=223, 3084 RemainingUses=147, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}}, 2854 Content={2969 KeyNumber=3620, 2969 KeyNumber=3008, 2970 KeyNumber=3142, 2970 KeyNumber=3301, 2970 KeyNumber=3303, 2969 KeyNumber=3600, 2970 KeyNumber=4503, 2969 KeyNumber=5010, 2969 KeyNumber=3302, 2972 KeyNumber=3304, 2969 KeyNumber=3008, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3600}, 2854 Content={3034 Amount=2, 3029 Amount=8, 3026 Amount=15, 3030 Amount=5, 3033 Amount=37, 3032 Amount=23, 3027 Amount=15, 3042 Amount=75, 3028 Amount=13, 3039, 3207 Amount=2}, 2857 Content={2857 Content={3077, 3077, 3077, 3077, 3077, 3077, 3077, 3077}, 3077}}, 2857 Content={3314, 3279, 3302}}}, 
+               3 Content={3502}, 
+               5 Content={3504 Content={3507 String="Wind Halk\nDarashia" Editor="Xakana Archer"}, 3327, 3502 Content={3507 String="Wind Halk huting here\nRespect please...\n msg me first\n thx \ncya..\n" Editor="Wind Halk"}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3492 Amount=9}}}

@@ -1,0 +1,56 @@
+ID              = 8013904
+Name            = "Lady Dark Gothic"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (138,85-105-109-114)
+CurrentOutfit   = (138,85-105-109-114)
+LastLogin       = 1148120067
+LastLogout      = 1148120091
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,77543,0,83400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,83423,3000,193600,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,63,85,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51895,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,40,0,10,0,0,0,0,0,0,0,8893,1100,9097,50)
+Skill = (9,50,0,10,0,0,0,0,0,0,0,23253,1100,24392,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5823,1100,5982,20)
+Skill = (14,0,1200,0,0,0,958,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(46,1),(53,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(254,1)}
+Murders     = {1147741680}
+
+Inventory   = {1 Content={3351},
+               3 Content={2871 Content={3160 Charges=1, 3092, 3092, 3031 Amount=5, 2853 Content={3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3003, 3031 Amount=100, 3304, 3457}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               10 Content={3031 Amount=10}}
+
+Depots      = {0 Content={3279, 3059, 3504 Content={3504 Content={3504, 3504 Content={3504 Content={3507 String="lady dark gothic\nvenore\n"}}, 3504, 3504, 3504 Content={3507 String="swinker of markiz amon\nvenore"}, 3504, 3504, 3504}, 3507 String="lady dark gothic \nthais\n"}, 3502}, 
+               1 Content={3503 Content={3503 Content={3503 Content={3503 Content={3503 Content={3264}}}}}, 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="Lady Dark Gothic\nAb'Dendriel" Editor="Rokus"}, 2969 KeyNumber=3033, 3504 Content={3507 String="lady dark gothic\nab'dendriel\n" Editor="Azgathrone"}, 3050, 3195 Charges=2, 2854 Content={3425, 2970 KeyNumber=4502}, 2969 KeyNumber=3033, 3504 Content={3077, 3505, 3456, 3504 Content={3504, 3507 String="oriana\nab'dendriel"}, 2853 Content={2853 Content={2970 KeyNumber=4502}}, 3507 String="angel-falcon\nab'dendriel"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Treetop 5 (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3003}}, 
+               4 Content={3505 String="", 2865 Content={3504 Content={3504 Content={3507 String="yuri hermes\ncarlin"}, 3507 String="yuri hermes\ncarlin"}}, 3337, 3504 Content={3507 String="lady dark gothic\nedron"}, 2853 Content={3003, 2853 Content={}, 3563, 3367, 3367, 3367}, 3502 Content={3425, 2869 Content={3327, 3054 RemainingUses=200}, 3003, 3505 String="", 3425}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3503 Content={}, 3502 Content={}}, 
+               7 Content={3504 Content={3507 String="Lady dark gothic\nAnkrahmun\n" Editor="Azgathrone"}, 2853 Content={2920, 3367, 3367, 3367, 3367}, 3336, 3504 Content={3412, 3270, 3507 String="Lady dark gothic\nAnkrahmun" Editor="Azgathrone"}, 3377, 3457, 3430, 2854 Content={2853 Content={3031 Amount=50, 3035 Amount=1}, 3286}, 3502 Content={3457}}}

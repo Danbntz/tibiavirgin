@@ -1,0 +1,52 @@
+ID              = 8648527
+Name            = "Kelldar"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,78-125-0-0)
+CurrentOutfit   = (134,78-125-0-0)
+LastLogin       = 1139015257
+LastLogout      = 1139015725
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32678,31668,8]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,45928,0,47000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,30515,1400,38165,1600)
+Skill = (2,157,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,140,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2433,1100,2452,100)
+Skill = (7,43,0,10,0,0,0,0,0,0,0,6812,1100,7364,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,183,1200,268,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,28,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,120,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,425,1100,427,20)
+Skill = (14,0,1200,0,0,0,4,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,7,8,20,29,42,45,49,51,76,79,81}
+QuestValues = {(16,1),(46,1),(49,1),(50,1),(86,1),(87,1),(111,1),(112,1),(125,1),(126,1),(133,1),(137,1),(151,1),(152,1),(154,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3)}
+Murders     = {}
+
+Inventory   = {8 Content={3551}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3350, 3504 Content={3504, 3504}, 3504 Content={3507 String="Kelldar\ncarlin"}, 3502}, 
+               2 Content={3504 Content={3507 String="Kelldar\nkazordoon"}, 3504 Content={3507 String="Kelldar\nKazordoon\n"}, 3502}, 
+               3 Content={3350, 2869 Content={3269, 3003}, 3412, 3483, 3492 Amount=58, 2853, 3147, 3412, 3147, 2969 KeyNumber=3033, 3277 Amount=61, 3003, 3077, 3502 Content={3552, 3349, 3350, 3076, 3349, 3349, 3349}}, 
+               4 Content={3504 Content={3504 Content={3507 String="Kelldar\nEdron\n"}, 3504 Content={3507 String="Kelldar\nEdron"}, 3447 Amount=90, 3354, 3411, 3412}, 2853 Content={2969 KeyNumber=5010, 3384, 3384, 3448 Amount=8}, 3502 Content={3583 Amount=1, 3301, 3557, 3031 Amount=2, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3483}, 3035 Amount=11, 3483, 3084 RemainingUses=250, 3298 Amount=1, 3330, 2867 Content={}, 3559, 3046 SavedExpireTime=1777, 2871 Content={3061, 3301, 3301, 3421, 3384}, 3483}}, 
+               5 Content={3504 Content={3507 String="Kelldar\nDarashia"}, 3502 Content={3582 Amount=57}}, 
+               6 Content={3506 String="Kelldar\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\nhttp://Cipsoft-service.nasze.com\nCopyright 1996-2005 CipSoft GmbH.", 3504 Content={3507 String="kelldar\nvenore"}, 3504 Content={3507 String="Kelldar\nVenore"}, 3502}, 
+               7 Content={3275, 3275, 2871 Content={}, 3578 Amount=12, 3578 Amount=100, 3578 Amount=100, 3502 Content={3582 Amount=6, 3384, 3425, 3277 Amount=13, 2871 Content={3457, 3003}, 2866 Content={3003}, 3457, 2970 KeyNumber=3802, 3046 SavedExpireTime=2975, 3007, 2871 Content={3338, 3330}, 2991, 2865 Content={2854 Content={3578 Amount=97, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3045 RemainingUses=190, 3046 SavedExpireTime=0, 3045 RemainingUses=200, 3046 SavedExpireTime=0}, 3327, 2906, 3463, 2989, 3736 Amount=1, 3059 String="", 3327}}}

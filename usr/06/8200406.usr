@@ -1,0 +1,59 @@
+ID              = 8200406
+Name            = "Wezy"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,3-114-95-114)
+CurrentOutfit   = (133,3-114-95-114)
+LastLogin       = 1144715379
+LastLogout      = 1144715414
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32379,31796,6]
+PlayerkillerEnd = 0
+
+Skill = (0,38,0,1,0,0,0,0,0,0,1,826685,0,847400,100)
+Skill = (1,52,0,0,0,0,0,0,0,0,0,2290930,1100,2483955,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,654,935,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,107,107,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,130415,1500,131168,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1624,1800,2063,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,92574,1800,130081,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,444,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,63,0,10,0,0,0,0,0,0,0,31869,1100,34174,20)
+Skill = (14,0,1200,0,0,0,355,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,4,5,6,8,9,10,20,29,30,44,45,76,81,87,88}
+QuestValues = {(19,1),(20,1),(21,1),(23,1),(32,1),(33,1),(34,1),(35,1),(55,1),(59,1),(61,1),(76,1),(77,1),(78,1),(111,1),(112,1),(125,1),(126,1),(140,1),(141,1),(145,1),(146,1),(147,1),(151,1),(152,1),(190,1),(191,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2868 Content={3160 Charges=1, 3031 Amount=80, 3052 SavedExpireTime=879, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3148 Charges=2, 3003, 3457, 2857 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}},
+               4 Content={3370},
+               5 Content={3416},
+               6 Content={3324},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3582 Amount=14}}
+
+Depots      = {0 Content={3504 Content={3507 String="Wezy\nThais"}, 3504 Content={3507 String="wezy\nthais"}, 3502 Content={}}, 
+               1 Content={3031 Amount=40, 3043 Amount=2, 3322, 3380, 3504 Content={3507 String="Wezy\nCarlin" Editor="Wezy", 2920 SavedExpireTime=105, 2920 SavedExpireTime=556, 2920 SavedExpireTime=600, 2920 SavedExpireTime=520}, 2482 Content={2969 KeyNumber=3008, 3148 Charges=3, 2970 KeyNumber=3142, 3725 Amount=11, 2856 Content={2968 KeyNumber=3940, 2969 KeyNumber=3600, 2973 KeyNumber=3520, 2970 KeyNumber=3802, 2969 KeyNumber=3008}, 2865 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 2868 Content={2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 2867 Content={3155 Charges=1, 3188 Charges=1, 3188 Charges=3, 3192 Charges=2, 3188 Charges=1}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2867 Content={3200 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2854 Content={3147, 3147, 3147, 3147, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3200 Charges=2, 3200 Charges=2, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}}}, 2472 Content={2866 Content={3046 SavedExpireTime=2998, 3046, 2949, 3205, 3205, 3051, 3077, 3284 RemainingUses=1, 3078, 3028 Amount=3, 3148 Charges=1, 3457, 3585 Amount=1, 3097 SavedExpireTime=3448, 3050}, 2853 Content={2866 Content={2866 Content={2866 Content={2866, 2866, 2866, 2866, 2866, 2866 Content={2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866 Content={2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866}}}}}}, 2853 Content={2920 SavedExpireTime=245, 2920 SavedExpireTime=599, 2920, 2920 SavedExpireTime=595, 2920 SavedExpireTime=342, 2920, 2920, 2853 Content={2920 SavedExpireTime=589, 2920 SavedExpireTime=597, 2920 SavedExpireTime=589, 2920, 2920, 2920, 2920, 2920}}}, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3147, 3147, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3502 Content={3097, 3035 Amount=13, 2868, 3035 Amount=100, 2867 Content={2865, 2867}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Theater Avenue 6b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2870 Content={2868, 2868, 2868 Content={2868, 2868, 2868, 2868, 2868}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}}, 2973 KeyNumber=3520, 2969 KeyNumber=3033}}, 
+               2 Content={3504 Content={3507 String="wezy\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="wezy\nedron\n"}, 3502}, 
+               5 Content={3031 Amount=60, 2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3046 SavedExpireTime=0, 3505 String="", 3003, 3084 RemainingUses=250, 3483, 3505 String="", 3507 String="", 3507 String="Wezy...\nhere..\nthx.", 3502 Content={}}, 
+               7 Content={3502 Content={}}}

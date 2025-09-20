@@ -1,0 +1,57 @@
+ID              = 11086169
+Name            = "Jefemaestro"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-89-114-0)
+CurrentOutfit   = (128,0-89-114-0)
+LastLogin       = 1148251408
+LastLogout      = 1148251435
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32318,31819,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,39018,0,47000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,36482,1100,39236,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,242,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8431,1500,11333,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,36,2000,90,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1051,2000,1550,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1437,2000,1550,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,383,2000,750,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,85,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,738,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,86,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,11,25,26,29,44}
+QuestValues = {(16,1),(18,1),(61,1),(125,1),(126,1),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2854 Content={2853, 3605 Amount=2, 3293}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2874 ContainerLiquidType=10}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3289, 3504 Content={3507 String="jefemaestro\ncarlin" Editor="Lort Deva"}, 3504 Content={3507 String="jefemaestro\ncarlin" Editor="Kamer Deva"}, 3504 Content={3507 String="jefemaestro \ncarlin" Editor="Kamer Deva"}, 2857 Content={3012, 3375, 3074}, 3316, 3504 Content={3504 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3507 String="jefemaestro\ncarlin" Editor="Jefemaestro"}, 3504 Content={3507 String="jefemaestro\ncarlin\n" Editor="Jefemaestro"}, 3504 Content={3504 Content={3507 String="jefemaestro\ncarlin\n" Editor="Jefemaestro", 3504 Content={3277 Amount=9, 2914 SavedExpireTime=1756, 3285, 2973 KeyNumber=3520, 3492 Amount=75, 3492 Amount=35, 3507 String="jefemaestro\ncarlin" Editor="Kamer Deva"}, 2973 KeyNumber=3520, 3362, 3374, 3308}, 3286, 2973 KeyNumber=3520, 2815 String="lol\n" Editor="Angel Athion", 3507 String="jefemaestro\ncarlin" Editor="Jefemaestro"}, 3504 Content={3548 Amount=8, 2885, 3547 Amount=7, 3507 String="jefemaestro\ncarlin" Editor="Jefemaestro"}, 2853, 3507 String="jefemaestro\ncarlin" Editor="Jefemaestro"}, 3502 Content={1781 Amount=3, 2872 Content={3031 Amount=81, 3035 Amount=12, 3031 Amount=78}, 2857 Content={2969 KeyNumber=3033, 2970 KeyNumber=3802, 3409, 3421}, 3056 RemainingUses=200, 2867 Content={3066, 2856, 3066, 3457}, 3456, 3456, 2865 Content={3598 Amount=1, 3590 Amount=1, 3599 Amount=8, 3606 Amount=14, 3587 Amount=18, 3603 Amount=1, 3595 Amount=6, 3723 Amount=3, 3600 Amount=1, 3585 Amount=5, 3602 Amount=13, 2853}, 2853 Content={3736 Amount=1, 3293}, 2471 Content={2815 Editor="Jefemaestro", 3003, 3003, 2471 Content={3372, 3285, 3350, 3285}, 2471 Content={3172 Charges=3, 3172 Charges=1, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3}}, 2856 Content={3308, 2857 Content={3454, 3454, 3293}, 2857 Content={3350, 2955}, 3059, 2859 Content={3084 RemainingUses=186, 3056 RemainingUses=200}}, 3505 String="hola " Editor="Jakastar", 3505 String="juquin soy diego y yo ya tengo spell de luz y ya pudo subir mayic levl pero no se como se dise el echiso pero ya lo aprendi es utevo lux contesta si ono si es el echiso q busco para activar la lus\n\nadios \nposdata ssssssiiiiiiiiiiiiiiiiiiiiiiii ", 3114 Amount=2}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3059, 3172 Charges=2}}, 
+               6 Content={3504 Content={3507 String="jefemaestro \nvenore" Editor="Jefemaestro"}, 3502 Content={3446 Amount=3, 3504 Content={3507 String="Falcon Soul\nVenore" Editor="Axyrio"}}}}

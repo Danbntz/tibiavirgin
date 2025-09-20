@@ -1,0 +1,59 @@
+ID              = 9993018
+Name            = "Vala Gaxy"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,79-79-79-79)
+CurrentOutfit   = (134,79-79-79-79)
+LastLogin       = 1148111802
+LastLogout      = 1148112938
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32422,32189,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,325528,0,330400,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,349168,1100,355602,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,635,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22488,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,43,2000,90,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,20,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,7317,2000,12750,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,319,2000,350,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,445,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1172,1100,1280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,149,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,18,19,20,21,22,23,25,26,29,30,39,44,45,50,78,81,83,87,88,89}
+QuestValues = {(16,1),(35,1),(39,1),(55,1),(62,2),(67,1),(68,1),(69,1),(70,1),(71,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(115,1),(137,1),(140,1),(141,1),(142,1),(143,1),(144,1),(145,1),(146,1),(147,1),(151,1),(152,1),(190,1),(191,1),(192,1),(217,3),(223,1),(224,1),(225,1),(254,1),(324,1),(333,1)}
+Murders     = {1147405043,1147919525,1147922294,1148111867}
+
+Inventory   = {1 Content={3384},
+               2 Content={3084 RemainingUses=75},
+               3 Content={2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3425, 3503 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3200 Charges=3, 3031 Amount=52}, 3507 String="Vala Gaxy \nThais" Editor="Seyn Faxar"}}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3449 Amount=54}}
+
+Depots      = {0 Content={2854 Content={3572, 3457, 2854}, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2816 String="\"INTERESTING FACTS ABOUT KAZORDOON issue 1 \nAuthor: John Barrel \nOnce upon a time there came a horrible snakelike beeing to the deeper mines. It killed many miners, because that 'snake' was a bassilsk horrible beeing with a gaze that could turn living beeings into stone. Many heroes tried to kill it but none suceeded, some fled, most died.  One day a wise man which name is forgotten. (I did many studies but i looks like for some reason none wrote down his name) He had some knowledge about theese horrible creatures. He advised the miners to cover the minewalls with torches and lamps. Scared by the dispised bright light the basilisk retreated deeper and deeper into the mines until the mines managed to create a cave in behind him. If the miners I talked to did not make fun of me we have to assume that the bassilsk is still there...\"", 3285, 3457, 3492 Amount=15, 3277 Amount=10, 3603 Amount=18, 3504 Content={3507 String="vala gaxy\nthais" Editor="Nalgotass"}, 3502 Content={2868}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={2854 Content={2854 Content={2854}}}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={}}, 
+               7 Content={2870 Content={3446 Amount=61, 3492 Amount=76, 3447 Amount=10, 3577 Amount=72, 2853 Content={3327, 3327, 3327, 3327, 3327, 3327, 3327, 3327}, 2868, 3483, 3492 Amount=100, 2867}, 3502}}

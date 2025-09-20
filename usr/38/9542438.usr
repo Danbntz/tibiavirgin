@@ -1,0 +1,54 @@
+ID              = 9542438
+Name            = "Conde Toki"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-114-114-41)
+CurrentOutfit   = (129,114-114-114-41)
+LastLogin       = 1147294971
+LastLogout      = 1147295026
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32681,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,94419,0,98800,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,62676,1400,78644,1600)
+Skill = (2,282,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6193,1100,6400,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,14232,1100,14635,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,848,1200,1039,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,65,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1339,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1112,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,20,29,42,51,79}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(61,1),(86,1),(87,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {5 Content={3277 Amount=5},
+               6 Content={3412}}
+
+Depots      = {0 Content={3504 Content={3507 String="conde toki\nthais"}, 3504 Content={3507 String="conde toki\nthais"}, 3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={2854, 3447 Amount=76, 3504 Content={3447 Amount=100, 3507 String="conde toki\nab'dendriel"}, 2853 Content={3008, 3083 RemainingUses=123}, 2874, 1781 Amount=3, 3502 Content={3282, 3504 Content={3507 String="Conde Toki\nAb'dendriel"}}}, 
+               4 Content={3504 Content={3507 String="Conde Toki\nEdron", 3503 Content={3492 Amount=7, 2973 KeyNumber=3520, 2970 KeyNumber=4601, 3277 Amount=2, 3372, 3357, 3349, 3287 Amount=1, 2969 KeyNumber=3033}, 3277 Amount=2, 3483, 3492 Amount=49, 1781 Amount=3, 3308, 3504 Content={3507 String="Shin Garne\nAb'dendriel", 3003, 3582 Amount=9, 3577 Amount=3, 3446 Amount=43, 3492 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={3507 String="Shin Garne\nAb'dendriel", 2853 Content={3031 Amount=17, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3492 Amount=87, 3582 Amount=5, 3446 Amount=14, 3425, 3349, 3723 Amount=15}}, 3504 Content={3507 String="Conde Toki\nEdron", 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3031 Amount=5, 3277 Amount=3, 3504 Content={}, 2969 KeyNumber=4603, 2969 KeyNumber=4600, 3410, 3504 Content={3504 Content={2865 Content={3097 SavedExpireTime=0, 3083 RemainingUses=150, 2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3351}, 2865 Content={3308, 3425, 3425, 3425, 3425}, 2853 Content={3084 RemainingUses=250}, 2969 KeyNumber=3033, 3277 Amount=9}}, 3268, 2969 KeyNumber=3033, 3457, 3504 Content={2869 Content={}, 3504 Content={3507 String="conde toki\nedron\n"}, 3504 Content={3507 String="Conde Toki\nEdron"}, 3504 Content={3504 Content={3507 String="Conde Toki\nEdron"}, 3507 String="conde toki\nedron\n"}, 3504 Content={3507 String="conde toki\nedron\n"}, 3504 Content={3507 String="Conde Toki\nEdron"}}, 2868 Content={3464, 3464, 3464}, 2872 Content={3277 Amount=7, 3056 RemainingUses=194}, 2865 Content={3411}, 3502 Content={3035 Amount=18, 2857 Content={3084 RemainingUses=250}}}, 
+               5 Content={3504 Content={3507 String="conde toki\ndarashia\n"}, 3504 Content={2868 Content={}, 3507 String="conde toki\ndarashia\n"}, 2869 Content={}, 2854 Content={2869 Content={3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="conde toki\nvenore"}, 3504 Content={3507 String="Conde Toki\nVenore\n"}, 3502}, 
+               7 Content={3367, 3282, 3504 Content={3507 String="Conde Toki\nAnkrahmun"}, 3504 Content={3046 SavedExpireTime=0, 3411, 3507 String="Conde Toki\nAnkrahmun"}, 3504 Content={3507 String="Conde Toki\nEdron", 2868 Content={3042 Amount=1, 3367, 3367, 3367, 3367, 3367, 3377, 3411, 3367, 3367, 3367}}, 2920 SavedExpireTime=129, 2920 SavedExpireTime=587, 2920 SavedExpireTime=553, 2920 SavedExpireTime=525, 3502 Content={3291}}, 
+               8 Content={3285, 2868 Content={3582 Amount=3, 2857 Content={}}, 3504 Content={3507 String="conde toki\nport hope"}, 3504 Content={3507 String="conde toki\nport hope"}, 2922 SavedExpireTime=15, 3457, 2853 Content={}, 3502 Content={}}}

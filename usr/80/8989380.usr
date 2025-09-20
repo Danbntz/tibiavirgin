@@ -1,0 +1,56 @@
+ID              = 8989380
+Name            = "Chris Kenned"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,58-114-95-77)
+CurrentOutfit   = (128,58-114-95-77)
+LastLogin       = 1146850623
+LastLogout      = 1146850682
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,370263,0,409000,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,328194,1100,355602,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,695,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,34054,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,30,2000,90,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,12181,2000,12750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,90,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,773,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6871,1100,7280,20)
+Skill = (14,0,1200,0,0,0,253,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,85,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,16,19,20,23,25,27,29,38,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(55,1),(59,1),(98,1),(100,1),(109,1),(140,1),(141,1),(143,1),(217,3),(223,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2870 Content={3046, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868}},
+               4 Content={3567},
+               5 Content={3436},
+               6 Content={3073},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={2854 Content={3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={2868 Content={3003, 3299, 3574, 2853 Content={2968 KeyNumber=3940, 3507, 3507, 3507 String="Chris Kenned\nThais" Editor="Chris Kenned"}, 3003, 2968 KeyNumber=3940, 3505 Editor="Chris Kenned", 3457}, 2471 Content={3456, 3504 Content={3504 Content={3367, 3286, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Max Sider"}}, 3507 String="Chris Kenned\nThais" Editor="Max Sider"}, 3457, 2920 SavedExpireTime=135, 2911 SavedExpireTime=2058, 3504 Content={3504 Content={3507 String="Chris Kenned\nthais" Editor="Madnio"}, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Max Sider"}, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3447 Amount=1, 3446 Amount=2, 3504 Content={3504 Content={3507 String="Chris Kenned\nThais" Editor="Max Sider"}, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3504 Content={3507 String="Chris Kenned\nThais" Editor="Orimu Sider", 3552, 3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3504 Content={3507 String="); vo t pafa + to numa ma sorte cara morri 2 vezes cara pk lvl 50 me mato..next" Editor="Chris Kenned", 3507 String="Chris Kenned\nThais" Editor="Orimu Sider"}, 3507 String="Chris Kenned\nThais" Editor="Mighty Duck ice"}, 3483}, 2853 Content={3448 Amount=1, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=2}, 2920 SavedExpireTime=471, 2920, 2911 SavedExpireTime=2157, 3003}, 3502 Content={2869 Content={3027 Amount=2, 3085 RemainingUses=200, 3052, 4871, 3033 Amount=1, 2969 KeyNumber=4603, 2969 KeyNumber=4600, 3028 Amount=2}, 2854 Content={2469 Content={3551}, 2854 Content={3447 Amount=78, 3447 Amount=100, 3446 Amount=9, 3446 Amount=100, 3446 Amount=100, 3449 Amount=12, 3350, 3446 Amount=100}, 2854 Content={3425, 3425, 3425, 3425, 3275, 3425}, 2854 Content={3357, 3279, 3279, 3092, 3074, 3008, 3008, 3083 RemainingUses=150, 3054 RemainingUses=200, 3056 RemainingUses=200}, 3552, 3377, 3059, 3505 String="Undead'Bolter here!\n\n\nUndead~" Editor="Undead'Bolter", 3421, 3059, 3372, 3377, 3313, 3421}, 2854 Content={2860 Content={3035 Amount=100, 3035 Amount=76}, 2866, 2868 Content={2854, 2867, 2854, 2854, 2854, 2854}, 3504 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2854 Content={3147, 3147, 3164 Charges=2, 3164 Charges=3, 3164 Charges=1}, 2854 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}}, 3504 Content={3492 Amount=2, 3483, 3492 Amount=100, 3492 Amount=100, 3483, 2473 Content={3504 Content={3504 Content={3507 String="scarfaze\nthais"}, 3504, 3504, 3504, 3504, 3504 Content={3507 String="4k depois q pega skill 70 t pago bl.. t+++\n" Editor="Chris Kenned", 3507 String="bl entaum depois vc paga la as uh..\nnum sei c vc viu comprei vamp to t devendo " Editor="Chris Kenned"}}, 2471 Content={3003, 2922 SavedExpireTime=79, 2920 SavedExpireTime=493, 3457, 2969 KeyNumber=3600, 2911, 2911, 2911, 2911}}}}, 2854 Content={3578 Amount=41, 3578 Amount=100, 3723 Amount=46, 3583 Amount=9, 3578 Amount=100, 2992 Amount=7, 3598 Amount=2, 3590 Amount=3}}}, 
+               1 Content={3504 Content={3505 String="chris kenned hunting here,  leave plz \nrespect           ty" Editor="Chris Kenned", 3457, 3483, 3492 Amount=18, 3578 Amount=2, 3031 Amount=77, 3492 Amount=100, 3492 Amount=100, 3578 Amount=100, 3507 String="Chris Kenned\nCarlin" Editor="Chris Kenned"}, 3502}, 
+               2 Content={3502 Content={2854, 2854}}}

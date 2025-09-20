@@ -1,0 +1,56 @@
+ID              = 9324583
+Name            = "Links Lance"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,79-79-19-120)
+CurrentOutfit   = (131,79-79-19-120)
+LastLogin       = 1143384117
+LastLogout      = 1143384348
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32624,31938,9]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,260751,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,73920,3000,193600,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,125,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,52,0,10,0,0,0,0,0,0,0,56583,1100,59240,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,106,1400,130,30)
+Skill = (8,55,0,10,0,0,0,0,0,0,0,35971,1100,39589,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,142,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,35,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(46,1),(52,1),(53,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               3 Content={2868 Content={2874, 2874, 2874, 2874, 3031 Amount=24, 2920, 2920, 3160 Charges=1, 3160 Charges=1, 2853 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3457}},
+               4 Content={3381},
+               5 Content={3280},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={2471 Content={2853, 2853, 2853 Content={2853}}, 3504 Content={3504}, 2471 Content={2473 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2472 Content={3367, 3354, 3374, 3375, 3384, 3376}, 2480 Content={3027 Amount=2, 3028 Amount=1, 3030 Amount=1, 3026 Amount=4}, 2472 Content={3377, 3565, 3565, 3565, 3565, 3563}, 2469 Content={2872, 2866, 2867 Content={3507 String="Venore"}, 2854 Content={2856, 2854, 2856 Content={3507 String="Rookgard"}, 3507 String="Rookgard"}, 2868 Content={2868, 3507 String="Carlin"}, 2865 Content={3507 String="Ab'dendriel"}, 2854 Content={2854, 3507 String="Thais"}, 2870 Content={3507 String="Kazordoon\n"}}, 2472 Content={3492 Amount=7, 3084 RemainingUses=250, 3017, 3097, 2857 Content={2853 Content={3056 RemainingUses=200, 3008, 3056 RemainingUses=200}, 3012, 3572, 3012, 3008, 3056 RemainingUses=200, 3085 RemainingUses=200, 3084 RemainingUses=250}, 3046, 3077, 2853 Content={3097, 3052 SavedExpireTime=575, 3097, 3092, 3097, 3050 SavedExpireTime=1442, 3092}}, 2472 Content={3425, 3430, 3413, 3410, 3429, 3421, 3409}, 2472 Content={3446 Amount=17, 3298 Amount=8}, 2472 Content={3279, 3286, 3305, 3337, 3282}, 2472 Content={3292, 3300, 3264, 3267, 3265, 3301, 3294, 3504 Content={3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300, 3300, 2853 Content={3300, 3300, 3300, 3300, 3300, 3300, 3300, 2853 Content={2853 Content={3300, 3300}, 3300, 3300, 3300, 3300, 3300, 3300, 3300}}}, 3283, 3291, 3285}, 2472 Content={3266, 3275}}, 2471 Content={2469 Content={3031 Amount=6, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2469, 2472}, 2473, 2469 Content={3534 Amount=3, 3533 Amount=8, 3504 Content={3492 Amount=100, 2874, 2873, 3551, 2880, 3603 Amount=3}, 3504 Content={2970 KeyNumber=4502, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2955, 2955, 2955}, 3504 Content={2853 Content={3505, 2815 String="0. Level Spells\n  utevo lux - Light : 20\n  exiva para - Find Person : 20\n\n1. Level Spells\n  exura - Light Healing : 25\n\n", 2815, 3505 String="turkonick\ncarlin\n\noye we buscame como saint'hito luego te cuento ke me paso, soy un pendejo", 3059, 3505, 3059}, 3059, 2835, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3505, 2815}, 3504 Content={3457, 3456, 3456, 2853 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457}, 3457}, 3504 Content={3308, 3308, 3308, 2853 Content={3308, 3483, 3483, 3308, 3308, 3308}, 3483, 3453, 3308}, 3504 Content={2911 SavedExpireTime=1123, 2917, 2917 SavedExpireTime=137, 2911, 2911, 2911 SavedExpireTime=2891, 2911 SavedExpireTime=2234, 2911, 2911}, 3504 Content={3003, 3003, 3003, 3003}}, 2471 Content={3504 Content={3469, 3470, 3468, 3466, 2853 Content={3658, 3658, 3658, 3658, 3658, 3658}, 3736 Amount=1}, 3504 Content={3464, 3122, 3123, 2824 String="Armaments, Chapter Two, Verses Nine to Twenty-One.\n\nAnd the Lord spake, saying:\n\"First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.\"", 3110, 2875, 3452, 3123, 3452, 3451}, 3504 Content={3467, 3293, 3451, 3471, 3121, 2905, 3462, 3462, 3459}, 3504 Content={3539, 2853 Content={3535, 2906, 3605 Amount=2, 3661, 2873, 2875, 2905, 3509}, 3546, 3545, 3543, 3542, 3547 Amount=1, 3548 Amount=1}, 3504 Content={2985, 2985, 2983, 2981, 3116, 3129}, 3504 Content={2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3509, 3116, 3468, 3467, 3129, 3131, 2893, 2983}}, 2471 Content={3582 Amount=2, 3577 Amount=12, 3583 Amount=2, 3504, 3725 Amount=1, 3585 Amount=9, 3602 Amount=6, 3600 Amount=1, 3590 Amount=3, 3595 Amount=4, 3587 Amount=1, 2880}, 2471}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={3350, 3350, 3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 3035 Amount=2, 2853 Content={}, 2853 Content={}}}, 
+               6 Content={3502 Content={}}}

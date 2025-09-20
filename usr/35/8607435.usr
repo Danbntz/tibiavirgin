@@ -1,0 +1,59 @@
+ID              = 8607435
+Name            = "Carlo of Markiz Amon"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-80-80-0)
+CurrentOutfit   = (134,0-80-80-0)
+LastLogin       = 1148256779
+LastLogout      = 1148257146
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32647,31919,8]
+PlayerkillerEnd = 0
+
+Skill = (0,53,0,1,0,0,0,0,0,0,1,2261810,0,2347900,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,435590,3000,582400,1600)
+Skill = (2,860,860,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,122,122,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1595,1595,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,73,0,10,0,0,0,0,0,0,0,407358,1100,444791,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,21,1400,30,30)
+Skill = (8,75,0,10,0,0,0,0,0,0,0,262931,1100,269203,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,31,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,61,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,618,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,70,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,80}
+QuestValues = {(14,1),(20,1),(35,1),(50,1),(59,1),(67,1),(68,1),(69,1),(71,1),(72,1),(73,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(113,1),(114,1),(116,1),(117,1),(118,1),(121,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(151,1),(152,1),(153,1),(154,1),(170,1),(171,1),(172,1),(174,1),(175,1),(190,1),(191,1),(192,1),(206,1),(217,3),(226,1),(292,1),(332,1)}
+Murders     = {1148014991}
+
+Inventory   = {1 Content={3391},
+               2 Content={3012},
+               3 Content={2854 Content={3003, 2869, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3147, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457}},
+               4 Content={3370},
+               5 Content={3436},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502 Content={3503 Content={3507}, 3503 Content={3507}}}, 
+               1 Content={3357, 2872 Content={3069, 3007, 2853 Content={3155 Charges=1, 3155 Charges=1, 3192 Charges=2, 3188 Charges=1}, 2868 Content={3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3483, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3492 Amount=30, 3003, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3457}, 3031 Amount=20, 3035 Amount=24, 3069, 2854 Content={3031 Amount=100, 3425, 3349, 3031 Amount=81, 3031 Amount=100, 3267, 2853 Content={2911 SavedExpireTime=2958, 2920, 2920}, 3504, 2853, 3504, 3003, 3492 Amount=67}, 2868 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3084 RemainingUses=250, 2853 Content={2853 Content={3367, 3354, 3286, 3354, 3367}, 2853 Content={3354, 3354, 3354, 3354, 3354, 3286, 3286, 3367}}, 3277 Amount=49, 3492 Amount=76, 2853, 3084 RemainingUses=250, 3287 Amount=1, 3052, 3277 Amount=100, 3602 Amount=44, 3084 RemainingUses=250, 3504 Content={2868 Content={3447 Amount=100, 3277 Amount=2, 3349, 3277 Amount=5}, 3504 Content={3483, 3457, 3492 Amount=7, 3277 Amount=20, 3457, 3453, 2854 Content={2854, 2854, 3504 Content={3349, 3003}, 3410, 3349, 2868 Content={3188 Charges=1, 3189 Charges=1, 3189 Charges=2, 3188 Charges=3, 2644, 2667, 3188 Charges=3, 2667, 2644, 2644, 2667, 2644, 2667, 2667, 2644}, 3734 Amount=10, 3083 RemainingUses=150, 2667, 3045 RemainingUses=200, 3174 Charges=5, 2644, 3313, 3174 Charges=5, 2644, 2667, 2667, 3483, 3003, 3457}, 3083 RemainingUses=34, 3350, 3277 Amount=4}, 2644, 2667, 3507 String="carlo of markiz amon\ncarlin" Editor="Ocel'Raet"}, 2868 Content={3446 Amount=18, 3059, 3377, 3559, 3444, 3552}, 3504 Content={2835}, 3447 Amount=18, 3286, 3502 Content={2472 Content={2854 Content={3003, 3425, 3504 Content={3507 String="Lenteor Azikor                                                                 " Editor="Gael Seth", 3277 Amount=2, 3448 Amount=8, 3572, 3074}, 2853, 3300}, 3287 Amount=8, 2992 Amount=6, 3034 Amount=90}, 2472 Content={2920 SavedExpireTime=581, 2854 Content={3425, 3421, 3349, 3307, 3267, 3552, 3294, 3308, 3551, 3310, 3377, 2857, 3289, 3307}}, 2480 Content={3008, 3008}, 2472, 3504, 2853 Content={3003, 3457, 3457, 3457, 3003, 3457, 3457}}}, 
+               2 Content={2867 Content={3031 Amount=53, 3031 Amount=100}, 2857 Content={3097, 2870, 2872, 2857}, 2867 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3502 Content={2854 Content={3446 Amount=55, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2870 Content={3723 Amount=25, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}, 3069, 2854 Content={2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 2854, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2868 Content={2868 Content={3413, 3413, 3413, 3413, 3413}, 2868 Content={3305, 3305, 3305}}, 2869 Content={2869 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}}, 2871 Content={2871 Content={3351, 3351}, 2871, 2871, 2871}, 2853 Content={3266, 3266, 3266, 3266, 3266}}, 3357, 4871}}, 
+               3 Content={3504 Content={3507 String="carlo of markiz amon\nab'dendriel" Editor="Bombi"}, 3504 Content={3507 String="carlo of markiz amon\nab'dendriel" Editor="Bombi"}, 3502}, 
+               4 Content={3502 Content={2869 Content={2866, 2866, 2866, 2866}}}, 
+               6 Content={3504 Content={3507 String="CARLO OF MARKIZ AMON\nVENORE" Editor="Bombi"}, 3291, 3507 String="Carlo of Markiz Amon\nVenore" Editor="Carlo of Markiz Amon", 3502}, 
+               7 Content={3447 Amount=5, 3457, 3502}}

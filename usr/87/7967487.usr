@@ -1,0 +1,56 @@
+ID              = 7967487
+Name            = "Kaaller"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,40-85-114-114)
+CurrentOutfit   = (129,40-85-114-114)
+LastLogin       = 1148175446
+LastLogout      = 1148175471
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32301,31801,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1329072,0,1423500,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,639120,3000,1748800,1600)
+Skill = (2,740,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,202,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,86,0,10,0,0,0,0,0,0,0,1487111,1100,1537993,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,86,0,10,0,0,0,0,0,0,0,745676,1100,768996,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2118,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(125,1),(126,1),(134,1),(190,1),(191,1),(208,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2871 Content={3582 Amount=5, 3188 Charges=3, 3188 Charges=3, 2867, 3003, 3457, 3456}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3075, 3367, 3367, 3291, 3504 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504}}, 2854 Content={2867 Content={2868 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}}, 2868, 2865 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2868 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 2854 Content={2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}}, 2866 Content={2854 Content={2868}, 2868, 2869, 2868, 2868, 2854, 2868, 2854, 2868, 2868, 2868, 2868, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2868}}, 2853 Content={3446 Amount=52, 1781 Amount=1, 3349, 2992 Amount=2, 3298 Amount=4, 3287 Amount=2, 2853 Content={3446 Amount=100, 3446 Amount=100, 3074, 3066, 3446 Amount=100, 3446 Amount=100}}, 2857 Content={2857 Content={3092, 3046, 3077, 3084 RemainingUses=250, 3098}, 3298 Amount=1, 2854 Content={2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore."}, 2859 Content={3052, 3092, 3052, 3092, 3050, 3052, 3092, 3098}, 2860 Content={3052, 3084 RemainingUses=250, 3056 RemainingUses=200, 3008, 3085 RemainingUses=200, 3077, 3205, 3017}, 3046}, 2853 Content={2853, 2853}, 3504 Content={3457, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 3505 String="KAALLER \n\nHUNT HERE PLX RESPECT", 3505 String="KAALLER hunt here plx respect leave           \n      \n", 3056 RemainingUses=200, 2969 KeyNumber=3033, 3505, 3504 Content={3505 String="Kaaller hunt here plx respect no down" Editor="Kaaller", 3003, 3457, 3003, 3085 RemainingUses=200, 3736 Amount=1, 3505, 3456, 3504 Content={3505 String="Kaaller hunt here plx respect no down" Editor="Kaaller", 3505 String="Kaaller hunt here plx respect no down" Editor="Kaaller", 3003, 3003, 3003, 3457, 2853}}, 2955}, 2473 Content={3723 Amount=61, 3591 Amount=1, 3590 Amount=97, 3591 Amount=100, 3723 Amount=100, 2977, 3483, 3483, 3483, 2473 Content={3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3504 Content={3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}}}, 2472 Content={3031 Amount=70, 3147, 3147, 3147, 3147, 3504 Content={3033 Amount=1}, 3504 Content={3031 Amount=100, 3031 Amount=100, 3028 Amount=1, 3029 Amount=1, 3033 Amount=1, 3026 Amount=2, 3027 Amount=4}, 2472 Content={3035 Amount=71, 3035 Amount=100, 3091, 3052, 3052, 3052, 3043 Amount=6, 3057}}, 3502 Content={2872 Content={3281, 3419, 3391, 3381, 3291, 3372}, 2854 Content={3425, 3425, 3425, 3421}, 2868 Content={3265, 3265, 3299, 3285, 3300, 3285, 3301}, 2865 Content={3282, 3279, 3282, 3279}, 2867 Content={3313, 3317}, 2866 Content={3359, 3357, 3377}, 2870 Content={3351, 3369, 3384, 3375, 3351}, 2869 Content={3372}}}, 
+               2 Content={3502}, 
+               3 Content={3502}}

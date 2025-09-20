@@ -1,0 +1,55 @@
+ID              = 10944083
+Name            = "Vikon Yaurks"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,114-76-114-76)
+CurrentOutfit   = (130,114-76-114-76)
+LastLogin       = 1148058081
+LastLogout      = 1148058091
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32343,31780,8]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,659355,0,717600,100)
+Skill = (1,38,0,0,0,0,0,0,0,0,0,598898,1100,642316,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,197,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,79690,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1761,1800,2063,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,45423,1800,72239,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,834,1800,1118,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,137,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,8876,1100,9757,20)
+Skill = (14,0,1200,0,0,0,797,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,5,7,8,9,10,16,18,29,32,42,44,45}
+QuestValues = {(18,1),(22,1),(35,1),(46,1),(59,1),(60,1),(67,1),(68,1),(69,1),(70,1),(71,1),(98,1),(106,1),(107,1),(125,1),(126,1),(223,1),(225,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3055},
+               3 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3577 Amount=13, 3147, 3147, 3147, 3147, 2920 SavedExpireTime=395, 3031 Amount=23, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3191 Charges=1, 3191 Charges=1, 3188 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=1, 3198 Charges=4, 3198 Charges=5}, 3147, 3152 Charges=1, 3483, 3003, 3492 Amount=80, 3457}},
+               4 Content={3370},
+               5 Content={3067},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3066, 3065, 3070, 3069, 2868 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={2868, 2854}, 3504 Content={3504 Content={3507 String="sir'country\ncarlin" Editor="Zeuz'Crow"}, 2853, 3504 Content={3507 String="Vikon Yaurks\nCarlin" Editor="Brother Ent"}, 3507 String="Brother Ent\nEdron" Editor="Draron Olit"}, 3322, 3351, 3582 Amount=24, 3557, 3003, 3457, 2868 Content={2860 Content={3059, 3059, 3457, 3552}, 3084 RemainingUses=250, 3059, 3085 RemainingUses=133, 3552, 3456, 3003, 3457, 3003, 3425, 3552, 3003, 3003, 3003, 3307}, 3492 Amount=100, 3003, 3552, 3059, 3577 Amount=100, 3502}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={}}}

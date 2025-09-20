@@ -1,0 +1,53 @@
+ID              = 11216892
+Name            = "Beon Tyrothus"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-124-107-115)
+CurrentOutfit   = (129,79-124-107-115)
+LastLogin       = 1147723770
+LastLogout      = 1147723772
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32541,31711,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38777,0,47000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,9972,3000,20800,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,70,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11940,1100,12109,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,97,1400,130,30)
+Skill = (8,40,0,10,0,0,0,0,0,0,0,8230,1100,9097,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,159,1100,165,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,243,1100,305,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,172,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,839,1100,911,20)
+Skill = (14,0,1200,0,0,0,489,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(35,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2868 Content={3267, 3354, 3031 Amount=5, 3354, 3577 Amount=4, 3286, 3031 Amount=100, 3031 Amount=100, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3297},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {1 Content={3504 Content={3299, 2860}, 3504, 3274, 3504, 1781 Amount=4, 3304, 3504 Content={3122, 3578 Amount=23, 3124, 2924 SavedExpireTime=110, 2816 String="Magic \n\nThere are two kinds of spells: rune-spells, and spontaneous spells. \nRune-spells are cast on blank runestones and some mana is used up in this proces. This stones can easily be carried around and store the specific spell. It can be used at any time, and only some require further investment of mana. \nSpontaneous spells are cased in the heartbeat they are needed and take effect instantly. Most of these spells are spells of healing but some of them are agressive and some even have more astonishing effectes, as invisibility, illusionary shapechage etc."}, 2853 Content={2853}, 2853 Content={3277 Amount=3, 3349, 3003, 3300}, 3502 Content={3425, 2854 Content={3031 Amount=52, 3035 Amount=1}, 3307, 3362, 2853 Content={3050 SavedExpireTime=1793, 2920, 2920 SavedExpireTime=180, 2853, 3003}, 3377, 3362, 3375, 3504 Content={3504 Content={3056 RemainingUses=200, 2955}, 3507 String="Senhora Matadora\nCarlin"}}}, 
+               3 Content={2853 Content={2853 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3446 Amount=10}}, 3502 Content={3035 Amount=14, 3031 Amount=69}}}

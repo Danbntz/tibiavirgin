@@ -1,0 +1,54 @@
+ID              = 10072976
+Name            = "Phon Taros"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,0-86-86-0)
+CurrentOutfit   = (128,0-86-86-0)
+LastLogin       = 1146169502
+LastLogout      = 1146173650
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,307830,0,330400,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,446487,1100,478602,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,607,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,36484,1500,38723,100)
+Skill = (7,16,0,10,0,0,0,0,0,0,0,1695,1800,2258,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,72,1800,140,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,3562,1800,3763,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,20297,1800,22252,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,621,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3604,1100,3638,20)
+Skill = (14,0,1200,0,0,0,503,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,15,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,7,8,9,16,25,42,44}
+QuestValues = {(14,1),(18,1),(106,1),(107,1),(128,1),(190,1),(191,1),(217,3),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=196},
+               3 Content={2867 Content={3483, 3578 Amount=54, 3492 Amount=61, 3723 Amount=2, 3505 String="phon taros here" Editor="Phon Taros", 2853 Content={3160 Charges=1, 3174 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3191 Charges=2}}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3065},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3031 Amount=6}}
+
+Depots      = {0 Content={3506 String="Phon Taros\nThais\nWe are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3457, 3003, 3578 Amount=21, 3577 Amount=36, 3283, 2853 Content={2853, 3349}, 3447 Amount=13, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampaths to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicles out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 2854 Content={3017, 3017, 3017, 3017, 3446 Amount=7}, 2870 Content={3377, 3377, 3377, 2866 Content={3447 Amount=100, 3446 Amount=100, 3447 Amount=7, 3447 Amount=100, 3074, 3066, 3551, 3593, 3593, 3590 Amount=5, 3602 Amount=3, 3595 Amount=3}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3012, 3054 RemainingUses=200, 3054 RemainingUses=200, 3059, 3410}, 3502 Content={3035 Amount=3, 2868 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3077, 3056 RemainingUses=200, 3084 RemainingUses=250}}}, 
+               2 Content={3504 Content={3507 String="phon taros\nkazordoon" Editor="Taron Thyr"}, 3504 Content={3507 String="phon taros\nkazordoon" Editor="Taron Thyr"}, 3504 Content={3377, 3507 String="phon taros\nkazordoon" Editor="Taron Thyr"}, 3598 Amount=8, 3097, 3097, 3503 Content={3503 Content={3507}, 3503 Content={3507}, 3507}, 3097, 3504, 2970 KeyNumber=3800, 3504 Content={3056 RemainingUses=200, 3097 SavedExpireTime=3379, 2868 Content={2868}, 2860, 3008, 3066}, 3092 SavedExpireTime=1181, 3502 Content={3349, 3349, 3031 Amount=85, 3031 Amount=100, 2866 Content={2854}, 3097, 3097, 3092, 3092}}}

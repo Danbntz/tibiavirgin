@@ -1,0 +1,54 @@
+ID              = 12540038
+Name            = "Sheke Gruziel"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,115-12-114-0)
+CurrentOutfit   = (134,115-12-114-0)
+LastLogin       = 1148134664
+LastLogout      = 1148134688
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32336,31778,6]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,407182,0,409000,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,443354,1100,478602,1600)
+Skill = (2,210,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,8,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,29240,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,703,2000,750,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4619,2000,6350,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,55,2000,150,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,287,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5296,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,78,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,15,16,19,29,38,39,44,88}
+QuestValues = {(77,1),(78,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(190,1),(191,1),(324,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3051 SavedExpireTime=595, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 3457}},
+               4 Content={3567},
+               5 Content={3436},
+               10 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3210, 3507 String="sheke gruziel\ncarlin" Editor="Strax'spree"}, 2871 Content={3277 Amount=22, 3043 Amount=1, 3351}, 3504 Content={3483, 3507 String="Sheke Gruziel\ncarlin" Editor="Strax'spree"}, 2853 Content={3386, 3081 RemainingUses=5, 3420, 3445, 3284 RemainingUses=1, 3299}, 3504 Content={2853 Content={3032 Amount=1, 2469 Content={2857 Content={4839, 3052 SavedExpireTime=1086, 3065, 3049, 3574, 3587 Amount=1, 2860}, 3098 SavedExpireTime=170, 3029 Amount=2, 3449 Amount=1, 3033 Amount=6, 3097, 3092}, 2469 Content={2853 Content={3583 Amount=40, 3582 Amount=18, 3076, 3028 Amount=1, 3076, 3449 Amount=12, 2853 Content={2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}, 2469 Content={3052 SavedExpireTime=256, 3092, 3092 SavedExpireTime=1796, 3052 SavedExpireTime=37, 3092, 3052 SavedExpireTime=57}, 2868 Content={2868 Content={2854 Content={3188 Charges=2, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3164 Charges=2, 3164 Charges=3, 3164 Charges=1, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3003, 3003, 3003, 3003}, 2868 Content={3425, 3070, 3042 Amount=4, 3275, 3353, 3287 Amount=1, 3074, 3074, 3074, 3305, 2854 Content={3483, 3425}, 3599 Amount=23}, 2867 Content={2854 Content={2854 Content={3046 SavedExpireTime=2999, 3205, 3017, 3017, 3017, 3046, 3046 SavedExpireTime=2996, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=2527}, 3050, 3093 SavedExpireTime=1497}, 3085 RemainingUses=200, 3077, 3077, 3077, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3082 RemainingUses=50, 3082 RemainingUses=50, 3083 RemainingUses=150, 3083 RemainingUses=150, 2973 KeyNumber=3520, 2970 KeyNumber=4501, 2970 KeyNumber=4502, 2969 KeyNumber=5010, 3017, 2970 KeyNumber=4503}}}}, 3507 String="Sheke Gruziel\nCarlin\n" Editor="Sheke Gruziel"}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={2977, 3507 String="Sheke Gruziel\nEdron" Editor="Strax'spree"}, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1045 gold\nfor your house \"Castle, 3rd Floor, Flat 06\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3492 Amount=100, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Castle, 3rd Floor, Flat 06\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3457, 3282, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

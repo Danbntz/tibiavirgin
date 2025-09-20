@@ -1,0 +1,61 @@
+ID              = 7995731
+Name            = "Dark Grisilla"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (142,79-93-0-94)
+CurrentOutfit   = (142,79-93-0-94)
+LastLogin       = 1148183379
+LastLogout      = 1148188949
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32636,32780,6]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,766355,0,780700,100)
+Skill = (1,51,0,0,0,0,0,0,0,0,0,2250051,1100,2256686,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,67,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,84109,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,9305,2000,12750,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,69,2000,150,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,28200,2000,51150,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,503,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,54,0,10,0,0,0,0,0,0,0,13914,1100,14378,20)
+Skill = (14,0,1200,0,0,0,1055,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,132,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,9,10,16,18,20,21,29,39,44,45}
+QuestValues = {(1,1),(2,6),(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(41,1),(42,1),(43,1),(44,1),(46,1),(58,1),(59,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(111,1),(112,1),(113,1),(114,1),(115,1),(121,1),(125,1),(126,1),(138,1),(139,1),(151,1),(152,1),(190,1),(191,1),(211,4),(217,3),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,1),(249,2),(250,2),(253,1),(324,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2871 Content={3577 Amount=13, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3567},
+               5 Content={3198 Charges=5},
+               6 Content={3071},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3419}}
+
+Depots      = {0 Content={3504 Content={3507 String="Dark Grisilla\nThais\n" Editor="Haalia"}, 3504 Content={3507 String="Dark Grisilla\nThais\n\n"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={3425, 3425}}, 
+               3 Content={3268, 3502}, 
+               4 Content={3504 Content={3504 Content={3507 String="dark grisilla\nedron\n"}, 3504, 3507 String="dark grisilla \nedron" Editor="Dark Grisilla"}, 3502}, 
+               5 Content={2874, 2874, 3507 String="Dark Grisilla is here plz have respect and ask before entering the cabe Ty :)\n" Editor="Dark Grisilla", 3507 String="Dark Grisilla  hunt here leave " Editor="Dark Grisilla", 3507 String="Dark Grisilla HERE!!\nleave or die" Editor="Dark Grisilla", 3507 String="DArk Grisilla  HERE!!!" Editor="Dark Grisilla", 3507 String="leave or die\nDArk GRisilla HERE" Editor="Dark Grisilla", 3502 Content={2469}}, 
+               6 Content={3504 Content={3507 String="Dark Grisilla\nVenore" Editor="Dark Grisilla"}, 3503 Content={3506 String="Warning!\n\nThe monthly rent of 450 gold\nfor your house \"Paupers Palace, Flat 06\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 450 gold\nfor your house \"Paupers Palace, Flat 06\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504}, 3457, 3505 Editor="Dark Grisilla", 3505 Editor="Dark Grisilla", 3507 String="te vendi la otra de explo no me vendas las hmm plssss\n" Editor="Dark Grisilla", 3502 Content={3504 Content={3504 Content={3504}}}}, 
+               7 Content={3502 Content={3578 Amount=100, 3578 Amount=13}}, 
+               8 Content={3003, 3457, 2854 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 2871 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3406, 3372, 3372, 3483, 3502 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2853 Content={2992 Amount=7, 3586 Amount=40, 3587 Amount=38, 3589 Amount=15, 3592, 3595 Amount=6, 3585 Amount=16, 2853 Content={2853 Content={2853 Content={3367, 3367, 3286, 3367, 3367, 3354, 3286, 3354}, 3349, 3349, 3551, 3483, 3483, 3551, 3003}, 3728 Amount=1, 3448 Amount=4, 3483, 3308, 3349, 3457}}, 2469 Content={2853 Content={2853 Content={3504 Content={3035 Amount=81}, 3031 Amount=77, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2469 Content={2871 Content={3578 Amount=26, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3577 Amount=80, 3577 Amount=100}, 3027 Amount=2}, 3026 Amount=6, 3029 Amount=2, 3032 Amount=1, 3033 Amount=8, 3042 Amount=15, 3034 Amount=62}}}}}}}}}}}}}

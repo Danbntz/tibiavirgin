@@ -1,0 +1,62 @@
+ID              = 10991183
+Name            = "Albondiga Macabra"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,4-114-95-114)
+CurrentOutfit   = (134,4-114-95-114)
+LastLogin       = 1148183025
+LastLogout      = 1148183052
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33194,32853,8]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,436560,0,452600,100)
+Skill = (1,34,0,0,0,0,0,0,0,0,0,410501,1100,433638,1600)
+Skill = (2,268,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,490,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,27047,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,41,1800,84,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,14,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2921,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,702,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,26,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,22,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,193,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,12,16,17,18,20,25,26,27,29,30,33,39,42,44,45,50,81,84,87,88}
+QuestValues = {(2,6),(15,1),(16,1),(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(36,1),(46,1),(53,1),(54,1),(60,1),(61,1),(69,1),(71,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(121,1),(124,1),(125,1),(126,1),(138,1),(139,1),(156,1),(157,1),(158,1),(190,1),(191,1),(208,1),(211,4),(216,1),(223,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,4),(249,2),(250,2),(253,1),(333,1)}
+Murders     = {1147401253,1147738417,1148090133}
+
+Inventory   = {1 Content={3574},
+               2 Content={3572},
+               3 Content={2865 Content={3323, 3433, 3313, 3003, 3188 Charges=3, 3031 Amount=33, 3031 Amount=100, 3503 Content={3507 String="albondiga macabra\ncarlin\n" Editor="Albondiga Macabra"}, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3200 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               4 Content={3370},
+               5 Content={3415},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={2970 KeyNumber=4502}}
+
+Depots      = {0 Content={3504 Content={3507 String="albondiga macabra\nthais" Editor="Lona Amorm"}, 3367, 3271, 3504 Content={3507 String="albondiga macabra\nthais" Editor="Lady Amorm"}, 3008, 3502 Content={2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 3464, 3471, 2471 Content={2471}, 3003}}, 
+               1 Content={3504 Content={2853 Content={3358, 3410, 3286, 2853 Content={3264, 3286, 3410, 3264, 3286, 3410, 3264, 2853 Content={3410, 3410, 3358, 3358, 3264, 3410, 3286, 2853 Content={3354, 3410, 3358, 3410, 3264, 3358, 3264, 2853 Content={3264, 3354, 3410, 3410, 3264, 3410, 3410, 2853 Content={3352, 3286, 3286, 3410, 3354, 3410, 3358, 2853 Content={3359, 3377, 3358, 3354, 3358, 3410, 3286, 2853 Content={3286, 3410, 3358, 3410, 3358, 3410, 3349, 2853 Content={3264, 3354, 3286, 3286, 3354, 3410, 3358, 2853 Content={3354, 3410, 3282, 3264, 3410, 3352, 3358, 2853 Content={3286, 3352, 3410, 3352, 3354, 3264, 3286, 2853 Content={3286, 3264, 3359, 3358, 3352, 2853 Content={3354, 3358, 3410, 3358, 3410, 3264, 3410}, 3354, 3264}}}}}}}}}}}}, 3507 String="albondiga macabra\ncarlin" Editor="Albondiga Macabra"}, 3446 Amount=11, 3205, 3377, 3304, 3209, 3464, 3466, 3473, 3084 RemainingUses=250, 3049, 3114 Amount=22, 3481, 3658, 2873, 3354, 3056 RemainingUses=200, 2955, 3505 String="albondiga macabra hunts here...\nplz respect" Editor="Albondiga Macabra", 2991, 3506 String="Albondiga Macabra\nCarlin\n\nCarnal me voy a Ocera, jugare de nuevo en este mono solo esque es por motivos de guerra gracias por todo seguirmeos en contacto recuerda no me he ido para siempre jajaja. te cuidas carnal ( my brother)" Editor="Magnimus", 3502 Content={2472 Content={3031 Amount=16, 3017}, 2970 KeyNumber=4503, 2970 KeyNumber=4502, 3207 Amount=1, 3114 Amount=13, 2872 Content={3421, 2854 Content={3453, 3456, 3457, 3472, 3454, 3452, 3673, 3465, 3453, 3471, 3454, 3470, 3455, 3466, 3483, 3470, 3471, 3451, 3453}, 3299, 3421, 2472 Content={3658, 3210, 3434, 3567, 3069, 3576}, 3289, 3289, 3453}, 2869 Content={3076, 2869 Content={3209, 3304, 2953, 2991, 3310, 3661, 2839, 3310, 3563, 2991}, 2950, 3004, 3556, 3559, 3563, 3552, 2955, 2974, 2991, 3076, 2991, 3459, 3551, 3459, 3563, 3565}, 2871 Content={3351, 3409, 2853 Content={3148 Charges=1, 3003, 2977, 2977}, 3298 Amount=5, 3056 RemainingUses=200, 3313, 3093, 3313, 3299, 2949}, 2870 Content={2874, 2870 Content={3548 Amount=50, 3534 Amount=30, 3539, 3536, 3536, 3537, 3538, 3538, 3535, 3535, 3535, 3535, 3535, 3535, 3535, 3535}, 3547 Amount=50, 3533 Amount=30, 3545, 3542, 3542, 3544, 3544, 3541, 3541, 3541, 3541, 3541, 3541, 3541, 3541}, 2869 Content={2854, 2854 Content={2854}, 2854 Content={2854, 2854, 2854, 2854, 2854 Content={2854, 2854}}, 2859 Content={2859, 2859, 2859}}, 2865 Content={3056 RemainingUses=200, 3483, 3453, 3453, 3456, 3056 RemainingUses=200}, 2868, 2867 Content={2914 SavedExpireTime=1996, 2874 ContainerLiquidType=7, 2911, 2911, 2911 SavedExpireTime=612, 2911 SavedExpireTime=1048, 2911 SavedExpireTime=1862, 2911 SavedExpireTime=2262}, 2870 Content={2797, 2799, 2952, 2955, 3464, 3467, 3468, 3468, 3467, 3469, 3469, 3467, 2400, 2392, 2394, 2659, 2644, 2989, 2843, 2862 Content={2815, 3463, 2873 ContainerLiquidType=8, 2874 ContainerLiquidType=7, 2874 ContainerLiquidType=8, 2874 ContainerLiquidType=8, 2873 ContainerLiquidType=5}}, 2869 Content={2854 Content={2970 KeyNumber=4503, 2971 KeyNumber=3702}, 2970 KeyNumber=4502, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 2969 KeyNumber=3600, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=5000, 2969 KeyNumber=4603, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 2970 KeyNumber=3802, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=4600}, 2865 Content={2857 Content={3051 SavedExpireTime=583, 3048 RemainingUses=20, 3050 SavedExpireTime=1796, 3092, 3050, 3092, 3083 RemainingUses=150}, 3061, 3084 RemainingUses=250, 3045 RemainingUses=200, 3045 RemainingUses=200, 3097, 3097 SavedExpireTime=3485, 3045 RemainingUses=200, 3077, 2865 Content={3082 RemainingUses=50, 3085 RemainingUses=200, 3084 RemainingUses=250, 3077, 3012, 3056 RemainingUses=200, 3083 RemainingUses=150, 3097, 3083 RemainingUses=150, 3077, 3084 RemainingUses=221, 3084 RemainingUses=250, 2906, 2906, 3012, 3097, 2857}, 3077, 3077, 2906, 3054 RemainingUses=29, 3012, 3012, 3056 RemainingUses=200, 3097}, 3114 Amount=13, 3207 Amount=1, 2473 Content={2977, 3728 Amount=2, 3596 Amount=1, 3587 Amount=3, 3586 Amount=1, 3589 Amount=1, 3579 Amount=10, 3601 Amount=2, 3725 Amount=3}}}, 
+               2 Content={3504 Content={3507 String="albondiga macabra\nkazordoon\n" Editor="Albondiga Macabra"}, 3502 Content={3377}}, 
+               3 Content={2854, 3504 Content={2853 Content={2853 Content={3377, 3349, 2853 Content={3349, 2853 Content={3349, 2853}}}}, 2866, 3507 String="albondiga macabra\nab'dendriel" Editor="Albondiga Macabra"}, 3307, 3467, 3468, 2853, 3466, 3115, 3120, 3115, 3105, 2857, 2867, 2854, 3492 Amount=1, 3502 Content={2906, 3093 SavedExpireTime=1798, 3658, 3586 Amount=2, 3085 RemainingUses=200, 2872 Content={3008, 3287 Amount=1, 3449 Amount=5, 3349}, 3004, 2869 Content={2991, 2854, 2867}, 3473, 3492 Amount=100}}, 
+               4 Content={3503 Content={3507 String="Bonda  \nVenore\n" Editor="Bonda"}, 3504 Content={3507 String="albondiga macabra\nedron\n" Editor="Renata saint"}, 3502}, 
+               5 Content={2469 Content={3035 Amount=18}, 2853 Content={3285, 3285, 3409, 2853 Content={2853 Content={2853 Content={2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=43}}}}}, 3003, 3502 Content={2865, 2871, 3583 Amount=8, 2872, 3349}}, 
+               6 Content={3502}, 
+               7 Content={3507 String="albondiga macabra hunt here\nPls leave \nRESPECt" Editor="Albondiga Macabra", 3507 String="albondiga macabra hunts here\nplz respect" Editor="Albondiga Macabra", 3042 Amount=1, 3504 Content={3507 String="albondiga macabra\nankrahmun" Editor="Lona Amorm"}, 3504 Content={2469 Content={3198 Charges=5, 3198 Charges=5}, 3507 String="albondiga macabra\nankrahmun" Editor="Arcus Leven"}, 3502 Content={3045 RemainingUses=200, 3056 RemainingUses=200, 3384, 3372, 2969 KeyNumber=3033}}, 
+               8 Content={3504 Content={3507 String="albondiga macabra\nport hope" Editor="Arcus Leven"}, 3502 Content={3298 Amount=1, 3287 Amount=2, 2854 Content={2854}, 2924 SavedExpireTime=66, 2854}}}

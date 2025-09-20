@@ -1,0 +1,60 @@
+ID              = 8124414
+Name            = "Master awelito"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,3-9-2-96)
+CurrentOutfit   = (134,3-9-2-96)
+LastLogin       = 1126919758
+LastLogout      = 1126919765
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,76272,0,83400,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,108640,1100,114244,1600)
+Skill = (2,163,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17106,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,13604,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,118,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,51,0,10,0,0,0,0,0,0,0,9847,1100,10752,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,14,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,29,76}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(31,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={3572},
+               3 Content={},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3008, 3504 Content={3507 String="master awelito\nthais"}, 3504 Content={3507 String="MASTER AWELITO\nTHAIS"}, 2854 Content={3198 Charges=3, 3198 Charges=2}, 3503 Content={3507 String="master awelito\nthais"}, 3504 Content={3507 String="master awelito\nthais\n"}, 3504 Content={3504 Content={3457, 3507 String="master awelito\ncarlin"}, 3507 String="master awelito\nthais"}, 3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={}}, 3507 String="master awelito\nankrahmun", 3504 Content={2865 Content={}, 3504 Content={2853 Content={}, 3507 String="master awelito\nedron", 3504 Content={3507 String="master awelito\ncarlin"}}, 3507 String="master awelito\nthais"}}, 3507 String="master awelito\ncarlin"}, 3507 String="master awelito\nthais"}, 3504 Content={2853 Content={2853 Content={2853 Content={}}}, 3507 String="master awelito\nthais"}, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="master awelito\nab'dendriel"}, 3502 Content={}}, 
+               4 Content={3358, 3578 Amount=13, 2854 Content={}, 3504 Content={3507 String="master awelito\nedron"}, 3375, 3502 Content={}}, 
+               5 Content={3578 Amount=1, 3502 Content={}}, 
+               6 Content={3293, 3374, 3502 Content={3083 RemainingUses=150}}, 
+               7 Content={3502 Content={}}}

@@ -1,0 +1,61 @@
+ID              = 8378579
+Name            = "Lady Gret"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (142,114-17-95-76)
+CurrentOutfit   = (142,114-17-95-76)
+LastLogin       = 1148242333
+LastLogout      = 1148254875
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32640,32741,6]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1225561,0,1238400,100)
+Skill = (1,59,0,0,0,0,0,0,0,0,0,4448720,1100,4855706,1600)
+Skill = (2,360,360,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,33,1085,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,112,112,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,36444,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1573,1800,2063,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,40967,1800,72239,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,817,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,67,0,10,0,0,0,0,0,0,0,49130,1100,50127,20)
+Skill = (14,0,1200,0,0,0,990,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,94,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,5,8,9,10,16,17,18,20,25,29,30,39,42,44,45,76,78,82,84,88}
+QuestValues = {(1,3),(2,6),(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(27,1),(41,1),(42,1),(43,1),(44,1),(56,1),(59,1),(69,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(112,1),(121,1),(125,1),(126,1),(137,1),(153,1),(190,1),(191,1),(211,4),(217,3),(223,1),(253,1),(324,1),(325,1),(326,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2854 Content={3582 Amount=4, 3067, 3031 Amount=38, 3031 Amount=100, 3492 Amount=10, 3209, 3457}},
+               4 Content={3381},
+               5 Content={3425},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3069}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="lady gret\ncarlin" Editor="Panocla Irritada"}, 3502 Content={3031 Amount=80, 3031 Amount=100}}, 
+               2 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502}, 
+               3 Content={2869, 3504 Content={3377, 3352, 3507 String="Lady Gret\nab'dendriel"}, 3008, 3504 Content={3582 Amount=29, 3507 String="lady gret\nab'dendriel"}, 2853 Content={3046 SavedExpireTime=2276, 3349}, 3502 Content={2853 Content={3457}, 3310, 3505 String="Laurita:\n\nSabes ke te kiero mucho porke has sido muy importante para mi en esta nueva etapa d mi vida y mas por el apoyo ke tu me has brindado...te kiero mucho no lo dudes....eres un gran apoyo para mi como toda tu hermosa familia que para mi es importante. MARCO", 3056 RemainingUses=200, 3349}}, 
+               4 Content={2854 Content={3046 SavedExpireTime=2999, 3046 SavedExpireTime=2997}, 3504 Content={3507 String="lady gret\nedron" Editor="Lady Gret"}, 3507 String="Lady Gret\nedron", 3504 Content={3507 String="Lady Gret\nedron", 2853 Content={3352, 3352}}, 3502}, 
+               5 Content={3504 Content={3507 String="Lady Gret\ndarashia" Editor="Lady Gret", 2853 Content={3457}}, 3504 Content={3507 String="lady gret\ndarashia" Editor="Lady Gret", 2868}, 2853 Content={3031 Amount=100, 3031 Amount=100}, 2853 Content={2853 Content={3264, 3264, 3286, 3286, 3264, 3264, 3264, 3264}, 2853 Content={3264, 3264, 3264, 3264, 3286}, 2853 Content={3286, 3264, 3264, 3286}, 2853 Content={3286, 3286, 3286, 3264, 2853 Content={3264, 3264, 3264, 3286, 3264, 3264, 3264, 3264}}, 3264, 2853 Content={3286, 3264, 3264, 3286, 3286, 3286, 3264, 3286}}, 2985, 3504 Content={3286, 3286, 2853 Content={3446 Amount=12, 3349, 3359}}, 3502 Content={2973 KeyNumber=3520, 2865 Content={3658, 2857 Content={3077, 3084 RemainingUses=250}, 3658, 3410}, 3507 String="lady kote\nhunted here\nmensaje x favot antes de bajar a la cueva\nrespeta "}}, 
+               6 Content={3504 Content={3507 String="lady gret\nvenore" Editor="Besito de chokolate"}, 3413, 3506 String="Warning!\n\nThe monthly rent of 4330 gold\nfor your house \"Dream Street 1 (Shop)\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3502}, 
+               7 Content={3504 Content={3507 String="lady gret\nankrahmun" Editor="Besito de chokolate"}, 2853 Content={2868 Content={2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 3502}, 
+               8 Content={3504 Content={3507 String="lady gret\nport hope\n \n\nun regalo\npequeño" Editor="Robert'Master Estar", 2471 Content={3492 Amount=81, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3467, 2650, 3598 Amount=28, 3586 Amount=2, 3593, 3590 Amount=13}, 3046 SavedExpireTime=2869, 3046 SavedExpireTime=1091, 3046 SavedExpireTime=2568, 2854 Content={3589 Amount=27, 3586 Amount=12, 3587 Amount=7, 3593, 3198 Charges=5}, 3504 Content={2869 Content={3359, 2667, 2659}, 3507 String="lady gret\nport hope\n" Editor="Robert'Master Estar", 3027 Amount=2, 3026 Amount=1, 3008, 3598 Amount=4, 3587 Amount=5, 3590 Amount=13, 3591 Amount=13}, 2854 Content={2853 Content={3353, 2854 Content={3046 SavedExpireTime=260, 3092 SavedExpireTime=1768}}, 2821 String="Surviving in the Swamp,\nby E. R. Grossom", 2816 String="Diary of E. R. Grossom\n\n"}, 3507 String="hi mom i love you\npresent :D\n**=kiss=** \n\natte:\nsir moppetir." Editor="Lady Gret", 3502 Content={2871, 3598 Amount=1, 2854 Content={2857 Content={3350, 3350, 3350, 3350, 3350, 3505 String="Para : Laurita =*\n\nGragias por estar siempre conmigo TE QUIERO MUCHO AMOR y espero que esto duro por mucho tiempo no nomas por tibia espero que llegemos ser muy buenos amigos en rl \n\nAtte :Reyco Arius que te quiere por siempre =******\n\n" Editor="Lady Gret", 2969 KeyNumber=5010}, 3350, 3350, 3085 RemainingUses=196, 3085 RemainingUses=171, 3298 Amount=31}, 3658}}}

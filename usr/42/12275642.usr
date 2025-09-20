@@ -1,0 +1,49 @@
+ID              = 12275642
+Name            = "Douche"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,0-88-88-114)
+CurrentOutfit   = (131,0-88-88-114)
+LastLogin       = 1147633953
+LastLogout      = 1147634246
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32355,32210,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4200,0,6400,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2293,3000,6400,1600)
+Skill = (2,0,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,28,0,10,0,0,0,0,0,0,0,5005,1100,5115,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,37,0,10,0,0,0,0,0,0,0,6116,1100,6710,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(59,1),(217,3),(253,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               5 Content={3412},
+               6 Content={3274},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3352, 2853, 2853, 2853 Content={3289, 2875, 3504, 3504 Content={3507 String="verguz'fenix\nthais" Editor="Verguz'fenix"}, 3504, 2880}}, 3504 Content={3504 Content={3507 String="Zanq\nthais" Editor="Zanq", 2868 Content={3357, 3557, 2869 Content={2866 Content={3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3275}, 3322, 3322, 3356, 3297, 3046 SavedExpireTime=3000, 3369, 3351, 3351, 3557, 3279}}, 3507 String="Douche\nthais" Editor="Zanq"}, 2667, 3337, 3552, 3552, 2992 Amount=5, 3373, 3504 Content={2473 Content={2469}, 3507 String="douche\nthais" Editor="Douche"}, 2857 Content={2656, 2667, 2667, 2667, 2659, 2659, 2667, 2667}, 3502 Content={3003, 2865 Content={2854, 2854 Content={2854}}, 3208, 2854 Content={2854, 2854, 2854, 3426, 3559, 3376, 3561, 2920, 2920, 2920, 2920, 2816 String="The citys of the continent: \n\nFibula is a small village on an isle southwest of the mainland. Its under the rulership of the Thais monarchy. Its rumored that beneath this isle are caves and dungeons of unknown but certainly ancient origin. \n\nOn the mainland is the city of Thais, ruled by the wise and just King Tibianus. His explorers found the new soulvortex on this isle and build this base to protect and train the incoming heroes.  \n\nIn the far northwest is the city of Carlin, that is ruled by amazons. The stuborn so called queen refuses to accept the rulership of the Thais monarchy over the whole continent. \n\nAt the great bay, east of Thais lies a rotten town of criminals. Little is known about it and only the most ruthles people even think about travelling there. \n\nThe dwarfen town, north of mount sternum, the central tibian mountainmassive, is the home of the tibian dwarfs. If you are looking for smiths of unparraleled skill you should travel there. \n\nFarer north, at the northern shores you find the elven city of Ab'Dendriel. There live the elves, masters of nature and masterhunters. \n", 2816 String="The Soulvortex\nIts said that in ancient times, the gods created a great vortex to allow the souls of spirits from 'beyond' enter the realm of Tibia. Through this vortexportal many great heroes were able to  manifest themselves on Tibia. In their new bodys they fought againt the forces of destruction. But also agents of destruction and evil entered the world through this portal. More and more the dark forces used the portal to spread over Tibia and to annoy, disrupt and subvert the brave people of the world. Some of the evil spirits remained long enough in this world to wreak even more havoc on the good people of Tibia. Destruction of all that others had built, slaying of new manifested souls as soon as they left the vortex. \nThe gods watched in grief what had become of their great accomplishment. And one day Uman and Banor combined their awesome forces and split the vortex. One strand now aimed to the isle of rookgaard, the other one remained aimed on the temple of Thais. \nFrom this day on the newborn heroes awakened on the holy and protected isle of rookgaard and only the stronger and better prepared souls could travel to the continent. \nGuided by omens an expedition of brave warriors from the thaian order of the knights of noodles traveled the perillious seas the the remote isle of rookgaard and discovered the new soulvortex. \nSoon this base was built and this fine academy founded. \n\nPraise the gods and our King.", 3590 Amount=14}}}}

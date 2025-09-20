@@ -1,0 +1,57 @@
+ID              = 10562413
+Name            = "Fara Cain"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (139,78-113-132-132)
+CurrentOutfit   = (139,78-113-132-132)
+LastLogin       = 1148210636
+LastLogout      = 1148210831
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32931,32076,8]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,456450,0,499200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,369260,3000,582400,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,107,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,71,0,10,0,0,0,0,0,0,0,354154,1100,367422,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,81,1100,105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (10,72,0,10,0,0,0,0,0,0,0,189390,1100,202132,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,36,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,57,0,10,0,0,0,0,0,0,0,18130,1100,19203,20)
+Skill = (14,0,1200,0,0,0,680,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,0,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(54,1),(59,1),(60,1),(61,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(109,1),(113,1),(114,1),(115,1),(125,1),(126,1),(128,1),(190,1),(191,1),(208,1),(217,3),(226,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2867 Content={3293, 3092, 3308, 3457, 3003, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3370},
+               5 Content={3428},
+               6 Content={3320},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Fara Cain\nThais" Editor="Fara Cain"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={2854 Content={3504 Content={3503, 3504, 3504}, 2853 Content={3059, 3409}, 2865 Content={3504 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3275, 3285, 3276, 3367, 3483, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2857 Content={3425, 3425, 3425, 3017, 3017}}, 3502 Content={2854 Content={3031 Amount=16, 3031 Amount=100, 3031 Amount=100, 3035 Amount=6, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={2868 Content={3578 Amount=100, 3578 Amount=100}, 2867 Content={3492 Amount=91, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2854 Content={3582 Amount=21, 3577 Amount=10, 3583 Amount=7}}, 2854 Content={2867 Content={3004, 3084 RemainingUses=250, 3092, 3052, 4871, 3052, 3085 RemainingUses=200, 3083 RemainingUses=120, 3082 RemainingUses=50, 3052, 3092, 3092, 3050, 3097 SavedExpireTime=3591, 3097 SavedExpireTime=904}, 2854 Content={3290, 3062, 3147, 3077, 3046, 4871, 2992 Amount=10, 3456, 2874 ContainerLiquidType=7, 3046, 3059, 3059, 2868 Content={3310, 2816 String="So many evil creatures!\nI'm heavily injured.\nThese are my last words ...\nRevenge my death!\n\nGygil"}, 2870 Content={3277 Amount=1}, 2955, 3046, 3046, 2989, 2989}, 2867 Content={2969 KeyNumber=5010, 2970 KeyNumber=4503, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 2973 KeyNumber=3520, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2969 KeyNumber=4600}, 2866 Content={2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=2}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4}}}}}}

@@ -1,0 +1,52 @@
+ID              = 12283413
+Name            = "Mowchow"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-0-114-0)
+CurrentOutfit   = (129,79-0-114-0)
+LastLogin       = 1145306389
+LastLogout      = 1145306462
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32219,5]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,147208,0,156200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,60947,3000,64000,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,34412,1100,36404,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,153,1400,213,30)
+Skill = (8,49,0,10,0,0,0,0,0,0,0,21910,1100,22129,50)
+Skill = (9,23,0,10,0,0,0,0,0,0,0,1284,1100,1398,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,75,1100,105,50)
+Skill = (11,26,0,10,0,0,0,0,0,0,0,2022,1100,2027,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,38,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(59,1),(60,1),(61,1),(128,1),(217,3),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               2 Content={3054 RemainingUses=151},
+               3 Content={2853},
+               5 Content={3307},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3114 Amount=2, 3457, 3536, 3542, 3545, 3544, 3539, 2854 Content={3504 Content={3507 String="Mowchow\nThais" Editor="Mowchow"}, 3504 Content={3507 String="danakumir bonareen\nthais" Editor="Aireakar Mintan"}, 3504, 3504, 3504 Content={3273}, 3504 Content={3507 String="Wild monk\nthais\n" Editor="Wild monk"}, 3504, 3504, 3504, 3504, 3504, 3504}, 2854 Content={3504, 3504, 3504 Content={3507 String="Dragon Lure \nThais" Editor="Konki"}, 3504 Content={3507 String="Adelayda\nThais" Editor="Marteskiusz"}, 3504, 3504, 3504 Content={3507 String="oxi shadow\nthais" Editor="Oxi shadow"}, 3504 Content={3507 String="royal xeus\nthais" Editor="Lucrath Sath"}, 3504, 3504, 3504, 3504, 3504, 3504 Content={2853, 3507 String="zharius thil gasolina\nthais" Editor="Zharius Thil Gasolina"}, 3504, 3504, 3504, 3504, 3504 Content={3504 Content={3507 String="juan druid\nthais\n" Editor="Juan Dilom"}, 3504 Content={3507 String="juan druid\nthais\n" Editor="Juan Dilom"}, 3504}, 3504 Content={3507 String="Delta'Rage\nThais\n" Editor="Delta Sin"}}, 2854 Content={3012, 3012, 2815 String="beware of hunters" Editor="Shivaria", 2473 Content={3452, 3451}, 3115, 3114 Amount=9, 2473 Content={3456, 3456, 3456, 3456, 3456, 3456, 3456, 3456}, 2473, 2473 Content={3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457, 3457}, 2473 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}}, 2854 Content={2473, 2473 Content={3558, 3559, 3362}, 2473 Content={3285, 3273}, 2473 Content={3308, 3294, 3267, 3300, 3264, 3283, 3291}, 2473 Content={3305, 3337, 3289, 3286, 3336}, 2473 Content={3462, 3453, 3266, 3274, 3276}, 2473 Content={3551, 3552}, 2473 Content={3413, 3430, 3410, 3412, 3409, 3411, 3426}, 2473 Content={3355, 3374, 3376, 3354, 3367, 3352, 3375}, 2473 Content={3379, 3562, 3563, 3561, 3361, 3358, 3377, 3378}}, 2472 Content={3505 String=" \n", 2473 Content={3104, 2955, 3105, 2991}, 2473 Content={3110, 3110}, 2473 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}, 2473, 2473 Content={3465, 2875, 2874, 2983, 2901, 3509, 2906}, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2473 Content={3059, 2821 String="We finally made it to trick the foolish dragon and advance to some better part of earth. Here it is easy to dig a new dungeon. I hope we will find a new way out.\n\nThe way is long. We are digging for about 30 days.\n\nWe made it to advance to a stone wall! Tomorrow we will break it! The day we will see the sun again is close! Palker will be proud of me!\n\nYeah! This was the final blow. The wall is broken! But, what is that? Behind the wall, there is a human warrior. He seems dangerous. He has a glowing sword, a blue armor and green pants made of dragon-skin. He screams something like \"Tataah!\" and attacks! I don´t understand the humans! What does that mean?\nHE KILLS MY MINO-GUARDS! And now he turns towards me ...", 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2839 String="hjkhjkhj\n" Editor="Katus Jorcan"}, 2473 Content={2882, 2881, 3464, 3466, 2873, 3467, 3468, 3469, 3470, 3471}}, 2473 Content={3337, 3483, 3483, 3289, 3289, 3289, 3283}, 2469 Content={3377}, 2469 Content={3723 Amount=15, 3578 Amount=68, 3597 Amount=22, 3582 Amount=100, 3577 Amount=100, 3605 Amount=19, 3588 Amount=100, 3595 Amount=6, 3602 Amount=3, 3590 Amount=3}, 2469 Content={3607, 3585 Amount=4, 3582 Amount=24, 2874 ContainerLiquidType=11, 3674, 3738 Amount=31, 3577 Amount=28}, 2469 Content={2874 ContainerLiquidType=10}, 2469, 3502 Content={3031 Amount=18, 2854 Content={3028 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=70}}, 
+               1 Content={3506 String="Mowchow\nCarlin\n\nDear Mark, You Wanker.\nI Have Recently Realized Our Love Can No Longer Be, So I Have Arranged For A Divorced.\nPS. Your  A Man Whore." Editor="Syrx Fafall", 3375, 3375, 2472 Content={3468, 3509}, 2473 Content={3577 Amount=8, 3592, 3585 Amount=4, 3602 Amount=1, 3582 Amount=6}, 2473, 2473, 2473, 2482 Content={3457}, 3502}, 
+               2 Content={3413, 4871, 3502}}

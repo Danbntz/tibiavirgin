@@ -1,0 +1,55 @@
+ID              = 11880163
+Name            = "Darm Mokari"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,89-0-115-100)
+CurrentOutfit   = (129,89-0-115-100)
+LastLogin       = 1147646109
+LastLogout      = 1147647541
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32340,32211,6]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54298,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,10546,3000,20800,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,75,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8734,1100,8849,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,50,1400,71,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,920,1100,926,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,72,1100,105,50)
+Skill = (10,38,0,10,0,0,0,0,0,0,0,6730,1100,7431,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,279,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,189,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,29}
+QuestValues = {(18,1),(35,1),(61,1),(96,1),(97,1),(98,1),(106,1),(107,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=100, 3316, 3316, 2853, 3411, 3374, 3367, 3003, 3172 Charges=1, 3174 Charges=2, 3174 Charges=5, 2853 Content={3031 Amount=86}}},
+               4 Content={3380},
+               6 Content={3275},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3425}}
+
+Depots      = {0 Content={3003, 3031 Amount=10, 3008, 3035 Amount=21, 2871 Content={3456, 3354, 3354, 3059, 3059, 2854 Content={3074, 3492 Amount=32, 3607, 3607, 3003, 3607, 3293, 3607, 3607, 3607, 3563, 2906, 3483, 3577 Amount=6, 2874 ContainerLiquidType=10, 3097 SavedExpireTime=3586, 3056 RemainingUses=200, 3084 RemainingUses=250, 3316}, 2866, 2854, 2854 Content={3577 Amount=1, 3582 Amount=1, 3375, 3285, 3409, 3372, 3285, 3425, 3375, 3377, 3003, 3457}, 2854, 2865, 3350, 3350, 3483, 3377, 3377, 3275, 2853}, 3003, 3457, 3059, 3085 RemainingUses=200, 3421, 3362, 3003, 3289, 3300, 3003, 3577 Amount=40, 3003, 3457, 3003, 3457, 3456, 3446 Amount=7, 3027 Amount=2, 3026 Amount=1, 3084 RemainingUses=127, 3003, 3483, 3003, 3003, 3502 Content={2853 Content={3457, 2853 Content={3003, 3003, 2853 Content={3507 String="marrano macanudo\nthais" Editor="Angel Maco", 2853, 3507 String="Slugang\nthais" Editor="Slugang"}}}, 2853, 2853 Content={2853 Content={3504, 2853, 2853, 2853}, 2853, 3504 Content={3003, 3507 String="Daewond Song\nthais" Editor="Ladys Tommy"}, 3507 String="Bayzon\nThais" Editor="Grister"}, 2853, 2853, 2853 Content={3507 String="quem le esse negocio e um merda filho da puta" Editor="Detta Volixon", 3507 Editor="Alberto Quintanilla"}, 2853, 2853, 2853, 3504, 3504, 2853, 2471, 3504 Content={3507 String="Sir luck\nthais" Editor="Boldemox"}, 3504, 3504, 2853, 2853, 2853, 2853 Content={3534 Amount=9, 3507 String="alexei von arbanel\nab'dendriel" Editor="Alexei Von Arbanel", 3507 Editor="Alexei Von Arbanel", 3507 String="toitoine\nThais" Editor="Jemes"}, 2853, 2853, 2853, 2853 Content={3507 String="darknrnecro\nthais" Editor="Dark Leidy cryz", 3534 Amount=1, 3507 String="Mac'Dre\nThais" Editor="Mac'Dre", 2853}, 2853, 2853 Content={3507 String="Bass Maniac\nThais" Editor="Armed'soek", 3507 String="Hideous Huorn\nThais" Editor="Hideous Huorn", 3507 String="Armed'Soek\nThais" Editor="Bass Maniac"}, 2853, 2853 Content={3507 String="luisoon of darck\nthais" Editor="Leonel of Zanera"}}}, 
+               1 Content={2901, 3003, 3483, 2874, 3446 Amount=1, 3300, 3453, 3276, 3457, 2874, 3268, 3375, 3376, 2924 SavedExpireTime=190, 3374, 3457, 3447 Amount=3, 3337, 2955, 3559, 3355, 3502 Content={3375, 3003, 3277 Amount=2, 3430, 3276, 3492 Amount=23, 3447 Amount=1, 3147, 3456, 2874, 3492 Amount=100, 3457, 3293, 3003, 3430, 3452, 3559, 3276, 3274, 3336, 3268, 2873, 3374, 3430, 3123, 3308, 3308, 3130, 3430}}, 
+               3 Content={3502}, 
+               6 Content={2853 Content={3352, 3097, 3012}, 2853 Content={3207 Amount=1}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3502}}

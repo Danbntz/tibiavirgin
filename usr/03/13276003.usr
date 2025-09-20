@@ -1,0 +1,54 @@
+ID              = 13276003
+Name            = "Belleza Astral"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (140,58-31-0-31)
+CurrentOutfit   = (140,58-31-0-31)
+LastLogin       = 1147469943
+LastLogout      = 1147469945
+StartPosition   = [33213,32454,1]
+CurrentPosition = [32629,32747,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,21000,0,23200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,18760,1400,26118,1600)
+Skill = (2,225,225,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,91,95,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,550,550,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,1366,1100,1593,100)
+Skill = (7,42,0,10,0,0,0,0,0,0,0,6192,1100,6667,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,22,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,302,1200,372,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,494,1200,496,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,63,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,371,1100,427,20)
+Skill = (14,0,1200,0,0,0,763,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,74,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(86,1),(87,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3054 RemainingUses=123},
+               3 Content={2854 Content={3308, 3457, 3003, 3152 Charges=1, 3198 Charges=5}},
+               4 Content={3377},
+               6 Content={3412},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {4 Content={3504 Content={3504 Content={3507 String="Belleza Astral\nEdron\ntkm sis ^^" Editor="Sleepylioness"}, 3504 Content={3505 String="Indrazor~" Editor="Indrazor", 3507 String="Belleza Astral\nEdron" Editor="Indrazor"}, 3504 Content={3507 String="Belleza Astral\nEdron\n" Editor="Kakina Deron"}, 3504 Content={3507 String="Magoton\nAnkrahmun" Editor="Magoton"}, 3507 String="Belleza Astral\nEdron" Editor="Kakina Deron"}, 3502}, 
+               5 Content={3504 Content={3507 String="Belleza Astral\nDarashia" Editor="Kakina Deron"}, 3502}, 
+               7 Content={3502 Content={3084 RemainingUses=250, 3577 Amount=4, 2920, 2920, 2920 SavedExpireTime=230, 3425, 3559, 2872 Content={3031 Amount=55, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3577 Amount=63, 3059, 2853 Content={3492 Amount=100, 3492 Amount=100, 3483}, 2853 Content={3446 Amount=9, 3448 Amount=3, 1781 Amount=8, 3449 Amount=4}}}, 
+               8 Content={3504 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Flamingo Flats 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3507 String="Belleza Astral\nPort Hope\n" Editor="Belleza Astral"}, 3502 Content={2871 Content={3577 Amount=32, 3595 Amount=6, 3588 Amount=100, 3492 Amount=26, 3483, 3582 Amount=3, 3606 Amount=2}, 2854 Content={2854}, 2854 Content={3030 Amount=1, 3035 Amount=10}, 2854 Content={3448 Amount=1, 3350, 3353, 3198 Charges=5, 3083 RemainingUses=150, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3052, 3046, 3551}}}}

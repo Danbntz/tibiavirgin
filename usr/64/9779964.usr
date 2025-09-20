@@ -1,0 +1,59 @@
+ID              = 9779964
+Name            = "Wollyver"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,114-114-114-94)
+CurrentOutfit   = (134,114-114-114-94)
+LastLogin       = 1148176578
+LastLogout      = 1148176648
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33215,32452,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,121429,0,135100,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,289843,1100,291109,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,425,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,23039,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,13590,2000,25550,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,4771,2000,6350,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,2875,1500,3744,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4088,1100,4445,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,13,15,16,19,20,21,25,26,38,39,44,88}
+QuestValues = {(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3405},
+               2 Content={3572},
+               3 Content={2871 Content={3052 SavedExpireTime=344, 3004, 3035 Amount=1, 3031 Amount=46, 3003, 2854 Content={3174 Charges=2, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5}, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3587 Amount=44}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=34, 2992 Amount=5, 3177 Charges=1, 3308, 2867 Content={2868 Content={2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3483, 3492 Amount=76, 3483, 3059, 3551, 3074, 2868 Content={3085 RemainingUses=200, 3483, 2857 Content={3275, 3449 Amount=8, 2667, 2865 Content={2854, 2865, 2857}, 3350, 3456, 2970 KeyNumber=4503}, 3483, 2991, 3054 RemainingUses=200}}, 2867 Content={2857, 2857, 3483, 3286, 3283, 2854 Content={2870, 2854}, 3289, 3046 SavedExpireTime=204, 3483}}}}, 
+               1 Content={3502 Content={3031 Amount=13}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

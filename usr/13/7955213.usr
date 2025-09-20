@@ -1,0 +1,57 @@
+ID              = 7955213
+Name            = "Dark Silo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-107-114-114)
+CurrentOutfit   = (134,0-107-114-114)
+LastLogin       = 1119309992
+LastLogout      = 1119309997
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33213,32454,1]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,603471,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,105120,3000,193600,1600)
+Skill = (2,590,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,170,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,129310,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,303,1100,305,50)
+Skill = (9,63,0,10,0,0,0,0,0,0,0,79857,1100,85435,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,589,1100,678,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5556,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(25,1),(26,1),(32,1),(33,1),(35,1),(100,1),(269,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={},
+               3 Content={2853 Content={3505 String="Dark Silo Hunting Here\nMessage me Before you Enter\nOR\nIf you want to be next!\n~Peace~", 3577 Amount=50, 3457, 3003, 3504 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3377},
+               5 Content={3322},
+               6 Content={3418},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3582 Amount=11, 3577 Amount=3, 3502 Content={}}, 
+               5 Content={3582 Amount=48, 3577 Amount=43, 3188 Charges=3, 2853 Content={}, 2853 Content={3031 Amount=9}, 2853 Content={2853 Content={}}, 3421, 3377, 3377, 3505 String="Dark Silo\nHunting here\nMsg me first or if u want to go next", 3505 String="Dark Silo hunting here\nMsg me if you want to be next!\nThnx\n", 3505 String="Dark Silo Hunting Here\nMsg me first plx\nbefore you go down\nIf you want to be next msg me and tell me!\n", 3507 String="~!Dark Silo!~\n|--->Hunting here<---|\n****Msg me if you want next****", 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 2853 Content={2853 Content={3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276}}, 3504 Content={3504 Content={3504 Content={}}, 3035 Amount=15, 2853 Content={3031 Amount=18, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 2853 Content={}, 3504 Content={}, 2853 Content={}, 2853 Content={}, 3504 Content={}, 2853 Content={2853 Content={2853 Content={}}}}}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 2659, 3372, 3377, 3311, 3483, 3351, 3503 Content={3337, 3286, 3336, 3456, 3336}, 2871 Content={2871 Content={}}, 3198 Charges=5, 3431, 3270, 2853 Content={3504 Content={3507 String="chebe\ndarashia"}}, 3375, 2647, 3412, 3430, 3282, 3350, 2471 Content={}, 2667, 2650, 2653, 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 4, Flat 03\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Dark Silo\nDarashia\n"}, 3504 Content={3507 String="Dark Silo\nDarashia"}, 3504 Content={3578 Amount=2, 3507 String="Dark Silo\nDarashia\n"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 4, Flat 03\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2853 Content={2853 Content={2853 Content={}}}}}, 
+               6 Content={3374, 3268, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

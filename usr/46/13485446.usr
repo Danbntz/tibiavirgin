@@ -1,0 +1,53 @@
+ID              = 13485446
+Name            = "Larthopet Simon"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-121-0-94)
+CurrentOutfit   = (129,114-121-0-94)
+LastLogin       = 1147239271
+LastLogout      = 1147239292
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38095,0,47000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,28482,1400,38165,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,5,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,3381,1100,3594,100)
+Skill = (7,24,0,10,0,0,0,0,0,0,0,881,1100,953,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,1930,1200,1979,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,252,1200,268,50)
+Skill = (10,25,0,10,0,0,0,0,0,0,0,4113,1200,4372,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,209,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,120,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,79,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,42,51}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2853},
+               4 Content={3357},
+               5 Content={3280},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {0 Content={3031 Amount=7, 3275, 2647, 3483, 3074, 3316, 2906, 3056 RemainingUses=200, 3316, 3377, 2874, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 3603 Amount=3, 3463, 3548 Amount=4, 3502 Content={3147, 3147, 3147, 3483, 2955, 2906, 3004, 2871 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3153 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3287 Amount=5, 3456, 2853 Content={3375, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=2}, 2853, 2853 Content={3590 Amount=2, 3577 Amount=100, 3578 Amount=4, 3592, 3600 Amount=8, 3577 Amount=4, 3582 Amount=25}, 2856 Content={3492 Amount=31, 3054 RemainingUses=48, 3054 RemainingUses=200}, 2874, 3289, 2854 Content={3046 SavedExpireTime=2985, 3447 Amount=66, 3061, 3447 Amount=100, 2853 Content={3350, 3447 Amount=100}, 2853 Content={3446 Amount=100, 3349}, 3147, 3003, 2991, 3446 Amount=14, 3448 Amount=16, 3046 SavedExpireTime=2822, 2991, 2991}, 3457, 2471 Content={3330, 3283, 3289, 3457, 3017, 3453, 3017, 3017, 3276}, 3059, 3457}}, 
+               1 Content={3502}}

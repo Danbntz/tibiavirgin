@@ -1,0 +1,51 @@
+ID              = 12542442
+Name            = "Chopper'Bopper"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,132-114-114-114)
+CurrentOutfit   = (134,132-114-114-114)
+LastLogin       = 1145938382
+LastLogout      = 1145938463
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32368,32231,7]
+PlayerkillerEnd = 1146539761
+
+Skill = (0,13,0,1,0,0,0,0,0,0,1,26393,0,29900,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,14076,1100,15179,1600)
+Skill = (2,210,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,160,160,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,82,82,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5298,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,103,2000,150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,111,2000,150,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,61,2000,150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(60,1),(61,1),(84,1),(85,1),(125,1),(126,1),(223,1),(333,1)}
+Murders     = {1143947607,1143947661,1143947761}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3110, 3506 String="Chopper'Bopper\nCarlin\n\nCip Soft team:\nChopper'Bopper of Zanera, CipSoftteam has detected that your premmium account is not valid. Your payment was not fairly made. This violates the rule 8)h for more information look at the FAQ section in www.tibia.com. The vanishment of your account will be considerably taken. Thanks \n\n\n\n\n\n" Editor="Conde damon", 3502 Content={2853, 2868 Content={3375, 2955, 3565, 2955, 3097 SavedExpireTime=2666, 3349, 3066, 3446 Amount=18, 3425, 3375}, 3425, 4242 RemainingExpireTime=1012, 2853 Content={3540, 3535, 3535, 3535, 3537, 3535, 3536}, 2853 Content={3457, 3457, 3504 Content={2920 SavedExpireTime=529, 3504 Content={3504}, 3504, 3504, 3504, 3504}, 3543, 3545, 3544}, 2911 SavedExpireTime=2130, 2917 SavedExpireTime=2397, 2853 Content={3468, 3541, 3467, 2922 SavedExpireTime=44, 3541}, 2920, 2875 ContainerLiquidType=3, 2920 SavedExpireTime=598, 2920 SavedExpireTime=239, 2920 SavedExpireTime=509, 2917, 2920, 2911 SavedExpireTime=260, 2920 SavedExpireTime=467, 2920}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502 Content={2853 Content={3031 Amount=50, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2853 Content={2875 ContainerLiquidType=3, 2880 ContainerLiquidType=3, 3447 Amount=10, 2874 ContainerLiquidType=3, 3448 Amount=4}}, 3358, 3375, 2867 Content={3425, 3003, 3003}, 3285, 3372, 3483, 3307, 3030 Amount=1, 3045 RemainingUses=191, 3285, 2911 SavedExpireTime=2982, 3286, 3457, 3286, 3430, 3300, 3358, 3294, 3377, 3273, 2853 Content={1781 Amount=10}}}, 
+               8 Content={3502 Content={3003, 3031 Amount=87, 3031 Amount=100, 2880 ContainerLiquidType=3, 2880 ContainerLiquidType=3}}}

@@ -1,0 +1,57 @@
+ID              = 11567552
+Name            = "Marti The Tormentor"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,114-107-115-114)
+CurrentOutfit   = (129,114-107-115-114)
+LastLogin       = 1148245758
+LastLogout      = 1148247216
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32226,6]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,178335,0,179400,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,139118,1100,141595,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,467,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21073,1500,25749,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,39,1800,84,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1221,1800,2063,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,76,1800,140,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1961,1800,2063,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,355,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1556,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,7,10,12,15,16,29,38,44}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(35,1),(37,1),(55,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2869 Content={3003, 3457, 2920 SavedExpireTime=16}},
+               4 Content={3370},
+               5 Content={3436},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3483}}
+
+Depots      = {0 Content={3065, 3059, 3502 Content={3504 Content={3375, 3012, 3084 RemainingUses=250, 3446 Amount=23, 2955, 3289, 3017, 2650, 2969 KeyNumber=4600, 3504 Content={3275, 3077, 3377, 3483, 3084 RemainingUses=250, 3448 Amount=23, 3012, 3293, 1781 Amount=20, 2853 Content={2656, 3092 SavedExpireTime=1699, 2906, 2977, 2991, 3046 SavedExpireTime=29, 3454, 2853 Content={3017, 3299, 3046 SavedExpireTime=2845, 3275, 3012, 2906, 3503 Content={3279, 3441, 3084 RemainingUses=250, 3077, 3316, 3083 RemainingUses=150, 3289, 2853 Content={3338, 3298 Amount=1, 3054 RemainingUses=200, 3316, 3046 SavedExpireTime=2997, 3066, 3565, 2853 Content={3330, 2842 String="hola soy seco" Editor="Marti The Tormentor", 3316, 3289, 3289, 3289, 2854 Content={3447 Amount=15, 3074, 3455, 3483, 3377, 3285, 3377, 3084 RemainingUses=250, 3377, 3279, 3377, 3456, 3349, 3483, 3456, 3349, 3070, 3289, 2857 Content={3320, 2902, 3008, 2656, 2650, 3062, 3441, 2854 Content={3084 RemainingUses=250, 2854 Content={2854 Content={2854 Content={2857 Content={2856 Content={2868 Content={2854 Content={2854}}}}}}}}}, 3483}}}, 2969 KeyNumber=3600}}}}}, 3504 Content={3031 Amount=38, 3035 Amount=5, 3035 Amount=100, 2853}, 2854 Content={2854 Content={2854, 3198 Charges=5, 3198 Charges=4, 3160 Charges=1, 3164 Charges=3, 3160 Charges=1, 3198 Charges=2, 3198 Charges=5, 3188 Charges=3, 3155 Charges=1, 3155 Charges=1, 3174 Charges=5, 3177 Charges=1, 3177 Charges=1, 3198 Charges=5, 3160 Charges=1, 3189 Charges=2, 3174 Charges=5}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2854 Content={3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}, 2854 Content={3578 Amount=17, 3577 Amount=5, 3588 Amount=100, 3582 Amount=4, 3732 Amount=1, 2865 Content={3592, 3579 Amount=10, 3592, 2854}, 3593, 3602 Amount=2, 3592, 3592, 3605 Amount=3, 3588 Amount=47, 3593, 3578 Amount=100, 3723 Amount=10, 3585 Amount=6, 3598 Amount=3, 3597 Amount=2, 3595 Amount=2, 3583 Amount=3}, 3504 Content={4053 RemainingExpireTime=1018}}}, 
+               1 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

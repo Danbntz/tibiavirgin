@@ -1,0 +1,54 @@
+ID              = 9274319
+Name            = "Rimururu"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (140,88-0-0-79)
+CurrentOutfit   = (140,88-0-0-79)
+LastLogin       = 1146998131
+LastLogout      = 1146998256
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31683,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,103563,0,116000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,91260,1400,111701,1600)
+Skill = (2,300,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,123,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,17089,1100,18194,100)
+Skill = (7,55,0,10,0,0,0,0,0,0,0,23553,1100,23753,30)
+Skill = (8,22,0,10,0,0,0,0,0,0,0,2418,1200,2424,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,33,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,30,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1775,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3897,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,55,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,42,51,76,79}
+QuestValues = {(46,1),(111,1),(112,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=212},
+               3 Content={2865 Content={3031 Amount=78, 2854 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               10 Content={3447 Amount=59}}
+
+Depots      = {1 Content={3502 Content={3264, 3446 Amount=3, 3035 Amount=1, 3031 Amount=30, 3425, 3277 Amount=5}}, 
+               3 Content={3074, 3446 Amount=27, 3504 Content={3322, 3035 Amount=39, 3035 Amount=100, 3077, 3046, 3507 String="Rimururu\nab'dendriel"}, 2866 Content={3054 RemainingUses=27}, 3504 Content={3507 String="rimururu\nab'dendriel\n", 3003}, 3483, 2869 Content={2854, 2854, 2865, 2865}, 3504 Content={1781 Amount=17, 3504 Content={3504 Content={2854 Content={2870 Content={3483, 3492 Amount=35}, 3350, 3349, 3349, 3349, 3349, 3349}}}, 2854 Content={3578 Amount=40, 3578 Amount=100}, 3507 String="rimururu\nab'dendriel"}, 3507, 3483, 3412, 3502 Content={3404, 3372, 3084 RemainingUses=242, 3277 Amount=9}}, 
+               5 Content={3447 Amount=100, 3502 Content={3349, 3056 RemainingUses=200}}, 
+               7 Content={3502 Content={3077, 3046 SavedExpireTime=0}}}

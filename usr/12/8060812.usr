@@ -1,0 +1,59 @@
+ID              = 8060812
+Name            = "Albus De'maniak"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (128,116-114-95-91)
+CurrentOutfit   = (128,116-114-95-91)
+LastLogin       = 1148068718
+LastLogout      = 1148069652
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32643,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,308055,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,103955,3000,193600,1600)
+Skill = (2,305,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,81,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,134258,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,62,0,10,0,0,0,0,0,0,0,76481,1100,77623,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5445,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,20,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80}
+QuestValues = {(14,1),(15,1),(16,1),(21,1),(22,1),(23,1),(31,1),(36,1),(37,1),(50,1),(55,1),(72,1),(73,1),(83,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(111,1),(112,1),(116,1),(117,1),(118,1),(119,1),(121,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(154,1),(156,1),(157,1),(158,1),(175,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(213,1),(214,1),(217,3),(225,1),(254,1),(257,1),(278,2),(280,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               3 Content={2870 Content={3723 Amount=11, 2853 Content={3031 Amount=35, 3031 Amount=20, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3031 Amount=68, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853, 2853, 2853, 2853}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2867 Content={3504 Content={3504, 3507 String="Albus De'maniak\nThais" Editor="Albus De'maniak"}, 2825 String="20 Tricks to Get People's Money\n\n..."}, 3502 Content={2853, 3430}}, 
+               1 Content={3504 Content={3507 String="albus de'maniak\ncarlin" Editor="Damiky"}, 3504 Content={3507 String="Albus De'maniak\nCarlin" Editor="Leon Setopon"}, 3502 Content={2473 Content={2469, 2469, 2473, 2473}}}, 
+               2 Content={3504 Content={3507 String="Albus de'maniak\nkazordoon" Editor="Galahad", 3035 Amount=21}, 3723 Amount=59, 3723 Amount=100, 3031 Amount=19, 3582 Amount=4, 3723 Amount=100, 3723 Amount=100, 3035 Amount=47, 3271, 3483, 3503 Content={3503 Content={3507}, 3507}, 3492 Amount=85, 3492 Amount=100, 3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="Albus de'maniak\nedron"}, 3267, 3412, 2865 Content={2865 Content={}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2870 Content={}, 2865 Content={}}, 3504 Content={3507 String="Albus de'maniak\nedron"}, 3330, 3330, 3504 Content={3507 String="albus de'maniak\nedron\n"}, 2865 Content={}, 2868 Content={2867 Content={2868 Content={2854 Content={}, 2869 Content={}}}, 2868 Content={}}, 3483, 3502 Content={2854 Content={}, 2854 Content={}, 2969 KeyNumber=3600}}, 
+               5 Content={3003, 3502 Content={3092 SavedExpireTime=1438, 2867 Content={3572, 2868 Content={}, 2854 Content={2865 Content={2854 Content={}}, 2867 Content={3147, 3147, 3003, 2867 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3483}}}}, 2854 Content={3123, 3361, 3353, 3285, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian"}, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampathes to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicals out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 3208, 2821 String="Diary of Hengis Wulfson\n...\nI can only hope I can escape the \ncyclopes someday. For now I have \noccupied their chief with an attempt \nto learn to read and write, but for \nhow long?\nI'm so desperate. \nWhat a foolish idea to travel here to \nsearch the famous treasures of this \nancient, knightly order. \nI wish I had never heard about it. \nI wish I never had sung thant song. \nNo clue how many unfortunate souls I have lured to death with it.\n"}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="Albus De'maniak\nankrahmun"}, 3504 Content={3507 String="albus de'maniak\nankrahmun"}, 3504 Content={3507 String="albus de'maniak\nankrahmun"}, 3502 Content={2853 Content={3276, 3276, 2853 Content={3411, 3292, 3330, 3483, 3330, 3327, 3327, 3330}, 2853 Content={3291, 3084 RemainingUses=239, 2853 Content={2853 Content={2853 Content={}}}}, 2853 Content={2853 Content={}}}, 2853 Content={3266}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}}}

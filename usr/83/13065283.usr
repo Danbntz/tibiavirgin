@@ -1,0 +1,50 @@
+ID              = 13065283
+Name            = "Chedda bob"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,0-114-0-114)
+CurrentOutfit   = (131,0-114-0-114)
+LastLogin       = 1148256708
+LastLogout      = 1148258625
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32368,32265,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,93861,0,98800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,78897,3000,193600,1600)
+Skill = (2,350,350,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,26,90,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,745,745,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,49,0,10,0,0,0,0,0,0,0,40511,1100,44259,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,50,1100,105,50)
+Skill = (9,51,0,10,0,0,0,0,0,0,0,25149,1100,26881,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(37,1),(55,1),(59,1),(140,1),(141,1),(332,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2868 Content={3031 Amount=59, 3031 Amount=100, 3003, 3457, 2920, 3031 Amount=100, 2920, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=100, 2854, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2865 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3577 Amount=16, 3582 Amount=4, 2868 Content={2872 Content={2869 Content={2868 Content={2872, 2865, 2869, 2868, 2871, 2869, 2869, 2865, 2865, 2868, 2866, 2857, 2868, 2865, 2866, 2866, 2866, 2867, 2854, 2869}, 2865, 2869, 2869, 2865, 2869, 2854, 2865, 2871 Content={2867, 2871, 2871, 2865, 2865}, 2857, 2868, 2867, 2869}, 2866 Content={2863, 2854 Content={2871, 2865, 2871, 2868, 2871, 2869, 2854, 2871, 2871, 2871, 2866, 2865, 2869, 2866, 2871, 2854, 2869, 2868, 2871, 2865}, 2871 Content={2869, 2869, 2869, 2869, 2854, 2871, 2869, 2854, 2871, 2871, 2866, 2871, 2866, 2869, 2866, 2866, 2868, 2871, 2865, 2871}}, 2869, 2869 Content={2857, 2866, 2868}, 2871 Content={2866, 2854}}, 2469 Content={2857 Content={2969 KeyNumber=3666, 3066}, 2868 Content={2869 Content={2842, 2842, 2842, 2842}, 2842, 2842, 2842, 2842, 2842, 2842 String="Exotic migget\ngay" Editor="Clonux", 2842, 2842, 2842, 2842, 2842, 2842, 2842, 2842, 2842, 2842, 2842, 2842, 2842}, 2853 Content={2820 String="Researchpaper 33-16 H\nThe 'stoneskin' spell is still flawed. The test subjects complained about severe problems when moving, and some actually suffered from partial paralysis or even from acute petrification! However, I still believe the spell might be useful as some sort of emergency measure because I imagine that turning oneself into a statue for a while might come in handy when all other options have failed. Oddly enough it is quite simple to focus the spell into an object, preferably an amulet, so the change is still bound to an object that serves as a transmitter. Obviously the problem is related to the one we had when we tried to channel certain spells through runes. I'm afraid that while research covering spontaneous magic has made great advances since the early days we are still at the beginning when it comes to channelled spells.", 2820 String="Researchpaper 74-08 G\nWe haven't yet managed to improve the 'find person' spell. However, we are still convinced that in theory it must be capable of divulging additional information such as the experience and power of the targeted persons as well as their general physical condition and the chemical composition of their last supper. There are numerous problems, though, and it is well possible that we have to start all over again. This would mean, of course, that we would have to create some spells to obtain information by means of magic which is plain to see when you are close to the targeted person. One might argue that it is a waste of time and resources to develop such a spell, but then I see no other way to create a similar spell that features enhanced range and a combination of effects.", 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 2820 String="Researchpaper 56-09 A\nWe lost three mages in our last attempt at performing a controlled demon summoning. It is still too difficult to predict in what way the fabric of time and space is affected by the breach of the sphere, and from what we have seen the backlash of nature against demonic incursion can range from a slightly offensive odour to a sizeable explosion such as the one we saw yesterday. I am personally disappointed to observe that the elemental protection spells we put up did not work at all. Perhaps there is some truth in the reports that the unleashed energy is of purely entropical nature. We have yet to decide whether or not it makes sense to create an entropic counterspell first, but I support the idea that the loss of manpower while trying to balance the spell is manageable. It is possible, though, that this will lead to no convincing result at all due to the uncontrollable nature of the demonic realm. If this should be the case the use of entropic countermagic is the only option left.\nBy the way: The summoning of lesser creatures, the so-called 'reds', progressed comparatively well. Of course, these creature are mere borderdwellers and may consequently not be considered true demons of course. However, it may prove that the development of summoning spells for 'reds' will prove a rewarding spin-off of demon summoning research.", 2820 String="Researchpaper 77-04 D\nThe 'move earth' spell seems to be ready to enter the stage of field testing. The results so far were quite convincing, and the priests were pleased. The recent studies we have carried out together have proven that we can indeed learn from each other. I must admit I would certainly like to add this useful little spell to my personal repertoire. After all, shovels and pickaxes are heavy and pretty unwieldy, and I would very much like to leave them at home. I envy the priests for the elemental powers they are wielding.", 2820 String="Researchpaper 35-22 D\nThe 'Foeburner' spell still is not working. Somehow it seems impossible to specify a group of targets to be excluded from the area of the spell effect. If only we found a way to use a spell or a spell-like ability to define non-target groups we could finally make the spell work. For now, however, we have stopped the research because we felt it is necessary to create the groundwork for future research in the field. The question is: Should we focus on working out a special definition spell, or is it actually possible to weave some sort of divination spell into the pattern of the foeburner in order to receive a satisfying result with a single spell. I am somewhat inclined towards the latter option because of the satisfactory results we have recently achieved in the field of divination magic.", 2820 String="Resarchpaper 88-04 F\nOn the request of our beloved pharaoh we have stopped the research on the XXXXXX spell. All research was destroyed, and although we had met with considerable success in XXXXX the XXXXX and even seemed to have a solution for the problem of the plasma leak the project has been discarded. Even the side reports were destroyed. An apology has been issued to the pharaoh for thoughtlessly researching in that field.", 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect."}, 2866 Content={2969 KeyNumber=3600, 2969 KeyNumber=3667, 2969 KeyNumber=3610, 2969 KeyNumber=3620, 2969 KeyNumber=3650}}, 2869, 2863}, 3502 Content={3031 Amount=74, 3031 Amount=100, 3035 Amount=10}}, 
+               6 Content={3502}, 
+               7 Content={3286, 3031 Amount=20, 3504 Content={3507 String="chedda bob\nankrahmun" Editor="Exotic migget"}, 3502}}

@@ -1,0 +1,56 @@
+ID              = 8468326
+Name            = "Gaia Lancaster Master Oz"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,77-87-57-58)
+CurrentOutfit   = (128,77-87-57-58)
+LastLogin       = 1148259836
+LastLogout      = 1148259909
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32350,32224,6]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,398271,0,409000,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,523587,1100,528063,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,113,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,47165,1500,58185,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,456,1800,671,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,137,1800,140,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,29,1800,50,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,18370,1800,22252,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,487,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,52,0,10,0,0,0,0,0,0,0,11586,1100,11848,20)
+Skill = (14,0,1200,0,0,0,719,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,7,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,5,8,9,10,16,18,20,29,42,44,45}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(55,1),(59,1),(99,1),(100,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3147, 3492 Amount=99, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147}, 2859 Content={3155 Charges=1, 3155 Charges=1, 3003, 3457, 2969 KeyNumber=3600}, 2854 Content={2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}},
+               4 Content={3567},
+               5 Content={3419},
+               6 Content={3065},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3504 Content={3599 Amount=8, 3066, 2968 KeyNumber=3940, 2854 Content={2854 Content={3191 Charges=1, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3188 Charges=3, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3188 Charges=3, 3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2853 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3198 Charges=5, 3198 Charges=4}, 2854 Content={2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3188 Charges=3, 3188 Charges=2, 3188 Charges=1, 3188 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3174 Charges=5, 3174 Charges=4, 3174 Charges=4, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=1, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4}, 2854 Content={3308, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3322, 3351, 3425}}, 3504 Content={2472 Content={2866 Content={2854}, 2473 Content={3597 Amount=1, 3590 Amount=3, 3579 Amount=8, 3585 Amount=44, 3600 Amount=30, 3595 Amount=7, 3601 Amount=50, 3469, 3129}, 3446 Amount=4, 2854 Content={3425, 3447 Amount=15, 3350, 3447 Amount=100, 3357, 3357, 3374, 3308, 3293, 3483, 3268, 3483, 3430, 3367}, 2854 Content={3092, 3046}, 2854 Content={3595 Amount=1}}, 3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3507 String="gaia lancaster master oz\nthais\n" Editor="Gaia Lancaster Master Oz"}, 3097 SavedExpireTime=3596, 3149 Charges=1, 3504 Content={3377, 3447 Amount=3, 3275, 2968 KeyNumber=3940, 3093, 3448 Amount=1, 3093, 3504 Content={3483, 3506 String="Gaia Lancaster Master Oz\nthais\n\nCongratulations You Won one Surprise Of Christhmas (Golden armor,Royal Helmet,Boots Of haste) You are Select Among more persons Add this Mesenger\nTibia_administrador@hotmail.com\n(Lenguage: Spanisñ and English)" Editor="Rafa shadowsorcere"}}, 3384, 3483, 3504 Content={3425, 3083 RemainingUses=150, 3093, 2991, 3287 Amount=1, 3093, 2991, 3008, 3507 String="Gaia Lancaster Master Oz\nThais" Editor="Boricua-Soldier", 3572}, 2868 Content={3287 Amount=2}, 2854 Content={3738 Amount=5, 3509, 2985, 3464, 3468, 3470, 3467, 3471, 3466}, 2854 Content={3599 Amount=8, 3590 Amount=3, 3593, 3283, 3046 SavedExpireTime=364, 3593, 3595 Amount=2, 3483, 3483, 3483, 3483}, 3502 Content={3056 RemainingUses=200, 2853 Content={3307, 3375, 2885 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 3305, 3448 Amount=2, 1781 Amount=3}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 3093, 3504 Content={2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3035 Amount=16, 3066, 3069, 3070, 3043 Amount=1, 3504 Content={3318, 3380, 3370}, 3035 Amount=100, 2854 Content={2854 Content={2854}}}, 2854 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867, 2867 Content={2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 2854}, 3507 String="Gaia Lancaster Master Oz\nThais"}}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               6 Content={3502}}

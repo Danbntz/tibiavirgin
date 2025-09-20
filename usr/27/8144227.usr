@@ -1,0 +1,56 @@
+ID              = 8144227
+Name            = "Dracon Toca"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,58-95-114-76)
+CurrentOutfit   = (128,58-95-114-76)
+LastLogin       = 1120245030
+LastLogout      = 1120245405
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,13337,0,17600,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,129680,1100,141595,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,40,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2297,1500,3217,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,31,1800,84,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4355,1800,6824,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,54,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5089,1100,5420,20)
+Skill = (14,0,1200,0,0,0,310,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,5,8,10,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(59,1),(60,1),(61,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2865 Content={3583 Amount=3, 3578 Amount=40, 3198 Charges=4, 3483}},
+               4 Content={3377},
+               5 Content={},
+               6 Content={3147},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {1 Content={3504 Content={3507 String="Dracon Toca\nCarlin"}, 3504 Content={3507 String="dracon toca\ncarlin"}, 3504 Content={3507 String="dracon toca\ncarlin"}, 3506 String="Dracon Toca\nCarlin\n\nDon't try to PK me. Don't EVER try to PK me.", 3457, 2920 SavedExpireTime=0, 2874 ContainerLiquidType=0, 3059 String="", 2815 String="", 3448 Amount=4, 3447 Amount=22, 3453, 3504 Content={3507 String="Dracon Toca\nCarlin"}, 3504 Content={3426, 3358, 3507 String="Dracon Toca\nCarlin"}, 3502 Content={}}, 
+               2 Content={3578 Amount=60, 3504 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=9, 3031 Amount=85, 3507 String="dracon toca\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3504 Content={3504 Content={3507 String="dracon toca\nab'dendriel"}, 3504 Content={3507 String="Dracon Toca\nAb'Dendriel", 3507 String="dracon toca\nab'dendriel"}, 3504 Content={3507 String="dracon toca\nab'dendriel\n"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="dracon toca\nab'dendriel"}}, 3507 String="dracon toca\nab'dendriel"}, 3507 String="Dracon Toca\nAb'Dendriel"}, 3507 String="dracon toca\nkazordoon"}, 3301, 3507 String="dracon toca\nab'dendriel", 2969 KeyNumber=3033, 3283, 2973 KeyNumber=3520, 2955, 3502 Content={3578 Amount=40, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3308, 3578 Amount=100, 3031 Amount=65, 3031 Amount=13, 3031 Amount=100, 3031 Amount=100}}}

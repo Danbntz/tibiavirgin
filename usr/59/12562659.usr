@@ -1,0 +1,58 @@
+ID              = 12562659
+Name            = "Lord Van dido"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,0-75-26-76)
+CurrentOutfit   = (134,0-75-26-76)
+LastLogin       = 1148065369
+LastLogout      = 1148065536
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33260,32429,7]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,754174,0,780700,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,681072,1100,708148,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,228,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,50804,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,2463,1800,3763,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,410,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,16,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,8,9,10,16,18,20,28,29,39,42,44,45,81,84,87,88,89}
+QuestValues = {(21,1),(22,1),(23,1),(110,1),(129,1),(151,1),(152,1),(190,1),(191,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,7),(249,2),(250,2),(251,2),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3373},
+               2 Content={3012},
+               3 Content={2854 Content={3052 SavedExpireTime=701, 2854 Content={3160 Charges=1, 3160 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3198 Charges=5, 3198 Charges=5, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3457}},
+               4 Content={3357},
+               5 Content={3441},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3582 Amount=86, 3457, 3059, 3457, 3164 Charges=3, 3502 Content={3507, 3503, 3456}}, 
+               1 Content={3502}, 
+               5 Content={3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1225 gold\nfor your house \"Darashia 7, Flat 05\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 2874, 3457, 3425, 3051 SavedExpireTime=380, 3273, 3273, 3273, 3273, 3576, 3552, 3093 SavedExpireTime=1743, 3505 Editor="Gordibiris", 3059, 3264, 3585 Amount=3, 2853 Content={3003, 3077, 3066, 2857 Content={3264, 3457, 3046, 3077, 3084 RemainingUses=250}, 3046}, 3283, 3077, 3177 Charges=1, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 7, Flat 05\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3003, 3502 Content={2854 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=4, 2874 ContainerLiquidType=10, 3198 Charges=2}, 2866 Content={2874, 2874, 2874, 2874}, 3070, 3066, 3066, 2854 Content={3007, 3031 Amount=19, 3031 Amount=100}}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3457, 3447 Amount=100, 3457, 3003, 3502 Content={3577 Amount=7, 3582 Amount=9, 3147, 3147, 3147, 3147, 3147, 3457}}}

@@ -1,0 +1,55 @@
+ID              = 7955557
+Name            = "Lucas Gariox"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,40-60-80-103)
+CurrentOutfit   = (134,40-60-80-103)
+LastLogin       = 1148213008
+LastLogout      = 1148213409
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32683,31683,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,48330,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,8330,3000,20800,1600)
+Skill = (2,278,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,75,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,13215,1100,13420,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,41,0,10,0,0,0,0,0,0,0,9847,1100,10056,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(84,1),(85,1),(86,1),(87,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               2 Content={3054 RemainingUses=162},
+               3 Content={2865 Content={3358, 3286, 3031 Amount=6, 3031 Amount=100, 2969 KeyNumber=3033, 3457}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {3 Content={3054 RemainingUses=200, 3285, 3409, 3362, 3378, 3412, 3035 Amount=7, 3283, 3286, 3031 Amount=98, 3426, 2853 Content={3003}, 2816 String="The citys of the continent: \n\nFibula is a small village on an isle southwest of the mainland. Its under the rulership of the Thais monarchy. Its rumored that beneath this isle are caves and dungeons of unknown but certainly ancient origin. \n\nOn the mainland is the city of Thais, ruled by the wise and just King Tibianus. His explorers found the new soulvortex on this isle and build this base to protect and train the incoming heroes.  \n\nIn the far northwest is the city of Carlin, that is ruled by amazons. The stuborn so called queen refuses to accept the rulership of the Thais monarchy over the whole continent. \n\nAt the great bay, east of Thais lies a rotten town of criminals. Little is known about it and only the most ruthles people even think about travelling there. \n\nThe dwarfen town, north of mount sternum, the central tibian mountainmassive, is the home of the tibian dwarfs. If you are looking for smiths of unparraleled skill you should travel there. \n\nFarer north, at the northern shores you find the elven city of Ab'Dendriel. There live the elves, masters of nature and masterhunters. \n", 3031 Amount=100, 3031 Amount=100, 3502}, 
+               4 Content={3582 Amount=3, 3031 Amount=16, 3031 Amount=100, 3031 Amount=100, 3267, 3083 RemainingUses=150, 3372, 3035 Amount=25, 3502 Content={}}, 
+               6 Content={3502 Content={}}}

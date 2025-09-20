@@ -1,0 +1,61 @@
+ID              = 7990148
+Name            = "Delta Frost"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,94-94-94-94)
+CurrentOutfit   = (134,94-94-94-94)
+LastLogin       = 1148255239
+LastLogout      = 1148255298
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33131,32839,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,425473,0,452600,100)
+Skill = (1,48,0,0,0,0,0,0,0,0,0,1547005,1100,1691503,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,191,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,43537,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,59,2000,90,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,860,2000,1550,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,25954,2000,51150,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,1162,2000,1550,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,388,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,62,0,10,0,0,0,0,0,0,0,30819,1100,31049,20)
+Skill = (14,0,1200,0,0,0,1075,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,31,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,13,16,17,18,19,20,21,23,24,29,33,39,44,45,55,81,86,87,88}
+QuestValues = {(1,4),(2,6),(17,1),(20,1),(21,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(41,1),(42,1),(43,1),(44,1),(55,1),(56,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(124,1),(128,1),(134,1),(140,1),(141,1),(142,1),(143,1),(153,1),(190,1),(191,1),(211,4),(216,1),(217,3),(222,1),(224,1),(226,1),(253,1),(254,1),(257,1),(333,1)}
+Murders     = {1147542653}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3578 Amount=22, 3035 Amount=5, 3286, 3410, 3286, 3354, 3031 Amount=51, 3505 Editor="Terasen", 3492 Amount=45, 3492 Amount=100, 3003, 3457, 2969 KeyNumber=3033}},
+               4 Content={3377},
+               5 Content={3324},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="delta frost\nthais" Editor="Yunos Wover"}, 3308, 3504 Content={3426, 3286, 3264, 3507 String="delta frost\nthais" Editor="Reflection'Spinal"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3277 Amount=3, 3456, 3504 Content={3559, 3507 String="delta frost\nkazordoon" Editor="Morn Yamir"}, 3502}, 
+               3 Content={3504 Content={3507 String="Delta Frost\nAb'Dendriel" Editor="Lazarrus"}, 3502}, 
+               4 Content={2853 Content={3582 Amount=32}, 3093 SavedExpireTime=1747, 2853 Content={2870 Content={2853 Content={2853 Content={2853 Content={3377, 3377, 3377}, 3377, 3377}, 3377, 3377, 3377}, 3425, 3425}}, 3502}, 
+               5 Content={2469, 3502}, 
+               6 Content={2854 Content={2854, 3003, 3275, 3003, 3031 Amount=20, 3492 Amount=1, 3457, 3483}, 3502}, 
+               7 Content={2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={2853, 3577 Amount=59}, 3552, 3502 Content={3046, 3046, 3046 SavedExpireTime=843, 3046, 3046 SavedExpireTime=2997, 3046 SavedExpireTime=1515}}, 
+               8 Content={3502}}

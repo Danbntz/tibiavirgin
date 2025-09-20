@@ -1,0 +1,58 @@
+ID              = 8010978
+Name            = "Luzvell"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,39-48-114-39)
+CurrentOutfit   = (134,39-48-114-39)
+LastLogin       = 1148257601
+LastLogout      = 1148257662
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32684,31681,6]
+PlayerkillerEnd = 0
+
+Skill = (0,46,0,1,0,0,0,0,0,0,1,1502997,0,1522600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,293346,3000,582400,1600)
+Skill = (2,755,755,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,23,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,115,115,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1420,1420,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,207531,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,69,0,10,0,0,0,0,0,0,0,145468,1100,151740,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,47,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,121,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5020,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(50,1),(59,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(79,1),(80,1),(81,1),(82,1),(83,1),(84,1),(85,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(108,1),(109,1),(112,1),(115,1),(121,1),(134,1),(137,1),(151,1),(152,1),(153,1),(154,1),(179,1),(180,1),(190,1),(191,1),(208,1),(226,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2866 Content={3051 SavedExpireTime=598, 3003}},
+               4 Content={3377},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="luzvell\ncarlin\n"}, 3504 Content={3449 Amount=10, 3351, 3349, 3349, 3307, 3285, 3507 String="luzvell\ncarlin\n"}, 3504 Content={3504, 3503 Content={3507, 3507}}, 3502 Content={3503, 3492 Amount=100}}, 
+               2 Content={3504 Content={2867, 3507 String="luzvell\nkazordoon" Editor="Luzvell"}, 3504 Content={3507 String="luzvell\nkazordoon" Editor="Luzvell"}, 3504 Content={2854, 3507 String="luzvell\nkazordoon" Editor="Luzvell"}, 3504 Content={3507 String="luzvell\nkazordoon"}, 3502}, 
+               3 Content={3091, 3017, 3017, 3506 String="luzvell\nab'dendriel\n\nMmm lo sentimos por la trap ke te hicimos ah ti y ah los demoniac no sabes como estamos arrepentidos de lo ke sucedio nosotros no pensamos ke fuera ah ser una trap y por eso keremos revelarnos contra los DoH espero ke tu y todos tus amigos nos ayuden\nsorry :(\n\natt: Dragoon wake y compañia" Editor="Aukren Saint", 3504 Content={3504 Content={3504 Content={3507 String="luzvell\nab'dendriel" Editor="Pharrell"}, 3507 String="luzvell\nab'dendriel" Editor="Burger Mac"}, 3507 String="luzvell\nab'dendriel" Editor="Sir Rodilla De Almada"}, 2865 Content={3097, 3349, 3308, 2874, 3483, 2865}, 2853 Content={2853 Content={2853 Content={3305, 3305, 2853 Content={3349, 3349, 3266, 3266, 3266}}}, 3449 Amount=7}, 2866 Content={3097 SavedExpireTime=3530, 3092, 2969 KeyNumber=3033, 3097 SavedExpireTime=3598}, 2868 Content={2869 Content={2854, 2854, 2867 Content={2867, 2867, 2867}}, 2869 Content={2854, 3076, 2842, 3042 Amount=3, 2867 Content={3298 Amount=1, 3311, 3313, 3092, 3092, 3097, 2872}, 3097, 3062, 3050 SavedExpireTime=1796}, 2473 Content={2868 Content={2911 SavedExpireTime=89, 2857 Content={2856}, 2870 Content={3017, 2857 Content={2969 KeyNumber=5010, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 2969 KeyNumber=5000, 2970 KeyNumber=3800, 2859 Content={3289, 3563, 3056 RemainingUses=198, 3056 RemainingUses=200}}, 3299, 3004}, 3459, 2868 Content={3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330}, 2989, 1781 Amount=20, 2867 Content={3658, 2854 Content={2949, 3350, 2949, 2949, 3350, 2949, 2949, 3350, 3739 Amount=1}, 3563, 3447 Amount=67, 3350}, 3004, 3004, 3289}, 2854, 3271, 3317, 3077, 3092, 2853}, 3004, 3004, 2842, 2842}, 2473 Content={3456, 3293, 2391, 2969 KeyNumber=3033, 2815 String="puto el que lo lea jajjaa lol :P" Editor="Luzvell", 3503, 2865}, 3502 Content={3316, 3336, 3503 Content={3507}, 2854 Content={2854}, 3505 Editor="Figue Junin", 3291, 3503 Content={3507}, 3291, 2868 Content={2854 Content={3457, 3003, 2969 KeyNumber=3033}}}}, 
+               4 Content={3492 Amount=27, 2920, 2920, 3502}, 
+               5 Content={3031 Amount=52, 3091, 3035 Amount=1, 3509, 2867, 3449 Amount=14, 3299, 1781 Amount=10, 3448 Amount=4, 3447 Amount=34, 3502}, 
+               6 Content={3504 Content={3507 String="Luzvell\nvenore\n" Editor="Zara Thaf"}, 3504 Content={3507 String="Luzvell\nvenore\n" Editor="Zara Thaf"}, 3004, 3504 Content={3507 String="Luzvell\nvenore\n" Editor="Zara Thaf"}, 3504 Content={3507 String="luzvell\nvenore" Editor="Skrakz"}, 3492 Amount=9, 3504 Content={2854, 3291}, 3506 String="Warning!\n\nThe monthly rent of 585 gold\nfor your house \"Paupers Palace, Flat 25\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3045 RemainingUses=200, 3481}}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={}}}

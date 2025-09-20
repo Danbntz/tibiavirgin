@@ -1,0 +1,60 @@
+ID              = 11464781
+Name            = "Darzhaw"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,90-94-79-82)
+CurrentOutfit   = (134,90-94-79-82)
+LastLogin       = 1147989949
+LastLogout      = 1147991620
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33127,32837,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,141295,0,156200,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,148174,1100,157355,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13892,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1828,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,61,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,10,1100,20,20)
+Skill = (14,0,1200,0,0,0,771,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,10,20,26,29,30,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(46,1),(59,1),(69,1),(71,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(115,1),(190,1),(191,1),(208,1),(217,3),(223,1),(224,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=44, 3031 Amount=100, 3003, 3577 Amount=4, 3160 Charges=1, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2867 Content={2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3378, 3502}, 
+               1 Content={3504 Content={3507 String="DARZHAW\nCARLIN" Editor="Darzhaw"}, 3504 Content={3507 String="DARZHAW\nCARLIN\n" Editor="Darzhaw"}, 3502 Content={3035 Amount=4}}, 
+               2 Content={4067 RemainingExpireTime=1357, 3502 Content={3349, 3358, 3349, 3583 Amount=2}}, 
+               3 Content={2949, 2992 Amount=5, 2865, 2857, 2867 Content={2853 Content={3483, 3492 Amount=100}, 3505 String="LVL   DARZHAW MSJ ME PLZ   NO  ENTRAR" Editor="Darzhaw", 3505 String="Lol que once man\n\n" Editor="Sir dekrus", 3310, 3291, 3457}, 2859 Content={2867 Content={3448 Amount=6, 3377, 3377, 3377, 3377, 3377, 3042 Amount=1, 3673, 3551, 3457, 3097, 3289, 3308, 3411, 2911 SavedExpireTime=2989, 3008}, 3535, 2867 Content={2656, 2647, 2667, 2656, 2650, 2656, 2650, 3092, 3311, 3282, 2868 Content={3046 SavedExpireTime=1582, 3046, 3077, 3350, 2969 KeyNumber=5010, 3077, 3077, 3077, 3083 RemainingUses=150, 3307, 3289}, 3354, 3097 SavedExpireTime=3584, 3008, 3552, 2389}, 2870 Content={3459, 3453, 3327, 3308, 3305, 2991, 3492 Amount=39, 3565, 3483, 3430, 3285, 3463, 3092}, 2870 Content={2867 Content={3092, 2867 Content={2969 KeyNumber=3033, 2969 KeyNumber=5000, 3056 RemainingUses=200, 3455, 3453, 3097, 3271, 3308, 3046 SavedExpireTime=1202, 3483, 3565, 2906, 2991, 3008}, 2970 KeyNumber=3012, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3483, 3483, 3289, 3270, 3299}}}, 2865 Content={2860}, 3502 Content={3603 Amount=5, 3446 Amount=73, 2868 Content={2854}, 2872 Content={2871, 2854, 2867, 2867, 2854, 2867, 2867, 2867, 2868, 2867, 2865, 2867, 2854, 2865, 2867, 2869, 2865, 2867, 2865, 2872}, 2867 Content={3668, 2984, 3655, 3505 String="gracias por tu amistad y ser mi novia.\n\n         /  \\/  \\\n        /  vic   \\\n       \\     y     /  \n        \\ betzi/\n           \\    /\n            \\  /\n             \\/\n         " Editor="Darzhaw", 3658, 3655, 3655, 2981, 3507 String="ya molestes tu\nkiss my ass beach\n", 2876}}}, 
+               5 Content={3557, 3502}, 
+               6 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3052 SavedExpireTime=1070, 3456, 2865 Content={3405, 3045 RemainingUses=187, 3357, 3301, 3301, 2971 KeyNumber=3702, 3039, 3048 RemainingUses=20}, 3092, 3097 SavedExpireTime=3247, 3308, 2969 KeyNumber=5000, 3273, 3456, 2815 String="hola!!!!\nbetzy no cras ke se me a olbidado lo de el matrimonio lo ke pasa es ke no he tenido tiempo. :)\n te kiere victor eliwood\n (en el juego por ke en rl me  agarra a camotasos mi novia, jejejjeje)" Editor="Victor Eliwood", 3502 Content={2853 Content={3025, 3013}, 3483, 3492 Amount=100, 3492 Amount=9, 3097 SavedExpireTime=3357, 2920 SavedExpireTime=533, 3483, 2969 KeyNumber=3033, 3308, 1781 Amount=20}}, 
+               7 Content={3502}}

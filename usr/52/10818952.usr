@@ -1,0 +1,59 @@
+ID              = 10818952
+Name            = "Ryor Pluck"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,77-114-114-114)
+CurrentOutfit   = (134,77-114-114-114)
+LastLogin       = 1148186201
+LastLogout      = 1148187845
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32913,32091,6]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1179853,0,1238400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,341735,3000,582400,1600)
+Skill = (2,710,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,61,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,112,112,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1345,1345,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,195343,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,105,1100,165,50)
+Skill = (10,68,0,10,0,0,0,0,0,0,0,130516,1100,137900,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,31,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,30,0,10,0,0,0,0,0,0,0,1178,1100,1280,20)
+Skill = (14,0,1200,0,0,0,1179,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,23,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,2,0,4,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(67,1),(68,1),(71,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(110,1),(115,1),(116,1),(117,1),(118,1),(119,1),(121,1),(129,1),(135,1),(136,1),(137,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3),(332,1)}
+Murders     = {1146387182,1146473348,1146473609}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=98, 3315, 2866 Content={3597 Amount=2, 3358}, 3457, 2865 Content={3031 Amount=100, 2952, 3031 Amount=21, 3577 Amount=3, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=5, 3031 Amount=100, 2867}, 2865, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3178 Charges=1, 3483, 2862 Content={3092, 3092, 3092, 3092, 3092, 3092}, 3412, 3003, 2854 Content={3507 Editor="Ryor Pluck"}}},
+               4 Content={3381},
+               5 Content={3436},
+               6 Content={3320},
+               7 Content={3371},
+               8 Content={3079}}
+
+Depots      = {0 Content={3504 Content={3507 String="ryor pluck\nthais" Editor="Ryor Pluck"}, 3504 Content={3507 String="ryor pluck\nthais" Editor="Ryor Pluck"}, 3504 Content={3507 String="ryor pluck\nthais" Editor="Ryor Pluck"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={3507 String="ryor pluck\nkazordoon" Editor="Ryor Pluck"}, 3504 Content={3507 String="Ryor pluck\nkazordoon"}, 3502}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3457, 3293, 3004, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Paupers Palace, Flat 17\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="ryor pluck\nvenore\n\nya no kero mi mona ahora si ya kedatela tu ami ya no me metas aki nunka mas ok por ke no haces caso \nbyebye\narbolita\n" Editor="Arbolita", 3504 Content={3377, 3008, 3504 Content={3505, 3507 String="Galactus the master\nab'dendriel" Editor="Galactus the Master", 3008, 3084 RemainingUses=250}, 2854 Content={2865 Content={3456, 3551, 3505 Editor="Daof", 2901, 3661, 3738 Amount=1, 3012, 3459}, 2854 Content={3110, 3008, 2973 KeyNumber=3520, 2875, 2969 KeyNumber=3033, 3551, 3308, 3004, 2969 KeyNumber=5010, 2973 KeyNumber=3520}, 2854 Content={3565, 3483, 3740 Amount=1, 3147, 3147}, 2854 Content={3077, 3084 RemainingUses=250, 3097 SavedExpireTime=3053, 3097, 3307, 3308, 3283, 3008, 2914 SavedExpireTime=1997}, 2867 Content={3425, 2854, 3003, 3457}, 3565, 3425, 3084 RemainingUses=167, 3084 RemainingUses=250, 3308, 2920 SavedExpireTime=554}, 3507 String="ryor pluck\nvenore" Editor="Galactus the Master"}, 2854 Content={2854 Content={3301}, 2906, 3003}, 3483, 2854, 2872 Content={2854 Content={2970 KeyNumber=3801, 2969 KeyNumber=3033, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3303, 2970 KeyNumber=3800, 2970 KeyNumber=3801}, 3293, 3658, 3506 String="ryor pluck\nvenore\n\nhi ke onda, te amo mensho mucho mucho muchooooooo \n\nbesho\ny craw jajaja\n" Editor="Arbolita", 3506 String="ryor pluck \nvenore\n\nTE AMO MUCHO" Editor="Arbolita", 3506 String="Ryor Pluck\nVenore\n\nahy te van miis coshas te cuidas\n\nTE AMO MUCHO (L)(K)\n\natte: rosa" Editor="Arbolita", 3506 String="Arbolita\nvenore\n\n\nte amo shikitita peshiosha :D (K)(K)(K)" Editor="Ryor Pluck"}, 2867 Content={3293}, 2853 Content={2869 Content={3093, 3503 Content={3507}, 2854}, 2867 Content={2854}}, 2854 Content={3046 SavedExpireTime=463, 2872}, 3506 String="ryor pluck \nvenore\nhola arbolito pos kero decirte ke te kedes kon mi mona por ke ya o la voy a jugar y pues si por ke ya no me ayudas y no me dejas usar la kompu y komo no soy de un nivel alto ya no me proteges ni me tienes en tu saludo de tu perfil mejor guarda esos espacios pa mejores ke yo " Editor="Arbolita", 3502}, 
+               7 Content={3504 Content={3507 String="ryor pluck\nankrahmun" Editor="Nharuto"}, 3504 Content={3507 String="Ryor Pluck\nankrahmun" Editor="Arbolita"}, 3502}}

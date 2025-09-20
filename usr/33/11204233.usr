@@ -1,0 +1,53 @@
+ID              = 11204233
+Name            = "Snake Of Zanera"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (131,79-77-77-77)
+CurrentOutfit   = (131,79-77-77-77)
+LastLogin       = 1143206079
+LastLogout      = 1143206098
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32318,31754,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,3528,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,1400,1600,1600)
+Skill = (2,175,175,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,20,20,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,450,450,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,774,1100,948,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1100,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,564,1200,645,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,36,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3084 RemainingUses=144},
+               3 Content={2853 Content={3266}},
+               4 Content={3377},
+               5 Content={3282},
+               6 Content={3430},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502 Content={3430, 3003, 3003, 3003, 3374, 3456, 3349, 3504 Content={3588 Amount=3, 3457, 3276, 3274, 3276, 3457, 3412, 3003, 3003, 3507 String="samo kain\ncarlin" Editor="Kaura Zephia"}, 3056 RemainingUses=200, 2874, 3375, 3378, 3504 Content={3457, 3504 Content={3507 String="lord zuko\ncarlin\n" Editor="Lord Zuko", 3504, 3504 Content={3507 String="Gata Felix\nCarlin" Editor="Rali Aturyel"}, 3504 Content={3507 String="Edgar Shaku\ncarlin\n" Editor="Mimee"}, 3504, 3504 Content={3507 String="Lord Riku\ncarlin" Editor="Lord Riku"}, 3504 Content={3507 String="troyan zotak\ncarlin\n" Editor="Melinda Thor", 3507 String="edgar shaku\ncarlin\n" Editor="Mortax Knight", 3507 String="Arkanjo bolts\nCarlin\n" Editor="Aurea Of Master", 3504, 3504, 3504 Content={3507 String="rafmex\ncarlin" Editor="Madnio", 3507 String="Lord riku\ncarlin" Editor="Lord Riku", 2853 Content={3507 String="Tyros Edir\nCarlin\n" Editor="Druid Of Nightwish"}, 3507 String="Lord riku\ncarlin" Editor="Lord Riku", 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 2853 Content={2853}, 3507 String="tyros edir\ncarlin\n" Editor="Tyros Edir"}}}}, 3504 Content={3031 Amount=32, 3577 Amount=3, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Arkanjo bolts\nCarlin" Editor="Aurea Of Master"}, 3507 String="lord zuko\ncarlin" Editor="Lord Zuko"}}, 3507 String="sir betokas\ncarlin" Editor="Sir Betokas"}}, 3504 Content={3031 Amount=6, 3447 Amount=29, 3350, 3462, 3300, 3504 Content={3504 Content={3507 String="Ana Cristina Peke\ncarlin"}}, 2874, 3504 Content={3552, 3504 Content={3507 String="ana cristina peke\ncarlin" Editor="Shipou"}}}, 3446 Amount=19, 3504 Content={3507 String="wampir of sorcerer\ncarlin\n" Editor="Abram of Zanera", 3084 RemainingUses=213, 3084 RemainingUses=250, 3084 RemainingUses=237, 3504, 3361}, 3504 Content={3426, 3504 Content={3504}, 3294, 3504 Content={3003, 3003, 3003}, 3504 Content={3507 String="grim reapir\ncarlin" Editor="Magik Shaman"}, 3507 String="Grim Reapir\nCarlin" Editor="Lady Cannavis"}, 3504 Content={3358, 3559, 3378}, 3504, 3504, 3504 Content={3504}, 3504 Content={3577 Amount=9, 3031 Amount=24, 3003, 3507 String="Ana Cristina Peke\ncarlin" Editor="Gotcho", 3208, 2874, 3374, 3361, 3277 Amount=1, 3378}, 2874, 2874, 3003, 3451, 2874, 2969 KeyNumber=4600, 3457}}}

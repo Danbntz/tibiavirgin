@@ -1,0 +1,55 @@
+ID              = 8267447
+Name            = "Juas Maldoros"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,114-113-114-124)
+CurrentOutfit   = (129,114-113-114-124)
+LastLogin       = 1148136528
+LastLogout      = 1148136589
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31786,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,437215,0,452600,100)
+Skill = (1,39,0,0,0,0,0,0,0,0,0,649064,1100,708148,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,477,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,62561,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,23,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4482,1800,6824,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,40693,1800,72239,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,224,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,54,0,10,0,0,0,0,0,0,0,13767,1100,14378,20)
+Skill = (14,0,1200,0,0,0,387,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,50,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,16,17,18,20,29,42,44,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(46,1),(52,1),(53,1),(54,1),(59,1),(60,1),(61,1),(71,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(153,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=96, 3003, 3457, 3492 Amount=54, 1781 Amount=9, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865 Content={3160 Charges=1, 3147, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2853 Content={3160 Charges=1, 3160 Charges=1, 3049 SavedExpireTime=44, 3053 SavedExpireTime=568, 3052 SavedExpireTime=1055, 3180 Charges=4}}},
+               4 Content={3380},
+               5 Content={3069},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3148 Charges=1, 3188 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3200 Charges=1, 3192 Charges=2}, 3324, 2853 Content={2970 KeyNumber=4501, 2970 KeyNumber=4503, 3456, 3059, 3059, 3059, 2983, 3505 String="Baybora\ni train with SLIME\nplease dont come\n\n\nty   :)\n\n" Editor="Baybora"}, 3279, 3283, 2870 Content={2865 Content={3305, 3305, 3305, 2867, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305}, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305, 3305}, 2867 Content={2868 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2854 Content={2868 Content={3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3418, 2854 Content={3349, 2955, 3285, 3349, 3504 Content={3492 Amount=43, 3507 String="lord-alibaba\ncarlin\n" Editor="Sasmon Alaure"}}, 3504 Content={3551, 3551, 2853 Content={2868 Content={3121, 3590 Amount=3, 3003, 3577 Amount=9}, 2853 Content={2853, 2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="lord-alibaba\ncarlin\n" Editor="Lord-Alibaba"}, 2853 Content={3507 String="lord-alibaba\ncarlin\n" Editor="Lord-Alibaba", 2853 Content={3551, 3551, 3350, 2853 Content={3358, 2853 Content={3349, 2853 Content={3358, 2853 Content={3349, 2853 Content={3358, 2853 Content={2853 Content={3358, 2853, 3358, 3358}}}}}}}}, 3349}, 3504 Content={2854 Content={1781 Amount=3, 3377, 2853 Content={3147, 3147, 3147, 3147, 3147}, 2853 Content={3411, 3411, 3411}, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3410, 3410, 3411, 3410, 3410, 3410, 3410, 2853 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}}, 2853 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 3367, 3723 Amount=38, 3446 Amount=61}, 3507 String="lord-alibaba\ncarlin\n" Editor="Darkelin Napa"}, 2969 KeyNumber=4600, 2854 Content={2874, 2874, 2874, 2874, 2874, 3270, 2874, 2874, 2874, 2874, 3291, 2874, 2874, 2874, 3551, 3446 Amount=24}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={3447 Amount=57, 3275, 2853 Content={3350, 3504 Content={3413, 3354, 3354, 3367, 3585 Amount=2}, 3083 RemainingUses=150, 3349, 3282, 3092}, 3269, 3269, 3448 Amount=8, 3277 Amount=17, 3447 Amount=100, 2969 KeyNumber=3033, 2970 KeyNumber=3142}, 3504 Content={3092, 3092, 3097, 3411, 3503 Content={3507 String="Urungu\nCarlin\n\n\n"}, 3503, 3504 Content={2853, 3507 String="juas maldoros\ncarlin\n" Editor="Shano Aberis"}, 3507 String="juas maldoros\ncarlin\n" Editor="Shano Aberis"}, 2853 Content={3066}, 2865 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3155 Charges=1, 3155 Charges=1, 3192 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3192 Charges=2, 3192 Charges=1, 3192 Charges=2}}, 2870 Content={2854 Content={3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2870 Content={3286, 3286, 3286, 3413, 3264, 3286, 3349, 3349, 3349, 3349, 3349}, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2868 Content={3504 Content={2969 KeyNumber=5010, 3457, 3552, 3374, 3374, 2868 Content={3457, 3457, 3457, 3457, 3457}, 2854 Content={3492 Amount=50, 3492 Amount=100}, 3507 String="Juas Maldoros\nCarlin\n\n\n"}, 3504 Content={3507 String="Juas Maldoros\nCarlin\n\n", 3504 Content={3507 String="Juas Maldoros\nCarlin\n"}, 3504 Content={3507 String="Juas Maldoros\nCarlin\n\n"}, 3504, 3503 Content={3504 Content={2853 Content={2853, 2853 Content={2853 Content={3504 Content={2853}}}}}, 3504, 3507}, 3504, 3503 Content={3503 Content={3147, 3147, 3147, 3147, 3147}}, 3504 Content={3507 String="Juas Maldoros\nCarlin\n\n"}, 3504, 3504}, 3457}, 2870 Content={2853 Content={3503 Content={3661, 2911, 3446 Amount=1, 3447 Amount=2, 2917, 2984, 3734 Amount=1, 3507}, 3123, 2981, 3504 Content={3658, 3658, 3736 Amount=1, 3658, 3658, 3655, 2853 Content={2955, 2880 ContainerLiquidType=1}, 3454, 3452}}, 2469 Content={3503, 2471, 3504 Content={3355, 3355, 3308}, 2471, 2473, 2473 Content={3503 Content={3507}, 3504}, 2473, 2853}, 2913, 2913, 2973 KeyNumber=3520, 2853 Content={2875, 2875, 2875, 2875}, 2919}, 2868 Content={3723 Amount=15, 2471 Content={3457, 3377, 3582 Amount=11, 3577 Amount=60}, 3593, 3597 Amount=1, 3593, 3600 Amount=2, 2874 ContainerLiquidType=9, 3595 Amount=5, 3587 Amount=10, 3598 Amount=9, 3601 Amount=3, 3592, 3585 Amount=20, 3590 Amount=10, 3586 Amount=9}, 3502 Content={2854 Content={2867 Content={3505 Editor="Juas Maldoros", 2854 Content={3301, 3299, 3310}, 2853 Content={3373, 3351, 3351, 3353, 3065, 3375}}}, 2869 Content={3483, 2860 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092}}, 2473 Content={2867 Content={3028 Amount=4, 3033 Amount=1, 3030 Amount=1, 3046 SavedExpireTime=2884, 3077, 3077, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033}, 2865 Content={3098 SavedExpireTime=441, 3092, 2853 Content={3097 SavedExpireTime=3594, 3097 SavedExpireTime=3598, 3097, 3097 SavedExpireTime=3591, 3097 SavedExpireTime=3587, 3097 SavedExpireTime=3591, 3097, 3097}, 3736 Amount=3, 3050 SavedExpireTime=1782}, 2869 Content={3084 RemainingUses=190, 3083 RemainingUses=132, 3085 RemainingUses=200, 3083 RemainingUses=150, 3008, 3012, 3012, 3012, 3012, 3056 RemainingUses=199, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3008, 3008, 3008}, 2866 Content={3059, 2865}}, 2473 Content={3377, 2854 Content={2875 ContainerLiquidType=2, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2875 ContainerLiquidType=3, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2902 ContainerLiquidType=2, 2885 ContainerLiquidType=3}, 2854 Content={3483, 3572, 3483}}}}, 
+               2 Content={2853 Content={}, 3502 Content={}}, 
+               3 Content={3502 Content={}}}

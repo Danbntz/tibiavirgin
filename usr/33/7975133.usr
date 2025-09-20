@@ -1,0 +1,53 @@
+ID              = 7975133
+Name            = "Zum Light"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,115-0-0-0)
+CurrentOutfit   = (128,115-0-0-0)
+LastLogin       = 1148138696
+LastLogout      = 1148138751
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 1149442748
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,89279,0,98800,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,61252,1400,78644,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,2062,1100,2138,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,13754,1100,14635,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,155,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,45,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,19,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,73,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,529,1100,559,20)
+Skill = (14,0,1200,0,0,0,861,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,94,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,10,20,29,42,51,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(31,1),(32,1),(33,1),(34,1),(35,1),(58,1),(59,1),(61,1),(86,1),(87,1),(224,1)}
+Murders     = {1146834598,1146834772,1146834842,1146850748}
+
+Inventory   = {3 Content={2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}},
+               6 Content={3350},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3502 Content={2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}}, 
+               1 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3447 Amount=100, 3723 Amount=81, 3723 Amount=100, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3447 Amount=100, 3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3578 Amount=20, 3483, 2854 Content={}, 3446 Amount=24, 3577 Amount=17, 3582 Amount=7, 3502 Content={}}, 
+               7 Content={3583 Amount=2, 2854 Content={3578 Amount=7, 3275, 2853 Content={3483, 3056 RemainingUses=200, 3050 SavedExpireTime=0}, 2868 Content={}}, 3504 Content={2853 Content={3264, 3264, 3286, 3264, 3264}, 3507 String="zum light\nankrahmun\n"}, 2853 Content={2853 Content={2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 3502 Content={2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!"}}}

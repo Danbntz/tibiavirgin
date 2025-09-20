@@ -1,0 +1,59 @@
+ID              = 9460454
+Name            = "Bayzon"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,116-28-2-2)
+CurrentOutfit   = (134,116-28-2-2)
+LastLogin       = 1148223619
+LastLogout      = 1148226504
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33211,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,603651,0,658000,100)
+Skill = (1,41,0,0,0,0,0,0,0,0,0,818502,1100,860219,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,93,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15658,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,570,2000,750,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,36486,2000,51150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,155,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4801,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,192,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,9,10,16,21,29,39,44,45,76,81,88,89}
+QuestValues = {(18,1),(69,1),(70,1),(111,1),(112,1),(121,1),(179,1),(180,1),(190,1),(191,1),(208,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={3031 Amount=9, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3457, 3003}},
+               4 Content={3370},
+               5 Content={3418},
+               6 Content={3073},
+               7 Content={3557},
+               10 Content={3035 Amount=5}}
+
+Depots      = {0 Content={3504 Content={3507 String="Bayzon\nThais" Editor="Sir Netzsch"}, 3003, 3572, 3504 Content={3507 String="Cieple Czango\nThais\n"}, 3502 Content={3506 String="Bayzon\nThais\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH."}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2865, 3301, 3003, 3559, 3377, 3409, 3502}, 
+               4 Content={3504 Content={2854 Content={3504 Content={3507 String="ricos dulces\nvenore" Editor="Lando Vaquero"}}, 3507 String="Bayzon\nEdron" Editor="Ricos Dulces"}, 3377, 3504 Content={3582 Amount=100, 3582 Amount=21, 3507 String="Bayzon\nEdron" Editor="Bayzon"}, 2853 Content={3425, 3279, 3074}, 3502}, 
+               5 Content={3504 Content={2868 Content={3079, 3071, 2853 Content={3582 Amount=7, 3582 Amount=100}, 3155 Charges=1, 3155 Charges=1, 3039, 3039, 2866 Content={2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3574, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3415, 3419, 3434}, 3507 String="Bayzon\nDarashia" Editor="Grister"}, 2969 KeyNumber=5010, 2471, 2471, 3502 Content={3043 Amount=8, 2853, 3291}}, 
+               6 Content={3502}, 
+               7 Content={2853, 3504 Content={3507 String="Bayzon\nAnkrahmun" Editor="Bayzon"}, 3502}, 
+               8 Content={3502 Content={}}}

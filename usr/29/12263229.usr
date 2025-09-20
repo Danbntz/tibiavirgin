@@ -1,0 +1,59 @@
+ID              = 12263229
+Name            = "Serafan Tireatha"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,0-114-114-94)
+CurrentOutfit   = (142,0-114-114-94)
+LastLogin       = 1148188287
+LastLogout      = 1148188446
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32643,31602,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1000000,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,232448,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,211832,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,316,1100,385,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,244,1100,305,50)
+Skill = (10,69,0,10,0,0,0,0,0,0,0,144032,1100,151740,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,76,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,54,0,10,0,0,0,0,0,0,0,13341,1100,14378,20)
+Skill = (14,0,1200,0,0,0,701,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(18,1),(35,1),(46,1),(69,1),(106,1),(107,1),(111,1),(112,1),(135,1),(136,1),(137,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=62, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3033 Amount=1, 3031 Amount=100, 3577 Amount=32, 3042 Amount=2, 2866 Content={2854}, 3003, 3457}},
+               4 Content={3360},
+               5 Content={3302},
+               7 Content={3371},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               1 Content={3504 Content={3507 String="Serafan Tireatha\ncarlin" Editor="Borrale al'Chosto"}, 3502}, 
+               2 Content={2853 Content={3358, 3286, 3358, 2853 Content={3352, 3354, 3286, 3358, 3354, 3358, 3425, 2853 Content={3410, 3264, 3410, 3410, 3286, 3358, 3354, 2853 Content={3286, 3286, 3264, 3410, 3286, 3264, 3358, 2853 Content={3286, 3410, 3410, 3358, 3354, 3286, 3410, 3410}}}}}, 3502}, 
+               3 Content={3123, 3357, 2868 Content={2868 Content={2868 Content={2868}}}, 3504 Content={3504 Content={3507 String="Ethernal Oblibion\nAb'Dendriel \n" Editor="Ethernal Oblibion"}, 3504 Content={3507 String="Ethernal Oblibion\nAb'dendriel\n" Editor="Ethernal Oblibion"}, 3504 Content={3507 String="Ork Berk\nAb'dendriel" Editor="Ork Berk"}, 3504, 3504 Content={3507 String="balink\nab'dendriel\n" Editor="Yasha Sarix"}, 3504 Content={3507 String="sir dekrus\nab'dendriel\n\n" Editor="Deltak"}, 3504, 3507 String="sie hatake\nAb'Dendriel" Editor="Gandi macka"}, 2992 Amount=10, 3502 Content={3583 Amount=3, 2866 Content={3098, 3098}, 3483}}, 
+               5 Content={3502 Content={2865, 3412, 3268, 3274, 3293, 3276, 3374, 3411, 3378}}, 
+               6 Content={3502}, 
+               7 Content={3551, 2868 Content={2867, 2868}, 3502 Content={3033 Amount=14, 3032 Amount=10, 3483, 3492 Amount=38, 3492 Amount=100, 2853 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3049, 3483}}}

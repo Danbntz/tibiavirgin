@@ -1,0 +1,56 @@
+ID              = 8986021
+Name            = "Dark Wizarr"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-78-0-0)
+CurrentOutfit   = (128,114-78-0-0)
+LastLogin       = 1148231763
+LastLogout      = 1148234093
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32680,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,132242,0,135100,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,182894,1100,193759,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,416,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,27103,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,2000,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,64,2000,150,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,12378,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,74,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3098,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,7,8,9,10,16,17,18,19,20,21,25,26,29,30,32,38,44,45}
+QuestValues = {(37,1),(60,1),(96,1),(97,1),(125,1),(126,1),(208,1),(217,3),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2854 Content={3003}},
+               4 Content={3380},
+               5 Content={3075},
+               6 Content={3428},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3286, 3264, 3504 Content={3504 Content={3503, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 3504, 3504, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504}, 3504, 3504 Content={3504 Content={3507 String="Dark Wizarr\nab'dendriel" Editor="Sorapr"}}, 3504 Content={3114 Amount=82, 3504, 3504, 3504 Content={3507 String="Dark Wizarr\nab'dendriel" Editor="Linda en Zanera"}, 3507 String="Dark Wizarr\nab'dendriel" Editor="Shiona Luitza"}, 3504, 3504, 3504 Content={3507 String="Steal'Master\nab'dendriel" Editor="Yairok"}}, 3286, 3264, 3286, 3286, 2865 Content={2469 Content={3031 Amount=100, 2872 Content={3384, 3074, 3072}, 3031 Amount=93, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=18, 2469 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 2865 Content={3409, 2815 Editor="Dark Wizarr", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3308, 3453, 2865 Content={3601 Amount=2}, 2865 Content={3446 Amount=40, 3447 Amount=52, 3277 Amount=23, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2865 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2853 Content={2992 Amount=5, 3056 RemainingUses=200, 2955, 3059, 3084 RemainingUses=250, 3085 RemainingUses=170, 3092, 2853 Content={2969 KeyNumber=5010, 2969 KeyNumber=3033, 2969 KeyNumber=4600}}, 2857 Content={2920, 3046 SavedExpireTime=1072}}, 3502 Content={2853 Content={3172 Charges=2, 3176 Charges=1, 3188 Charges=3, 3188 Charges=3, 3172 Charges=1, 3188 Charges=3, 3188 Charges=3}, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2865 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2866 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2869 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}}, 
+               6 Content={3502}}

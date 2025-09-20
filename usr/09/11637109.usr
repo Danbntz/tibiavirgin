@@ -1,0 +1,57 @@
+ID              = 11637109
+Name            = "Ganico Dobilia"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,94-82-88-88)
+CurrentOutfit   = (129,94-82-88-88)
+LastLogin       = 1148248178
+LastLogout      = 1148248430
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31781,5]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,144187,0,156200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,70218,3000,193600,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,105,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,31166,1100,33003,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,464,1400,489,30)
+Skill = (8,50,0,10,0,0,0,0,0,0,0,24286,1100,24392,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,69,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,305,1100,385,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1533,1100,1590,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(35,1),(46,1),(59,1),(60,1),(61,1),(93,1),(99,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3008},
+               3 Content={2868 Content={3031 Amount=23, 3307, 3590 Amount=5, 2874, 3577 Amount=14, 3578 Amount=2, 3601 Amount=2, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3160 Charges=1, 3164 Charges=2}, 3003, 3457, 3492 Amount=28}},
+               4 Content={3357},
+               5 Content={3418},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={3605 Amount=1, 3471, 3456}}, 
+               1 Content={3506 String="ganico dobilia\ncarlin\n\na casa passo do tempo ela foi destivada, essa carta eh soh pra te avisa.\nvlw e flw." Editor="Masther of zanera", 3502 Content={2872 Content={2776, 2776, 2803, 2991, 2991, 2991, 2991, 2991, 2784, 2776, 2779, 2853 Content={2653, 2796, 2647, 2667, 2647, 2647, 2853 Content={2853 Content={2656, 2656, 2650, 2656}, 2667, 2650, 2653}}, 2785, 2779, 3017, 4871, 3600 Amount=28, 3606 Amount=6, 3601 Amount=2, 3504 Content={3579 Amount=7}}, 2860 Content={3004, 3050 SavedExpireTime=715, 3463, 3051 SavedExpireTime=486, 3093 SavedExpireTime=1516, 3093 SavedExpireTime=53, 3050 SavedExpireTime=1796, 2856 Content={2853 Content={3004, 3097 SavedExpireTime=1156, 2389, 2398, 3050, 3097 SavedExpireTime=977}, 3042 Amount=1, 3097 SavedExpireTime=3580, 2969 KeyNumber=5010, 3030 Amount=3}}, 2868 Content={2868 Content={3578 Amount=64, 3291, 3147, 3147, 3285, 3291}, 2860 Content={3362, 3448 Amount=11}, 2865 Content={3674, 3736 Amount=1, 3658, 3658}, 2868 Content={3551, 3576, 2974, 3736 Amount=1, 3375}, 2854 Content={2868 Content={3447 Amount=1, 2647, 3483, 3349, 3349}, 2868 Content={3056 RemainingUses=200, 3506 String="ganico dobilia\ncarlin\n\nfla\naqui eh o japa(se sabe qm)e eu to mandando essa carta pq eu to fora de carlin por uns tempos, ok?\nnum vai da pra eu fica na minha casa\nhehe\nintaum tah\nteh+\n\nobs:podi usa a house a vontade." Editor="Keigofa", 3506 String="Ganico Dobilia\nCarlin\n\nO meu tu tem msn ?se tu tive me dis o meu é guisalles95@hotmail.com flw!" Editor="Arco Marti", 3464, 3114 Amount=73, 3299}, 2854 Content={2856, 2856, 2856 Content={3447 Amount=32}, 3271, 2857 Content={3031 Amount=77, 3031 Amount=100, 3035 Amount=100, 3046, 3077, 3084 RemainingUses=250, 3098}, 3385, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magician's Alley 1a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}, 2869 Content={3468, 3483, 3447 Amount=5, 2885, 3267, 2917 SavedExpireTime=2141, 3308, 3308, 2955, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 3467, 3736 Amount=1, 2973 KeyNumber=3520, 3492 Amount=38, 3483}}, 2870 Content={2854, 3046 SavedExpireTime=2999, 3077, 3463, 2906, 3734 Amount=1, 3076}, 2868, 2854, 2865, 2867, 2854, 2869, 2865, 2865, 2854, 2854, 2854 Content={2885}, 2854, 2854, 2868 Content={3291, 3291, 2917 SavedExpireTime=2669, 2917 SavedExpireTime=1395, 2917 SavedExpireTime=475}, 2865, 2868, 2854, 2854 Content={3289, 2901, 3188 Charges=2, 3267, 3465, 3740 Amount=3, 3465, 3083 RemainingUses=150}, 2854 Content={3469, 3467, 3448 Amount=17}, 2868 Content={2969 KeyNumber=4600}, 2868 Content={2835, 3469, 3467, 3470, 3468, 2902, 3046}, 2867 Content={2868 Content={3155 Charges=1}, 3174 Charges=5, 3174 Charges=5}, 2871 Content={2955, 2955, 2955, 3291, 2955, 2955, 2955, 3310, 3316, 3085 RemainingUses=200, 2989, 2855 Content={3583 Amount=5, 3591 Amount=14, 3585 Amount=7, 3586 Amount=21, 2853 Content={3598 Amount=10, 3588 Amount=19, 3593, 2877, 2877 ContainerLiquidType=2, 3589 Amount=3, 3587 Amount=22, 3590 Amount=7}}, 3128, 2906}, 2854 Content={2969 KeyNumber=3033, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2969 KeyNumber=3033}, 2854 Content={3085 RemainingUses=200, 3287 Amount=1, 2885, 3465}, 2865}}, 
+               2 Content={3502 Content={3267}}, 
+               3 Content={3502}, 
+               6 Content={3502}}

@@ -1,0 +1,53 @@
+ID              = 9714981
+Name            = "Dark Of Luis"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,58-78-78-19)
+CurrentOutfit   = (134,58-78-78-19)
+LastLogin       = 1148255476
+LastLogout      = 1148255521
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31687,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,99269,0,116000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,13240,3000,20800,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11306,1100,12109,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (9,40,0,10,0,0,0,0,0,0,0,8539,1100,9097,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,34,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,3,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(59,1),(69,1),(125,1),(126,1),(153,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3425, 3097 SavedExpireTime=3594, 3062, 3084 RemainingUses=250, 2991, 3017, 3045 RemainingUses=200, 3457}},
+               4 Content={3377},
+               5 Content={3322},
+               6 Content={3425},
+               7 Content={3362},
+               10 Content={3003}}
+
+Depots      = {1 Content={2472 Content={2472, 2472, 2472}, 3504 Content={3054 RemainingUses=54, 3056 RemainingUses=200}, 3502}, 
+               3 Content={3035 Amount=7, 2857 Content={3066, 3046, 3077}, 3504 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Treetop 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3504 Content={3507 String="Dark Of Luis\nAb'dendriel\n" Editor="Lori Diel"}, 3507 String="Dark of Luis\nab'dendriel" Editor="Rakris Oddoreke"}, 3504 Content={3507 String="dark of luis\nab'dendriel" Editor="Rakris Oddoreke"}, 3463, 3507 String="dark of luis\nab'dendriel" Editor="Bertha of darkness"}, 3502}, 
+               5 Content={3504 Content={3507 String="dark of luis\ndarashia" Editor="Look'anarchy"}, 3502}}

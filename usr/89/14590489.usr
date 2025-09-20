@@ -1,0 +1,54 @@
+ID              = 14590489
+Name            = "Lord Lelus"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-0-114-0)
+CurrentOutfit   = (129,114-0-114-0)
+LastLogin       = 1148238478
+LastLogout      = 1148239112
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32424,31653,9]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,15387,0,17600,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,50,50,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,545,545,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9205,1100,9834,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,57,1400,71,30)
+Skill = (8,25,0,10,0,0,0,0,0,0,0,1729,1100,1797,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,42,1100,50,50)
+Skill = (10,28,0,10,0,0,0,0,0,0,0,2376,1100,2557,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,802,1100,926,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,322,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,24,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1),(35,1),(59,1),(325,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={3277 Amount=2, 3577 Amount=1, 3003, 3031 Amount=63, 3588 Amount=3}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3285},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=403}}
+
+Depots      = {1 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2816 String="The druids: \nDruids conenctrate on the magics of nature and acquire great healing powers. They also adept in the use of some offensive and protective spells.", 2854 Content={3283, 3454, 3430, 3003, 3283, 3430, 3456, 2874, 3447 Amount=1, 3374, 3273, 3410, 3492 Amount=19, 3483, 2881, 3459, 3293, 3426, 3505 Editor="Arcus Leven", 3552}, 3502 Content={3031 Amount=28}}, 
+               3 Content={3502}}

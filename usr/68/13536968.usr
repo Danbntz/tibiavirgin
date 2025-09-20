@@ -1,0 +1,61 @@
+ID              = 13536968
+Name            = "Carnot"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-18-0-18)
+CurrentOutfit   = (134,0-18-0-18)
+LastLogin       = 1148246968
+LastLogout      = 1148248427
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32982,32055,7]
+PlayerkillerEnd = 0
+
+Skill = (0,52,0,1,0,0,0,0,0,0,1,2107660,0,2215200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,312053,3000,582400,1600)
+Skill = (2,845,845,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,121,121,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1570,1570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,142669,1100,155247,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,45,1400,71,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,74,1100,105,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,211,1100,232,50)
+Skill = (10,66,0,10,0,0,0,0,0,0,0,113162,1100,113880,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1413,1100,1428,20)
+Skill = (14,0,1200,0,0,0,31,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,41,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,76,81}
+QuestValues = {(1,4),(2,6),(16,1),(20,1),(21,1),(22,1),(23,1),(38,1),(41,1),(42,1),(43,1),(44,1),(49,1),(50,1),(56,1),(67,1),(68,1),(69,1),(70,1),(71,1),(96,1),(97,1),(98,1),(109,1),(111,1),(112,1),(125,1),(126,1),(133,1),(135,1),(136,1),(137,1),(151,1),(152,1),(154,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(222,1),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3)}
+Murders     = {1147484511}
+
+Inventory   = {1 Content={3392},
+               2 Content={3055},
+               3 Content={2854 Content={3457, 3092 SavedExpireTime=258, 3003, 2867 Content={3092}}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3320},
+               7 Content={3371},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}}}}}}}}}
+
+Depots      = {0 Content={3504 Content={3056 RemainingUses=200, 3115, 3115, 3115, 3115, 3507 String="carnot\nThais" Editor="Carnot"}, 3457, 3003, 3504 Content={3507 String="carnot\nthais" Editor="Carnot"}, 3504 Content={3507 String="carnot\nthais" Editor="Carnot"}, 3502}, 
+               1 Content={3504 Content={3507 String="carnot\ncarlin" Editor="Carnot"}, 3502}, 
+               2 Content={3605 Amount=72, 2469 Content={2871 Content={3505 String=" You see a copper key (Key:3802).It weighs 1.00 oz.\n\n3802 Copper Kazordoon prison\n" Editor="Carnot", 2970 KeyNumber=3802, 3505 String="You see a silver key (Key:5010).It weighs 1.00 oz.\n\n5010 Silver Black knight villa" Editor="Carnot", 2969 KeyNumber=5010, 3505 String="copper key (Key:4601).It weighs 1.00 oz.\n\nsirve para:\n4601 Copper Rookgard bear room" Editor="Carnot", 2970 KeyNumber=4601, 2970 KeyNumber=4601, 3505 String="silver key (Key:4600).It weighs 1.00 oz.\n\nsirve para:\n4600 Silver Rookgard training hall" Editor="Carnot", 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 3505 String="silver key (Key:3033).It weighs 1.00 oz.\n\nsirve para:\n3033 Silver Ab,dendriel mines\n" Editor="Carnot", 2969 KeyNumber=3033, 2969 KeyNumber=3033, 3505 String="copper key (Key:3142).It weighs 1.00 oz.\n\nsirve para:\n\nLLAVE DE LVL 35 DE CROWN HELMET Y NOBLE ARMOR (18:31 You see a copper key (Key:3142).It weighs 1.00 oz.)\n" Editor="Carnot", 2970 KeyNumber=3142}}, 3504 Content={3507 String="carnot\nKazordoon\n" Editor="Carnot", 2870 Content={2869, 2870, 2854, 2868, 2867, 2867, 2868, 2870, 2854, 2854, 2870}}, 2659, 3507 String="carnot\nkazordoon" Editor="Carnot", 3548 Amount=1, 2902, 3502 Content={2865 Content={3059}, 2870 Content={2867 Content={2853 Content={3353, 3384, 3558, 2874 ContainerLiquidType=4, 3085 RemainingUses=200, 3267, 3292, 3291}, 2854 Content={3483, 3483, 3483, 3483}, 2867 Content={3115, 3115, 3003, 3003, 3003, 3457, 3457, 3456, 3003, 3282, 3003, 3457, 2920 SavedExpireTime=76, 2920 SavedExpireTime=220, 3003}, 3316, 3172 Charges=1, 3601 Amount=1, 3177 Charges=1, 2868 Content={2868, 3425, 3425, 3377, 3412}}}, 3308}}, 
+               3 Content={2871, 3459, 2472 Content={2865, 2866}, 3447 Amount=9, 3502 Content={3003, 3299, 3059}}, 
+               4 Content={3502}, 
+               5 Content={2873, 3502}, 
+               6 Content={2865 Content={3505 Editor="Carnot", 3505 String="\n" Editor="Carnot", 3092}, 2867 Content={3375, 3361, 3362, 3283, 3300, 1781 Amount=12, 3293, 3377, 3286, 3412, 3003, 3003, 3552, 3552}, 2914 SavedExpireTime=1990, 3502 Content={3043 Amount=2, 3504 Content={3558, 3558, 3558, 2853 Content={3558, 3558, 3558, 3558, 3558, 3358, 3354, 3410}, 2853 Content={3558, 3558, 3359, 3359, 3359, 3359, 3359, 3359}, 2853 Content={2853 Content={2853 Content={3558, 3558, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3358, 3413, 3413, 3286, 3352, 3264, 3354, 3410}, 2853 Content={3358, 3286, 3358, 3413, 3359, 3410, 3410, 3358}, 3507 String="carnot\nvenore" Editor="Carnot"}, 2854 Content={2868, 2866 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2870 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 2868 Content={2867 Content={3446 Amount=98, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2867 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2865 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 3483, 3483, 3483, 2854 Content={2872 Content={2471 Content={2866 Content={3465, 3465, 3465}, 3605 Amount=100, 3605 Amount=40, 3577 Amount=13, 3603 Amount=38, 2874 ContainerLiquidType=9, 2874 ContainerLiquidType=9}, 3582 Amount=100, 3582 Amount=100, 3723 Amount=55, 3577 Amount=40, 3582 Amount=82, 3492 Amount=80, 3603 Amount=100, 3603 Amount=42, 3605 Amount=7}, 3066, 3066, 2906, 3059, 3059, 2659, 2647, 2647}}}, 
+               7 Content={3502}}

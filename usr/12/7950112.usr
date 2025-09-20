@@ -1,0 +1,58 @@
+ID              = 7950112
+Name            = "Zanera Warrior"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,79-95-95-79)
+CurrentOutfit   = (134,79-95-95-79)
+LastLogin       = 1145156122
+LastLogout      = 1145156137
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,497645,0,499200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,157185,3000,193600,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1070,1070,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,112278,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,23,0,10,0,0,0,0,0,0,0,1277,1100,1398,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,87001,1100,94029,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,198,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3119,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(17,1),(19,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(58,1),(59,1),(69,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3012},
+               4 Content={3377},
+               5 Content={3409},
+               6 Content={3305},
+               7 Content={3559},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="zanera warrior\nthais"}, 3504 Content={3507 String="zanera warrior\nthais"}, 3504 Content={3507 String="zanera warrior\nthais"}, 3504 Content={2854 Content={3457}, 3507 String="zanera warrior\nthais"}, 3502 Content={}}, 
+               1 Content={3412, 3374, 3374, 3502 Content={3267, 2865 Content={3147}, 3270, 3412}}, 
+               2 Content={3504 Content={2853 Content={2853 Content={}}, 3507 String="zanera warrior\nkazordoon"}, 3504 Content={3377, 3507 String="zanera warrior\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3504 Content={2853 Content={3046, 3046}, 2853 Content={2853 Content={3349}, 3349, 3301}, 3507 String="zanera warrior\nab'dendriel"}, 3503 Content={2865 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2869, 2865 Content={3046, 3046 SavedExpireTime=2926, 3046}, 2970 KeyNumber=3303, 2853 Content={2853 Content={3305, 3305, 3305, 3305, 3305}}}, 3502}, 
+               4 Content={2865 Content={}, 3504 Content={3507 String="zanera warrior\nedron"}, 3504 Content={3367, 3354, 3367, 3367, 3354, 3507 String="Zanera Warrior\nedron"}, 3054 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3411, 2970 KeyNumber=4601, 2856 Content={2815 String="esta canasta de frutas es la mejor para el (la) mejor fueron las primeras que agarre en rook", 3588 Amount=3, 3585 Amount=1, 3587 Amount=1}, 3502 Content={}}, 
+               5 Content={3054 RemainingUses=99, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Zanera Warrior\nvenore\n"}, 3502}, 
+               7 Content={2853 Content={3411, 3411, 3411, 3411, 3411, 3411, 2853 Content={3411, 2853 Content={}}}, 2853 Content={3367, 3367, 3377}, 3502 Content={2865 Content={}}}}

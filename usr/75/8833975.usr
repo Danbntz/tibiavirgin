@@ -1,0 +1,58 @@
+ID              = 8833975
+Name            = "Hero'de asgard"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,76-76-114-114)
+CurrentOutfit   = (133,76-76-114-114)
+LastLogin       = 1146268600
+LastLogout      = 1146270036
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32641,31708,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,79054,0,83400,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,56478,1400,78644,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10206,1100,10918,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,14204,1100,14635,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,299,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,37,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,399,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,890,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,92,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,20,42,51,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(46,1),(86,1),(87,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {1145409769}
+
+Inventory   = {1 Content={3384},
+               2 Content={3084 RemainingUses=49},
+               3 Content={2870 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3003, 2969 KeyNumber=5000, 3582 Amount=2, 3031 Amount=74}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=68}}
+
+Depots      = {0 Content={3377, 3384, 2816 String="Maximal Farming\nChapter One - How to exploit the soil.", 3362, 2816 String="The Good Farmer", 2826 String="The tibian world-wonders!\nThe known and aknowledged world-wonders are:\nThe colossus of Kazordoon\nThe black pyramid of Dracoria\nThe great lighthousetree of Ab'dendriel\nThe thorntower of Shadowthorn\nThe undergroundcity of Mintwalin\nThe black city of skulls in hellsgate\nThe great lava falls in hellsgate\nThe pyramid city of Ankrahmun", 2949, 3017, 2816 String="There's something wrong in the cesspool below the stable. I think there is a hole at the end. I have to fix that as soon as possible", 2815 String="", 2472 Content={2875 ContainerLiquidType=0, 2875 ContainerLiquidType=0, 2905, 2905}, 2815 String="", 3470, 3472, 2880 ContainerLiquidType=0, 2471 Content={}, 2471 Content={}, 3471, 2656, 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 945 gold\nfor your house \"Farm Lane, Basement (Shop)\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={2868 Content={2853 Content={}, 2865 Content={3308, 3457, 3457}, 3504 Content={2853 Content={}, 3505 String="", 3411, 3507 String="Hero'de asgard\nedron"}, 3349, 2853 Content={}, 3350, 2469 Content={}, 3097 SavedExpireTime=0}, 3507 String="hero'de asgard\nthais"}, 3502 Content={}}, 
+               1 Content={3372, 3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={3349, 3446 Amount=86, 3046, 3492 Amount=100, 3054 RemainingUses=27, 3308, 3054 RemainingUses=142, 3492 Amount=100, 3377, 2868 Content={3370, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=35, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3351, 3418, 3046, 3077, 3098, 3372, 3441, 3449 Amount=1}, 2868 Content={3425, 3305, 3425, 3425, 3305, 3425, 3425, 3425, 3425, 3377, 3266, 3425, 3425}, 2854 Content={3075, 3056 RemainingUses=200, 3046 SavedExpireTime=396, 3483}, 2867 Content={3350, 3349, 3349, 3349, 3350, 3429, 3350, 3350, 3349, 3349, 3350, 3350, 3350}, 3502 Content={3492 Amount=54, 3457, 2984, 3457, 3277 Amount=6, 3448 Amount=4, 3506 String="hero'de asgard\nab'dendriel\ncuidate pendejo porque te vamos a romper tu madre en el juego y en rl ya sabemos que juegas en solera y aqui en zanera", 3308, 2969 KeyNumber=3033, 3457, 3464, 3465, 3457, 3466}}, 
+               4 Content={3504 Content={3507 String="hero'de asgard\nedron"}, 3502 Content={}}, 
+               6 Content={3502 Content={}}}

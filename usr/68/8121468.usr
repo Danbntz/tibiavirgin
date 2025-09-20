@@ -1,0 +1,57 @@
+ID              = 8121468
+Name            = "Salxx"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,58-87-94-94)
+CurrentOutfit   = (128,58-87-94-94)
+LastLogin       = 1147290576
+LastLogout      = 1147290734
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32917,32072,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,127676,0,135100,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,190946,1100,193759,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,343,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,39702,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,11,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,28451,2000,51150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6665,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,82,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,7,8,10,16,18,20,29,44}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(60,1),(61,1),(125,1),(126,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2865 Content={3147, 2868 Content={3174 Charges=5, 3174 Charges=5, 2868 Content={3174 Charges=5, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3031 Amount=9, 3552, 3505 String="Salxx\nhunting here...\n\nleave plx =/\n\nrespect...\n" Editor="Salxx", 3723 Amount=8, 3003, 3457, 3492 Amount=8}},
+               4 Content={3377},
+               5 Content={3075},
+               6 Content={3411},
+               7 Content={3372},
+               8 Content={3551},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="salxx\nthais\n"}, 3504 Content={3507 String="salxx\nthais\n"}, 3502 Content={}}, 
+               1 Content={3412, 2969 KeyNumber=3033, 2853 Content={3492 Amount=90, 3492 Amount=100, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 3502 Content={3504 Content={3084 RemainingUses=250, 2977, 1781 Amount=1, 3506 String="Scorxx \nCarlin \n  Amorrrrrrrrrrrrrrrrrrrrr to inspirada hj porisso que to escrevendo issu..aiii que porra viu to morrendo de saudadessssssssssssss...eh pior que eh o primeiro dia sem vc aii achu que naum sei ficar sem meu morzin mais.=(((\n\nSal agola falando selio..eu te amu meu amor..to morrendo de saudade de vc sei que vc nem vai ver issu agola mais eh so pra vc saber que sempre sempre to penssando em vc..no começo era ate brincadeira mais agola te amu de verdade vc eh mto fofo comigo faz cada coisa por mim que eu nem acredito..te amuuuuuuu amor tooooo morrendo de saudades de vc quelu ficar sempre com vc naum queru te perder nunka..queru que issu que eu to vivendo eh sentindo dure para sempre pq eu te amu de mais..\nSal esquece de mim naum..olha eu sei sou novinha neh vc deve ta achando que eu naum sei o que eu to escrevendo aqui mais eu sei que o que eu to sentindo por vc naum eh brincadeira..naum sei se vc gosta de mim de verdade mais issu naum intereça mto..Olha naum esquece de mim nunka pq tudo que vc fez por mim eu naum vou esquece aliasss amor brigadu por tudo que vc fez por mim..poxata sendo tudo lindo pra mim..\n\nTE AMUUUUUUUUU 4EVER MEU AMOR VC VAI SER SEMPRE MEU AMOR PQ EU TE AMU DE MAIS E NUNKA VOU TE ESQUECE VIU MORZIN^^ =******\n\n\"Eu não consigo um minuto sem te ver\nSua presença alegra meu coração\ne eh pr avc q eu mando meu beijão \"\n\nCopiei de vc tem portancia naum ne?^^ \nTE AMUUUUUUUUUUUUUUUUUU MTO MTO MTO MTO MTO MTO MTO MTO MTO MTO MTO DE MAISSSSSSSSSSSXXX^^ \n=**********..BJIMMMM^^", 3506 String="Scorxx\nCarlin\n\nNEW LETTER!! NEW LETTER!! BOTH'YA , SAL AND DUDA!! READ !!! ^^\n\nHuha, to sem nada pra fazer intaum soh vou escrever um pouco pra vcs... vcs saum o casal maix lindo do tibia!! hehe, nao importa, se estao numa caverna de simples rats, como num castelo gotico infestado por demons, o amor de voces nunca ira se romper (espero^^) !!\nDuda, brigadow por ser minha amiga e de ter deichado eu me esconder de people killer aqui na sua casa, onde a nossas artes da magia protegeram de intrudos!! hihi xD\n\nSal, brigado por ser namorado da duda!! hauhaua!! cara maneiro, e olha, so vou fazer business de arrows/bolts contigo heim!! xD... por causa daqueles santos arrows que voce me vendeu, estou sao e forte agora no level 20 :) Ainda nao e um level muito bom... mas um dia eu chego la!\n\nEmfim, valew pros dois e cya porque eu vou ver tv agora ^^ \nBjs e abracos\nWill Pary - Kaique", 2870 Content={3077, 3084 RemainingUses=146, 2880, 3655, 3655, 3661, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3349, 3313, 2882, 2973 KeyNumber=3520, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2970 KeyNumber=3800, 3307, 3483, 3308, 3298 Amount=20, 3505 String="Amor i love you ... AMor i love you .. AMor i love You ... ", 3042 Amount=1}, 2853 Content={3084 RemainingUses=250, 3736 Amount=1, 3504, 2872, 2871, 2871, 2871, 2872}, 3507 String="Salxx\nCarlin\n" Editor="Scorxx"}}}, 
+               2 Content={3035 Amount=15, 3504 Content={3507 String="salxx\nKazordoon\n"}, 3502 Content={}}, 
+               3 Content={3452, 3003, 3502 Content={3035 Amount=4}}, 
+               6 Content={3504 Content={3507 String="Salxx\nVenore\n" Editor="Scorxx"}, 3502}}

@@ -1,0 +1,58 @@
+ID              = 8495127
+Name            = "Hao Azakura"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,57-132-114-132)
+CurrentOutfit   = (133,57-132-114-132)
+LastLogin       = 1148250555
+LastLogout      = 1148251545
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32897,32050,7]
+PlayerkillerEnd = 0
+
+Skill = (0,40,0,1,0,0,0,0,0,0,1,920637,0,992000,100)
+Skill = (1,56,0,0,0,0,0,0,0,0,0,3372393,1100,3644184,1600)
+Skill = (2,345,345,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,96,995,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,109,109,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,790,790,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,38560,1500,38723,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,181,1800,356,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,19844,1800,22252,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,458,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,364,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,53,0,10,0,0,0,0,0,0,0,12467,1100,13052,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,197,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,11,12,16,17,18,20,29,30,39,42,44,45,75,76,81,82,84,87,88,89}
+QuestValues = {(1,4),(2,6),(20,1),(21,1),(22,1),(23,1),(24,1),(30,1),(36,1),(40,1),(41,1),(42,1),(43,1),(44,1),(59,1),(62,2),(63,1),(64,1),(76,1),(77,1),(78,1),(80,1),(81,1),(82,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(100,1),(108,1),(111,1),(112,1),(116,1),(118,1),(120,1),(121,1),(129,1),(130,1),(131,1),(132,1),(135,1),(136,1),(137,1),(151,1),(152,1),(179,1),(180,1),(181,1),(190,1),(191,1),(200,1),(201,1),(202,1),(211,4),(217,3),(221,1),(222,1),(225,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2867 Content={3457, 3003, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147}}},
+               6 Content={3415},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={2867 Content={3582 Amount=91}, 3504 Content={3504 Content={3507 String="hao azakura\nthais"}, 3507 String="hao azakura\nthais"}, 3502 Content={3267}}, 
+               1 Content={3507 String="hao azakura\ncarlin", 3504 Content={3507 String="hao azakura\ncarlin"}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3504 Content={3559}, 3504 Content={3507 String="duende khar\nab'dendriel\n"}, 3504, 3504 Content={3507 String="lady uca\nAb'dendriel"}}, 3502}, 
+               4 Content={3504 Content={3507 String="hao azakura\nedron"}, 2867 Content={}, 3502 Content={}}, 
+               5 Content={2854, 2867 Content={3577 Amount=90, 3582 Amount=20}, 2853, 3504 Content={3507 String="hao azakura\ndarashia" Editor="Hao Azakura"}, 3504 Content={3507 String="hao azakura\ndarashia"}, 3502 Content={2865 Content={2865 Content={2865}}, 2854 Content={2854 Content={2854 Content={2854}}}, 2854 Content={2854 Content={2854}}}}, 
+               6 Content={3504 Content={3507 String="Hao azakura\nvenore" Editor="Hao Azakura"}, 3504 Content={3507 String="Hao azakura\nvenore" Editor="Hao Azakura"}, 3504 Content={2853 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3155 Charges=1, 3155 Charges=1, 3582 Amount=5, 2867 Content={3198 Charges=3, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=1, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147}, 3507 String="hao azakura\nvenore" Editor="Entenooki"}, 3504 Content={3507 String="hao azakura\nvenore" Editor="Hao Azakura"}, 3506 String="Hao Azakura\nVenore\n\nhi man.\nI want to buy knight legs. i see it in your home. see you. :)" Editor="Kaczor ziomek", 3504 Content={3507 String="Hao azakura\nvenore" Editor="Hao Azakura", 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3031 Amount=80, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3377, 3275, 3377, 3413, 3377, 3413, 3377}, 3377, 3351, 3305, 3305, 3351, 3377, 3413}, 3377, 3413, 3413, 3305, 3413, 3377, 3351}, 3351, 3413, 3377, 3377, 3305, 3351, 3351}, 3377, 3377, 3377, 3413, 3377, 3377, 3377}, 3377, 3377, 3305, 3305, 3377, 3377}, 2853 Content={2853 Content={2853 Content={2853 Content={2867 Content={2853 Content={2853 Content={2853 Content={2853 Content={2865 Content={3377, 3413, 3413, 3413, 3377, 3377, 3305, 3413, 3377, 3377, 3377, 3413}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3305, 3413, 3413, 3413, 3377, 3305}, 3377, 3377, 3351, 3413, 3305, 3413, 3305, 3413, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3413, 3305, 3377}, 3377, 3377, 3305, 3377, 3377, 3377, 3377}, 3377, 3413, 3377, 3413, 3377, 3413, 3413}, 3377, 3305, 3305, 3377, 3377, 3413, 3413}, 3377, 3377, 3351, 3305, 3377, 3377, 3413}, 3507 String="hao azakura\nvenore" Editor="Hao Azakura"}, 3599 Amount=1, 3504 Content={3504 Content={3507 String="Hao Azakura\nvenore\n" Editor="Kaede Knightheart"}, 3504 Content={3507 String="Hao Azakura\nVenore" Editor="Kaede Knightheart"}, 3504 Content={3507 String="Hao Azakura\nVenore" Editor="Kaede Knightheart"}, 3504 Content={3507 String="hao azakura\nvenore"}, 3504 Content={3507 String="Hao Azakura\nVenore"}, 3504 Content={3507 String="hao azakura\nvenore"}, 3504, 3504 Content={3507 String="hao azakura\nvenore\n"}, 3504 Content={3507 String="hao azakura\nvenore"}, 3504 Content={3507 String="hao azakura\nvenore"}}, 3502 Content={3035 Amount=31, 3160 Charges=3, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Elm Street 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}, 
+               7 Content={3504 Content={3507 String="Hao Azakura\nAnkrahmun"}, 3502 Content={}}, 
+               8 Content={3502}}

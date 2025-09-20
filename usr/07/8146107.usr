@@ -1,0 +1,57 @@
+ID              = 8146107
+Name            = "Virgo Da'Mighty"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-114-76-114)
+CurrentOutfit   = (128,114-114-76-114)
+LastLogin       = 1137041370
+LastLogout      = 1137042374
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32626,31698,11]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,420361,0,452600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,127690,3000,193600,1600)
+Skill = (2,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1045,1045,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,155701,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,64,0,10,0,0,0,0,0,0,0,88063,1100,94029,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,68,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8817,1100,8851,20)
+Skill = (14,0,1200,0,0,0,154,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,79,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(96,1),(97,1),(98,1),(109,1),(130,1),(132,1),(153,1),(190,1),(191,1),(213,1),(214,1)}
+Murders     = {1137041474}
+
+Inventory   = {1 Content={3353},
+               2 Content={3084 RemainingUses=52},
+               3 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3578 Amount=3, 3582 Amount=6, 3425, 2854, 3003, 2867 Content={3189 Charges=2, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3}}},
+               4 Content={3377},
+               6 Content={3279},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3077}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3502 Content={}}, 
+               3 Content={3425, 3308, 3483, 3446 Amount=14, 3446 Amount=100, 3446 Amount=100, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={3425, 3349, 3425, 3425}, 2865 Content={3492 Amount=64, 3492 Amount=100, 3597 Amount=2, 3586 Amount=36, 3585 Amount=41, 3723 Amount=72, 3598 Amount=27, 3578 Amount=60, 3583 Amount=14, 3723 Amount=100, 3577 Amount=6}, 2853 Content={3349, 3349, 3349, 2853 Content={3349, 3349, 3349, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349}, 3349}, 2853 Content={3350, 3350, 3350, 3350, 3350}, 2870 Content={2866, 2854, 2854, 2866, 2854}, 3502 Content={3505 String="6k de lalo\n+ 2k", 3059, 3447 Amount=1, 3446 Amount=33, 3457, 2853 Content={2969 KeyNumber=3033, 2970 KeyNumber=3301, 2972 KeyNumber=3304, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2970 KeyNumber=3800}, 2865 Content={3092, 3092, 3092, 3097, 3051, 3097, 3092, 3097, 3092, 3097, 3097, 3050, 3098}, 2865 Content={3085 RemainingUses=200, 2853 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3008, 3056 RemainingUses=200, 3008, 3085 RemainingUses=200, 3081 RemainingUses=5, 3045 RemainingUses=200, 3085 RemainingUses=200}, 2867 Content={2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampathes to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicals out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 2824 String="Armaments, Chapter Two, Verses Nine to Twenty-One.\n\nAnd the Lord spake, saying:\n\"First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.\"", 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn...", 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov...", 3046 SavedExpireTime=2999, 3077, 3046, 3481, 3658, 3453, 3211, 2901, 2911}, 3449 Amount=23, 2866 Content={3031 Amount=32, 3031 Amount=100}, 2868 Content={3385, 3370, 3324, 3436, 3372, 3412, 3301, 3301, 3301, 3409, 3284 RemainingUses=1, 3275, 3299, 3305, 3282, 3413, 3266}}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,59 @@
+ID              = 9009377
+Name            = "Chetirry"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,78-114-114-114)
+CurrentOutfit   = (133,78-114-114-114)
+LastLogin       = 1148167159
+LastLogout      = 1148167173
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32826,31956,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,640456,0,658000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,79009,3000,193600,1600)
+Skill = (2,561,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,106507,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,19,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (9,61,0,10,0,0,0,0,0,0,0,69800,1100,70521,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,21,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,19,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,72,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(20,1),(35,1),(46,1),(69,1),(96,1),(97,1),(98,1),(109,1),(125,1),(126,1),(134,1),(137,1),(151,1),(152,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={2854 Content={3270, 3279, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3198 Charges=3, 3457, 3198 Charges=5, 2867 Content={3031 Amount=75, 3336, 2969 KeyNumber=4600}}}},
+               4 Content={3370},
+               5 Content={3324},
+               6 Content={3416},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3379, 3031 Amount=56, 2866, 3305, 3367, 3367, 3563, 3266, 3004, 3587 Amount=9, 3589 Amount=1, 3502 Content={2868 Content={3367, 3367, 3367, 3367, 3367, 2868}, 2854 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=13}, 2854, 2854, 2854}, 2854 Content={2854, 2854 Content={2854}, 2854 Content={2854}, 2854}, 2867 Content={2867, 2867}, 2866 Content={2866}, 2869 Content={3658, 3454}, 2868, 2866 Content={2866, 2866}, 2866 Content={3449 Amount=2, 3052 SavedExpireTime=1105, 2393, 3098, 3464, 2991, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3092, 3451, 2868 Content={2991, 3736 Amount=1, 2874, 3097, 3661, 3007, 3033 Amount=1, 3452, 3658, 3298 Amount=1, 3097, 3471, 3287 Amount=6, 3050 SavedExpireTime=1789, 2992 Amount=5, 3077, 3050 SavedExpireTime=1775, 2955, 3299, 3467}, 3591 Amount=1, 2868 Content={2991, 4290 Content={3316, 3084 RemainingUses=187, 3282, 3269, 3410}, 2906, 3029 Amount=1, 3028 Amount=1, 3092, 3032 Amount=2, 2877, 3597 Amount=1, 3017, 3599 Amount=8, 2885, 3289}, 3453, 3673, 3059, 3725 Amount=21, 2873, 3452, 2826 String="Flora and Fauna of Darama", 3509}, 2869 Content={3083 RemainingUses=150, 3045 RemainingUses=200, 3084 RemainingUses=185, 3085 RemainingUses=200, 3084 RemainingUses=250, 3056 RemainingUses=200, 3012, 3083 RemainingUses=150}, 2866 Content={2866, 2866}, 2869, 2868 Content={2868, 2970 KeyNumber=4601, 2969 KeyNumber=4600, 2969 KeyNumber=4603, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2973 KeyNumber=3520}, 2865 Content={2865}, 2868, 2868, 2868 Content={3266, 3269, 3372, 2857, 3425}, 2854 Content={2854, 2854 Content={2854}}, 2865 Content={2854 Content={3425}, 3377, 3377}, 3504 Content={3327, 3297, 3349, 3269, 3282, 3316, 3353, 2857 Content={3285, 3409, 3310}}, 3504 Content={3282, 3357, 3266, 3279, 3269, 3409, 3311}}}, 
+               3 Content={3502}, 
+               5 Content={3504, 3506 String="Chetirry\nDarashia\n\n              REGLAS DE LA GUILD\n\n1.-Guild channel siempre abierto                   (   saludo y despedida riguroso)\n2.-No buscar pleitos.\n3.-Primera amenaza de guild hunteada, se cerrará automáticamente.\n4.-No faltarse al respeto, tres faltas se sacará de la guild.\n5.-Asistir a las juntas en el guild channel  (se notificará dos días antes)\n\n                                         Atte.\n\n                               Sepsi Astral.\n                          (Nueva guild lider)." Editor="Sepsi Astral", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 7, Flat 01\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3582 Amount=23, 3031 Amount=40}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

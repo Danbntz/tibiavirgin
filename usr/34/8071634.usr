@@ -1,0 +1,60 @@
+ID              = 8071634
+Name            = "Punnk Malukoo"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (131,19-19-114-19)
+CurrentOutfit   = (131,19-19-114-19)
+LastLogin       = 1146508238
+LastLogout      = 1146508246
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,506019,0,548900,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,131842,3000,193600,1600)
+Skill = (2,399,560,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,12,160,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1095,1095,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,98672,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,60,0,10,0,0,0,0,0,0,0,62651,1100,64064,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,47,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2572,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(46,1),(54,1),(55,1),(59,1),(69,1),(70,1),(71,1),(77,1),(78,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3084 RemainingUses=112},
+               3 Content={2854 Content={3577 Amount=2, 3582 Amount=6}},
+               4 Content={3380},
+               5 Content={3416},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={2874, 2874, 2874, 2874, 2874, 3448 Amount=3, 3003, 3377, 3031 Amount=48, 3492 Amount=100, 3492 Amount=36, 3504 Content={3084 RemainingUses=250, 3097, 3056 RemainingUses=200, 3056 RemainingUses=200, 3093, 3050 SavedExpireTime=1791, 3050 SavedExpireTime=1703, 3056 RemainingUses=200, 3056 RemainingUses=200}, 3446 Amount=2, 3457, 3456, 3483}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3083 RemainingUses=150, 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 400 gold\nfor your house \"Edron Flats, Flat 23\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Punnk Malukoo\nedron"}, 3327, 2659, 2659, 2667, 2659, 2659, 3033 Amount=1, 3483, 2868 Content={2659, 2667, 2854 Content={2868 Content={}}}, 2866 Content={2667, 2659}, 3311, 3042 Amount=5, 3504 Content={3507 String="punnk malukoo\nedron\n"}, 2644, 2653, 2656, 2659, 2667, 3033 Amount=1, 2869 Content={2854 Content={}, 2854 Content={}}, 3026 Amount=1, 2869 Content={3421, 3056 RemainingUses=200, 3083 RemainingUses=150, 2857 Content={3097 SavedExpireTime=2978, 3032 Amount=1, 3084 RemainingUses=250, 3027 Amount=2}, 2854 Content={}, 2869 Content={}, 2867 Content={}, 2865 Content={}, 3409, 3425, 3349, 2854 Content={3359, 3377, 3354, 3425, 3367, 3266}, 3350, 3483, 3301, 3045 RemainingUses=200, 3164 Charges=3, 3026 Amount=1, 3409}, 3502 Content={3409, 2969 KeyNumber=4600, 3097 SavedExpireTime=0, 3083 RemainingUses=150, 3077, 3054 RemainingUses=200, 3051 SavedExpireTime=0, 3299, 3042 Amount=9, 2969 KeyNumber=3033, 3050 SavedExpireTime=0, 3583 Amount=5, 3033 Amount=2, 3093 SavedExpireTime=0, 3447 Amount=30, 3447 Amount=100, 3446 Amount=100, 3447 Amount=100, 3447 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 
+               5 Content={3504 Content={3507 String="Punnk Malukoo\ndarashia"}, 3446 Amount=3, 3267, 3350, 3350, 3502 Content={3043 Amount=1}}, 
+               6 Content={2972 KeyNumber=3304, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 2854 Content={2970 KeyNumber=3303, 2853 Content={3463, 3046, 2969 KeyNumber=5010, 2969 KeyNumber=5010, 3045 RemainingUses=188, 3056 RemainingUses=200}, 2853 Content={3730 Amount=1, 3732 Amount=1, 3725 Amount=10, 3092, 3092}, 2867 Content={2867 Content={2854}}}, 3502}, 
+               7 Content={3039, 3504 Content={3380, 2854 Content={3031 Amount=22, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=91}, 3507 String="Punnk Malukoo\nAnkrahmun"}, 3083 RemainingUses=129, 3308, 3327, 3273, 3059 String="", 3504 Content={3273, 3285, 3285, 3446 Amount=70, 3446 Amount=100, 3446 Amount=100, 3266, 3349, 3266, 3349}, 3502 Content={3273, 3349}}}

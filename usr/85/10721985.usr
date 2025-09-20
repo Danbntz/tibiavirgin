@@ -1,0 +1,60 @@
+ID              = 10721985
+Name            = "Freezer demon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,57-124-19-114)
+CurrentOutfit   = (134,57-124-19-114)
+LastLogin       = 1147745163
+LastLogout      = 1147745168
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32898,32101,6]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,212749,0,232500,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,59786,3000,64000,1600)
+Skill = (2,420,420,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,120,120,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,865,865,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,25736,1100,27102,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,307,1400,328,30)
+Skill = (8,49,0,10,0,0,0,0,0,0,0,21982,1100,22129,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,148,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,88,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,275,1100,318,20)
+Skill = (14,0,1200,0,0,0,444,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(18,1),(20,1),(35,1),(46,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(111,1),(112,1),(115,1),(121,1),(208,1),(217,3),(223,1),(226,1)}
+Murders     = {1145625820}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2867 Content={3308, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2867 Content={3174 Charges=4, 3174 Charges=5, 3174 Charges=5}}}
+
+Depots      = {0 Content={3003, 3502 Content={3277 Amount=1}}, 
+               1 Content={3492 Amount=9, 3447 Amount=13, 3277 Amount=16, 3003, 3457, 3377, 3354, 2882, 2893, 3286, 2991, 3003, 3291, 3337, 3267, 3502 Content={2969 KeyNumber=3033}}, 
+               2 Content={3504 Content={3035 Amount=1, 3507 String="Freezer demon\nkazordoon" Editor="Sir Thari Romeo"}, 3502}, 
+               3 Content={2857 Content={3574, 3574, 3574}, 3311, 3502 Content={3031 Amount=31, 3604 Amount=6, 2873}}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3446 Amount=29, 3031 Amount=72, 3507 String="freezer demon\nvenore" Editor="Krius Thoraet"}, 3301, 3413, 2876, 3504, 3537, 3504 Content={3507 String="freezer demon\nvenore" Editor="Orior Zemon"}, 3504 Content={3074, 3074, 3507 String="freezer demon\nvenore" Editor="Sir Merin from"}, 3504 Content={3507 String="freezer demon\nvenore" Editor="Sir Merin from"}, 3504 Content={3447 Amount=22, 3084 RemainingUses=250, 3083 RemainingUses=150, 3097 SavedExpireTime=3340, 3552, 3507 String="freezer demon\nvenore" Editor="Sir Merin from"}, 3504 Content={3507 String="freezer demon\nvenore\n" Editor="Sir Merin from"}, 2854 Content={3350, 3275, 3316, 3097, 3003}, 3457, 2853 Content={3446 Amount=2}, 3097, 2854 Content={3492 Amount=6, 2853, 2854, 3483, 2854 Content={3504}}, 3738 Amount=1, 2854 Content={3004, 2853 Content={2853}, 3463, 3483, 3003, 2854 Content={3267, 3375}, 3003, 3003, 3456}, 2854 Content={2867 Content={2906, 2868 Content={3003, 2970 KeyNumber=4503, 3097 SavedExpireTime=1953}, 2854 Content={2867 Content={3045 RemainingUses=166, 3147}, 3097 SavedExpireTime=3597, 2853 Content={3409, 3084 RemainingUses=250, 3056 RemainingUses=200, 3097 SavedExpireTime=3515, 3003}, 3003}, 3003, 2854 Content={3147, 3059, 3003, 2922 SavedExpireTime=18}, 3483, 3003, 3457}, 3003}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

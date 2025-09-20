@@ -1,0 +1,55 @@
+ID              = 9017427
+Name            = "Thesta Talic"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,0-1-2-3)
+CurrentOutfit   = (128,0-1-2-3)
+LastLogin       = 1148236104
+LastLogout      = 1148236137
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32682,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,185781,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,65048,3000,193600,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,29067,1100,29912,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,17,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,28110,1100,29620,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,427,1100,474,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,492,1100,571,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1777,1100,1966,20)
+Skill = (14,0,1200,0,0,0,46,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,81,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(59,1),(60,1),(98,1),(106,1),(107,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2865 Content={3577 Amount=7, 3031 Amount=30, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 2969 KeyNumber=3033}},
+               4 Content={3357},
+               6 Content={3265},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3425}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2921 RemainingExpireTime=535}}, 
+               3 Content={3147, 3147, 3291, 3492 Amount=17, 3483, 3375, 2853 Content={2853 Content={2970 KeyNumber=4601, 3552}, 3056 RemainingUses=200, 3308, 3457, 3289, 2991}, 2865 Content={3085 RemainingUses=200, 2914 SavedExpireTime=974, 2969 KeyNumber=3610, 2872 Content={3035 Amount=10}, 2865 Content={3578 Amount=95}}, 2868 Content={2863 Content={3188 Charges=2, 2867 Content={3459, 3056 RemainingUses=200}, 2854 Content={2924 SavedExpireTime=170, 3509}, 3536, 3147, 3147, 2853}, 2885, 2873, 3308, 3452, 3267, 3291, 3421, 3003}, 2869 Content={2868, 2854, 2868 Content={3012, 3483, 3308, 3507 String="neox kalus\nab¨dendriel\n", 3503 Content={3565, 2983, 3012, 3507 String="neox kalus\nab´dendriel"}}, 2868 Content={3506 String="Thesta Talic\nAb'dendriel\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\nCopyright 1996-2005 CipSoft GmbH."}, 2865 Content={3267}, 2867, 2854 Content={3308, 3540, 3545, 3546, 2981, 2981, 3466, 3470, 3504 Content={2981, 2981, 2981, 2981, 2981, 3504 Content={3504 Content={3507 String="Leonardo Blackheart\nab'dendriel"}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3507 String="kibat sina\nab'dendriel"}, 3504 Content={3544, 3533 Amount=1, 3534 Amount=1, 3543, 3537, 3538}, 2917 SavedExpireTime=2846, 2969 KeyNumber=4600, 3003}}, 3502 Content={3301, 3003, 3457, 3425, 2868 Content={3305, 3327, 3012, 3377, 3377, 3377, 3316, 3349, 3349, 2920, 3003, 3457}, 3085 RemainingUses=200, 3266, 3425, 3384, 2955, 3425, 3266, 3299, 3350, 3266, 3269, 3266}}, 
+               6 Content={3272, 3502 Content={3462, 3492 Amount=16, 2856, 3492 Amount=28}}}

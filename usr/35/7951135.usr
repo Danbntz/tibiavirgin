@@ -1,0 +1,53 @@
+ID              = 7951135
+Name            = "Doktor Simi"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,132-132-114-114)
+CurrentOutfit   = (134,132-132-114-114)
+LastLogin       = 1147900857
+LastLogout      = 1147900873
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,20349,0,23200,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,196740,1100,214735,1600)
+Skill = (2,148,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,27,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7621,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7208,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,396,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,7154,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,5,8,10,20,29,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(31,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(100,1),(106,1),(107,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3505 String="jkioip" Editor="Emoatreyu", 3374, 2853 Content={2853 Content={2853}}, 2924 SavedExpireTime=63, 2853, 3507 String="Master star lol vlw pelo dwarven shield e pelo amuleto em cima da caixa\nbye\n" Editor="Rico Sorcerer", 3507 String="dokas\nthais" Editor="Dokas", 2853, 3507 String="delta clipse\nthais\n" Editor="Delta Clipse", 2853, 3504, 3504 Content={3507 String="Cristal angelus\nthais\n" Editor="Joan loco"}, 3533 Amount=1, 3506 String="Warning!\n\nThe monthly rent of 900 gold\nfor your house \"Alai Flats, Flat 27\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3533 Amount=1, 3533 Amount=1, 3277 Amount=6}},
+               4 Content={3377},
+               5 Content={3448 Amount=3},
+               6 Content={3282},
+               7 Content={3362},
+               10 Content={3483}}
+
+Depots      = {0 Content={2853 Content={3507 String="crasherman\nthais\n" Editor="Crunchman", 3507 String="quik pirokaman\nthais" Editor="Quik Pirokaman", 3507 String="reploid of light\ndarashia" Editor="Nubv", 3507 String="ridertech\nThais", 2853 Content={3504 Content={3504 Content={3504 Content={3507 String="Wixuraxo Quim\nthais" Editor="Wixuraxo Quim"}, 3507 String="Wixuraxo Quim\nThais" Editor="Brain Hunter"}, 3507 String="Wixuraxo Quim\nThais" Editor="Yks Slot"}, 2853 Content={3504 Content={3507 String="Dron Hera\nThais" Editor="Dron Hera"}, 3504 Content={3507 String="druida cecyn\nthais\n" Editor="Samo Kain"}}, 2853 Content={3506 String="Warning!\n\nThe monthly rent of 765 gold\nfor your house \"Alai Flats, Flat 23\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3507 String="lord'pepe\nthais\n" Editor="Elite Knight of Zanera"}, 2853 Content={3504 Content={3559, 3507 String="Zhaka Of'Glory\nthais" Editor="Anubis Dark"}, 3504, 3504 Content={3507 String="Mateusz Lord of Pall\nthais" Editor="Mateusz Ferus Veri"}, 2853 Content={2853 Content={2853 Content={2853}}}}}, 2853}, 3367, 3503 Content={3003, 3504 Content={2853, 3003, 3003, 3457, 3003, 3507 String="doktor simi\nthais\n"}, 3507}, 3502}, 
+               1 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

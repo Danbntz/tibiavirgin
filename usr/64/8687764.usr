@@ -1,0 +1,59 @@
+ID              = 8687764
+Name            = "Shusch"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,57-95-76-114)
+CurrentOutfit   = (134,57-95-76-114)
+LastLogin       = 1148241510
+LastLogout      = 1148242275
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32338,31781,6]
+PlayerkillerEnd = 0
+
+Skill = (0,48,0,1,0,0,0,0,0,0,1,1655213,0,1734400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,249400,3000,582400,1600)
+Skill = (2,629,785,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,214,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,117,117,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1470,1470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,156989,1100,170871,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,40,1400,71,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,57,1100,105,50)
+Skill = (9,67,0,10,0,0,0,0,0,0,0,120186,1100,125318,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,99,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,560,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,29,80,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(50,1),(60,1),(61,1),(67,1),(68,1),(70,1),(71,1),(72,1),(73,1),(109,1),(151,1),(152,1),(154,1),(190,1),(191,1),(217,3),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=1, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3577 Amount=20, 3198 Charges=4, 3174 Charges=2}},
+               4 Content={3370},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3047 RemainingExpireTime=2555}}
+
+Depots      = {0 Content={3377, 2647, 2656, 2647, 2656, 2647, 3463, 2656, 2656, 2656, 2647, 2656, 2656, 2656, 2656, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Alai Flats, Flat 25\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3059, 3059}}, 
+               1 Content={2868 Content={3291, 2969 KeyNumber=4600, 3457, 3003, 3264}, 2968 KeyNumber=3940, 2868 Content={2968 KeyNumber=3940, 3056 RemainingUses=200, 3084 RemainingUses=129, 2968 KeyNumber=3940, 3446 Amount=4, 3308, 3174 Charges=1, 3174 Charges=4, 3174 Charges=4, 3174 Charges=5, 3174 Charges=3, 3174 Charges=4, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3}, 3725 Amount=62, 3085 RemainingUses=157, 3092, 3504 Content={3031 Amount=12, 2969 KeyNumber=3033, 3097 SavedExpireTime=3565, 3507 String="Shusch\nCarlin" Editor="Shusch", 3282, 3208}, 2868 Content={3052 SavedExpireTime=668, 3042 Amount=12, 3449 Amount=17, 3198 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3004, 2973 KeyNumber=3520, 3188 Charges=3, 3275, 3547 Amount=3, 3504 Content={2992 Amount=20, 3290, 3077, 3077, 2949, 3077}, 2469 Content={2853, 2865, 2659, 2659, 2953, 2659, 2659, 2953, 2969 KeyNumber=4055}, 2865 Content={3035 Amount=10, 3425, 3050 SavedExpireTime=1724, 2853 Content={3301, 3349, 3301}, 2667, 2667, 2868 Content={3563, 3076, 3076, 3046, 3046, 3046, 2991, 2991, 2991, 2991, 2952, 2952, 2991}, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2667, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3046 SavedExpireTime=2624, 3097, 3097, 3097, 2854 Content={3004, 3004, 3275, 2906, 3046, 3046, 3097, 3050, 3050, 2854 Content={3046, 3046, 3046, 3046, 3008, 3097, 2865 Content={3056 RemainingUses=200, 3050, 3097, 3054 RemainingUses=76, 3008, 3097, 2989, 2854 Content={3097, 3097 SavedExpireTime=3597, 3463, 2969 KeyNumber=5000, 2989, 2867 Content={2952, 2952, 3565, 3473, 3464, 2952, 2952, 3509}, 3588 Amount=6}, 3008}}}}, 3504 Content={3377, 3349, 3350, 3349, 2868 Content={2854 Content={3003}, 2868 Content={3457}, 3504 Content={3504 Content={3507 String="yan pirokaman\ncarlin" Editor="Yan Pirokaman"}, 3430, 3267}, 2853 Content={2853}, 2969 KeyNumber=3033, 3457}, 3507 String="Shusch\ncarlin\n"}, 3293, 3457, 3054 RemainingUses=141, 3310, 3503 Content={3548 Amount=5, 2973 KeyNumber=3520}, 3504 Content={3003, 3177 Charges=1, 3299, 3350, 3003, 3507 String="shusch\ncarlin"}, 3467, 3470, 2868 Content={2874, 2874, 2874, 2874, 2874, 2874, 3327, 3330, 3330, 3330, 3330}, 3502 Content={3031 Amount=36, 3083 RemainingUses=150, 3602 Amount=3, 3585 Amount=2, 3457, 3003, 2866 Content={3551, 3270, 3425, 3359, 3291}, 3008, 3308, 3285, 3446 Amount=21, 3358, 3674, 2853 Content={3266}, 2859, 3674, 2853 Content={3349, 3349, 3349, 3349}, 2955, 3292, 3299, 3054 RemainingUses=200, 3056 RemainingUses=200, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2969 KeyNumber=3033}}, 
+               3 Content={2859, 2659, 3059, 3083 RemainingUses=101, 2644, 3031 Amount=3, 2853, 3504 Content={3507 String="Shusch\nAb'Dendriel" Editor="Shusch", 3059, 3504 Content={3507 String="seth master of darkness\nthais" Editor="Herobi the Sorcerer"}, 3504 Content={3367, 3507 String="khons\nthais" Editor="Jeffrey'spree"}, 3504 Content={2970 KeyNumber=3142, 3504 Content={3031 Amount=96, 3031 Amount=100, 3031 Amount=100, 3425, 3456, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3003}, 3507 String="Shusch\nAb'Dendriel" Editor="Shusch"}}, 3350, 3075, 3504 Content={3582 Amount=10, 3265, 3265, 3351, 3357, 3507 String="Shusch\nAb'dendriel" Editor="Shusch"}, 2867 Content={3300, 3270, 3293, 3266, 3336, 3266, 3266, 3266, 2865 Content={3299, 3282, 3299, 3305, 3453, 3282, 3097 SavedExpireTime=3580, 2853 Content={2969 KeyNumber=3033, 3056 RemainingUses=200, 3012, 3012, 3056 RemainingUses=196}, 3275, 3092 SavedExpireTime=1701}, 3457, 3293, 3457, 2969 KeyNumber=5000}, 2920, 3502 Content={2854 Content={3577 Amount=46, 3602 Amount=26, 3585 Amount=7}, 3350}}, 
+               5 Content={3291, 2854, 2854 Content={3492 Amount=7, 3492 Amount=100}, 2857, 3457, 3425, 3504 Content={3507 String="Shusch\ndarashia" Editor="Burco the Dark"}, 3504 Content={2656, 3507 String="Shusch\nDarashia" Editor="Troll-ini"}, 2955, 3372, 3552, 3350, 3502 Content={3410, 3409, 3504, 3054 RemainingUses=143, 3056 RemainingUses=200, 3483, 2970 KeyNumber=3802, 3330, 3349}}, 
+               6 Content={3504 Content={3350, 3507 String="Shusch\nvenore\n" Editor="Shusch"}, 3502}, 
+               7 Content={2853 Content={3301, 3301}, 2853 Content={3349, 3349}, 3298 Amount=1, 3504 Content={3507 String="Davith'khall\nankrahmun" Editor="Davith'Khall"}, 3286, 3336, 3046, 3338, 3287 Amount=2, 3504 Content={3582 Amount=49, 3507 String="Shusch\nAnkrahmun" Editor="Alynek"}, 3504 Content={3507 String="Shusch\nAnkrahmun\n" Editor="Exan Kur"}, 3338, 3311, 3483, 3299, 3008, 3299, 3502 Content={2871 Content={3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330, 3330}}}, 
+               8 Content={3502 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 2870 Content={2872, 2854, 2854, 2870, 2869}, 3377, 3367, 3367, 1781 Amount=5, 3483}}}

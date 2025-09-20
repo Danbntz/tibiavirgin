@@ -1,0 +1,60 @@
+ID              = 8930350
+Name            = "Gustavo the shadow master"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,97-124-114-95)
+CurrentOutfit   = (134,97-124-114-95)
+LastLogin       = 1148192004
+LastLogout      = 1148192123
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32930,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,44,0,1,0,0,0,0,0,0,1,1277433,0,1328800,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,1013894,1400,1215653,1600)
+Skill = (2,545,545,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,123,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,113,113,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1190,1190,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,29,0,10,0,0,0,0,0,0,0,5411,1100,5727,100)
+Skill = (7,80,0,10,0,0,0,0,0,0,0,237787,1100,260316,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,173,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,30,1200,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,155,1200,181,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1375,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5062,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,192,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,30,42,44,45,48,49,51,76,78,79,81}
+QuestValues = {(1,3),(2,6),(18,1),(20,1),(36,1),(37,1),(38,1),(41,1),(42,1),(43,1),(44,1),(54,1),(55,1),(56,1),(60,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(110,1),(111,1),(112,1),(115,1),(121,1),(125,1),(126,1),(131,1),(134,1),(137,1),(140,1),(141,1),(142,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(155,1),(190,1),(191,1),(200,1),(201,1),(202,1),(209,1),(211,4),(213,1),(214,1),(217,3),(222,1),(223,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(249,2),(250,2),(253,1),(254,1),(257,1),(269,1),(279,1),(300,6),(302,1),(304,6),(305,6),(306,2),(307,1),(308,1),(309,2),(310,2),(324,1),(325,4),(326,1),(329,1),(330,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3055},
+               3 Content={2872 Content={3031 Amount=30, 3349, 2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2864 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147}, 3035 Amount=18, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               7 Content={3557},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3504 Content={3507 String="Gustavo the shadow master\nThais" Editor="Axtak"}, 3503, 3504 Content={3504 Content={3507 String="Gustavo the shadow master\nport hope" Editor="Gustavo the shadow master"}, 3507 String="Gustavo the shadow master\nThais" Editor="Gustavo the shadow master"}, 3031 Amount=9, 2819 String="Seems I fell in this hole and can't get out anymore. Unfortunatly there is no friend near to pull me up with a rope. What have I done to deserve this? What?", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Alai Flats, Flat 06\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2854 Content={3059, 2853 Content={2853 Content={2853}}, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3097 SavedExpireTime=3585, 3483, 1781 Amount=5, 3502 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}}, 
+               1 Content={3277 Amount=7, 3504 Content={3507 String="gustavo the shadow master\ncarlin" Editor="Sacred Light"}, 3502 Content={2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja"}}, 
+               2 Content={3502 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}}, 
+               3 Content={3605 Amount=30, 3502 Content={2473, 2473, 2854 Content={1781 Amount=1}}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="Gustavo the shadow master\ndarashia" Editor="Gustavo the shadow master"}, 3457, 3304, 3552, 2815 String="\n" Editor="Gustavo the shadow master", 3502 Content={3285, 3285, 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings.", 3172 Charges=3, 3172 Charges=3}}, 
+               6 Content={3492 Amount=100, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The City Wall 7a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2861, 2871 Content={2870 Content={3372, 2854 Content={2867, 3097, 3147, 3456}, 3301, 3483, 3410, 3289}, 3483, 3299, 3327, 3283, 3457, 3283, 2839 Editor="Gustavo the shadow master", 3483}, 2853 Content={3587 Amount=15, 3579 Amount=10}, 2853 Content={3077, 2853 Content={2853 Content={2853 Content={2853 Content={3046 SavedExpireTime=2997, 3046, 3046, 3046, 3046, 3046}, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2853 Content={3050, 3050, 3050, 3050}, 2853 Content={3299, 3299, 3299}, 2853 Content={3301}}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1}}}, 
+               7 Content={2639, 3504 Content={3507 String="gustavo the shadow master\nAnkrahmun" Editor="Arturo the magician"}, 3045 RemainingUses=200, 3502}, 
+               8 Content={3504 Content={3507 String="Gustavo the shadow master\nPort Hope" Editor="Evancio"}, 2864 Content={3350, 3447 Amount=75}, 2866 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Coconut Quay 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={2872 Content={3357, 3298 Amount=5, 4872, 3280, 3425, 3370, 3287 Amount=9, 3576, 3318, 3384, 3353, 3357, 3049 SavedExpireTime=39, 3421}}}}

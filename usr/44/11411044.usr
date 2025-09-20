@@ -1,0 +1,48 @@
+ID              = 11411044
+Name            = "Darim Kert"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-94-114-0)
+CurrentOutfit   = (129,114-94-114-0)
+LastLogin       = 1146311583
+LastLogout      = 1146311688
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,2961,0,4200,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,122,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,30,30,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,445,445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,1136,1100,1143,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,928,1100,1069,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,126,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,108,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,41,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(17,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854},
+               7 Content={3559}}
+
+Depots      = {0 Content={3502 Content={3552, 3559, 3367, 3268, 3308, 3375, 2821 String="We finally made it to trick the foolish dragon and advance to some better part of earth. Here it is easy to dig a new dungeon. I hope we will find a new way out.\n\nThe way is long. We are digging for about 30 days.\n\nWe made it to advance to a stone wall! Tomorrow we will break it! The day we will see the sun again is close! Palker will be proud of me!\n\nYeah! This was the final blow. The wall is broken! But, what is that? Behind the wall, there is a human warrior. He seems dangerous. He has a glowing sword, a blue armor and green pants made of dragon-skin. He screams something like \"Tataah!\" and attacks! I don´t understand the humans! What does that mean?\nHE KILLS MY MINO-GUARDS! And now he turns towards me ...", 3374, 3003, 3374, 3462, 3492 Amount=4, 3267, 3674}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={3409, 3374, 3362, 3453, 3350, 3483, 3607, 3588 Amount=100}}}

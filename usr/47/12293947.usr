@@ -1,0 +1,53 @@
+ID              = 12293947
+Name            = "Adicek"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,115-12-114-114)
+CurrentOutfit   = (129,115-12-114-114)
+LastLogin       = 1148198900
+LastLogout      = 1148199698
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,241049,0,262600,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,150737,1400,157982,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,119,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,830,830,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35279,1100,36404,100)
+Skill = (7,48,0,10,0,0,0,0,0,0,0,11057,1100,12043,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,4572,1200,5296,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,787,1200,824,50)
+Skill = (10,34,0,10,0,0,0,0,0,0,0,20639,1200,23599,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,649,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3572,1100,3638,20)
+Skill = (14,0,1200,0,0,0,189,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,29,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,0,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,15,20,29,30,42,48,49,51}
+QuestValues = {(17,1),(18,1),(20,1),(22,1),(23,1),(35,1),(37,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(190,1),(191,1),(192,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=1, 3031 Amount=11, 3578 Amount=4, 2874, 2874, 2874, 2874, 2874, 3447 Amount=100, 3447 Amount=100, 2911 SavedExpireTime=2888, 2905, 3447 Amount=10, 3004, 3350, 3308, 3003, 3457}},
+               5 Content={3425},
+               6 Content={2955},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={2854 Content={2469}, 3003, 3457}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2853, 2969 KeyNumber=4055, 2992 Amount=1, 2871 Content={2867, 2854, 2868, 2854, 2853, 3462, 3092}, 2865 Content={3004, 3004}, 2854, 2868 Content={3658, 3658, 2985, 2984, 3661, 2983, 2981, 3655, 3545, 2647, 2917 SavedExpireTime=2948, 2983, 2855 Content={2981, 2981, 2981, 2981}, 3736 Amount=4, 3735 Amount=1, 3741 Amount=1, 3116, 3115}, 2872 Content={2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3046, 3030 Amount=1, 2857 Content={3092, 2857 Content={3097, 3092 SavedExpireTime=1552, 3050, 3050, 3050 SavedExpireTime=1757, 3097 SavedExpireTime=3581, 3092, 3098}}, 3046 SavedExpireTime=2817, 3046 SavedExpireTime=2983, 3046 SavedExpireTime=2996, 3017, 2969 KeyNumber=4055, 2969 KeyNumber=5000, 2969 KeyNumber=5000, 2969 KeyNumber=5000, 2969 KeyNumber=4600, 2969 KeyNumber=4055, 2970 KeyNumber=4601, 2868 Content={3152 Charges=1, 3177 Charges=1, 2857 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2853 Content={3164 Charges=1, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3188 Charges=3, 3188 Charges=3, 3172 Charges=3, 3148 Charges=2, 3188 Charges=3, 3148 Charges=2, 3155 Charges=1, 3148 Charges=2}, 2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}, 3046, 2860 Content={3065}, 2857 Content={3074, 3074, 3071}}, 2469, 2469, 2469, 3509, 2869 Content={3601 Amount=5, 3602 Amount=3, 3586 Amount=2, 3590 Amount=10, 3598 Amount=13, 3723 Amount=1, 3595 Amount=3, 2472 Content={3582 Amount=100, 3582 Amount=100, 3582 Amount=100}, 2472 Content={3578 Amount=72, 3578 Amount=100, 3578 Amount=100, 2854 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 3587 Amount=1, 3600 Amount=4, 3597 Amount=5, 3585 Amount=20}, 2867 Content={2871 Content={3359, 3376, 3378, 3362, 3354, 3372, 3552, 3559, 3361, 3355, 3552, 3551, 3352, 3358}, 3425, 3453, 3289, 3289, 3289, 2854 Content={3277 Amount=46, 3277 Amount=100, 3277 Amount=100, 3277 Amount=100, 2853 Content={3448 Amount=24, 3448 Amount=100}, 3350, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3446 Amount=61, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3449 Amount=23, 3350, 1781 Amount=51, 3349, 3349, 1781 Amount=100, 3349, 2853, 3349}, 2868 Content={3082 RemainingUses=41, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3012, 3012, 3056 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3008, 3008, 3008}, 2867 Content={3359, 3411, 3421, 3426, 3377, 3375, 3410, 3421, 3367, 3410, 3375, 3353, 3410, 3430, 3367, 2854 Content={2871 Content={3320, 3419, 3381, 3385, 3031 Amount=2}, 3004, 3031 Amount=12}, 2867 Content={3305, 3283, 3268, 3285, 3285, 3285, 3307, 3307, 3300, 3266, 3275, 3276, 3276}}}, 2854 Content={2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2816 String="Wyrd Sisters\nby Terry P.", 3077, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3674, 2815, 3454}, 2865 Content={2867 Content={2816 String="Diary of E. R. Grossom\n\n", 2821 String="Surviving in the Swamp,\nby E. R. Grossom", 3077, 2839, 3077}, 2868 Content={3350, 3350, 3350, 3350, 3350}}, 2854 Content={2875, 2868 Content={3492 Amount=100, 3483, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2472 Content={3059, 3059, 3059, 3059, 3059, 3059, 2825 String="20 Tricks to Get People's Money\n\n..."}, 2854 Content={3457, 3456, 3457, 3457, 3457, 3457, 3457, 3457}, 2854 Content={2906, 2989, 3463, 3463, 2989, 3308, 3308, 3308, 3308, 2906, 2853 Content={3003, 3003, 3003, 3003}, 3451, 3293}, 3504 Content={2981, 2981, 2983, 2981, 2984, 3535, 2981}, 2856, 2885 ContainerLiquidType=2, 2874 ContainerLiquidType=11}, 3504 Content={3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504 Content={3504, 3504, 3504, 3504}}, 3207 Amount=7}}}

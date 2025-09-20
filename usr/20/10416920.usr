@@ -1,0 +1,61 @@
+ID              = 10416920
+Name            = "Treacherous Tiger"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,80-114-95-114)
+CurrentOutfit   = (134,80-114-95-114)
+LastLogin       = 1148203144
+LastLogout      = 1148205620
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32262,32103,7]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1123740,0,1152200,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,607038,3000,1748800,1600)
+Skill = (2,695,695,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,157,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,111,111,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1320,1320,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,308789,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,70,0,10,0,0,0,0,0,0,0,165770,1100,166964,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,43,0,10,0,0,0,0,0,0,0,11181,1100,12273,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1509,1100,1590,20)
+Skill = (14,0,1200,0,0,0,956,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,8,0,27,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(56,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(110,1),(111,1),(112,1),(115,1),(128,1),(137,1),(143,1),(153,1),(190,1),(191,1),(217,3),(222,1),(223,1),(224,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2867 Content={3412, 3291, 3031 Amount=8, 2473, 2473, 3457, 3290, 2866 Content={3031 Amount=100, 3031 Amount=100, 3264}}},
+               4 Content={3381},
+               5 Content={3434},
+               6 Content={3295},
+               7 Content={3371},
+               8 Content={3079},
+               9 Content={3007},
+               10 Content={3503 Content={3577 Amount=7, 3582 Amount=18, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3174 Charges=1, 3174 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=4}, 2854 Content={3054 RemainingUses=138, 3188 Charges=1, 3148 Charges=3, 3192 Charges=2, 3164 Charges=1, 3191 Charges=1, 3191 Charges=2, 3188 Charges=3, 3188 Charges=3}, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger", 2854}}}
+
+Depots      = {0 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=22, 2871 Content={3577 Amount=3}, 2870 Content={3503 Content={2853 Content={3367, 3354, 3410, 3354}, 3354, 3354, 3354, 3367, 3507 String="treacherous tiger\ndarashia" Editor="Treacherous Tiger", 3367, 3367, 3354, 3354}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3503 Content={3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}}, 2480 Content={3504 Content={3504 Content={3504 Content={3507 String="treacherous tiger\nthais" Editor="Fat'Tony"}, 3504 Content={3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3507 String="treacherous tiger\nthais" Editor="Cormag the knight"}, 3504 Content={3504 Content={3507 String="treacherous tiger\nthais" Editor="Charlie The Third Storage"}, 3507 String="treacherous tiger\nthais" Editor="Fat'Tony"}, 2853, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3504 Content={2853, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tyger"}, 3504 Content={3507}, 3504 Content={2866 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3506 String="treacherous tiger\nthais\n\nhe thnxfor my plate armor :) and if it wont be any trouble could u get my bp bak it realy dosent matter if u dont it would be nice to have it bak :) tytytytytytyty" Editor="Frost Hell", 3412, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3504 Content={3504 Content={3507 String="Treacherous tiger\nThais\n" Editor="Begoldenator"}, 3504 Content={3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3504, 3504, 3504, 3504, 3507 String="treacherous tiger\nthais" Editor="Grim Reapir"}, 3504 Content={3507 String="Treacherous Tiger\nThais" Editor="Dark Sorcer Sowa"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}, 3504 Content={2472 Content={3507 String="Klemens-Druid\nThais\n" Editor="Klemens-Druid", 3378, 3507 String="rezerved\nthais" Editor="Rezerved", 2981, 3492 Amount=1, 3507 String="zaitoo\nthais" Editor="Pandy", 3457, 3003, 2659, 2659, 2659, 2659, 2659, 3457, 2922 SavedExpireTime=129}, 3504 Content={3504 Content={3504 Content={2853 Content={2853 Content={3135, 3492 Amount=1, 3507 String="rezerved\nthais" Editor="Rezerved", 3507 String="hamz ascetic\nthais" Editor="Winter Flames", 2977, 2977, 2977, 3492 Amount=8}, 2853 Content={3655, 3135, 3507 String="Estrada\nthais" Editor="Wincenty", 3411, 3492 Amount=1, 3507 String="My friend wus killed by u.  ANd now u r hunted." Editor="Treacherous Tiger", 2984, 3376}}, 3492 Amount=3}, 2853, 3504 Content={2981, 3507 String="to mr fat'tony\npay 10k or 5 bps of hmm or 3 bps of uh to delta'rage or hunted " Editor="Delta'Rage", 3301, 3273, 3330, 3362, 3362, 3552, 3374, 3507 String="Alan Garea\nthais" Editor="Caprates"}, 2853 Content={3655, 2977, 3507 String="Shedow of Mati\nThais" Editor="Kamchall", 3507 String="dark sorcerer mati\nthais\n" Editor="Karwia", 2853, 3135, 3140, 3507 String="nash'scrash\nthais" Editor="Neviruz"}, 3655, 2882, 2853 Content={2853}, 3507 String="Aslam glory\nThais" Editor="Julius'rotch", 2874, 3465 ContainerLiquidType=2}, 2480, 2853, 2853, 2853 Content={2853 Content={3426, 2880, 3138, 3457, 3507 String="Argon Fulot\nThais\n" Editor="Van'Fire", 2913, 2983, 3138}, 3507 String="Dark sorcerer Mati\nThais" Editor="Adelayda of Thais", 3135, 3507 String="Adelayda of Thais\nThais\n" Editor="Dark Sorcerer Mati", 3492 Amount=1, 3135}, 3504 Content={3483, 3003, 3457, 2880, 3507 String="wincenty\nthais" Editor="Wincenty", 3492 Amount=1, 2981, 3138, 3655, 3492 Amount=1}}, 3504 Content={2853 Content={2853 Content={3507 String="lord baltasar\nthais" Editor="Lord Baltasar", 2981, 3507 Editor="Rulo de chango", 3655, 3492 Amount=1, 2981, 3138, 3655}, 3492 Amount=1, 3504, 2853 Content={3507 String="this will continue to happen until u give  me my crusader helmet bak -.-" Editor="Charlie The Third Storage", 3492 Amount=1}, 2853 Content={3492 Amount=1}, 2853 Content={3504 Content={3504}}, 2853, 2853}, 3492 Amount=1, 3135, 3492 Amount=2}, 3492 Amount=1}, 3504 Content={3504 Content={2854 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3504 Content={2853, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger", 3507 String="treacherous tyger\ndarashia" Editor="Treacherous Tiger"}, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3504 Content={3504 Content={2853 Content={2853 Content={2853}}, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3504 Content={3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 2853 Content={2853 Content={2853}}, 3507 String="treacherous tiger\nthais" Editor="Treacherous Tiger"}, 3504, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2866 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 3504 Content={3507 String="treacherous tiger\nthais" Editor="Subzoro"}, 2481 Content={2469 Content={2854, 2472 Content={2472}}, 3465}}, 3502 Content={2867}}, 
+               1 Content={3502 Content={2920 SavedExpireTime=360, 3492 Amount=1, 3457, 3003}}, 
+               2 Content={3003, 3457, 2870, 3505 Editor="Begold Blingbling", 3505 Editor="Begold Blingbling", 3505 Editor="Begold Blingbling", 3505 Editor="Begold Blingbling", 3505 Editor="Aztec Priest", 3505, 3502 Content={3456, 3457, 3291, 3277 Amount=1}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507}}, 3504 Content={3504, 3504, 3504 Content={3504}, 3504, 3504, 3504, 3504}, 3283, 3264, 3273, 3502 Content={3483, 3456, 3456, 3456, 3003, 2874, 3483, 3056 RemainingUses=200, 3056 RemainingUses=200, 3457, 3457, 3457, 3457, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 2920, 2920, 2920}}, 
+               6 Content={3578 Amount=10, 3504 Content={3507 String="treacherous tiger\nvenore" Editor="Dark Minnion"}, 2920, 2920 SavedExpireTime=319, 3502 Content={3267, 3003, 3457, 3457, 3003, 3457, 3456, 3451, 2969 KeyNumber=4600}}, 
+               7 Content={3502}, 
+               8 Content={3502}}

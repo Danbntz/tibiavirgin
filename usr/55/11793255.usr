@@ -1,0 +1,56 @@
+ID              = 11793255
+Name            = "Patinio"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-0-113-114)
+CurrentOutfit   = (128,0-0-113-114)
+LastLogin       = 1147886109
+LastLogout      = 1147886971
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,6]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,87553,0,98800,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,57531,1100,64871,1600)
+Skill = (2,239,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,22,315,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13350,1500,17099,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,63,2000,90,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,6480,2000,12750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,41,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,57,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1094,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,15,19,26,29,44}
+QuestValues = {(17,1),(18,1),(22,1),(23,1),(35,1),(59,1),(106,1),(107,1),(217,3),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3552, 3447 Amount=1, 3472, 3294, 2973 KeyNumber=3520, 3457, 3277 Amount=1, 3506 String="Lord Kubi\ncarlin\n\nWitam.\nSiemka kubi nadal nie wiem co jest z tym domkiem a ty wysle list do galasa dalasa sprawdze co jest ok.\n\nZosia Szmidt :)   :D   :]" Editor="Zosia Szmidt", 3506 String="Lord Kubi\nAnkrahmun\n\nWitam.\nHejka Kubi czemu sie nie odzywasz jak tam ci idzie mam nadzieje ze szybko wrocisz nie ma cie juz jakis 1,5 miesiaca cos ci chyba kiepsko idzie do tego 30 levela dojsc odpisz jak bedzies zmial czas.\n\nZosia Szmidt\n" Editor="Zosia Szmidt", 2920, 3003, 2920, 3457}},
+               4 Content={3357},
+               5 Content={3072},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=170}}
+
+Depots      = {0 Content={3577 Amount=1, 3582 Amount=2, 3446 Amount=2, 3504 Content={3507 String="Patinio\nThais" Editor="Patinio"}, 3577 Amount=12, 3502}, 
+               1 Content={3504 Content={3507 String="Patinio\nCarlin" Editor="Patriko Tostiko", 3035 Amount=10}, 3003, 3375, 2853 Content={3003}, 3056 RemainingUses=200, 2854 Content={3457, 3003, 3277 Amount=3, 2854 Content={3483}}, 3174 Charges=5, 3152 Charges=1, 3174 Charges=3, 3031 Amount=6, 3174 Charges=5, 3075, 2874, 3548 Amount=4, 2469 Content={3577 Amount=13}, 3289, 3552, 2874, 3301, 3160 Charges=1, 3147, 2868, 3059, 2854 Content={3056 RemainingUses=200, 3293, 3362, 3349, 2955, 3277 Amount=4, 2969 KeyNumber=4603, 3552}, 2867, 2865 Content={3031 Amount=21, 3035 Amount=66}, 2854, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=2}, 3502 Content={3291, 2922 SavedExpireTime=89, 3003, 2853 Content={3430, 3430, 3430}, 2854 Content={3003, 3457, 3463, 3457, 3003, 3003, 3003, 3377}, 2854 Content={3349, 3300, 3350, 3074, 3327, 3307, 3316, 3285, 3330}, 3483, 3492 Amount=99, 3308, 2991, 2906, 3046 SavedExpireTime=2996, 2853 Content={3012, 3056 RemainingUses=198, 2970 KeyNumber=4601, 2969 KeyNumber=4600, 2969 KeyNumber=3033}, 3483}}, 
+               3 Content={3502}, 
+               6 Content={3502}}

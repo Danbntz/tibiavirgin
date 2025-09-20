@@ -1,0 +1,58 @@
+ID              = 13771418
+Name            = "Cid graff"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,114-105-19-94)
+CurrentOutfit   = (134,114-105-19-94)
+LastLogin       = 1147401379
+LastLogout      = 1147405087
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32315,31723,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,83549,0,98800,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,68474,1100,72958,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,195,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,9447,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,45,1800,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,36,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,192,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,460,1100,490,20)
+Skill = (14,0,1200,0,0,0,1028,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,49,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,10,12,15,29,39,44,87,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(37,1),(54,1),(58,1),(61,1),(67,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(226,1),(333,1)}
+Murders     = {1145340997}
+
+Inventory   = {1 Content={3353},
+               2 Content={3008},
+               3 Content={2854 Content={3577 Amount=2, 3582 Amount=3, 3031 Amount=48, 3031 Amount=100, 3577 Amount=4, 3003}},
+               4 Content={3357},
+               5 Content={3070},
+               6 Content={3430},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3031 Amount=22, 3031 Amount=100, 2473 Content={2473 Content={2473 Content={2473 Content={3504 Content={3504}}}}}, 3077, 3066, 2872, 3738 Amount=14, 3483, 3374, 3492 Amount=85, 3298 Amount=1, 3350, 3286, 3003, 3003, 2843 String="hola es te es mi biografia" Editor="Rey Oscuro Del Mal", 3447 Amount=18, 3502}, 
+               1 Content={3504 Content={3507 String="Cid graff\nCarlin" Editor="Kros iw", 2860 Content={3353, 3003}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Theater Avenue 7, Flat 02\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3147, 3147, 3003, 3097, 3077, 3492 Amount=12, 3003, 3083 RemainingUses=150, 3054 RemainingUses=200, 3059, 3046, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3502 Content={3098, 3046, 3463, 3084 RemainingUses=250, 3035 Amount=14, 2857, 3059, 3349, 2973 KeyNumber=3520, 3447 Amount=10, 3349}}, 
+               3 Content={3012, 2969 KeyNumber=5000, 2855 Content={2870, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3740 Amount=1, 3739 Amount=1}, 3059, 3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3035 Amount=1, 3031 Amount=20, 3502}}

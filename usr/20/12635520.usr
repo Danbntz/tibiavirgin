@@ -1,0 +1,53 @@
+ID              = 12635520
+Name            = "Nerklin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,80-125-114-114)
+CurrentOutfit   = (133,80-125-114-114)
+LastLogin       = 1148143898
+LastLogout      = 1148143930
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32920,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,98861,0,116000,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,52096,1100,57519,1600)
+Skill = (2,94,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,49,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,19659,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,7856,2000,12750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,23,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,7,10}
+QuestValues = {(59,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3377},
+               5 Content={3425},
+               8 Content={3552},
+               10 Content={3425}}
+
+Depots      = {0 Content={3504 Content={3507 String="nerklin\nthais" Editor="Hijo de Evolgex"}, 3504 Content={3582 Amount=3, 3507 String="nerklin\nthais" Editor="Hijo de Evolgex"}, 3502}, 
+               3 Content={3504 Content={3582 Amount=5, 3507 String="nerklin\nab'dendriel" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="nerklin\nab'dendriel\n" Editor="Helen Of Troya"}, 3502}, 
+               4 Content={3074, 3504 Content={3507 String="Nerklin\nEdron" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="Nerklin\nEdron" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="Nerklin\nEdron" Editor="Zetaxx"}, 3504 Content={3507 String="Nerklin\nEdron" Editor="Zetaxx"}, 3504 Content={3412, 3507 String="Nerklin\nEdron" Editor="Hijo de Evolgex"}, 3502 Content={2866, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 
+               6 Content={3504 Content={3507 String="nerklin\nvenore" Editor="Hijo de Evolgex"}, 3504 Content={2853, 3507 String="nerklin\nvenore" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="nerklin\nvenore" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="nerklin\nvenore" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="nerklin\nvenore" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="Nerklin\nvenore" Editor="Zetaxx"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="Nerklin\nPort Hope" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="Nerklin\nPort Hope" Editor="Helen Of Troya", 3505 String="u are gay...and noob! plx dont kill me :(!..\n=P your helen of troya....\n\n\n\npOsdata: PaY me or huntEd!" Editor="Helen Of Troya"}, 3504 Content={3507 String="Nerklin\nport hope" Editor="Zetaxx"}, 3504 Content={3377, 3507 String="Nerklin\nPort Hope" Editor="Hijo de Evolgex"}, 3504 Content={3507 String="Nerklin\nport hope" Editor="Zetaxx"}, 3504 Content={3507 String="Nerklin\nport hope" Editor="Zetaxx"}, 3502 Content={3003, 3457, 3297, 2992 Amount=5}}}

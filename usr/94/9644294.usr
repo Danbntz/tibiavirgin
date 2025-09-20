@@ -1,0 +1,58 @@
+ID              = 9644294
+Name            = "Elemental'Dio"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,114-81-114-82)
+CurrentOutfit   = (129,114-81-114-82)
+LastLogin       = 1144802625
+LastLogout      = 1144802726
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32304,31757,6]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,376139,0,409000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,375489,1400,440480,1600)
+Skill = (2,405,405,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,910,910,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,48,0,10,0,0,0,0,0,0,0,40012,1100,40144,100)
+Skill = (7,64,0,10,0,0,0,0,0,0,0,55584,1100,56417,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,128,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,637,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,57,0,10,0,0,0,0,0,0,0,17556,1100,19203,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,82,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,11,20,29,30,44,49,51,76,79,81,95}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(49,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(113,1),(114,1),(121,1),(125,1),(126,1),(190,1),(191,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,1),(246,1),(247,1),(249,4),(250,4),(251,2),(253,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3373},
+               2 Content={3056 RemainingUses=200},
+               5 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=9}}
+
+Depots      = {0 Content={2471 Content={}, 3504 Content={3507 String="sir luck\nthais"}, 3504 Content={3507 String="elemental'dio\nthais"}, 3502 Content={}}, 
+               1 Content={3421, 3147, 3031 Amount=1, 3330, 2973 KeyNumber=3520, 3446 Amount=18, 3277 Amount=11, 3349, 2854, 3093, 2871 Content={3289, 3017}, 2854 Content={3271, 2868 Content={2859 Content={3046}}, 2868 Content={3349, 2868 Content={2854 Content={3045 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2869 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3012, 3012, 3012, 3012, 3012, 3012}}, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={3076, 3576, 3045 RemainingUses=200, 3083 RemainingUses=150, 3092, 2393, 2906, 3052 SavedExpireTime=41, 2970 KeyNumber=3800, 3052 SavedExpireTime=2, 3310}, 2854 Content={3052 SavedExpireTime=32, 3298 Amount=2, 3085 RemainingUses=200, 3050, 3097, 3059, 3177 Charges=1, 3046 SavedExpireTime=2356, 3092, 3046 SavedExpireTime=2992, 3097 SavedExpireTime=3569, 3097, 3004, 3046 SavedExpireTime=2998, 3092}, 2854 Content={3059, 3059, 3059}, 2868 Content={3285}, 2871 Content={3045 RemainingUses=200, 3483, 3483, 3349, 3349, 3349, 3349, 2870 Content={3148 Charges=1, 3148 Charges=3, 3148 Charges=2, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2853 Content={2853 Content={3046 SavedExpireTime=1581, 2853 Content={3046, 3046 SavedExpireTime=2998, 3046, 3046, 3046, 3046 SavedExpireTime=2998, 3046, 3046}, 3046, 3046, 3046, 3046, 3046, 3046}, 3046 SavedExpireTime=2737, 3046, 3046}, 2854 Content={3056 RemainingUses=200, 3056 RemainingUses=200}}, 2865 Content={3077, 3033 Amount=2, 3052 SavedExpireTime=47, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301, 2863 Content={2857}, 2871}, 2868 Content={3598 Amount=50, 3028 Amount=4, 3042 Amount=7, 3030 Amount=2, 3032 Amount=1, 2868 Content={2957, 3483, 3483, 3097, 3658, 2969 KeyNumber=3033, 2969 KeyNumber=4055, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2973 KeyNumber=3520}, 3658, 3029 Amount=2}, 2854 Content={2903, 3026 Amount=22, 3082 RemainingUses=50, 3050, 3373, 3299, 3097, 3052 SavedExpireTime=22, 3299, 3045 RemainingUses=200, 3330}, 3373, 3353, 3271}, 2991, 3579 Amount=1, 2973 KeyNumber=3520, 3504 Content={3349, 3507 String="elemental'dio\ncarlin", 3085 RemainingUses=192, 2970 KeyNumber=4601, 3050 SavedExpireTime=1797}, 2969 KeyNumber=4600, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="elemental'dio\nab'dendriel"}, 3502}, 
+               4 Content={3377, 3504 Content={3507 String="elemental'dio\nedron"}, 3504 Content={3507 String="infernal elf\nAnkrahmun"}, 3504 Content={3507 String="Mimee\nankrahmun\n"}, 3504 Content={3507 String="infernal elf\nankrahmun"}, 3504 Content={3349, 3277 Amount=2, 3507 String="elemental'dio\nedron"}, 3502 Content={3350}}, 
+               5 Content={2868 Content={2868 Content={2854 Content={}, 3504 Content={3507 String="elemental'dio\ndarashia"}}}, 3502 Content={}}, 
+               6 Content={3551, 3504 Content={3507 String="elemental'dio\nvenore"}, 3502 Content={}}, 
+               7 Content={2656, 2656, 3105, 3104, 3658, 3604 Amount=1, 3463, 2989, 2955, 2876, 2656, 2656, 2656, 2656, 2656, 2659, 2659, 2656, 2659, 2667, 2667, 2667, 2659, 2659, 2659, 2659, 2659, 2667, 2659, 2667, 2667, 2659, 2659, 2667, 2659, 2667, 2659, 2667, 2659, 2469 Content={3449 Amount=38, 3277 Amount=4, 2469 Content={2469 Content={3673, 3673}}}, 2644, 2667, 2870 Content={2469 Content={2469 Content={2469 Content={2653, 2653, 2653, 2653, 2653, 2659}}}, 2469 Content={2469, 2469, 2469, 2469, 2469, 2469}, 3409, 3409, 2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469 Content={2469}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2991, 2870, 2656, 2667, 2667, 2667, 3504 Content={3507 String="elemental'dio\nankrahmun\n"}, 2868 Content={2955, 3448 Amount=3, 3350, 3350}, 2854 Content={2854}, 3502 Content={3548 Amount=5, 3547 Amount=7, 2868}}}

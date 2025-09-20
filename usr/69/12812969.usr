@@ -1,0 +1,54 @@
+ID              = 12812969
+Name            = "Zyder Uniaka"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,79-114-114-96)
+CurrentOutfit   = (137,79-114-114-96)
+LastLogin       = 1146085499
+LastLogout      = 1146086393
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32910,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,103770,0,116000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,15566,3000,20800,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,21336,1100,22225,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,46,0,10,0,0,0,0,0,0,0,16324,1100,16501,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,194,1100,232,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,78,1100,105,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,61,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,399,1100,427,20)
+Skill = (14,0,1200,0,0,0,402,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(32,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(121,1),(223,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3577 Amount=10, 3457, 2874 ContainerLiquidType=11}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {2 Content={3502}, 
+               6 Content={3658, 2983, 3502 Content={2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3448 Amount=6, 3661, 2920, 2901 ContainerLiquidType=1, 3736 Amount=1, 3492 Amount=100, 3289, 3349, 3483, 3350, 2875, 3350, 2877, 2874 ContainerLiquidType=1, 3492 Amount=100, 3577 Amount=8, 3492 Amount=26, 3483, 2874 ContainerLiquidType=3}, 2865 Content={3031 Amount=65, 2868, 2867, 2859 Content={3035 Amount=67}}, 2854 Content={3008, 3004, 3059, 3059, 3003, 3008, 2469, 3483, 3447 Amount=9, 3551, 3008, 2920, 3372, 3425, 3003, 3457, 3003, 2906, 2875}, 2866 Content={3291, 3286, 3074, 3308, 3293, 3046 SavedExpireTime=2998, 3308, 3264, 3074, 3275, 3285, 3291, 3300, 3279, 3327, 3301}, 2867 Content={2854, 2867, 2865}, 2868 Content={2867 Content={3188 Charges=2, 3188 Charges=2, 3188 Charges=3, 3172 Charges=3, 3188 Charges=1, 3189 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=1}, 3155 Charges=1}, 2856 Content={3661, 3463, 2977, 3059, 2989}, 3504 Content={3504, 3503, 3504 Content={3507 String="focus pocus\nvenore\n" Editor="Rafael Abrego"}, 3504, 3504 Content={3507 String="molow sword\nvenore" Editor="Molow sword"}}, 2870 Content={3506 String="zyder uniaka\nvenore\n\nhola espero que estes bien tu y dayanita y que la felicidad y la abundancia abunden en su vida jajaja , solo quiero pedirte un favor , mandame mi noble armor en cuanto pueas porfavor a phantom ilus por parcel no porfa eque la voy a ocupar cuidate besos y espero que te vaya muy bien carolina jajajajaja\n" Editor="Ilus Algriumira", 3506 String="Zyder Uniaka\nVenore\n\nadivina ke....pues unos chavos me tienen en hunted..porque ni se...solo porque quieren dinnero pero io terco no se los voy a dar\n\nBueno unos de llos es knight lvl 15 pero tiene un monito druid 27 otro es paladin lvl 26 con un buen atake...bueno mira siva en serio eso de que me van a huntear eternamnete, luego te mando todas mis cosas por parcel...y pues ya me salgo de jugar asi que sale solo te informo\n\nBye" Editor="Yoshiro Kanek", 3506 String="Zyder Uniaka\nvenore\n\nhola amorsote... mucho tiempo sin hablar mucho tiempo sin soñar... mucho tiempo sin escribir.. mucho tiempo en pensar... dificil es aquel amor que... no puedes tener....." Editor="Kilcrops", 3506 String="zyder uniaka \nvenore\n\nMi amor diculpame por enesima vez recuerda que te quiero y eres una chava muy especial para mi , yo on te he raicionado porfavor dame otra oportunidad estoy arrepntido no quiero perderte ni como amiga ni como novia y menos ahora que estoy a un paso de irto a ver porfavor no me dejes \n\natt :ilus " Editor="Ilus Algriumira", 3506 String="Zyder Uniaka\nVenore\n\nstill sleeping??\n\nbueno... oie creo que hoy no te voy a ver\nasi que hola!!! \ny...\nAdios!!!\nque te cuides mucho!!!\n\nPs: Aqui y en la realidad!!! = )" Editor="Yoshiro Kanek", 3506 String="zyder uniaka\nvenore\n\nhola zyder solo quiero decirte que la verdad te quiero mucho y es encerio, no solo porque me digas cosas bonitas si no que aunque no te haya visto muy bien se que eres una niña increible y todo lo que piensas sobre mi yo lo pienso a diario de ti y aun con mas intensidad. Espero que este \" ciber noviazgo\" dure  mucho y algun dia tenga el placer de conocerte a ti y a mi bebe , no quiero que dejes de pensar en el papa de tu beba ni que lo dejes de querer por mi, solo espero que algun dia yo al igual que el pueda ocupar un lugar en tu corazon y en tus pensamientos , asi como has logrado conseguirlo en el mio estas ultimas semanas. porfa sigue iluminando mis pensamientos.\n\ncon mucho amor IluS \np.d .- hora si me la vole con la cartita pero es lo que siento por ti y nada mas ." Editor="Mich Star", 3505, 3505 String="Es hoy cuando miras hacia atrás y te das cuenta que las sombras siguen tus pasos, carcomiendo los despojos de luz que brotan de tu débil cuerpo y tus lágrimas, los ángeles que ahogan tu reprimido corazón entre dolores insoportables de recuerdos asesinos. \nIntentas alcanzar el cielo con las palabras, logras subir, pues la luna te tiende sus brazos, menguando para arrullar tus pesadillas" Editor="Miasthenia", 3506 String="Zyder uniaka\nVenore\n\noie si quieres subir de lvlv rapido, ve a la cuevas de los dwarfs, no bajes hasta los terceros niveles, sin contar la superficie, el primer es adonde bajas con escalera, ahi encuentras dwarfs y rots aveces poison espiders,  en el segundo hay lo mismo, en el tercero empiexa a aber duarf soldiers que son algo fuertes y guards que para mi son muy furetes la ultima ves que te vi tenia 128000, despues de una rato ahi ahora soy 140000\npara qe veas que si sirve\nluego te paso mas runas ya tengo un nuevo hechizo que creo te gustara\n\nsale bye" Editor="Yoshiro Kanek", 3505 String="\n\n" Editor="Zyder Uniaka"}, 2854, 2867 Content={3425, 3409, 3384, 3377, 3377, 3377, 3359, 3379, 3357, 3425, 3558, 3377, 3353, 3558, 3425, 3425, 3409, 3425, 3409, 3425}, 2854 Content={4871, 3056 RemainingUses=200, 3054 RemainingUses=200, 3008, 3012, 3008, 3030 Amount=2, 3097, 3027 Amount=2, 3026 Amount=1, 3092, 3097 SavedExpireTime=3539, 3017, 3017, 3092 SavedExpireTime=1799, 3092 SavedExpireTime=1795, 3097}, 2856 Content={2981, 2991, 2981, 2983, 3658}}}}

@@ -1,0 +1,54 @@
+ID              = 11270794
+Name            = "Homeless jeebus"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-132-114-114)
+CurrentOutfit   = (128,114-132-114-114)
+LastLogin       = 1146193829
+LastLogout      = 1146194039
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32227,6]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,14691,0,17600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,13840,1400,17512,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,45,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4518,1100,4559,100)
+Skill = (7,25,0,10,0,0,0,0,0,0,0,1053,1100,1078,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,355,1200,372,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,40,1200,50,50)
+Skill = (10,22,0,10,0,0,0,0,0,0,0,2421,1200,2424,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,284,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,106,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,29,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3012},
+               3 Content={2853 Content={3359}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3297},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="Homeless jeebus\nThais", 3504 Content={3031 Amount=31, 2867 Content={3275, 3350, 3035 Amount=1, 3003}, 3507 String="John Sproggalot\nThais", 3277 Amount=18, 3457, 3054 RemainingUses=200, 3577 Amount=2, 3492 Amount=48, 3031 Amount=100}}, 2853 Content={2853 Content={2853 Content={2853}}}, 2473 Content={2473 Content={2471, 2471, 2471, 2471, 2471, 2471, 2471}, 2473 Content={3504, 3504, 3504, 3504, 3504}, 2473, 2473, 2473, 2473}, 3502 Content={2472 Content={2853 Content={3003}, 3453, 2853, 2815 String="Orc Language\n\n\nHi = Charach \n\nBye = Futchi \nYes = Mok \n\nNo = Nok \n\nOffers = Ikem goshak \n\nBuy = Goshak \n\nWeapon = Porak\n \nArmour = Bora \nShield = Dora \n\nStudded = Tulak \n\nLeather = Aka \n\n\nWeapons \n\n\nSword (85 GP) = burka bata\n \nSabre (25 GP) = charcha\n \nHatchet (85 GP) = hak hak\n \nShort sword (30 GP) = burka \n\nBow (400 GP) = batuk\n \nArrows (30 GP per 10)= pixo \n\nArmor\n \n\nStudded Armor (90 GP) = Tulak Bora \n\nLeather Armor (25 GP) = Aka Bora \n\nBrass Shield (65GP) = Donga\n \nStudded Helmet (65GP) = Grofa ;", 3110, 3504 Content={3300, 3300, 3300, 3430, 3012, 3374, 3378}, 2832 String="Coordinates for the area around Dianscher\nWritten by Mathemicus\n\nI think I found out some coordinates for the Island Dianscher.\np3,q9,0o and p3,23,0t.\n\nYet, we must wait until we can control the destination gates and open them without problems.", 3547 Amount=4}, 2472 Content={2473 Content={1781 Amount=1, 2853}}}}, 
+               1 Content={3504 Content={3507 String="homeless jeebus\ncarlin"}, 3502 Content={}}, 
+               6 Content={3504 Content={3582 Amount=3, 3031 Amount=65, 3277 Amount=13, 3507 String="homeless jeebus\nvenore", 3492 Amount=88}, 3502 Content={3504 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3463, 3507 String="homeless jeebus\nvenore"}}}}

@@ -1,0 +1,59 @@
+ID              = 8469392
+Name            = "Lord Daimos"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-87-0-87)
+CurrentOutfit   = (134,0-87-0-87)
+LastLogin       = 1148231107
+LastLogout      = 1148239044
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32912,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,61,0,1,0,0,0,0,0,0,1,3429183,0,3605100,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,616604,3000,1748800,1600)
+Skill = (2,980,980,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,179,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,130,130,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1795,1795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,77,0,10,0,0,0,0,0,0,0,600459,1100,651683,100)
+Skill = (7,13,0,10,0,0,0,0,1,1,0,189,1400,213,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,419,1100,474,50)
+Skill = (9,80,0,10,0,0,0,0,0,0,0,411830,1100,433860,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,91,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1482,1100,1590,20)
+Skill = (14,0,1200,0,0,0,391,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,81}
+QuestValues = {(18,1),(27,1),(32,1),(33,1),(34,1),(37,1),(46,1),(54,1),(61,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(129,1),(130,1),(131,1),(133,1),(151,1),(152,1),(153,1),(190,1),(191,1),(217,3),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3392},
+               2 Content={3057},
+               3 Content={2868 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3330, 3003, 3457, 2868, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3386},
+               5 Content={3414},
+               6 Content={3324},
+               7 Content={3382},
+               8 Content={3079},
+               9 Content={3004}}
+
+Depots      = {0 Content={3502 Content={2868, 2865, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854}, 2472}}, 
+               1 Content={3502 Content={2868, 2867, 2868, 2834 String="                      Daimosie !!!\n\nKupilem te choinke, aby bylo bardziej swiatecznie.\n\n                                      Rafmex" Editor="Rafmex", 2815 String="Skrzynka Rafmex'a\n" Editor="Elrisa Aidara", 2815 String="Skrzynia Worriora Maximusa" Editor="Elrisa Aidara", 2815 String="Skrzynia Wlasnosc!!\n Lord Daimos,Dark Rift,Arogo,Millennium Soldier, DOTYKANIE  GROZI DEDEM!!!!!" Editor="Elgar Zahn"}}, 
+               2 Content={3502 Content={3504 Content={2854, 2868, 2865, 3507 String="Lord Daimos\nKazordoon\n" Editor="Lord Daimos"}}}, 
+               3 Content={3304, 2854 Content={3059, 3457, 2969 KeyNumber=3033}, 3504 Content={3507 String="Lord Daimos\nAb'Dendriel\n" Editor="Kicia zanery", 2815 String="to moje pasy 429052 zbuuvked                  Kicia ;*" Editor="Kicia zanery"}, 2871 Content={3410, 3316, 3269, 3279, 3283, 3384, 3266, 3295, 3279, 3266, 3275, 3076, 3283, 3275, 3287 Amount=1, 3351, 3351}, 2868 Content={3093 SavedExpireTime=521, 3093, 3093, 3093, 3093, 3093 SavedExpireTime=1797, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 2867 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3349, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3502 Content={2473 Content={2977, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3481, 3735 Amount=1, 3736 Amount=3, 3740 Amount=1, 2826 String="Tales of Tibia"}, 2868 Content={3085 RemainingUses=200, 2989, 3078, 3056 RemainingUses=200, 3083 RemainingUses=150, 2868 Content={2865 Content={2991, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=200, 3082 RemainingUses=50, 3082 RemainingUses=50, 3082 RemainingUses=50, 3082 RemainingUses=50, 3085 RemainingUses=186, 3085 RemainingUses=200, 3085 RemainingUses=200, 3082 RemainingUses=50, 3738 Amount=3, 3061, 3078, 3055, 3061, 3037}, 3012, 3054 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=155, 3084 RemainingUses=250, 3077, 3084 RemainingUses=250, 3077, 3077, 3077, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3083 RemainingUses=150, 3045 RemainingUses=135, 3083 RemainingUses=150, 3083 RemainingUses=150}, 3045 RemainingUses=200, 3045 RemainingUses=200, 3054 RemainingUses=200, 3083 RemainingUses=150, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250, 3077, 3077, 3056 RemainingUses=200, 3012, 3012, 3008}, 2854 Content={2865 Content={2865 Content={2865 Content={2857 Content={3286, 3275}, 2857, 2857, 2865 Content={2857}}, 2868 Content={2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}, 2854 Content={2854 Content={2854, 2854}, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={2854 Content={2865}}, 2854, 2854 Content={3003, 3003, 2854 Content={2854 Content={3147}}}, 2854 Content={3003}, 2854, 2854}, 2870 Content={2870, 2870, 2870 Content={3147, 3147}, 2870, 2870}, 2867 Content={2854, 2854, 2854 Content={2874, 2874}}}}}, 2480 Content={2870 Content={2969 KeyNumber=5010, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2970 KeyNumber=4601, 2969 KeyNumber=3033, 2970 KeyNumber=3303, 2969 KeyNumber=5000, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2969 KeyNumber=4600, 2973 KeyNumber=3520}, 2865 Content={2969 KeyNumber=3302, 2970 KeyNumber=3142, 2970 KeyNumber=3899, 2970 KeyNumber=3301, 2969 KeyNumber=4600, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2970 KeyNumber=3303, 2970 KeyNumber=4503, 2968 KeyNumber=3940, 2969 KeyNumber=4055, 2970 KeyNumber=4601, 2973 KeyNumber=3520, 2969 KeyNumber=5000}}, 2866 Content={2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3097, 3097 SavedExpireTime=1863, 3097 SavedExpireTime=3442, 3092, 3092, 3092, 3092, 3092, 3050 SavedExpireTime=1790, 3050, 3050}}}, 
+               4 Content={3502 Content={2853}}, 
+               6 Content={3447 Amount=19, 2869, 2869, 3031 Amount=100, 3031 Amount=100, 3031 Amount=53, 3350, 3350, 3350, 3350, 3350, 2870 Content={3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285}, 3061, 3073, 3449 Amount=10, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=36, 3031 Amount=100, 3031 Amount=100, 3503 Content={3286, 3286, 3286, 3359, 3507}, 2920, 2920, 2920, 2920, 3502}, 
+               8 Content={3502}}

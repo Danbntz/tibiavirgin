@@ -1,0 +1,56 @@
+ID              = 7951847
+Name            = "Pit For'ever"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (130,0-42-65-72)
+CurrentOutfit   = (130,0-42-65-72)
+LastLogin       = 1148153635
+LastLogout      = 1148153725
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32233,8]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,578576,0,601800,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,224985,1400,313485,1600)
+Skill = (2,445,445,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,391,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,990,990,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35466,1100,36404,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,78304,1100,82740,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,484,1200,496,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1569,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,480,1100,490,20)
+Skill = (14,0,1200,0,0,0,744,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,4,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,20,29,42,51}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(23,1),(59,1),(88,1),(89,1),(90,1),(91,1),(92,1),(106,1),(107,1),(145,1),(146,1),(147,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2854 Content={3413, 3425, 3031 Amount=73, 3031 Amount=100, 3447 Amount=23, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3003, 3198 Charges=4, 3198 Charges=5, 2853 Content={3447 Amount=100, 3164 Charges=1, 3164 Charges=1, 3189 Charges=1, 3578 Amount=2, 3483, 3457, 3492 Amount=24}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3357},
+               5 Content={3350},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={3447 Amount=96}}
+
+Depots      = {0 Content={2469 Content={2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3003, 2854 Content={3446 Amount=100, 3377, 2854, 3003, 3031 Amount=57, 3446 Amount=41, 3031 Amount=100, 2867 Content={2854}, 2854 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2780, 2854 Content={3449 Amount=30, 3448 Amount=60, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2854}}, 2869 Content={2869}, 3504 Content={3506 String="pit for'ever\nthais\n\n\n='(\n\nWe!!\n\nNo mms, el puto lvl 30 se me niega!! estaba a tan solo 13k de conseguirlo, cuando me mato un cyclop!! \n\nOtra ves me bajaron skills y un pokillo de ml! creo k tibia no es justo pa mi!!\n\n='(\n\nPq no te conectas??", 3506 String="Pit For'Ever\nThais\n\n\nWe pq ya no te conectas?? jejeje\nBueno nomas te mando esta carta pa decirte k me retiro voy a star entrando pero solo un poko!! jajaja\nDebido a las malas calificaciones en la school!!\nWeno we.. a ver cuando hablamos!!\n\nBye\n\n\nAtte.\n           Savior de maza", 3147, 3358, 3507 String="pit for'ever\nthais\n"}, 2854 Content={3446 Amount=15, 3447 Amount=100, 3447 Amount=100, 3349, 3349, 3446 Amount=100, 3446 Amount=100}, 2867 Content={3349, 3447 Amount=40, 2853, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3504 Content={3377, 3003, 3457, 3483, 3003, 3410, 3003, 3483, 3277 Amount=63}, 2854 Content={3384, 3384, 3384, 3384, 3384, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 3504 Content={2853, 3504 Content={2853, 2853 Content={2969 KeyNumber=3033, 1781 Amount=4}}}, 3502 Content={2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 3076, 3082 RemainingUses=50, 2854, 2853 Content={2853 Content={3578 Amount=39, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3582 Amount=26, 3582 Amount=100, 3582 Amount=100, 3582 Amount=100}}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={2970 KeyNumber=3801, 2970 KeyNumber=3800, 3446 Amount=16}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

@@ -1,0 +1,55 @@
+ID              = 13488554
+Name            = "Farmercio"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,78-78-78-77)
+CurrentOutfit   = (128,78-78-78-77)
+LastLogin       = 1147800926
+LastLogout      = 1147800948
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32682,31686,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,40805,0,47000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,35731,1100,39236,1600)
+Skill = (2,104,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,115,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7643,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,165,1800,302,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,54,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,49,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,784,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,162,1100,189,20)
+Skill = (14,0,1200,0,0,0,36,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,1,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,10,12,25,26,29,42,44}
+QuestValues = {(17,1),(20,1),(27,1),(35,1),(37,1),(106,1),(107,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3084 RemainingUses=109},
+               3 Content={2870 Content={3457, 3585 Amount=2, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3152 Charges=1, 3152 Charges=1, 3577 Amount=3, 3607, 3003}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3070},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="Farmercio\nThais\n" Editor="Farmercio"}, 3504 Content={3507 String="Farmercio \nThais" Editor="Farmercio", 3375, 3375, 3375, 3375, 3375, 3457, 3723 Amount=11, 3505, 3505}, 3502 Content={3457, 3003, 3065, 2854 Content={3031 Amount=46, 3031 Amount=100, 3031 Amount=100, 3031 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={3578 Amount=4, 3593, 3593, 3593, 3588 Amount=15, 3582 Amount=60, 3588 Amount=100, 3600 Amount=21, 3592, 3590 Amount=12, 3585 Amount=14, 3577 Amount=61, 3597 Amount=6}, 2854 Content={3384, 3421, 3350, 3448 Amount=2, 3377, 3074, 3375, 3413, 3283, 3413, 3375, 3377, 3446 Amount=6, 3316, 3377, 3283}, 2854 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=2, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2853 Content={2854, 2854, 2854, 2854}, 2667, 3003, 3503 Content={3507 String="tiret\nthais" Editor="Tiret"}, 3505 String="Aiyana Juarias is the most evil person ever shei nasty and a power abuser killed me for nothing \n" Editor="Mystical Princess Knight", 3059, 3503}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3504 Content={2853 Content={3285, 3456, 3056 RemainingUses=197, 3003, 3577 Amount=13, 2917 SavedExpireTime=2353}, 3504 Content={2974, 3358, 3367, 3504 Content={3483, 3059, 3308}, 2473, 2854 Content={2473 Content={3410}, 2473 Content={2393, 2659, 2906, 2955, 2911 SavedExpireTime=2988, 2952, 2949}, 2473 Content={2854, 2854}, 2857 Content={2917 SavedExpireTime=801, 2973 KeyNumber=3520, 2914 SavedExpireTime=1525}, 2854 Content={3350, 3349}, 2874, 2874}, 3507 String="hiszpanin\nthais" Editor="Gorzalka"}, 3563, 3504 Content={2854 Content={3074, 2854 Content={3031 Amount=100, 3031 Amount=65, 3031 Amount=100}, 3059, 3147, 3147}, 3350, 3409, 3384, 3507 String="hiszpanin\nthais" Editor="Tramer niszczyciel"}, 2854 Content={2874, 3457, 3031 Amount=6, 3003, 3050 SavedExpireTime=1770, 3050 SavedExpireTime=1797}, 3377, 3552, 3441, 3285, 3377}}}, 
+               6 Content={3502 Content={2854 Content={3031 Amount=26, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}}

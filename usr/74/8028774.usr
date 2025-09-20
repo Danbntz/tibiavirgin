@@ -1,0 +1,60 @@
+ID              = 8028774
+Name            = "Gordini"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,1-114-114-114)
+CurrentOutfit   = (134,1-114-114-114)
+LastLogin       = 1146955663
+LastLogout      = 1146955671
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32233,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,143710,0,156200,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,155360,1400,157982,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,179,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,18683,1100,20113,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,30764,1100,31715,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,213,1200,268,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,57,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1882,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6797,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,29,42,51,76,79}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(28,1),(30,1),(32,1),(33,1),(34,1),(35,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={3008, 3457, 3349}},
+               4 Content={3377},
+               5 Content={3277 Amount=9},
+               6 Content={3410},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3446 Amount=14}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2868 Content={2868 Content={2868 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3507 String="gordini\nthais"}, 3502 Content={3031 Amount=81}}, 
+               1 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=2, 3198 Charges=3, 3198 Charges=5, 3198 Charges=1, 3198 Charges=2, 3198 Charges=5}, 3483, 3503 Content={3349, 3349, 3505 String="o fdp, ó vai faze alguma coisa anima\nsamo royal agora...\nvai pega lvl ou treina", 3507 String=""}, 2472 Content={2854 Content={2854 Content={}}, 2868 Content={3349, 3349, 2853 Content={3377, 3377, 3377}, 3425, 3349, 3349, 3349, 3349, 3349}, 2869 Content={3191 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3050 SavedExpireTime=0, 2869 Content={3447 Amount=40, 3447 Amount=100, 3350, 3350}, 3277 Amount=12}, 2473 Content={2853 Content={3003, 3003, 3003}, 2857 Content={3084 RemainingUses=250, 3083 RemainingUses=63, 3046 SavedExpireTime=0, 3077}}, 2471 Content={3577 Amount=4}, 3502 Content={3031 Amount=40}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2853 Content={3375}, 3300, 3502 Content={3031 Amount=11}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3003, 2869 Content={}, 3446 Amount=42, 3054 RemainingUses=114, 3012, 3097 SavedExpireTime=3589, 3457, 3502 Content={3031 Amount=7, 3027 Amount=2, 3026 Amount=1, 3031 Amount=100, 3031 Amount=100}}, 
+               7 Content={3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1650 gold\nfor your house \"Thanah II g\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Thanah II g\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3031 Amount=50, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3352, 3358}, 3502 Content={3035 Amount=3, 3377, 3377, 3377, 3046 SavedExpireTime=0, 3377, 3483}}}

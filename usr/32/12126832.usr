@@ -1,0 +1,59 @@
+ID              = 12126832
+Name            = "Gloriia"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (142,2-114-132-114)
+CurrentOutfit   = (142,2-114-132-114)
+LastLogin       = 1147486198
+LastLogout      = 1147486780
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33213,32451,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,135458,0,156200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,50467,3000,64000,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,47,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,44552,1100,48785,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,3,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,76,1100,105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (10,52,0,10,0,0,0,0,0,0,0,27946,1100,29620,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,16,1100,20,20)
+Skill = (14,0,1200,0,0,0,248,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(96,1),(97,1),(98,1),(99,1),(190,1),(191,1),(223,1),(224,1)}
+Murders     = {1147126815,1147126905}
+
+Inventory   = {1 Content={3369},
+               2 Content={3085 RemainingUses=200},
+               3 Content={2871 Content={3457, 3582 Amount=9, 3031 Amount=65, 3031 Amount=100, 3152 Charges=1, 3152 Charges=1}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3003, 3454, 3466, 3411, 3502}, 
+               2 Content={2853, 3003, 3264, 2922 SavedExpireTime=97, 3504 Content={3425, 3425, 3358, 3358, 3358, 3507 String="gloriia\nkazordoon" Editor="Derick Croin"}, 3075, 3031 Amount=49, 3031 Amount=100, 3446 Amount=20, 3031 Amount=100, 3502 Content={3293, 3293, 3430, 2920}}, 
+               3 Content={3268, 3502 Content={3504 Content={3507 String="gloriia\nab'dendriel" Editor="Sir kimos"}}}, 
+               4 Content={3504 Content={3507 String="gloriia\nedron" Editor="Sir kimos"}, 3504 Content={3507 String="gloriia\nedron" Editor="Reik Temus"}, 3504 Content={3507 String="gloriia\nedron" Editor="Sir kimos"}, 3502}, 
+               5 Content={3276, 3372, 2853 Content={2853, 2853 Content={3483, 2853 Content={2853 Content={2853 Content={2853 Content={3483}, 3483}}}, 2853}}, 3308, 2853 Content={3504 Content={3318, 3323, 3349, 3322, 3279}}, 3502 Content={3035 Amount=25}}, 
+               6 Content={3578 Amount=8, 3276, 3293, 3003, 3457, 3504 Content={3507 String="gloriia\nvenore" Editor="Temus Sensay"}, 3504 Content={3375, 3507 String="gloriia\nvenore" Editor="Temus Sensay"}, 3003, 3504 Content={3362, 3430, 3367, 3507 String="gloriia\nvenore" Editor="Sir kimos"}, 3504 Content={3456, 3456, 3504 Content={2853, 3507 String="Nullz\nVenore" Editor="Nullz"}, 3114 Amount=11}, 3504 Content={3012, 2874, 2973 KeyNumber=3520, 3292, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3283, 2981, 3330}, 3502}, 
+               7 Content={2854 Content={3045 RemainingUses=198, 2969 KeyNumber=3033}, 3291, 3412, 2667, 2867, 3276, 3033 Amount=1, 3003, 3502 Content={3031 Amount=60}}}

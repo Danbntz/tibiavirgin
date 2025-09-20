@@ -1,0 +1,60 @@
+ID              = 12963139
+Name            = "Dragon of Paladino"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,39-118-108-118)
+CurrentOutfit   = (134,39-118-108-118)
+LastLogin       = 1148255134
+LastLogout      = 1148255162
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,144528,0,156200,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,105335,1400,111701,1600)
+Skill = (2,318,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,7,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,34585,1100,36404,100)
+Skill = (7,54,0,10,0,0,0,0,0,0,0,19681,1100,21567,30)
+Skill = (8,32,0,10,0,0,0,0,0,0,0,15021,1200,16311,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,1431,1200,1607,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1224,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,324,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,10,15,20,29,42,44,48,51,79}
+QuestValues = {(125,1),(126,1),(190,1),(191,1)}
+Murders     = {1146969521,1146969559}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3350, 3003, 2857 Content={3098 SavedExpireTime=217, 3046, 3046, 3077}, 3031 Amount=1, 3457}},
+               4 Content={3370},
+               5 Content={3277 Amount=2},
+               6 Content={3418},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3447 Amount=2}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2854 Content={3045 RemainingUses=200, 3074, 3003}, 2867 Content={3300, 3056 RemainingUses=200, 3059, 3457}, 2854 Content={3350, 2854 Content={3572, 3572, 3572, 3572, 3572, 3572}}}}, 
+               3 Content={3504 Content={3507 String="dragon of paladino\nab'dendriel\n" Editor="Dragon of Legendary"}, 3502}, 
+               4 Content={3502 Content={3384, 2868 Content={3447 Amount=1, 3031 Amount=55}, 3031 Amount=100, 3031 Amount=50, 3307, 3492 Amount=2}}, 
+               5 Content={3446 Amount=5, 3349, 3502 Content={2854 Content={3483, 3492 Amount=45, 3457, 3509, 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 2815}, 2853 Content={3056 RemainingUses=200, 2906, 2950}, 2869 Content={3551}}}, 
+               6 Content={3502}, 
+               8 Content={3504 Content={3507 String="dragon of paladino\nport hope" Editor="Dragon of Legendary"}, 3277 Amount=4, 3502 Content={3327}}}

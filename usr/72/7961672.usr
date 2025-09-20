@@ -1,0 +1,52 @@
+ID              = 7961672
+Name            = "Fjola Druid"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (128,120-120-120-76)
+CurrentOutfit   = (128,120-120-120-76)
+LastLogin       = 1147271128
+LastLogout      = 1147271145
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32218,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,87217,0,98800,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,207040,1100,214735,1600)
+Skill = (2,167,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,268,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,5865,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,28,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,10353,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,46,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3046,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,6,9,10,17,20,29,30,39,42,44,45,76,84,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(31,1),(32,1),(33,1),(34,1),(35,1),(59,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {6 Content={3411}}
+
+Depots      = {0 Content={3054 RemainingUses=177, 3374, 3357, 3559, 3311, 2872 Content={3552, 3483, 3374, 3003, 3031 Amount=22, 2874, 2874}, 2873, 2853, 3502}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2854 Content={3578 Amount=16, 3031 Amount=15, 3446 Amount=81, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3504 Content={3582 Amount=18, 3578 Amount=100, 3578 Amount=100, 3507 String="Evand Sath\nEdron", 3578 Amount=100}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3279, 2471 Content={3504 Content={3504 Content={3504 Content={3507 String="Xerox-For'ever\nedron"}, 3504 Content={3507 String="Akhesa Zatarnika\nEdron"}, 3504 Content={3507 String="Angel Zerko\nedron\n\n"}, 3504 Content={3507 String="Angel Zerko\nedron"}, 3504 Content={3507 String="angel zerko\nedron"}}, 3504 Content={3507 String="Fjola Druid\nEdron"}, 3507 String="Fjola Druid\nEdron"}, 3504 Content={3507 String="loltor\nedron"}, 3504 Content={}, 3504 Content={3507 String="Wizard Imperator\nedron"}, 3504 Content={3507 String="Sal De'Cap\nEdron"}, 3504 Content={3507 String="Sal De'Cap\nEdron"}, 3504 Content={3507 String="petoz\nedron\n"}, 3504 Content={3507 String="Shadow Spinal\nedron"}, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="wizard imperator\nedron"}, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="fjola druid\nedron"}, 3503 Content={3507 String="fjola druid\nedron"}}, 2471 Content={3504 Content={}, 3504 Content={3507 String="mephistroth warrior\nedron"}, 3504 Content={3507 String="darko valiant\nedron"}, 3504 Content={3507 String="Sir Narutin\nedron"}, 3504 Content={3507 String="Tnox the enemy\nEdron\n"}, 3504 Content={}, 3504 Content={3507 String="Evull Auros\nEdron"}, 3504 Content={3507 String="Soul lexe\nEdron"}, 3504 Content={3507 String="Nemecio\nEdron"}, 3504 Content={3507 String="Arcadium\nEdron"}, 3504 Content={3507 String="nemecio\nedron\n"}, 3504 Content={3446 Amount=3}, 3504 Content={3507 String="loltor\nedron"}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}, 2868 Content={3031 Amount=40, 3155 Charges=1, 3180 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147}}, 3504 Content={2854 Content={}, 2868 Content={}, 2865 Content={3180 Charges=3, 3180 Charges=2, 3148 Charges=1, 3148 Charges=3}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3507 String="Fjola Druid\nEdron"}, 3035 Amount=15, 3448 Amount=7, 3350, 3504 Content={2871 Content={2854 Content={3483, 3483, 3031 Amount=7}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3097 SavedExpireTime=0, 3148 Charges=3, 3148 Charges=3, 3180 Charges=4, 3180 Charges=4, 3180 Charges=4}}, 3507 String="Fjola Druid\nEdron"}, 2853 Content={2853 Content={3286, 2853 Content={2853 Content={3286, 3264, 3286, 3286, 3264}, 3286, 3264, 3286, 3286, 3264, 3264, 3286}, 3264, 3264, 3264, 3286, 3264, 3264}}, 2853 Content={3084 RemainingUses=250, 3059 String="", 2973 KeyNumber=3520, 3003, 3582 Amount=9}, 2853 Content={3507 String="te dejo food departe de pi carmelo :D  yo no soy culero XD\n", 2853 Content={}}, 3003, 3457, 3457, 2857 Content={3098 SavedExpireTime=58, 3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}, 3457, 3083 RemainingUses=150, 2924 SavedExpireTime=252, 2874 ContainerLiquidType=9, 2992 Amount=4, 3502 Content={3297, 2866 Content={}, 2857 Content={}, 3504 Content={3507 String="Fjola Druid\nEdron"}, 2853 Content={2853 Content={2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=3, 3198 Charges=5}}}, 3054 RemainingUses=200, 3317}}, 
+               5 Content={2853 Content={3358, 3286, 3410, 3410, 3354, 2853 Content={2853 Content={3410, 3286, 3410, 2853 Content={3410, 3410, 3410, 3264, 3264, 3410, 3264, 3410}, 3286, 3264, 3358, 3286}, 3286, 3358, 3410, 3286, 3286, 3358, 3410}, 3358, 3410}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=32, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="fjola druid\nvenore"}, 3502 Content={}}, 
+               7 Content={3502 Content={}}}

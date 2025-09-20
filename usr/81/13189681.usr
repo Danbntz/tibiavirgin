@@ -1,0 +1,55 @@
+ID              = 13189681
+Name            = "Pepe el toro"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-115-115-114)
+CurrentOutfit   = (128,0-115-115-114)
+LastLogin       = 1147637560
+LastLogout      = 1147639316
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32324,32053,6]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,208228,0,232500,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,158616,1100,174690,1600)
+Skill = (2,198,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,508,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,23434,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1108,2000,1550,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,56,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,436,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3853,1100,4022,20)
+Skill = (14,0,1200,0,0,0,907,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,76,100,0,0,0,1,0,11,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,15,16,19,27,29,38,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(55,1),(59,1),(98,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(208,1),(253,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2870 Content={2854, 3075, 3012, 3483, 3031 Amount=97, 3031 Amount=100, 3003, 2854 Content={2874, 2874, 2874}, 2854 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3578 Amount=1}}
+
+Depots      = {0 Content={3577 Amount=1, 3059, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3074, 3578 Amount=96, 2853 Content={2853, 3097 SavedExpireTime=3567, 3093, 3093, 2969 KeyNumber=3600, 3287 Amount=1, 3083 RemainingUses=150, 3083 RemainingUses=150}, 3350, 3533 Amount=1, 3535, 3059, 3446 Amount=13, 3349, 3504 Content={3507 String="pepe el toro\nthais" Editor="Soul of Enrak"}, 3502 Content={3012, 3504 Content={3504 Content={3504 Content={3507 String="pepe el toro\nthais" Editor="Rubrah"}, 3504 Content={3507 String="pepe el toro\nthais" Editor="Rubrah"}, 3483, 3457, 3507 String="pepe el toro\nthais" Editor="Freman Chokoroles"}, 3504 Content={3507 String="pepe el toro\nthais" Editor="Freman Chokoroles", 3504 Content={3446 Amount=22, 2853 Content={3283, 3316}, 3507 String="pepe el toro\nthais" Editor="Freman Chokoroles"}, 3504 Content={3349, 3349, 3012, 3507 String="pepe el toro\nthais" Editor="Freman Chokoroles"}, 3504 Content={2969 KeyNumber=5010, 3012, 3008, 3056 RemainingUses=200}, 3504 Content={3085 RemainingUses=168, 3507 String="pepe el toro\nthais" Editor="Riky el luchador"}, 3071, 3077, 3084 RemainingUses=250}, 3507 String="pepe el toro\nthais" Editor="Crystal Doll"}, 3283, 3507 String="pepe el toro\nthais" Editor="Pajarito nalgon", 3003, 3457}}, 
+               2 Content={3502 Content={2854}}, 
+               3 Content={3502 Content={3552}}}

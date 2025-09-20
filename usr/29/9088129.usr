@@ -1,0 +1,59 @@
+ID              = 9088129
+Name            = "Yunos Wover"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,59-77-0-76)
+CurrentOutfit   = (134,59-77-0-76)
+LastLogin       = 1148254157
+LastLogout      = 1148254345
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33211,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,670757,0,717600,100)
+Skill = (1,47,0,0,0,0,0,0,0,0,0,1397405,1100,1536275,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,875,875,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,85352,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,46488,2000,51150,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,951,2000,1550,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,171,2000,350,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,223,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,15679,1100,15835,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,15,16,17,18,19,20,21,23,25,26,27,28,29,30,38,39,44,45,50,55,76,83,87,88,89}
+QuestValues = {(18,1),(19,1),(20,1),(55,1),(59,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3013},
+               3 Content={2866 Content={3358, 3358, 3359, 3071, 3457, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}},
+               4 Content={3567},
+               5 Content={3434},
+               6 Content={3073},
+               7 Content={3557},
+               9 Content={3007}}
+
+Depots      = {0 Content={3273, 3502}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={}}, 
+               4 Content={2854, 2854 Content={3447 Amount=23, 3447 Amount=100, 3446 Amount=13, 3446 Amount=100, 3446 Amount=100}, 2855 Content={3035 Amount=7, 3031 Amount=95}, 2853 Content={3350, 3285, 3352, 3411, 3411, 3327, 3327}, 2472 Content={3492 Amount=10, 2920, 2922 SavedExpireTime=103, 3453}, 2855 Content={2853 Content={2920, 2920, 2920 SavedExpireTime=592, 2920}, 2855 Content={2855 Content={2855 Content={3603 Amount=5}, 2855, 2855, 2855 Content={2855, 2855, 2855, 2855, 2855}, 2855 Content={2855 Content={2855}}}}}, 2472 Content={2473 Content={3451, 2473 Content={2473 Content={2471 Content={2471}, 2473 Content={2911, 2911 SavedExpireTime=2998}, 2473}, 2869 Content={3308, 3354, 3457, 3377, 3377}}, 2854 Content={3279, 3354, 3377, 3377, 3377, 3289, 3289, 3377, 3377, 3114 Amount=27, 3375, 3375}}}, 3502 Content={2471 Content={3736 Amount=1, 3735 Amount=1, 3658}, 2471 Content={2920, 2920, 2920 SavedExpireTime=596, 2920, 2920}, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920}}}, 
+               5 Content={2839 String="yunos is currently hunting here\nim protected by morn yamir,reflection spinal, \nmessage me " Editor="Yunos Wover", 3504 Content={2854 Content={2854}, 3504 Content={3031 Amount=46, 3507 String="yunos wover \nedron" Editor="Yunos Wover", 3457, 3031 Amount=100, 3031 Amount=100, 3578 Amount=2, 3582 Amount=11, 3577 Amount=16}, 3507 String="yunos wover\ndarashia" Editor="Yunos Wover"}, 3008, 3504 Content={2854 Content={2854 Content={3003, 3003, 3457, 3457, 3492 Amount=17, 3350, 3447 Amount=26, 3358, 2854, 3350, 3003, 3377, 2914 SavedExpireTime=1993, 3492 Amount=6, 3483, 3483, 3483, 3059}, 3373, 3372, 3413, 3377}, 3507 String="yunos wover\ndarashia" Editor="Preston Bolter"}, 2866 Content={2866 Content={2866 Content={2866, 2866, 2866}}, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866, 2866}, 3503 Content={3503 Content={3507, 3507, 3507, 3507 String="yunos wover\ndarashia" Editor="Yunos Wover", 3413, 3503, 3503}}, 2869 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=87}, 2869 Content={3003, 3003, 2992 Amount=4, 3054 RemainingUses=58, 3483, 3286, 3413, 3358, 3557, 2853 Content={3286, 2922 SavedExpireTime=194, 3354, 3367, 3367}, 3271, 3349, 3297, 2469 Content={2659, 2656, 2656, 2656, 2656, 2656, 2659, 3421}, 3066, 3457, 3457, 3003}, 2856 Content={3282, 3574, 3082 RemainingUses=50, 3066, 2858 Content={3483, 3661, 3056 RemainingUses=200, 2869 Content={3457, 3457, 3050, 3050, 3050, 3050, 3097 SavedExpireTime=3180, 3092, 3093, 3097, 3092 SavedExpireTime=1420}, 3059}}, 2866 Content={3593, 3593, 3593}, 2859 Content={3198 Charges=2, 3503 Content={3457, 3507}, 2871 Content={3483, 2874, 2874, 2874, 2874, 2874, 2874}}, 2866 Content={3198 Charges=5, 3147, 3147, 3147, 3147}, 3502 Content={2854 Content={3003, 3457, 3505 String="yunos wover hunts larva\nrespect\nprotected by \nmorn yamir and lando vaquero" Editor="Reflection'Spinal", 3052 SavedExpireTime=173, 3017, 3017, 3416, 3280, 3044 Amount=1}, 2871 Content={3449 Amount=15, 2854 Content={2868 Content={3045 RemainingUses=200, 3349, 3349, 3558, 3056 RemainingUses=200, 3148 Charges=1, 3148 Charges=3, 3200 Charges=3, 3180 Charges=1, 3172 Charges=2, 3164 Charges=2, 3190 Charges=2, 3192 Charges=2, 3192 Charges=1, 3191 Charges=2}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2861 Content={3049 SavedExpireTime=597, 3084 RemainingUses=250, 3446 Amount=39, 3446 Amount=100, 3446 Amount=100, 3447 Amount=81}, 3003, 3153 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3003, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2871, 2856 Content={3072}, 3502 Content={3031 Amount=91, 3582 Amount=5, 3577 Amount=6}}}

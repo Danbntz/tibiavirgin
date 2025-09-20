@@ -1,0 +1,52 @@
+ID              = 8084965
+Name            = "Popo'kix"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (142,114-114-114-114)
+CurrentOutfit   = (142,114-114-114-114)
+LastLogin       = 1146325243
+LastLogout      = 1146325254
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31779,6]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,94523,0,98800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,45705,1400,55031,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,65,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6084,1100,6400,100)
+Skill = (7,50,0,10,0,0,0,0,0,0,0,14053,1100,14635,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,100,1200,109,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,254,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1747,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,20,29,30,42,44,51,76}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(31,1),(46,1),(54,1),(61,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3378}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3456, 3502}, 
+               2 Content={2853 Content={2853 Content={3266, 3266}, 2853 Content={2853 Content={3358, 3358, 3358, 3358}, 3358}, 2853 Content={3349, 3349, 3349, 3349, 3349}}, 3502 Content={}}, 
+               3 Content={3504 Content={3507 String="popo'kix\nab'dendriel"}, 3502 Content={}}, 
+               4 Content={3413, 3504 Content={3507 String="popo'kix\nedron"}, 3502 Content={}}, 
+               5 Content={2853 Content={2853 Content={3578 Amount=100, 3578 Amount=100}}, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3031 Amount=40, 2871 Content={3505 String="", 3578 Amount=67}, 3504 Content={3285, 3507 String="popo'kix\nankrahmun"}, 2853 Content={3299, 3017, 3027 Amount=2, 3007, 3299, 3046 SavedExpireTime=0, 2853 Content={3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3017, 3299, 3046 SavedExpireTime=0, 3017, 3052 SavedExpireTime=0, 3046 SavedExpireTime=0}, 3046 SavedExpireTime=0}, 3502 Content={3035 Amount=8, 3017, 3447 Amount=100, 3447 Amount=100, 3446 Amount=14, 3349, 3578 Amount=100}}}

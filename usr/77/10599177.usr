@@ -1,0 +1,58 @@
+ID              = 10599177
+Name            = "Keigofa"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,0-94-88-128)
+CurrentOutfit   = (133,0-94-88-128)
+LastLogin       = 1148251346
+LastLogout      = 1148251931
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,176500,0,179400,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,148420,1100,157355,1600)
+Skill = (2,222,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,155,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22643,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,22,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,4520,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,124,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,195,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,90,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,7,8,10,11,15,16,19,26,39,44,81,87}
+QuestValues = {(18,1),(46,1),(99,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2868 Content={3031 Amount=1, 2920 SavedExpireTime=524, 3308, 3483, 2920, 3003, 3492 Amount=30, 3457}},
+               4 Content={3380},
+               5 Content={3075},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3597 Amount=2}}
+
+Depots      = {1 Content={3031 Amount=12, 3377, 3074, 2868 Content={2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 3287 Amount=1, 3045 RemainingUses=200, 3097 SavedExpireTime=3595, 3084 RemainingUses=250, 3035 Amount=24, 2853 Content={3375}, 3446 Amount=1, 2853 Content={3577 Amount=3, 3578 Amount=5}, 3447 Amount=9, 3502 Content={3590 Amount=2, 3012, 3012, 3503 Content={3503}, 3198 Charges=5, 2864, 3172 Charges=3, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3003, 3375}}, 
+               2 Content={3504 Content={3507 String="keigofa\nkazordoon" Editor="Keigofa"}, 3502}, 
+               3 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3035 Amount=4, 3502}, 
+               7 Content={3425, 3003, 3031 Amount=73, 3035 Amount=15, 2868 Content={2869 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}, 2866 Content={3357, 3583 Amount=6, 3301, 3377, 3275, 3275, 3301, 3061, 2871}, 2865 Content={2865}, 2866 Content={2871}, 2870 Content={2871}, 2868 Content={2871, 2853}, 2871, 3330, 3551, 2827 String="The master of the games asked for 'greater challenges'. I cannot help the feeling that the fool is talking about djinns and demons. However, as long as I am chief advisor of the pharaoh this will not happen. If such a creature broke loose in the city, chaos would ensue. It would be a massacre. And I am convinced that certain elements would welcome such a 'misfortune' and even work towards it.", 2824 String="Since the contamination of the water reservoirs became more and more of an issue, Pharaoh Unklath ordered that the position of the right honourable excreminator should be founded. This position was decreed to be considered as honourable as that of the royal astrologer or the pharaoh's animal trainer.", 3598 Amount=2, 3502 Content={3177 Charges=1, 3590 Amount=3, 2801, 2778, 2785, 2653, 2656, 2656, 2653, 2667, 2647, 2667, 2647, 2653, 2647, 2667, 2667, 3447 Amount=10, 3577 Amount=10}}}

@@ -1,0 +1,51 @@
+ID              = 10009240
+Name            = "Dark Tardus"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,125-119-125-119)
+CurrentOutfit   = (129,125-119-125-119)
+LastLogin       = 1147289955
+LastLogout      = 1147290192
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32358,31789,7]
+PlayerkillerEnd = 0
+
+Skill = (0,6,0,1,0,0,0,0,0,0,1,2050,0,2600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,4796,1100,5296,1600)
+Skill = (2,175,175,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,-100,-100,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,75,75,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,450,450,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,1160,1500,1318,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,695,1800,1118,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,214,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,34,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,27,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,65,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,15,25,38,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(35,1),(58,1),(59,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               5 Content={3430},
+               6 Content={3267},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {0 Content={3031 Amount=9, 3286, 3502 Content={}}, 
+               1 Content={3349, 2875 ContainerLiquidType=3, 3114 Amount=8, 3502 Content={2920 SavedExpireTime=570}}, 
+               3 Content={3506 String="Dark Tardus\nAb'dendriel\n\nhola queria saber si si funsionaba", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2920 SavedExpireTime=243, 2920 SavedExpireTime=380, 3457, 2469 Content={3352, 3456}, 2469 Content={2472, 2472, 2482, 2472 Content={2920}}, 3502 Content={3456, 2471 Content={2856 Content={2920, 2920, 2920}, 2815 String="hi-buy spell- nivel de magia-el echizo", 3504 Content={2874, 2874, 2874, 2874, 2874, 2815 String="\n\n\n", 2875, 2885, 3457, 3454}, 3504 Content={3565}, 2875}}}}

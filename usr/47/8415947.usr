@@ -1,0 +1,56 @@
+ID              = 8415947
+Name            = "Pooty"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,94-94-94-94)
+CurrentOutfit   = (134,94-94-94-94)
+LastLogin       = 1148228390
+LastLogout      = 1148228887
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32846,32125,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,79004,0,83400,100)
+Skill = (1,37,0,0,0,0,0,0,0,0,0,556013,1100,582469,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,92,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8164,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,37,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,8601,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,8,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,134,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,52,0,10,0,0,0,0,0,0,0,11055,1100,11848,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,5,8,9,10,12,14,20,29,39,42,44,76,81,84,88}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(59,1),(124,1),(153,1),(190,1),(191,1),(216,1),(253,1)}
+Murders     = {1146186999}
+
+Inventory   = {1 Content={3353},
+               2 Content={3572},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3070},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3504 Content={3507 String="Pooty\nedron\n"}, 3504 Content={3507 String="pooty\nedron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Pooty\nDarashia"}, 3504 Content={3507 String="Pooty\ndarashia"}, 3504 Content={3507 String="Pooty\nDarashia"}, 3504 Content={3507 String="pooty\ndarashia"}, 3502 Content={}}, 
+               6 Content={3457, 3308, 3003, 2853 Content={3083 RemainingUses=150, 3029 Amount=2, 3097}, 3092 SavedExpireTime=1732, 3062, 3377, 2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3577 Amount=1, 2868 Content={3582 Amount=3, 3147, 3046 SavedExpireTime=2654, 3070, 3425, 3066}, 3372, 3504 Content={3271, 3507 String="pooty\nvenore" Editor="Roderic"}, 2853 Content={2859 Content={3083 RemainingUses=150, 3059, 2949}, 2971 KeyNumber=3702, 3085 RemainingUses=200, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 3502}}

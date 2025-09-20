@@ -1,0 +1,53 @@
+ID              = 14465993
+Name            = "Omar sainz"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,0-132-132-132)
+CurrentOutfit   = (128,0-132-132-132)
+LastLogin       = 1148246706
+LastLogout      = 1148253899
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,233410,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,168645,3000,193600,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,110,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,324758,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,70,0,10,0,0,0,0,0,0,0,153242,1100,166964,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,53,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,783,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,19,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,11,20,29}
+QuestValues = {(15,1),(20,1),(21,1),(22,1),(23,1),(96,1),(97,1),(98,1),(121,1)}
+Murders     = {1146844964,1147047634,1147371450}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2867 Content={3031 Amount=18, 3198 Charges=5, 3198 Charges=3, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3291, 3503 Content={3503, 3503}, 3031 Amount=68, 3582 Amount=8, 3457, 3031 Amount=9, 3003, 2867 Content={2854 Content={3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               6 Content={3281},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3419}}
+
+Depots      = {2 Content={3502}, 
+               6 Content={3503, 3031 Amount=100, 3031 Amount=100, 3031 Amount=52, 3031 Amount=100, 3031 Amount=100, 3192 Charges=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2867 Content={2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 2853 Content={3031 Amount=24, 3291, 3031 Amount=1}, 3557, 3404, 3356}, 3031 Amount=1, 3483, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3097, 3585 Amount=1, 3059, 3097, 3056 RemainingUses=200, 3046, 2867 Content={3286, 3308, 3275, 3367, 3367, 3367, 3367, 3075, 3265, 3075, 3275}, 3503 Content={3292, 3084 RemainingUses=250, 2867 Content={2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={2868 Content={3031 Amount=39, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2874, 2874, 2874, 3413, 3092, 3003, 3031 Amount=10, 3031 Amount=100}, 3031 Amount=72, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2867, 2867}, 3035 Amount=9, 3092, 3446 Amount=35, 3503 Content={3503, 3503}, 3503 Content={3503}}, 3070, 3192 Charges=2, 2867 Content={3083 RemainingUses=150, 2971 KeyNumber=3702, 2969 KeyNumber=3033, 2981, 3198 Charges=4, 3054 RemainingUses=61, 2955, 3172 Charges=2, 2867 Content={3446 Amount=84, 3035 Amount=26, 3035 Amount=100}, 3350, 3349, 3349, 3349, 3349, 3349, 3349}, 3349, 3350, 3448 Amount=8, 2992 Amount=5}, 3318, 3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3507 String="omar sainz\nvenore" Editor="Archian"}, 3282, 3291, 3367, 3367, 3367, 3359, 3003, 3469, 3272, 3271, 3264, 3264, 3469, 3502}}

@@ -1,0 +1,59 @@
+ID              = 9259600
+Name            = "Feuer-Druide"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,114-0-0-0)
+CurrentOutfit   = (134,114-0-0-0)
+LastLogin       = 1126322723
+LastLogout      = 1126322744
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,39182,0,47000,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,55360,1100,57519,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,104,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,1170,1500,1318,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,7031,1800,12334,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,25,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,21,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,376,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,16,20,39,42,76}
+QuestValues = {(17,1),(18,1),(35,1),(37,1),(84,1),(85,1),(86,1),(87,1),(106,1),(107,1),(223,1),(224,1),(226,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={2854 Content={3031 Amount=6}},
+               4 Content={3377},
+               5 Content={3421},
+               6 Content={3285},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3502 Content={3410, 3410, 2969 KeyNumber=3033, 3505 String="", 3291, 3291, 2969 KeyNumber=3033, 2853 Content={3378}, 2853 Content={2865 Content={3447 Amount=3, 2906, 3304, 2973 KeyNumber=3520, 2969 KeyNumber=4603, 3308, 3453, 3337, 3300, 3308, 3412, 3412, 3457, 3308, 3268}, 3430}, 2874 ContainerLiquidType=1, 3411, 3411, 3466, 3411, 3083 RemainingUses=150, 3451, 3451, 2969 KeyNumber=5000, 3289, 3504 Content={3504 Content={2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=1, 3504 Content={3504 Content={3507 String="George'Smith\nThais"}, 3504 Content={3507 String="cabales\nthais"}, 3507 String="Lady Gavia\nThais"}, 3507 String="Feuer-Druide\nThais"}, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={}, 3507 String="Feuer-Druide\nThais"}, 3507 String="omeros furade\nthais"}, 3507 String="Feuer-Druide\nThais"}, 3507 String="Dokas\nthais"}}, 3507 String="Omeros Furade\nThais"}, 3507 String="omeros furade\nthais"}, 3507 String="omeros furade\nthais"}}, 3507 String="omeros furade\nthais"}, 3507 String="Omeros Furade\nthais"}}, 3507 String="jib assasin\nthais"}, 3507 String="Vaso de Agua\nThais"}}, 3507 String="druid of da'mage\nthais\n"}, 3507 String="Druid of da'Mage\nthais\n"}}, 3507 String="druid of da'mage\nthais\n"}}, 3507 String="drakesito\nthais"}}, 3507 String="juditcita\nthais"}}}}, 
+               1 Content={3504 Content={3504 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3504 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 3507 String="angel sonic\nvenore"}, 3507 String="angel fawkes\nab'dendriel"}, 3059 String="", 2854 Content={3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411}, 3507 String="Feuer-Druide\nCarlin"}, 3502 Content={2853 Content={}, 2469 Content={}, 3352, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Feuer-Druide\ncarlin"}}}}}}, 3507 String="Rhisus Satori\ncarlin"}, 3507 String="chupame el pito\n"}, 2866 Content={2920 SavedExpireTime=31}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={3374, 3426, 3504 Content={3504 Content={}, 3504 Content={3507 String="arianza\nab'dendriel"}, 3504 Content={}, 3504 Content={3507 String="Barret evilheart\nab'dendriel"}, 3507 String="barret evilheart\nab'dendriel\n"}, 3430, 3456, 2970 KeyNumber=3801}}, 
+               4 Content={3504 Content={3507 String="Feuer-Druide\nEdron"}, 3502 Content={2869 Content={2874 ContainerLiquidType=1, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3}, 2867 Content={3283}, 2868 Content={}, 2866 Content={2866 Content={3457}}, 2854 Content={}, 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={}}, 3507 String="sofokinded\nedron"}}}}}}, 3507 String="Elnius oz\nEdron"}, 3507 String="Santiestebann\nEdron"}}}}, 3507 String="Assasin San\nEdron"}, 3507 String="acratus of predator\nedron"}, 3507 String="elnius oz\nedron"}}}}}}}, 3507 String="Elnius Oz\nEdron"}}}}, 3507 String="elnius oz \nedron\n"}}}}}}}, 3507 String="paxan citizen\nedron"}, 3507 String="crow soul\nedron"}}}}}, 3507 String="Mexite Lupe\nEdron"}, 3507 String="amoth\nedron"}, 3507 String="Reyco\nEdron"}, 3507 String="runeador\nedron"}, 3507 String="auro firam\nedron"}, 3507 String="shadow spinal\nedron"}, 3507 String="runeador\nedron"}, 3507 String="reyco\nedron"}}}, 3507 String="Kaede knightheart\nedron"}}}, 3507 String="Feuer-Druide\nEdron"}, 3507 String="Angel sabrina\nAb'Dendriel"}, 3507 String="lady bet\nAb'Dendriel"}, 3507 String="incal chokobola\nab'dendriel"}, 3507 String="Deathdark\nab'dendriel"}, 3507 String="Rirumo Chan\nEdron"}}}}}}}}}}}}}, 3507 String="Prilde Cler\nEdron"}, 3507 String="Prilde Cler\nedron\n\n"}, 3507 String="Lando Vaquero\nEdron"}}, 3507 String="Sir Chino Maniako\nEdron"}}, 3507 String="Lady susia\nab'dendriel"}, 3507 String="Alesisha Bonita\nEdron"}}}, 3507 String="Nok Pyton\nAB'DENDRIEL"}, 3507 String="Alesisha Bonita\nEdron"}, 3507 String="shadow spinal\nedron"}, 3507 String="Master off Puppets\nab'dendriel"}, 2815 String="we.. yase que la bp de explosions no tiene comparacion con el dolor de tu muerte.. pero siempre ay que sakar algo bueno de una muerte =)... \n                                                ~Sir Fruts~\n\nP.D. \nParcelea 4k a carlin =D", 3507 String="Shadow Spinal\nEdron"}, 3507 String="Alesisha Bonita\nedron"}, 3507 String="Quinto escipion\nedron"}, 3507 String="Sir Chino Maniako\nEdron"}}}}, 3507 String="sir terrorizer\nedron"}, 3507 String="sayrus el tibioso\nedron\n"}, 3507 String="anbu'forces\nedron"}, 3507 String="Galahad Ladwys\nEdron"}, 3507 String="morn yamir\nedron"}, 3507 String="obiguan kenobi\nedron"}, 3507 String="Rilowingo\nedron"}, 3507 String="brodi joe\nedron"}, 3507 String="Rahikar\nEdron"}}, 3507 String="anbu'forces\nedron"}, 3507 String="galahad ladwys\nedron"}, 3507 String="Feuer-Druide\nEdron"}}}, 
+               6 Content={3502 Content={2853 Content={2920 SavedExpireTime=0, 2920 SavedExpireTime=262, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}, 3003, 3504 Content={3504 Content={3504 Content={}, 3507 String="Sheikeer\nvenore"}, 3507 String="angel artik\nvenore"}}}}

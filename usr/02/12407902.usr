@@ -1,0 +1,60 @@
+ID              = 12407902
+Name            = "Sharyztim Mortem"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,38-95-0-114)
+CurrentOutfit   = (134,38-95-0-114)
+LastLogin       = 1148241360
+LastLogout      = 1148259434
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33125,32807,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,549018,0,601800,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,275700,1400,313485,1600)
+Skill = (2,310,445,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,371,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,990,990,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,28335,1100,29912,100)
+Skill = (7,66,0,10,0,0,0,0,0,0,0,66966,1100,68328,30)
+Skill = (8,26,0,10,0,0,0,0,0,0,0,4568,1200,5296,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,1986,1200,2424,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,361,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2892,1100,2972,20)
+Skill = (14,0,1200,0,0,0,1067,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,89,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,20,29,42,44,51,76,79}
+QuestValues = {(25,1),(26,1),(100,1),(106,1),(107,1),(128,1),(190,1),(191,1),(217,3),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={3457, 3507 String="Sharyztim Mortem is hunting here\n\nplz respect and leave\n\nmsg me for more info" Editor="Sharyztim Mortem", 3031 Amount=32, 3577 Amount=5, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3447 Amount=100}}},
+               4 Content={3381},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=15}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Sharyztim Mortem\nCarlin" Editor="Syanx"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3507 String="Sharyztim Mortem\nAb'dendriel" Editor="Sharyztim Mortem", 2472 Content={3457, 3457, 3457, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3122, 3104}, 2865 Content={1781 Amount=4, 2853 Content={1781 Amount=1}}, 3504 Content={3507 String="Sharyztim Mortem\nedron" Editor="Sir Huguet"}}, 3502}, 
+               4 Content={3506 String="Warning!\n\nThe monthly rent of 720 gold\nfor your house \"Castle, 3rd Floor, Flat 07\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 720 gold\nfor your house \"Castle, 3rd Floor, Flat 07\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 720 gold\nfor your house \"Castle, 3rd Floor, Flat 07\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Castle, 3rd Floor, Flat 07\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3504 Content={3507 String="Sharyztim Mortem\ndarashia" Editor="Sharyztim Mortem", 3504 Content={3507 String="Sharyztim Mortem\nAb'dendriel" Editor="Sharyztim Mortem"}}, 3502 Content={3483}}, 
+               6 Content={3504 Content={3276, 3507 String="Sharyztim Mortem\nVenore" Editor="Sir Huguet"}, 3504 Content={3507 String="Sharyztim Mortem\nvenore" Editor="Sharyztim Mortem"}, 3502}, 
+               7 Content={3504 Content={3507 String="Sharyztim Mortem\nAnkrahmun" Editor="Sain Sethala"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Thrarhor I a (Shop)\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}}

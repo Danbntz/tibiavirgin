@@ -1,0 +1,59 @@
+ID              = 7949135
+Name            = "Mighty kilex"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,0-18-114-114)
+CurrentOutfit   = (134,0-18-114-114)
+LastLogin       = 1144688822
+LastLogout      = 1144688851
+StartPosition   = [33217,31814,8]
+CurrentPosition = [32924,32074,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,172675,0,179400,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,227832,1100,237809,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,411,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7573,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,20,2000,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,545,2000,750,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,5241,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,76,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2299,1100,2421,20)
+Skill = (14,0,1200,0,0,0,430,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,9,10,16,18,20,21,39,44,45}
+QuestValues = {(21,1),(22,1),(23,1),(25,1),(26,1),(31,1),(54,1),(86,1),(87,1),(96,1),(97,1),(98,1),(190,1),(191,1),(217,3),(227,5),(228,2),(229,1),(249,1),(250,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2869 Content={2853 Content={2785, 2785, 2785}, 3583 Amount=4}},
+               4 Content={3377},
+               5 Content={3031 Amount=10},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={2853, 3031 Amount=81, 3093, 3446 Amount=84, 3035 Amount=10, 3492 Amount=49, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}, 2853}}}}, 3507 String="Mighty kilex\nthais"}, 3502}, 
+               1 Content={3483, 3035 Amount=1, 3447 Amount=7, 3502}, 
+               2 Content={3504 Content={3507 String="Mighty kilex\nkazordoon" Editor="Mighty kilex", 3403, 3384, 2865 Content={2854 Content={3216, 3092, 2870, 3093, 2867 Content={2865}, 3279, 3091 SavedExpireTime=1724, 3082 RemainingUses=50, 3053, 2854, 2867, 2869 Content={2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}, 3504 Content={3377, 3507 String="Mighty kilex\ncarlin" Editor="Mighty kilex", 3504 Content={2920 SavedExpireTime=598, 3492 Amount=75, 3504 Content={2920, 3042 Amount=1, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3349, 3349, 3349, 3349, 3285, 3285, 3507 String="Mighty kilex\nedron" Editor="Mighty kilex", 3504 Content={3377, 2853 Content={2853 Content={3483, 2853 Content={3723 Amount=26, 3582 Amount=39, 3577 Amount=29}, 3349, 3349, 3349, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}, 3504 Content={3507 String="Mighty kilex\nKazordoon" Editor="Mighty kilex"}, 3504 Content={2853, 3507 String="Mighty kilex\nKazordoon"}, 3502}, 
+               3 Content={3504 Content={3507 String="Mighty Kilex\nAb'Dendriel" Editor="Sor homie"}, 2969 KeyNumber=3033, 2853 Content={2853}, 3377, 3377, 3377, 3097 SavedExpireTime=2349, 3502}, 
+               4 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3583 Amount=22, 3349, 3425, 3349, 3504 Content={3507 String="Mighty kilex\nEdron" Editor="Zhaka Saint"}, 3464, 3350, 3552, 3012, 3448 Amount=3, 3502 Content={3045 RemainingUses=200, 3457, 2471, 2481}}, 
+               5 Content={3504 Content={3507 String="mighty kilex\ndarashia" Editor="Zhaka Saint"}, 3504 Content={3507 String="Mighty kilex\nDarashia" Editor="Zhaka Saint"}, 3504 Content={3507 String="mighty kilex\ndarashia" Editor="Zhaka Saint"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3008, 3074, 3042 Amount=3, 3504 Content={3507 String="Mighty kilex\nankrahmun" Editor="Mighty kilex"}, 3502 Content={2920, 2920, 2920, 2920, 2920}}, 
+               8 Content={3031 Amount=25, 2871, 3035 Amount=1, 3589 Amount=8, 3586 Amount=9, 3031 Amount=100, 3003, 3031 Amount=100, 2853 Content={3582 Amount=37, 3577 Amount=24}, 3031 Amount=100, 3587 Amount=1, 3410, 3093, 3503 Content={3483, 1781 Amount=1, 3507 String="thais\nMighty kilex" Editor="Mighty kilex"}, 3503 Content={3507 String="Thais\nMighty kilex" Editor="Mighty kilex"}, 3502}}

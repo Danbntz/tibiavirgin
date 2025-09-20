@@ -1,0 +1,52 @@
+ID              = 12698170
+Name            = "Baraw Amya"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,0-94-107-79)
+CurrentOutfit   = (129,0-94-107-79)
+LastLogin       = 1137917473
+LastLogout      = 1137917487
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32378,31789,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10542,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2837,1100,3360,1600)
+Skill = (2,195,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,20,20,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,4298,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,109,1800,140,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2271,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,19,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,14,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,203,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20}
+QuestValues = {(24,1),(32,1),(33,1),(34,1),(59,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3066},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2924 SavedExpireTime=238}}
+
+Depots      = {1 Content={3425, 3377, 3502}, 
+               3 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3502 Content={3031 Amount=30, 3277 Amount=2, 3035 Amount=2, 2865 Content={3003}, 3372}}}

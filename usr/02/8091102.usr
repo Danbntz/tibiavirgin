@@ -1,0 +1,61 @@
+ID              = 8091102
+Name            = "Angel Legolas"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (133,116-114-95-115)
+CurrentOutfit   = (133,116-114-95-115)
+LastLogin       = 1122094799
+LastLogout      = 1122094819
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,245873,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,94800,3000,193600,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,85,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,29244,1100,29912,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,61,1400,71,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,57,1100,105,50)
+Skill = (9,51,0,10,0,0,0,0,0,0,0,25727,1100,26881,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,50,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1940,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,20,29,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(69,1),(72,1),(73,1),(74,1),(75,1),(76,1),(77,1),(78,1),(84,1),(85,1),(86,1),(87,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(108,1),(190,1),(191,1),(224,1),(253,1),(254,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={},
+               3 Content={2853 Content={}},
+               4 Content={3377},
+               5 Content={3327},
+               6 Content={3425},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={2869 Content={}, 3503 Content={3507 String="angel legolas\n"}, 3552, 3502 Content={3577 Amount=6, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3035 Amount=33, 3505 String="sayn abra hunt here plss leave man thx =)\n", 3447 Amount=28, 3336}}, 
+               1 Content={3504 Content={3507 String="angel legolas\ncarlin"}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={2866 Content={2869 Content={3304, 2854 Content={2854 Content={}, 3003}, 3359, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3270, 2865 Content={}, 3457, 3449 Amount=2, 3017, 3585 Amount=9, 3056 RemainingUses=200, 3586 Amount=4, 3299, 2854 Content={}}}}, 
+               4 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Stonehome Village 8\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="angel legolas\nvenore\n", 2815 String="e we plix regalamme tu char soy metaknight ora we si me lo regalas mandame la conttra por parcel a ab dendriel plixregalmame tu char angel legoas =)"}, 3504 Content={3377, 3377, 3377, 3507 String="angel legolas\nvenore"}, 3504 Content={2874 ContainerLiquidType=0, 2481 Content={3337, 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 3293, 2839 String="", 3463, 2853 Content={3330, 3353, 3330}, 3441, 3338}, 3507 String="angel legolas\nvenore\n"}, 3502 Content={3377, 3377, 3377, 3741 Amount=1}}, 
+               7 Content={3502 Content={2869 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}}}}

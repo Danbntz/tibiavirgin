@@ -1,0 +1,54 @@
+ID              = 14277148
+Name            = "Healdir"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,95-114-126-114)
+CurrentOutfit   = (129,95-114-126-114)
+LastLogin       = 1146563113
+LastLogout      = 1146568375
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,30919,0,37800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,15079,1400,17512,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,38,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,16081,1100,16449,100)
+Skill = (7,34,0,10,0,0,0,0,0,0,0,2929,1100,2950,30)
+Skill = (8,30,0,10,0,0,0,0,0,0,0,9386,1200,11251,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,561,1200,645,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,285,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3003}},
+               4 Content={3357},
+               5 Content={3285},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3457}}
+
+Depots      = {0 Content={3411, 3457, 3483, 2854 Content={3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3483, 3502 Content={2867 Content={2854, 2866, 2865, 2868, 2868, 2868}, 2854 Content={3308, 3308, 3483, 3483, 3453, 3453, 3456, 3456, 2906, 2906}, 2854 Content={3357}, 2854 Content={3351}, 2854 Content={3421, 3425}, 2854 Content={3003, 3275, 3294, 3301, 3266, 3265, 3289, 3294, 3294, 3285}, 2868 Content={2842 String="g2axxezz\n" Editor="Magik Shaman", 3551, 3012, 3075, 3083 RemainingUses=138, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3565, 3093, 2854 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 3066, 3074, 2969 KeyNumber=4600, 3059, 3059, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 2854 Content={1781 Amount=49, 3349, 3349, 3349, 3446 Amount=100, 3446 Amount=100, 3446 Amount=51, 3350, 3447 Amount=91, 3447 Amount=100, 3447 Amount=100, 3448 Amount=58, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3588 Amount=82, 3599 Amount=4, 3600 Amount=16, 3579 Amount=39, 3585 Amount=39, 3595 Amount=19, 3590 Amount=66, 3723 Amount=11, 3597 Amount=3, 3578 Amount=21, 3584 Amount=9, 3582 Amount=47, 3602 Amount=68, 3577 Amount=23, 2854 Content={3588 Amount=100, 3600 Amount=100, 3577 Amount=100, 3578 Amount=100}}, 2854 Content={3031 Amount=10, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=52, 3030 Amount=1}}}, 
+               1 Content={3502 Content={3582 Amount=3, 3577 Amount=14, 3273, 3273, 3273, 3273, 3446 Amount=7, 1781 Amount=1, 2868 Content={3031 Amount=79, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=5}, 3723 Amount=2, 3588 Amount=60, 3349}}, 
+               6 Content={3502 Content={2853, 2853, 2853, 2853}}}

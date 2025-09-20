@@ -1,0 +1,52 @@
+ID              = 9930612
+Name            = "Parsival Knight"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,114-113-114-132)
+CurrentOutfit   = (131,114-113-114-132)
+LastLogin       = 1144247475
+LastLogout      = 1144247575
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32300,31776,9]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,6691,0,9300,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,5870,3000,6400,1600)
+Skill = (2,162,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,0,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,3008,1100,3177,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,28,1100,50,50)
+Skill = (9,26,0,10,0,0,0,0,0,0,0,1926,1100,2027,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,332,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,36,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,110,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(59,1),(100,1),(106,1),(107,1),(217,3),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2853 Content={3286, 3031 Amount=3, 3031 Amount=14, 3286}},
+               4 Content={3377},
+               5 Content={3305},
+               6 Content={3430},
+               7 Content={3558},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=13, 3577 Amount=2, 3492 Amount=79, 3457, 3483, 3031 Amount=100, 3456, 3457, 3031 Amount=100, 3031 Amount=100, 3003, 3003}}, 
+               1 Content={3502 Content={2875, 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n"}}}

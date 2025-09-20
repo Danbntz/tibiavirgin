@@ -1,0 +1,52 @@
+ID              = 9991301
+Name            = "Sahmot"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,99-49-114-0)
+CurrentOutfit   = (134,99-49-114-0)
+LastLogin       = 1146951752
+LastLogout      = 1146951777
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33308,31777,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4664,0,6400,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,4506,1400,6975,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,15,35,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,513,1100,610,100)
+Skill = (7,29,0,10,0,0,0,0,0,0,0,1665,1100,1718,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,48,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,43,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,20,51}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(100,1),(217,3),(224,1),(292,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2869 Content={2853 Content={2853 Content={2853}, 3504 Content={3507 String="Axell Necros\nEdron" Editor="Axell Necros"}}, 3504 Content={3507 String="Dartho\nEdron" Editor="Vinceart", 2867 Content={3410, 3003, 3457, 3092 SavedExpireTime=1051}}, 2871, 3003}},
+               6 Content={3349},
+               10 Content={3446 Amount=61}}
+
+Depots      = {0 Content={3504 Content={3507 String="sahmot\nthais" Editor="Talegas here"}, 3447 Amount=38, 3504 Content={3507 String="sahmot\nthais" Editor="Talegas here"}, 3504 Content={3507 String="sahmot\nthais" Editor="Talegas here"}, 3504 Content={3507 String="sahmot\nthais" Editor="Talegas here"}, 3504 Content={3507 String="sahmot\nthais" Editor="Talegas here"}, 3504 Content={2969 KeyNumber=3033, 3507 String="sahmot\nthais" Editor="Talegas here"}, 3492 Amount=70, 3552, 3317, 3502}, 
+               3 Content={3447 Amount=78, 3504 Content={3507 String="sahmot\nab'dendriel"}, 3504 Content={3507 String="sahmot\nab'dendriel"}, 3504 Content={3507 String="sahmot\nab'dendriel"}, 3504 Content={3507 String="sahmot\nab'dendriel"}, 3504 Content={3045 RemainingUses=200, 3507 String="sahmot\nab'dendriel"}, 3430, 3503 Content={3507 String="sahmot\nvenore"}, 3504, 3504 Content={3507 String="Sahmot\nAb'Dendriel"}, 3504 Content={3507 String="sahmot\nab'dendriel"}, 3502}, 
+               4 Content={3583 Amount=8, 2854 Content={3031 Amount=1, 3578 Amount=5, 3031 Amount=100, 3446 Amount=10, 3003}, 3349, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 2874 ContainerLiquidType=1, 3502}, 
+               5 Content={3277 Amount=3, 3504 Content={3447 Amount=10, 3504 Content={3507 String="ibarra\nport hope\n" Editor="Darkc dragon"}, 3504 Content={3507 String="ibarra\nport hope" Editor="Darkc dragon"}, 3507 String="IBARRA\nPORT HOPE" Editor="Xedas Helin"}, 3446 Amount=100, 3504 Content={3507 String="sahmot\ndarashia"}, 3301, 3502}, 
+               7 Content={3504 Content={3507 String="sahmot\nankrahmun\n"}, 3502}, 
+               8 Content={3504 Content={3507 String="sahmot\nport hope" Editor="Talegas here"}, 3504 Content={3507 String="sahmot\nport hope" Editor="Talegas here"}, 3504 Content={3507 String="sahmot\nedron" Editor="Altrik"}, 3504, 3504 Content={3507 String="sahmot\nport hope"}, 3504 Content={2911 SavedExpireTime=403, 3046 SavedExpireTime=2999, 3003}, 2911 SavedExpireTime=1165, 3116, 3502}}

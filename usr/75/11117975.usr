@@ -1,0 +1,53 @@
+ID              = 11117975
+Name            = "Jefesote"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,114-120-0-113)
+CurrentOutfit   = (131,114-120-0-113)
+LastLogin       = 1148139539
+LastLogout      = 1148139638
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,55204,0,57600,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,6199,3000,6400,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,75,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,27,0,10,0,0,0,0,0,0,0,4212,1100,4559,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,1400,30,30)
+Skill = (8,38,0,10,0,0,0,0,0,0,0,6724,1100,7431,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,235,1100,305,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,73,1100,105,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,108,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,647,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(16,1),(18,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(217,3),(223,1),(226,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3174 Charges=3, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3003, 3308, 3457}},
+               4 Content={3357},
+               5 Content={3433},
+               6 Content={3280},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3577 Amount=10}}
+
+Depots      = {2 Content={3504 Content={3507 String="Jefesote\nKazordoon" Editor="Domines", 3275}, 3502}, 
+               6 Content={2854 Content={2472 Content={3265}, 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!"}, 2855 Content={3470, 2855, 2970 KeyNumber=3800, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months."}, 3505 Editor="Jefesote", 3505 Editor="Jefesote", 3008, 3492 Amount=30, 3483, 2914 SavedExpireTime=191, 2867 Content={2854, 3308, 3003}, 2853, 2853, 2853 Content={2880 ContainerLiquidType=5, 2969 KeyNumber=4600, 2880 ContainerLiquidType=1, 2885 ContainerLiquidType=3, 2885 ContainerLiquidType=6, 2882 ContainerLiquidType=5}, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 3502 Content={2867, 2854, 2854, 3504, 3504, 3504, 3504, 3504, 3504 Content={3279, 3351, 3557, 3357}, 3504 Content={3266, 3375, 3375}, 3504 Content={2874}, 3504 Content={3658, 3374, 3409, 3264, 3003, 3273}, 3504 Content={2875, 3003, 3273, 3462, 3462}, 3504 Content={3542, 3300, 2815 String="Hi - Charach\nBye -  Futchi\nYes - Mok\nNo - Nok\nBuy - Goshak\n\nWeapon - Porack\nSword - Burka bata (85gp)\nSabre - Charcha (25gp)\nHatchet - Hakhak (85gp)\nShort sword - Burka (30gp)\nBow - Batuk (400gp)\nArrows - Pixo (30gp/10arrows)\n\nArmor - Bora\nStudded armor - Tulak bora (90gp)\nBrass shield - Dongacharach (65gp)\nLeather armor - Aka bora (25gp)\n\nShield - Dora\nStudded helmet - Grota (66gp)\nStudded shield - Tulka dora\nLeather shield - aka dora" Editor="Jefesote", 2815 String="SCROLL OF ORC LANGUAGE\n\nHi - Charach\nBye -  Futchi\nYes - Mok\nNo - Nok\nBuy - Goshak\n\nWeapon - Porack\nSword - Burka bata (85gp)\nSabre - Charcha (25gp)\nHatchet - Hakhak (85gp)\nShort sword - Burka (30gp)\nBow - Batuk (400gp)\nArrows - Pixo (30gp/10arrows)\n\nArmor - Bora\nStudded armor - Tulak bora (90gp)\nBrass shield - Dongacharach (65gp)\nLeather armor - Aka bora (25gp)\n\nShield - Dora\nStudded helmet - Grota (66gp)\nStudded shield - Tulka dora\nLeather shield - aka dora", 3551, 3492 Amount=100, 3362, 2875 ContainerLiquidType=1, 2875}, 3504 Content={3603 Amount=2, 3674, 3674, 3674, 3674, 3674, 3658, 3658, 3658, 3658}, 3504 Content={2977, 2856 Content={2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6, 2874 ContainerLiquidType=6}, 3374, 3603 Amount=2, 3469}, 3504 Content={3483, 3375, 3362, 3362}, 3504 Content={3456}, 3503 Content={3507}}}}

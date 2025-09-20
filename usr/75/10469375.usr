@@ -1,0 +1,57 @@
+ID              = 10469375
+Name            = "Bladewind"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,0-114-113-0)
+CurrentOutfit   = (134,0-114-113-0)
+LastLogin       = 1146579005
+LastLogout      = 1146579305
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31778,6]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,19196,0,23200,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,74983,1100,81854,1600)
+Skill = (2,126,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,19,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2646,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,225,2000,350,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1141,2000,1550,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,585,2000,750,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,91,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,665,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,8,10,20,23,39,44,76,81,87,88,89}
+QuestValues = {(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(113,1),(114,1),(125,1),(126,1),(192,1),(206,1),(217,3),(225,1),(333,1)}
+Murders     = {1145534451}
+
+Inventory   = {1 Content={3369},
+               2 Content={3012},
+               3 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3035 Amount=92, 3035 Amount=100, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3507 String="You see a dead human (Vol:10).You recognize . He was killed by Albox gall" Editor="Bladewind", 3483, 3003}},
+               4 Content={3370},
+               5 Content={3074},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3093, 3074, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3502 Content={3031 Amount=87, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3425, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3050, 3301, 2393, 3045 RemainingUses=200, 2973 KeyNumber=3520, 2868 Content={2992 Amount=5, 3599 Amount=8, 2854 Content={2865 Content={3425, 3097, 2989, 2868 Content={3085 RemainingUses=200, 3083 RemainingUses=150, 2853 Content={3076, 2973 KeyNumber=3520, 3085 RemainingUses=161, 3085 RemainingUses=200, 2393}, 2469 Content={3449 Amount=30, 3658, 3658, 2949, 3301, 3271, 3732 Amount=1, 3565, 3205}, 3668, 3588 Amount=99, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5}, 2393, 2989, 3586 Amount=1, 3097, 3026 Amount=5, 3305}, 3603 Amount=78, 3093, 3091 SavedExpireTime=318, 3265, 3029 Amount=2, 3097, 3052, 2393, 3027 Amount=3, 2953}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3299, 2469 Content={3050, 2393, 3050, 2955, 3658, 2393, 3448 Amount=70, 3148 Charges=1, 3153 Charges=1}, 2469 Content={3098, 3415, 2393, 2874 ContainerLiquidType=5, 3465 ContainerLiquidType=5, 3209, 3093, 3052, 3097, 3658}, 3028 Amount=3, 2469 Content={2393, 3017, 3074, 3285, 3082 RemainingUses=50, 2388, 3409, 3046 SavedExpireTime=2993, 3082 RemainingUses=50, 3421}, 2469 Content={3552, 3046, 3375, 3050, 2991, 3658, 3046, 3421}, 2469 Content={2393, 3093, 2991, 2955}, 3084 RemainingUses=250, 3590 Amount=100, 3504 Content={2854 Content={3004, 2870 Content={3369, 3370, 2868 Content={3357, 3557, 3556, 3031 Amount=65, 3457, 3003}, 3428, 3093 SavedExpireTime=1082, 3297, 3416, 3416, 3284 RemainingUses=1, 3053, 3415, 3313, 3424, 3322, 3385, 3357, 3416, 3369, 3357, 3033 Amount=5}, 3077, 3056 RemainingUses=200, 3008, 3092, 3205, 3004, 3003}, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2860 Content={2854 Content={2989, 3463, 2969 KeyNumber=3600, 3059, 3059, 2973 KeyNumber=3520}}, 2867 Content={3492 Amount=12, 3483, 3492 Amount=100, 2870 Content={3425, 3271, 3338}, 2854 Content={3008, 3085 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3012, 3084 RemainingUses=250, 3012, 3012, 3012, 3008, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2970 KeyNumber=4601, 2969 KeyNumber=5000, 2969 KeyNumber=5010}, 2854 Content={2857 Content={2856, 2856}, 2854 Content={3463}, 2854 Content={2854 Content={2854 Content={2815 String="orc language silepy ork\n", 2906, 3267}, 2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3293, 3456, 3453}, 3457, 2815 String="To Reservoir And Zara Zion\n\nHere you've got some items, to put in ur house...\n\nBe happy with it =P\nSo dont send it back to me..\nI would not like it if u did that.\nI would not like it either, if you would just smash it =P\nSo, go put it in ur house, i was not able to put chairs in em\nBecause my present box was full :(\n\n\nHave a nice time together ;)\n\n-Count of monte crist-\n\n\n\n::EdIt:: Im going for some chairs for you guys, i've got nothing better to do anyway :/", 3740 Amount=1}, 2870 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2870 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2854 Content={3350, 3425}, 2854 Content={3349, 3350, 3349, 3448 Amount=3, 3446 Amount=74}, 2854 Content={3457, 3457, 3456, 2901}, 2857 Content={2854 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}}}, 2854 Content={2854, 2854, 2865, 2854, 2868, 2854, 2854, 2868, 2868, 2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854}}, 2854 Content={2854 Content={3447 Amount=4, 3446 Amount=2, 2854 Content={3285, 3285}, 3316, 3289, 3316, 3300}, 3377, 3377}, 2867 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3012, 3083 RemainingUses=150, 3083 RemainingUses=130, 3056 RemainingUses=200, 3012}, 2867 Content={2974, 2865 Content={3301, 2854 Content={2854, 2854 Content={2970 KeyNumber=4601, 2968 KeyNumber=3940}}}}}}, 3409, 3059, 3448 Amount=2}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={}}, 
+               6 Content={3502 Content={}}}

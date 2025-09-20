@@ -1,0 +1,56 @@
+ID              = 7986674
+Name            = "Gaara'Forces"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,0-124-114-0)
+CurrentOutfit   = (134,0-124-114-0)
+LastLogin       = 1140186017
+LastLogout      = 1140186023
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,164974,0,179400,100)
+Skill = (1,35,0,0,0,0,0,0,0,0,0,475920,1100,478602,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,362,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6227,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,31146,2000,51150,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,77,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,58,0,10,0,0,0,0,0,0,0,19724,1100,21143,20)
+Skill = (14,0,1200,0,0,0,621,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,9,10,16,20,21,29,44,76}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(100,1),(111,1),(112,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3572},
+               3 Content={2853 Content={2869, 3578 Amount=35, 3725 Amount=23, 3504 Content={3155 Charges=1, 3147}, 3035 Amount=5}},
+               4 Content={3357},
+               6 Content={3265},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Gaara'Forces\nthais"}, 3502 Content={3457, 3003}}, 
+               4 Content={3507 String="Lance Lionheart\n ^^", 3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504 Content={}}}}}, 3507 String="Gaara'Forces\nedron"}, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Gaara'Forces\ndarashia", 2853 Content={3354, 2853 Content={3354, 3286, 3367, 3286, 3354, 3411, 3286, 3411}, 2853 Content={3367, 3367, 3411, 3286, 3354, 3354, 3354, 3354}, 3354, 3264, 3286, 3377}}, 3504 Content={3507 String="Gaara'Forces\ndarashia"}, 3502 Content={3003}}, 
+               6 Content={3504 Content={3049 SavedExpireTime=163, 2857 Content={3572, 3003, 2869 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2869 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2869 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}}, 2853 Content={3077, 3505 String="oh cielos T_T, hay gaara no se porke te retiraste :/, yo se ke kualkier problema se hubiera arreglado.. si deseas volver a este server yo te apoyare con todo lo q pueda, si ocupas dinero yo te ayudo, ahora te kito 6k, pero es porke kiero pagar esa guild house, kiero ke la tengamos, yo kiero volver a levantar a esta guild.. dunkel le esta hechando ganas.. hablare primero con el antes de pagar, aun me kedan unos dias.. espero ke desees regresar, si no pues nimodo y nos contactaremos en msn, cuidate mucho..(o mas bien cuidense mucho :) )\n\natte.\nanbu'forces", 3286, 3264, 3286, 3264, 3286, 3286}, 3084 RemainingUses=250, 3582 Amount=4, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3507 String="Gaara'Forces\nvenore"}, 3504 Content={3504 Content={3507 String="Gaara'Forces\nVenore"}, 3504 Content={3507 String="Gaara'Forces\nvenore"}, 3504 Content={}, 3504 Content={3505 String="SON 2k de Jiraya Forces\nSON otros 2k de Gronda", 3507 String="gaara'forces\nedron\nanbu y demon", 3507 String="Gaara'Forces\nEdron\nEl chanz te manda esto \n", 3507 String="gaara'forces\nedron\nde kito", 3507 String="gaara'forces\nedron\n\n2k de konohamaru", 3507 String="Gaara'Forces\nEdron\n\ndeparte de Orochimaru'Forces", 3507 String="Gaara'Forces\nvenore", 3505 String="Chino'Forces", 3505 String="Dunkel'Forces"}, 3504 Content={3507 String="gaara'forces\nvenore"}, 2853 Content={2920 SavedExpireTime=0, 2922 SavedExpireTime=191, 2920 SavedExpireTime=0}, 3507 String="Gaara'Forces\nvenore\n"}, 3502 Content={3578 Amount=37, 3271, 3507 String="now i know u are stealing my equip\ncan u give me the equip back!! pls!!", 3097 SavedExpireTime=0, 3012, 3026 Amount=1, 3483, 3578 Amount=13, 3425, 3483, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3008, 3054 RemainingUses=200, 2920 SavedExpireTime=0, 3300, 3483, 3083 RemainingUses=150, 3054 RemainingUses=200, 2970 KeyNumber=4601}}, 
+               7 Content={3502 Content={3449 Amount=6, 3409, 3349, 2867 Content={3191 Charges=1, 3191 Charges=1, 3191 Charges=1, 3191 Charges=2, 3147, 3147, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1}, 2867 Content={2869 Content={}}, 2869 Content={2853 Content={3411, 3367, 2853 Content={3411, 3367, 3367}, 3367, 3377}, 3377, 3367, 3411, 3367}, 3377}}}

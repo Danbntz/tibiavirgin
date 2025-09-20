@@ -1,0 +1,57 @@
+ID              = 10063814
+Name            = "Galer Don Chepe"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-0-114-0)
+CurrentOutfit   = (128,114-0-114-0)
+LastLogin       = 1148093112
+LastLogout      = 1148093976
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32682,31692,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,122253,0,135100,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,159133,1100,174690,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,425,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,24001,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,10369,1800,12334,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,34,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1892,1100,1966,20)
+Skill = (14,0,1200,0,0,0,318,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,10,11,16,17,18,20,25,29,30,42,44}
+QuestValues = {(18,1),(20,1),(33,1),(35,1),(54,1),(59,1),(61,1),(96,1),(97,1),(98,1),(125,1),(126,1),(190,1),(191,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2865 Content={3446 Amount=3, 3031 Amount=39, 3577 Amount=4, 3578 Amount=6, 2920 SavedExpireTime=599, 3174 Charges=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3152 Charges=1, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3160 Charges=1, 2854 Content={3483, 3492 Amount=19}, 3174 Charges=5}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="galer don chepe\ncarlin\n " Editor="Galer Don Chepe"}, 3504 Content={3507 String="Galer Don Chepe\nCarlin\n" Editor="Galer Don Chepe"}, 3502 Content={3504 Content={3539, 3535, 3534 Amount=1, 3538, 3540, 3534 Amount=1, 3536, 3546, 3504 Content={3507 String="Szef latajacych dragonow\ncarlin" Editor="Seba tuning"}, 3507 String="Galer Don Chepe\nCarlin" Editor="Galer Mamc"}, 3537, 3544, 3543, 3533 Amount=2, 3541, 2853 Content={3541, 3545, 3538, 3535, 3534 Amount=2, 3537, 3535, 3535}, 2853 Content={3541, 3542, 3543, 3536, 3535, 3542, 3541, 3541}, 2874 ContainerLiquidType=6}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="Galer Don Chepe\nAb'Dendriel" Editor="Caballero Gortari"}, 2471 Content={2854 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3147, 3147, 3147, 3147}, 2869 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 3502 Content={2870 Content={3446 Amount=12, 2854}, 2868 Content={3578 Amount=2, 3577 Amount=24, 2473 Content={3492 Amount=66, 2854 Content={3492 Amount=80, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3605 Amount=11, 3603 Amount=40, 2853 Content={3492 Amount=7, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3483}, 3588 Amount=4, 3600 Amount=59, 3600 Amount=100, 3725 Amount=91, 3583 Amount=1, 3595 Amount=1, 3723 Amount=7, 3585 Amount=2, 3601 Amount=1, 3586 Amount=2, 3595 Amount=2}, 2872 Content={2857 Content={2853 Content={3031 Amount=100, 3031 Amount=50, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2865 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=65}}, 2472 Content={2872 Content={3074, 2991, 3279, 3357, 2857 Content={3147, 3046, 3077, 3084 RemainingUses=250, 3098}, 3316, 3384, 3357, 3279, 3070, 3066, 3322, 3271, 3301, 3077, 3266, 3266, 3027 Amount=2, 3305}, 2854 Content={3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2469 Content={2854, 2854, 2868, 2869, 2473 Content={2854, 2867, 2469 Content={2868, 2854, 2854, 2868, 2867, 2867, 2867, 2870, 2868}, 2854, 2868}}}, 2867 Content={2868 Content={3379, 3349, 3377, 3359, 3377, 3358, 3359, 3359, 3377, 3377}, 2865 Content={2853 Content={2877, 3446 Amount=52, 3277 Amount=4, 1781 Amount=3, 3447 Amount=10, 3446 Amount=100, 3349}, 3308, 3350, 3457, 3277 Amount=1, 3349, 3349, 3349, 3308, 3291, 3267, 2854 Content={3453, 3289, 3289, 3330, 3300, 2397, 2397, 3316, 2389, 2392, 3471, 3283, 3289, 2867 Content={2867}, 3293, 3264, 3330, 3457, 3308}}, 2865 Content={3425, 3003, 3552, 2853 Content={3003}, 3425, 3425, 3425, 3425, 3367, 3409, 3409, 3430, 3457, 3459, 2853 Content={3374, 3375, 3375, 3375, 3375}, 3374, 3374, 3003}, 2865 Content={3362, 2854 Content={3097 SavedExpireTime=3360, 3084 RemainingUses=250, 2854 Content={3046 SavedExpireTime=215, 2853 Content={2394}, 3085 RemainingUses=200, 3008, 3045 RemainingUses=200, 3008, 3050, 3050, 3050 SavedExpireTime=1795, 3097 SavedExpireTime=3596, 3097, 3056 RemainingUses=200, 3008, 3056 RemainingUses=200, 3054 RemainingUses=80}, 3012, 3012, 3008, 3056 RemainingUses=200, 3008}, 3362}}, 2865 Content={3661, 2471 Content={3504, 3503 Content={3507 String="alindy\nthais\n"}, 3504, 3504, 3503 Content={3507}, 3504 Content={3507 String="Galer Don Chepe\nAb'dendriel"}, 3504 Content={3504 Content={3504 Content={3507 String="Galer Don Chepe\nAb'Dendriel"}, 3504 Content={3507 String="Galer Don Chepe\nAb'dendriel"}}, 3504 Content={3507 String="Galer Don Chepe\nAb'Dendriel"}, 3504 Content={3503 Content={3504 Content={3504 Content={3507 String="omar the grifo\nab'dendriel"}, 3504 Content={3507 String="Wamlo\nAB'Dendriel"}, 3504 Content={3507 String="dark skyluke\nab'dendriel"}}, 2853, 3507, 3504 Content={3507 String="Wamlo\nAB'Dendriel"}, 3552}, 3504, 3504 Content={3507 String="Mergus Saint\nAb'dendriel"}, 3507 String="Mergus Saint\nAb'dendriel"}, 3504 Content={3507 String="keko the devil\nab'dendriel"}, 3504 Content={3507 String="Ekuz Sky \nAb'dendriel"}, 3504, 3507 String="acid sky\nab'dendriel"}, 3504, 3504 Content={3504 Content={3507 String="Galer Don Chepe\nAb'Dendriel"}, 3504 Content={3507 String="pollo soul\nkazordoon\n"}, 3504 Content={3507 String="alberto da'magno\nab'dendriel\n\n"}, 3504 Content={3507 String="zirin darin\nkazordoon"}, 3507 String="apsen-cetus\nkazordoon"}}, 3017, 3017, 3017, 3017, 1781 Amount=2, 2877, 2865 Content={2853 Content={2471 Content={2973 KeyNumber=3520, 3059, 3059, 3059, 3059, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3076, 2853 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2970 KeyNumber=4503}}}}, 3504 Content={2853 Content={3543, 3541, 3544, 3544, 3541, 3542, 3541, 3131}, 3504 Content={2853 Content={3504 Content={3507 String="Galer Don Chepe\nAb'Dendriel" Editor="Yugo Caballero Ghost"}, 3504 Content={3507 String="Galer Don Chepe\nAb'Dendriel" Editor="Yugo Caballero Ghost"}}}, 2853 Content={2667, 2644, 2644, 2647, 2667, 2656, 2656, 2853 Content={2647, 2647, 2656, 2667}}, 3736 Amount=1, 2853 Content={3509, 2922 SavedExpireTime=49, 2920, 3509, 2920, 2920, 2920}, 2853 Content={2853 Content={3274, 2853 Content={2853 Content={2853 Content={3274, 3274}, 3274, 3274, 3274, 3274, 3274, 3274, 3274}, 3274, 3274, 3274, 3274, 3274, 3274, 3274}, 3274, 3274, 3274, 3274, 3274, 3274}, 3274, 3274, 3274, 3274, 3274, 3274, 3274}}, 3503 Content={2865 Content={2874, 2874, 2874, 2874, 2874, 2874, 2853 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2874, 2874, 2874, 2874, 2874, 2874}, 3017, 3017, 2985}}}}}

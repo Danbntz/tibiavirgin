@@ -1,0 +1,56 @@
+ID              = 11247691
+Name            = "Son Of Breaker"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,19-8-123-123)
+CurrentOutfit   = (128,19-8-123-123)
+LastLogin       = 1148242721
+LastLogout      = 1148242735
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7044,0,9300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,176910,3000,193600,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,10,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,166869,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,54,1100,105,50)
+Skill = (10,63,0,10,0,0,0,0,0,0,0,80421,1100,85435,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,90,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5921,1100,5982,20)
+Skill = (14,0,1200,0,0,0,1164,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,56,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(37,1),(100,1),(106,1),(107,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2870 Content={3031 Amount=3, 3293, 3483, 3092 SavedExpireTime=1259, 3492 Amount=11, 3188 Charges=2, 3164 Charges=3, 3003, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3148 Charges=2, 3148 Charges=3, 3148 Charges=3}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3320},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3315, 3350, 3044 Amount=2, 3062, 3346, 3421, 3045 RemainingUses=200, 3046 SavedExpireTime=2287, 2992 Amount=10, 3077, 3595 Amount=10, 3076, 3588 Amount=86, 3586 Amount=11, 3502 Content={2865 Content={3030 Amount=2, 3027 Amount=2, 3034 Amount=3}, 2869 Content={2667, 3483, 3483}, 2866, 2867 Content={3148 Charges=3, 3148 Charges=3, 3085 RemainingUses=200, 3085 RemainingUses=200, 3093, 3008, 3082 RemainingUses=50, 3208, 3208, 3082 RemainingUses=50, 3062, 2842}, 2867 Content={3066, 3148 Charges=3, 3148 Charges=3, 3066, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2854 Content={3042 Amount=31, 3048 RemainingUses=20, 3313, 3383, 2871 Content={3659, 3593, 3593, 3587 Amount=2, 3592, 3590 Amount=2, 3592, 3658}, 2866 Content={3093 SavedExpireTime=1709, 2869 Content={3357, 3357, 3357, 3357, 3357, 3357, 3357, 3357, 3357, 3357, 3357, 3322, 3311, 3317}, 3734 Amount=1, 3576, 3050, 2854 Content={3073, 3004, 3071, 3073, 3074, 3071, 3074, 2842, 3092, 2992 Amount=3, 2868 Content={3375, 3377, 3074, 3074, 3074, 4839, 4839, 3082 RemainingUses=50}}, 3091 SavedExpireTime=96, 3048 RemainingUses=20, 3734 Amount=1, 3050, 3053 SavedExpireTime=9, 3092, 3449 Amount=85, 3589 Amount=8}, 3589 Amount=4, 3450 Amount=11, 3297, 3447 Amount=100}, 2868 Content={3311, 3092, 3093, 3093}, 2866 Content={2869 Content={2867 Content={2854 Content={2854 Content={2867 Content={2867 Content={2867 Content={2854 Content={2870 Content={2867}}}}}}}}}}, 2863, 2862 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2867 Content={3447 Amount=7, 3447 Amount=100, 3448 Amount=46, 3349, 3003}, 2859 Content={3384, 3084 RemainingUses=250, 3084 RemainingUses=249, 3147, 3147, 3147, 3446 Amount=9}, 2854 Content={3409, 3409, 3092 SavedExpireTime=394, 3074}, 2867 Content={3091 SavedExpireTime=1515, 3091 SavedExpireTime=15, 3091 SavedExpireTime=582, 3091, 3091, 3091, 3091 SavedExpireTime=74, 3091 SavedExpireTime=38}, 2857 Content={3056 RemainingUses=200, 3316, 3367, 3084 RemainingUses=250, 3598 Amount=1, 2991, 2857 Content={3085 RemainingUses=200, 3046, 3074}, 2867 Content={3077}}, 2866 Content={3003, 3003, 3590 Amount=2, 2856 Content={3293}, 2856 Content={3275, 3287 Amount=1}, 3350, 3448 Amount=5, 3276, 3453, 2977, 2906, 3330, 3349, 3448 Amount=5, 3350}, 2854 Content={3377, 3066, 3572, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3147}, 2854 Content={3188 Charges=3, 3188 Charges=3}, 2854 Content={3172 Charges=1, 3174 Charges=5, 3174 Charges=4, 3008, 3097 SavedExpireTime=3558}, 2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={2870 Content={2866 Content={3384}, 2870, 2870, 2868, 2867, 2867, 2868, 2854, 2870, 2870, 2870 Content={2868}, 2870, 2870 Content={2870}}, 3502}, 
+               6 Content={3504 Content={3507 String="son of breaker\nvenore" Editor="Chapo'Breaker"}, 3502}}

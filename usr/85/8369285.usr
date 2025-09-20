@@ -1,0 +1,57 @@
+ID              = 8369285
+Name            = "Lordchopo"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,11-0-11-114)
+CurrentOutfit   = (128,11-0-11-114)
+LastLogin       = 1124235121
+LastLogout      = 1124235249
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,61107,0,69700,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,84320,1400,111701,1600)
+Skill = (2,120,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,10,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,10920,1100,12109,100)
+Skill = (7,56,0,10,0,0,0,0,0,0,0,23797,1100,26159,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,130,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1547,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2088,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,15,20,29,30,42,49,51}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(27,1),(32,1),(33,1),(34,1),(35,1),(46,1),(54,1),(58,1),(69,1),(71,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1),(225,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2854 Content={3449 Amount=7}},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3504 Content={3507 String="lordchopo\nthais\n"}, 3502 Content={}}, 
+               1 Content={3504 Content={3582 Amount=3, 3277 Amount=6, 3507 String="lordchopo\ncarlin"}, 3031 Amount=100, 3008, 3008, 3301, 3301, 3026 Amount=3, 3059 String="", 3502 Content={3582 Amount=15, 3447 Amount=45, 3307, 3349, 2920 SavedExpireTime=579}}, 
+               3 Content={3003, 3147, 3147, 3504 Content={3507 String="lordchopo\nab'dendriel"}, 3453, 3502 Content={2868 Content={2870 Content={2854 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2865 Content={2868 Content={2860 Content={2867 Content={2868 Content={2865 Content={2868 Content={2865 Content={3503 Content={2869 Content={2868 Content={2865 Content={2865 Content={2854 Content={2865 Content={2867 Content={2870 Content={2869 Content={2868 Content={2854 Content={}}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3308, 2973 KeyNumber=3520, 2970 KeyNumber=4503, 3457, 3003}, 3308, 2969 KeyNumber=3033, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3003, 2920 SavedExpireTime=600}, 2969 KeyNumber=4600, 3003, 3050 SavedExpireTime=0}}, 2969 KeyNumber=4600, 2970 KeyNumber=3800, 3056 RemainingUses=200, 3300, 3003, 3308}, 3605 Amount=29, 3308, 3003}, 3003, 3003, 3457, 3003, 3307, 3307}}}}, 3062, 2969 KeyNumber=4600, 3045 RemainingUses=200, 2392}}, 3008, 3097 SavedExpireTime=0, 3012, 3293, 3097 SavedExpireTime=0, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 3008}, 3287 Amount=1, 3097 SavedExpireTime=3582, 2970 KeyNumber=4503, 3003, 3289, 3483}}}, 3059 String="", 3097 SavedExpireTime=3599, 3266, 3056 RemainingUses=200}}}}}, 3050 SavedExpireTime=0, 2955}, 3003}, 2922 SavedExpireTime=200, 3605 Amount=70, 3293, 2906, 2969 KeyNumber=4600, 3307, 3307}}}, 2920 SavedExpireTime=495, 2920 SavedExpireTime=0, 3457, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=497, 3003, 3097 SavedExpireTime=3587, 2969 KeyNumber=4600}}}, 
+               6 Content={3502 Content={}}}

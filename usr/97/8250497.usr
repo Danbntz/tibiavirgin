@@ -1,0 +1,50 @@
+ID              = 8250497
+Name            = "Shonen Radio"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,86-20-1-6)
+CurrentOutfit   = (128,86-20-1-6)
+LastLogin       = 1144101134
+LastLogout      = 1144101282
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32229,32279,6]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7874,0,9300,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,25038,1100,25499,1600)
+Skill = (2,0,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,65,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2158,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1615,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,36,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2961,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10}
+QuestValues = {(19,1),(20,1),(21,1),(23,1),(27,1),(31,1),(84,1),(86,1),(87,1),(100,1),(106,1)}
+Murders     = {}
+
+Inventory   = {4 Content={3378},
+               5 Content={3421},
+               6 Content={3276},
+               7 Content={3559}}
+
+Depots      = {0 Content={3502}, 
+               4 Content={3559, 3503 Content={3507 String="onrac dragonhand\ndarashia"}, 3504 Content={3507 String="shonen radio\nedron"}, 3502 Content={}}, 
+               5 Content={3084 RemainingUses=96, 3293, 3031 Amount=60, 2865 Content={}, 3311, 3505 String="The TibSpecOps Organization was founded  by Wandering Guardsman on Trimera.  Though a valiant warrior, he and his 200 some followers could not overcome the power of evils throughout Tibia.  The history of TibSpecOps is, howerver, for another time.   \nTHE POWERDEATH RUNE:\nHis cultists attempted to make a spell so powerful that it would easily surpass the power of the Sudden Death rune.  The ingredients were complex, from magic armor to ice rapiers, the ingredients were endless but the cultists continued their research.\nAnd it was done!  By the end of that month, the cultists were strong enough to formulate the spell and conjure nine of the runes, known solely as the PowerDeath runes.  The power of the rune was so great that, though it only had one shot, one blast would destroya creature up to twenty times the power of a demon...  As many of the organization's members began to leave the organization for another life outside of secrecy, they stole the PD runes and sold them.  They made tremondeus profits.  One PD rune was worth up to 5,000 gold pieces.  After the PD rune sellers were hunted and killed, TibSpecOps went after the buyers of the PD runes.  Numberous ads were posted, approximately two million gold pieces were spent, but within three months of the first selling of the runes, everyone who ever had seen or heard of the PD rune, outside of TibSpecOps, was destroyed.  The runes that were sold, however, could not be found.  The people interrogated about the runes before they were killed said they used them.  Another million gold pieces were spent into making sure that this myth was true.  Alas it was, and the eight that were sold were used, and never to be found again.  But there was one rune that was kept by TibSpecOps.  The remaining cultists Wandering Guardsman had, he put to work to create a magical safe so powerful, that it required a passphrase to be said to open successfully.  The safe was locked and hidden and remains to be discovered in Trimera...", 2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3502 Content={}}}

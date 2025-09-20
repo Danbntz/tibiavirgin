@@ -1,0 +1,53 @@
+ID              = 9376347
+Name            = "Zau-Rix-Lockheart"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,115-114-0-114)
+CurrentOutfit   = (133,115-114-0-114)
+LastLogin       = 1142824185
+LastLogout      = 1142824215
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33021,32059,6]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,39794,0,47000,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,46047,1100,50835,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,13,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8307,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1925,2000,3150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,32,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,892,1100,911,20)
+Skill = (14,0,1200,0,0,0,44,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,92,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,20,25,26}
+QuestValues = {(24,1),(27,1),(60,1),(96,1),(97,1),(98,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3147}},
+               4 Content={3357},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3723 Amount=74}}
+
+Depots      = {1 Content={3504 Content={3507 String="Sytphrit inmortale\ncarlin" Editor="Magda Edel"}, 3504 Content={3504 Content={2471, 2471, 3504, 3504 Content={3504 Content={3507 String="kol vint\ncarlin\n" Editor="Morakc"}, 3504, 3504, 3504}}, 3504 Content={2853 Content={3552}, 3003, 3507 String="Zau-Rix-Lockheart\nCarlin" Editor="Spirit Tutin"}, 3507 String="Zau-Rix-Lockheart\nCarlin" Editor="Mortax Knight"}, 3502 Content={2853, 3035 Amount=20, 3459, 3003, 3457, 3577 Amount=6, 3425, 3374, 3372, 3377, 3074, 3349, 3349, 3582 Amount=1, 3147}}, 
+               3 Content={3502}, 
+               6 Content={3723 Amount=100, 3504 Content={3504 Content={3507 String="Mortax Lockheart\nKazordoon\n" Editor="Awed Therm"}, 3507 String="Zau-Rix-Lockheart\nVenore" Editor="Mortax Lockheart"}, 3504 Content={3507 String="Zau-Rix-Lockheart\nVenore" Editor="Jimmy Stronghert"}, 2854 Content={3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3507 String="Zau-Rix-Lockheart\nVenore" Editor="Zeneth"}, 3502 Content={3075, 3003, 3457, 3582 Amount=1, 2867 Content={2853 Content={3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100, 3723 Amount=100}}, 2853, 3492 Amount=42, 2472 Content={3582 Amount=19, 3602 Amount=7, 3577 Amount=7, 2920, 2920, 2920, 2920, 2920, 2920}, 2955, 3577 Amount=7, 3003, 2854 Content={2854 Content={2854}, 2869, 2854 Content={2854, 2867, 2865, 2868, 2870}, 2854, 2854, 2854, 2854, 2854, 2870, 2871, 2867, 2854, 2869, 2867, 2854, 2854, 2854, 2854, 2865}, 2857 Content={3307}, 3503 Content={2854 Content={3507 String="zau-rix-lockheart\nvenore" Editor="Aragorn casas", 3358, 3577 Amount=2, 2853, 3003}}, 2853, 3012, 3097, 3492 Amount=24, 2984}}}

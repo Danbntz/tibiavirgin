@@ -1,0 +1,60 @@
+ID              = 7943630
+Name            = "Liwu"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-28-124-0)
+CurrentOutfit   = (128,114-28-124-0)
+LastLogin       = 1137005635
+LastLogout      = 1137005879
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32455,31938,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,510561,0,548900,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,210460,1400,222775,1600)
+Skill = (2,405,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,296,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10368,1100,10918,100)
+Skill = (7,65,0,10,0,0,0,0,0,0,0,59432,1100,62089,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,149,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,18,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,20,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,679,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1126,1100,1145,20)
+Skill = (14,0,1200,0,0,0,1010,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,78,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,59,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,10,20,29,42,49,51,76,81}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(32,1),(33,1),(34,1),(59,1),(66,1),(69,1),(70,1),(71,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(115,1),(116,1),(117,1),(118,1),(121,1),(137,1),(138,1),(139,1),(151,1),(152,1),(179,1),(180,1),(190,1),(191,1),(213,1),(214,1),(223,1),(224,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3354},
+               2 Content={3008},
+               3 Content={2854 Content={3031 Amount=26, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 3582 Amount=2, 3042 Amount=1, 3457, 3003, 3483, 3447 Amount=53}},
+               4 Content={3380},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3447 Amount=88}}
+
+Depots      = {0 Content={3504 Content={3507 String="liwu\nthais"}, 3504 Content={2853, 3507 String="liwu\nthais"}, 3504 Content={3507 String="Liwu\nThais"}, 3504 Content={3507 String="Liwu\nThais"}, 3502 Content={2854 Content={3349, 3349, 3349, 3409, 3409, 3409, 3409, 3409, 3285}}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502}, 
+               3 Content={2853 Content={2920 SavedExpireTime=598, 2920}, 2853 Content={3504 Content={3504 Content={2853 Content={2853}, 3507 String="Liwu\nAb'dendriel"}, 3507 String="Liwu\nAb'dendriel"}, 2853 Content={2853 Content={2853 Content={2853}, 2853 Content={2853 Content={2853}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}, 3502 Content={2920, 2920, 2920, 2920, 2920 SavedExpireTime=270, 2920, 2920, 2920, 3003, 3483, 3059, 3059, 3003}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3349, 3506 String="Liwu\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3504 Content={3505 String="orale pinche cara de verga .|. <-- asi\n ahi ta tu noble de verga .|. <-- asi\npinche verga .|. <--- asi", 3507 String="liwu\nvenore"}, 3504 Content={3292, 3504 Content={3504 Content={3507 String="Liwu\nVenore\n"}, 3507 String="Liwu\nvenore\n"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="liwu\nvenore"}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Iron Alley 2\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3507 String="liwu\nvenore", 3374}, 3504 Content={3507 String="Liwu\nVenore"}, 3507 String="Liwu\nVenore"}, 3507 String="Liwu\nVenore\n"}, 3507 String="Liwu\nVenore"}, 3349, 3502 Content={3322, 3483, 2854 Content={3351, 3351, 3351, 3351, 3351}, 3008, 2868 Content={3078, 3078, 3078, 3330, 2854 Content={2854 Content={2650, 2650, 2650, 2650, 2650, 2650, 2656}, 2650, 2650, 2650, 2650, 2656, 2656, 2656, 2656, 2650, 2650, 2650, 2650, 2650, 2650, 2659, 2656, 2656, 2656, 2656}, 2854 Content={3658, 3301, 3313, 3313, 2472 Content={3277 Amount=34, 3031 Amount=1, 3054 RemainingUses=103, 3012, 2969 KeyNumber=3033, 3083 RemainingUses=130, 3056 RemainingUses=200, 2469}, 3081 RemainingUses=5, 3093 SavedExpireTime=60, 3081 RemainingUses=5, 3093}, 2865 Content={2868 Content={3457, 3457, 3457, 3285}, 3283, 2854 Content={3413, 3353, 3349, 3349, 3425, 3350, 3350, 3350, 3350, 3349, 3349, 3349, 3349, 3349}, 2854, 2854}, 2854 Content={3668, 3668, 3668, 3658, 3668, 2969 KeyNumber=3033}, 2854 Content={3457, 3277 Amount=25, 3457, 3457, 3350, 2970 KeyNumber=4601, 2969 KeyNumber=4600, 3003, 3457, 3003, 3483, 3308, 3003, 3483, 3483}, 2854 Content={2970 KeyNumber=3012, 2857 Content={2970 KeyNumber=3142, 2970 KeyNumber=3012, 3042 Amount=1, 3166 Charges=2, 3051 SavedExpireTime=431, 3051, 3052 SavedExpireTime=1191}, 2859 Content={3035 Amount=100, 3035 Amount=10, 2854 Content={2854}, 3209, 3431}, 3287 Amount=100, 3572, 3287 Amount=34, 3449 Amount=68}, 2868 Content={3421, 3130, 3658, 3327, 3421, 3327, 3310, 3658, 3299, 2843}, 2867 Content={3446 Amount=74, 3446 Amount=100, 3450 Amount=10}, 2867 Content={3008, 3029 Amount=1, 3083 RemainingUses=150, 2853, 3084 RemainingUses=250, 2906, 3017, 3017, 3658, 3062, 3045 RemainingUses=200, 3008, 3457, 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low."}}, 2839, 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!", 2832 String="...we stood on a plank and beneath us was a pit full of hissing snakes. Worse, the plank was pulled back into the wall, and there was no way out. If it hadn't been for our good Alil who had stayed out of that cursed chamber in a rare moment of clear-sightedness, we would all have ended up as snake food. Just how he managed to find that hidden lever on the statue is still beyond me.", 3029 Amount=3, 3082 RemainingUses=50, 3206, 3206, 3284 RemainingUses=1}}, 
+               7 Content={3504 Content={3507 String="liwu \nankrahmun\n\n\nte la mamaste xD\n"}, 3504 Content={3507 String="Liwu\nAnkrahmun"}, 3502 Content={}}}

@@ -1,0 +1,59 @@
+ID              = 14587612
+Name            = "Babbul Naiz"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,114-18-95-39)
+CurrentOutfit   = (134,114-18-95-39)
+LastLogin       = 1148258401
+LastLogout      = 1148258445
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32316,31817,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,299615,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,128154,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,84,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,61,0,10,0,0,0,0,0,0,0,130009,1100,141042,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,69493,1100,70521,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,248,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,8,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,802,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,5,5,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,6,6,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76}
+QuestValues = {(60,1),(61,1),(96,1),(97,1),(98,1),(115,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3412, 3285, 3031 Amount=75, 3446 Amount=7, 3098 SavedExpireTime=416, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3295},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3046 SavedExpireTime=306}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={3035 Amount=4, 3031 Amount=68, 3590 Amount=5, 3504 Content={3483, 3456, 3507 String="babbul naiz\ncarlin" Editor="Babbul Naiz"}, 3504 Content={2955, 3577 Amount=51, 3299, 3084 RemainingUses=250, 3507 String="babbul naiz\ncarlin" Editor="Babbul Naiz"}, 3504 Content={3351, 3372, 3050, 3372, 3372, 3372, 3507 String="babbul naiz\ncarlin" Editor="Babbul Naiz"}, 2870, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3059, 3504 Content={3507 String="babbul naiz\ncarlin" Editor="Babbul Naiz"}, 3483, 3504 Content={3483, 3447 Amount=16, 3507 String="babbul naiz\ncarlin" Editor="Babbul Naiz"}, 3504 Content={3507 String="Babbul Naiz\ncarlin" Editor="Hija de levion ther"}, 2868 Content={3050 SavedExpireTime=1788, 3027 Amount=2, 3028 Amount=3, 3026 Amount=1, 3017, 3030 Amount=2, 3084 RemainingUses=250, 3059, 3054 RemainingUses=200, 2973 KeyNumber=3520, 3084 RemainingUses=250, 3077, 3056 RemainingUses=200, 3008}, 2857, 3588 Amount=75}}, 
+               2 Content={3502}, 
+               5 Content={3502 Content={3291}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3293, 3446 Amount=2}}, 
+               8 Content={3502 Content={3577 Amount=3}}}

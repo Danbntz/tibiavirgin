@@ -1,0 +1,49 @@
+ID              = 13830341
+Name            = "Vuesm"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,116-2-19-0)
+CurrentOutfit   = (128,116-2-19-0)
+LastLogin       = 1148064486
+LastLogout      = 1148064514
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31780,5]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38193,0,47000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,34477,3000,64000,1600)
+Skill = (2,200,290,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,3,70,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,645,645,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,17191,1100,18194,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,40,0,10,0,0,0,0,0,0,0,8876,1100,9097,50)
+Skill = (9,28,0,10,0,0,0,0,0,0,0,2529,1100,2557,50)
+Skill = (10,30,0,10,0,0,0,0,0,0,0,2948,1100,3200,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,3,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(61,1),(223,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853 Content={3504 Content={3507 String="pall of furion egon\ncarlin" Editor="Kubaa of Zanera"}, 3598 Amount=1, 2973 KeyNumber=3520, 3003}},
+               10 Content={3349}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3035 Amount=83, 3092 SavedExpireTime=1222, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3371, 3434, 3295, 3369, 2906, 3598 Amount=5, 2872 Content={3447 Amount=10, 3277 Amount=2, 3448 Amount=13, 3449 Amount=22}, 2867 Content={2871, 2854 Content={2868 Content={2870}}, 2868, 2992 Amount=2, 3269, 3291}, 2867, 2871 Content={2867, 2869, 2865 Content={3012}, 2869}, 2871 Content={3601 Amount=1, 3093 SavedExpireTime=1082, 3093 SavedExpireTime=1276, 3030 Amount=1, 3446 Amount=32}, 2868 Content={3046 SavedExpireTime=158, 3092, 3045 RemainingUses=194, 3085 RemainingUses=200, 3092, 3097 SavedExpireTime=3275, 3050 SavedExpireTime=1733, 3083 RemainingUses=150, 3050, 3084 RemainingUses=250, 3085 RemainingUses=170, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3049 SavedExpireTime=131, 3056 RemainingUses=200, 3056 RemainingUses=200, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200}, 2868 Content={2857 Content={2393, 2647, 2667, 2656, 2656}, 3085 RemainingUses=200, 2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2865 Content={3164 Charges=1, 3172 Charges=1, 3188 Charges=1, 3191 Charges=2}, 2854 Content={3028 Amount=3, 3093 SavedExpireTime=936, 3050 SavedExpireTime=1796}, 3066}, 2870 Content={3008, 3008, 2973 KeyNumber=3520}, 3502 Content={3429, 3504 Content={3507 String="Vuesm\ncarlin" Editor="Sir Rougel"}, 3504 Content={3552, 3272, 3188 Charges=3, 3507 String="Vuesm\ncarlin\n" Editor="Annihil Mage"}, 3504 Content={3507 String="Vuesm\ncarlin" Editor="Sir Rougel"}, 3504 Content={3507 String="Vuesm\ncarlin" Editor="Sir Parek"}, 3504 Content={3507 String="Vuesm\ncarlin" Editor="Sir Rougel"}, 2853, 3504, 3412, 3447 Amount=2, 3446 Amount=3, 3012, 3504 Content={3504 Content={3507 String="Vuesm\ncarlin" Editor="Pyrla Verilar"}}, 3504 Content={3504, 3507 String="Vuesm\ncarlin" Editor="Pyrla Verilar"}}}, 
+               3 Content={2865, 3502}, 
+               6 Content={3502}}

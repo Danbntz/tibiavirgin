@@ -1,0 +1,56 @@
+ID              = 8587702
+Name            = "Stof Zuiger"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-0-88-77)
+CurrentOutfit   = (128,114-0-88-77)
+LastLogin       = 1124205000
+LastLogout      = 1124205181
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 1124801596
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,172638,0,179400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,128320,1400,157982,1600)
+Skill = (2,252,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,42,0,10,0,0,0,0,0,0,0,21931,1100,22225,100)
+Skill = (7,61,0,10,0,0,0,0,0,0,0,40531,1100,42312,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,114,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,230,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5346,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,10,49,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(96,1),(97,1),(98,1),(106,1),(107,1),(128,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2868 Content={3504 Content={3507 String="mighty saint\nvenore"}, 3504 Content={3507 String="deathdark\nvenore"}, 3504 Content={}, 3148 Charges=1, 3148 Charges=3, 3031 Amount=49, 3188 Charges=3, 3447 Amount=30, 3350, 3446 Amount=100, 3446 Amount=100, 3447 Amount=100}},
+               4 Content={},
+               5 Content={},
+               6 Content={3349},
+               7 Content={},
+               8 Content={},
+               9 Content={3004},
+               10 Content={3446 Amount=39}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3357, 3504 Content={2854 Content={3043 Amount=3, 3031 Amount=100, 2865 Content={2854 Content={}, 2866 Content={}, 2857 Content={3046 SavedExpireTime=3000, 3077, 3084 RemainingUses=250}, 2854 Content={}, 2868 Content={}, 2854 Content={}, 2865 Content={}}}, 2469 Content={3587 Amount=39, 3592, 3577 Amount=92, 3583 Amount=30, 2854 Content={3031 Amount=1, 3578 Amount=72, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 3504 Content={2667, 2667, 2870 Content={3275, 3059 String="", 3083 RemainingUses=148, 3056 RemainingUses=200, 3077, 2868 Content={3098 SavedExpireTime=0, 2854 Content={2991, 3350, 3453, 2991, 2867 Content={2857 Content={3483, 3046 SavedExpireTime=2999, 3084 RemainingUses=250, 3077}}, 2876 ContainerLiquidType=0}}}, 2853 Content={2854 Content={3027 Amount=3, 3062}}}, 2868 Content={3008, 3017, 2902 ContainerLiquidType=0, 3097 SavedExpireTime=0, 3026 Amount=1, 3097 SavedExpireTime=0, 3050 SavedExpireTime=1799, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3008, 3008, 3008, 3084 RemainingUses=208, 3084 RemainingUses=250}, 2868 Content={3349, 3446 Amount=26, 3447 Amount=20, 3003, 3425, 3277 Amount=12, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={2834 String="we each pay 490 a month then igidan gets a little profit  for him actualy bying the house ", 2933 SavedExpireTime=0, 2866 Content={2854 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3349, 3299, 3483, 2968 KeyNumber=3940, 3299, 3457, 2968 KeyNumber=3940, 3059 String="", 3307, 3349, 3483, 3449 Amount=31, 3483, 3349, 3349}}, 3504 Content={3504 Content={3504 Content={}, 3504 Content={3507 String=" Life Kidute\nvenore"}, 3504 Content={3507 String="hyp'itzy\nvenore"}, 3504 Content={3504 Content={3507 String="Hyp'itzy\nvenore"}, 3507 String="Hyp'itzy\nvenore"}, 3504 Content={3507 String="Hyp'itzy\nvenore"}, 3507 String="Wryneck\nVenore"}, 3504 Content={3507 String="Sumiky\nVenore"}, 3504 Content={3507 String="Elder Druid Of Zanera\nvenore"}, 3504 Content={}, 3504 Content={3504 Content={3507 String="Fran Desirep\nvenore"}, 3507 String="andresin de'maniak\nvenore"}, 3504 Content={}, 3504 Content={}, 3503 Content={3503 Content={}}, 3504 Content={}, 3504 Content={3507 String="chebe\nvenore"}}, 3446 Amount=100, 3502 Content={3384, 3357, 3372, 3483, 2920 SavedExpireTime=0, 3008, 3007, 3384, 3552, 2866 Content={2854 Content={}, 3198 Charges=4, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 2870 Content={2870 Content={2870 Content={2854 Content={2870 Content={2870 Content={2870 Content={}}}}}}}, 2867 Content={2867 Content={2867 Content={2868 Content={2867 Content={}}}}}, 2867 Content={2867 Content={3483}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3448 Amount=4, 3349, 3351, 3035 Amount=20}}}

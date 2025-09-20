@@ -1,0 +1,52 @@
+ID              = 9467008
+Name            = "Excalibur The Archer"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,114-114-0-114)
+CurrentOutfit   = (133,114-114-0-114)
+LastLogin       = 1148072926
+LastLogout      = 1148072959
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33132,32848,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,119685,0,135100,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,106919,1400,111701,1600)
+Skill = (2,268,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,1254,1100,1357,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18504,1100,19579,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,280,1200,372,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,136,1200,181,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,434,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1281,1100,1428,20)
+Skill = (14,0,1200,0,0,0,437,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,29,42,51,79}
+QuestValues = {(14,1),(15,1),(17,1),(19,1),(21,1),(22,1),(23,1),(24,1),(27,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(37,1),(59,1),(106,1),(107,1),(109,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {3 Content={2871},
+               6 Content={3031 Amount=15}}
+
+Depots      = {0 Content={3059, 1781 Amount=5, 3059, 3412, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Fibula Village 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3031 Amount=1}}, 
+               2 Content={3483, 3492 Amount=19, 3003, 3457, 3035 Amount=3, 3598 Amount=20, 3502}, 
+               4 Content={3349, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="excalibur the archer\ndarashia" Editor="Sunion the mage"}, 3502}, 
+               6 Content={3207 Amount=1, 3502}, 
+               7 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Botham III h\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3074, 3304, 3576, 2846 Editor="Sunion the mage", 3007, 2989, 3050, 3658, 2949, 3097, 3661, 3062, 3061, 3051, 3085 RemainingUses=200, 3085 RemainingUses=191, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 3504 Content={2871 Content={3046 SavedExpireTime=2930, 3046, 3046, 3046, 2871 Content={3734 Amount=1, 2903 ContainerLiquidType=1, 3085 RemainingUses=200, 2933, 3046, 3046, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3046, 3045 RemainingUses=200, 3046, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3056 RemainingUses=200, 3046, 3084 RemainingUses=250, 3046, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3045 RemainingUses=200, 3046, 3045 RemainingUses=200, 3046}, 3507 String="Excalibur the archer\nankrahmun" Editor="Sunion the mage"}, 3502 Content={3447 Amount=100, 3447 Amount=100, 3483, 3457, 3552, 3557, 3447 Amount=19, 3004, 3572, 3350, 2659, 2644, 2647, 2659, 2653, 3504 Content={3447 Amount=100, 3446 Amount=62, 3003, 3327, 3425, 3031 Amount=4, 3003, 3349, 3448 Amount=15, 3504 Content={2659, 2659, 3446 Amount=100, 3031 Amount=100, 2853 Content={2659, 2853 Content={2659, 2653, 2659, 2842 String="lol\n", 2853 Content={2653, 2659, 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 2867 Content={3350, 2647, 2647, 2653, 2647, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 3017}, 3421, 3045 RemainingUses=200, 3077, 3084 RemainingUses=250}, 2952, 3292, 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!"}, 3046, 3046, 3046 SavedExpireTime=2998, 3046, 3572, 3046 SavedExpireTime=2185}, 3464, 3046 SavedExpireTime=2993, 3046 SavedExpireTime=529, 2991, 2955}}, 3042 Amount=1, 3576, 2839 String="Friendship should be about a prize that cannot be paid with money, about stuff to talk about every day again, about giving and not keeping, about helping...\nBut most of all about sticking together.\nFriends always stick together and nobody can seppurate them...Excalibur,\nnobody can seppurate us we are best friends forever untill we die\n\n                     ~Timochouk~", 3349, 3734 Amount=1, 2968 KeyNumber=3940, 3093 SavedExpireTime=132, 3093, 3092 SavedExpireTime=1780, 3092}}, 
+               8 Content={3504 Content={3507 String="Excalibur The Archer\nPort Hope\n" Editor="Sheepie"}, 3504 Content={3507 String="Excalibur The Archer\nPort Hope"}, 3504 Content={3507 String="excalibur the archer\nport hope\n"}, 3504 Content={3507 String="excalibur the archer\nport hope"}, 3504 Content={3507 String="excalibur the archer\nport hope"}, 3502}}

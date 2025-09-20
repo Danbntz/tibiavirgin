@@ -1,0 +1,53 @@
+ID              = 10223502
+Name            = "Arcayne"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,77-114-114-0)
+CurrentOutfit   = (134,77-114-114-0)
+LastLogin       = 1140134834
+LastLogout      = 1140134972
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32230,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,305894,0,330400,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,504480,1100,528063,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,47,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12849,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,32753,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,266,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,245,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,82,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,12,16,17,18,20,29,30,42,44,45,76,81,84}
+QuestValues = {(84,1),(85,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2869 Content={3035 Amount=10, 3504 Content={3357, 3557}, 2868 Content={3198 Charges=1, 3198 Charges=2, 3198 Charges=3, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}},
+               5 Content={3279},
+               8 Content={3552}}
+
+Depots      = {0 Content={2920 SavedExpireTime=597, 3457, 3003, 2920, 3031 Amount=11, 3031 Amount=100, 3311, 3504 Content={3377, 3507 String="arcayne\nthais"}, 3504 Content={3507 String="Arcayne\nthais", 2854 Content={3572, 3003, 3003}}, 3504 Content={3507 String="arcayne\nthais"}, 3504 Content={3507 String="arcayne\nthais"}, 3504 Content={3425, 3411, 3286, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 3374, 2853, 3507 String="arcayne\nthais"}, 3504 Content={3507 String="arcayne\nthais"}, 3502}, 
+               1 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2481 Content={}, 2471 Content={}, 3492 Amount=27, 2481 Content={}, 3147, 2968 KeyNumber=3940, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3147, 3285}, 3054 RemainingUses=123, 3084 RemainingUses=250, 3077, 3457, 3502 Content={3483, 3003, 3457}}, 
+               5 Content={2870 Content={3031 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2868 Content={3351}, 2866 Content={3046 SavedExpireTime=2157, 2853 Content={3354, 3264, 3286, 2853 Content={3358, 3264, 3354, 3358, 3286, 2853 Content={3286, 3264, 3286, 3264, 3358, 2853 Content={3264, 3286, 3358, 3264, 3354, 2853 Content={3354, 3286, 3286, 3264, 3286, 3358, 2853 Content={3286, 3286, 3358, 3286, 3286, 3286, 2853 Content={3286, 3358, 3352, 3286, 3352, 3286}}}, 3264}, 3264}}}}, 2870 Content={3723 Amount=43, 3582 Amount=2, 3577 Amount=92, 3577 Amount=100, 2870 Content={2871 Content={2865 Content={}}}}, 3502 Content={2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147, 3147, 3147}}}

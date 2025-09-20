@@ -1,0 +1,52 @@
+ID              = 8029841
+Name            = "Fenacor Shadow"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,94-88-120-77)
+CurrentOutfit   = (129,94-88-120-77)
+LastLogin       = 1147834929
+LastLogout      = 1147834954
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,174089,0,179400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,175491,1400,222775,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,260,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,30125,1100,33003,100)
+Skill = (7,62,0,10,0,0,0,0,0,0,0,44962,1100,46574,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,57,1200,109,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,28,0,10,0,0,0,0,0,0,0,6597,1200,7736,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,1018,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8731,1100,8851,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,97,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,42,51,76,79,81}
+QuestValues = {(14,1),(15,1),(16,1),(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(111,1),(112,1),(121,1),(190,1),(191,1),(208,1),(224,1),(254,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={3507 String="fenacor shadow\nthais" Editor="Centipedo"}, 3502}, 
+               1 Content={3504 Content={3507 String="Fenacor Shadow\nCarlin" Editor="Fenacor Shadow"}, 3502}, 
+               2 Content={2870 Content={3350, 3425, 3457, 3276, 3456, 3147, 3147}, 3031 Amount=100, 3447 Amount=48, 2969 KeyNumber=3033, 3031 Amount=28, 3277 Amount=1, 3492 Amount=15, 3265, 1781 Amount=5, 3492 Amount=5, 3031 Amount=100, 3504 Content={3349, 2853 Content={2853, 2853, 2970 KeyNumber=3802, 2970 KeyNumber=3800}, 3507 String="Fenacor Shadow\nKazordoon" Editor="Eriot Draguz"}, 3457, 2859 Content={3198 Charges=3, 3198 Charges=5, 3198 Charges=5}, 3353, 2854 Content={3264, 2853, 3483, 3492 Amount=81, 3092, 3457, 3483}, 3502 Content={3035 Amount=70, 2853 Content={3358, 3358, 3358, 3305}, 3503, 2853 Content={3377, 3377}, 3359, 3286, 3266, 3457, 3358}}, 
+               3 Content={3502}, 
+               4 Content={3578 Amount=2, 3504 Content={3507 String="fenacor shadow\nedron"}, 3502 Content={}}, 
+               5 Content={3358, 2992 Amount=8, 3283, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="dark randor\nvenore"}, 2854 Content={3447 Amount=38, 3277 Amount=7, 3046 SavedExpireTime=2891, 3290, 3447 Amount=100, 3012, 3031 Amount=39, 3031 Amount=100, 3035 Amount=5, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3572, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003}, 2854, 3003, 2853 Content={3277 Amount=3}, 3504 Content={3507 String="fenacor shadow\nvenore"}, 2885, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 3003, 3308, 2969 KeyNumber=5010, 3457, 3507 String="Sedorff\nvenore", 2969 KeyNumber=5010, 3504 Content={3430, 3507 String="Fenacor Shadow\nVenore"}, 3502 Content={3504, 3155 Charges=1}}, 
+               7 Content={3031 Amount=33, 3031 Amount=100, 3031 Amount=100, 3447 Amount=15, 3409, 3446 Amount=100, 3353, 3349, 2853 Content={3447 Amount=1, 3207 Amount=1, 3012}, 3506 String="Fenacor shadow\nAnkrahmun\nFenacor Shadow is here\nhunting larvas (firt floor)\nhinting scarab ( secd floor)\nMsg me first before in the cave!", 3349, 2865 Content={3046 SavedExpireTime=0, 3042 Amount=1, 3084 RemainingUses=250, 3077, 3046 SavedExpireTime=0, 2857 Content={3049 SavedExpireTime=53, 3004, 3097 SavedExpireTime=0, 3092 SavedExpireTime=0, 3050 SavedExpireTime=0}, 3017, 3008, 3045 RemainingUses=200, 3017, 3287 Amount=3, 3299, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3502 Content={3448 Amount=4}}}

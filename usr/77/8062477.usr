@@ -1,0 +1,49 @@
+ID              = 8062477
+Name            = "Posh Kilex Elder"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (139,0-16-0-0)
+CurrentOutfit   = (139,0-16-0-0)
+LastLogin       = 1137227905
+LastLogout      = 1137229431
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31688,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,16515,0,17600,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,233387,1100,237809,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,101,125,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,500,500,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,2390,1500,3217,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,27,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4265,1800,6824,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2436,1800,3763,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,183,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,15751,1100,15835,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,42,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,5,8,10,42}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(35,1),(59,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               6 Content={3066},
+               8 Content={3552}}
+
+Depots      = {1 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3031 Amount=28, 3358, 3492 Amount=3, 3502}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3483, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 3504 Content={3578 Amount=15, 3507 String="Posh Kilex Elder\nAb'dendriel"}, 2865 Content={3147, 3147, 3147, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3504 Content={3492 Amount=59, 3578 Amount=11, 3559, 3198 Charges=5, 3507 String="Posh Kilex Elder\nAb'dendriel"}, 3483, 3174 Charges=4, 3003, 3294, 3412, 3502 Content={2969 KeyNumber=3033, 2853 Content={3410, 3354, 2816 String="The mystic portal remains unstable so reinforcements from Mintwallin seldom arrive here. \nThe royal mage managed to impress the primitive local orcs though and we can use them as slaves and runefodder. The trolls surrendered immediately and can be used for lesser services.\nThe human base has to be destroyed since more and more arrive there. These enemies are not strong but their number might cause some problems. As long as they will be revived at this mystic vortex even they can ruin our plans. We have to figure out how to destroy the vortex first. The mage locked himself up in his quarters and wants not to be disturbed anymore. He entrusted me with the duty to coordinate all our actions here."}, 3377}}}

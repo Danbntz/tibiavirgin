@@ -1,0 +1,55 @@
+ID              = 8610536
+Name            = "Skull the mage"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,114-114-114-95)
+CurrentOutfit   = (129,114-114-114-95)
+LastLogin       = 1120675609
+LastLogout      = 1120678078
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,21993,0,23200,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,58160,1100,64871,1600)
+Skill = (2,205,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,110,155,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,510,510,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7643,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,6819,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,969,1100,1023,20)
+Skill = (14,0,1200,0,0,0,960,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,10,16}
+QuestValues = {(59,1),(125,1),(126,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={},
+               3 Content={2865 Content={3031 Amount=27, 3585 Amount=1, 3457, 3447 Amount=8, 3350, 3577 Amount=2, 3031 Amount=100, 3003, 2865 Content={3446 Amount=11, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5}, 3191 Charges=1}},
+               4 Content={3377},
+               5 Content={3305},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {1 Content={3504 Content={3507 String="skull the mage\ncarlin"}, 3502 Content={3504 Content={3507 String="skull the mage\ncarlin"}}}, 
+               3 Content={2853 Content={3031 Amount=71, 3031 Amount=100, 3031 Amount=100}, 3504 Content={3447 Amount=3, 3308, 2853 Content={2853 Content={}}}, 3504 Content={}, 3502 Content={3447 Amount=33, 2865 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3605 Amount=60, 3451, 2816 String="Create Beer \nNo Dwarve can resist a good mug of Jimbin's beer and this spell will one day allow you to create such beer with a few simple ingredients. Collect the hair of a troll, a mushroom of any sort, a small amount of soul from the mad mage valley, some water from around the mad mage valley and the silence befire dawn. Place the ingredients into a flask of the mad mage valley water, cork it and boil it. Remove the cork and pour a small amount of the potion into a cup and shake it. Now we have to find out how to bring in the silence gefore dawn in an appropriate way. You should then have a full cup of beer if all works as calculated so far. We estimate one potion should be a weeks suply of beer if you minimize your drinking to 7 mugs a day. \n(Oh, and don't tell jimbin about this spell) \n\nThose are the findings. It was also found that the water that flows by the mad mage valley is quite magical. One of our mages suggested that it is the \"soul of the sea\". ", 2816 String="The Brighteyes Legend\nBy: Damius Weirgroth \n\nLong ago, long before the lands of Tibia were known by this name a dwarven fellowship was founded, holding a destiny of fame, power and tragedy. These Individuals were known as the brighteye fellowship. Those who crossed them or did something to anger them never saw the light of day. It is said when enraged these dwarve's eyes grew in light that could be seen a towns distance away and they went into a bezerk frenzy killing all that opposed them. Loosing all control and compassion in that frenzy they became unbearable even to the fellowsships of the savage axes and the dragoneaters. So after great debates between the fellowships they left Kazordoon and the big old one for unknown new lands. Though some setteled at remote spots on the continent the trail of the others was lost. They are considered the lost fellowship in theese days and no britghteye was born since then in the halls of Kazordoon.", 2816 String="War of Welcome Begins \nIt happened suddenly one morning. A group of Dwarves were passing by the Orc territory outside their mountain. They were on their way to Thais to sell off some of their jewels of the mountain. The orcs tried to ambush them but falied. The dwarves reacted quick and by valor and superior equipment defeated the raiders. This ensued the War of Welcome. After this incident the dwarves who claimed that the time had come to stand up for their beliefs and their treasure got the proof they needed to convince their brethren and sisters of their cause.  The orcs would not retreat though and prepared themselfes for war. After a year of battle the orcs were finaly crushed and the tribe scattered. The dwarves now again claimed dominance over the heart of the continent and all the land that 'where under the shadow of the big old one'. The humans of the thaian kingdom became allys to the dwarfen empires soon after theese wars and trade flourished. ", 2816 String="Dwarven report VII\nEnemy magic\n\nOur elemantarists have successfully unrevealed the the secrets of what is called \"dream magic\". It is a subconscious way of influencing the surroundings. It is mainly used by elven parents that want to shape their unborn child, but, this is the far more important threat, some elves, especially those called \"Teshial\" posess the ability to wander some kind of \"dream realm\" instead of the real world. This gives them the oppurtunity to appear somewhere out of the blue, but, fortunately, the Teshial never used this skill to ambush, and the other elves posess only small remnants of this magic.\nNever the less, the 2nd earthen chamber is evolving a counter spell for that, that increases the elemental signature of beings near, forcing them into the real realm.\n\nThe other kinds of their magics are limited to protective and growing spells, whicht yet do not prove any harm, but are very supportive for their strife. It is rumored that they have also a lot of illusionary and concealing spells, but investigations here have not yet led to final results, as well as we can only deny the existance of aggressive magic by an elven race od caste od unknown origin.\n\nFor further information refer to sub-report AX-27.\n", 2816 String="Introduction of the War of Welcome \n\nThe War of Welcome took place near the southern bridge, that the humans call 'the dwarf bridge'. The southern territory was once inhabited by a mighty orcish tribe and the few dwarves brave enough to stick around the mountain were constantly being hasseled by these orcish people and some were enslaved by the vile orcs! To the Northwest lie Carlin, a place inhabited by humans who struggled for survival on their own and could not help the dwarves in this matter either. As time went by the dwarves who called for war against the orcis raiders grew in number and voice. They felt they had a right to reatake these lands from the orcish invaders. \n", 3056 RemainingUses=200, 3050 SavedExpireTime=0, 3035 Amount=15}}}

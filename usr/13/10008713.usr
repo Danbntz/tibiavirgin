@@ -1,0 +1,57 @@
+ID              = 10008713
+Name            = "Rayas"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,94-114-114-94)
+CurrentOutfit   = (129,94-114-114-94)
+LastLogin       = 1148219593
+LastLogout      = 1148223153
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32478,32070,9]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,587282,0,601800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,138255,3000,193600,1600)
+Skill = (2,502,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,11,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,62,0,10,0,0,0,0,0,0,0,146228,1100,155247,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,137,1400,213,30)
+Skill = (8,64,0,10,0,0,0,0,0,0,0,87033,1100,94029,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,11,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,47,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4667,1100,4909,20)
+Skill = (14,0,1200,0,0,0,843,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,106,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(37,1),(55,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(76,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(99,1),(100,1),(106,1),(107,1),(109,1),(115,1),(140,1),(141,1),(190,1),(191,1),(208,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2869 Content={3031 Amount=93, 3457, 3052 SavedExpireTime=928, 3091 SavedExpireTime=1268, 3003, 2969 KeyNumber=3600, 2870 Content={3031 Amount=100, 3409, 3031 Amount=100, 3413, 3384, 3035 Amount=34}, 3148 Charges=1, 2857 Content={2920, 2920}, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 3483}},
+               4 Content={3381},
+               5 Content={3428},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3047 RemainingExpireTime=1682}}
+
+Depots      = {0 Content={3504 Content={3378, 3411, 3377, 2854 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 3507 String="rayas\nthais"}, 3504 Content={3504 Content={3504 Content={3507 String="rayas\nthais"}, 3507 String="Rayas\nThais"}, 3507 String="rayas\nthais"}, 3268, 3274, 3354, 3504 Content={3507 String="rayas\nthais"}, 3504 Content={3507 String="rayas\nthais"}, 3504 Content={3507 String="rayas\nthais"}, 3504 Content={3507 String="rayas\nthais"}, 2874, 3412, 2874, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="rayas\nthais"}, 3375, 3503 Content={3507}, 3502 Content={3114 Amount=1, 3503 Content={3017, 2667, 2667, 2667}, 2656, 3457, 3377, 2893}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}, 3283, 3430, 2874, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3505}, 3504 Content={3507 String="rayas\nAb'Dendriel"}, 3502}, 
+               6 Content={2868 Content={3504 Content={3357, 3035 Amount=7, 1781 Amount=34, 3035 Amount=100, 3281, 3384}, 2870 Content={2854 Content={3483, 3492 Amount=18, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3725 Amount=1, 3732 Amount=1, 3602 Amount=10, 3603 Amount=34, 3585 Amount=8, 3605 Amount=21, 3587 Amount=2, 3597 Amount=2, 3579 Amount=10, 3598 Amount=68}, 2865 Content={3454, 3084 RemainingUses=250, 3030 Amount=1, 3085 RemainingUses=200, 3098, 3082 RemainingUses=50, 3097}, 2865 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2865 Content={2865 Content={2970 KeyNumber=3800, 2981, 2981, 2981, 3308, 2969 KeyNumber=4600, 2970 KeyNumber=3801, 3457, 3003, 3483, 3457}, 3504 Content={2969 KeyNumber=3008, 2969 KeyNumber=3002, 2969 KeyNumber=3001, 2969 KeyNumber=3003, 2969 KeyNumber=3005, 2969 KeyNumber=3008, 2969 KeyNumber=3007, 2969 KeyNumber=3004, 2969 KeyNumber=3006, 3507 String="Rayas\nkazordoon"}}, 2872 Content={2969 KeyNumber=3033, 2983, 3292, 3076, 2969 KeyNumber=5010, 3207 Amount=1}, 2854 Content={3457, 3504, 3504, 3504, 3504 Content={3507 String="rayas\nkazordoon\n"}, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504 Content={3504 Content={3504, 3504}}}, 2870, 3502}}

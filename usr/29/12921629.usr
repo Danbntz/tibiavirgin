@@ -1,0 +1,61 @@
+ID              = 12921629
+Name            = "Charly'mcfly"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,71-94-79-81)
+CurrentOutfit   = (128,71-94-79-81)
+LastLogin       = 1148001168
+LastLogout      = 1148002895
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32480,31940,10]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,889491,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,269986,3000,582400,1600)
+Skill = (2,479,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,190,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,117955,1100,128129,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,41,1400,71,30)
+Skill = (8,64,0,10,0,0,0,0,0,0,0,91201,1100,94029,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,43,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,48,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1495,1100,1590,20)
+Skill = (14,0,1200,0,0,0,1021,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,7,0,51,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,32,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(21,1),(22,1),(23,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(109,1),(115,1),(137,1),(190,1),(191,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3055},
+               3 Content={2867 Content={3198 Charges=1, 3723 Amount=2, 3031 Amount=25, 3091 SavedExpireTime=1789, 3031 Amount=100, 3425, 3003, 3160 Charges=1, 3457, 2868 Content={3446 Amount=22, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3198 Charges=2, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3370},
+               6 Content={3281},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2854 Content={2871 Content={2866 Content={2866 Content={2854 Content={2854 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={2854 Content={2854}, 3504 Content={3507 String="charly'mcfly\nthais" Editor="Charly'mcfly"}, 3574, 3384, 3266, 3313, 3313, 2867 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2868 Content={3308, 3457, 3003, 3308, 3457, 3456, 3003, 3003}, 2857 Content={3492 Amount=30}, 3502 Content={3285, 3456, 3265, 3282}}, 
+               1 Content={3502}, 
+               2 Content={2853 Content={2853 Content={2853 Content={3358, 3358}, 3413, 3413, 3358, 3377, 3358, 3358}, 3358, 3358, 3358}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2854}, 3301, 4871, 3504 Content={3446 Amount=15, 3446 Amount=100, 3723 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3384, 3384}, 2867 Content={3723 Amount=34, 3092}, 3502 Content={3379, 2854 Content={3349, 3349, 3349, 3349, 3349}, 3092 SavedExpireTime=1747, 2656}}, 
+               3 Content={3504 Content={3507 String="charly'mcfly\nab'dendriel" Editor="Charly'mcfly", 3409, 3409, 3285, 3285, 3285, 3285}, 3349, 2983, 2853, 3502 Content={3446 Amount=7, 3377}}, 
+               4 Content={3504 Content={2854 Content={3425, 3358, 3447 Amount=13, 3447 Amount=100, 3447 Amount=100, 3350, 2969 KeyNumber=3033}}, 3504 Content={3297}, 3457, 2867 Content={3504}, 3502}, 
+               5 Content={2865, 3330, 3502 Content={3582 Amount=38}}, 
+               6 Content={3031 Amount=100, 3031 Amount=100, 2867 Content={3091, 3091, 3091, 3091, 3091, 3091, 3091 SavedExpireTime=1509}, 3503 Content={3436, 3412, 3290, 3441, 3046 SavedExpireTime=2879}, 2867 Content={2854}, 2868 Content={3322, 3313, 3322}, 2865 Content={2867, 2867, 2867, 2867, 2867, 2867, 2871, 2867, 2866, 2854, 2866, 2854}, 2854 Content={3042 Amount=20, 3093}, 2854 Content={2868 Content={3004, 3456, 3056 RemainingUses=200, 3003, 2914, 2914 SavedExpireTime=1998, 3298 Amount=1}, 2952, 3267, 2992 Amount=1, 3008, 2950, 3289, 2969 KeyNumber=5000, 3270}, 2854 Content={2854 Content={2659, 2659, 2659, 2650, 3299, 2853 Content={3270}, 3316, 2393, 3056 RemainingUses=200}}, 3502 Content={2872 Content={3035 Amount=13, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3147, 3483, 3308, 3290, 3578 Amount=16, 3578 Amount=100, 3370, 3004, 3074, 3046 SavedExpireTime=2998, 3264, 3061, 2873 ContainerLiquidType=1, 3076, 4871}}}, 
+               7 Content={2866, 2842, 3007, 3007, 3563, 2871, 3372, 3429, 2868 Content={2871 Content={2866 Content={2871 Content={2865 Content={2854}}}}}, 2866 Content={3456, 3583 Amount=12, 3056 RemainingUses=200}, 3577 Amount=71, 2854 Content={3457, 3003, 2867 Content={2647, 2647, 2659, 2659, 2659, 2659, 2659, 2659, 2659}, 3147, 3147, 3267, 2969 KeyNumber=5010, 3308, 3308, 3308, 3377, 3003}, 2854 Content={3492 Amount=100, 3492 Amount=100, 2893, 3017, 3017, 3017, 3097, 3097, 3097 SavedExpireTime=3572, 3092, 3092, 3092, 3092 SavedExpireTime=1267, 3092 SavedExpireTime=1797, 3097 SavedExpireTime=3587, 3097}, 2868 Content={2857 Content={3535, 3535, 3536, 3535, 3535, 3542, 3541, 3543}, 3534 Amount=10, 3533 Amount=6, 3537, 3535, 3538, 3535, 3537, 3535, 3535, 3541, 3537}, 3502 Content={2866 Content={2857, 2871, 2865, 2854, 2868, 2868, 2854, 3548 Amount=1, 2866, 2854, 2866, 2867, 2854, 2865, 2854, 2866, 2866}, 3504 Content={3504 Content={3504 Content={3504, 3504 Content={3507 String="Sir Wyfex\nAnkrahmun" Editor="Sir Wyfex"}, 3504 Content={3507 String="coyotong\nankrahmun" Editor="Coyote Maloso"}, 3504, 3504 Content={3507 String="castor reth\nankrahmun" Editor="Castor Reth"}, 3504 Content={2853, 3507 String="angel omar\nankrahmun" Editor="Angel-Falcon"}, 3504 Content={3507 String="vithran\nankrahmun" Editor="Sir Doton"}, 3504 Content={3507 String="deli yask\nankrahmun" Editor="Mel yask"}, 3504 Content={3507 String="Sir Wyfex\nAnkrahmun" Editor="Sir Wyfex"}, 3504}, 3504 Content={3504, 3504 Content={3507 String="venus de'montecristo\nankrahmun" Editor="Alejandradip"}, 3504, 3504 Content={3507 String="Undead'Bolter\nAnkrahmun" Editor="Undead'Bolter"}, 3504, 3504 Content={3507 String="rkstein\nankrahmun\n" Editor="Kat-Kitty"}, 3504, 3504}}}}}, 
+               8 Content={3502}}

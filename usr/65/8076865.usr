@@ -1,0 +1,58 @@
+ID              = 8076865
+Name            = "Shelo al'Chosto"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-94-87-87)
+CurrentOutfit   = (129,114-94-87-87)
+LastLogin       = 1140408389
+LastLogout      = 1140408520
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32528,32160,13]
+PlayerkillerEnd = 0
+
+Skill = (0,39,0,1,0,0,0,0,0,0,1,869512,0,917800,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,226253,3000,582400,1600)
+Skill = (2,416,650,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,85,190,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,108,108,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1245,1245,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,212948,1100,227761,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,205,1400,213,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,32,1100,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,306,1100,385,50)
+Skill = (10,69,0,10,0,0,0,0,0,0,0,141149,1100,151740,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,167,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,55,0,10,0,0,0,0,0,0,0,15449,1100,15835,20)
+Skill = (14,0,1200,0,0,0,718,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(14,1),(18,1),(20,1),(21,1),(22,1),(23,1),(37,1),(38,1),(55,1),(67,1),(68,1),(69,1),(70,1),(71,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(128,1),(134,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3),(222,1),(253,1),(291,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2853 Content={3031 Amount=38, 2853 Content={3349, 3367, 3367, 2853 Content={3286, 3286, 3359, 2853 Content={3264, 3286, 3367, 3264, 3286, 3286, 3367, 3286}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3349}, 3367, 3286, 3286}, 3031 Amount=100, 3031 Amount=100, 3446 Amount=30, 2920 SavedExpireTime=598}},
+               4 Content={3370},
+               5 Content={3429},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={2925 RemainingExpireTime=239}}
+
+Depots      = {0 Content={3504 Content={2785, 3504 Content={3082 RemainingUses=50, 3035 Amount=1, 3349, 3349, 3350, 3072}}, 2854 Content={3483, 3492 Amount=67, 3421, 3017, 3377, 3076, 3045 RemainingUses=200, 3375}, 2853 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 2969 KeyNumber=3620, 2969 KeyNumber=3650, 2969 KeyNumber=5000}, 2853 Content={3585 Amount=1, 3593, 3593, 2833 String="The TBI knows about our mole. It is quite certain that some recent actions and disinformation was only to bait him. He is now in some hiding place and I'm afraid he we will not be of much use for us in spying on the TBI's activities for a while. ", 2833 String="Our contact in Port Hope claims that he has not yet been able to make contact with the dworcs. I bet this coward has not even tried it. For the sheer distance it is not possible to punish him in an appropriate manner. If we would send a specialist, he could take care of that dworc contact. On the other hand, a local helper who is familiar with the jungle would probably prove more valuable than sending one of our assassins to a likely death by the hands of those cannibals.", 3017}, 3504 Content={2969 KeyNumber=4600, 2853 Content={2920 SavedExpireTime=504, 3270, 3590 Amount=8, 3585 Amount=1}, 2866 Content={3017, 2865 Content={3588 Amount=32, 3597 Amount=1, 3593}, 3034 Amount=1}, 2854 Content={3310, 2854 Content={2393, 2659, 2387, 2653}, 2866 Content={3003, 2400, 3558}, 2473 Content={3483, 2471 Content={3293, 2471 Content={2469 Content={2854 Content={3003}, 2853 Content={2853 Content={3483, 3083 RemainingUses=150}}, 3601 Amount=19}, 3056 RemainingUses=200}}, 3003, 2650, 3059, 3293}, 3298 Amount=1, 2859 Content={2393, 2387, 2659, 2650, 2644}, 2854 Content={2653, 2650, 2650, 2399, 2400, 2387, 2667, 2659, 2647, 2653, 2650, 2650, 2644, 2644, 2644, 2644, 2393, 2401, 2401, 2401}, 3274, 3268, 3268}}, 3502 Content={3003, 3287 Amount=13, 3599 Amount=8, 2973 KeyNumber=5050, 2952, 2902, 2833 String="The recent accident in the laboratories did not interrupt the poison brewing in a considerable way. The loss of the head alchemist makes it necessary to ask for a replacement though. Although the remaining alchemists have to work twice as hard as before, everything went fine so far. Still, I have to admit that working overtime makes new accidents more likely, but I decided to take that risk until a replacement arrives. ", 2833 String="I had Malicious eliminate this thrice cursed agitator that let himself been scammed by some con artist. He wasted our money supporting a fake revolution. I can't belive this stupidity, a scammer scammed! Malicious was ordered back for more important business though and lower ranking operatives consigned to find the scammer.", 2853 Content={3463, 2989, 3004}, 2970 KeyNumber=3142, 2968 KeyNumber=3940}}, 
+               1 Content={3307, 3085 RemainingUses=200, 3502 Content={3446 Amount=1, 2854}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3318, 3280, 3357, 3357, 3377, 3425, 3384, 3070, 3557, 2920, 2869, 3276, 2869 Content={2854, 3056 RemainingUses=200, 2853, 3050, 3565}, 2868 Content={3291, 3012, 3503 Content={3507}}}}, 
+               6 Content={3502 Content={3074, 2969 KeyNumber=3600, 3563, 3078, 3062, 2969 KeyNumber=3600, 3301, 3483, 3558, 3003}}}

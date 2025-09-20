@@ -1,0 +1,61 @@
+ID              = 8459191
+Name            = "Esteroid Knight"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,97-38-49-0)
+CurrentOutfit   = (134,97-38-49-0)
+LastLogin       = 1148258892
+LastLogout      = 1148258947
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32336,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1157586,0,1238400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,367226,3000,582400,1600)
+Skill = (2,652,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,38,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1345,1345,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,324228,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,73,0,10,0,0,0,0,0,0,0,209175,1100,222395,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,299,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7577,1100,8028,20)
+Skill = (14,0,1200,0,0,0,647,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(18,1),(39,1),(55,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(115,1),(125,1),(126,1),(128,1),(134,1),(137,1),(140,1),(141,1),(142,1),(143,1),(151,1),(152,1),(190,1),(191,1),(200,1),(202,1),(217,3),(223,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2870 Content={3430, 3267, 3031 Amount=8, 3492 Amount=36, 3456, 3003, 2871 Content={2874, 2874, 2874, 2863, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3457}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2865}},
+               4 Content={3381},
+               6 Content={3281},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={2857 Content={3147, 3147, 3147, 3147}}}, 
+               4 Content={3502}, 
+               5 Content={3456, 3502}, 
+               6 Content={3504 Content={3507 String="Esteroid Knight\nVenore" Editor="Blind Mariof"}, 3504 Content={3507 String="Esteroid Knight\nVenore" Editor="Drake Xenell"}, 3504 Content={3507 String="esteroid knight\nvenore" Editor="Zeneth"}, 3207 Amount=12, 3502 Content={3097 SavedExpireTime=3598, 2865 Content={3083 RemainingUses=150, 3084 RemainingUses=250, 3083 RemainingUses=150, 3084 RemainingUses=250, 3083 RemainingUses=150, 3083 RemainingUses=150, 3077, 3330, 3059, 3330}, 2867 Content={3308, 2826 String="Tales of Tibia", 3350}, 2867}}, 
+               7 Content={3502 Content={2866 Content={3338, 3441, 3557, 3093, 3271}, 2854 Content={2868, 2469 Content={2779, 2867 Content={3583 Amount=14, 3589 Amount=1, 3579 Amount=2, 3587 Amount=5, 3588 Amount=94, 3584 Amount=10, 3591 Amount=10, 3602 Amount=8, 3585 Amount=10, 3600 Amount=10, 3586 Amount=10}}}, 2854 Content={3457, 3483}, 2854 Content={3042 Amount=16, 3449 Amount=7, 4839, 3310, 3007, 3066, 3074, 3077, 3017, 3017}, 2865}}, 
+               8 Content={3502}}

@@ -1,0 +1,56 @@
+ID              = 12190357
+Name            = "Fanus'Doliona"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (142,59-124-114-0)
+CurrentOutfit   = (142,59-124-114-0)
+LastLogin       = 1144118932
+LastLogout      = 1144118968
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32354,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,35148,0,37800,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,19031,1100,21727,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6437,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,451,1800,593,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,892,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,22,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,20,29,44,81,87,88}
+QuestValues = {(20,1),(25,1),(26,1),(86,1),(87,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3083 RemainingUses=26},
+               3 Content={2853},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3070},
+               7 Content={3557},
+               10 Content={3003}}
+
+Depots      = {0 Content={3208, 3504 Content={3507 String="Fanus'Doliona\nThais" Editor="Fanus'Doliona"}, 3502 Content={3447 Amount=7, 3448 Amount=1, 3066}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="Fanus'Doliona\nEdron" Editor="Elite Adicct"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={2853 Content={2853 Content={2853 Content={3354, 3354, 3367, 3354}, 3354, 3354, 3367}, 3354}, 2853 Content={2853 Content={2853 Content={3354, 3354, 2853 Content={3354, 3367, 3354}, 3367, 3354, 3367}, 3354, 3367, 3354}, 3354, 3367, 3354}, 2853 Content={3301, 2853 Content={3449 Amount=9, 3349}, 3349, 3409, 3294, 3349}, 2854 Content={2969 KeyNumber=5010, 2856 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 4871, 3441, 3045 RemainingUses=200, 3483, 3330, 3483, 2866 Content={3045 RemainingUses=200, 3301, 2856 Content={3147}, 3198 Charges=5}, 3327, 3412, 3504 Content={2868 Content={2393, 2393, 2667, 2644, 2667, 2644, 2667, 2644, 2667, 2644, 2644, 2393, 2393, 3658, 2393, 2393, 2393, 2667, 2393}, 3507 String="Andre lan'skat\nankrahmun" Editor="Andre Lan'skat"}, 3097, 3504 Content={3504 Content={3066, 2854 Content={3349, 3446 Amount=36, 3003}, 3375, 3004, 3425, 3551, 3507 String="Andre Lan'skat\nAnkrahmun" Editor="Artie Zoitas", 2853 Content={2969 KeyNumber=3033, 3425}}, 2870 Content={2868 Content={3377, 3425, 2868 Content={2854 Content={2853 Content={2865 Content={2865 Content={2865 Content={2854 Content={2865 Content={2865 Content={2853 Content={3147, 3147, 3147, 3174 Charges=5}, 2854 Content={2950, 2854 Content={3483, 3483, 3483, 2913, 3059, 3059, 3059, 2833 String="Report 78ACFF04\nThe usual turmoil when the QUEEN GENOVEVA is in town - the sailors, drunk as always, stood out with their usual misbehaviour with the result that one of them spilled the beer of a local dwarf. In the following fight a lot of property was destroyed and even lives were endangered. I sent word to Thais that such events destroy the peace of our colony and that we would probably do better to rely on the more disciplined seamen of Venore who are more accustomed to the hardships of long journeys than the men of the Thaian marine. A letter written by the local traders strongly supporting my point has been enclosed. "}, 2854 Content={2667, 2656, 2906, 2969 KeyNumber=3033}, 2854 Content={3031 Amount=100, 3031 Amount=33, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 3658, 2853 Content={2949, 3046, 3046, 2973 KeyNumber=3520, 2970 KeyNumber=4601, 2853 Content={2955, 2955, 3097, 3050 SavedExpireTime=1798, 3050 SavedExpireTime=1788, 3004, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200, 3085 RemainingUses=49, 3012, 3012, 3008, 3008}}, 2857 Content={3008, 3008, 3008, 3084 RemainingUses=250, 3056 RemainingUses=200, 3045 RemainingUses=200, 3012}}, 2985}}, 2920}, 3483, 3492 Amount=54}}}}}}, 3059, 2992 Amount=4, 3147, 3147, 3147, 3147}}, 3557, 3507 String="andre lan'skat\nAnkrahmun\n" Editor="Andre Lan'skat"}, 3327, 3483}, 2854 Content={3066, 3031 Amount=24, 3457}, 3502 Content={3035 Amount=8}}}

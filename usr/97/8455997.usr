@@ -1,0 +1,52 @@
+ID              = 8455997
+Name            = "Fango Lokito"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,0-77-76-0)
+CurrentOutfit   = (128,0-77-76-0)
+LastLogin       = 1145765830
+LastLogout      = 1145766605
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32955,32078,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,79114,0,83400,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,208764,1100,214735,1600)
+Skill = (2,10,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,82,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16777,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,11053,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,340,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4763,1100,4909,20)
+Skill = (14,0,1200,0,0,0,211,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,5,7,8,9,10,16,18,20,30,42,44,45}
+QuestValues = {(18,1),(20,1),(21,1),(23,1),(24,1),(27,1),(32,1),(33,1),(34,1),(49,1),(59,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(113,1),(114,1),(121,1),(190,1),(191,1),(208,1),(217,3),(223,1),(227,1),(253,1),(333,1)}
+Murders     = {1144178694}
+
+Inventory   = {1 Content={3384},
+               3 Content={2867 Content={3483, 3003, 3457}},
+               6 Content={3425},
+               7 Content={3372}}
+
+Depots      = {0 Content={2473 Content={}, 3504 Content={3504 Content={3507 String="Fango lokito\nVenore\n", 3504 Content={3083 RemainingUses=150, 2922 SavedExpireTime=86, 3097 SavedExpireTime=3563, 3148 Charges=1, 3285, 2969 KeyNumber=5010, 2922 SavedExpireTime=71, 2920 SavedExpireTime=596, 2924 SavedExpireTime=231, 3003}, 3504 Content={3483, 2920 SavedExpireTime=348, 3004, 3504 Content={2924 SavedExpireTime=244, 2922 SavedExpireTime=291, 3375, 2920 SavedExpireTime=489, 3483}, 3504 Content={}, 3411, 3092 SavedExpireTime=0, 3507 String="Fango lokito\nVenore\n", 2920 SavedExpireTime=13}}, 3507 String="Fango lokito\nThais\n\n\n"}, 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="Fango Lokito\ncarlin\n\n\n"}, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3507 String="Fango lokito\nAb'Dendriel\n"}, 3504 Content={3507 String="Fango Lokito\nAb'Dendriel\n"}, 3504 Content={3507 String="Fango lokito\nAb'Dendriel\n"}, 3502 Content={}}, 
+               6 Content={2854 Content={2867 Content={3003, 3457}, 3492 Amount=6}, 3362, 3504 Content={3507 String="fango lokito\nvenore" Editor="Smigol'sepsi"}, 2924 SavedExpireTime=227, 3492 Amount=50, 3003, 3425, 3483, 2969 KeyNumber=5010, 2924 SavedExpireTime=105, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2867 Content={3308, 3492 Amount=12, 3457}, 3503, 3286, 3579 Amount=1, 3077, 3046, 3502 Content={3059, 3503 Content={2917 SavedExpireTime=450, 3457, 3507}, 3504 Content={2924 SavedExpireTime=170, 2922 SavedExpireTime=214, 3504 Content={2880 ContainerLiquidType=3}, 3507 String="salvador de los debiles\nvenore"}}}}

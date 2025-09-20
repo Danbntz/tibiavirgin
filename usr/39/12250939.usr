@@ -1,0 +1,55 @@
+ID              = 12250939
+Name            = "Darcus Hibo"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,40-59-97-116)
+CurrentOutfit   = (129,40-59-97-116)
+LastLogin       = 1146840027
+LastLogout      = 1146840033
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32909,32262,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,49561,0,57600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,25328,1400,26118,1600)
+Skill = (2,51,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,35,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,29,0,10,0,0,0,0,0,0,0,5274,1100,5727,100)
+Skill = (7,44,0,10,0,0,0,0,0,0,0,7449,1100,8130,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,192,1200,268,50)
+Skill = (9,24,0,10,0,0,0,0,0,0,0,3349,1200,3601,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,285,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,1109,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,47,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,32,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29,44,51}
+QuestValues = {(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1),(96,1),(97,1),(98,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3354},
+               2 Content={3083 RemainingUses=144},
+               3 Content={2853 Content={3031 Amount=2, 3457, 3582 Amount=2, 3350, 3003, 3308}},
+               4 Content={3377},
+               5 Content={3285},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3577 Amount=14}}
+
+Depots      = {0 Content={3502 Content={3277 Amount=5, 2853, 3059, 3410, 2644, 2644, 2854, 3008, 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated.", 3003, 2867, 2868 Content={3031 Amount=1}, 2991, 2854, 2992 Amount=5, 2857, 2970 KeyNumber=3802}}, 
+               1 Content={3502 Content={2973 KeyNumber=3520, 1781 Amount=25, 2911 SavedExpireTime=2157, 3050, 3056 RemainingUses=200, 3003, 3492 Amount=68, 3003, 2922 SavedExpireTime=196, 3457, 3054 RemainingUses=200, 2854 Content={3277 Amount=11}, 2854, 2868 Content={2911, 2911}, 2868, 2868, 2868 Content={3379, 3270}, 2969 KeyNumber=4600, 2854}}, 
+               3 Content={3502 Content={3349, 3410, 3410, 3350}}, 
+               6 Content={3502 Content={3350, 3289}}}

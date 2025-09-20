@@ -1,0 +1,57 @@
+ID              = 9143215
+Name            = "Zelgor Saint"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,114-114-114-114)
+CurrentOutfit   = (134,114-114-114-114)
+LastLogin       = 1143667499
+LastLogout      = 1143668187
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,296486,0,330400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,80720,3000,193600,1600)
+Skill = (2,485,485,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,91,135,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,65799,1100,71890,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,56,0,10,0,0,0,0,0,0,0,40013,1100,43598,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6842,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(35,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(109,1),(112,1),(115,1),(116,1),(117,1),(118,1),(121,1),(134,1),(153,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3578 Amount=53, 2865, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3483, 3457, 3003, 3308}},
+               4 Content={3357},
+               5 Content={3297},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Zelgor saint\nthais"}, 2854 Content={2853 Content={3008}, 2853 Content={3207 Amount=1}, 2853 Content={3097, 3012}, 2853 Content={3017}, 3457, 3207 Amount=1, 3034 Amount=1, 3208, 3155 Charges=1, 3353, 3285, 3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian"}, 3504 Content={3507 String="zelgor saint\nthais"}, 3502 Content={3504 Content={3504 Content={3504 Content={3507}}, 3507 String="zelgor saint\nedron"}}}, 
+               4 Content={3301, 3084 RemainingUses=250, 3330, 3578 Amount=93, 3505 String="Bueno man...\nel char esta hunted... \nno me queda mas que decirte que bueno lo siento por haber hecho eso... pero lo hice solo para hacerme respetar... asi soy yo... no me gusta que me power abuseen... y ese fue un extremo . lo siento man... si me kickeas del account bueno eso corre por tu cuenta.. si es asi lo entiendo asi que no te preocupes.. no habra nunca rencores... pero yo trabajo asi ..yo respeto y me gusta ser respetado...  eso es todo ... bueno de ahi por msn te cuento como fue todo y te muestro la conversacion y todo para que veas que no miento... nada mas quiero quedar con mi honor intacto ,y mi mente tranquila sbiendo que no hice nada incorrecto otra cosa... me mataron tus supuestos amigos... para que veas que ni tan amigos tuyos son... y hubieron algunos que trataron de ayudarme pero al parecer no pudieron .. bueno eso es todo man suerte... bye\n\n PD : mmm me voy a new server de todas formas... si decides ir conmigo bien pe... pero si aun sigues enojado conmigo es para que lo sepas nada mas... que haya voy a estar y si te decides a jugar.. nadie te va a tocar ... por que ahi\nsi yo tengo verdaderos amigos bye..\n\n entre los que me mataron estan Coursant , Imbow Hound, Zhaka Saint  y no vi los otros nombres.. pero eran varios bye bye ... ", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Edron Flats, Flat 28\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3377, 3502 Content={}}, 
+               5 Content={3031 Amount=33, 3291, 2865 Content={3035 Amount=1, 3270, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11}, 3740 Amount=1, 2969 KeyNumber=5000, 3446 Amount=24, 3425, 3372, 3285, 3349, 3349, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3503 Content={3507 String=""}, 3448 Amount=20, 3350}, 3502 Content={}}, 
+               6 Content={2854 Content={}, 2854 Content={}, 2854 Content={3350}, 2853 Content={2853 Content={3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3083 RemainingUses=150, 3085 RemainingUses=200, 3083 RemainingUses=150}, 3085 RemainingUses=200}, 3291, 3264, 3504 Content={3504 Content={}, 3504 Content={}}, 3502 Content={}}, 
+               7 Content={3504 Content={3507 String="zelgor saint\nankrahmun"}, 2853 Content={3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=75}, 3502 Content={2854 Content={}, 3003, 3457}}}

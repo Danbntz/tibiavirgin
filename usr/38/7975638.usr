@@ -1,0 +1,53 @@
+ID              = 7975638
+Name            = "Julavi"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,112-87-81-20)
+CurrentOutfit   = (128,112-87-81-20)
+LastLogin       = 1148067179
+LastLogout      = 1148067615
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32645,31916,8]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,166377,0,179400,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,59307,3000,64000,1600)
+Skill = (2,410,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,14,110,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,845,845,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,48395,1100,48785,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,53,0,10,0,0,0,0,0,0,0,32241,1100,32632,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,29,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,43,0,10,0,0,0,0,0,0,0,4767,1100,4909,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(84,1),(85,1),(86,1),(87,1),(100,1),(111,1),(112,1),(121,1),(190,1),(191,1),(254,1),(257,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2865 Content={3504 Content={2991}, 3031 Amount=89}}}
+
+Depots      = {0 Content={3504 Content={3271, 3507 String="Julavi\nthais" Editor="Orlos Irverphine"}, 3504 Content={3507 String="Julavi\nThais" Editor="Khanor"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={2853 Content={3349}, 3731 Amount=27, 3457, 3483, 3502 Content={2870 Content={3349, 3349, 3349, 3349, 3349, 3349}}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3504 Content={3507 String="julavi\nedron\n" Editor="Dartho"}, 3503 Content={3410, 3352, 3354, 3410, 3410, 3410}, 3083 RemainingUses=150, 3502}, 
+               5 Content={2471 Content={}, 2854 Content={3003, 3198 Charges=2, 3155 Charges=1, 3098 SavedExpireTime=0, 3093 SavedExpireTime=0, 3049 SavedExpireTime=208, 3091 SavedExpireTime=1406, 3577 Amount=1, 3046 SavedExpireTime=0, 3327, 3084 RemainingUses=250, 3271}, 3042 Amount=16, 3029 Amount=7, 3032 Amount=7, 3033 Amount=12, 3007, 3338, 3264, 3299, 3007, 3045 RemainingUses=175, 3375, 3039, 3039, 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1000 gold\nfor your house \"Darashia 3, Flat 05\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3077, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 3, Flat 05\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3285, 3264, 3059, 3504 Content={3409, 3507 String="Julavi\nAnkrahmun"}, 3412, 3411, 3502}}

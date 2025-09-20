@@ -1,0 +1,59 @@
+ID              = 9834355
+Name            = "Princesinha Duda"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (142,78-114-114-0)
+CurrentOutfit   = (142,78-114-114-0)
+LastLogin       = 1148251891
+LastLogout      = 1148252504
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32330,31780,6]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,291732,0,295200,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1386130,1100,1395159,1600)
+Skill = (2,280,280,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,605,605,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,660,660,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,70801,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,226,1800,302,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,34241,1800,40105,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,55,1800,140,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,964,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2954,1100,2972,20)
+Skill = (14,0,1200,0,0,0,596,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,177,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,6,8,9,10,12,14,20,25,27,29,38,39,42,44,45,84,88}
+QuestValues = {(32,1),(33,1),(34,1),(46,1),(54,1),(59,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(99,1),(107,1),(111,1),(112,1),(113,1),(114,1),(115,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(190,1),(191,1),(217,3),(223,1),(257,1),(269,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3014},
+               3 Content={2868 Content={3070, 3583 Amount=3, 3031 Amount=14, 2868 Content={3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3457, 2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003}},
+               4 Content={3380},
+               5 Content={3425},
+               6 Content={3147},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3031 Amount=100, 3031 Amount=100, 3492 Amount=97, 3583 Amount=11, 3035 Amount=13, 3322, 3279, 3210, 3574, 3504 Content={3003, 3059, 3588 Amount=53, 2647, 2647, 2667, 3505 String="princesinha duda\ncarlin\n\nQualquer lugar\n\nQuerido amor, você não queria estar comigo? \nE, querido amor, você não desejava ser livre? \nEu não posso continuar fingindo que nem te conheço \ne que em uma noite doce você é só meu. \nPegue minha mão. \n\n(Refrão): \nNós estamos partindo daqui esta noite. \nNão há motivo para contar para os outros, \neles apenas nos atrasam. \nEntão, pela luz do dia, \nnós estaremos à meio caminho para qualquer lugar, \nonde o amor é mais que apenas o seu nome. \n\nEu sonhei com um lugar para você e eu. \nNinguém sabe quem somos lá. \nTudo o que eu quero é dar minha vida apenas a você. \nEu sonhei por muito tempo, não posso mais sonhar. \nVamos fugir, te levarei lá. \n\n(Refrão) \n\nEsqueça essa vida, \nvenha comigo. \nNão olhe para trás, você está a salvo agora. \nDestranque seu coração, \nabaixe a guarda. \nNão há mais ninguém para te parar. \n\n(Refrão) \n\nDear my love, haven't you wanted to be with me\nAnd dear my love, haven't you longed to be free\nI can't keep pretending that I don't even know you\nAnd at sweet night, you are my own\nTake my hand\n\n[Chorus]:\nWe're leaving here tonight\nThere's no need to tell anyone\nThey'd only hold us down\nSo by the morning light\nWe'll be half way to anywhere\nWhere love is more than just your name\n\nI have dreamt of a place for you and I\nNo one knows who we are there\nAll I want is to give my life only to you\nI've dreamt so long I cannot dream anymore\nLet's run away, I'll take you there\n\n[Chorus]\n\nForget this life \nCome with me\nDon't look back you're safe now\nUnlock your heart\nDrop your guard\nNo one's left to stop you\n\nForget this life \nCome with me\nDon't look back you're safe now\nUnlock your heart\nDrop your guard\nNo one's left to stop you now\n\n[Chorus] \n\nGuarde com bastante carinho querida duda.... vc mora dentro do meu coração\n=****\nti lovi.....forever....\nsry for all ;/\n\ndreams they came and go...\nbut love isnot like this...\ncya sweet love...\n^.-" Editor="Princesinha Duda", 3505 String="Duda desculpa por n ter devolvido antes teu escudo... ='(\nme desculpa?\nmandei pro teu dp\nxau =)\n" Editor="Scorxx", 3507 String="Princesinha duda\nCarlin\n" Editor="Scorxx"}, 3506 String="Warning!\n\nThe monthly rent of 1050 gold\nfor your house \"Magician's Alley 1\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1050 gold\nfor your house \"Magician's Alley 1\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1050 gold\nfor your house \"Magician's Alley 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1050 gold\nfor your house \"Magician's Alley 1\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1050 gold\nfor your house \"Magician's Alley 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1050 gold\nfor your house \"Magician's Alley 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2653, 2653, 2653, 2653, 3504 Content={3301, 2394, 2653, 2653, 2653, 2653, 2653, 3507 String="Princesinha Duda\nCarlin" Editor="Xeluz Nigis"}, 3411, 2667, 3505 String="Duda...\nAmor\nMaior\nO que sinto\nR... não sei uma palavra com R... mais sei q o meu amor por vc é eTernO!\ne nunca vo te eskecer... pode demora um tempao .... vo ta aki ainda... \nja sabe né...\n\"Eu quero teu amor, vem pra me\"\n... O meu coração pekeno ja paro.... mais ele continua.. ké ve quando ele senti q vc ta perto... ai ele dispara...\nFelixsidade...\nEu posso ta morrendo mais de uma coisa eu vo me lembra... do meu amor q eu tenho poor ti...\nFico mais felix ainda... quando te vejo no msn.. ai sim.... a alegria sobe dos pés a cabeça... Alegria, Felixsidade, o amor vem tudo...eu posso ta o mais triste... mais se eu ti ve.... isso some... :)\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nTE AMO MUITO TE AMO MUITO\nmuito muito muito....\nby SaL and Scorxx...\n=******\nbjos dos pés a cabeça..\n=******\nto aki escrevend essa carta.. mas ñ é só 1 carta q eu posso te mandar o meu amor por elas....\nSe eu fosse dizer todo o meu amor q eu tenho por vc... isso ia demora.....\nMas... estamos ai....=*\nja sabe quando precisa é só chamar...\noK?¿\nAkela hora q eu vi vc na Web CAn... eu fikei tão felix.. felix mesmo... tava até rind...\nTens um rostinho lindo.. ké dizer tudo em ti é lindo...\nSó queria ve como vc é rL... eles me dizem q vc ñ é tao linda... mas.. Eu... quando te vejo no tibia .... eu me lembro de vc na wEB... =***\nme lembro de vc todas as horas...\nAgora.... acabo a carta mais vait ter mais.... okK?\nxau duda ;(\nqueria dizer..\nxau amore da minha vida... mais n posso..;(\nagora até sinti uma coisa no coração quando esscrevi isso....\nEspero q tu leia a carta...\nxau! Linda...\n=*************\nbjos muitos e muitos bjos...\nl:)\nxau! mo...\nxau duda...\nxau minha vida...\nxau!\n", 2667, 2656, 3008, 2853 Content={3017, 2664 RemainingExpireTime=384, 3568, 3074, 2393, 2853}, 3502 Content={2653, 2644, 2659, 2644, 2650, 2656, 2656, 2656, 2656, 3017, 3209, 3568, 2393, 2393, 3504 Content={2472 Content={2872 Content={2970 KeyNumber=4503, 2838 String="Te amo ta morzin ...\ndepois fala comigo que quando entro no tibia plimeila pessoinha que vem em min é vc plincesin ...\nse vc quise eu posso bota la n coment do scorxx assim ó:\n- Princesinha Duda ( my love ) =*\nta bom ... te amo .. xauzin ... bjos ....\nte amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo te amo .", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Magician's Alley 1\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3084 RemainingUses=250}}}}}, 
+               3 Content={3502 Content={}}, 
+               5 Content={3457, 3504 Content={3507 String="Princesinha Duda\nDarashia" Editor="Mithril Avatar"}, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 3504 Content={3507 String="princesinha duda\ndarashia" Editor="Strider-kiros"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502}}

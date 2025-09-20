@@ -1,0 +1,55 @@
+ID              = 8652100
+Name            = "Buvembern Niszczyciel"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,58-125-57-19)
+CurrentOutfit   = (129,58-125-57-19)
+LastLogin       = 1139505285
+LastLogout      = 1139505366
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32236,31863,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,288040,0,295200,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,56220,3000,64000,1600)
+Skill = (2,470,470,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,100,130,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,945,945,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,69302,1100,71890,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,56,0,10,0,0,0,0,0,0,0,41774,1100,43598,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,16,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2336,1100,2421,20)
+Skill = (14,0,1200,0,0,0,1072,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(54,1),(58,1),(59,1),(60,1),(61,1),(62,2),(125,1),(126,1),(223,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2868 Content={3483, 3578 Amount=6, 3031 Amount=73, 3492 Amount=15, 2868 Content={3354, 3367, 3031 Amount=100, 3367, 3031 Amount=100, 3354, 3367}, 3003, 3457}},
+               4 Content={3381},
+               5 Content={3415},
+               6 Content={3280},
+               7 Content={3382},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=474}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3299, 3299, 3384, 3012, 3504 Content={3504 Content={3031 Amount=54, 3031 Amount=100, 3035 Amount=30, 2920, 3035 Amount=100}, 3504 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 2473 Content={3052, 3052, 3052, 3052, 3052, 3052, 3052, 3052, 3085 RemainingUses=200}, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3507 String="Buvembern Niszczyciel\nCarlin"}, 3084 RemainingUses=221, 2854 Content={3028 Amount=1, 3083 RemainingUses=150, 3565, 3425, 3425, 3425, 3425, 3409}, 3502 Content={2853 Content={3003}, 3723 Amount=80, 3291, 3412, 3056 RemainingUses=200, 3287 Amount=5, 3290, 2868 Content={3446 Amount=63, 3446 Amount=100, 3285, 3349, 3447 Amount=32, 3447 Amount=100, 3012, 2973 KeyNumber=3520}, 2854 Content={2970 KeyNumber=4503, 3056 RemainingUses=200, 3050, 2973 KeyNumber=3520, 2955, 3456, 3012, 3050 SavedExpireTime=1790, 3008, 3050 SavedExpireTime=1797, 3097 SavedExpireTime=3598, 3050, 3026 Amount=3, 3264}, 2854 Content={3267, 3430, 3372, 3317, 3313, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 3350, 3097, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2911, 3471, 3451, 2853 Content={2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=5}, 3056 RemainingUses=200, 3054 RemainingUses=200}, 2854 Content={3593, 3592, 3588 Amount=49, 3588 Amount=100, 3588 Amount=100, 3723 Amount=65, 3586 Amount=5, 3308, 3300, 3054 RemainingUses=200, 3585 Amount=10, 3598 Amount=16, 3454, 3467, 3595 Amount=6, 3301, 3590 Amount=81, 3602 Amount=66, 3003}, 2868 Content={2973 KeyNumber=3520, 2970 KeyNumber=4601, 2969 KeyNumber=3033, 3056 RemainingUses=200, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3008, 2973 KeyNumber=3520}}}, 
+               3 Content={3502 Content={}}}

@@ -1,0 +1,55 @@
+ID              = 8540512
+Name            = "Dehira"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,114-60-97-115)
+CurrentOutfit   = (137,114-60-97-115)
+LastLogin       = 1145229439
+LastLogout      = 1145229650
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32331,31790,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7330,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,40,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2210,1100,2452,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,893,1100,926,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,393,1100,474,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,59,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,54,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1),(59,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2865 Content={3457, 3003}},
+               4 Content={3377},
+               5 Content={3283},
+               6 Content={3425},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={2921 RemainingExpireTime=395}}
+
+Depots      = {0 Content={3031 Amount=31, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2985, 3276, 3578 Amount=3, 3430, 3446 Amount=1, 3456, 3127, 3379, 3502 Content={2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 3504 Content={3504 Content={}, 3504 Content={}, 3504 Content={2473 Content={}, 2473 Content={}, 2469 Content={}, 3507 String=""}, 3504 Content={}, 3504 Content={}, 3507 String="azurd asmitha\nthais"}}}, 
+               1 Content={3502 Content={3003, 3031 Amount=76, 2874, 2874, 3031 Amount=100, 3590 Amount=6, 2874 ContainerLiquidType=2, 3031 Amount=100, 3595 Amount=1, 2969 KeyNumber=4600, 3031 Amount=100, 3031 Amount=100, 3031 Amount=23}}, 
+               3 Content={3577 Amount=4, 3430, 3578 Amount=10, 3502 Content={2880 ContainerLiquidType=0, 3504 Content={2880 ContainerLiquidType=0}, 2880 ContainerLiquidType=0, 3297, 2875 ContainerLiquidType=0, 3031 Amount=90, 2875 ContainerLiquidType=0, 3277 Amount=1, 3031 Amount=100, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0}}, 
+               6 Content={3502 Content={3337, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 2920 SavedExpireTime=0, 3031 Amount=87, 3504 Content={3507 String="chebe\nvenore"}, 3504 Content={3507 String="yariell\nvenore\n"}, 3456}}}

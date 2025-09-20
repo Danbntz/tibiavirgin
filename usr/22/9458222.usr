@@ -1,0 +1,55 @@
+ID              = 9458222
+Name            = "Robyn'Hood"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,0-114-94-114)
+CurrentOutfit   = (129,0-114-94-114)
+LastLogin       = 1148241679
+LastLogout      = 1148241715
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,179938,0,204800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,89773,1400,111701,1600)
+Skill = (2,345,345,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,75,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,790,790,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14081,1100,14863,100)
+Skill = (7,57,0,10,0,0,0,0,0,0,0,26413,1100,28805,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,555,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1136,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,80,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,20,29,42,48,49,51,76,79,81}
+QuestValues = {(1,2),(2,6),(36,1),(46,1),(61,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(88,1),(89,1),(90,1),(96,1),(97,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(137,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(211,4),(217,3)}
+Murders     = {1146693712,1146693784,1148077162,1148079315}
+
+Inventory   = {3 Content={2853},
+               5 Content={3446 Amount=3},
+               10 Content={3447 Amount=81}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="Robyn'Hood\ncarlin" Editor="James'Boond"}, 3502}, 
+               2 Content={3504 Content={3507 String="Robyn'Hood\nkazordoon\n" Editor="Draggy Gambler"}, 3504 Content={3507 String="Robyn'Hood\nkazordoon" Editor="Draggy Gambler"}, 3504 Content={3507 String="Robyn'Hood\nkazordoon" Editor="Robyn'Hood", 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3410, 3410, 3367, 3410, 3359, 3286, 3410, 3354}, 3359, 3367, 3286, 3410, 3286, 3410, 3410}, 3410, 3446 Amount=100, 3410, 3286, 3410, 3269, 3410}, 3358, 3410, 3275, 3358, 3358, 3264, 3410}, 3264, 3264, 3413, 3446 Amount=100, 3410, 3367, 3410}, 3266, 3282, 3265, 3266, 3282, 3275, 3410}, 3305, 3410, 3410, 3349, 3354, 3410, 3410}}, 2853 Content={2853 Content={3413, 3413, 2853 Content={3377, 3377, 3377, 3377}}}, 3504 Content={3507 String="Robyn'hood\nkazordoon"}, 3502}, 
+               3 Content={3483, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Underwood 6\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3430, 3502 Content={3457}}, 
+               4 Content={3093, 3350, 3504 Content={3507 String="robyn'hood\nedron"}, 3504 Content={3507 String="Robyn'Hood\nedron"}, 3412, 3502}, 
+               5 Content={3504 Content={3507 String="robyn'hood\ndarashia" Editor="Chipi Gambler"}, 3504 Content={3507 String="robyn'hood\ndarashia" Editor="Vegeta Druid"}, 3506 String="Warning!\n\nThe monthly rent of 1780 gold\nfor your house \"Darashia 4, Flat 13\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2853 Content={2469, 2469 Content={3292}, 3504 Content={3507 String="robyn'hood\ndarashia"}}, 3502}, 
+               6 Content={3277 Amount=3, 3318, 3349, 3502}, 
+               7 Content={3457, 3502}, 
+               8 Content={3504 Content={3507 String="Robyn'Hood\nport hope", 2867 Content={3372, 3377, 3377}}, 3502}}

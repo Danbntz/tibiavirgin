@@ -1,0 +1,56 @@
+ID              = 11924797
+Name            = "Repre flam"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,79-0-57-17)
+CurrentOutfit   = (128,79-0-57-17)
+LastLogin       = 1148203267
+LastLogout      = 1148205600
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32336,31784,6]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,390171,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,110760,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,34,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,101391,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1400,30,30)
+Skill = (8,60,0,10,0,0,0,0,0,0,0,62047,1100,64064,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,318,1100,385,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6070,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(22,1),(23,1),(32,1),(60,1),(69,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={2854, 3031 Amount=47, 3577 Amount=2, 2868 Content={3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874, 2874, 2874, 2874}, 3035 Amount=1, 3053 SavedExpireTime=79, 3003, 3723 Amount=6, 3606 Amount=19, 2871 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3152 Charges=1, 3152 Charges=1, 3174 Charges=1, 3174 Charges=1, 3174 Charges=4, 3174 Charges=3}}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="repre flam\nthais" Editor="Repre flam"}, 3502}, 
+               1 Content={2868, 3504 Content={3577 Amount=24, 2853 Content={2853 Content={2853, 2853, 2853, 2853, 2853, 2853}}, 3507 String="repre flam\ncarlin" Editor="Talegas de Perro Flam"}, 2868 Content={2853 Content={2853 Content={2853 Content={3354, 3354}, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 2854 Content={2865 Content={3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3372, 3372, 3359}, 3359, 3359, 3372, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359, 3359}, 2854 Content={3425, 3425, 3425, 3425, 3425, 3425}, 2866 Content={2853 Content={3358, 3377, 3358, 3377, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2854 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2854 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2854 Content={2868 Content={3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410, 3410}, 2853 Content={3457, 3457, 3457}, 2853 Content={3483, 3267, 3412}, 2853 Content={3272, 3308, 3412, 3267}, 2853 Content={2853 Content={2853 Content={3352, 3352, 3352, 3352}, 3352, 3352, 3352, 3352, 3352, 3352, 3352}, 3351}, 2853 Content={3266, 3266, 3266}, 2853 Content={3367, 3367, 3353, 3353, 3353, 3353, 3353, 3353}, 2853 Content={3264, 3264, 2853 Content={3264, 3264, 3264, 3264, 3264, 3264, 3264, 2853 Content={3264, 3264, 3264, 3264, 3264, 3264}}, 3264, 3264, 3264, 3264, 3264}, 2853 Content={3286, 3286, 2853 Content={3286, 3286, 3286, 3286, 3286, 2853 Content={2853 Content={3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286}, 3286, 3286, 3286, 3286, 3286}, 2853 Content={3413, 3413, 3413}, 2857 Content={3305, 3056 RemainingUses=200, 3056 RemainingUses=200, 3046 SavedExpireTime=2997, 3077, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 2969 KeyNumber=3033}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2955, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2471 Content={3267, 3294}, 2471, 2469 Content={2853}, 2473 Content={3351, 3446 Amount=10, 3492 Amount=30, 3492 Amount=100, 3606 Amount=40, 3384, 3279, 3409, 3066, 3370}, 2469 Content={3565, 2991, 3350, 3409}, 2472 Content={3606 Amount=100, 3606 Amount=100, 3606 Amount=100, 3606 Amount=100, 2853}, 2472, 2472, 2472, 3031 Amount=41, 3031 Amount=100, 3035 Amount=16, 3504 Content={3492 Amount=50, 3578 Amount=23, 3447 Amount=2, 3504 Content={2853 Content={2853 Content={2853}}, 3504 Content={3504 Content={3507 String="repre flam\ncarlin" Editor="Gorilla Flam"}, 3507 String="repre flam\ncarlin\n\n\n\nMejor te vendi el loot y no andamos con mamadas lul hahaha" Editor="Daniel Flam"}, 3504 Content={3504, 3504 Content={3507 String="talegas de perro flam\ncarlin" Editor="Talegas de Perro Flam"}, 3504 Content={3507 String="repre flam\ncarlin" Editor="Repre flam"}, 3504}, 3504 Content={3507 String="Nowa Ruda Dawid\ncarlin" Editor="Nowa Ruda sorcerer"}, 3504}}}}, 
+               3 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3409, 3504 Content={3447 Amount=3, 3267, 3308, 3412, 3267, 3507 String="repre flam\nAb'Dendriel" Editor="Repre flam"}, 2865 Content={2874, 2874, 2874, 2853 Content={2853}, 3266, 3266}, 2853 Content={3351, 3359, 3372, 3412, 2854}, 3502 Content={3031 Amount=6}}}

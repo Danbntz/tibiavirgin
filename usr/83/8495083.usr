@@ -1,0 +1,61 @@
+ID              = 8495083
+Name            = "Gnivrileinad"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,116-59-124-116)
+CurrentOutfit   = (134,116-59-124-116)
+LastLogin       = 1148144952
+LastLogout      = 1148174564
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33070,32864,7]
+PlayerkillerEnd = 0
+
+Skill = (0,46,0,1,0,0,0,0,0,0,1,1456576,0,1522600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,195301,3000,582400,1600)
+Skill = (2,636,755,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,220,225,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,115,115,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1420,1420,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,228030,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,115,1100,165,50)
+Skill = (9,69,0,10,0,0,0,0,0,0,0,151185,1100,151740,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,15,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,87,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3531,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80,81}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(72,1),(73,1),(74,1),(75,1),(115,1),(129,1),(130,1),(132,1),(133,1),(137,1),(148,1),(149,1),(150,1),(190,1),(191,1),(211,2),(217,3),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3412, 3336, 3031 Amount=32, 3035 Amount=20, 3583 Amount=4, 3003, 3483, 2871 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3457}},
+               4 Content={3381},
+               5 Content={3324},
+               6 Content={3436},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3279}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={3492 Amount=20, 3299}}, 
+               3 Content={3502 Content={3336, 2969 KeyNumber=3033}}, 
+               4 Content={3502}, 
+               5 Content={3353, 3504 Content={3507 String="gnivrileinad\ndarashia" Editor="Gnivrileinad"}, 3502}, 
+               6 Content={3504 Content={3507 String="Gnivrileinad\nvenore" Editor="Silde Dard"}, 3504 Content={3507 String="gnivrileinad\nvenore" Editor="Yaric Lupry"}, 3502}, 
+               7 Content={2853 Content={2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3367, 3367, 3367, 3367}, 3504 Content={3114 Amount=3, 3507 String="gnivrileinad\nankrahmun" Editor="Yaric Lupry"}, 2865 Content={2865, 2854}, 2868, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Oskahl I f\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=14, 3483, 2857 Content={2991, 3353, 3046}, 2868 Content={3017, 3017, 3308, 3147}}}, 
+               8 Content={3502}}

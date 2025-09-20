@@ -1,0 +1,56 @@
+ID              = 11833387
+Name            = "Cristal angelus"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (139,0-0-0-0)
+CurrentOutfit   = (139,0-0-0-0)
+LastLogin       = 1148084332
+LastLogout      = 1148084807
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,100531,0,116000,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,112359,1100,114244,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,175,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12968,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2314,2000,3150,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,825,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,93,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1829,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,15,19,20,25,26,27,29,44}
+QuestValues = {(17,1),(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(37,1),(55,1),(100,1),(106,1),(107,1),(121,1),(128,1),(140,1),(141,1),(190,1),(191,1),(217,3),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2854 Content={3483, 3003, 3164 Charges=3, 3003, 3483, 2874 ContainerLiquidType=10}},
+               4 Content={3370},
+               5 Content={3072},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3075}}
+
+Depots      = {0 Content={2955, 2872 Content={3275, 2970 KeyNumber=4601, 3277 Amount=2, 3074, 3074, 2656, 3003, 2970 KeyNumber=3800, 3565, 3506 String="Cristal angelus\nthais \npor el momento estas hunted seras kasada asta morir por sinock si no kires ser huenteda tendras ke pagar 5 k o te mataremos kuidate el dinero enbialo en parcel a Darck Asasin por el momento seras baniada" Editor="Darck Asasin", 1781 Amount=8, 3354, 3410, 3410, 3410}, 3502 Content={2868 Content={3448 Amount=7, 3446 Amount=6, 3447 Amount=8, 3287 Amount=1, 3551}, 2854 Content={2853 Content={3492 Amount=19, 3577 Amount=2, 3582 Amount=5, 3599 Amount=6, 3585 Amount=14, 3586 Amount=9, 3583 Amount=5}, 2854 Content={2874 ContainerLiquidType=10, 3189 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3172 Charges=3, 3188 Charges=3, 3164 Charges=3, 3164 Charges=3, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3457, 3456, 3483, 3003, 2969 KeyNumber=4600}, 2853 Content={3457, 3483, 3300, 3283, 3300, 3462}, 2854 Content={3031 Amount=38, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3035 Amount=59, 2854 Content={3381, 3191 Charges=2, 3449 Amount=18, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3152 Charges=1}, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2857 Content={3098 SavedExpireTime=445, 3046, 3077, 3084 RemainingUses=250}, 3191 Charges=2, 3191 Charges=2}}, 2854 Content={2853 Content={3012, 3316, 3289}, 3059, 3377, 3308, 3059, 3003, 3084 RemainingUses=81, 3299, 3283, 3300, 3292, 3283, 3457}, 2854 Content={2854, 2854, 2854, 2854, 2854 Content={2854 Content={3059}}, 2853 Content={3056 RemainingUses=197, 2906, 3453, 3097 SavedExpireTime=3446, 3059}, 2854 Content={3083 RemainingUses=150, 2969 KeyNumber=3600, 2969 KeyNumber=3600, 2854 Content={3012, 3012}}, 2854 Content={2867, 2868, 2854, 2865, 2870, 2854, 2866, 2867, 2870, 2872, 2872, 2872, 2859, 2857}}, 2864 Content={3377, 3421, 3046 SavedExpireTime=2954, 3046 SavedExpireTime=2999}, 2854 Content={2875, 2875, 2873 ContainerLiquidType=2, 2873 ContainerLiquidType=2, 2873, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2}, 2854 Content={2874 ContainerLiquidType=8, 2874 ContainerLiquidType=1, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=11}}}}, 
+               2 Content={3502}, 
+               6 Content={3502 Content={3273}}}

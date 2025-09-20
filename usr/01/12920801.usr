@@ -1,0 +1,51 @@
+ID              = 12920801
+Name            = "Abraxes"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,38-95-132-132)
+CurrentOutfit   = (133,38-95-132-132)
+LastLogin       = 1147265666
+LastLogout      = 1147265668
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32565,32052,7]
+PlayerkillerEnd = 1149297876
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,96444,0,98800,100)
+Skill = (1,15,0,0,0,0,0,0,0,0,0,55915,1100,57519,1600)
+Skill = (2,176,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,25,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10278,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,898,1800,1118,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1495,1100,1590,20)
+Skill = (14,0,1200,0,0,0,225,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,11,20,25,26,27,29,42,76,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(67,1),(68,1),(70,1),(71,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(332,1),(333,1)}
+Murders     = {1146703802,1146704844,1146705049,1146705876}
+
+Inventory   = {5 Content={3411}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="abraxes\ncarlin" Editor="Abraxes"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3483, 3492 Amount=99}}, 
+               5 Content={3504 Content={3507 String="abraxes\ndarashia" Editor="Glaxt"}, 2632, 2635, 2866 Content={3661}, 2659, 2659, 3504 Content={3507 String="Abraxes\nDarashia" Editor="Shirley-Barber"}, 3504 Content={3017, 2991, 2955, 3008, 3003, 3507 String="abraxes\ndarashia" Editor="Abraxes"}, 3504 Content={3507 String="abraxes\ndarashia" Editor="Abraxes"}, 3505 String="Abraxes Hunt here plz no disturb\nxD   THX  xD" Editor="Abraxes", 3504 Content={3504, 3504 Content={3507 String="Abraxes\ndarashia" Editor="Reyco"}, 3504 Content={3507 String="Abraxes\n darashia" Editor="Reyco"}, 3507 String="Abraxes\nDarashia" Editor="Reyco"}, 2876, 2815, 3502 Content={2469 Content={3503 Content={3507}}, 2469, 2469 Content={3059, 2859 Content={3066, 3070, 3069, 3065, 3576, 2957}, 3266, 4871, 3052}, 2469 Content={3035 Amount=60, 3031 Amount=100, 3031 Amount=100, 3031 Amount=33, 3031 Amount=100}, 3492 Amount=84}}, 
+               6 Content={3503 Content={3507}, 3504, 3504, 3502}, 
+               7 Content={2853 Content={2853 Content={3367, 3354, 3367, 3354}, 3354, 3377, 3367, 3367, 3367}, 3558, 2853 Content={3313, 3046, 3046, 3046 SavedExpireTime=2998, 3740 Amount=1, 3056 RemainingUses=200}, 2853 Content={3552, 3377, 3354, 3354, 3354}, 2969 KeyNumber=4600, 2821 String="After thorough examination the Rathal I Pyramid was officially declared to be free of occult phenomena. The success of the ritual of purification performed by the responsible priests surpassed everybody's expectations, and the rather obstinate evil presence that was clearly the work of a person officially identified as one Ushu the witch by the authorities was dispelled. The suspect was traced to the mountains where she sucessfully hid from the agents of the witchhunting department. She is presently said to produce low-quality love potions in an unknown hideout somewhere in the western jungles.", 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!", 2832 String="...we stood on a plank and beneath us was a pit full of hissing snakes. Worse, the plank was pulled back into the wall, and there was no way out. If it hadn't been for our good Alil who had stayed out of that cursed chamber in a rare moment of clear-sightedness, we would all have ended up as snake food. Just how he managed to find that hidden lever on the statue is still beyond me.", 2828 String="Year 10 in the reign of Harrah II\nThe baker Thahon claimed that the wife of the merchant Habthi was guilty of witchcraft. Thahon could not bring forth convincing proof of her guilt and was sentenced to ten blows on his bare feet. The crafter Ziril claimed that the beggar Aukohl stole a cake from his open window. Although no proof was found there was a general sense of agreement that no proof was necessary since everybody was convinced of the beggar's guilt. In a rare display of mercy the judge sentenced him to a mere three years of work in the salt mines. The widow Zehmahil claimed that the travelling bard Todd Ballory had promised here mariage in\nexchange for certain services that have not been further elaborated on in the court's documents. The foreigner was found guilty without trial and sentenced to three years of work in the salt mines. The footsoldier Kamahl claimed his father Indril was guilty of witchcraft. Several obscure texts were found beneath the accused person's bed. Indril was banished from the city and his property was equally divided between the pharaoh and his heirs. The foreigner Todd Ballory was pronounced guilty of killing the overseer Barnak, a father of sixteen children and a respectable member of the local whipcrackers' association. The aforementioned convict was sentenced to a rather spectacular final appearance in the local arena.", 2824 String="Since the contamination of the water reservoirs became more and more of an issue, Pharaoh Unklath ordered that the position of the right honourable excreminator should be founded. This position was decreed to be considered as honourable as that of the royal astrologer or the pharaoh's animal trainer.", 2821 String="In the 23rd year of the reign of Esuph III there was a tax inspector whose greed was unrivalled by any other mortal before or after him. He let the people bleed in the name of the pharaoh and amassed huge amounts of gold, most of which somehow ended up in his own private treasury. But Shehamin, the second wife of the pharaoh, was not a woman to be fooled easily. Using cleverness and charm she brought his schemes to light and told her husband about them. Esuph III was furious, and his verdict on the fraudulent tax inspector was as cruel as it was clever: The screaming tax collector was sunk into a cauldron full of boiling gold. The terribly distorted statue which as the result of this peculiar treatment was put up in the tax office as a grim reminder that fraud can seriously affect your health. The gold that was stolen by the tax collector, however, was never found, and to this day there are many who dream about finding the unfaithful tax collector's hidden treasure.", 3412, 3502 Content={3283, 3292}}}

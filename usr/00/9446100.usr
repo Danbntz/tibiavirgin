@@ -1,0 +1,59 @@
+ID              = 9446100
+Name            = "Clonux"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (137,59-18-114-0)
+CurrentOutfit   = (137,59-18-114-0)
+LastLogin       = 1148258592
+LastLogout      = 1148258612
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32213,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,538890,0,548900,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,200619,1400,222775,1600)
+Skill = (2,435,435,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,170,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,970,970,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,40,0,10,0,0,0,0,0,0,0,17385,1100,18194,100)
+Skill = (7,67,0,10,0,0,0,0,0,0,0,69143,1100,75191,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,10,1200,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,55,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,28,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,736,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,842,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,20,29,42,45,51,76,79}
+QuestValues = {(14,1),(15,1),(20,1),(38,1),(55,1),(56,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(140,1),(141,1),(142,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(217,3),(222,1),(253,1),(257,1)}
+Murders     = {1145776878,1145776931,1146089490}
+
+Inventory   = {2 Content={3572},
+               3 Content={2853},
+               4 Content={3377},
+               6 Content={3441},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {0 Content={2782, 2853 Content={2865 Content={2991, 3074, 2656, 3271, 3297, 2667, 2952, 3081 RemainingUses=5, 2992 Amount=9, 2656, 2667, 3297, 3271}, 2469 Content={3046 SavedExpireTime=2990, 3447 Amount=10, 3448 Amount=36, 3083 RemainingUses=150, 3062}, 3046 SavedExpireTime=1311, 3092, 3148 Charges=1}, 2871 Content={3587 Amount=4, 3084 RemainingUses=250, 3085 RemainingUses=200, 3008, 2871 Content={3093, 3349, 3349, 3349, 3330, 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 3292, 2854 Content={3092, 2874 ContainerLiquidType=9, 2874, 3483, 3092 SavedExpireTime=1354, 3307, 2920, 2853 Content={3097, 3097, 3008}, 3350, 2854 Content={3374, 3492 Amount=35, 3097 SavedExpireTime=967, 3483, 2920 SavedExpireTime=515, 2920, 2920, 3003, 3448 Amount=4, 2969 KeyNumber=4600}}}}, 3506 String="clonux\nthais\n\nCongratulations You Won one Surprise Of Christhmas (Golden armor,Royal Helmet,Boots Of haste) You are Select Among more persons Add this Mesenger\nTibia_administrador@hotmail.com\n(Lenguage: Spanisñ and English)" Editor="Royal Snakex", 3504 Content={3367, 3052 SavedExpireTime=1175, 2853 Content={2914 SavedExpireTime=1375, 3483, 2853 Content={3377, 2853 Content={3377, 2853 Content={2853 Content={2853 Content={3377, 3377, 3349, 3349, 3349, 3349, 2853 Content={3377, 3377, 3377, 3377, 3377}}}}}}}}, 2854 Content={3054 RemainingUses=200, 3483, 3349, 3003, 3483, 3377, 3507 String="http://personales.com/brasil/minasgerais/tibia4everdownloads/", 2854 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Unklath I a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3050, 3504 Content={2906, 3188 Charges=3, 3299, 3299}, 2857 Content={2969 KeyNumber=3620, 2969 KeyNumber=3650, 2968 KeyNumber=3940}, 3483, 3551}, 2853 Content={2854 Content={2911, 2911, 2911, 2911}, 3377, 2854}, 2853 Content={2865 Content={2920 SavedExpireTime=114, 2920, 2920, 2920}}, 2853 Content={2854 Content={3421, 3097, 3350, 3349}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Sorcerer's Avenue 1b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Mill Avenue 4\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3349}, 3502 Content={2854 Content={3457, 3046, 2656, 3446 Amount=2, 2867 Content={3446 Amount=1, 2667, 2667, 2667, 2667, 2393, 2393, 2667, 4871}, 2656, 3034 Amount=1, 3492 Amount=2, 3275, 3046 SavedExpireTime=1859, 2854 Content={2955, 2667, 2955, 2656, 3074, 3271, 3271, 2667, 2656, 2667}, 3287 Amount=48, 3078, 2989, 2399, 2399, 2667, 3114 Amount=5}}}, 
+               1 Content={3375, 3003, 2865, 3147, 3147, 3147, 3350, 3504 Content={3507 String="Clonux \ncarlin"}, 3502}, 
+               2 Content={2857, 3502}, 
+               3 Content={3502 Content={3403, 3441}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3447 Amount=2, 2853 Content={3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3084 RemainingUses=201, 2853 Content={2854, 2854, 2865, 3301}, 3441, 3050 SavedExpireTime=1714, 3327, 3275, 3275, 3275, 3046 SavedExpireTime=2995, 3504 Content={3457, 2853 Content={3116, 3017, 3283, 3441, 3017, 3429, 3045 RemainingUses=200, 3045 RemainingUses=200}, 3350}, 3050 SavedExpireTime=1797, 3299, 2854 Content={3042 Amount=1, 3017, 3299, 3046, 3046, 3046, 3050, 3046, 3046}, 3301, 2970 KeyNumber=3801, 2853 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 2853 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}}, 3003, 2853 Content={2865, 2868}, 3502 Content={3275, 2854 Content={3046, 3046, 3046, 3046, 3046 SavedExpireTime=2991, 3046, 3046, 3046 SavedExpireTime=2971, 3046, 3046, 3046, 3046 SavedExpireTime=2903, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2853 Content={3349, 3349, 3349}, 3275, 2853 Content={3301, 3301, 3301, 3301, 3301, 3301, 3301, 3301}, 3017, 2920 SavedExpireTime=542}}, 
+               8 Content={3502}}

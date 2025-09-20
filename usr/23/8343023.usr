@@ -1,0 +1,53 @@
+ID              = 8343023
+Name            = "Shaitin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,94-114-94-114)
+CurrentOutfit   = (130,94-114-94-114)
+LastLogin       = 1148254693
+LastLogout      = 1148258137
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32341,32222,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,94911,0,98800,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,75575,1100,81854,1600)
+Skill = (2,165,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,224,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8919,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,227,2000,350,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4896,2000,6350,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,1873,2000,3150,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,209,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,351,1100,370,20)
+Skill = (14,0,1200,0,0,0,543,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,7,8,10,15,20,27,29,44}
+QuestValues = {(18,1),(96,1),(97,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={3031 Amount=9, 3274}},
+               4 Content={3380},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={2854, 3003, 3003, 3279, 2854 Content={2854}, 2854, 2854, 2854, 2854, 2854, 2854, 3375, 3316, 2854 Content={3031 Amount=73, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=12, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3316, 3059}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2839 String="Putos"}}}

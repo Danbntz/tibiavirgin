@@ -1,0 +1,55 @@
+ID              = 9580093
+Name            = "Icarus the Dark Soul"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,94-114-114-114)
+CurrentOutfit   = (134,94-114-114-114)
+LastLogin       = 1148080868
+LastLogout      = 1148081037
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32680,31685,7]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1379790,0,1423500,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,248599,3000,582400,1600)
+Skill = (2,388,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,66,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,214655,1100,227761,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,70,0,10,0,0,0,0,0,0,0,158413,1100,166964,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,62,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3579,1100,3638,20)
+Skill = (14,0,1200,0,0,0,488,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(21,1),(22,1),(23,1),(46,1),(68,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(111,1),(112,1),(115,1),(125,1),(126,1),(137,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(223,1),(226,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2864},
+               5 Content={3425},
+               6 Content={3412}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3504 Content={3507 String="Icarus the Dark Soul\nCarlin"}, 3504 Content={3492 Amount=72}, 3502 Content={3377, 3377, 2865, 2854}}, 
+               2 Content={3504 Content={2867 Content={}, 2865 Content={}, 2854 Content={}, 3507 String="Icarus the Dark soul\nKazordoon", 2865 Content={}}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}}}}, 3507 String="Icarus the dark Soul\nKazordoon"}, 3293, 3293, 2868 Content={2853 Content={3377, 3377, 3377}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3502 Content={2871 Content={}}}, 
+               3 Content={3552, 3082 RemainingUses=19, 3377, 2854 Content={2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox", 3483, 3483, 3104, 3287 Amount=2}, 3483, 3492 Amount=63, 3492 Amount=100, 2854 Content={3115, 3056 RemainingUses=200, 3457, 3003}, 3447 Amount=4, 3283, 2969 KeyNumber=3033, 3377, 3313, 3502 Content={3003, 3310, 3506 String="Warning!\n\nThe monthly rent of 950 gold\nfor your house \"Great Willow 4c\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 2857 Content={3277 Amount=1, 3349, 3191 Charges=2, 3192 Charges=1, 3188 Charges=2, 3153 Charges=1}, 2865 Content={3084 RemainingUses=250, 3083 RemainingUses=134, 3045 RemainingUses=200, 3017, 3017, 3084 RemainingUses=250, 3012, 3056 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3008, 3077, 3084 RemainingUses=250, 3046, 3046, 3046, 3046, 3046}, 2857 Content={2856 Content={2970 KeyNumber=3142, 2970 KeyNumber=3802, 2972 KeyNumber=3304, 2969 KeyNumber=5010}, 2970 KeyNumber=3012, 2969 KeyNumber=5000, 2969 KeyNumber=5010, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2970 KeyNumber=4601}, 2868 Content={3291, 3292, 3441, 3298 Amount=4, 3403, 2952, 3003}, 2870 Content={3097 SavedExpireTime=3591, 3092, 3053 SavedExpireTime=401, 3092, 3092, 3050, 3097, 3092, 3092, 3092, 3097, 3049 SavedExpireTime=29, 3049 SavedExpireTime=595, 3050, 3050, 3007}}}, 
+               4 Content={3504 Content={3507 String="Icarus the Dark Soul\nEdron"}, 3504 Content={3507 String="Icarus the dark soul\nEdron", 2865 Content={2854 Content={}}}, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Icarus the Dark Soul\nvenore"}, 3502 Content={}}, 
+               7 Content={3504 Content={3507 String="Icarus the Dark Soul\nankrahmun"}, 3502 Content={}}, 
+               8 Content={3504 Content={3507 String="Icarus the Dark Soul\nport hope"}, 3502 Content={3582 Amount=9}}}

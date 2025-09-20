@@ -1,0 +1,55 @@
+ID              = 13092109
+Name            = "Balas Belys"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,94-0-0-94)
+CurrentOutfit   = (128,94-0-0-94)
+LastLogin       = 1148242549
+LastLogout      = 1148246114
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32479,32057,6]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,66827,0,69700,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,66116,1100,72958,1600)
+Skill = (2,213,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,207,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,11763,1500,17099,100)
+Skill = (7,15,0,10,0,0,0,0,0,0,0,770,1800,1237,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1000,1800,1118,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,252,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,13,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,364,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,198,1100,228,20)
+Skill = (14,0,1200,0,0,0,904,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,10,15,25,26,29,31,42,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(192,1),(223,1),(333,1)}
+Murders     = {1145662403,1147112343}
+
+Inventory   = {1 Content={3356},
+               2 Content={3008},
+               3 Content={2872 Content={2865 Content={3188 Charges=3, 3152 Charges=1, 3003, 2868 Content={3031 Amount=47, 3031 Amount=100, 3582 Amount=3, 3031 Amount=100, 3557, 2920, 3031 Amount=100}, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3147, 3147, 3147, 3147, 3147, 3147}},
+               4 Content={3370},
+               5 Content={3070},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={2922 SavedExpireTime=36}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={3502 Content={2969 KeyNumber=4055, 3069, 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 3457, 2973 KeyNumber=3520, 2854 Content={2868 Content={3446 Amount=42, 3349}, 2872 Content={3403, 3357, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 3299, 3453, 3470, 3066}, 2857 Content={3056 RemainingUses=200, 3008, 3092, 3017, 3092 SavedExpireTime=1492, 3092 SavedExpireTime=1451, 3097}}, 3507}}, 
+               6 Content={3502 Content={2856 Content={3552}, 3504 Content={3507 String="sir thari romeo\nvenore" Editor="Sir Thari Romeo"}, 3447 Amount=19, 3448 Amount=8}}}

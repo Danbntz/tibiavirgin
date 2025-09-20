@@ -1,0 +1,59 @@
+ID              = 13485237
+Name            = "Ingeshu"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,95-114-114-95)
+CurrentOutfit   = (133,95-114-114-95)
+LastLogin       = 1148241332
+LastLogout      = 1148242895
+StartPosition   = [32369,32241,7]
+CurrentPosition = [33124,32837,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,429642,0,452600,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,523884,1100,528063,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,511,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35983,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,32,2000,90,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2171,2000,3150,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,387,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,194,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,229,1100,271,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,16,18,19,25,29,39,44,87,88,89}
+QuestValues = {(14,1),(15,1),(19,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(93,1),(94,1),(95,1),(111,1),(112,1),(179,1),(180,1),(190,1),(191,1),(332,1),(333,1)}
+Murders     = {1147893628}
+
+Inventory   = {2 Content={3572},
+               3 Content={2854 Content={2871 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3007, 2870 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3457, 3003, 3723 Amount=86, 2854 Content={3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 3035 Amount=13, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}}}}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3075},
+               7 Content={3557},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="Ingeshu\nThais" Editor="Ancient Legholas"}, 3504 Content={3507 String="ingeshu\nthais\n" Editor="Nash'Scrash"}, 3502}, 
+               1 Content={3502}, 
+               2 Content={3556, 3385, 3077, 2970 KeyNumber=3801, 3073, 3031 Amount=57, 3583 Amount=2, 2870 Content={3174 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3349, 3075, 2853 Content={3266, 3358, 3264, 2853 Content={2853 Content={3358, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3446 Amount=50, 3286, 3358}, 3264, 3358, 3286, 3358, 3358, 3358, 3358}, 3358, 3358, 3264, 3286, 3286, 3286}}, 3446 Amount=100, 3358, 3349, 3377}, 3358, 3358, 3358, 3377, 3358}, 3377, 3377, 3377, 3358, 3358}, 3358, 3358}, 3033 Amount=2, 3305, 3007, 2853 Content={3349, 3358, 3062, 2853 Content={3457, 3377, 3377, 3377}, 3349, 3377}, 3350, 3457, 3318, 3504 Content={3507 String="Ingeshu\nkazordoon" Editor="Zaitoo"}, 3071, 2864 Content={3446 Amount=39, 3446 Amount=100, 2864, 3446 Amount=100}, 2853 Content={2970 KeyNumber=3800}, 3504 Content={3297, 3074, 3507 String="ingeshu\nkazordoon" Editor="Dixson"}, 3279, 3504 Content={3483, 3492 Amount=32, 3492 Amount=100, 3507 String="ingeshu\nkazordoon" Editor="Arxito"}, 3045 RemainingUses=200, 2857, 3502 Content={2970 KeyNumber=4601}}, 
+               3 Content={3577 Amount=4, 3502}, 
+               4 Content={3583 Amount=2, 3574, 2871 Content={2865, 2854 Content={2869 Content={2871}}}, 2861, 3457, 3504 Content={3507 String="ingeshu\nedron" Editor="Somby"}, 3572, 3007, 3093, 3039, 2861, 2870, 2868 Content={3074, 3075}, 3502}, 
+               5 Content={3031 Amount=40, 3035 Amount=5, 2952, 3084 RemainingUses=250, 3027 Amount=1, 2868, 3504 Content={3577 Amount=39, 3582 Amount=35, 3507 String="ingeshu\ndarashia" Editor="Ingeshu"}, 3287 Amount=1, 3305, 3283, 2853 Content={3457, 3264, 2853, 3582 Amount=1}, 2870, 3504 Content={3507 String="ingeshu \ndarashia" Editor="Dixson"}, 3502}, 
+               6 Content={3504 Content={3507 String="ingeshu\nvenore" Editor="Dixson"}, 3504 Content={3507 String="Ingeshu\nvenore" Editor="Ingeshu"}, 3502}, 
+               7 Content={3049 SavedExpireTime=123, 3031 Amount=21, 3031 Amount=100, 3353, 3503 Content={3507 String="ingeshu\nankrahmun" Editor="Dixson"}, 3298 Amount=1, 3551, 3042 Amount=2, 3027 Amount=1, 3032 Amount=1, 3017, 3045 RemainingUses=200, 3502}, 
+               8 Content={2853, 3298 Amount=4, 3502}}

@@ -1,0 +1,56 @@
+ID              = 9588175
+Name            = "Tiky"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-76-76-114)
+CurrentOutfit   = (129,114-76-76-114)
+LastLogin       = 1148243584
+LastLogout      = 1148243586
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32930,32080,7]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,70685,0,83400,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,122466,1400,157982,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,185,185,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,22760,1100,24547,100)
+Skill = (7,46,0,10,0,0,0,0,0,0,0,9402,1100,9901,30)
+Skill = (8,27,0,10,0,0,0,0,0,0,0,5599,1200,6405,50)
+Skill = (9,27,0,10,0,0,0,0,0,0,0,5418,1200,6405,50)
+Skill = (10,27,0,10,0,0,0,0,0,0,0,5335,1200,6405,50)
+Skill = (11,23,0,10,0,0,0,0,0,0,0,2613,1200,2959,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3168,1100,3289,20)
+Skill = (14,0,1200,0,0,0,271,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,0,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,11,15,20,29,30,42,44,48,51}
+QuestValues = {(14,1),(15,1),(16,1),(37,1),(46,1),(61,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(121,1),(192,1),(208,1),(217,3),(223,1),(226,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={2853 Content={3174 Charges=5, 3189 Charges=2, 3174 Charges=5, 3189 Charges=2, 3174 Charges=5, 3189 Charges=2, 3198 Charges=5, 3191 Charges=2}, 3447 Amount=8, 3447 Amount=100, 3447 Amount=100, 2853 Content={3148 Charges=3, 3172 Charges=3, 3188 Charges=3, 3164 Charges=3, 2874 ContainerLiquidType=11, 2874 ContainerLiquidType=10, 3152 Charges=1, 3160 Charges=1}, 2920 SavedExpireTime=78, 2920 SavedExpireTime=597, 2920, 3330, 3003, 3457}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={2853, 2853, 2853, 2853 Content={2647, 2659, 2667, 2393, 2393, 2659, 2667, 2664 RemainingExpireTime=257}, 2920 SavedExpireTime=590, 2920 SavedExpireTime=599, 2920, 2920 SavedExpireTime=462, 2920 SavedExpireTime=221, 2920, 2920, 2920 SavedExpireTime=500, 2920, 2920 SavedExpireTime=310, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2920 SavedExpireTime=598, 2920, 2920, 2920 SavedExpireTime=592, 2920 SavedExpireTime=599, 2920, 2920 SavedExpireTime=593, 3502 Content={2469 Content={3483, 3492 Amount=100, 2854 Content={3350, 3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3448 Amount=10, 3448 Amount=100, 3449 Amount=42, 3349, 3349, 3446 Amount=4, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3450 Amount=1}, 2853 Content={3483, 3492 Amount=100, 2472 Content={2854, 2854, 2854, 2854, 2854, 2854, 2854, 2854 Content={2854}, 2854, 2854, 2854, 2854, 2854, 2854}, 2472 Content={3492 Amount=100, 3483, 3483, 3483, 3483, 3285, 3425, 3350, 3349, 3350, 2854 Content={3456, 3003, 3457, 3003, 3457, 3463, 2989, 2856, 2991, 2906, 3469, 3463, 2877 ContainerLiquidType=2, 2885 ContainerLiquidType=3, 2875 ContainerLiquidType=12, 2875 ContainerLiquidType=9, 2876 ContainerLiquidType=2, 2394, 2392, 2989}, 2977, 3003, 3457, 3289}, 2472 Content={3425, 3377, 3492 Amount=87, 3350, 3349, 3350, 2906, 2869, 3290, 3292, 3291, 3289, 3299, 3289, 3451}, 2472 Content={2867, 3430, 3354, 3362, 3375, 3375, 3377, 3377, 3377, 3353, 2854 Content={2859, 2865, 2868, 2867, 2867, 2867, 2867}, 3377, 3372, 3425, 2471 Content={2472}}, 2472 Content={2854 Content={3603 Amount=27, 3607, 3600 Amount=1, 3728 Amount=2, 3723 Amount=3, 3585 Amount=14, 3598 Amount=27, 3590 Amount=4, 3595 Amount=4, 3587 Amount=3, 3586 Amount=5, 3601 Amount=2, 3602 Amount=5, 3599 Amount=6, 3579 Amount=16, 3588 Amount=27, 3578 Amount=50, 3577 Amount=22, 3582 Amount=22, 3583 Amount=70}, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2472 Content={3066, 3277 Amount=2, 1781 Amount=33, 3305, 3271, 3317, 3409, 3350, 3349, 1781 Amount=100, 2992 Amount=11, 3298 Amount=7, 3287 Amount=5, 3155 Charges=1, 3155 Charges=1}}, 2469 Content={3483, 3483, 2472 Content={3353, 3375, 3353, 3421, 3351, 3557, 2866 Content={3308, 3003, 3457}, 3425, 3384, 3377, 3372, 2866 Content={3308, 3003, 3457}, 3083 RemainingUses=150, 3359, 3372}, 2472 Content={3275, 3322, 3275, 3265, 3301, 3266, 3316, 3327, 3563, 3379, 3353, 3372, 3384, 3377, 3372}, 2866, 2867, 2857, 2871, 2866, 2871}, 2469 Content={2469 Content={4871, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 3377, 3377, 3377, 3377, 3377, 3377}, 2854 Content={3456, 2969 KeyNumber=5010, 2969 KeyNumber=4055, 2969 KeyNumber=4600, 3378, 3362, 2853, 2821 String="Expeditiondiary of Erin Cropwell\n\nDay 1: After visting my fathers grave, I headed northeast to explore the world behind the great vulcanic mountains.\n\nDay 2: I sneaked thru a great cave full of cyclopses. After hours of wandering and climbing I reached the other side.\n\nDay 3: Following the coast to seek signs of life.\n\nDay 4: Found a strange desert. In the middle there seems to be a ruin, I will examine this at night, because it's much too hot now.\n\nDay 5: DAMN!!! I fell into the deep hole and broke both legs and a rib. All I can do is...\n    climb up      spider        poison\n\nTell my wife I lov..."}, 2970 KeyNumber=3800, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=3600, 2969 KeyNumber=4055, 2969 KeyNumber=4600, 2969 KeyNumber=5000, 2969 KeyNumber=5010}, 2469 Content={3456, 3008, 3483, 3572, 3008, 2969 KeyNumber=5010, 3377, 2970 KeyNumber=3800, 3483, 3285}, 2867, 2868, 2871}, 2857 Content={2865 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2867 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3066, 3066, 3092, 3056 RemainingUses=200, 3056 RemainingUses=200, 3097}, 2472 Content={3066, 3046 SavedExpireTime=2996, 3081 RemainingUses=5, 3084 RemainingUses=250, 3092, 3045 RemainingUses=200, 3083 RemainingUses=150, 3050, 3093 SavedExpireTime=1577, 3056 RemainingUses=200, 3085 RemainingUses=200, 3059, 3008, 3097, 3077}, 2920 SavedExpireTime=597, 2920 SavedExpireTime=598, 2920 SavedExpireTime=600, 2920 SavedExpireTime=597, 2920 SavedExpireTime=597, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2920, 2920 SavedExpireTime=304, 2920 SavedExpireTime=461, 2920 SavedExpireTime=465, 2920 SavedExpireTime=472, 2920 SavedExpireTime=367, 2920 SavedExpireTime=197, 2920, 2920 SavedExpireTime=440, 2920 SavedExpireTime=273, 2920 SavedExpireTime=216, 2920 SavedExpireTime=483, 2920, 2920 SavedExpireTime=599, 2472 Content={3503 Content={3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3507, 3505}, 3503 Content={3505 Editor="Tiky", 3505 Editor="Tiky", 3507, 3505}, 3503 Content={3503 Content={3507 Editor="Tiky", 3505 Editor="Tiky"}, 3505 Editor="Tiky", 3505, 3507, 3505}, 3503 Content={3503 Content={3507, 3505}, 3505, 3507, 3505}}, 2854, 2854, 2854, 2854, 2854, 2867, 2867, 2867, 2867, 2868, 2868, 2868, 2868, 2868}, 2472 Content={2867 Content={2853, 2853, 2950, 2949, 2952, 3283, 3472}, 2867, 2867, 2867, 2867, 2868, 2868, 2868, 2868, 2865, 2865, 2865, 2865, 2865, 2865}, 2472 Content={2469 Content={3012, 3457, 3452, 3455, 3551, 3552, 3483, 3483, 3483, 3483}, 2469 Content={3459, 3462, 3310, 3454, 3452, 3455, 3003, 3457, 3551}, 2469 Content={2872 Content={2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard" Editor="Tiky", 2903 ContainerLiquidType=1, 2876, 2876 ContainerLiquidType=1, 3061, 3061, 3017, 2853 Content={3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017}, 3565, 3565, 3565, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 3008, 2853 Content={3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008}, 3012, 3012, 2853 Content={3012, 3012, 3012, 3012, 3012, 3012, 3012, 3012}, 2872 Content={2667, 3059, 3097, 3008, 3012, 3097, 3017, 3097, 3205, 3097, 3017, 3565, 2906, 3551, 3012, 3012, 3012, 2857 Content={3565, 3012, 3563, 2906, 3552, 3551, 2856, 2856}, 2857 Content={3008, 2991, 3008, 3565, 3509, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard" Editor="Tiky", 3059}, 2856 Content={2859, 2860, 2857, 2858, 2864}}}}, 2469 Content={2856 Content={2906, 3097}, 3056 RemainingUses=189, 3509, 3012, 3012, 3012, 3012, 3012, 2659, 3059}, 2469 Content={3008, 3083 RemainingUses=127, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3017, 2856, 2856, 3059, 3056 RemainingUses=200, 3017, 3097 SavedExpireTime=2586}}, 2853 Content={2473 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 2473 Content={2469, 2469, 2469, 2471, 2471, 2471, 2471, 2471}, 2473 Content={2471, 2471, 2471, 2471, 2471, 2471, 2471}, 2473, 2473, 2473}}}}

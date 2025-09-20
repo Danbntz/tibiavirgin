@@ -1,0 +1,57 @@
+ID              = 9676866
+Name            = "Shannon Devin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (138,114-17-92-92)
+CurrentOutfit   = (138,114-17-92-92)
+LastLogin       = 1135124379
+LastLogout      = 1135132976
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32519,31967,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,212458,0,232500,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,200831,1100,214735,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,545,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,34415,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,20203,2000,25550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,160,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,999,1100,1023,20)
+Skill = (14,0,1200,0,0,0,300,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,56,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,7,8,9,10,11,16,17,21,27,29,30,38,44,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(60,1),(61,1),(67,1),(70,1),(106,1),(107,1),(125,1),(126,1),(138,1),(139,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={3582 Amount=2, 3031 Amount=50, 3072, 2859 Content={3585 Amount=1, 3602 Amount=1, 3191 Charges=1, 3191 Charges=2, 3191 Charges=2}, 2853 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 3457, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3003, 3723 Amount=70}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={2870 Content={3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3012, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=594, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2870 Content={3198 Charges=4, 3198 Charges=4, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3192 Charges=1, 2853 Content={3507 String="Arsenal\n", 3198 Charges=1, 3198 Charges=2}}, 2471 Content={2815, 3505, 3505, 3505, 3505}, 2469 Content={3723 Amount=55, 3725 Amount=50, 2867 Content={3592, 3591 Amount=10, 3595 Amount=2}, 3600 Amount=4, 3590 Amount=7, 3492 Amount=100, 3492 Amount=100}, 3502 Content={2482 Content={3031 Amount=28, 3035 Amount=16}, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 2471 Content={2471 Content={3291, 3451, 3462, 3471, 3470, 3469, 2893}, 2867 Content={3059, 2977, 2911 SavedExpireTime=2808, 3059}, 2471 Content={3003, 3003, 3457, 3293, 3453, 3453, 2911 SavedExpireTime=2930, 3483, 3293, 3455}, 2865 Content={3308, 3292, 3308}, 2471 Content={3324, 3384, 3551, 3567, 3572, 3359, 3421, 3074, 3552, 3377}}, 2853 Content={2861 Content={2861}, 2863 Content={2863}, 2853 Content={2853 Content={2853}}, 3507 String="Aleman Ermel de Zanera\nkazordoon", 3507 String="dufinin\nkazordoon", 3507 String="ranzel'slayer\nKazordoon"}, 3507 String="Flowers and Letters\nFrom My Love", 2480 Content={2393, 2469 Content={2644, 2653, 2399}, 2866 Content={3083 RemainingUses=150, 3093, 3050 SavedExpireTime=1789, 2893, 3454, 3509}, 2868 Content={3505 String="Oi amor, Advinha quem é :P\n\nEstou mandando umas Runas que deixei na casa e no meu DP e estão paradas tem muito tempo já :)\n\nAs que estão soltas na parcel são tudas prontas com 5 tiros as de dentro tá tudo usado, mas pode colocar no arsenal né :)\n\nAté as com 5 se quiser!\n\nBeijos amor\nTe Amo Muitão!!!!", 3505 String="Oi amor, tô mandando umas Bagzinhas coloridas como me pediu :)\n\nTem 2 Azuis, 2 Laranjas e 1 Verde hehehe\n\nEspero que já ajude, qualquer coisa ´s ó pedir :)\n\nBeijos!!! \nTE AMO!!! Muitão \n\nVictor", 3505 String="Oi Amor, \n\nCumpri minha parte no trato :)\n\nCheguei no level 16 peguei algum dindin, não foi muito e gastei um pouco para comprar runas brancas.\n\nPrecisa só preecher as bags com blank runes e cuidado na hora de vender porque tem uma BP faltando uma runa!\n\nSe vender tentar vender assim e verem acham que tentou enganar  eles =P (Tá no DP do lado de fora essa BP)\n\nA prova de que joguei bastante mesmo não completando a BP de hmm inteira éq que passei de lvl, tá bom né? :)\n\nÉ isso amor, vou mimir que tá mui tarde e tô com dorzinha nas costas :(\n\nBeijos bbzinha,\nTe amo!!!\n\nVictor", 3506 String="Shannon Devin\nKazordoon\n\nOlha o que eu achei aqui amor!!!!! =)\n\nLogo que vi pensei em você, como sei que é uma das suas flores prefereidas peguei uma!\n\nFica como mais um presente de aniversário de namoro tá?!\n\nA rosa é só mais uminha para você :)\n\nBeijos!!!\nTe Amo muito!!!\n\nVictor A. Mota \n(Sir Petit Prince)", 3505 String="Amor, como te prometi estou enviando muitas flores para você que você merece!!! \n\nTem umas até difíceis de encontrar!!! \n\nEspero que goste amor! Guardei com carinho!!!\n\nBeijos, te amor muitooo!!!", 3506 String="Shannon Devin\nKazordoon\n\nNhaaaa amor, então por isso demorou né!!!1 =P\n\nQue bom, mais uma cartinha para eu guardar aqui na sua bp :)\n\n E guarde essa para sempre lembrar dessa data aqui também!!!!\n\nTE AMO MUITÃO!!!!\nDo seu Bbzinho\nVictor - Vulgo Sir Petit Prince"}, 2867 Content={2985, 3673, 3673, 3658, 3668, 2981, 2985, 3655, 3739 Amount=1, 3740 Amount=1, 3674, 3661, 2983, 3658}}, 3507 String="Quests", 2472 Content={2854 Content={2873, 3454, 3565, 3507 String="Quest das bruxas\n\nPetit, Gigi e eu!\n31/10/05", 3114 Amount=1, 3046, 3209, 2874 ContainerLiquidType=1}, 2858 Content={3097, 3056 RemainingUses=200, 3097, 3097, 3097, 3097, 3097, 3097}, 2854 Content={3507 String="Quest dos Minos\nTorre em Kazordoon\n\nPetit e eu!", 3305, 2816 String="I've managed to imprison two cyclops in my secret dungeon under the lighthouse. I forced them to create some magic equipment. Soon I will be the mightiest warrior in Tibia.", 3413, 3421}, 2869 Content={3507 String="Quest dos trolls\nCarlin\n\nPetit e eu!", 2973 KeyNumber=3520, 2955}}, 3507 String="Backpacks", 2472 Content={2861, 2857 Content={2857, 2469}, 2869 Content={3505 String="Amorzinho, to mandando as BPzinhas azuis para você :)\n\nQualquer coisa é só pedir, ou então te empresto meu char, tá?! :)\n\nBeijão amor!!!\nTE AMO", 2869, 2869}, 2865 Content={2865}, 2867, 2866 Content={2866, 2866, 2866, 2866}, 2872}}}, 
+               6 Content={3504 Content={3507 String="Shannon Devin\nVenore"}, 3502 Content={}}}

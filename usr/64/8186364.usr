@@ -1,0 +1,62 @@
+ID              = 8186364
+Name            = "Von'Breaker"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,59-12-114-94)
+CurrentOutfit   = (134,59-12-114-94)
+LastLogin       = 1148253623
+LastLogout      = 1148253647
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33215,31851,8]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1070101,0,1152200,100)
+Skill = (1,54,0,0,0,0,0,0,0,0,0,2803060,1100,3008946,1600)
+Skill = (2,355,355,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,959,1055,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,111,111,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,810,810,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,104115,1500,131168,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,43,1800,84,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,932,1800,1118,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,73201,1800,130081,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,23,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,245,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7327,1100,8028,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,4,5,6,7,8,9,12,16,17,18,20,25,27,28,29,30,33,38,39,42,44,45,50,76,77,81,82,84,88,94}
+QuestValues = {(1,2),(2,6),(41,1),(42,1),(43,1),(44,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(86,1),(87,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(108,1),(111,1),(112,1),(113,1),(114,1),(120,1),(135,1),(136,1),(137,1),(151,1),(152,1),(153,1),(178,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(211,4),(217,3),(333,1)}
+Murders     = {1146962890,1147312891}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2869 Content={3147, 3324, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 3031 Amount=5, 2854 Content={3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=30, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3483}},
+               4 Content={3357},
+               5 Content={3067},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3583 Amount=5}}
+
+Depots      = {0 Content={3504 Content={2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3507 String="von'breaker\nthais\n" Editor="Von'Breaker"}, 3502}, 
+               1 Content={3504 Content={3031 Amount=80, 3507 String="Von'Breaker\ncarlin" Editor="Zhintia", 3557, 2872 Content={3031 Amount=7, 3031 Amount=100, 3031 Amount=100, 2866}}, 3504 Content={3031 Amount=46, 3008, 3412, 3031 Amount=100, 3507 String="Von'Breaker\ncarlin" Editor="Infernal Zeed"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={2853 Content={2853}, 3507 String="von'breaker\nab'dendriel\n" Editor="Von'Breaker"}, 3504 Content={3507 String="Von'Breaker\nab'dendriel" Editor="Mare Trek"}, 3504 Content={3097 SavedExpireTime=3466, 2853 Content={3377, 2970 KeyNumber=3802, 2970 KeyNumber=3801, 2970 KeyNumber=3800}, 3507 String="Shapo'guzman\nab'dendriel"}, 3506 String="Von'breaker\nAb'dendriel\n\nho0lis naziTA!!!! :D:D:D:D \n\naTte.. mInI  xDD!! quimico pLX!", 3277 Amount=4, 3502}, 
+               4 Content={2859 Content={3457, 3059}, 3504 Content={3583 Amount=54, 3507 String="von'breaker\nedron\n" Editor="Lady Knight'Fer"}, 3502 Content={3557, 2866, 2866}}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={2871, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={2861 Content={3049, 3092, 3092, 3092, 3483}, 2469, 2857 Content={2858, 2863}, 3269, 3507 String="von'breaker\nankrahmun" Editor="Von'Breaker"}, 3502 Content={3035 Amount=60}}, 
+               8 Content={3502 Content={}}}

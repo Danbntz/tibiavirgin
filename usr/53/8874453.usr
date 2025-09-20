@@ -1,0 +1,53 @@
+ID              = 8874453
+Name            = "Autorisation"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (131,114-19-94-95)
+CurrentOutfit   = (131,114-19-94-95)
+LastLogin       = 1134860487
+LastLogout      = 1134860492
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32240,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9472,0,13000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,16720,3000,20800,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7765,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,51,1100,105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,34,0,10,0,0,0,0,0,0,0,4870,1100,4917,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,276,1100,318,20)
+Skill = (14,0,1200,0,0,0,897,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,12,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3003, 3152 Charges=1, 3152 Charges=1}},
+               4 Content={3377},
+               6 Content={3269},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={3425}}
+
+Depots      = {0 Content={3502 Content={2854 Content={3293, 3411}, 2854 Content={3031 Amount=22}, 3084 RemainingUses=250, 3582 Amount=7, 3577 Amount=91, 3276, 3558, 3285, 3316, 3504 Content={3147, 3147, 2854 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 2815 String="kazdy kto to przeczyta to huj i ciota co dla pedofila dupy daje!!!!!wy huje", 3300, 3447 Amount=3, 3457, 3003, 3276, 3003, 3003, 2922 SavedExpireTime=159, 3276, 3283, 2815 String="Dejo esto pára el idiota de Buckslayer on zanera q es un pendejo\n\nAtte.Jessie Fox\n\nNota.Buckslayer on zanera contagia la pendejes\n\nGracias por su atencion", 2815 String="vai caçar merda seu bando de viado!!!!!!!", 2815 String="", 3590 Amount=9, 2984, 2984, 2984}}, 
+               1 Content={3502 Content={}}, 
+               6 Content={3502 Content={3504 Content={3507 String="Autorisation\nVenore"}}}}

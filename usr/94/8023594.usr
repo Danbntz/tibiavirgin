@@ -1,0 +1,52 @@
+ID              = 8023594
+Name            = "Anjuss Storm"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1146592115
+LastLogout      = 1146592292
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32341,31784,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,179948,0,204800,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,53424,3000,64000,1600)
+Skill = (2,0,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,115,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51420,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,54,0,10,0,0,0,0,0,0,0,32641,1100,35945,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,12,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1749,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(53,1),(55,1),(58,1),(59,1),(60,1),(61,1),(67,1),(68,1),(70,1),(71,1),(106,1),(107,1),(109,1),(113,1),(114,1),(115,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(226,1),(254,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3307},
+               7 Content={3372}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3578 Amount=60, 2868 Content={3305, 2854 Content={}, 3377}, 3502 Content={2868 Content={3148 Charges=2, 3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=1, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2854 Content={2868 Content={}, 3031 Amount=5, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2868 Content={2854 Content={2854 Content={2854 Content={}}, 3285, 3350, 3350, 3350}, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3285, 3377}, 2869 Content={2868 Content={}, 3083 RemainingUses=150, 3084 RemainingUses=250, 3054 RemainingUses=200, 3054 RemainingUses=200, 3054 RemainingUses=200, 3008, 3008, 3056 RemainingUses=200, 3056 RemainingUses=200, 3083 RemainingUses=150, 3085 RemainingUses=200}, 2854 Content={3097 SavedExpireTime=3582, 3093 SavedExpireTime=0, 3093 SavedExpireTime=0, 3092 SavedExpireTime=1796, 3092 SavedExpireTime=836, 3092 SavedExpireTime=784}, 2865 Content={2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868 Content={}, 2868 Content={3147, 3147, 3147, 3147, 3147}}, 2865 Content={2868 Content={}, 3287 Amount=13, 3298 Amount=15, 3449 Amount=1}, 2865 Content={2854 Content={3504 Content={3507 String="sorcerer dest\ncarlin"}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="Sir Cabe\nCarlin"}, 3504 Content={3507 String="raimbow spear\ncarlin"}, 3504 Content={3578 Amount=8, 3507 String="Pana Fa'mous\nEdron"}, 3504 Content={}}, 3504 Content={}, 3504 Content={}, 3504 Content={3507 String="mephistroth warrior\ncarlin"}, 3504 Content={3507 String="Gordini \nCarlin"}, 3504 Content={3507 String="yawl dux\ncarlin"}, 3504 Content={3507 String="Sir wuilian wualas\ncarlin"}, 3505 String="ANJUSS STORM HUNT HERE !!\n\nMSG-ME !!!\n\nTY\n\nBYE BYE ;)", 3505 String="ANJUSS STORM HUNT HERE !!\n\nMSG-ME !!!\n\nTY\n\nBYE BYE ;)", 3505 String="", 3505 String="", 3505 String="", 3505 String="Anjuss Storm Hunte Here \n\nThx.. bye bye \n\nty", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE ", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE ", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE ", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE ", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE ", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE ", 3507 String="ANJUSS STORM HUNTE HERE !!\n\nTHX BYE BYE "}, 2867 Content={2854 Content={3456, 2855 Content={2865 Content={}, 2854 Content={}}, 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3059 String="", 3059 String="", 3456, 3026 Amount=3, 2876 ContainerLiquidType=0, 3292, 3003, 3299, 3299, 3299, 3293}, 2992 Amount=12, 3017, 3028 Amount=3, 3293, 3457, 3267, 3267, 3267, 2955, 3291, 3267, 3483, 3003, 3277 Amount=8, 3299, 2955, 2955, 3046 SavedExpireTime=2998}, 2867 Content={2854 Content={}, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2969 KeyNumber=3600, 2970 KeyNumber=4502, 2970 KeyNumber=4503, 2970 KeyNumber=4502, 2969 KeyNumber=4600, 2969 KeyNumber=4603, 2973 KeyNumber=3520, 2973 KeyNumber=3520}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}}

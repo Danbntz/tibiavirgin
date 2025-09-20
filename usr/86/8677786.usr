@@ -1,0 +1,59 @@
+ID              = 8677786
+Name            = "Saint'Jano"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,114-12-114-114)
+CurrentOutfit   = (134,114-12-114-114)
+LastLogin       = 1148182540
+LastLogout      = 1148182548
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32670,31663,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,336506,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,93382,3000,193600,1600)
+Skill = (2,492,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,9,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,58,0,10,0,0,0,0,0,0,0,98310,1100,105718,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,59,0,10,0,0,0,0,0,0,0,58010,1100,58195,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3719,1100,4022,20)
+Skill = (14,0,1200,0,0,0,300,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,29,76,81}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(59,1),(86,1),(87,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={3003, 3457}},
+               4 Content={3357},
+               5 Content={3429},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={2854 Content={3207 Amount=1}, 2868 Content={2854}, 2867 Content={2866 Content={3447 Amount=10, 3286, 3412, 3286, 3286, 2854, 3286}, 2865 Content={3358, 2854 Content={3350, 3003}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2865, 2854 Content={3504 Content={3012, 3425, 3377, 3559, 3375, 3507 String="Saint'Pelada\nAb'dendriel" Editor="Saint'Jano"}}}, 2870, 2469 Content={2865 Content={2868 Content={2920, 2920, 3457, 2920, 2920 SavedExpireTime=101, 2920, 3505, 3505 String="amor!!\n\njorge amor kien traia mi mona ¬¬? me la dejaron sin machete amor \nporfavor si te la llevas alla ponle el machete porke me kede encerrada como media horaaaaaaaaaaaa tuve k llevar a sir constantinee desde venore a ab para poder abrir  :'(\n\nporfavor!! machete rulz! \n\nte amo amor :******** lee el mail ;)\nborreguito ^.^\n\nlos hams porfa no te los lleves :(\nson para mis afkeadas :P\nllevate 25 si kieres amor :***\n te deje un machete con tu mono amor, porke TAMPOCO TENIA!!! kise meterlo mas bien LO METI , pero adivina ke no tenia machete -.-!!!   \n¬¬ kien entreno los monos    U.U!"}, 2854, 2868, 2854, 2867, 2854 Content={2853 Content={2853}, 3349}}, 2853 Content={2853 Content={3349}}}, 3502 Content={3031 Amount=7}}, 
+               4 Content={3578 Amount=23, 3502 Content={}}, 
+               5 Content={3503 Content={3507 String=""}, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}}

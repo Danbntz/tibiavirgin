@@ -1,0 +1,58 @@
+ID              = 11066650
+Name            = "Dark Punisher of Zanera"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (132,116-114-114-78)
+CurrentOutfit   = (132,116-114-114-78)
+LastLogin       = 1146804544
+LastLogout      = 1146804623
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32225,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,34596,0,37800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,38385,1400,55031,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,65,125,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6122,1100,6400,100)
+Skill = (7,51,0,10,0,0,0,0,0,0,0,15927,1100,16129,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,974,1200,1039,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,1,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,137,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,33,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,0,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,20,29,51}
+QuestValues = {(35,1),(37,1),(217,3)}
+Murders     = {1145130723,1145131018}
+
+Inventory   = {1 Content={3384},
+               2 Content={3084 RemainingUses=207},
+               3 Content={2854 Content={3552, 3447 Amount=71, 3447 Amount=100, 3447 Amount=100, 3446 Amount=4, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               10 Content={3447 Amount=94}}
+
+Depots      = {0 Content={3504 Content={3507 String="Dark punisher of zanera\nthais" Editor="Lord'Pepe"}, 3287 Amount=2, 3298 Amount=8, 3504 Content={3507 String="dark punisher of zanera\nthais" Editor="Lord'Pepe"}, 3377, 2853 Content={2853 Content={2922 SavedExpireTime=286, 2920 SavedExpireTime=598, 2920, 2920, 2920, 2920}, 2920 SavedExpireTime=599, 2920 SavedExpireTime=599, 2920, 2920, 2920, 2920, 2920}, 3277 Amount=1, 3031 Amount=4, 3349, 3446 Amount=34, 3372, 3457, 3003, 3003, 3457, 3384, 3504 Content={3270, 3425, 3412, 3507 String="dark punisher of zanera\nthais" Editor="Dark Punisher of Zanera"}, 3552, 3316, 3558, 3558, 3504 Content={2872 Content={3483, 3658, 3299}, 2853 Content={3316, 3276, 2906, 3350, 3377}, 3483, 3425, 3421, 2853, 3507 String="dark punisher of zanera\nthais" Editor="Dark Punisher of Zanera"}, 3349, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=15, 3031 Amount=100, 3012}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3286, 3502}, 
+               7 Content={3504 Content={3507 String="dark punisher of zanera\nankrahmun\n" Editor="Dark Punisher of Zanera"}, 3502 Content={3031 Amount=100, 3031 Amount=25, 3031 Amount=52, 3042 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               8 Content={3502}}

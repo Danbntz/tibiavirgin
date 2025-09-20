@@ -1,0 +1,48 @@
+ID              = 14904867
+Name            = "Heiham Dark"
+Race            = 1
+Profession      = 0
+OriginalOutfit  = (129,114-114-114-114)
+CurrentOutfit   = (129,114-114-114-114)
+LastLogin       = 1147809057
+LastLogout      = 1147809064
+StartPosition   = [32097,32219,7]
+CurrentPosition = [32108,32190,6]
+PlayerkillerEnd = 0
+
+Skill = (0,1,0,1,0,0,0,0,0,0,1,0,0,100,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,150,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,0,0,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,70,70,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,400,400,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,10,0,10,0,0,0,0,0,0,0,0,1500,100,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={2816 String="Tactics handbook - Use training to your advantage. Avoid fighting more than one enemy at the same time. Be careful while chasing an enemy because you might get hurt by his allies or by other monsters and can't defend yourself while targeting him. \nTarget only the closest enemy or you'll become confused and might not be able to defend yourself against other attacks. \nDifferent enemies require different tactics. Some are better to be fought in an aggressive way; some should be fought in a defensive way. Which attack style you choose also depends on your equipment. If you wear only light armour, there is probably no point in fighting defensive and the other way around. ", 2816 String="Dungeon Survival Guide\n\nDon't explore the dungeons before you tested your skills in the training cellars of our academy. You will find dungeons somewhere in the wilderness.\nDon't enter dungeons without equipment. Especially a rope and a shovel will prove valuable. Make sure you have a supply of torches with you, while wandering into the unknown. \nIt's wise to travel the dungeons in groups and not alone. For more help read all the books of the academy before you begin exploring. \nTraveling in the dungeons will reward the cautious and brave, but punish the reckless.\n"}},
+               5 Content={2816 String="The citys of the continent: \n\nFibula is a small village on an isle southwest of the mainland. Its under the rulership of the Thais monarchy. Its rumored that beneath this isle are caves and dungeons of unknown but certainly ancient origin. \n\nOn the mainland is the city of Thais, ruled by the wise and just King Tibianus. His explorers found the new soulvortex on this isle and build this base to protect and train the incoming heroes.  \n\nIn the far northwest is the city of Carlin, that is ruled by amazons. The stuborn so called queen refuses to accept the rulership of the Thais monarchy over the whole continent. \n\nAt the great bay, east of Thais lies a rotten town of criminals. Little is known about it and only the most ruthles people even think about travelling there. \n\nThe dwarfen town, north of mount sternum, the central tibian mountainmassive, is the home of the tibian dwarfs. If you are looking for smiths of unparraleled skill you should travel there. \n\nFarer north, at the northern shores you find the elven city of Ab'Dendriel. There live the elves, masters of nature and masterhunters. \n"},
+               6 Content={2816 String="My travels. \n\nAs the orcs approached I've hidden myself in the bushes near the lake. I did hardly dare to breath as they met only some inches from my nose. I thought my wild beating heart might betray me to this murderous beasts. \nI overheared the greenskined brutes. 'charach' (or so) one said and the other responded the same way, then they began to chat in their strange language, certainly talking about some gruesome plot against mankind. Talking they wandered away and after they vanished from my view I quickly got up and headed to Thais as fast as I could."},
+               10 Content={2816 String="The Soulvortex\nIts said that in ancient times, the gods created a great vortex to allow the souls of spirits from 'beyond' enter the realm of Tibia. Through this vortexportal many great heroes were able to  manifest themselves on Tibia. In their new bodys they fought againt the forces of destruction. But also agents of destruction and evil entered the world through this portal. More and more the dark forces used the portal to spread over Tibia and to annoy, disrupt and subvert the brave people of the world. Some of the evil spirits remained long enough in this world to wreak even more havoc on the good people of Tibia. Destruction of all that others had built, slaying of new manifested souls as soon as they left the vortex. \nThe gods watched in grief what had become of their great accomplishment. And one day Uman and Banor combined their awesome forces and split the vortex. One strand now aimed to the isle of rookgaard, the other one remained aimed on the temple of Thais. \nFrom this day on the newborn heroes awakened on the holy and protected isle of rookgaard and only the stronger and better prepared souls could travel to the continent. \nGuided by omens an expedition of brave warriors from the thaian order of the knights of noodles traveled the perillious seas the the remote isle of rookgaard and discovered the new soulvortex. \nSoon this base was built and this fine academy founded. \n\nPraise the gods and our King."}}
+
+Depots      = {}

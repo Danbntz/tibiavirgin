@@ -1,0 +1,56 @@
+ID              = 8249951
+Name            = "Astrolegacy"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,40-19-113-0)
+CurrentOutfit   = (137,40-19-113-0)
+LastLogin       = 1125330247
+LastLogout      = 1125330262
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32957,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,12,0,1,0,0,0,0,0,0,1,21459,0,23200,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,9600,3000,20800,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,55,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,81,81,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9429,1100,9834,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,175,1400,213,30)
+Skill = (8,37,0,10,0,0,0,0,0,0,0,6581,1100,6710,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,13,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,26,0,10,0,0,0,0,0,0,0,770,1100,810,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,50,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(30,1),(32,1),(33,1),(34,1),(35,1),(59,1),(60,1),(61,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2854 Content={2920 SavedExpireTime=0, 3592, 3578 Amount=20, 2920 SavedExpireTime=0, 3600 Amount=1, 3031 Amount=40, 2920 SavedExpireTime=598, 2920 SavedExpireTime=0, 3003, 3483, 3031 Amount=100, 2920 SavedExpireTime=0, 3582 Amount=2, 3577 Amount=2}},
+               4 Content={3377},
+               5 Content={3285},
+               6 Content={3425},
+               7 Content={3362},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               3 Content={3457, 3457, 2973 KeyNumber=3520, 3504 Content={3582 Amount=1, 3507 String="Palla Demoniac\nAb'dendriel"}, 3502 Content={3447 Amount=12, 3031 Amount=100, 3003, 3277 Amount=11, 3283}}, 
+               6 Content={3050 SavedExpireTime=1473, 3578 Amount=39, 3506 String="Astrolegacy\nVenore\n\nHOLA, soy tu amigo Kromlesh, me pregunto porke ya no entras al tibia\ndesde ese dia del examen, si entras algun dia kiero ke me la respondas :)\nyo kiero volver a estar junto a ti,\nkiero ke seas mi tibia novia \n\nATTE: Tu amigo ke te extraña y kiere Kromlesh\n\nP.D: TE EXTRAÑO", 3374, 3506 String="Astrolegacy\nVenore\n\nPrimero que nada te quiero mandar saludos\n-soy tu novio, y se que te vas a desepcionar pero nuestro noviasgo no    ha funcionade y te pigo que quiero que cortemos, no te enojes ADIOS\n\nP.D: Podemos ser amigos", 3276, 3502 Content={2865 Content={3446 Amount=4, 3559, 3003, 2906, 3448 Amount=4, 3456}, 2867 Content={3504 Content={}, 3504 Content={}, 3504 Content={}, 2815 String="lol\n", 2853 Content={2853 Content={}, 3031 Amount=22, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3585 Amount=4, 3277 Amount=8, 3578 Amount=42, 3003, 3003, 3593, 3286, 3286, 3587 Amount=7, 3590 Amount=12, 3505 String="de nada presisosa....te dejo en el dp ;)\ncuidate mucho...vai :*\n\nAtte: Zardax (Angel)\n\nte dejo una mochila :) "}}}}

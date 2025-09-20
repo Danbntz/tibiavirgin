@@ -1,0 +1,55 @@
+ID              = 14213913
+Name            = "Druid Fanatic"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,40-38-0-76)
+CurrentOutfit   = (133,40-38-0-76)
+LastLogin       = 1147909604
+LastLogout      = 1147909619
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33219,32456,8]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,99334,0,116000,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,61844,1100,64871,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,201,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14508,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1826,1800,2063,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,120,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,15,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,543,1100,559,20)
+Skill = (14,0,1200,0,0,0,248,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,20,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,189,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,10,20,29,42,76,84,88}
+QuestValues = {(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3373},
+               2 Content={3008},
+               3 Content={2869 Content={3582 Amount=1, 3152 Charges=1, 3152 Charges=1, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3070},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3035 Amount=10}}
+
+Depots      = {5 Content={3377, 3372, 3504 Content={3505 String="Kit De Pk\n\nfaça bom uso, v se n morre e eu kero a porra dos 1k q eu gastei pra compra esa merda fia da puta...boa sorte...e vai pk em carlin, venore ou thais...vai se fude" Editor="Tiago Pirokaman"}, 3483, 3065, 3070, 3502 Content={3504 Content={3504 Content={2853 Content={3425, 3425}, 3507 String="Druid Fanatic\nDarashia" Editor="Keo Aki Meow"}, 3507 String="Druid Fanatic\nDarashia" Editor="James Bounty Hunter"}, 3504, 3425, 2854 Content={3425, 3504 Content={3110, 2868 Content={2854, 2955, 1781 Amount=2, 2854 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3050, 3056 RemainingUses=200, 3504 Content={2853 Content={2853 Content={3003}}, 3507 String="Shang Night'Hero\nCarlin\n" Editor="Shang Night'Hero"}, 3008, 2473, 3492 Amount=100, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276}, 3492 Amount=100, 2854, 2469 Content={2920 SavedExpireTime=595, 2853}, 2854, 3305, 3301, 3598 Amount=8}, 3277 Amount=21, 2955, 3658, 3504 Content={3504 Content={3285, 3299, 3507 String="Shang Night'Hero\nCarlin" Editor="Shang Night'Hero"}, 3504 Content={3504, 3504}, 3507 String="Shang Night'Hero\nCarlin" Editor="Shang Night'Hero"}, 3350, 3447 Amount=69, 2854, 2869, 2867}, 3507 String="Druid Fanatic\nDarashia" Editor="Shang Night'Hero"}, 2853 Content={3492 Amount=100, 3110, 3008, 2973 KeyNumber=3520, 3377, 3358, 3359, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3425}, 3066, 3042 Amount=1, 2853 Content={3384}, 2853}}, 
+               6 Content={3502 Content={3507 String="Druid Fanatic\nvenore" Editor="Druid Fanatic", 3003, 3358, 3354, 3559, 3283, 3426}}, 
+               7 Content={2871 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3031 Amount=47, 3031 Amount=100, 3492 Amount=23, 3492 Amount=100, 3502}}

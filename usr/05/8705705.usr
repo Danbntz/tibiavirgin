@@ -1,0 +1,53 @@
+ID              = 8705705
+Name            = "Stimpy Slayer"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,3-113-28-95)
+CurrentOutfit   = (134,3-113-28-95)
+LastLogin       = 1147496856
+LastLogout      = 1147496865
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32222,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,146779,0,156200,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,126260,1400,157982,1600)
+Skill = (2,325,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,205,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,15926,1100,16449,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,32280,1100,34917,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,168,1200,181,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,187,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,161,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4224,1100,4445,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,20,42,49,51,79,81}
+QuestValues = {(35,1),(60,1),(86,1),(87,1),(88,1),(89,1),(90,1),(91,1),(92,1),(111,1),(112,1),(190,1),(191,1),(224,1),(257,1),(332,1)}
+Murders     = {}
+
+Inventory   = {6 Content={3349},
+               9 Content={3007}}
+
+Depots      = {0 Content={3003, 3456, 3457, 3160 Charges=1, 3160 Charges=1, 3504 Content={2853 Content={3446 Amount=32, 3447 Amount=22, 3350, 3350}, 3507 String="Stimpy Slayer\nThais" Editor="Gorjuzz"}, 3277 Amount=2, 3410, 3504 Content={2854 Content={2866 Content={2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3098, 3030 Amount=1, 3033 Amount=1, 3449 Amount=15, 3052, 3052 SavedExpireTime=909, 3052}, 3269, 2854 Content={3447 Amount=63, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3577 Amount=12, 3446 Amount=85}, 2469 Content={3350}, 2471 Content={3457, 3582 Amount=25}, 2472, 3507 String="Stimpy Slayer\nThais" Editor="Stimpy Slayer"}, 3502 Content={3160 Charges=1, 3012, 4871, 1781 Amount=33, 3350, 3356, 3557, 3003, 2920}}, 
+               1 Content={3504 Content={3507 String="Stimpy Slayer\nCarlin" Editor="Teriax", 3277 Amount=1}, 2920 SavedExpireTime=348, 3004, 3287 Amount=1, 3504 Content={3507 String="stimpy slayer\ncarlin", 3504 Content={2869 Content={3050, 3046 SavedExpireTime=2837, 3028 Amount=2, 3045 RemainingUses=200, 3046, 3046, 3046, 2871 Content={2865 Content={3147, 3147, 3147, 3042 Amount=1, 3083 RemainingUses=150, 3377, 3301, 3583 Amount=5, 3045 RemainingUses=200, 3045 RemainingUses=200, 3377, 3301, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3277 Amount=2, 3367, 3050, 3017}}, 3483, 3046, 3046, 3017, 2871 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3046, 3046, 3354, 3046, 3046, 3046, 3046}, 3277 Amount=8, 3027 Amount=1}, 3507 String="stimpy slayer\nedron"}}, 3504 Content={2871 Content={2871 Content={2969 KeyNumber=3033, 3147, 3045 RemainingUses=200, 3503 Content={3054 RemainingUses=200, 3504 Content={3507 String="taydux\nedron"}, 3504 Content={3507 String="Radical Cross\nEdron"}, 3503}, 3585 Amount=11, 2854, 2866 Content={3578 Amount=34, 2868 Content={3551, 3045 RemainingUses=198, 3483}, 2857 Content={3046, 3077, 3084 RemainingUses=250}, 2866 Content={3277 Amount=2, 3578 Amount=14, 3003}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3277 Amount=6}, 3504 Content={3374, 2871 Content={3003, 3457}, 3375, 3017, 3409, 3349}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3147, 3147, 3147, 3578 Amount=1, 3286}}, 3507 String="stimpy slayer\ncarlin"}, 3502 Content={3367, 2955, 3367, 3083 RemainingUses=150, 3056 RemainingUses=200}}, 
+               2 Content={3502}, 
+               3 Content={3293, 3285, 3411, 2853, 3308, 3503, 3502 Content={3430}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3084 RemainingUses=250, 3483, 2866 Content={}, 2871 Content={}, 3504 Content={3507 String="stimpy slayer\ndarashia"}, 3504 Content={3507 String="stimpy slayer\ndarashia"}, 3504 Content={2853 Content={}, 3507 String="stimpy slayer\ndarashia"}, 3504 Content={3507 String="stimpy slayer\ndarashia"}, 3502 Content={}}, 
+               6 Content={3502 Content={2854 Content={3350, 2854 Content={3029 Amount=2, 3350}, 3448 Amount=60, 3449 Amount=30, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11}, 3082 RemainingUses=50, 3076, 3053 SavedExpireTime=0}}, 
+               7 Content={3502 Content={}}}

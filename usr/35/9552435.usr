@@ -1,0 +1,60 @@
+ID              = 9552435
+Name            = "Xeluz Nigis"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-114-114-81)
+CurrentOutfit   = (134,0-114-114-81)
+LastLogin       = 1146878886
+LastLogout      = 1146882546
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31787,7]
+PlayerkillerEnd = 0
+
+Skill = (0,42,0,1,0,0,0,0,0,0,1,1109623,0,1152200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,173349,3000,193600,1600)
+Skill = (2,602,695,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,5,205,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,111,111,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1320,1320,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,322265,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,19,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,48,1100,50,50)
+Skill = (10,73,0,10,0,0,0,0,0,0,0,203879,1100,222395,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,193,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3994,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81}
+QuestValues = {(1,4),(2,6),(35,1),(41,1),(42,1),(43,1),(44,1),(46,1),(53,1),(54,1),(56,1),(59,1),(60,1),(61,1),(67,1),(69,1),(70,1),(77,1),(78,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(113,1),(114,1),(115,1),(125,1),(126,1),(128,1),(137,1),(138,1),(139,1),(151,1),(152,1),(190,1),(191,1),(211,4),(217,3),(223,1),(226,1),(253,1)}
+Murders     = {1146176940}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=24, 2868, 2854, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3577 Amount=14, 3092 SavedExpireTime=1576, 2868 Content={3198 Charges=2, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3492 Amount=100, 3483, 3003, 3457}},
+               4 Content={3381},
+               6 Content={3302},
+               7 Content={3382},
+               8 Content={3079},
+               9 Content={3007}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3148 Charges=3, 3483, 3353, 2872 Content={3008, 2854 Content={3031 Amount=12, 3457, 3003}}, 3412, 3457, 3447 Amount=15, 2868 Content={3084 RemainingUses=250, 3279, 3045 RemainingUses=200, 3085 RemainingUses=200, 3081 RemainingUses=5, 3082 RemainingUses=50, 3589 Amount=16, 3587 Amount=33, 3282, 3042 Amount=22, 3599 Amount=24, 3301, 3083 RemainingUses=150, 3046}, 3147, 2854 Content={3147, 3586 Amount=3, 3593, 3301}, 2949, 2868 Content={3046 SavedExpireTime=48, 3046, 3046, 3353, 3353, 3353, 3042 Amount=2, 3046, 3046, 3353, 3046}, 3172 Charges=3, 3077, 3174 Charges=3, 3425, 2868 Content={3147, 3147, 3147, 3147, 3425, 3147, 3147, 3046 SavedExpireTime=2921, 3421, 3277 Amount=30, 3349, 3446 Amount=53, 3599 Amount=8, 3454, 2991, 3264, 3059, 2854 Content={3147, 3147, 3447 Amount=35, 3349, 3447 Amount=100, 3448 Amount=31, 3446 Amount=24, 3447 Amount=100, 3447 Amount=100, 3492 Amount=100}, 3537, 3353}, 2664 RemainingExpireTime=392, 2865 Content={2952, 3563, 3597 Amount=2, 3598 Amount=8, 3583 Amount=6, 3061, 3585 Amount=10, 3587 Amount=6, 3589 Amount=2, 3097 SavedExpireTime=3217, 2865 Content={3059, 3198 Charges=4, 3152 Charges=1}, 3076, 2874 ContainerLiquidType=10, 3017, 2991, 3082 RemainingUses=50}, 2871 Content={3593, 2992 Amount=6, 3293, 3097 SavedExpireTime=688, 3097 SavedExpireTime=1684, 3097, 3097, 3053 SavedExpireTime=542, 2872, 2970 KeyNumber=3142, 3148 Charges=2}, 3504 Content={3077, 2992 Amount=4, 3350, 3586 Amount=6, 3447 Amount=48, 3507 String="Xeluz Nigis\nCarlin" Editor="Xeluz Nigis", 2854}, 3174 Charges=3, 2853 Content={3585 Amount=1, 3587 Amount=1, 3589 Amount=1, 3586 Amount=2, 3593, 3537, 3537}, 3092 SavedExpireTime=1797, 3456, 2867 Content={3583 Amount=1, 3085 RemainingUses=200, 3062, 3290, 3097, 3097, 3565, 3097, 3097, 3097}, 2866 Content={2854 Content={3421, 3409, 3413}, 2865 Content={3483, 3453, 2854 Content={2972 KeyNumber=3980, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2970 KeyNumber=4502, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2970 KeyNumber=4502, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 2973 KeyNumber=3520}, 3483, 3483}, 2868 Content={3305, 3330, 3327, 3074, 3316, 3318, 3305, 3327, 3310, 3327, 3327}, 2869 Content={3147, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3155 Charges=1, 3155 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147}, 3166 Charges=4, 3166 Charges=4, 3166 Charges=4, 3166 Charges=4, 3166 Charges=4, 3166 Charges=4, 3148 Charges=1}, 2870 Content={2867 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1795, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1697, 3092}, 3054 RemainingUses=200, 2854 Content={3097, 3050 SavedExpireTime=1319, 3045 RemainingUses=200, 3050 SavedExpireTime=68, 3084 RemainingUses=249, 3084 RemainingUses=247, 3056 RemainingUses=200, 3054 RemainingUses=85, 3050 SavedExpireTime=1562, 3092, 3092 SavedExpireTime=1793, 3092}}, 2870 Content={3209, 3077, 2991}, 2868 Content={3377, 3377}, 2857 Content={3448 Amount=8, 3447 Amount=100, 3449 Amount=1}}, 3502 Content={3052, 3052, 3070, 3377, 3425, 2868 Content={3287 Amount=1, 3198 Charges=3, 3198 Charges=2, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3320, 3035 Amount=97, 3492 Amount=72, 3723 Amount=75, 2870 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3350, 3035 Amount=100, 3425, 2867 Content={3583 Amount=1, 3097, 3425, 3046, 3425, 3353}, 3447 Amount=100, 2871 Content={3447 Amount=83}, 3035 Amount=100, 2866 Content={2920, 2920, 2920, 2920, 2920}, 2868 Content={3174 Charges=3}, 3349, 3353, 3353, 3059, 3308, 2854 Content={3293, 2856}, 3456, 3504 Content={3483, 3483, 3507 String="Foladorzinho", 3507 String="Princesinha duda", 3507 String="Lozano Master of Zanera", 3507 String="Selvaman", 3507 String="star gogolak", 3507 String="Xeluz Nigis \nCarlin\n\nGobira   Pagamento da guild\n1.6k\n"}}}, 
+               2 Content={3504 Content={3507 String="xeluz nigis\nkazordoon" Editor="Rend Arck", 3577 Amount=96}, 3031 Amount=27, 2854, 3504, 3552, 3506 String="xeluz nigis \nkazordoon\nkd meu 1k", 3504 Content={2868, 2469, 3507 String="Xeluz Nigis\nKazordoon\nve se serve pra casa =)\nKeywa luna\n"}, 3502 Content={3505, 3457}}, 
+               3 Content={2853 Content={2854}, 3430, 3412, 3293, 3003, 3457, 2868 Content={3430}, 3056 RemainingUses=200, 3456, 2853, 3003, 3003, 2853, 2853, 2853, 3502 Content={3268, 2969 KeyNumber=3033, 2853 Content={3003, 2955, 3504 Content={3003, 2969 KeyNumber=4600, 3509, 2853, 2853 Content={2853}, 2853}, 3121, 3003, 3456}, 2853 Content={3355, 3374, 3374, 3374, 3374, 3374}, 2853 Content={3559, 3552}, 2853 Content={3426}, 2853 Content={3300, 3300, 3276, 3300, 3276, 3276}, 2867 Content={2853, 2853}}}, 
+               4 Content={3502}, 
+               5 Content={3412, 3456, 3502}, 
+               6 Content={2853, 2853, 3504 Content={3507 String="Xeluz Nigis\nvenore\n"}, 3003, 3457, 3502}, 
+               7 Content={3578 Amount=34, 3504 Content={3507 String="Xeluz Nigis\nAnkrahmun" Editor="Milo Arkor"}, 3502 Content={3031 Amount=80, 3031 Amount=5, 3035 Amount=11}}, 
+               8 Content={3502}}

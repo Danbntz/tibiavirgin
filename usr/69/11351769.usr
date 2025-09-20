@@ -1,0 +1,55 @@
+ID              = 11351769
+Name            = "Samawako"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,0-76-114-114)
+CurrentOutfit   = (134,0-76-114-114)
+LastLogin       = 1148168262
+LastLogout      = 1148168279
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32931,32075,7]
+PlayerkillerEnd = 1150168379
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,59942,0,69700,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,83616,1100,91639,1600)
+Skill = (2,172,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,85,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,7074,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1181,2000,1550,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,17,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,139,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,41,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,15,16,18,19,20,22,25,26,27,29,38,39,44,76,78,81,87,88,89}
+QuestValues = {(37,1),(68,1),(70,1),(71,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(115,1),(121,1),(124,1),(190,1),(191,1),(208,1),(217,3),(226,1),(253,1),(333,1)}
+Murders     = {1146799970,1146867509,1147561364,1147575910,1147576379,1148149450}
+
+Inventory   = {3 Content={2854 Content={3003}},
+               6 Content={3426},
+               7 Content={3559}}
+
+Depots      = {0 Content={3504 Content={3507 String="Samawako\nThais" Editor="Askalon"}, 3502 Content={3078, 3457, 2983, 3455, 3452, 3467, 3469, 3470, 3470, 3470, 3468, 3469, 3464, 3457}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3507 String="Samawako\nEdron" Editor="Kikox sorcer"}, 3502 Content={3504 Content={3507 String="samawako \nedron" Editor="Doudus"}}}, 
+               5 Content={3502 Content={2853 Content={3577 Amount=15, 3582 Amount=30}}}, 
+               6 Content={3506 String="Samawako\nVenore\nhola" Editor="Lord carmit", 2874, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Paupers Palace, Flat 24\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3027 Amount=1, 3349, 3285, 3074, 2854 Content={3004, 3003, 3457}, 3279, 3378, 3446 Amount=4, 2867 Content={3076, 2854 Content={3082 RemainingUses=50, 2950, 2854 Content={3004, 3084 RemainingUses=250, 2644, 2653, 2389, 3084 RemainingUses=239, 3042 Amount=1, 3097, 2653, 2389, 3085 RemainingUses=190, 3004, 2647, 2653, 2389, 2989, 2659, 2653, 2989}, 2856 Content={3046, 3077, 2389}, 2991, 2653, 2389, 2395, 2389, 2653, 2389}, 2469 Content={2647, 3098 SavedExpireTime=441, 2854 Content={3547 Amount=1, 3548 Amount=1, 3054 RemainingUses=200, 3463}, 2868 Content={2992 Amount=4, 2906, 2876, 3463, 3599 Amount=1, 2969 KeyNumber=5010, 2874 ContainerLiquidType=9, 3587 Amount=1, 3736 Amount=1, 3054 RemainingUses=90, 3083 RemainingUses=150, 3059}}}, 3277 Amount=2, 3075, 2854 Content={3441, 3367, 3446 Amount=2, 3483, 3492 Amount=9, 3003, 3457, 3492 Amount=100}, 3147, 2991, 2867, 2871 Content={2920}, 3308, 2969 KeyNumber=5010, 3003, 3457, 2874, 2874, 2853 Content={3377, 3286, 2971 KeyNumber=3702, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 2872 Content={3298 Amount=1, 2842, 3059, 2647, 2656, 2647, 2653, 2867 Content={2920, 2829, 2825, 2949, 3008, 3299, 3012, 3503 Content={3003, 3469, 2905, 3471, 3466, 3468, 3469, 3464, 2905}, 2853, 3003}, 2854 Content={2856, 3741 Amount=1, 3735 Amount=1, 2984, 2856 Content={2920 SavedExpireTime=309, 2856}}, 2871 Content={3129, 3459, 3736 Amount=1, 3283, 3308, 3353, 3330, 3330, 3457}}}}, 
+               7 Content={3504 Content={3507 String="Samawako\nAnkrahmun" Editor="Kikox sorcer"}, 3502}, 
+               8 Content={3502 Content={2872 Content={3577 Amount=47}}}}

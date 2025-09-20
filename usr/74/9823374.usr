@@ -1,0 +1,54 @@
+ID              = 9823374
+Name            = "Lord Pionek"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (130,0-0-94-94)
+CurrentOutfit   = (130,0-0-94-94)
+LastLogin       = 1131895367
+LastLogout      = 1131899665
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,7640,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,3000,1600,1600)
+Skill = (2,131,190,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,40,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,480,480,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,2061,1100,2138,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,20,0,10,0,0,0,0,0,0,0,835,1100,926,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,323,1100,385,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,133,1100,165,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,75,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,282,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(59,1),(96,1),(97,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={2854 Content={3031 Amount=100, 3207 Amount=2, 3147}},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={3552},
+               9 Content={},
+               10 Content={3003}}
+
+Depots      = {0 Content={3466, 3457, 3316, 3374, 3559, 3003, 3559, 3336, 3559, 3308, 3273, 3426, 3559, 2473 Content={2471 Content={}, 2473 Content={2473 Content={}, 2473 Content={}}, 2473 Content={2816 String="Thou shalt not kill!\nThou shalt not lie!\nThou shalt not speak falsehood!\nThou shalt not steal!\nThou shalt not commit adultery!\nThou shalt praise thy king!\nThou shalt obey thy king!\nThou shalt pay thy taxes!", 3492 Amount=32, 2911 SavedExpireTime=765, 2911 SavedExpireTime=1013, 3470, 2825 String="20 Tricks to Get People's Money\n\n...", 2816 String="There's something wrong in the cesspool below the stable. I think there is a hole at the end. I have to fix that as soon as possible", 2816 String="Isaac Brewton, 908 pg\n\n\nOn the movement of objects\nAs everyone knows many objects do not remain static all the time. But what causes them to move? In some cases this is clear, if I punch a ball I am the cause of the movement, but whatabout an object falling?\n\nFalling objects head downwards, but what is \"down\", what is below us? The answer is simple: Hell! And who rules hell? Satan! So, obviously Satan is the cause of these movements, Satan is among us all the time. But if he causes these objects to fall, what reason is there that he should not be the cause of all other movements?\n", 2816 String="Alistair Cropwell's Travel Notes\n\n...strange things I saw today! A mighty city, inhabited with fearsome beings. Dark rituals, the reason of which I could not discern. Are these people friend or foe? I do not know. I remain in hiding and observe.. and what is the meaning of this strange talisman that I found? The symbol appears everywhere, I fear it may have powers that could cause damage in the wrong hands.\n\nI have been travelling so long, I can hardly remember the features of my beloved ones. Will they recognise, will the remember me? What will they make of my tales? Oh, that I be back with them, walk the city again...\n"}}, 3502 Content={2911 SavedExpireTime=0, 3466, 3451, 3457, 3452, 3483}}}

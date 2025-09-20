@@ -1,0 +1,55 @@
+ID              = 13455843
+Name            = "Bartek Sorkerer"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1147787512
+LastLogout      = 1147787690
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31785,6]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,259119,0,262600,100)
+Skill = (1,30,0,0,0,0,0,0,0,0,0,287452,1100,291109,1600)
+Skill = (2,268,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,91,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,35510,1500,38723,100)
+Skill = (7,16,0,10,0,0,0,0,0,0,0,3059,2000,3810,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2718,2000,3150,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,144,2000,150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,1771,1500,2462,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6091,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,74,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,15,16,19,20,22,25,26,29,38,44}
+QuestValues = {(59,1),(60,1),(61,1),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3147, 3198 Charges=5, 3147, 3147, 3191 Charges=2, 2973 KeyNumber=3520, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3147, 3147, 3198 Charges=5, 3191 Charges=2, 3198 Charges=5}},
+               4 Content={3380},
+               5 Content={3073},
+               6 Content={3418},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=538}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3578 Amount=52, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 2469 Content={2854, 3572, 3074, 3425, 3359, 3557}, 2469 Content={2969 KeyNumber=4055, 2854, 3059, 2906, 3285, 3035 Amount=4}, 2854 Content={3174 Charges=5, 2955, 3301, 3658, 3092 SavedExpireTime=1789, 3017, 3003, 3349, 3503 Content={3503 Content={3503 Content={3507 String="Kratus of Zanera\nRookgaard" Editor="Knight Kai", 3503 Content={3507}}, 3507, 3507, 3507, 3507, 3503}, 3503 Content={3503 Content={3503 Content={3507}, 3507}}, 3503, 3503, 3503, 3503, 3503, 3503, 3503, 3503}, 3097, 3504 Content={3152 Charges=1, 1781 Amount=32, 3012, 3483, 3483, 3483, 3277 Amount=82, 3189 Charges=2, 3189 Charges=2, 3507 String="bartek sorkerer\ncarlin" Editor="Lear Yure"}, 3097, 2977, 3059, 3050 SavedExpireTime=1778, 3059, 3012, 3189 Charges=2, 3012}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3065, 3066, 3066, 2991, 3066, 3066}, 2868 Content={2857 Content={2867 Content={3085 RemainingUses=200, 2854}, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3085 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250, 3085 RemainingUses=200}, 3084 RemainingUses=250, 3056 RemainingUses=200, 3054 RemainingUses=166, 3008, 3012, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3008, 3054 RemainingUses=141, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200, 3084 RemainingUses=247, 3056 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=199}, 2868 Content={3351, 3353, 3353, 3353}, 2868 Content={3377}, 2868 Content={3425, 3425, 3441, 3421, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2868 Content={3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 2868 Content={3483, 3492 Amount=100, 3492 Amount=51, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2868, 2872 Content={3056 RemainingUses=200, 3483, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3077, 2867, 2866 Content={3188 Charges=3, 3177 Charges=1, 3059, 3209, 3097 SavedExpireTime=3581}, 2865 Content={3152 Charges=1, 3152 Charges=1, 3164 Charges=2, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3200 Charges=3, 3172 Charges=3, 3172 Charges=3, 3200 Charges=3, 3160 Charges=1}, 2854 Content={3147, 3046 SavedExpireTime=2225, 3012, 2870, 2854, 2854, 2854}}, 2854 Content={3097, 3017, 2659, 2644, 2656, 2667, 3174 Charges=3, 3174 Charges=1, 3551}, 2868 Content={2984, 3147, 3147, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3189 Charges=2, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=3, 3189 Charges=2, 3188 Charges=3, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=3, 3188 Charges=2, 3188 Charges=1, 3188 Charges=2, 3188 Charges=3, 3188 Charges=2}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2854 Content={3446 Amount=40, 3449 Amount=16, 3597 Amount=1, 3085 RemainingUses=200, 3551, 3463, 2989, 2991, 3078, 3062, 3004, 3039, 2991, 3056 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250}, 3503 Content={2868, 2868 Content={3077, 3017, 2644, 2644}, 3012, 2991, 3316, 2914 SavedExpireTime=1124, 3377, 2970 KeyNumber=4601, 2854}, 3503 Content={2920 SavedExpireTime=311, 2920 SavedExpireTime=314, 2868, 3084 RemainingUses=7, 3287 Amount=5, 3504 Content={3504 Content={2871, 2866, 3507 String="edow tari\ncarlin" Editor="Grafifty"}, 3504 Content={3507 String="edow tari \ncarlin" Editor="Yuddit", 2871}, 3504 Content={2392, 2869 Content={2920 SavedExpireTime=288, 2854, 3585 Amount=90}, 3507 String="edow tari \ncarlin" Editor="Grafifty"}, 3504 Content={3377}, 3504 Content={3735 Amount=4, 2872 Content={2389, 2389, 2969 KeyNumber=4600, 2854 Content={3504 Content={2853 Content={2869 Content={3441, 2854 Content={2389}}}}}, 3658}, 2970 KeyNumber=3801, 3507 String="edow tari\ncarlin" Editor="Loperte"}, 3507 String="edow tari\ncarlin" Editor="Loperte"}, 2969 KeyNumber=3033, 3590 Amount=1, 3507}, 2868 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3188 Charges=3, 3188 Charges=2, 3189 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2861 Content={3658, 3658}, 3598 Amount=40, 3503 Content={3350, 3547 Amount=1, 3350, 3350, 3350, 3164 Charges=3, 2659, 2659, 3507}, 3502 Content={3583 Amount=16, 3031 Amount=75, 3035 Amount=7, 3503 Content={3017}, 3035 Amount=100, 2871 Content={2854, 3457, 2920, 3003, 3054 RemainingUses=200, 3054 RemainingUses=200}, 2854 Content={2914 SavedExpireTime=1994, 3503 Content={3507 Editor="Bartek Sorkerer"}, 3083 RemainingUses=148}, 3586 Amount=18, 2865 Content={3287 Amount=1, 3147, 3147, 2644, 2656, 3504 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3507 String="lord dark side\ncarlin" Editor="Prox Gito"}}, 2872 Content={3350, 3350, 3350, 2992 Amount=5, 2659, 2901, 2854 Content={3307, 3299, 3317, 3285, 3305, 3299, 3316, 3275, 3307, 3305, 3305, 3316, 3307, 3269, 3310, 3299, 3307, 3316, 3307, 3299}}, 3551, 2865 Content={3147, 3740 Amount=1, 3483, 2656, 2667, 3723 Amount=10, 3059, 3572, 3505, 3503}, 3008, 2854 Content={3097 SavedExpireTime=3526, 3050, 3050 SavedExpireTime=1798, 3092 SavedExpireTime=1481, 3093 SavedExpireTime=1434, 3097, 3097 SavedExpireTime=1818, 3097, 3093, 3093, 3093, 3097, 3050 SavedExpireTime=1794, 3092 SavedExpireTime=1799, 3050, 3050, 3050, 3050, 3050, 3050}, 3059, 3505, 3505, 3582 Amount=43, 2860 Content={3012, 3736 Amount=1, 3012, 3327}, 2862 Content={2871, 3503, 2868, 2867, 2870}, 3505 Editor="Ken Thudor", 2857 Content={3012, 3012}, 2906}}, 
+               3 Content={3502}}

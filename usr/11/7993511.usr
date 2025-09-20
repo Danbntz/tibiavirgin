@@ -1,0 +1,54 @@
+ID              = 7993511
+Name            = "Angelic Zalath"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,78-0-0-76)
+CurrentOutfit   = (133,78-0-0-76)
+LastLogin       = 1142840166
+LastLogout      = 1142841314
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32452,32112,6]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,106387,0,116000,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,73890,1400,78644,1600)
+Skill = (2,287,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,115,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,41,0,10,0,0,0,0,0,0,0,18746,1100,20113,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18972,1100,19579,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,25,0,10,0,0,0,0,0,0,0,3982,1200,4372,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,138,1200,181,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,288,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1323,1100,1428,20)
+Skill = (14,0,1200,0,0,0,1041,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,2,0,14,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,42,51}
+QuestValues = {(86,1),(87,1),(100,1),(106,1),(107,1),(111,1),(112,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2854 Content={3410, 3349, 3577 Amount=1, 3582 Amount=1, 3577 Amount=1, 3421, 3031 Amount=75, 3447 Amount=20, 3557, 3003, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3457}},
+               4 Content={3357},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502 Content={3305, 3031 Amount=68, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=100, 2857 Content={3738 Amount=11, 3578 Amount=83, 3582 Amount=13}, 3031 Amount=100, 3031 Amount=100, 3035 Amount=85, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3483, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3270, 3031 Amount=100, 1781 Amount=4, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3313, 3285, 3353, 3410, 3098, 3084 RemainingUses=250, 3046, 3077, 3449 Amount=2, 3350, 3289, 3003}, 3448 Amount=1}}, 
+               2 Content={3504 Content={3507 String="angelic zalath\nKazordoon\n"}, 3504 Content={3507 String="angelic zalath \nKazordoon\n"}, 3502 Content={3447 Amount=99, 3031 Amount=43, 3350}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="angelic zalath\ndarashia"}, 3502 Content={2867 Content={}, 2853 Content={3264, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0, 2874 ContainerLiquidType=0}, 3031 Amount=97, 3049 SavedExpireTime=598, 3012, 3035 Amount=5, 3446 Amount=64, 3349, 3430}}, 
+               6 Content={3502 Content={}}}

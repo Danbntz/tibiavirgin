@@ -1,0 +1,56 @@
+ID              = 9588237
+Name            = "Paco Marlboro Rojos"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (131,79-91-82-86)
+CurrentOutfit   = (131,79-91-82-86)
+LastLogin       = 1129999878
+LastLogout      = 1129999880
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,50973,0,57600,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,45520,1400,55031,1600)
+Skill = (2,265,265,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,155,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11722,1100,12109,100)
+Skill = (7,48,0,10,0,0,0,0,0,0,0,11615,1100,12043,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,6,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,113,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,418,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,36,0,10,0,0,0,0,0,0,0,2353,1100,2421,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,29,51}
+QuestValues = {(20,1),(24,1),(32,1),(33,1),(34,1),(93,1),(94,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={2911 SavedExpireTime=2967},
+               6 Content={2911 SavedExpireTime=2969},
+               7 Content={3558},
+               8 Content={},
+               9 Content={},
+               10 Content={3350}}
+
+Depots      = {0 Content={3357, 3318, 3384, 3557, 3285, 3473, 3287 Amount=1, 3504 Content={3507 String="paco marlboro rojos\nthais"}, 2968 KeyNumber=3940, 3046 SavedExpireTime=2946, 2865 Content={2854 Content={2854 Content={}}}, 3504 Content={3507 String="paco marlboro rojos\nthais"}, 3457, 3504 Content={2853 Content={}, 3507 String="paco marlboro rojos\nthais"}, 3504 Content={3578 Amount=71, 3578 Amount=100, 3578 Amount=100}, 2472 Content={3077, 3084 RemainingUses=250, 3012, 3551, 2989, 3463, 3012, 3012, 3008, 3283, 2969 KeyNumber=3033, 3451}, 3504 Content={3504 Content={3507 String="Krusty the'Archer\nthais"}, 3504 Content={3507 String="keme vez\nthais\n"}, 3504 Content={3507 String="bon'kue\nthais\n"}, 3504 Content={3507 String="Omaarr\nthais"}, 3504 Content={3507 String="Omaarr\nthais"}, 3504 Content={}, 3504 Content={3504 Content={3507 String="Bon'kue\nthais\n"}}}, 3502 Content={3147, 3147, 3147, 3003, 2981, 2981, 3504 Content={3355, 3426, 3003, 3277 Amount=2, 3267, 2854 Content={3147, 3147, 3147, 3147, 3147}, 3351}, 3504 Content={2853 Content={}}, 2853 Content={}}}, 
+               2 Content={3504 Content={3507 String="Hotcho Knight\nKazordoon"}, 3504 Content={3507 String="fist of hell\nkazordoon"}, 3504 Content={}, 3504 Content={}, 3502 Content={3552, 3031 Amount=81, 3504 Content={2870 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3447 Amount=5}, 3457, 3031 Amount=100, 3031 Amount=100, 3349, 3578 Amount=27, 3277 Amount=13, 3375, 3456, 2853 Content={3277 Amount=12, 3003, 3457}, 3504 Content={3349, 3349, 3446 Amount=10}, 3505 String="vam se fuder os mx", 3505 String=""}}, 
+               3 Content={3504 Content={3447 Amount=75, 3031 Amount=100, 3031 Amount=76, 3447 Amount=100, 3507 String="paco marlboro rojos\nab'dendriel"}, 3502 Content={3277 Amount=19, 3447 Amount=10, 3503 Content={3503 Content={3507 String="Sacarias Todas\nAb"}, 3507 String=""}, 3031 Amount=69, 3031 Amount=50, 3578 Amount=7, 3035 Amount=20}}}

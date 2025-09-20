@@ -1,0 +1,53 @@
+ID              = 12005544
+Name            = "Wary Vaquero"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (133,39-121-120-0)
+CurrentOutfit   = (133,39-121-120-0)
+LastLogin       = 1148146798
+LastLogout      = 1148146828
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32233,8]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9791,0,13000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,37363,1100,39236,1600)
+Skill = (2,65,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,20,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,3590,1500,4925,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1432,2000,1550,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,177,2000,350,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,1457,2000,1550,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,7,10,29}
+QuestValues = {(32,1),(33,1),(34,1),(59,1),(86,1),(87,1),(106,1),(107,1),(128,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3003, 3456}},
+               5 Content={3031 Amount=85},
+               6 Content={3323},
+               8 Content={3552},
+               10 Content={3266}}
+
+Depots      = {0 Content={3323, 2853, 3502 Content={3504 Content={2854, 2854 Content={3457, 3003, 3147, 3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=3, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3504 Content={3507 String="wary vaquero\nthais\n"}, 3507 String="abantar\nthais" Editor="Abantar"}, 2853 Content={3283, 3447 Amount=10, 3448 Amount=4}}}, 
+               1 Content={3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 740 gold\nfor your house \"Northern Street 3a\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3114 Amount=13, 3031 Amount=1, 2911 SavedExpireTime=2952, 3457, 3350, 3359, 3003, 3003, 3377, 2853, 3492 Amount=1, 2853, 3552, 3552, 3003, 3003, 2471 Content={2472 Content={2473, 2469 Content={2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 2881 ContainerLiquidType=1, 3375, 2981, 3286, 3286, 2853 Content={3008, 2991, 3054 RemainingUses=200, 2991, 3008, 3012, 3056 RemainingUses=200, 2859 Content={3084 RemainingUses=223, 3045 RemainingUses=193, 3056 RemainingUses=200, 3012, 3056 RemainingUses=199, 3084 RemainingUses=6, 3056 RemainingUses=200}}, 2854 Content={3050, 3050, 3050, 3050, 3050, 3097, 3097, 3097}, 2853}, 2469, 2473, 2469, 2473 Content={2874}}, 2480 Content={3174 Charges=5, 3054 RemainingUses=200, 3008, 3085 RemainingUses=195, 3045 RemainingUses=200, 3017, 3061, 3411, 3411, 3362, 3358, 2874 ContainerLiquidType=7}}, 3008, 3017, 3078, 3017, 3017, 2815 String="yo, yuno here\ngratz on the GH, you need to start inviting people\ncheck out the manual on tibia.com\nit is under the guide link", 3466, 3502}, 
+               3 Content={3502}, 
+               4 Content={2903, 3504 Content={3507 String="Wary Vaquero\nedron"}, 3502}, 
+               5 Content={3502}}

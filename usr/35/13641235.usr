@@ -1,0 +1,57 @@
+ID              = 13641235
+Name            = "Cozoc"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,97-119-115-114)
+CurrentOutfit   = (134,97-119-115-114)
+LastLogin       = 1148257011
+LastLogout      = 1148257838
+StartPosition   = [33213,32454,1]
+CurrentPosition = [33097,32463,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,503696,0,548900,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,98794,3000,193600,1600)
+Skill = (2,471,560,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,142,160,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,1095,1095,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,59,0,10,0,0,0,0,0,0,0,110817,1100,116390,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,10,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,94,1100,105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (10,61,0,10,0,0,0,0,0,0,0,70342,1100,70521,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,78,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,11,0,13,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(16,1),(18,1),(21,1),(22,1),(23,1),(35,1),(37,1),(55,1),(60,1),(62,2),(93,1),(94,1),(95,1),(100,1),(106,1),(107,1),(128,1),(140,1),(141,1),(190,1),(191,1),(192,1),(223,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=28, 3286, 3286, 3031 Amount=100, 3577 Amount=4, 3582 Amount=4, 3031 Amount=100, 3084 RemainingUses=184, 3003, 3457}},
+               4 Content={3381},
+               5 Content={3320},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={2815 String="COZOC!!!\nwassup, how u an greenlee doin?\nwhat lvl?\nthis is money for rent and keep the rest\nas a gift\n           from \n                     Orix tenose" Editor="Orix tenose", 3507 String="Cozoc\nthais" Editor="Orix tenose"}, 3504 Content={3507 String="cozoc\nthais" Editor="Paper Saint"}, 3502 Content={3330, 3046, 3264, 3504 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=61, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={3031 Amount=100, 3031 Amount=93, 3507 String="cozoc\nthais" Editor="Cozoc"}, 2868 Content={3572}, 2854 Content={3504, 3572, 3572}, 3008, 3483, 3104, 3603 Amount=1, 3008, 3457, 3583 Amount=2, 3503 Content={3003, 3507 String="coitao guereiro\nvenore" Editor="Cozoc"}, 2866 Content={3286, 3285, 3282, 3265, 3350, 3279, 3282, 3012, 3287 Amount=14, 3264, 3283, 3316, 3266, 3299, 3318}, 2866 Content={3367, 3367, 3367, 3367, 3367, 3384, 3377, 3377, 3377}, 3059, 3504 Content={3507 String="cozoc\nthais" Editor="Cozoc"}, 2854 Content={3504, 3504, 3457, 3457, 3597 Amount=2, 2911 SavedExpireTime=2896, 3115, 3448 Amount=1, 3115, 2991, 3104, 1781 Amount=3}, 2854 Content={3294, 2955, 3283, 3349, 3457, 3349, 2874 ContainerLiquidType=6, 3457, 3456, 2920, 3463, 2920, 3093 SavedExpireTime=1780, 3551, 3456, 2969 KeyNumber=4600, 2969 KeyNumber=4055, 2969 KeyNumber=3600, 3300}, 3504 Content={3506 String="Archangel De'vile  \nThais\nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \nNoob !!!!!  \n" Editor="Kamilus of zenera", 3012, 3505 String="HIJOS DE PUTA TODOS MENOS YO" Editor="Evil Shion", 3430}, 2970 KeyNumber=3802, 3174 Charges=2, 2853, 2989, 3457}}, 
+               1 Content={3502 Content={3286, 3723 Amount=1, 3577 Amount=5, 3582 Amount=1}}, 
+               4 Content={3504 Content={3507 String="Cozoc\nEdron" Editor="Greenlee"}, 3504 Content={3507 String="Cozoc\nEdron" Editor="Orix tenose"}, 3502}, 
+               5 Content={3504 Content={3507 String="cozoc \ndarashia\n" Editor="Acheiles"}, 3502 Content={3035 Amount=15, 3385, 3419, 3027 Amount=1, 2870, 2854 Content={3265, 3059, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3265, 3583 Amount=2, 3293, 3504 Content={3003, 2920, 3504 Content={2853, 3507 String="Arthen Zentherius\nDarashia" Editor="Eriot Draguz"}, 3504 Content={3507 String="Chilofompila\nDarashia" Editor="Tissa Brax"}, 3504, 3504 Content={3504 Content={3507 String="hell venger\nankrahmun\n" Editor="Hell Venger"}, 3507 String="hell venger\ndarashia\n" Editor="Hell Venger"}, 3507 String="nazgul'sackville\ndarashia" Editor="Javt"}, 2969 KeyNumber=4600, 3457, 3277 Amount=1, 3504 Content={3504}, 3504 Content={3504 Content={3507 String="Syanx\nDarashia" Editor="Sain Sethala"}}, 3409, 3285, 3457, 3507 String="cozoc & greenlee hunting here\nplease respect and msge me\n" Editor="Greenlee", 3274, 3507 String="cozoc hunting here\nPlease respect and contact first\nThanks" Editor="Cozoc", 3483}}, 
+               7 Content={3502}, 
+               8 Content={3502}}

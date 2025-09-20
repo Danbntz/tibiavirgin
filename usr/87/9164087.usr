@@ -1,0 +1,60 @@
+ID              = 9164087
+Name            = "Dragon Sepherous"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1148247868
+LastLogout      = 1148247986
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1044686,0,1070100,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,610005,1400,618272,1600)
+Skill = (2,405,515,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,110,110,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1130,1130,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12432,1100,13420,100)
+Skill = (7,70,0,10,0,0,0,0,0,0,0,99444,1100,100178,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,264,1200,268,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,505,1200,645,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,74,1200,109,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,1021,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3607,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,56,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,4,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,10,11,15,20,29,30,42,44,45,49,51,76,79,81,95}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(18,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(35,1),(37,1),(39,1),(46,1),(59,1),(60,1),(69,1),(74,1),(75,1),(76,1),(77,1),(78,1),(83,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(138,1),(139,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(213,1),(214,1),(217,3),(222,1),(224,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1),(254,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2867 Content={3447 Amount=100, 3447 Amount=100, 3003, 3147, 3308, 3031 Amount=36}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=63}}
+
+Depots      = {0 Content={3447 Amount=2, 3582 Amount=1, 3504 Content={3507 String="Dragon Sepherous\nThais" Editor="Dragon Sepherous"}, 3504 Content={3384, 3507 String="dragon sepherous\nthais\n" Editor="Beteiros"}, 3504 Content={3507 String="dragon sepherous\nthais" Editor="Dragon Sepherous"}, 3504 Content={3507 String="dragon sepherous\nthais" Editor="Dragon Sepherous"}, 3483, 3502}, 
+               1 Content={3502}, 
+               2 Content={2865, 3504 Content={2867 Content={2867}, 2867 Content={2868}, 2868, 2854 Content={2865}, 3507 String="Dragon Sepherous\nKazordoon\n" Editor="Dragon Sepherous"}, 3504 Content={3349, 3349, 3507 String="dragon sepherous\nkazordoon" Editor="Dragon Sepherous"}, 2867 Content={3349, 3349, 3349, 3349, 3349}, 3457, 2870 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377}, 2870, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 3502}, 
+               3 Content={2871, 3504 Content={2867 Content={2867 Content={2867}}, 3507 String="Dragon Sepherous\nAb'Dendriel" Editor="Dragon Sepherous"}, 3349, 2854, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampaths to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicles out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 3502 Content={2865 Content={2973 KeyNumber=3520, 2970 KeyNumber=3802, 2969 KeyNumber=3008, 2969 KeyNumber=3005, 2969 KeyNumber=3006, 2969 KeyNumber=3008, 2969 KeyNumber=3007, 2969 KeyNumber=3004}, 3056 RemainingUses=200, 3291, 3483}}, 
+               4 Content={3606 Amount=98, 3579 Amount=100, 3472, 3471, 2911, 2911, 2911, 2911, 3551, 3470, 3673, 3673, 2911, 3592, 3470, 2877, 3473, 3464, 3598 Amount=100, 3577 Amount=2, 3502}, 
+               5 Content={3502}, 
+               6 Content={3446 Amount=90, 3349, 3551, 2957, 2867 Content={3441}, 3298 Amount=1, 2991, 2866 Content={2867}, 3008, 2871 Content={2869 Content={2865 Content={2866}, 2871}}, 3504 Content={3504 Content={3504 Content={2865 Content={2969 KeyNumber=5010, 2798, 3097, 3465, 3277 Amount=3}, 2802, 2811, 3308, 2806, 2853 Content={3277 Amount=29}, 3483, 3507 String="dragon sepherous\ndarashia\n" Editor="Jeblix Tatulanius"}, 3507 String="dragon sepherous\nvenore" Editor="Dragon Sepherous"}, 2866 Content={2865 Content={2865 Content={3457}, 2867 Content={2854, 2865 Content={3056 RemainingUses=200, 2867 Content={3097 SavedExpireTime=3584, 3097, 3097 SavedExpireTime=3568, 3050 SavedExpireTime=1788, 3097 SavedExpireTime=3594}, 3598 Amount=4, 3012, 3083 RemainingUses=150, 3056 RemainingUses=200}, 2868 Content={2868, 3097 SavedExpireTime=64}}, 3457, 3078}, 2856 Content={3504 Content={3483, 3507 String="Pharaon Seadra\nThais" Editor="Dragon Sepherous"}, 3277 Amount=90}, 2870 Content={2644, 2842, 2903, 3731 Amount=4, 3050, 2969 KeyNumber=3033, 2644, 2644, 4871, 2853 Content={4871, 2644, 2472 Content={2854 Content={3457, 3017, 2644}, 3017, 2644, 2644, 3017, 2644, 3017, 2644, 2853 Content={3017, 2876, 2853 Content={2819 String="Seems I fell in this hole and can't get out anymore. Unfortunatly there is no friend near to pull me up with a rope. What have I done to deserve this? What?", 2853 Content={3059}}}, 3504 Content={3017, 3017, 2644, 2866 Content={3598 Amount=13, 2854 Content={3301, 3673, 2644, 2644, 2644, 3017, 3046 SavedExpireTime=2998, 2481 Content={2644, 2867}, 3017, 2865}, 3586 Amount=6, 2644, 2644, 3046 SavedExpireTime=2955, 3039, 2644, 2644, 2815 String="Dragon Sepherous\n\nHunting Here\n\nMsg first plx\n\n=)" Editor="Afronovita Il"}, 2644, 2853 Content={3301, 3301, 3017, 2656, 2656, 2656}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 2, Flat 13\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}, 2644, 2644}, 3050}, 2644, 2482 Content={2867 Content={2871 Content={3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046 SavedExpireTime=2994, 3046, 3046, 3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=1383}, 2854 Content={3483, 3308, 3003}, 2867}, 3277 Amount=2, 3045 RemainingUses=200, 3004, 2872 Content={3062, 2969 KeyNumber=3033, 3576, 3465, 2853 Content={3004, 3097 SavedExpireTime=2994, 3054 RemainingUses=200, 3062, 3457, 2853 Content={3311, 3208, 3338, 3059, 2906, 3034 Amount=1, 3061}}, 2991, 3062, 3050}}, 2644, 2644, 3017, 2644, 3039, 2644, 3017}, 3507 String="dragon sepherous\nvenore" Editor="Dragon Sepherous"}, 2854, 3457, 3741 Amount=1, 2969 KeyNumber=4600, 3502 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867}}}}, 2867}, 3285}}, 
+               7 Content={3504 Content={3507 String="Dragon Sepherous\nankrahmun" Editor="Wilburn"}, 3502}, 
+               8 Content={2853 Content={3577 Amount=20, 3582 Amount=46, 3577 Amount=100}, 3311, 3287 Amount=1, 3504 Content={3507 String="Dragon scale fork\nport hope\n"}, 2854 Content={3507 String=""}, 2868 Content={}, 2869 Content={}, 3502 Content={}}}

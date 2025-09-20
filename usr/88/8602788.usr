@@ -1,0 +1,56 @@
+ID              = 8602788
+Name            = "Mirra the gradued druid"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,115-94-67-77)
+CurrentOutfit   = (128,115-94-67-77)
+LastLogin       = 1147733653
+LastLogout      = 1147733721
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31780,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,143565,0,156200,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,186779,1100,193759,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,142,455,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14065,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1633,1800,2063,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,3874,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,159,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5884,1100,5982,20)
+Skill = (14,0,1200,0,0,0,1020,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,62,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,7,8,10,12,16,18,20,29,38,42}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(61,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=139},
+               3 Content={2868 Content={3191 Charges=1, 3191 Charges=1, 3191 Charges=1, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2854 Content={3264, 3264, 3483, 3483, 3457, 3046, 3083 RemainingUses=150, 2856 Content={3421, 3003, 3456}}, 2854 Content={2854}, 2868 Content={3349, 3349, 2865 Content={3492 Amount=57, 3059, 3084 RemainingUses=250, 3084 RemainingUses=250, 3077, 3046, 3046, 3572, 3492 Amount=100, 3483}, 3065, 3074, 3350, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3350, 3350, 3349, 2833 String="Report 78ACFF04\nThe usual turmoil when the QUEEN GENOVEVA is in town - the sailors, drunk as always, stood out with their usual misbehaviour with the result that one of them spilled the beer of a local dwarf. In the following fight a lot of property was destroyed and even lives were endangered. I sent word to Thais that such events destroy the peace of our colony and that we would probably do better to rely on the more disciplined seamen of Venore who are more accustomed to the hardships of long journeys than the men of the Thaian marine. A letter written by the local traders strongly supporting my point has been enclosed. ", 2973 KeyNumber=3520, 3097}, 3031 Amount=11}}, 
+               2 Content={3502 Content={}}, 
+               6 Content={3502}}

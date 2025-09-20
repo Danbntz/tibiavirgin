@@ -1,0 +1,55 @@
+ID              = 11617706
+Name            = "Draron Olit"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-95-114-114)
+CurrentOutfit   = (129,114-95-114-114)
+LastLogin       = 1148058108
+LastLogout      = 1148058317
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32340,31682,7]
+PlayerkillerEnd = 0
+
+Skill = (0,41,0,1,0,0,0,0,0,0,1,1036257,0,1070100,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,243631,3000,582400,1600)
+Skill = (2,680,680,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,161,200,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,110,110,0,20,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1295,1295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,75,0,10,0,0,0,0,0,0,0,525494,1100,538407,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,76,0,10,0,0,0,0,0,0,0,291334,1100,296174,50)
+Skill = (9,21,0,10,0,0,0,0,0,0,0,1012,1100,1069,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,213,1100,232,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3013,1100,3289,20)
+Skill = (14,0,1200,0,0,0,400,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,69,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(54,1),(96,1),(97,1),(98,1),(106,1),(107,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3055},
+               3 Content={2854 Content={2920 SavedExpireTime=516, 3577 Amount=21, 3031 Amount=85, 3291, 3483, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3457, 2854 Content={3191 Charges=2, 3191 Charges=2, 3198 Charges=5, 3198 Charges=1, 2854 Content={3198 Charges=3}, 3198 Charges=4, 3198 Charges=4, 3198 Charges=5, 3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3492 Amount=92, 3003}},
+               4 Content={3381},
+               5 Content={3295},
+               6 Content={3434},
+               7 Content={3557},
+               8 Content={3079},
+               10 Content={2872 Content={2854 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3035 Amount=7, 3147, 3147, 3281, 3035 Amount=100, 3035 Amount=100, 3028 Amount=1, 3307, 3035 Amount=100, 3035 Amount=100, 3577 Amount=83, 3003, 3457, 3291, 3552, 3457, 2854 Content={2868, 2868, 2870, 2868, 2868, 2854}, 3503 Content={3504, 3504, 3503}, 2854 Content={2970 KeyNumber=4503, 3457, 3003, 3003, 3457, 3457, 3483, 3307, 3421, 2853 Content={3307, 3003, 3483}, 3492 Amount=40, 3059}, 3457, 2868 Content={3307, 2973 KeyNumber=3520, 2969 KeyNumber=4603, 2970 KeyNumber=4503}, 3492 Amount=100, 3577 Amount=100, 3582 Amount=98, 3502}, 
+               3 Content={3502}}

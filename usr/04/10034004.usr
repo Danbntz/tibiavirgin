@@ -1,0 +1,47 @@
+ID              = 10034004
+Name            = "Axl Venom"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,59-116-68-116)
+CurrentOutfit   = (129,59-116-68-116)
+LastLogin       = 1137718711
+LastLogout      = 1137718755
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,5605,0,6400,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,7840,1400,11366,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,1400,1100,1593,100)
+Skill = (7,30,0,10,0,0,0,0,0,0,0,1762,1100,1920,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,58,1200,109,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,54,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1200,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,41,1200,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,166,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,8,10,11,42,44,51}
+QuestValues = {(14,1),(20,1),(21,1),(22,1),(23,1),(58,1),(59,1)}
+Murders     = {}
+
+Inventory   = {8 Content={3552}}
+
+Depots      = {0 Content={3277 Amount=5, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={2870 Content={2970 KeyNumber=3800, 3483, 2819 String="There is a whole family of those Beholders here. They do not seem to mind me.. \nI often have strange dreams in which those creatures talk to me using their eyes. But those are only nightmares for sure.\n\nI found a small underground stream where I can get water from, so I can survive down here.\n\nI've given up hope for my men to come looking for me. Pah, humans.. they are probably not even thinking about me anymore.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3377, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2821 String="Dear diary, \nthis nice ol' woman brought us some fine beer. \nI guess its ok to help her with this apple mailing service she wants to start. If only this human girl would shut up. We all regret to have granted her hospitality. This gal has the appetite of a rotworm and if ye' don't watch her every second she'll drinks all our beer and starts throwing things and demanding for some 'prince'.", 3673, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3293, 2969 KeyNumber=5010, 3736 Amount=1, 3454, 2874 ContainerLiquidType=1, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2991, 2857 Content={3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3093 SavedExpireTime=1592, 3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250}, 3310, 2853 Content={2969 KeyNumber=5010, 2970 KeyNumber=3800, 3097 SavedExpireTime=0, 3050 SavedExpireTime=0, 3008, 3012, 3097 SavedExpireTime=0}}, 3504 Content={2870 Content={2870 Content={2870 Content={}}}, 2868 Content={}}, 3502 Content={3349, 2856 Content={}, 2870 Content={3579 Amount=2, 3585 Amount=6, 3598 Amount=13}}}}

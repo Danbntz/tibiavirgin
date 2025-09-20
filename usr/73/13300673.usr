@@ -1,0 +1,51 @@
+ID              = 13300673
+Name            = "Pyl"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,3-24-40-58)
+CurrentOutfit   = (134,3-24-40-58)
+LastLogin       = 1148175313
+LastLogout      = 1148175323
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32897,32069,6]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,124852,0,135100,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,62472,1100,64871,1600)
+Skill = (2,250,250,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,425,425,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,600,600,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12277,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2071,2000,3150,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,28,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,41,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,101,1100,122,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,11,19,20,29,44,76,87,88}
+QuestValues = {(59,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3003, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=45, 3035 Amount=6, 3457, 2920 SavedExpireTime=487, 2920, 2920 SavedExpireTime=599, 2861 Content={2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               6 Content={3147},
+               7 Content={3372},
+               10 Content={2922 SavedExpireTime=31}}
+
+Depots      = {1 Content={3504 Content={3507 String="pyl\ncarlin" Editor="Dunfew"}, 3283, 3502 Content={3446 Amount=35, 3349}}, 
+               4 Content={3504 Content={2853 Content={3367, 3367, 3367}, 3074, 3031 Amount=100, 3035 Amount=57, 3507 String="pyl\nedron" Editor="Pyl"}, 3035 Amount=5, 3492 Amount=20, 3031 Amount=78, 3446 Amount=18, 3502}, 
+               6 Content={3502 Content={3446 Amount=2}}, 
+               7 Content={3035 Amount=25, 3046, 3504 Content={3377, 3353, 3507 String="pyl\nankrahmun" Editor="Satri"}, 2853 Content={2853 Content={2853 Content={3354, 2853 Content={3354, 3354, 3354, 3354}, 3377, 3354, 3354, 3354}, 3354, 3367, 3354, 3367, 3377}}, 3483, 3483, 3492 Amount=14, 3502}}

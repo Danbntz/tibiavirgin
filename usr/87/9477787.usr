@@ -1,0 +1,49 @@
+ID              = 9477787
+Name            = "Sangren"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,0-19-57-57)
+CurrentOutfit   = (133,0-19-57-57)
+LastLogin       = 1143647965
+LastLogout      = 1143648034
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32342,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,114252,0,116000,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,46640,3000,64000,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,17,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51412,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,28067,1100,29620,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,79,1100,105,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,323,1100,370,20)
+Skill = (14,0,1200,0,0,0,720,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,25,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,29}
+QuestValues = {(18,1),(21,1),(22,1),(23,1),(35,1),(54,1),(223,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="sangren \nDarashia\n"}, 3502 Content={}}, 
+               6 Content={3504 Content={3507 String="Sangren\nVenore"}, 3502 Content={}}, 
+               7 Content={3147, 3372, 2854 Content={}, 3031 Amount=20, 3375, 3273, 3301, 3300, 3483, 3456, 2970 KeyNumber=4503, 3003, 2815 String="", 3056 RemainingUses=200, 3299, 3307, 3265, 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 850 gold\nfor your house \"Chameken I\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={2867 Content={3031 Amount=82}}}}

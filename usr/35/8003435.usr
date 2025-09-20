@@ -1,0 +1,53 @@
+ID              = 8003435
+Name            = "Dark Vonny"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (137,58-114-114-114)
+CurrentOutfit   = (137,58-114-114-114)
+LastLogin       = 1147503706
+LastLogout      = 1147503710
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32822,31956,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,100239,0,116000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,108140,1400,111701,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,15,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11455,1100,12109,100)
+Skill = (7,55,0,10,0,0,0,0,0,0,0,21968,1100,23753,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,507,1200,645,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,63,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1767,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5143,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,10,42,51}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(27,1),(35,1),(59,1),(91,1),(92,1),(93,1),(94,1),(96,1),(97,1),(98,1),(99,1),(125,1),(126,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2868 Content={3031 Amount=8, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3198 Charges=4, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5}},
+               4 Content={3357},
+               6 Content={3349},
+               8 Content={3552},
+               10 Content={3446 Amount=94}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               3 Content={3502 Content={3031 Amount=8}}, 
+               6 Content={3003, 3577 Amount=6, 3207 Amount=1, 3457, 3447 Amount=97, 3447 Amount=100, 3350, 3449 Amount=30, 3604 Amount=1, 3084 RemainingUses=250, 3147, 2870 Content={2867 Content={3050 SavedExpireTime=1792, 3050, 3004, 3050, 3050, 3097, 3092}, 3046, 3029 Amount=2, 3026 Amount=1, 3017, 3062, 3576, 3046, 3084 RemainingUses=250, 3045 RemainingUses=200, 3077, 3056 RemainingUses=200, 3008, 3008, 3084 RemainingUses=250, 3012}, 3277 Amount=2, 3504 Content={3504, 3659, 3507 String="dark vonny\nvenore", 2983}, 3506 String="dark vonny\nvenore\nte amo mucho esposa mia, te extraño demasiado, ia regresa para poder amarte como c debe, \ncon amor tu esposo qerido", 2867 Content={3425, 3441, 2981, 3551, 2989, 3463, 3289, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11}, 3504 Content={3504 Content={3504 Content={2866 Content={2868 Content={2854}}}}}, 3507 String="oie te amo apstociya, me puedes dcir si kieres ke te ba mañana y a ke ora \n", 3502 Content={3457, 2970 KeyNumber=4601, 1781 Amount=15, 2853 Content={3448 Amount=76, 3277 Amount=2}, 2853, 2853, 2853 Content={2853 Content={3457, 3483, 3003, 3457, 3308, 3457}, 3003, 3003, 3469, 3454}, 2853 Content={3598 Amount=6, 3587 Amount=1, 3585 Amount=30, 3590 Amount=18, 3592, 3600 Amount=9, 3601 Amount=6, 3595 Amount=3}, 2853 Content={2853 Content={2853}}}}}

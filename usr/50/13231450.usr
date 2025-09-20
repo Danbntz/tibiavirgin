@@ -1,0 +1,52 @@
+ID              = 13231450
+Name            = "Wayan Agron"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,114-114-114-88)
+CurrentOutfit   = (128,114-114-114-88)
+LastLogin       = 1148092489
+LastLogout      = 1148092799
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32679,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,64564,0,69700,100)
+Skill = (1,17,0,0,0,0,0,0,0,0,0,65339,1100,72958,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,260,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,10654,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,1833,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,459,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,59,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,4,7,10,29,42,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(46,1),(59,1),(96,1),(97,1),(98,1),(125,1),(126,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2854},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3070},
+               8 Content={3552}}
+
+Depots      = {1 Content={3504 Content={3507 String="wayan agron\ncarlin" Editor="Wayan Agron"}, 3502}, 
+               3 Content={3031 Amount=11, 3035 Amount=30, 2865 Content={3425, 3330, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3492 Amount=16, 3446 Amount=100, 3349, 3446 Amount=34, 3349, 3425, 3425, 3377, 3066, 3074, 3266, 3425}, 3177 Charges=1, 3502 Content={3050 SavedExpireTime=1797, 3092, 3097 SavedExpireTime=3597, 3056 RemainingUses=200, 3012, 3054 RemainingUses=200, 3483, 3003, 3457, 2969 KeyNumber=3033, 3504 Content={3003, 3504 Content={3504, 3504}, 3504, 3504 Content={3507 String="Varantrix\nAb'Dendriel" Editor="Varantrix"}}, 3316}}}

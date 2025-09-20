@@ -1,0 +1,56 @@
+ID              = 11422765
+Name            = "Joaquin el matdor"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,51-0-94-94)
+CurrentOutfit   = (129,51-0-94-94)
+LastLogin       = 1148237228
+LastLogout      = 1148237722
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32693,32050,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,65941,0,69700,100)
+Skill = (1,20,0,0,0,0,0,0,0,0,0,102071,1100,102403,1600)
+Skill = (2,230,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,197,305,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,560,560,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12768,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1677,2000,3150,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,200,2000,350,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,351,2000,750,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,33,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,300,1100,318,20)
+Skill = (14,0,1200,0,0,0,649,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,77,100,0,0,0,1,0,101,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,15,19,25,26,27,29,44}
+QuestValues = {(32,1),(33,1),(34,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(106,1),(107,1),(115,1),(125,1),(126,1),(217,3),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2868 Content={3577 Amount=2, 3582 Amount=2, 3188 Charges=3, 3189 Charges=1, 3189 Charges=2, 3031 Amount=7, 3003, 2853 Content={2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2853 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2, 3164 Charges=3, 3164 Charges=3, 3164 Charges=2}, 3188 Charges=3, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3189 Charges=2}}
+
+Depots      = {0 Content={3305, 3421, 3502}, 
+               1 Content={3504 Content={3147, 2868 Content={3449 Amount=1, 3287 Amount=14, 2992 Amount=5, 3050, 3050, 3298 Amount=2, 2952, 3403}, 3447 Amount=16, 3285, 3270, 3357, 3507 String="joaquin el matdor\ncarlin\n" Editor="Joaquin joaquin", 3275}, 3504 Content={3277 Amount=7, 3188 Charges=3, 3354, 3188 Charges=3, 3507 String="Joaquin el matdor\ncarlin\n" Editor="Eiraya Shin"}, 3504 Content={3425, 2865 Content={2955, 2393, 3734 Amount=1, 3172 Charges=3, 3457, 3172 Charges=3, 2874, 2874}, 3456, 3507 String="joaquin" Editor="Arka Rausanoc", 3357, 3279, 3083 RemainingUses=150, 2854 Content={3189 Charges=1, 3189 Charges=1, 3446 Amount=3, 3059, 3084 RemainingUses=250, 3266, 2853 Content={2853 Content={2853 Content={3410, 3358, 3358, 3367, 3410}}}, 2865 Content={3446 Amount=100, 3446 Amount=100, 3349, 3446 Amount=100, 3446 Amount=100, 3492 Amount=61, 2870 Content={2854}}, 3446 Amount=100}}, 3277 Amount=28, 3586 Amount=1, 3268, 3316, 2868 Content={3409, 3446 Amount=27, 2991, 3447 Amount=4, 3349, 3425, 3425, 3172 Charges=3, 3172 Charges=3, 3059}, 3308, 3447 Amount=2, 3050, 3056 RemainingUses=200, 3285, 3349, 3285, 3447 Amount=19, 1781 Amount=1, 3412, 2955, 3277 Amount=21, 3448 Amount=4, 3492 Amount=54, 3483, 3552, 3447 Amount=12, 3502 Content={3598 Amount=5, 3446 Amount=26, 3003, 3285, 3425, 3411}}, 
+               2 Content={3502}, 
+               3 Content={3447 Amount=6, 3285, 3446 Amount=8, 3413, 3285, 2973 KeyNumber=3520, 3425, 2854 Content={3031 Amount=12, 3031 Amount=100, 2854 Content={2853 Content={3017}}, 3188 Charges=3}, 3358, 3447 Amount=8, 3059, 2853 Content={2914 SavedExpireTime=540, 2853 Content={3031 Amount=100, 3028 Amount=2}, 3059}, 3425, 3282, 3059, 3375, 3447 Amount=1, 3358, 3410, 3027 Amount=2, 3012, 3008, 3286, 2869 Content={3031 Amount=100, 3031 Amount=50, 3031 Amount=86, 3031 Amount=100, 3035 Amount=1}, 3350, 3350, 3446 Amount=13, 3375, 3502 Content={3447 Amount=26, 3446 Amount=1, 3350, 3358}}, 
+               6 Content={2853 Content={3473, 3207 Amount=1}, 2853 Content={3083 RemainingUses=136, 3097, 3012}, 3502 Content={3367, 3367}}}

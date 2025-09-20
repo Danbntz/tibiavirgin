@@ -1,0 +1,59 @@
+ID              = 8591695
+Name            = "Yennsy"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,114-114-125-114)
+CurrentOutfit   = (134,114-114-125-114)
+LastLogin       = 1147440771
+LastLogout      = 1147440879
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31685,6]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,686413,0,717600,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,208765,1400,222775,1600)
+Skill = (2,465,465,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1030,1030,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,31968,1100,33003,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,85809,1100,91044,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,40,1200,50,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,102,1200,109,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,108,1200,109,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1687,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,856,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,11,15,20,42,44,49,51,79}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(60,1),(72,1),(73,1),(74,1),(75,1),(137,1),(151,1),(152,1),(190,1),(191,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={3031 Amount=85, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147}},
+               4 Content={3357},
+               5 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=87}}
+
+Depots      = {0 Content={3504 Content={2853 Content={2853 Content={3299, 2853 Content={2853 Content={3377, 3377, 3377, 3377, 2853 Content={3377, 2853 Content={2853 Content={3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 2853 Content={3377, 2853 Content={3425, 2853 Content={3377, 3377, 2853 Content={3266, 3266, 3425, 3266, 3425, 2853 Content={3377, 2853}}}, 3377}}}}}}}}, 3264}}, 3507 String="zakura style\nthais" Editor="Yennsy"}, 3502}, 
+               1 Content={3502 Content={3367, 3367}}, 
+               2 Content={2853 Content={3446 Amount=21, 3351, 3446 Amount=100}, 3349, 3409, 3409, 3409, 3409, 3409, 3504 Content={2853 Content={2864 Content={3425, 3349, 3282, 3409, 3409}, 3349, 3349}, 3507 String="yennsy\nkazordoon" Editor="Yennsy"}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=28, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               3 Content={3504 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3507 String="amaleki\nab'dendriel" Editor="Amaleki"}, 3446 Amount=82, 3287 Amount=3, 3031 Amount=5, 3277 Amount=36, 2870 Content={3031 Amount=71, 2854, 2872 Content={3483}, 3046 SavedExpireTime=2732, 3070, 3492 Amount=22, 3092, 3463, 3046, 3046 SavedExpireTime=2971, 3046 SavedExpireTime=2628}, 2872 Content={2865 Content={2969 KeyNumber=3033, 2866 Content={3012}, 2865 Content={2854, 3565}, 1781 Amount=1, 2865 Content={3003, 3457}}, 2867, 3308, 2853, 2866 Content={2854 Content={3003, 3291, 2969 KeyNumber=3033, 2920, 2920, 2920}}}, 3003, 3457, 3277 Amount=100, 3305, 3308, 2868 Content={3031 Amount=3, 3492 Amount=5, 3483, 3003, 3457}, 3350, 2874, 2874, 3504 Content={2857 Content={3447 Amount=50, 3046, 3093, 3077}, 3093, 2868 Content={3492 Amount=12, 3003, 3003, 3457}, 3507 String="yennsy\nab'dendriel" Editor="Yennsy"}, 3504 Content={3507 String="yennsy\nab'dendriel" Editor="Yennsy", 2871, 3046 SavedExpireTime=1652, 3007, 3042 Amount=1, 2854}, 2868 Content={2920 SavedExpireTime=577, 3492 Amount=10, 2920 SavedExpireTime=109}, 2865 Content={2853 Content={2853 Content={2857 Content={3298 Amount=1, 3590 Amount=1, 3492 Amount=1, 2854, 3668, 2922 SavedExpireTime=149, 2920}, 2393}, 2874, 2815 String="hija: te kiero mucho eso nunca lo olvides ok sabeske eres bien especial para mi princess y aunke tenga mas hijos tu tienes tu lugar bb ok ?  \n\nnunca lo olvides  tu mami\n\nARi  =***\n", 2864 Content={2864}}, 2865 Content={2969 KeyNumber=3033}, 2865 Content={3350, 2969 KeyNumber=3033}, 2920, 2920, 2920 SavedExpireTime=339}, 2868 Content={2865 Content={2854}}, 3502 Content={3449 Amount=18, 2906, 3448 Amount=5, 3457, 2866, 2868 Content={3504 Content={2867 Content={3350}, 3483, 3507 String="ar'ti\nab'dendriel\n", 3412, 3266}, 3504 Content={3045 RemainingUses=200, 3507, 3507 String="yennsy\nab'dendriel\n"}, 2916, 3282, 3658, 3668, 3673}, 2865 Content={3457, 2872, 3412, 3483, 2874, 3456, 2868, 2865 Content={3505, 2854, 3412, 3471, 2868, 3661, 3350, 3350}, 3466}, 2865 Content={2981, 3305}, 2867 Content={3456, 3003, 2969 KeyNumber=3033, 3350, 2969 KeyNumber=3033, 3412, 3350, 3377, 3349}, 2854 Content={3283, 3350, 3350, 3456, 2970 KeyNumber=4601, 3282}, 2865, 2854 Content={3350, 3300, 3350}}}, 
+               5 Content={3504 Content={2853 Content={3276, 2853 Content={2853 Content={2853 Content={3276, 3276, 2853 Content={3411, 3276, 2853 Content={3411, 2853 Content={3276, 2853}, 3377, 3276, 3276}}}, 3276, 3377, 3276}, 3276, 3276, 3276}, 3276}, 3507 String="yennsy\ndarashia\n" Editor="Yennsy"}, 3504 Content={3507 String="yennsy\ndarashia" Editor="Yennsy"}, 3327, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="yennsy\ndarashia" Editor="Yennsy"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}, 3507 String="yennsy\ndarashia\n" Editor="Yennsy"}, 3504 Content={3375, 3492 Amount=48, 3266, 3097 SavedExpireTime=3418, 3448 Amount=7, 3277 Amount=59, 3266, 3282, 3507 String="yennsy\ndarashia" Editor="Fina Onidetius"}, 3502 Content={3504 Content={2853, 3507 String="yennsy \ndarashia" Editor="Yennsy"}, 2866, 3056 RemainingUses=200, 3085 RemainingUses=190, 3085 RemainingUses=200, 3483, 3483, 3012, 3050 SavedExpireTime=1668, 3350, 3350, 3457}}, 
+               6 Content={3425, 3504 Content={3507 String="yennsy\nvenore\n" Editor="Zakura style"}, 3502}, 
+               7 Content={2853, 3572, 3504 Content={2969 KeyNumber=3033, 2969 KeyNumber=3033, 3507 String="yennsy\nankrahmun" Editor="Zara Thaf"}, 3502 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}

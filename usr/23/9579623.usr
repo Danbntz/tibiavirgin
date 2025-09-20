@@ -1,0 +1,54 @@
+ID              = 9579623
+Name            = "Fliken"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,40-114-132-0)
+CurrentOutfit   = (133,40-114-132-0)
+LastLogin       = 1146263656
+LastLogout      = 1146263708
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,27,0,1,0,0,0,0,0,0,1,281016,0,295200,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,116971,1400,157982,1600)
+Skill = (2,313,375,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,122,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,96,96,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,850,850,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,25074,1100,27102,100)
+Skill = (7,65,0,10,0,0,0,0,0,0,0,58402,1100,62089,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,59,1200,109,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,208,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,483,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1111,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,10,20,29,42,51,76,79,81}
+QuestValues = {(21,1),(22,1),(23,1),(37,1),(55,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {2 Content={3012},
+               3 Content={2865 Content={3031 Amount=18, 3031 Amount=100, 2854 Content={2981, 3003, 3174 Charges=2, 3174 Charges=4}}},
+               6 Content={3349},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=69}}
+
+Depots      = {0 Content={3350, 3039, 3279, 3042 Amount=20, 2854, 3351, 3316, 2854 Content={3503}, 3504 Content={3203 Charges=2, 2871 Content={2871 Content={2871 Content={3429, 3007, 3504 Content={2469 Content={3403, 2469, 2469 Content={3557}, 2469}}, 2864 Content={3050 SavedExpireTime=1756, 2853 Content={3007}}, 3050 SavedExpireTime=1791, 3007, 3062, 2871 Content={2854 Content={2957, 2992 Amount=4, 2842, 3504 Content={3449 Amount=49, 2469, 2469 Content={2469, 2469 Content={2854 Content={3007, 3017, 3017, 3017, 3017, 3017}, 2853 Content={3287 Amount=1}, 2853 Content={2853 Content={3046 SavedExpireTime=2999, 3046, 3046, 3017, 3046, 3046, 3046}, 2853 Content={2853}}}, 2469 Content={2469 Content={3031 Amount=5}, 2469 Content={2469 Content={3017}, 2853, 2968 KeyNumber=3940, 2853 Content={3298 Amount=1, 3017}}, 2469 Content={2868 Content={2853 Content={2853}}, 3277 Amount=10, 3483, 3457, 2854 Content={2854}}}, 2872 Content={2865 Content={3375, 3483, 3017, 2853 Content={2854 Content={3504 Content={3504 Content={3507 String="Flikuz\nThais"}, 3507 String="Van'Rie\nAnkrahmun"}}, 3085 RemainingUses=35, 3448 Amount=4}, 3504 Content={3504 Content={2854 Content={3577 Amount=9}, 2870 Content={3504 Content={3507 String="Fliken\nThais"}}, 2867 Content={3483, 2970 KeyNumber=4601, 3504 Content={2870 Content={3507 String="Delta Sin\nThais", 2866 Content={2857 Content={2868 Content={3483, 3084 RemainingUses=250, 2949, 3045 RemainingUses=200}, 3349}, 3588 Amount=99}, 2482 Content={3551, 2866 Content={2854, 2868 Content={2868 Content={2469 Content={3078, 2865, 2866 Content={3375, 3375, 3375, 3350, 3349, 3349, 3446 Amount=3, 2906, 3299, 3291, 3277 Amount=5}, 2854 Content={3448 Amount=97, 3350, 3003, 3354, 3354, 3483, 3483, 3453, 3453, 3457, 3457, 3465}, 2469 Content={2469 Content={2874, 2874, 2874, 2815, 2969 KeyNumber=3610, 3003}, 2469 Content={3503, 3503 Content={3503 Content={3507}, 3507}, 3503, 3503 Content={3507, 3507}, 3503 Content={3507, 3507}}, 2469 Content={2853 Content={3264, 3358, 3358}, 3503}, 2469}}, 3003}}, 2854 Content={3045 RemainingUses=171, 3446 Amount=20, 3421, 3301, 3349, 3349, 2853 Content={3446 Amount=2, 3003, 3377}, 3349, 3375, 3375, 3375}, 2854 Content={3056 RemainingUses=200, 3483, 3003, 3003, 3003, 3003, 3003, 3453, 3456, 3003, 3003, 3003}, 2854 Content={3130, 3129}, 2868}, 2867 Content={3277 Amount=2}, 2482 Content={2854, 2854, 2854 Content={3507, 3507 String="hahahahha", 3507, 3507 String="dokas\nthais", 3507 String="Sir Kala\nCarlin", 3507 String="perro desgraczdas\\]rf'\ner'fd\n\n\n\nx\n\nc\nc\nc\n\nc\n\ncx\n\nx\nc\nx\nc\nxcx\n\ncx\nc\nx\ncx\n\nxd\nx\nd", 3507 String="Ajmer\nThais", 3507 String="Frozen'Mono-Mani\nthais", 3507 String="demon de'maniak\nthais", 3507 String="vetste meid\nthais\n"}, 3077, 2469 Content={3507 String="Flikuz Is Hunting Here\nMsg me dont go down\nCya =)"}, 2854 Content={2469, 2469 Content={2854 Content={3189 Charges=3}, 2854 Content={3578 Amount=4}}, 2469 Content={2866, 2854, 2854 Content={3289, 3289, 3003, 3457}}}}}}, 3507 String="Fliken\nThais"}, 3504 Content={2853 Content={2853 Content={3046, 3046, 3046, 3046, 3046 SavedExpireTime=2986, 3046}, 3045 RemainingUses=200}, 2853 Content={3276, 3276, 3276, 3367, 3367, 3286, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3276, 3286, 3276, 3276, 3286, 3276, 3286, 2853 Content={2853 Content={2853 Content={2853, 3276, 3367, 3286, 3286, 3367, 3367, 3367}, 3276, 3286, 3286, 3367, 3286, 3286, 3276}, 3276, 3367, 3276, 3286, 3276, 3367, 3286}}, 3286, 3286, 3276, 3276, 3276, 3367, 3286}, 3286, 3367, 3286, 3276, 3367, 3286, 3276}, 3367, 3276, 3286, 3367, 3367, 3286, 3276}, 3276, 3367, 3264, 3276, 3286, 3276, 3286}}, 3507 String="Fliken\nThais"}, 3503 Content={3358, 3375, 2656, 2667, 2647, 3077, 3425, 3507 String="Fliken\nThais"}, 2868 Content={2866, 2870 Content={2865 Content={2868 Content={2854 Content={3483}}}}}}, 3507 String="Van'Rie\nAnkrahmun"}, 2821 String="How to summon black demons, \nwritten by Dago the mage.", 3504 Content={2667, 2647, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3507 String="Van'Rie\nAnkrahmun"}, 2865 Content={3017, 2857 Content={3008, 3017, 3056 RemainingUses=200, 3012, 3012}, 2853 Content={2853 Content={3017, 3017, 3017}}}, 2853, 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 3003, 3083 RemainingUses=150, 2969 KeyNumber=3600, 3277 Amount=6}, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3017, 3007, 3017}}}}}}, 3297, 3007, 3007, 3449 Amount=5, 3449 Amount=100}, 3050, 3441, 3441, 3441, 3007, 3050, 3050 SavedExpireTime=1757}}, 3504 Content={3275}, 3502}, 
+               1 Content={3502 Content={}}, 
+               5 Content={3504 Content={3507 String="Fliken \nDarashia"}, 3502 Content={2853 Content={2853 Content={3409, 3409, 3409, 3409, 3409, 3409, 3409, 3409}}}}, 
+               6 Content={3502}, 
+               7 Content={2853 Content={3409, 3349, 3409, 2853 Content={3349, 3409}, 3409, 3583 Amount=11, 3349, 3349}, 3502 Content={}}}

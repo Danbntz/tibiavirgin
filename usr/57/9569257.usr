@@ -1,0 +1,53 @@
+ID              = 9569257
+Name            = "Danny-paladyn"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,95-115-57-114)
+CurrentOutfit   = (129,95-115-57-114)
+LastLogin       = 1139675904
+LastLogout      = 1139675908
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32349,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,3584,0,4200,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,2960,1400,3839,1600)
+Skill = (2,162,175,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,20,20,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,450,450,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,2070,1100,2138,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,161,1100,183,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,815,1200,824,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,18,1200,50,50)
+Skill = (10,17,0,10,0,0,0,0,0,0,0,723,1200,824,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,112,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10,29}
+QuestValues = {(17,1),(18,1),(35,1),(59,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3012},
+               3 Content={2853},
+               4 Content={3377},
+               5 Content={3430},
+               6 Content={3300},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3031 Amount=8}}
+
+Depots      = {0 Content={3502 Content={2825 String="20 Tricks to Get People's Money\n\n...", 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3599 Amount=8, 3147, 3457, 3483, 3300, 2839 String="hehehe rozwalilem szamana", 3504 Content={3374, 3354, 3277 Amount=2, 1781 Amount=3, 2906}, 3003, 3274, 3492 Amount=17, 3289, 3003, 1781 Amount=1, 3565, 3003, 2853 Content={3483, 3289}, 3300, 3457, 3456, 3059, 2920 SavedExpireTime=475, 3492 Amount=7, 2853, 3492 Amount=100, 2853 Content={3504 Content={3559, 3507 String="ray-totoso\nthais"}, 3559, 3376, 3376, 3378, 3559, 3492 Amount=100}, 2874, 2856}}}

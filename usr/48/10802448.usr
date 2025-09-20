@@ -1,0 +1,56 @@
+ID              = 10802448
+Name            = "Drack Levit"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,81-79-88-0)
+CurrentOutfit   = (129,81-79-88-0)
+LastLogin       = 1148239690
+LastLogout      = 1148244058
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32418,31751,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,385855,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,154300,3000,193600,1600)
+Skill = (2,476,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,145,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,70,0,10,0,0,0,0,0,0,0,331554,1100,333929,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,23,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (9,52,0,10,0,0,0,0,0,0,0,27220,1100,29620,50)
+Skill = (10,69,0,10,0,0,0,0,0,0,0,144921,1100,151740,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,69,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6362,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(18,1),(59,1),(60,1),(61,1),(69,1),(71,1),(96,1),(97,1),(98,1),(113,1),(114,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3085 RemainingUses=164},
+               3 Content={2865 Content={3092 SavedExpireTime=828, 3007, 3031 Amount=43, 3031 Amount=100, 3446 Amount=39, 3723 Amount=15, 3031 Amount=100, 3582 Amount=5, 3457, 2869 Content={3413, 3413, 3425, 3351, 3349, 3349}}},
+               4 Content={3381},
+               6 Content={3302},
+               7 Content={3371},
+               8 Content={3551},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={2854, 2870 Content={2853 Content={3446 Amount=14, 3446 Amount=100}, 2854, 2868}, 3457}}, 
+               1 Content={3504 Content={3507 String="Drack Levit\nCarlin" Editor="Dart Fuel"}, 3504 Content={3507 String="Drack Levit\nCarlin" Editor="Dart Fuel"}, 3504 Content={3507 String="Drack Levit\nCarlin" Editor="Dart Fuel"}, 3277 Amount=9, 2868, 3353, 3447 Amount=10, 3502 Content={2867 Content={3409, 3085 RemainingUses=200, 3003}, 2866 Content={2868, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2869 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}, 2853 Content={2868, 2868, 2868 Content={2854 Content={3147, 3147}, 2854, 3003, 2868, 2868, 3003, 3457}, 3003, 2854, 3003, 3003, 2854}, 2854 Content={3447 Amount=28, 3293, 3357, 3557, 3357, 3447 Amount=40, 3446 Amount=23, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3279, 3293, 3289, 3285, 3282, 3425, 3357}, 2650, 2667, 2650, 2865 Content={3307, 3265, 3301, 3305, 3307, 3307, 3409}, 2867 Content={2857 Content={3077, 3046 SavedExpireTime=2999, 3077, 3084 RemainingUses=250}, 3035 Amount=100, 3446 Amount=57, 3457, 3031 Amount=100, 3031 Amount=83, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3449 Amount=2, 3031 Amount=100, 3316, 3035 Amount=41, 2874 ContainerLiquidType=5, 2854 Content={3033 Amount=1, 3034 Amount=1, 3017, 3028 Amount=2, 3030 Amount=4, 3026 Amount=5, 3027 Amount=2, 2991, 2955, 2991, 2991, 3059, 2989, 3455, 3004, 2955, 3463}, 3066, 2857 Content={3074, 3075, 3046, 2877, 2885, 3077, 3077}, 2868 Content={3436, 3318, 3320, 3420}, 2868 Content={3008, 3008, 3085 RemainingUses=143, 3083 RemainingUses=150, 3084 RemainingUses=250, 3056 RemainingUses=200, 3084 RemainingUses=250, 3008, 3008, 3056 RemainingUses=200, 3084 RemainingUses=250, 3054 RemainingUses=169, 3056 RemainingUses=200, 3012, 3056 RemainingUses=200}}, 2869 Content={3052 SavedExpireTime=849, 3052, 3092, 3092, 3092, 3052, 3092, 3097, 3097, 3092 SavedExpireTime=584, 2853 Content={2973 KeyNumber=3520, 2969 KeyNumber=5000, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 2969 KeyNumber=5000, 2969 KeyNumber=3033}, 3050 SavedExpireTime=1798, 3050 SavedExpireTime=1439, 3092, 3097 SavedExpireTime=3593, 3097, 3050 SavedExpireTime=33, 3097, 3092 SavedExpireTime=1492, 3098}, 2868 Content={3595 Amount=1, 3583 Amount=2, 3586 Amount=5, 2853 Content={3492 Amount=100, 3483, 3483, 3483, 3492 Amount=100}, 3464, 3600 Amount=20, 3588 Amount=62, 3602 Amount=8, 3598 Amount=23, 3585 Amount=9, 3601 Amount=3, 3590 Amount=6}, 2865 Content={2865 Content={3425, 3425, 3425, 3425, 3425, 2854 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}}, 2868 Content={3349, 3349, 3359, 2854 Content={3349, 3349, 3350, 3350, 3350, 3349, 3350, 3349, 3350, 3349, 3349, 3349, 3349, 3350, 3350, 3349, 3350, 3350, 3350, 3349}}}}}, 
+               2 Content={3031 Amount=3, 2854, 2867, 3056 RemainingUses=200, 3504 Content={3507 String="Drack Levit\nKazordoon " Editor="Drack Levit"}, 3504 Content={3507 String="Drack Levit\nKazordoon" Editor="Punisher Levit"}, 3502}, 
+               3 Content={3502 Content={3504 Content={3507 String="Drack Levit\nAb'Dendriel" Editor="Drack Levit", 2868 Content={2853 Content={3046, 3077, 3084 RemainingUses=250, 3050}, 3453, 3289, 2853 Content={3056 RemainingUses=200, 3050, 2973 KeyNumber=3520, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 2970 KeyNumber=3801}, 2853 Content={3097, 3586 Amount=2}, 3503 Content={3421, 2644, 2868 Content={3147, 3457, 3056 RemainingUses=200, 3147, 3147}, 3269}, 2868, 3281}}, 3504 Content={3507 String="Drack Levit\nAb'Dendriel" Editor="Drack Levit", 2868 Content={3046 SavedExpireTime=2976, 2854 Content={3372, 3409}, 2872 Content={3483, 3483, 3421, 3316, 3290, 3289, 3304}, 2870 Content={2857 Content={3077, 3483, 3084 RemainingUses=250}, 2991}, 2868 Content={3349, 3425, 3349, 3349, 3084 RemainingUses=250, 3084 RemainingUses=239, 3349, 3349}, 2865 Content={3587 Amount=10, 3723 Amount=22, 3588 Amount=9, 3602 Amount=2}, 2854 Content={2969 KeyNumber=4055, 2973 KeyNumber=3520, 3003}, 2854, 2854 Content={2973 KeyNumber=3520, 3008, 3097, 2906, 2955, 2969 KeyNumber=4600}, 2906, 3483}}, 3504 Content={3507 String="Drack Levit\nAb'Dendriel" Editor="Drack Levit", 2869 Content={3557, 3370, 3295, 3419, 3507 String="3411257" Editor="Drack Levit", 2866 Content={3084 RemainingUses=82, 3083 RemainingUses=150, 3056 RemainingUses=200, 2854 Content={3097, 3097, 3050 SavedExpireTime=1775, 3050 SavedExpireTime=1798, 3050, 3092, 3097 SavedExpireTime=1088, 3092, 3092}, 3056 RemainingUses=200, 3084 RemainingUses=250, 2970 KeyNumber=3142, 3012, 3012, 3046, 3008, 3084 RemainingUses=250, 3046, 3077, 3054 RemainingUses=174, 4871, 3084 RemainingUses=250}, 3073}}}}, 
+               6 Content={3502 Content={3736 Amount=2, 3031 Amount=28, 3012, 3456, 3585 Amount=3, 3598 Amount=14, 3590 Amount=3, 3446 Amount=5, 3084 RemainingUses=250, 3008, 3027 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}

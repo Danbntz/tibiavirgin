@@ -1,0 +1,51 @@
+ID              = 13515226
+Name            = "Mela Shel"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-114-114-114)
+CurrentOutfit   = (134,0-114-114-114)
+LastLogin       = 1147342796
+LastLogout      = 1147342825
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33131,32837,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,36628,0,37800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,15633,3000,20800,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7420,1100,7954,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,108,1100,165,50)
+Skill = (10,35,0,10,0,0,0,0,0,0,0,5334,1100,5459,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,36,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,76,1100,92,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(111,1),(112,1),(121,1),(125,1),(126,1),(128,1),(292,1)}
+Murders     = {}
+
+Inventory   = {6 Content={2874},
+               10 Content={3448 Amount=2}}
+
+Depots      = {0 Content={3504 Content={2854 Content={3456, 3457, 3003, 3457}, 3507 String="Mela Shel\nThais" Editor="Gebe Toth"}, 3502 Content={2853 Content={3576, 3367, 3367}, 3457, 2854, 2819 String="Seems I fell in this hole and can't get out anymore. Unfortunatly there is no friend near to pull me up with a rope. What have I done to deserve this? What?"}}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}}}}}}, 3502 Content={3003, 3367, 3457, 3003, 3457, 3056 RemainingUses=200, 3552, 3056 RemainingUses=200}}, 
+               6 Content={3502}, 
+               7 Content={2854 Content={3504 Content={3507 String="Lilviper\nAnkrahmun" Editor="Lilviperjrr"}}, 2853, 3502 Content={3457, 2866 Content={2866 Content={2866}, 2866 Content={2866}}, 3274, 3504 Content={3457, 3507 String="mela shel\nankrahmun" Editor="Arco Tigan", 3003}}}, 
+               8 Content={3504 Content={3507 String="Mela Shel\nPort Hope" Editor="Gebe Toth"}, 3502}}

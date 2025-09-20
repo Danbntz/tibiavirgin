@@ -1,0 +1,52 @@
+ID              = 8574196
+Name            = "Light Joe"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,114-0-114-114)
+CurrentOutfit   = (129,114-0-114-114)
+LastLogin       = 1145029927
+LastLogout      = 1145029956
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31780,5]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4201,0,6400,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,1400,1600,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,927,1100,948,100)
+Skill = (7,14,0,10,0,0,0,0,0,0,0,158,1100,183,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,481,1200,496,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,153,1200,181,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,110,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,17,0,10,0,0,0,0,0,0,0,226,1100,228,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(59,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               3 Content={2854 Content={3447 Amount=25, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3350, 3448 Amount=16, 3003}},
+               4 Content={3358},
+               5 Content={3264},
+               6 Content={3430},
+               7 Content={3362},
+               8 Content={3552},
+               10 Content={3507 String="Xearan Libin\nCarlin\n" Editor="Zekiuxa Maurumon"}}
+
+Depots      = {1 Content={3502 Content={3411, 2854 Content={3506 String="Treasure of captain Iglue", 3577 Amount=1, 3483, 2815 String="                          ORCISH\nyes - mok\nno- nok\nweapon-porack\nbuy- goshak\nsword-burka bata\nsabre - charcha\nhetchat - hakhak\nshort sword - burka\nbow-batuk(400)gp\narrows - pixo(30gp)\narmor - bora\nstudded-tulak\nleather- aka\n", 3031 Amount=1}}}}

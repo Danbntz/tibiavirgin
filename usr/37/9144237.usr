@@ -1,0 +1,52 @@
+ID              = 9144237
+Name            = "Valkos Sagon"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,41-84-27-0)
+CurrentOutfit   = (128,41-84-27-0)
+LastLogin       = 1147991641
+LastLogout      = 1147992161
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32922,32076,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10523,0,13000,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,4830,3000,6400,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,2801,1100,3177,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,41,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,26,0,10,0,0,0,0,0,0,0,1914,1100,2027,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,50,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,139,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(96,1),(97,1),(98,1),(99,1),(121,1),(208,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               4 Content={3377},
+               5 Content={3430},
+               6 Content={3276},
+               7 Content={3362},
+               8 Content={3552}}
+
+Depots      = {2 Content={3502}, 
+               3 Content={3504 Content={3377, 3425, 3507 String="valkos sagon\nAb'Dendriel"}, 3502}, 
+               6 Content={3307, 3031 Amount=15, 3283, 3059, 2659, 2868 Content={3504, 3504 Content={3507 String="TIKY\nVENORE" Editor="Tiky"}, 3504 Content={3507 String="TIKY\nVENORE" Editor="Tiky"}, 3504 Content={3507 String="TIKY\nVENORE" Editor="Tiky"}, 3504 Content={3507 String="TIKY\nVENORE" Editor="Tiky"}, 3504, 3504 Content={3507 String="TIKY\nVENORE" Editor="Tiky"}, 3503 Content={3507 String="TIKY\nVENORE" Editor="Tiky", 3505 String="TIKY\nVENORE" Editor="Tiky", 2815 String="TIKY\nVENORE" Editor="Tiky"}, 3504 Content={3507 String="TIKY\nVENORE" Editor="Tiky"}, 3504, 3504 Content={3507 String="Zarin ariona \nvenore" Editor="Zarin Ariona"}, 3504, 3504 Content={3507 String="valkos sagon\nvenore\n" Editor="Sous Rhan"}, 3504, 3504 Content={3507 String="dark lord of the hill\nvenore" Editor="Drak Maximus"}, 3504 Content={3507 String="valkos sagon\nvenore"}, 3504 Content={3507 String="Chrystorys Pekatus\nVenore\n" Editor="Chrystorys Pekatus"}, 3504 Content={3507 String="valkos sagon\nvenore\n\n" Editor="Valkos Sagon"}, 3504 Content={3492 Amount=15, 3507 String="valkos sagon\nvenore\n" Editor="Valkos Sagon"}, 3504 Content={3430, 3507 String="valkos sagon\nvenore\n" Editor="Valkos Sagon"}}, 3012, 3463, 2389, 2656, 3502 Content={3012, 3008, 3276, 3056 RemainingUses=200}}}

@@ -1,0 +1,50 @@
+ID              = 12533901
+Name            = "Scheller Palgawn"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (134,115-87-94-87)
+CurrentOutfit   = (134,115-87-94-87)
+LastLogin       = 1146962101
+LastLogout      = 1146962124
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32642,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,45544,0,47000,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,35889,1100,39236,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,93,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6844,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,5,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,15,2000,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,622,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,15,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,46,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,75,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,10,15,19,20,25,27,29,30,39,88,89}
+QuestValues = {(14,1),(15,1),(16,1),(217,3),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {}
+
+Depots      = {0 Content={3504 Content={3507 String="scheller palgawn\nthais" Editor="Ceda Listus Mowon"}, 2870, 3504 Content={3507 String="Scheller Palgawn\nthais" Editor="Scheller Palgawn"}, 3504 Content={3507 String="scheller palgawn\nthais" Editor="Scheller Palgawn"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3504 Content={3504}, 3502}, 
+               4 Content={2854, 3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3507 String="scheller palgawn\nedron" Editor="Scheller Palgawn"}, 3504 Content={3507 String="Scheller palgawn\nedron" Editor="Scheller Palgawn"}, 3502 Content={2870 Content={2854 Content={2870 Content={2870}, 2870, 2870, 2870 Content={2869}, 2869 Content={2870 Content={2870 Content={2870 Content={2870 Content={2865 Content={2865}}}}}}}}}}, 
+               5 Content={3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Ojitos Palgawn"}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Senseless Palgawn"}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Senseless Palgawn"}, 3504 Content={3507 String="Scheller Palgawn\nDarashia" Editor="Leon Setopon"}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Ethus Palgawn"}, 2853 Content={2853 Content={3286, 2853 Content={3264, 3286, 3264, 3286, 3286, 3264, 3264, 3264}, 3286, 3264, 3264, 3264, 3286, 3286}, 3264, 3286}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Ethus Palgawn"}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Ethus Palgawn", 3503 Content={3507}, 3503 Content={3507}}, 3504 Content={3507 String="Scheller palgawn\ndarashia" Editor="Ethus Palgawn"}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Ethus Palgawn"}, 3504 Content={3507 String="scheller palgawn\ndarashia" Editor="Ethus Palgawn"}, 3502}, 
+               7 Content={3504 Content={3507 String="Scheller Palgawn\nankrahmun" Editor="Ojos Saint"}, 3504 Content={3507 String="ojos saint\nedron" Editor="Scheller Palgawn"}, 3502}}

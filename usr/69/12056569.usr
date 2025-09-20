@@ -1,0 +1,60 @@
+ID              = 12056569
+Name            = "Jassillo"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,114-94-114-114)
+CurrentOutfit   = (134,114-94-114-114)
+LastLogin       = 1148203187
+LastLogout      = 1148217088
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32315,31793,6]
+PlayerkillerEnd = 0
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,665145,0,717600,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,460776,1400,618272,1600)
+Skill = (2,423,465,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,23,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1030,1030,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10261,1100,10918,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,75767,1100,82740,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,80,1200,109,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,205,1200,268,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,79,1200,109,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1928,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5272,1100,5420,20)
+Skill = (14,0,1200,0,0,0,1101,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,70,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,7,8,10,11,15,20,29,44,45,51,78,79,81}
+QuestValues = {(1,2),(2,6),(32,1),(33,1),(34,1),(41,1),(42,1),(43,1),(44,1),(54,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(111,1),(112,1),(121,1),(125,1),(126,1),(131,1),(135,1),(136,1),(137,1),(151,1),(152,1),(153,1),(156,1),(190,1),(191,1),(208,1),(211,4),(213,1),(214,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,2),(253,1),(303,1)}
+Murders     = {1146646699}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2866 Content={3483, 3031 Amount=1, 3582 Amount=4, 3031 Amount=100, 3049 SavedExpireTime=55, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=97}, 3583 Amount=1, 3503 Content={3298 Amount=1, 3492 Amount=20, 3507}, 3003, 3457, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3380},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3007},
+               10 Content={3446 Amount=96}}
+
+Depots      = {0 Content={3504 Content={3507 String="jassillo\nthais" Editor="Fragor"}, 3502}, 
+               1 Content={2868 Content={3147, 3147, 3147, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003, 3308, 2866 Content={2955, 3492 Amount=25}, 2856, 3026 Amount=1, 2865 Content={2854 Content={3054 RemainingUses=200}}, 3668, 3287 Amount=4, 2868 Content={3286, 3120, 3264, 3264, 3349, 3354, 3077, 3354, 3048 RemainingUses=7, 3104, 3105}, 3502 Content={2854 Content={3077, 2821 String="... the dreammaster retreated to the world behind the curtains of awarenes, I cant reach him, now that the last hall of dreams is lost to the forces of evil. I sealed goshnars grave so noone can enter the pits without knowledge of our secret. I will try to retreat to knightwatch tower and wait for a dreamer in posession of the key, so we can travel one of the dreampaths to a saver place to regroup and plan a counterattack. I fear we have to recruit new members and only little time left to train them. I hope Taciror will not waste our last forces in a futile attack on the ruthless seven. Our order has never truly recovered from the losses in our war against Goshnar and his undead hordes. Now with the death of our leaders and best warriors in the attack of the demonic forces we don't stand a chance against our enemys. Our only hope is to gather new forces and retake the chamber of dreams. Of couse I know the right method to distract hugo long enough to get past him. The dreammaster is important to teach our recruits in the old ways and the art of dreamwalking. We need a leader for our cause and we need him bad. Headless we will fail and fall. Its already uncertain who took the nightmare chronicles out of the pits and I have no idea where they hid them. They are fighting about power and influence but unity is the key to success. Our whole order is centred about unity. All our rituals and procedures rooted on unity and sharing, they can't neglect it.", 3066, 2854 Content={3483, 3046 SavedExpireTime=2548, 3310, 3349, 2853 Content={3454, 3441, 3147, 3447 Amount=10, 3017, 3275, 3275}, 3085 RemainingUses=157, 3174 Charges=5, 3457, 3097}, 2853 Content={2874, 3003, 3003, 3003, 3492 Amount=1}, 2868 Content={3147, 3147, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}, 3286}, 2859 Content={3120, 3304, 3308, 3105, 3104, 3031 Amount=1}, 3032 Amount=1, 2866 Content={3042 Amount=6, 3010, 3071, 3035 Amount=71, 3061, 3323, 3313, 3279, 3028 Amount=2, 3003, 3385, 3027 Amount=1, 3350, 3301, 3734 Amount=1, 3576}, 3017}}, 
+               2 Content={3502}, 
+               3 Content={3578 Amount=9, 3502}, 
+               5 Content={2853 Content={2853 Content={2853}, 2853 Content={2853}, 2853 Content={2853 Content={2853 Content={2853}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3031 Amount=11, 3049 SavedExpireTime=24, 3483, 3003, 3457, 3572, 3287 Amount=1, 3502}, 
+               6 Content={3147, 3582 Amount=1, 3504 Content={3507 String="jassillo\nvenore\n" Editor="Jassillo"}, 3504 Content={3507 String="jassillo\nvenore" Editor="Jassillo"}, 3504 Content={2866 Content={2866, 3352}, 3507 String="jassillo\nvenore" Editor="Jassillo"}, 2868 Content={3147, 3287 Amount=1, 2854}, 3129, 3502 Content={3046, 3503 Content={3507}, 2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854 Content={2854}}}}}}}}, 
+               7 Content={3503 Content={3507}, 3298 Amount=1, 3017, 3287 Amount=1, 3177 Charges=1, 3502 Content={2853 Content={3031 Amount=100, 3031 Amount=100}, 3031 Amount=63, 3035 Amount=7, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3056 RemainingUses=200, 2868 Content={2843 String="sukubuss and msuhrrom xd love\n" Editor="Mushroom blackdruid", 2868 Content={3351}}, 3507 String="jassillo\ncarlin" Editor="Jassillo", 3084 RemainingUses=250}}, 
+               8 Content={3502}}

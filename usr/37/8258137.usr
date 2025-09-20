@@ -1,0 +1,61 @@
+ID              = 8258137
+Name            = "Awelin"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,85-91-91-91)
+CurrentOutfit   = (134,85-91-91-91)
+LastLogin       = 1126919824
+LastLogout      = 1126919843
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 1127337165
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,117252,0,135100,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,65280,1400,78644,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10613,1100,10918,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18325,1100,19579,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,1200,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,49,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,22,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,274,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,607,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,37,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,20,29,42,51,76,79}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(22,1),(23,1),(27,1),(31,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={2854 Content={3084 RemainingUses=250, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3083 RemainingUses=150, 3734 Amount=1, 3287 Amount=1, 3008, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3008, 3061, 3042 Amount=4, 3286, 3305, 3093 SavedExpireTime=0, 3093 SavedExpireTime=0, 2854 Content={2868 Content={2857 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2868 Content={}, 2868 Content={}, 2870 Content={}, 2870 Content={}, 2866 Content={}, 2871 Content={}, 2865 Content={}, 2865 Content={}, 2865 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}}}, 3003, 3504 Content={3457, 3507 String="awelin\nthais"}, 3504 Content={3507 String="Awelin\nThais"}, 3504 Content={3507 String="Awelin\nThais"}, 3504 Content={3507 String="Awelin\nThais"}, 3507 String="awelin\nthais", 3655, 3502 Content={3082 RemainingUses=50, 3492 Amount=100, 3092 SavedExpireTime=599, 3092 SavedExpireTime=0}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3504 Content={3507 String="Awelin\nKazordoon"}, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3492 Amount=30, 3504 Content={3457, 3457, 3504 Content={3504 Content={2853 Content={}}, 3349, 3285, 3017, 3017, 3504 Content={3557, 3049 SavedExpireTime=0, 3507 String="Daiel Amea\nThais"}}, 3507 String="Awelin\nKazordoon"}, 3502 Content={3349}}, 
+               3 Content={3578 Amount=7, 3425, 3277 Amount=19, 3598 Amount=27, 2970 KeyNumber=3801, 3031 Amount=68, 3035 Amount=2, 3367, 3577 Amount=2, 3003, 2853 Content={3582 Amount=23}, 3350, 2853 Content={2871 Content={2871 Content={2871 Content={}, 2871 Content={}}, 2871 Content={}, 2871 Content={}}, 3457, 3362, 3583 Amount=24}, 3503 Content={}, 3502 Content={}}, 
+               4 Content={3447 Amount=50, 3447 Amount=100, 3035 Amount=4, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="awelin\ndarashia"}, 3504 Content={3507 String="awelin\ndarashia"}, 3504 Content={3507 String="awelin\ndarashia"}, 3504 Content={3507 String="awelin\ndarashia"}, 3502 Content={}}, 
+               6 Content={3031 Amount=100, 3504 Content={3507 String="Awelin\nVenore"}, 3504 Content={3507 String="Awelin\nvenore"}, 3504 Content={3507 String="awelin\nvenore", 3031 Amount=100, 3349}, 3504 Content={3507 String="Awelin\nVenore"}, 3349, 3504 Content={3585 Amount=1, 2970 KeyNumber=3800, 3286, 3409, 2853 Content={2853 Content={2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3276, 3276, 3276, 3377, 3276, 3276, 3276}}}}, 3507 String="awelin\nvenore"}, 3457, 3504 Content={3507 String="awelin\nvenore"}, 3502 Content={}}, 
+               7 Content={3504 Content={}, 3287 Amount=1, 3268, 3505 String="Daiel amea hunts here", 3505 String="daiel amea hunt larvas Here. . .\nMsg Me. . .\n\n\nRespect Plx", 3446 Amount=51, 3504 Content={3507 String="awelin\nankrahmun"}, 3504 Content={3507 String="awelin\nankrahmun"}, 3377, 3504 Content={2853 Content={2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3003, 3505 String="awelin hunt here\nrespect...msg me before going down", 2854 Content={2853 Content={3377, 3377, 3377}, 3147, 3447 Amount=87}}}, 3507 String="Awelin\nAnkrahmun"}, 3504 Content={3507 String="awelin\nankrahmun", 3504 Content={3504 Content={3507 String="Shadowek sorcerer\nvenore\n"}, 3504 Content={}, 3504 Content={3507 String="Shadowek sorcerer\ncarlin"}, 2871 Content={2871 Content={}, 2871 Content={}, 2871 Content={}, 2871 Content={}, 2871 Content={}, 2853 Content={3283, 3283, 3283}, 2853 Content={2871 Content={}, 2871 Content={}, 2871 Content={3276, 3276, 3276, 3276, 3276}, 2871 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2871 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2871 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2871 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2871 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}}, 2871 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3507 String="awelin\nab'dendriel"}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Othehothep I b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={3191 Charges=1}}}

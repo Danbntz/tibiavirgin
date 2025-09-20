@@ -1,0 +1,56 @@
+ID              = 11254554
+Name            = "Amadeus Morphyus"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-87-126-126)
+CurrentOutfit   = (134,0-87-126-126)
+LastLogin       = 1147787523
+LastLogout      = 1147787525
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32439,32079,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,168824,0,179400,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,66140,3000,193600,1600)
+Skill = (2,410,410,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,110,110,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,845,845,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,75079,1100,79179,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,56,0,10,0,0,0,0,0,0,0,40354,1100,43598,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,102,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1495,1100,1590,20)
+Skill = (14,0,1200,0,0,0,6,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29}
+QuestValues = {(35,1),(59,1),(98,1),(125,1),(126,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={3551}},
+               5 Content={3411},
+               6 Content={3412},
+               8 Content={3552}}
+
+Depots      = {0 Content={3504 Content={3507 String="Amadeus Morphyus\nThais\n"}, 3502}, 
+               1 Content={3504 Content={3507 String="Amadeus Morphyus\nCarlin"}, 3504 Content={3507 String="Amadeus Morphyus\nCarlin\n"}, 3412, 3502}, 
+               2 Content={3457, 3035 Amount=23, 3358, 3446 Amount=24, 3384, 3502}, 
+               3 Content={3031 Amount=100, 3031 Amount=9, 3031 Amount=100, 3031 Amount=100, 3449 Amount=2, 3084 RemainingUses=250, 3585 Amount=2, 3035 Amount=8, 3504 Content={3507 String="Amadeus Morphyus\nAb'Dendriel"}, 3446 Amount=4, 3272, 3292, 3504 Content={3507 String="Amadeus Morphyus\nAb'Dendriel\n"}, 3502}, 
+               4 Content={3502}, 
+               5 Content={2866, 2854 Content={2853, 2853, 2853, 2853 Content={2853 Content={2853}}}, 3008, 3308, 3492 Amount=56, 3412, 3447 Amount=6, 3050, 3008, 2857 Content={3056 RemainingUses=200, 3046, 3077}, 3492 Amount=56, 3507 String="Amadeus Morphyus\nsi me lo tocas me exito =P\n" Editor="Amadeus Morphyus", 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3008, 3502}, 
+               6 Content={3504 Content={3507 String="Amadeus Morphyus\nVenore" Editor="Elver Gonn"}, 3502}, 
+               7 Content={3504 Content={3507 String="amadeus morphyus\nankrahmun" Editor="Elver Gonn"}, 2659, 2659, 2659, 2659, 2659, 2659, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2650, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2473 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Oskahl I h\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2469, 2659, 2469 Content={2659, 3658, 2876, 3483, 2949, 2473 Content={3425, 3577 Amount=3, 3585 Amount=1, 3578 Amount=17, 3084 RemainingUses=250, 3446 Amount=15, 3349, 3446 Amount=100}, 2857}}, 3502 Content={3330, 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2874, 3466, 3291, 3492 Amount=55, 2992 Amount=1, 2874, 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1760 gold\nfor your house \"Oskahl I h\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house."}}}

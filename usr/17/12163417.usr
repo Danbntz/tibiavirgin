@@ -1,0 +1,54 @@
+ID              = 12163417
+Name            = "Iric"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,77-113-79-79)
+CurrentOutfit   = (129,77-113-79-79)
+LastLogin       = 1148057305
+LastLogout      = 1148060363
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32497,31971,7]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,212540,0,232500,100)
+Skill = (1,27,0,0,0,0,0,0,0,0,0,199871,1100,214735,1600)
+Skill = (2,270,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,186,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,39963,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,29,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5518,1800,6824,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,5382,1800,6824,50)
+Skill = (10,16,0,10,0,0,0,0,0,0,0,3152,1800,3763,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,3432,1500,3744,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,611,1100,635,20)
+Skill = (14,0,1200,0,0,0,919,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,47,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,9,100,0,0,0,2,0,0,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,9,10,11,15,16,25,27,29,30,38,42,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(24,1),(28,1),(29,1),(30,1),(32,1),(33,1),(34,1),(46,1),(69,1),(125,1),(126,1),(138,1),(139,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2868 Content={3147, 3031 Amount=68, 3577 Amount=10, 3457, 3003, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3147, 3147}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3299},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3069}}
+
+Depots      = {1 Content={3097 SavedExpireTime=3588, 3008, 2854, 2854 Content={3035 Amount=49}, 3446 Amount=20, 2865, 2871 Content={3351, 3383, 3065, 3353}, 3551, 2911 SavedExpireTime=695, 2473 Content={3384, 3425, 3310, 3092, 3074, 3293, 3425, 3279}, 3502 Content={3050, 3547 Amount=1, 3012, 3012, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2970 KeyNumber=4503, 3504 Content={3209, 2873, 3469, 3473, 3467, 3466, 3464, 2877 ContainerLiquidType=1, 2877 ContainerLiquidType=1, 2874 ContainerLiquidType=1}}}, 
+               3 Content={3502}}

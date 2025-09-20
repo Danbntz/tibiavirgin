@@ -1,0 +1,51 @@
+ID              = 8001677
+Name            = "Tiladiuz Lockheart"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (128,116-40-95-95)
+CurrentOutfit   = (128,116-40-95-95)
+LastLogin       = 1147830820
+LastLogout      = 1147830831
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32924,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,112922,0,116000,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,127850,1400,157982,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,50,0,10,0,0,0,0,0,0,0,45142,1100,48785,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,31120,1100,31715,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,4,1200,50,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,374,1200,496,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,31,0,10,0,0,0,0,0,0,0,12296,1200,13551,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6494,1100,6600,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,11,15,20,29,30,42,44,48,49,51,76,78,79,81}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(96,1),(97,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3012},
+               4 Content={3357},
+               6 Content={3349}}
+
+Depots      = {0 Content={2860, 3509, 3384, 3384, 3421, 2874, 3540, 2853, 2853, 3448 Amount=4, 3085 RemainingUses=200, 3097, 3093, 3093, 3305, 3286, 3052, 2854 Content={2854, 2854, 2854, 2854, 2854, 2854}, 3545, 3449 Amount=21, 3372, 2857, 3371, 2853, 3369, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"The City Wall 1b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3384, 3598 Amount=13, 2874 ContainerLiquidType=11, 2472 Content={2854 Content={3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3277 Amount=1}, 3736 Amount=1, 3349, 3349, 3349, 3349, 3097, 2473 Content={3035 Amount=7}, 3012, 3349, 2853, 3349, 3350, 3012, 3349, 3349, 3349, 2853, 3504 Content={3507 String="Lord Clonux\nThais"}, 3504 Content={3507 String="Desirem\nThais"}, 3447 Amount=1, 2473, 2472, 3031 Amount=7, 3031 Amount=10, 3035 Amount=22, 3003, 3457, 3483, 3502}, 
+               4 Content={3502 Content={3031 Amount=100}}, 
+               5 Content={3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=56, 3277 Amount=2}}, 
+               6 Content={3035 Amount=38, 3031 Amount=80, 3457, 3357, 3483, 3492 Amount=28, 3177 Charges=1, 3454, 3463, 3502 Content={3446 Amount=78, 2473 Content={3028 Amount=1, 2867 Content={3410, 3410, 3410, 3410, 3084 RemainingUses=250, 3012}, 2857 Content={3077, 3084 RemainingUses=250, 3098}, 2853 Content={3030 Amount=2, 3084 RemainingUses=250, 3097, 3012, 3207 Amount=1, 3084 RemainingUses=250, 3026 Amount=1, 3012}, 2867 Content={2859}, 3110, 2989}, 2867 Content={2853 Content={2885 ContainerLiquidType=3, 2885 ContainerLiquidType=3, 2882 ContainerLiquidType=3, 2885 ContainerLiquidType=3, 2882 ContainerLiquidType=3}, 3602 Amount=7, 3582 Amount=9, 3577 Amount=48, 3588 Amount=9, 3585 Amount=27, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3590 Amount=21, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2867 Content={3430, 2969 KeyNumber=4600, 3350, 3483, 3277 Amount=21, 3456, 3552, 3003, 3483, 3483, 3308}, 2854 Content={3447 Amount=1, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 1781 Amount=41, 2992 Amount=4, 3585 Amount=1, 2856 Content={2905, 2881, 2882}}}}

@@ -1,0 +1,55 @@
+ID              = 9617755
+Name            = "Lady Dennys"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (139,78-114-114-0)
+CurrentOutfit   = (139,78-114-114-0)
+LastLogin       = 1145669686
+LastLogout      = 1145669742
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,116942,0,135100,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,81200,1400,111701,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,109,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8308,1100,8849,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18518,1100,19579,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,96,1200,109,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,77,1200,109,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,212,1200,268,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,262,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,108,1100,122,20)
+Skill = (14,0,1200,0,0,0,976,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,20,29,42,51,76,81}
+QuestValues = {(60,1),(86,1),(87,1),(153,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2867 Content={3349, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3457, 3003}},
+               8 Content={3552},
+               10 Content={3446 Amount=65}}
+
+Depots      = {0 Content={3504 Content={3507 String="lady dennys\nthais"}, 3504 Content={3507 String="lady dennys\nthais"}, 3502 Content={3578 Amount=40, 3277 Amount=4}}, 
+               1 Content={3504 Content={3507 String="lady dennys\ncarlin"}, 3504 Content={3507 String="Lady Dennys\ncarlin"}, 3492 Amount=100, 2857, 3483, 3084 RemainingUses=250, 3504 Content={2853 Content={3507 String="lady dennys\nhunting here", 3505 String="Lady dennys hunting here\n"}, 3492 Amount=13, 3606 Amount=3, 2853, 3661, 3448 Amount=1, 3595 Amount=4, 3597 Amount=3}, 3595 Amount=1, 3483, 3277 Amount=45, 2473, 2471 Content={3377, 3377}, 3595 Amount=1, 3188 Charges=2, 3147, 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Druids Retreat A\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1340 gold\nfor your house \"Druids Retreat A\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3054 RemainingUses=200, 3353, 2647, 3330}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3446 Amount=100, 3286, 3507 String="Lady Dennys\nab'dendriel"}, 3502 Content={}}, 
+               4 Content={3277 Amount=5, 3083 RemainingUses=150, 3003, 2856 Content={3277 Amount=1}, 3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={2659, 2659, 2659, 2659, 2659, 2659, 2659, 2865 Content={2857, 3097, 3084 RemainingUses=250, 3012, 3083 RemainingUses=148, 3308, 3077, 3059, 3059}, 2667, 2667, 2667, 2469, 2469, 3061, 2469, 2871 Content={2667}, 3046, 3046 SavedExpireTime=2998, 2469, 2853 Content={3349}, 2469, 2867 Content={3287 Amount=5, 3589 Amount=27, 2656, 3492 Amount=10, 3588 Amount=70, 3297, 3421, 3084 RemainingUses=250}, 2868, 2867, 2469, 3349, 3275, 2469, 2869 Content={2969 KeyNumber=3610, 3003, 2854 Content={3147, 3147, 3147}}, 3590 Amount=38, 2859 Content={3587 Amount=15}, 3313, 3093, 3504 Content={3507 String="Tanos\nVenore"}, 3578 Amount=20, 2469, 2469, 2656, 2469, 2469, 2469, 2656, 2469, 2469, 2656, 2469, 2469, 2469, 2469, 2469, 3466, 2656, 2469 Content={3492 Amount=97}, 3046 SavedExpireTime=860, 2469, 2469, 2469, 2469, 2656, 2656, 2656, 2667, 2469, 2469, 2469, 2469, 2469, 2469, 2656, 2656, 2667, 2656, 2667, 2469, 2469, 2469, 2469, 3115, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2656, 2667, 3198 Charges=2, 3198 Charges=3, 3598 Amount=50, 3585 Amount=1, 3595 Amount=2, 2870 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3052, 3052 SavedExpireTime=59, 2991, 2656, 3052, 3277 Amount=17, 3350, 3447 Amount=18, 3588 Amount=1, 2853, 3590 Amount=14, 3349, 2955, 3441, 3358, 2656, 2656, 3031 Amount=5, 3504 Content={3035 Amount=43, 3507 String="Lady Dennys\nVenore"}, 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Lady Dennys\nVenore\n\nHi, I'm intrested in buying your house... if you might sell the house send me a letter or talk to me in game.\n\nYours,\nRegnaru", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3504 Content={3507 String="Lady Dennys\nvenore\n"}, 3504 Content={2471 Content={3410, 3298 Amount=1, 2471 Content={3578 Amount=60, 3578 Amount=100}}, 3507 String="Lady Dennys\nvenore\n"}, 3504 Content={3504 Content={3507 String="lady dennys\nvenore"}, 3507 String="lady dennys\nvenore"}, 3003, 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 5095 gold\nfor your house \"Seagull Walk 1\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502}, 
+               7 Content={3504 Content={3507 String="lady dennys\nankrahmun\n"}, 3456, 3504 Content={3507 String="lady dennys\nankrahmun"}, 3504 Content={3507 String="lady dennys\nankrahmun\n"}, 3502 Content={}}}

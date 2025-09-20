@@ -1,0 +1,55 @@
+ID              = 9975794
+Name            = "Madam Ojos de moco"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (142,79-0-92-0)
+CurrentOutfit   = (142,79-0-92-0)
+LastLogin       = 1148097706
+LastLogout      = 1148098412
+StartPosition   = [32732,31634,7]
+CurrentPosition = [33173,31813,8]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,38161,0,47000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,80540,1400,111701,1600)
+Skill = (2,255,255,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,40,140,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,610,610,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6098,1100,6400,100)
+Skill = (7,42,0,10,0,0,0,0,0,0,0,6052,1100,6667,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,25,0,10,0,0,0,0,0,0,0,4179,1200,4372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,341,1200,372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1726,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,88,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,10,20,42,51}
+QuestValues = {(125,1),(126,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2853 Content={3031 Amount=36, 3003, 3457, 3035 Amount=3, 3582 Amount=5}},
+               4 Content={3357},
+               6 Content={3279},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3425}}
+
+Depots      = {1 Content={3504 Content={3507 String="Madam Ojos de moco\nCarlin"}, 3502 Content={}}, 
+               2 Content={2853 Content={2853 Content={2853 Content={2853 Content={}}}}, 3502 Content={3504 Content={3507 String="Madam Ojos de moco\nkazordoon\n"}}}, 
+               3 Content={2865 Content={3446 Amount=100, 3349, 2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3492 Amount=1, 3447 Amount=10, 3277 Amount=12, 3003, 3003}, 2870 Content={3273, 1781 Amount=20, 3441, 3266, 3441, 3273, 2920 SavedExpireTime=509, 2920, 3308, 3430, 3483}, 2866 Content={3350, 3449 Amount=3, 3446 Amount=36, 2869 Content={3147, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147}, 3447 Amount=10, 3035 Amount=20, 3598 Amount=8, 3603 Amount=1, 3336, 3056 RemainingUses=200}, 2868 Content={2867 Content={2854 Content={3177 Charges=1, 3447 Amount=100, 3447 Amount=19}, 2866, 2868, 2854, 2854, 2865, 2868, 2870, 2868, 2854, 2854}, 2866 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2865, 2854 Content={3453, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=35, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350, 3350}, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 3504 Content={1781 Amount=9, 2874, 3198 Charges=1, 3198 Charges=4, 3174 Charges=2, 3505 String="Tú te me quedas viendo, y me preguntas\nsi algo me esta pasando.\nY yo no sé que hacer, si tu supieras que me estoy muriendo, rive\nquisiera decirte, lo que yo siento.\nPero tengo miedo, de que me rechaces y que sólo en mi mente,\nvivas para siempre, por eso...\n\nme kaes muy bien;)\n\nAsterit\n\n>.< tu tas lokito -.-\n\nJajajaja no se enoje pues solo es una cancion que le dedico por que se que usted le gusta.. solo como amigoa \n\nkk :) ", 2920 SavedExpireTime=599}, 3291, 3267, 3504 Content={3054 RemainingUses=200, 3658, 3655, 3097 SavedExpireTime=2627, 3092 SavedExpireTime=886, 3148 Charges=3, 3012, 2911 SavedExpireTime=1700}, 3504 Content={3447 Amount=35, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3504 Content={3504, 3506 String="Maria-Felix\nAb'dendriel\n\n#This message was generated automatically#\n \nWelcome!\n \nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please logg to our page:\n \nhttp://CipSoftTeam.nasze.com\n \nCopyright 1996-2005 CipSoft GmbH.", 3505 String="jonatan te amo\nmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm\neahrgghhhhhhhhhhhhhhhhhhhhhkkfhglkshdfkgh´sa", 3350, 3377}, 3504 Content={3503}, 3504 Content={2853 Content={2853 Content={3129, 3505}, 3003, 3470, 3468, 2922 SavedExpireTime=146, 2922 SavedExpireTime=43, 2922 SavedExpireTime=41}, 3308, 2969 KeyNumber=3033, 2969 KeyNumber=3033, 2969 KeyNumber=4600, 3003, 3003, 3483, 3483}, 3502 Content={3457, 3483, 3492 Amount=100, 3492 Amount=100, 3492 Amount=59, 2920 SavedExpireTime=32, 3483, 3492 Amount=23, 3349, 3004, 3372, 3097, 2989, 1781 Amount=69, 3503, 3503 Content={3056 RemainingUses=200}, 3503, 3504, 3504, 3504, 3504, 2920 SavedExpireTime=221, 2920 SavedExpireTime=167, 2920 SavedExpireTime=195}}}

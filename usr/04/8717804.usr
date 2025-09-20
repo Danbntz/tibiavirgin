@@ -1,0 +1,58 @@
+ID              = 8717804
+Name            = "Klavey"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,11-124-95-0)
+CurrentOutfit   = (134,11-124-95-0)
+LastLogin       = 1147017749
+LastLogout      = 1147017803
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32345,32227,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,106779,0,116000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,64860,3000,193600,1600)
+Skill = (2,365,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,95,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,35180,1100,36404,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,16,1400,30,30)
+Skill = (8,51,0,10,0,0,0,0,0,0,0,25548,1100,26881,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,284,1100,305,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,42,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,82,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1418,1100,1428,20)
+Skill = (14,0,1200,0,0,0,405,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(18,1),(19,1),(20,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(37,1),(55,1),(59,1),(100,1),(106,1),(107,1),(111,1),(112,1),(128,1),(140,1),(141,1),(190,1),(191,1),(192,1),(217,3),(223,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2854 Content={2853 Content={3299}, 3003, 3457, 3160 Charges=1, 3160 Charges=1, 3723 Amount=19}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3307},
+               7 Content={3372},
+               8 Content={3552}}
+
+Depots      = {0 Content={3031 Amount=55, 3031 Amount=100, 3031 Amount=100, 3035 Amount=2, 3504 Content={3507 String="Klavey \nThais" Editor="Marc von Kax"}, 3003, 3362, 3457, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="Klavey \nThais\n\nLoocik z kazzo ;]\n\ncya" Editor="Marc von Kax"}, 2854 Content={2853 Content={2853}, 2853 Content={3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411}, 3411, 3411, 3411, 3411, 3411, 3411, 3411, 3411}, 2920 SavedExpireTime=560, 3153 Charges=1, 3031 Amount=1, 3052 SavedExpireTime=33, 3291, 2854 Content={3283, 3410, 3316, 3410, 3377}, 3098 SavedExpireTime=53, 2865 Content={2854}, 3503 Content={2969 KeyNumber=3600, 3503, 3457, 3492 Amount=63, 3003, 3285}, 2480 Content={2853 Content={3147, 3492 Amount=100, 3003, 3003, 2969 KeyNumber=4055, 3552, 3012}, 3453, 2853 Content={3430, 3430, 3430}, 3453, 3456, 2885, 3473, 3472, 3453, 3300, 3300, 3300, 3362, 3362, 3362}, 3502 Content={3507 String="Marcin Universal\nThais", 3507 String="keko the devil\nthais", 3507 String="FUCK FACE BASTERD\nBITCH", 3507 String="kermit de kikkerjongen\nthais", 3507 String="Klavey \nThais\n", 3507 String="hledas\nthais", 3507 String="vampire-earth\nthais", 3507 String="Teteleg\nThais", 3507 String="Fajny-radek\nThais\n", 3507 String="eigth immortal\nthais", 3507 String="Incal Chokbola\nDarashia", 3507, 3507 String="gLORMENTOR kURGURANO\ntHAIS", 3507 String="hahahahahahaahahaha bitch", 3507 String="Tirantures \nCarlin", 3507 String="seelt knigt\nthais\n\n\n\n\n\n\n\n\n\nhghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh", 3507 String="Shelo al'Chosto\nThais", 3507 String="squall yesay\nthais\n", 2969 KeyNumber=4600}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={3459, 3457, 3457}}, 
+               3 Content={3502 Content={3377}}, 
+               5 Content={3504 Content={3507 String="Klavey\nDarashia"}, 3457, 3483, 2820 String="Resarchpaper 88-04 F\nOn the request of our beloved pharaoh we have stopped the research on the XXXXXX spell. All research was destroyed, and although we had met with considerable success in XXXXX the XXXXX and even seemed to have a solution for the problem of the plasma leak the project has been discarded. Even the side reports were destroyed. An apology has been issued to the pharaoh for thoughtlessly researching in that field.", 2820 String="Researchpaper 74-08 G\nWe haven't yet managed to improve the 'find person' spell. However, we are still convinced that in theory it must be capable of divulging additional information such as the experience and power of the targeted persons as well as their general physical condition and the chemical composition of their last supper. There are numerous problems, though, and it is well possible that we have to start all over again. This would mean, of course, that we would have to create some spells to obtain information by means of magic which is plain to see when you are close to the targeted person. One might argue that it is a waste of time and resources to develop such a spell, but then I see no other way to create a similar spell that features enhanced range and a combination of effects.", 1781 Amount=1, 3130, 2874 ContainerLiquidType=0, 2920 SavedExpireTime=0, 3504 Content={2820 String="Researchpaper 77-04 D\nThe 'move earth' spell seems to be ready to enter the stage of field testing. The results so far were quite convincing, and the priests were pleased. The recent studies we have carried out together have proven that we can indeed learn from each other. I must admit I would certainly like to add this useful little spell to my personal repertoire. After all, shovels and pickaxes are heavy and pretty unwieldy, and I would very much like to leave them at home. I envy the priests for the elemental powers they are wielding.", 3507 String="KLAVEY\ndARASHIA"}, 3551, 3502 Content={3003, 3456, 3603 Amount=1, 3483}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={2824 String="Since the contamination of the water reservoirs became more and more of an issue, Pharaoh Unklath ordered that the position of the right honourable excreminator should be founded. This position was decreed to be considered as honourable as that of the royal astrologer or the pharaoh's animal trainer.", 2827 String="The master of the games asked for 'greater challenges'. I cannot help the feeling that the fool is talking about djinns and demons. However, as long as I am chief advisor of the pharaoh this will not happen. If such a creature broke loose in the city, chaos would ensue. It would be a massacre. And I am convinced that certain elements would welcome such a 'misfortune' and even work towards it.", 2828 String="Year 10 in the reign of Harrah II\nThe baker Thahon claimed that the wife of the merchant Habthi was guilty of witchcraft. Thahon could not bring forth convincing proof of her guilt and was sentenced to ten blows on his bare feet. The crafter Ziril claimed that the beggar Aukohl stole a cake from his open window. Although no proof was found there was a general sense of agreement that no proof was necessary since everybody was convinced of the beggar's guilt. In a rare display of mercy the judge sentenced him to a mere three years of work in the salt mines. The widow Zehmahil claimed that the travelling bard Todd Ballory had promised here mariage in\nexchange for certain services that have not been further elaborated on in the court's documents. The foreigner was found guilty without trial and sentenced to three years of work in the salt mines. The footsoldier Kamahl claimed his father Indril was guilty of witchcraft. Several obscure texts were found beneath the accused person's bed. Indril was banished from the city and his property was equally divided between the pharaoh and his heirs. The foreigner Todd Ballory was pronounced guilty of killing the overseer Barnak, a father of sixteen children and a respectable member of the local whipcrackers' association. The aforementioned convict was sentenced to a rather spectacular final appearance in the local arena.", 2832 String="...we stood on a plank and beneath us was a pit full of hissing snakes. Worse, the plank was pulled back into the wall, and there was no way out. If it hadn't been for our good Alil who had stayed out of that cursed chamber in a rare moment of clear-sightedness, we would all have ended up as snake food. Just how he managed to find that hidden lever on the statue is still beyond me.", 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!"}}}

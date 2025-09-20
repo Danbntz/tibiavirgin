@@ -1,0 +1,55 @@
+ID              = 11548680
+Name            = "Rafaeuzinho do Iraja"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,116-76-79-115)
+CurrentOutfit   = (129,116-76-79-115)
+LastLogin       = 1147476803
+LastLogout      = 1147476816
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,42723,0,47000,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,38099,1400,38165,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,51,120,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6042,1100,6400,100)
+Skill = (7,38,0,10,0,0,0,0,0,0,0,4127,1100,4458,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,414,1200,496,50)
+Skill = (9,26,0,10,0,0,0,0,0,0,0,4407,1200,5296,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,100,1200,109,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,32,1100,42,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,20,29,42,44,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(61,1),(100,1),(125,1),(126,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=195},
+               3 Content={2854 Content={3577 Amount=2, 3286, 2874 ContainerLiquidType=11, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3350, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3305},
+               7 Content={3372},
+               8 Content={3551},
+               10 Content={3447 Amount=52}}
+
+Depots      = {0 Content={3502 Content={2839, 3505 String="hej tu Nena  Elgarithra=]" Editor="Nena Elgarithra", 2839 String="bhzgmh\n" Editor="Elar Soul", 3503 Content={2869 Content={3061, 3031 Amount=75, 3031 Amount=100, 3031 Amount=100, 3035 Amount=12, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853, 2853 Content={3045 RemainingUses=135, 3056 RemainingUses=200, 3056 RemainingUses=164}, 2868 Content={3289, 3448 Amount=28, 3350, 3300, 3410, 3430, 3349, 2874, 3446 Amount=9, 3283, 3457}, 2854 Content={2853, 2853 Content={3191 Charges=2, 3160 Charges=1, 3188 Charges=3}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 2853 Content={3191 Charges=1, 3191 Charges=1, 3153 Charges=1, 3153 Charges=1, 3198 Charges=1, 3189 Charges=1}, 3147}, 2854 Content={3454, 3483, 3457, 3457, 3456, 3483, 3552, 3457, 3308, 2853 Content={3003, 3003, 3003, 3003}, 3308, 3457, 3457, 3483, 3483, 3483, 3308, 3457, 3457}, 2854 Content={2854, 3372, 3377, 3266, 3275, 3377, 3372, 3375, 3377, 3377, 3377}, 2868 Content={3595 Amount=29, 3597 Amount=3, 3606 Amount=9, 3602 Amount=12, 3582 Amount=22, 3579 Amount=3, 2854 Content={3593, 3593, 3588 Amount=60, 3585 Amount=18, 3590 Amount=62, 3593, 3592, 3592, 3593, 3593, 3593, 3593, 3592, 3592, 3588 Amount=100}, 3607, 3600 Amount=9, 3599 Amount=8, 3577 Amount=6}, 2853 Content={2885 ContainerLiquidType=7, 2885 ContainerLiquidType=7, 2911, 2914 SavedExpireTime=1993, 2911 SavedExpireTime=2943}, 2853 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}}, 2906, 3505 String="you lol noob" Editor="Kol Vint", 2906, 2839, 2839, 3059, 2853 Content={3505 String="porco  on zanera\nhunted  in ckren by me", 2853 Content={3505, 3505, 3505 String="Ziood\n" Editor="Card master", 3505 String="If you are reding this, please get out here, t´s dangerours for you. I warned you.", 3505 String="Polacy Górom reszcie huj w DUPE HEHEHEHEEHHEHEHEHEHEHE", 3505, 3505, 3505 String="marico el q le esta    carta                                                        " Editor="Card master"}, 3505 String="I was here \n\nsigned: Odius Scon", 3505, 3505 String="gayssssssssssss   putos noobbbbbssssssssssssssssssssssssssssssssssssssssssssss hunted hahahahanoobsss", 3505 Editor="Rafaeuzinho do Iraja", 3505, 3505}, 2839 String="                              REGRAS\n\n1-Dividir os itens entre os conponentes.\n2-Entregar os itens que achar para os   devidos adiministradores.\n" Editor="Rafaeuzinho do Iraja"}}, 
+               1 Content={3502 Content={2973 KeyNumber=3520, 3277 Amount=3, 3003}}, 
+               3 Content={3502 Content={3147, 3003, 3457}}}

@@ -1,0 +1,61 @@
+ID              = 14597630
+Name            = "Partch'Botcha"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,0-126-0-126)
+CurrentOutfit   = (134,0-126-0-126)
+LastLogin       = 1148232824
+LastLogout      = 1148239675
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32486,32059,4]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,235860,0,262600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,101633,3000,193600,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,85,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,126573,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,2,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,64428,1100,70521,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,78,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,874,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,81}
+QuestValues = {(14,1),(16,1),(27,1),(46,1),(96,1),(97,1),(98,1),(115,1),(190,1),(191,1),(226,1),(253,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3083 RemainingUses=126},
+               3 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3003, 3582 Amount=8, 3446 Amount=9, 3160 Charges=1}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3295},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={2854 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={2853 Content={3378}, 3502 Content={3449 Amount=5, 3409, 3409, 3285, 3409, 3351}}, 
+               1 Content={3504 Content={3507 String="Partch'Botcha\ncarlin" Editor="Partch'Botcha"}, 3504 Content={3507 String="Partch'Botcha\ncarlin" Editor="Royal'Partch"}, 3502}, 
+               2 Content={3504 Content={3507 String="Partch'Botcha\nKazordoon" Editor="Rage Drake"}, 3349, 2869 Content={2872 Content={2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872}, 2869, 2869, 2869, 2869 Content={2869}, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869, 2869}, 3504 Content={2854 Content={3457, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Nobility Quarter 7\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3277 Amount=9}, 3411, 3412, 2472 Content={2969 KeyNumber=4600, 3457}, 3503 Content={3507}, 2853 Content={3083 RemainingUses=150, 3097}, 3446 Amount=18, 3507 String="Kindoms\nvenore" Editor="Kindoms"}, 3502 Content={3357, 2872 Content={3391, 3035 Amount=88, 2472 Content={3446 Amount=3}, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2853 Content={3456, 2969 KeyNumber=5000, 3453, 3465, 2853 Content={3017}}}, 2872 Content={3426, 3378, 3559, 3267}, 2869 Content={2865 Content={2868 Content={2854, 3277 Amount=3}, 2865 Content={3457, 3308}, 2857}, 3504 Content={3504, 3504 Content={3507 String="jamanta matador\nab'dendriel" Editor="Phim Azaryx"}, 3504 Content={3507 String="cruzeider\nab'dendriel" Editor="Cruzeider"}, 3504 Content={3507 String="hulk mclaun\nab'dendriel\n" Editor="Hulk Mclaun"}, 3504 Content={3504 Content={3507 String="Strown\nAb'Dendriel\n" Editor="Strown"}, 3507 String="Strown\nAb'Dendriel" Editor="Strown"}, 3504 Content={3507 String="cruzeider\nab'dendriel" Editor="Cruzeider"}, 3507 String="Anagel'Adrushtt\nab'dendriel" Editor="Anagel'Adrushtt"}, 2867 Content={2853 Content={2853 Content={3349, 3349}}}, 2853 Content={2970 KeyNumber=3802, 2871 Content={2865, 2860}}, 2870 Content={2853 Content={2969 KeyNumber=3033, 2970 KeyNumber=3802, 2973 KeyNumber=3520, 2970 KeyNumber=3801}, 2969 KeyNumber=3033, 2970 KeyNumber=3801}}, 2871 Content={3430, 3267, 3300}, 2857}}, 
+               3 Content={3504 Content={2853 Content={3367, 3367, 2853 Content={2853 Content={3367, 3367, 3367, 3367, 3367}, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 3367, 3367, 3367, 3367, 3367}, 3507 String="Partch'botcha\nab'dendriel" Editor="Partch'Botcha"}, 3504 Content={3507 String="Partch'botcha\nab'dendriel" Editor="Partch'Botcha", 2871}, 2865 Content={3300, 2969 KeyNumber=3033, 3291, 3308, 3378, 3362, 3430, 3273, 3291}, 3502 Content={3003}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={2853 Content={3367, 3367, 3367, 3367, 3367}, 2868, 2853 Content={3367}, 2853 Content={3367, 3446 Amount=13}, 2860 Content={3552, 3084 RemainingUses=250, 3017, 3740 Amount=1, 3017}}}, 
+               8 Content={3502 Content={2854}}}

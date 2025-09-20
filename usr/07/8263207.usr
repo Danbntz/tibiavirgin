@@ -1,0 +1,58 @@
+ID              = 8263207
+Name            = "Hanyball"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,0-87-106-114)
+CurrentOutfit   = (130,0-87-106-114)
+LastLogin       = 1147652990
+LastLogout      = 1147660218
+StartPosition   = [32360,31782,7]
+CurrentPosition = [33032,32111,9]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,300215,0,330400,100)
+Skill = (1,33,0,0,0,0,0,0,0,0,0,388806,1100,392762,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,322,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,60893,1500,87378,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,22,1800,50,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,30237,1800,40105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,392,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3470,1100,3638,20)
+Skill = (14,0,1200,0,0,0,770,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,1,0,98,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,8,9,10,16,17,20,29,30,38,42,44,45}
+QuestValues = {(18,1),(68,1),(71,1),(96,1),(97,1),(99,1),(125,1),(126,1),(190,1),(191,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3003, 3492 Amount=3, 3031 Amount=86, 3031 Amount=100, 3031 Amount=100, 3492 Amount=100, 3031 Amount=100, 3031 Amount=100, 3492 Amount=100, 3457, 3147, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5}}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3070},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={3059, 3003, 2854}}, 
+               2 Content={3349, 3502 Content={}}, 
+               3 Content={3504 Content={3012, 2922 SavedExpireTime=18, 2857 Content={3492 Amount=100, 3492 Amount=100, 3308}, 3507 String="Hanyball\nab'dendriel"}, 3502 Content={3457}}, 
+               4 Content={3504 Content={3507 String="Hanyball\nedron", 3305, 3305}, 3502 Content={}}, 
+               6 Content={3504 Content={3504 Content={3492 Amount=100, 2469 Content={3425, 3289, 3425, 2664 RemainingExpireTime=494, 3587 Amount=10, 3586 Amount=12, 2659, 2656, 2667, 2667}, 3441, 2667, 2667, 3504 Content={3285, 3507 String="Ruby'moon\nVenore" Editor="Lockwas"}, 3504 Content={3504 Content={3552, 3430, 3374, 3572}}, 2469 Content={2867, 2868 Content={2868 Content={3305}}, 2667, 2400, 2667, 2853, 2650}, 2469 Content={2469, 2827 String="Will the world never learn?\nThat pompous coxcomb of an ambassador dared to speak as though his king was equal to our pharaoh! We were shocked by the sheer impertinence of his speech! The fool! How confused he looked when he realised our disapproving silence. I am convinced he had spoken to some of those filthy heretics before he went to see his majesty. I know there are some although none of them would dare to make his blasphemous opinions known in the public. How could the mighty pharaoh not ignore this ambitious fool and his futile plans. How haughtily he walked around in our beautiful Ankrahmun, mocking our true religion with his silly questions. Of course, he got nowhere and he seemed to give up in the end. But did the wisdom offered to him enlighten his blind soul? I think not. So full of himself was he, so firm in his heretic opinions and yet such a slave to his flesh - how could he understand that which is true and holy? People like him are both a curse and a blessing to us, the children of enlightenment. They may insult and provoke us with their ignorance, yet it is when we meet fools like him that we realise the full extent of the glorious state of enlightenment we live in. Far from ascension though we are, we have been granted the opportunity to achieve what will be forever denied to people like him - divinity!", 2469 Content={2853 Content={3552}, 2870 Content={3330, 3299, 3353, 3350, 2853 Content={3304, 3430, 3412, 3012, 2920}, 3350, 3056 RemainingUses=200, 3447 Amount=100, 3447 Amount=100}}, 2472 Content={2839 String="Erick lockwas:\nAge:24\nsex: hombre\nbirth: 19 de junio\n\nComentarios:El fue el caballero de la luz", 2829 String="Suns and Stars, Part II\nVery basic rituals depend on the influences of dawn and dusk, or of night and day. Other, more complex rituals may only be performed at very specific times, perhaps even at a specific hour. Other rituals that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while the most powerful of rituals may only be carried out during stellar constellations that are so incredibly rare that centuries may pass before the ritual can be performed again. Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day. Since most of the ancient races have disappeared from the lands it is well possible that some of the rituals are still be buried in some long forgotten ruin, while others might actually be in the possession of some surviving heir of one of the ancient races.\nWho knows. The astrological knowledge of the ancients is yet to be rediscovered. We are perfectly positive that some of the discoveries we have made can be considered as the groundwork for further, more elaborate theories which one day might rival that of the ancients. Still, it would be an immense progress if we could rediscover some of the ancients' lost astrological writings."}, 3505, 3505, 2970 KeyNumber=4503, 2969 KeyNumber=3033}, 3507 String="lockwas\nvenore"}, 3504 Content={2865 Content={3031 Amount=5, 3050 SavedExpireTime=1796, 2868 Content={2853 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2866}, 3069, 3415, 3380, 3385, 3059}, 3507 String="lockwas\nvenore" Editor="Lockwas"}, 3504 Content={2857 Content={2853 Content={3551, 2969 KeyNumber=3033, 3582 Amount=55, 3582 Amount=99, 3582 Amount=100, 3577 Amount=74}, 2868, 2853 Content={3492 Amount=12, 3600 Amount=52, 3492 Amount=100, 3585 Amount=4}, 2868 Content={3308, 3003, 3457, 3003, 3504 Content={3031 Amount=85, 3031 Amount=100, 3318}, 3092}}, 3031 Amount=60, 3507 String="lockwas\nvenore" Editor="Lockwas"}, 3507 String="hanyball\nvenore" Editor="Lockwas"}, 2853 Content={3003, 3097 SavedExpireTime=2993, 3056 RemainingUses=200, 3308, 3483, 3457}, 3504 Content={3065, 3066, 3074, 3409, 3353, 3384, 3507 String="Hanyball\nVenore" Editor="James Valiant"}, 3451, 3003, 3502 Content={2867 Content={3031 Amount=92, 3035 Amount=39}, 3147, 2853 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2969 KeyNumber=3033, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2867 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}}}}

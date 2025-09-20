@@ -1,0 +1,54 @@
+ID              = 10085741
+Name            = "Sirick Pragos"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (137,87-114-114-114)
+CurrentOutfit   = (137,87-114-114-114)
+LastLogin       = 1144297003
+LastLogout      = 1144298567
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32345,32265,5]
+PlayerkillerEnd = 1146890564
+
+Skill = (0,36,0,1,0,0,0,0,0,0,1,658412,0,717600,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,187032,3000,193600,1600)
+Skill = (2,605,605,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,175,175,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,105,105,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1170,1170,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,63,0,10,0,0,0,0,0,0,0,164241,1100,170871,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,16,1400,30,30)
+Skill = (8,68,0,10,0,0,0,0,0,0,0,129092,1100,137900,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,81,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,17,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,110,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1735,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81}
+QuestValues = {(14,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(39,1),(55,1),(57,1),(67,1),(68,1),(71,1),(72,1),(73,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(100,1),(115,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(134,1),(137,1),(140,1),(141,1),(143,1),(144,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(208,1),(217,3),(222,1),(224,1),(253,1)}
+Murders     = {1144298068,1144298142,1144298260,1144298375,1144298471,1144298564}
+
+Inventory   = {2 Content={3085 RemainingUses=159},
+               6 Content={3301},
+               8 Content={3552}}
+
+Depots      = {0 Content={3457, 3003, 3605 Amount=1, 2865 Content={3003, 3097, 3457, 2867 Content={3301, 3349, 3350, 3092, 3008, 3082 RemainingUses=41, 3349, 3353, 3350, 3384, 3410, 3012, 3413, 3425, 3421, 3409, 3085 RemainingUses=87, 3367}, 3003, 3003, 3003, 3457, 3279, 3457, 3457, 2969 KeyNumber=3667, 2969 KeyNumber=3600, 3085 RemainingUses=199, 3413, 3410, 3507 String="lord stream\nthais\n", 3003, 3457}, 2865 Content={3483, 3483, 3483, 3483, 3483, 3483}, 2854 Content={2867 Content={2854 Content={2854}}, 2865, 2870, 2854, 2854, 2865, 2872 Content={2868, 2868, 2854, 2865}, 2868, 2865, 2869, 2854, 2854, 2867, 2867, 2869, 2854, 2854, 2869, 2869, 2866}, 3502 Content={2853 Content={3358}}}, 
+               1 Content={3457, 3504 Content={3507 String="Sirick Pragos\ncarlin"}, 3483, 3483, 3504 Content={3507 String="Sirick Pragos\nCarlin"}, 3504 Content={2869 Content={2869 Content={2869 Content={3308}}}, 3507 String="Sirick Pragos\nCarlin"}, 3504 Content={3507 String="sirick pragos\ncarlin\n"}, 3658, 3504 Content={2853 Content={2865 Content={3292, 3292, 3292, 3292}, 2870 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2865 Content={2868 Content={2854, 2870, 2854}, 2854 Content={2865, 2865, 2868}, 2854 Content={2865, 2867, 2868}, 2854 Content={2865}, 2865, 2869 Content={2854 Content={2874, 2874, 2874, 2874}, 2870, 2868, 2854, 2854, 2865, 2867 Content={2854 Content={2854 Content={2865 Content={2854 Content={2854 Content={2866 Content={2854}}}}}}}, 2854, 2867 Content={2868 Content={2867, 2869, 2867}, 2854, 2871, 2854, 2854, 2865, 2867, 2854, 2866, 2871, 2867, 2869, 2867 Content={2867}, 2865, 2868, 2867, 2872, 2868 Content={2866}, 2865}, 2869}, 2866 Content={2866, 2867, 2865, 2868, 2854, 2868, 2865}, 2854}, 2868, 2854}, 3507 String="Sirick Pragos\nCarlin"}, 2843, 3551, 2853 Content={3483, 2815 String="Looks like the fox is out!\nMore luck next time!\nSigned:\nthe horned fox"}, 3003, 3502 Content={2854 Content={2868, 2854}, 3465, 3012, 3446 Amount=3, 3559, 3083 RemainingUses=150, 3267}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={3572, 3425, 3035 Amount=60}}, 
+               4 Content={3502}, 
+               5 Content={2867 Content={3147, 3147}, 2906, 3297, 3425, 3505 String="Querida Daniela de mi corazon\nEn este dia tan especial, le deseo una muy feliz navidad y un prospero año nuevo, tambien espero la rapida recuperacion de su papa rl que fue atropellado lo siento bb ='(, despues queria  desirle que usted me a echo el hombre mas feliz del mundo, y como le ya le habia dicho antes, yo e estado pensando en ir aya a su ciudad, bebe estoy loco por usted, no tengo palabras para explicar como me ase sentir, y es por ello que no save cuanto deseo conocerla rl bb, dia y noche pienso en usted, esta en mi sueños a cualquier lado que voy la miro, aveses me pongo a pensar lo duro que es estar enamorado de alguien sabiendo que esta muy lejos de donde vive, bb desde el con el paso de los dias desde que comense a tratarla usted a sido lo maximo que me a podido pasar, la quiero bb, la amo, cuando estoy triste pienso en usted  por un lado de mi y se me borra la tristesa, es para mi como un angel, al que jamas quiero despegarme por lo bien que me ase sentir, bb en este momento yo quisiera tenerla junto ami, quisiera poder sentir sus manos en las mias y desirle cuanto la quiero, desirle que no soy nada sin usted, pero no se puede es por eso que le escribo esta carta, pero yo se que algun dia podre estar con usted y para desirle todo lo que siento por usted y sentirla entre mis brazos, darle un avraso y un beso y desirle cuanto la amo, no se que me pasa lo unico que se es que me muero por usted la amo con todo mi corazon ahora si que estoi loco, por usted, pronto le pasare mi foto rl, y talves pueda llamarle por telefono, talves en un año podria visitarla y que se me aga realidad todo lo que deseo en la vida, lo que es estar con usted, sentir su calor, su presensia su mirada, sentir que puedo aser lo que quiero, volar, correr, reir y sobretodo AMARLA Y QUERELA SIEMPRE.\n\nDaniela Castillos y Jesus Acosta \nforever and ever\n\nPD. bb la amo are todo lo posible por ir a chile lo mas pronto  posible, usted me a entrado asta lo mas profundo de mi corazonYoursJesus" Editor="Sirick Pragos", 3505 String="siempre estare invited en su casa, como \"forget me fast\", solo fue a tu casa para ver si dejaste una msg para mi, pero no, me engane, tengo q ser - amorosa, yo vi q ya estavas diferente comigo, es lo cierto me retirar, aios...." Editor="Sirick Pragos", 3017, 3502}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3035 Amount=20}}}

@@ -1,0 +1,56 @@
+ID              = 14417765
+Name            = "Indie'Arien"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,28-86-114-114)
+CurrentOutfit   = (134,28-86-114-114)
+LastLogin       = 1148174189
+LastLogout      = 1148174380
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32659,32357,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,109993,0,116000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,68635,3000,193600,1600)
+Skill = (2,295,365,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,20,95,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,125749,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,61,0,10,0,0,0,0,0,0,0,65875,1100,70521,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1067,1100,1145,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,68,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(86,1),(87,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3405},
+               2 Content={3572},
+               3 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3031 Amount=60, 3003, 3031 Amount=100, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3031 Amount=100, 3160 Charges=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3404},
+               5 Content={3280},
+               6 Content={3416},
+               7 Content={3557},
+               9 Content={3007},
+               10 Content={2926 RemainingExpireTime=216}}
+
+Depots      = {0 Content={3353, 3031 Amount=100, 3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 2854, 3351, 3317, 3431, 2857, 2857 Content={3084 RemainingUses=250, 3077, 3046, 3046, 3077, 3084 RemainingUses=250}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2872 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3725 Amount=83, 3267, 3412, 3504 Content={2871 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147}, 3351, 3507 String="Indie'Arien\nthais\n" Editor="Chulis lulis"}, 3504 Content={3583 Amount=11, 3507 String="INDIE'ARIEN\nTHAIS\n" Editor="Chulis lulis"}, 3504 Content={2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="Indie'Arien\nthais\n" Editor="Alexei Von Arbanel"}, 3301, 3504 Content={2853, 3507 String="INDIE'ARIEN\nTHAIS" Editor="Chulis lulis", 3301, 3449 Amount=19}, 2991, 3597 Amount=9, 3504 Content={3297, 3507 String="INDIE'ARIEN\nTHAIS" Editor="Chulis lulis"}, 3083 RemainingUses=150, 3502 Content={3291, 3483, 2870, 3035 Amount=17}}, 
+               4 Content={3504 Content={3507 String="Indie'Arien\nEdron" Editor="Kromlesh"}, 3502}, 
+               5 Content={3502}, 
+               7 Content={3502}}

@@ -1,0 +1,48 @@
+ID              = 12678765
+Name            = "Zilon Tato Talion"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,114-94-114-94)
+CurrentOutfit   = (129,114-94-114-94)
+LastLogin       = 1147718612
+LastLogout      = 1147718624
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32690,31600,6]
+PlayerkillerEnd = 0
+
+Skill = (0,16,0,1,0,0,0,0,0,0,1,54275,0,57600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,6849,3000,20800,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,0,75,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,85,85,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,25,0,10,0,0,0,0,0,0,0,3554,1100,3594,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,35,0,10,0,0,0,0,0,0,0,5086,1100,5459,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,27,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2870},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={2985, 2473 Content={2854 Content={3457, 2865 Content={3003}}}, 2473 Content={2872 Content={3330, 3563}, 2854 Content={3003}, 2865 Content={3483, 3266}, 2871 Content={3457, 2920}, 2854 Content={3301, 3084 RemainingUses=157}}, 3502 Content={2853, 2853 Content={3297, 2816 String="The story of old Dragons mountain...\nAuthor: Anonymous\n\nIt is said, that near the swamp of the damned there is supposed to be a dragons lair in the mountains north of it. Legends speak about dragons with red scales and a fiery breath, which store great amounts of treasure in their lair. But since nobody will have the courage to go there, it will never be known, if the legends are true."}, 2857}}}

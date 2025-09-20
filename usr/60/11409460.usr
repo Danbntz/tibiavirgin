@@ -1,0 +1,55 @@
+ID              = 11409460
+Name            = "Lord Healer"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (133,114-0-94-0)
+CurrentOutfit   = (133,114-0-94-0)
+LastLogin       = 1148210507
+LastLogout      = 1148212900
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33143,32428,9]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,104357,0,116000,100)
+Skill = (1,19,0,0,0,0,0,0,0,0,0,88414,1100,91639,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,229,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,21791,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,4491,1800,6824,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7036,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,20,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,29,1100,42,20)
+Skill = (14,0,1200,0,0,0,1068,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,31,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,39,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,5,6,8,10,20,29,88}
+QuestValues = {(20,1),(49,1),(96,1),(97,1),(98,1),(115,1),(217,3),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2867 Content={3492 Amount=12, 3031 Amount=67, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3492 Amount=100, 3031 Amount=100, 3582 Amount=2, 3031 Amount=100, 3286, 3577 Amount=2, 3492 Amount=100, 2874, 2874, 2874, 2874, 2874, 3457, 3003}},
+               4 Content={3380},
+               5 Content={3415},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               4 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="lord healer\nedron" Editor="Lord Healer"}, 3502}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853, 2853}, 2853, 2853}, 3507 String="lord healer\ndarashia" Editor="Lord Healer"}, 3504 Content={2853 Content={2853}, 3507 String="lord healer\ndarashia" Editor="Lord Healer"}, 2854 Content={2853 Content={2853 Content={2853 Content={3264, 3264, 3264, 3264, 3264}, 3264, 3264, 3264, 3264, 3264, 3264, 3264}, 3264, 3264, 3264, 3264, 3264, 3264, 3264}, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264, 3264}, 2866 Content={2853 Content={2853 Content={2853 Content={2859 Content={2853 Content={2853 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3504 Content={3507 String="lord healer\ndarashia" Editor="Lord Healer", 2853 Content={2853}}, 3504 Content={2853 Content={2853, 2853, 2853}, 3507 String="lord healer\ndarashia" Editor="Lord Healer"}, 3504 Content={2853, 3507 String="lord healer\ndarashia" Editor="Lord Healer"}, 3504 Content={2853, 3507 String="lord healer\ndarashia" Editor="Lord Healer"}, 3504 Content={3507 String="lord healer\ndarashia" Editor="Lord Healer"}, 3502 Content={3031 Amount=42, 3031 Amount=100, 3035 Amount=31, 2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2866 Content={3492 Amount=47, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2393, 2393, 2667}, 2871 Content={3582 Amount=1, 3577 Amount=2, 3577 Amount=100, 3582 Amount=54, 3582 Amount=100, 3582 Amount=100, 3066}, 3599 Amount=8, 4871, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 
+               6 Content={3585 Amount=15, 3504 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3008, 3286, 3504 Content={3446 Amount=6, 3447 Amount=100, 3447 Amount=100, 3447 Amount=8, 3349}, 2920 SavedExpireTime=134, 3372, 3502 Content={3377, 2853, 3377, 2853, 2857 Content={3725 Amount=1, 3579 Amount=12, 3590 Amount=38, 3054 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200, 3724 Amount=6}, 2922 SavedExpireTime=178, 2969 KeyNumber=5010, 3308}}}

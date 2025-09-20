@@ -1,0 +1,56 @@
+ID              = 11026797
+Name            = "Soniic Scream"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,95-114-114-79)
+CurrentOutfit   = (134,95-114-114-79)
+LastLogin       = 1148258135
+LastLogout      = 1148258950
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32249,32380,8]
+PlayerkillerEnd = 0
+
+Skill = (0,47,0,1,0,0,0,0,0,0,1,1549474,0,1626200,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,304724,3000,582400,1600)
+Skill = (2,770,770,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,172,230,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,116,116,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1445,1445,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,65,0,10,0,0,0,0,0,0,0,189935,1100,206965,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,69,0,10,0,0,0,0,0,0,0,144250,1100,151740,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,153,1100,165,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,592,1100,678,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1779,1100,1966,20)
+Skill = (14,0,1200,0,0,0,886,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,15,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29}
+QuestValues = {(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(93,1),(94,1),(111,1),(112,1),(115,1),(133,1),(137,1),(142,1),(151,1),(152,1),(190,1),(191,1),(217,3),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3012},
+               3 Content={2870 Content={3031 Amount=73, 3282, 2865 Content={3457, 3003, 2920}, 2869 Content={3031 Amount=12, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2854 Content={2866 Content={2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1}}},
+               4 Content={3370},
+               5 Content={3295},
+               6 Content={3416},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3384, 3093, 3384, 2867 Content={3385, 3052, 3380}, 3504 Content={3372, 3039, 3384, 3507 String="soniic scream\nthais" Editor="Chimera magoo"}, 3502 Content={3035 Amount=6, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               4 Content={2853, 3504 Content={3507 String=" Soniic Scream\nedron" Editor="Soniic Scream"}, 3502}, 
+               5 Content={3003, 3457, 3056 RemainingUses=200, 3275, 3056 RemainingUses=200, 3056 RemainingUses=200, 3457, 3003, 2640, 3412, 3267, 2664 RemainingExpireTime=471, 2854 Content={2667, 2853 Content={2469 Content={3384, 3093, 3007, 2857, 2864, 2871 Content={3384, 2871 Content={3046 SavedExpireTime=1804}}, 2858 Content={3004, 3007, 3007, 3007}}}, 2667, 2667, 2667, 2659, 2667, 2659, 2656, 2656, 2667, 3097 SavedExpireTime=3598, 3097, 3097, 3097}, 2857 Content={3267, 2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 3483, 3083 RemainingUses=150, 3083 RemainingUses=150, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 3507 String="\\" Editor="Soniic Scream", 2667, 3050 SavedExpireTime=1685, 3565, 2473 Content={2854 Content={3292}, 2866 Content={3003, 3003, 3457, 3457, 3003, 3457, 3003, 3003, 3457}, 2854}, 3059, 3017, 3267, 3412, 2640, 2867, 2866, 2866 Content={2872}, 2866 Content={2866 Content={3358, 3358, 3358, 3358, 3358, 3358}, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358, 3358}, 2866 Content={2870}, 2866 Content={3349, 3349, 3349, 3349, 3446 Amount=74, 3446 Amount=100, 3446 Amount=9, 3349, 3349, 3349, 3349, 3349, 2866 Content={2866 Content={2854 Content={2866 Content={2866 Content={2866 Content={2866}}}}}}}, 2866 Content={2865 Content={2854 Content={2866 Content={2866}}}}, 2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866 Content={2866}}}}}}}, 2866 Content={2866 Content={2866 Content={2866 Content={2866}}}}, 2866, 2866 Content={2865 Content={2866 Content={2866 Content={2854 Content={2866}}}}}, 3504 Content={2853 Content={2952, 3483, 3271, 2955}, 3507 String="soniic scream\ndarashia" Editor="Jib Assasin"}, 3502}, 
+               7 Content={3502}}

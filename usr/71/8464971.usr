@@ -1,0 +1,57 @@
+ID              = 8464971
+Name            = "Taro Sama"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,11-50-29-50)
+CurrentOutfit   = (134,11-50-29-50)
+LastLogin       = 1147853464
+LastLogout      = 1147853778
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32667,31625,11]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1167182,0,1238400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,263065,3000,582400,1600)
+Skill = (2,710,710,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,78,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1345,1345,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,64,0,10,0,0,0,0,0,0,0,172075,1100,188059,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,12,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,14,1100,50,50)
+Skill = (9,61,0,10,0,0,0,0,0,0,0,66798,1100,70521,50)
+Skill = (10,59,0,10,0,0,0,0,0,0,0,57220,1100,58195,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,52,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3936,1100,4022,20)
+Skill = (14,0,1200,0,0,0,650,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(14,1),(15,1),(16,1),(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(36,1),(37,1),(38,1),(46,1),(52,1),(53,1),(55,1),(58,1),(59,1),(69,1),(70,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(125,1),(126,1),(129,1),(130,1),(131,1),(132,1),(133,1),(135,1),(136,1),(137,1),(138,1),(139,1),(140,1),(141,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(209,1),(217,3),(222,1),(223,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,6),(249,2),(250,2),(253,1),(254,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2866 Content={3582 Amount=17, 3031 Amount=3}},
+               5 Content={3412},
+               6 Content={3268},
+               9 Content={3007},
+               10 Content={2969 KeyNumber=3650}}
+
+Depots      = {0 Content={2853 Content={3353, 2871 Content={3304, 3304, 3035 Amount=50, 2906, 2970 KeyNumber=3800, 3188 Charges=1, 3172 Charges=3, 3148 Charges=1, 3172 Charges=3, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3188 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 3120, 3120, 3120, 3120, 3104, 3104}, 2870 Content={2816 String="So many evil creatures!\nI'm heavily injured.\nThese are my last words ...\nRevenge my death!\n\nGygil", 2853 Content={3105, 3104, 3120}, 2853 Content={3576, 3598 Amount=7, 2970 KeyNumber=3801, 3598 Amount=20}}, 3504 Content={3446 Amount=1, 3507 String="Taro Sama\nThais" Editor="Taro Sama"}, 3504 Content={3507 String="Taro Sama\nThais" Editor="Kelinas"}, 3504 Content={3483, 3507 String="Taro Sama\nTHAIS"}, 3504 Content={3507 String="Taro Sama\nthais"}, 2854, 2868 Content={3031 Amount=10, 3457}, 3592, 3448 Amount=1, 3503 Content={3503 Content={3503, 3503}, 3507, 3507, 3507, 3507}, 3337, 3605 Amount=1, 3502}, 
+               1 Content={2854, 2868, 3502}, 
+               2 Content={3446 Amount=47, 3723 Amount=100, 3316, 3147, 3147, 3308, 3456, 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 2814 String="How to use magic fields and walls in combat?\n by ishara.\n\n...", 3059, 3492 Amount=91, 3502 Content={3507, 3316, 2969 KeyNumber=3600}}, 
+               3 Content={3504 Content={2871, 3035 Amount=3, 3031 Amount=56, 2969 KeyNumber=3033, 3507 String="taro sama\nab'dendriel\n" Editor="Dragon of Legendary"}, 3504 Content={3507 String="taro sama\nab'dendriel" Editor="Taro Sama"}, 2865 Content={2853, 2853 Content={2853 Content={3430}, 3283}}, 2865 Content={2955, 2865 Content={2969 KeyNumber=3033, 3492 Amount=7}, 2856 Content={2853, 3059}, 3172 Charges=1}, 2865 Content={3552, 3353, 3425, 3336, 3289, 3310, 3336}, 2868 Content={3092 SavedExpireTime=1794, 3097 SavedExpireTime=3593, 3301, 3301, 3507 String="kamatari\nvenore\n", 3277 Amount=29, 3600 Amount=5, 2867 Content={3059, 2970 KeyNumber=4503, 2973 KeyNumber=5050, 3456, 1781 Amount=2, 3463, 3483, 3483, 3097 SavedExpireTime=3598, 2991, 2991}}, 2865 Content={3447 Amount=7}, 3502 Content={3268}}, 
+               5 Content={3504, 3425, 3054 RemainingUses=200, 3265, 2469, 3502 Content={3147, 3147, 3003, 3276, 2469, 2969 KeyNumber=3033, 3483, 3504 Content={3045 RemainingUses=200, 3595 Amount=5, 3308, 3483}, 3447 Amount=1}}, 
+               6 Content={3504 Content={3507 String="taro sama\nvenore" Editor="Mari Tetitas"}, 3354, 3551, 3446 Amount=2, 3502 Content={2854 Content={3008, 3441, 3311, 2853 Content={3552, 3008, 2664 RemainingExpireTime=116}, 3375, 2853 Content={3012, 3084 RemainingUses=244, 3658, 3056 RemainingUses=200, 3454, 3012}, 3552, 3307}, 2854 Content={3085 RemainingUses=200, 3059, 3059, 3017, 3456, 2853 Content={3592, 3592, 3592, 3592, 3592, 3592, 3592}, 3456, 2853, 2853 Content={3585 Amount=2, 3592, 3097, 3595 Amount=4}, 3565, 3459, 3463, 2857, 2854, 3076, 2874}, 2866 Content={2906, 2853 Content={3585 Amount=73, 3598 Amount=97, 3601 Amount=2, 3579 Amount=2}, 2842 String="gais", 2865, 2854, 2854, 2865, 2867}, 2867 Content={3142, 3085 RemainingUses=196, 2991}, 2867 Content={3454, 3056 RemainingUses=200, 2969 KeyNumber=5010, 2969 KeyNumber=4600, 3308, 3008, 3008, 3008}, 2871 Content={2969 KeyNumber=4600, 3012, 2853 Content={3463, 2989, 2969 KeyNumber=3600, 3451, 3083 RemainingUses=150, 3085 RemainingUses=200}, 2853 Content={3008, 3008, 3008, 2906, 3017, 2955, 3563}, 2853 Content={3008, 3083 RemainingUses=150, 3083 RemainingUses=150, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2874, 3456, 3289, 3205, 3595 Amount=3, 3056 RemainingUses=200, 2989, 3209, 3077, 3017, 2865 Content={2869 Content={3552, 3307, 3292, 3283, 3289, 3310}, 3374, 2854}, 2857 Content={3209, 3017, 2969 KeyNumber=5010, 3097}, 2826 String="Diary of Morrin\n\nIt seems, I found the entrance to the library. Unfortunately the door is closed, but somehow i have to get in. I searched around, but everyone I met claimed he hasn't got the key... I believe this guy with the red shoes and the blue trousers, who eats rolls with ham all day long, has it; he seems suspicious to me... he didn't seem to trust me, and I think, that is the reason why I didn't get the key. Maybe somehow I can show him, that he can trust me...\n\nYEAH! I got it! I got the key to the library, and I hope, I can find a solution for my problems there! Somehow I convinced the old man to trust me, and finally we were real good friends! What a pity, I had to leave the library before dawn..."}}}, 
+               7 Content={3504 Content={3585 Amount=2, 2870 Content={2853}, 3507 String="taro sama\nankrahmun" Editor="Taro Sama"}, 3502 Content={2868}}, 
+               8 Content={3502}}

@@ -1,0 +1,53 @@
+ID              = 11016311
+Name            = "Brushath Dede"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,87-87-19-88)
+CurrentOutfit   = (129,87-87-19-88)
+LastLogin       = 1136153497
+LastLogout      = 1136153536
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31783,7]
+PlayerkillerEnd = 0
+
+Skill = (0,9,0,1,0,0,0,0,0,0,1,9011,0,9300,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,180,3000,1600,1600)
+Skill = (2,194,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,20,40,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,78,78,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,495,495,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,1852,1100,1853,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,266,1100,305,50)
+Skill = (9,22,0,10,0,0,0,0,0,0,0,1134,1100,1226,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,32,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,15,0,10,0,0,0,0,0,0,0,137,1100,154,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {10}
+QuestValues = {(217,3),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2853 Content={2853, 3003, 2969 KeyNumber=3033, 3590 Amount=2, 3578 Amount=4}},
+               4 Content={3357},
+               5 Content={3305},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               10 Content={2911 SavedExpireTime=2665}}
+
+Depots      = {1 Content={3327, 2911 SavedExpireTime=1295, 3504 Content={3509, 3035 Amount=2, 3056 RemainingUses=200, 3299, 3504 Content={3112, 2853 Content={2853 Content={2853}}, 3504 Content={3507 String="Ascasa Cadistall\nCarlin" Editor="Ascasa Cadistall", 3504 Content={2853, 2853, 2853, 3507 String="samiz aybara\ncarlin" Editor="Ferbaruz"}, 3504 Content={3504 Content={3504, 3507 String="Ascasa Cadistall\ncarlin" Editor="Ascasa Cadistall"}, 3507 String="Inu crazzy\ncarlin" Editor="Deahor Borgo"}, 3507 String="Skype\nCarlin" Editor="Skype"}, 3031 Amount=99, 3470, 3504 Content={1781 Amount=4, 3507 String="elemental'dio\ncarlin\n"}, 3507 String="elemental'dio\ncarlin\n"}, 3504 Content={3114 Amount=3, 3291, 3267, 3273, 3276, 3294}, 3272, 3563, 2853 Content={3122, 3376, 3462, 3378, 3462, 3462, 3294, 3294}, 3105}, 3552, 2901, 3430, 2471 Content={2853 Content={3003, 3123, 3492 Amount=1, 2853 Content={3276, 3147, 3286, 2881}}, 3031 Amount=100, 3273, 3362, 3362, 3457, 3003, 3003, 3377, 3377, 2911 SavedExpireTime=2009, 3447 Amount=6, 3378, 3504 Content={3031 Amount=13, 3276, 3374, 2981, 2985, 2983, 2984, 3507 String="Skype\nCarlin" Editor="Skype"}, 3504 Content={3003, 3308, 3129, 3430, 3456, 3003, 3122, 3736 Amount=1, 3003, 3504 Content={3504 Content={3462, 3300, 3276, 3457, 3003, 3276, 3507 String="\ncarlin" Editor="Rompescatole"}, 3507 String="Rend Arck\nCarlin" Editor="Lucyc Nolrus"}}}, 3430, 3003, 2473 Content={3378, 3378, 3577 Amount=3, 3552, 2815, 3374, 3300, 3273, 3378, 2911 SavedExpireTime=2274}, 3378, 3582 Amount=1, 3374, 3504 Content={2874, 2874, 3362, 3462, 3378, 3374, 3277 Amount=1, 3430, 3504 Content={3504 Content={3504 Content={3507 String="Xavila Asen\nCarlin\n"}, 3507 String="Xavila Asen\nCarlin"}, 3507 String="Xavila Asen\nCarlin"}, 3507 String="Xavila Asen\nCarlin"}, 2981, 3430, 3504 Content={3276, 3274, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3374, 3378, 3003, 2874, 3552, 3504 Content={3504, 3507 String="shadow-archer\ncarlin"}}, 3003, 2916, 3378, 3375, 3273, 3374, 3337, 3378, 3504 Content={3376, 3430, 3559, 3291, 3505 String="Querido Papai Noel hoje é noite de Natal,estou feliz pelos meus parentes e amiguinhos porque hoje papai do céu vai abençoa-los e amálos ainda + nessa data tão especial que as crianças do mundo todo tenham um Natal como o meu.       Beijos Papai Noel e pra senhora também Mamãe Noel e para os duendes e fadas                  UM FELIZ NATAL!", 3559, 3559, 3504 Content={3456}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}, 3507 String="Bruno Chaz\nCarlin"}, 3504 Content={3430, 3504, 3337, 3294, 3374, 3506 String="Spider Zenze\nCarlin\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\nCopyright 1996-2005 CipSoft GmbH.", 3376, 3504 Content={3507 String="lucan dragon\ncarlin"}, 3504, 3507 String="sir'irica\ncarlin"}, 3483, 2853 Content={3504 Content={3362, 3003, 3507 String="Bruno Chaz\nCarlin", 3507 String="Rolandoroly\ncarlin\n", 3504 Content={3507 String="adonis soul\ncarlin"}, 3507 String="Hell druid saint\nCarlin", 3507 String="Lafak Knight\nCarlin", 3507, 3507 String="eder falcon\ncarlin", 2919}, 2911, 3504 Content={3507 String="Edur Draf\ncarlin\n"}, 3504 Content={3507 String="Edur Draf\ncarlin\n"}, 3504 Content={3507 String="Edur Draf\ncarlin\n"}, 3507 String="escrevi e sai correndo pauu no cu de quem ta lendo", 3538, 2853}, 3502 Content={2916, 3492 Amount=2, 2983, 3300, 3457, 3286, 3504 Content={2880, 3565, 3504 Content={3174 Charges=5}, 3008, 3174 Charges=5, 3174 Charges=4, 3377, 2870 Content={3375, 3425, 3282, 3031 Amount=9, 3147, 3147, 3147, 3147, 3147, 3147, 3457, 3003}, 3507 String="Darcus Hibo\nCarlin" Editor="Sup Kamil", 3507 String="Kaywada\ncarlin" Editor="Baron Infernus"}, 3430, 3736 Amount=1, 3003, 3483, 3277 Amount=1, 3300, 3003, 3466, 3003, 2873, 3378, 3147, 3267, 3003, 3552, 3274, 2893, 3426, 3411, 2853 Content={2393, 3008, 2991, 3056 RemainingUses=200, 2853}, 3504 Content={3130, 3465, 3504 Content={2862, 3003, 3459, 3507 String="\n"}, 2401, 2868, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3457, 3003}, 2853 Content={3276, 2873, 3003, 3352, 3535, 3492 Amount=100, 2815 String="Huv stollan match stuf from humutown. \nBut never wull fund us.", 2881}, 2853 Content={3492 Amount=45, 3305, 3276, 3276, 3276, 3599 Amount=8, 3362, 2853 Content={3456, 3003, 3031 Amount=100, 2969 KeyNumber=4600, 3588 Amount=50}}}}}

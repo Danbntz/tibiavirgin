@@ -1,0 +1,56 @@
+ID              = 9166779
+Name            = "Sindrome feck"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,19-95-114-0)
+CurrentOutfit   = (128,19-95-114-0)
+LastLogin       = 1148001441
+LastLogout      = 1148001498
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31683,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,102662,0,116000,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,108315,1400,111701,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,85,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9628,1100,9834,100)
+Skill = (7,52,0,10,0,0,0,0,0,0,0,16644,1100,17772,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,161,1200,181,50)
+Skill = (9,20,0,10,0,0,0,0,0,0,0,1361,1200,1607,50)
+Skill = (10,20,0,10,0,0,0,0,0,0,0,1388,1200,1607,50)
+Skill = (11,23,0,10,0,0,0,0,0,0,0,2875,1200,2959,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,34,0,10,0,0,0,0,0,0,0,1841,1100,1966,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,23,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,15,20,29,30,42,48,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(69,1),(96,1),(97,1),(98,1),(106,1),(107,1),(125,1),(126,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3008},
+               3 Content={2853 Content={3448 Amount=5}},
+               4 Content={3377},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=80}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3504 Content={3507 String="sindrome feck\ncarlin"}, 3504 Content={3507 String="sindrome feck\ncarlin"}, 3502}, 
+               2 Content={3504 Content={2853 Content={}, 2853 Content={}, 3507 String="sindrome feck\nkazordoon"}, 3502 Content={}}, 
+               3 Content={2854 Content={3031 Amount=16, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2969 KeyNumber=3033, 3003}, 3483, 3350, 3492 Amount=83, 3507 String="we no te gastes la arrows  -.- no me las ise alo pendejo\n\n" Editor="Sindrome feck", 3504, 2853 Content={2853 Content={3504 Content={3507 String="Sindrome feck\ncarlin" Editor="Sindrome feck", 3350}, 3066, 3074, 3076}, 2853 Content={2853}}, 3059, 2865 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=42, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}, 3308, 2854 Content={3504 Content={3507 String="sindrome feck\nthais" Editor="Sindrome feck"}, 3504 Content={3507 String="sindrome feck\nab'dendriel" Editor="Sindrome feck"}}, 3412, 3277 Amount=15, 3483, 3457, 2469 Content={3307, 2853 Content={2969 KeyNumber=3033, 2867 Content={3097 SavedExpireTime=3577, 3054 RemainingUses=200, 3054 RemainingUses=200, 3207 Amount=1, 3097, 3056 RemainingUses=200, 3056 RemainingUses=200, 3299}}, 3505 String="spike sword (Atk:24 Def:21)--- fire axe (Atk:38 Def:16).--tower shield (Def:32). and 2 plate armor" Editor="Sindrome feck", 3504 Content={3507 String="elpredicador\nab'dendriel\n" Editor="Sindrome feck"}}, 2853 Content={3457, 2865 Content={3412, 3308, 3277 Amount=29}}, 2853 Content={3012, 2969 KeyNumber=3033, 2854, 3097 SavedExpireTime=2350}, 2853 Content={2854, 2983, 3268}, 3502 Content={3483, 3350, 3268, 3056 RemainingUses=200, 3293, 3301, 3308, 3457, 3457, 3457, 3292, 3310, 2839}}, 
+               6 Content={3502}}

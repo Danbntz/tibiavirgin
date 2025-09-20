@@ -1,0 +1,56 @@
+ID              = 8606687
+Name            = "Flame Drone"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,95-114-114-95)
+CurrentOutfit   = (129,95-114-114-95)
+LastLogin       = 1147752240
+LastLogout      = 1147752261
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32180,32375,9]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,409034,0,452600,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,298310,3000,582400,1600)
+Skill = (2,530,530,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,99,150,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1045,1045,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,232428,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,74,0,10,0,0,0,0,0,0,0,226406,1100,244685,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,105,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,6805,1100,7280,20)
+Skill = (14,0,1200,0,0,0,918,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,7,0,41,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,1,1,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,76,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(37,1),(55,1),(106,1),(107,1),(125,1),(126,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3572},
+               3 Content={2854 Content={3582 Amount=28, 3160 Charges=1, 3003, 3457}},
+               4 Content={3380},
+               5 Content={3430},
+               6 Content={3323},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2968 KeyNumber=3940}}
+
+Depots      = {0 Content={3504 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="Flame Drone\nthais\n"}, 3504 Content={2854 Content={3160 Charges=1, 3147, 3147, 3147, 3147, 3147}, 3507 String="Flame Drone\nthais"}, 3502 Content={3369, 3370, 2992 Amount=5, 3269, 3265, 3029 Amount=4, 3093, 3012, 2854 Content={2869 Content={2865 Content={2869 Content={2854}}}}, 3293, 2968 KeyNumber=3940, 3483, 2920, 2920, 2853 Content={2920 SavedExpireTime=199, 3503 Content={3507 String="Flame Drone \nThais"}, 3503 Content={3507 String="Flame Drone \nThais"}, 3503 Content={3507 String="Flame Drone\nThais"}}, 3274, 2920 SavedExpireTime=594, 2920, 2920 SavedExpireTime=169, 2920 SavedExpireTime=191, 2920, 2920, 2920, 3448 Amount=5, 2920, 2854 Content={2920, 2920 SavedExpireTime=598, 3483, 3083 RemainingUses=150, 3093, 3077, 3084 RemainingUses=250, 3098 SavedExpireTime=447, 3350, 2854 Content={2865 Content={2854 Content={2869 Content={2865 Content={2866 Content={2870 Content={2854}}}}}}}, 3447 Amount=24, 3350, 2911 SavedExpireTime=2996, 2911, 3050, 3305, 2920}, 2920 SavedExpireTime=236, 2920, 2854 Content={2854 Content={3003}, 2865}, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3046 SavedExpireTime=1746, 3357, 3582 Amount=98, 3031 Amount=96, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3268, 3412, 3492 Amount=89, 3492 Amount=100, 3035 Amount=88}}}, 
+               1 Content={3502 Content={2870 Content={3046 SavedExpireTime=2995, 3565, 3084 RemainingUses=224, 3372}}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={}}}

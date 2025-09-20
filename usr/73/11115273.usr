@@ -1,0 +1,60 @@
+ID              = 11115273
+Name            = "Madame Sazu"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (140,59-132-113-92)
+CurrentOutfit   = (140,59-132-113-92)
+LastLogin       = 1148253802
+LastLogout      = 1148255885
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32343,32221,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,615167,0,658000,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,518942,1100,528063,1600)
+Skill = (2,266,320,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,845,845,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,740,740,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,55283,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,6,2000,30,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,3235,2000,6350,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,14,2000,50,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,450,2000,750,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,209,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,46,0,10,0,0,0,0,0,0,0,6050,1100,6600,20)
+Skill = (14,0,1200,0,0,0,467,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,222,222,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,11,15,16,18,19,20,22,25,26,27,29,30,38,39,44,45,50,75,76,81,87,88,89}
+QuestValues = {(1,4),(2,6),(17,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(38,1),(41,1),(42,1),(43,1),(44,1),(54,1),(56,1),(59,1),(60,1),(106,1),(107,1),(111,1),(112,1),(121,1),(125,1),(126,1),(128,1),(151,1),(152,1),(190,1),(191,1),(211,4),(217,3),(224,1),(254,1),(333,1)}
+Murders     = {1145825226,1146229688,1146229964}
+
+Inventory   = {1 Content={3385},
+               2 Content={3045 RemainingUses=185},
+               3 Content={2867 Content={3046 SavedExpireTime=678, 3582 Amount=14, 3457, 3505 String="Madame Sazu\n\nHunting Here !! Respect \n\nNo te robes la carta -.-|" Editor="Madame Sazu", 3200 Charges=2, 3198 Charges=2, 3003}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3071}}
+
+Depots      = {0 Content={2854 Content={3035 Amount=26, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3446 Amount=14, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2853 Content={3589 Amount=4}, 3502 Content={2854 Content={3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110, 3110}, 2854 Content={3457, 3457}, 2854 Content={2824 String="Armaments, Chapter Two, Verses Nine to Twenty-One.\n\nAnd the Lord spake, saying:\n\"First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shalt be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thou foe, who being naughty in my sight, shall snuff it.\"", 2842, 3078, 2989, 2989}, 2854 Content={3077, 3084 RemainingUses=250, 3012, 2854, 2854, 3552}, 2854 Content={3316, 3074, 3456, 3452}}}, 
+               1 Content={2955, 3059, 3056 RemainingUses=200, 3050, 3502}, 
+               3 Content={3504 Content={3507 String="madame sazu\nab'dendriel" Editor="Arcangel Din"}, 2869 Content={3590 Amount=1, 3585 Amount=1, 3587 Amount=1, 3593, 3592, 3292, 3538, 3541, 3544, 3546, 3542, 3540, 3539, 3545, 3535, 3536}, 3502}, 
+               4 Content={3502}, 
+               5 Content={3350, 2968 KeyNumber=3940, 2866 Content={3059, 3483}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="madame sazu\nankrahmun\n" Editor="Mount Cesar"}, 3031 Amount=1, 3502 Content={3114 Amount=1}}, 
+               8 Content={3502}}

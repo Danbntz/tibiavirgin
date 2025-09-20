@@ -1,0 +1,60 @@
+ID              = 9901453
+Name            = "Tortas Fraile"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,132-114-95-114)
+CurrentOutfit   = (134,132-114-95-114)
+LastLogin       = 1148234981
+LastLogout      = 1148236333
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32592,31702,7]
+PlayerkillerEnd = 0
+
+Skill = (0,33,0,1,0,0,0,0,0,0,1,500111,0,548900,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,500538,1100,528063,1600)
+Skill = (2,310,310,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,785,785,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,102,102,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,720,720,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,36109,1500,38723,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,88,1800,181,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,17560,1800,22252,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,190,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,28,0,10,0,0,0,0,0,0,0,974,1100,1023,20)
+Skill = (14,0,1200,0,0,0,526,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,8,9,10,16,18,20,29,38,39,44,75,81,84,85,87,88}
+QuestValues = {(46,1),(49,1),(59,1),(60,1),(88,1),(89,1),(90,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(125,1),(126,1),(190,1),(191,1),(208,1),(224,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2853 Content={3031 Amount=52}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3504 Content={3507 String="Tortas Fraile\nThais" Editor="Dragoon Wake"}, 3504 Content={3507 String="Tortas Fraile\nThais" Editor="Dragoon Wake"}, 3502}, 
+               1 Content={2955, 3502}, 
+               2 Content={3723 Amount=50, 3504 Content={3507 String="tortas fraile\nkazordoon\n" Editor="Naruto Saint", 3357}, 3502}, 
+               3 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3349, 2853 Content={3305, 2853 Content={3503 Content={3507}}}, 2853 Content={3430, 3266, 3282}, 3504 Content={3492 Amount=59, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3502}, 
+               4 Content={3582 Amount=100, 3279, 3007, 3046, 2656, 3577 Amount=100, 2394, 3042 Amount=1, 3046 SavedExpireTime=2024, 2656, 3577 Amount=100, 2394, 3042 Amount=1, 3046, 3046, 2853, 2656, 3072, 2656, 2656, 2394, 2974, 3046 SavedExpireTime=2992, 3271, 3046, 2656, 3073, 3046, 2656, 3046, 2664 RemainingExpireTime=568, 2656, 3066, 3046, 2656, 2854 Content={3275, 2867 Content={2867 Content={2865 Content={2866 Content={2868 Content={2872 Content={2854 Content={2870 Content={2854 Content={2865 Content={2870}}}}}}}}}}, 3042 Amount=1, 2859 Content={3046, 3046, 3046}}, 2854, 2869, 3305, 3446 Amount=100, 3446 Amount=100, 3446 Amount=10, 3305, 3446 Amount=50, 2635, 2469, 3504 Content={3507 String="cheryl\nankrahmun" Editor="Cheryl"}, 3504 Content={3507 String="Kristan Salenu\nAnkrahmun" Editor="Eraell"}, 3504, 3504 Content={3507 String="Kristan Salenu\nAnkrahmun" Editor="Eraell"}, 2469, 2469, 2472, 2469, 2469, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Stonehome Village 6\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3425, 3425, 3425, 3504 Content={3507 String="tortas fraile\nedron" Editor="Carcashi"}, 3504 Content={2854 Content={2868, 2854, 2854, 2854, 2854, 2867}, 3507 String="Tortas Fraile\nedron" Editor="Tortas Fraile"}, 2973 KeyNumber=3520, 2469 Content={2857, 2389, 2398, 2396}, 2969 KeyNumber=3033, 3502 Content={3003}}, 
+               5 Content={2868 Content={3059, 3059, 3059, 3059, 3059, 3059, 3059, 3059, 3059, 3059, 3059}, 3457, 3042 Amount=1, 2991, 3289, 3504 Content={2870 Content={3658, 3658, 3658, 3046, 3046, 3046, 3046, 3046, 3046, 3046}, 2865 Content={3591 Amount=7, 3588 Amount=60, 3590 Amount=86, 3504 Content={2869 Content={2854 Content={2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647, 2647}, 2867 Content={2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659, 2659}, 2854 Content={2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653}, 2867 Content={2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393, 2393}, 3076, 2867 Content={3658, 3658, 3658, 2393, 2393, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658, 3658}, 2869 Content={3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}}, 3507 String="tortas fraile \nvenore" Editor="Tortas Fraile", 3092 SavedExpireTime=1117, 3050 SavedExpireTime=1795, 3092}, 3584 Amount=35}, 2867 Content={2854, 2854 Content={2870, 2867, 2867, 2869, 2869, 2867, 2867, 2866, 2854, 2854, 2854, 2854, 2854, 2866, 2868, 2854, 2867, 2854, 2854, 2854}, 2866, 2870, 2867, 2867, 2869, 2865}, 3507 String="tortas fraile\ndarashia" Editor="Tortas Fraile"}, 3093 SavedExpireTime=1745, 3093, 3502 Content={3007, 3007, 3449 Amount=42, 3449 Amount=100, 3583 Amount=6, 3147, 2854 Content={3070, 2969 KeyNumber=5010, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3065, 3066, 3279, 3279, 3061, 3039, 3082 RemainingUses=50, 3085 RemainingUses=200}}}, 
+               6 Content={3502 Content={2473 Content={3035 Amount=44}, 2473 Content={3377, 3351}, 2473 Content={3582 Amount=6}, 2473 Content={3065}, 2473, 2473 Content={3077}, 2473 Content={3003, 2842, 3504 Content={2969 KeyNumber=5010, 3050, 3350, 3084 RemainingUses=72}}, 2473 Content={3504 Content={2969 KeyNumber=5000, 3446 Amount=30, 3308, 2853 Content={3052 SavedExpireTime=154, 3051 SavedExpireTime=537}, 3507 String="tortas fraile\nvenore" Editor="Sir caritax"}}}}, 
+               7 Content={3377, 3577 Amount=88, 3147, 3147, 3147, 3147, 3147, 3046, 3046, 3502 Content={3305, 3425, 3492 Amount=66, 3492 Amount=100}}}

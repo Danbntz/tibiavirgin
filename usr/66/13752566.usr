@@ -1,0 +1,57 @@
+ID              = 13752566
+Name            = "Nena Astral"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (142,116-92-114-92)
+CurrentOutfit   = (142,116-92-114-92)
+LastLogin       = 1147760665
+LastLogout      = 1147760729
+StartPosition   = [32595,32744,6]
+CurrentPosition = [32589,32756,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,31031,0,37800,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,182826,1100,193759,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8172,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,19,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,26,2000,50,50)
+Skill = (10,15,0,10,0,0,0,0,0,0,0,2148,2000,3150,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,18,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1593,1100,1769,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,6,10,11,20,26,29,44,76,81,87,88,89}
+QuestValues = {(17,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(31,1),(84,1),(85,1),(86,1),(87,1),(223,1),(224,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=40, 2854, 3601 Amount=1, 2853, 3148 Charges=2}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={2920 SavedExpireTime=576}}
+
+Depots      = {4 Content={3504, 3502}, 
+               5 Content={3502 Content={2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2853 Content={3264, 3264, 3286, 3264}, 3492 Amount=54, 3577 Amount=5, 3582 Amount=25}}, 
+               6 Content={3502}, 
+               8 Content={3577 Amount=20, 3504 Content={3504 Content={3504 Content={3507 String="nena astral\nport hope" Editor="Boldemox"}, 3507 String="Nena Astral\nport hope" Editor="Eloth Garin"}, 3507 String="Nena Astral\nPort Hope" Editor="Nena Astral"}, 3502 Content={2864 Content={3071, 2854 Content={3384, 3075, 3074, 3557, 3355, 3559, 3377}, 3552, 3412, 3276, 3557, 3054 RemainingUses=200, 3351}, 2861 Content={3556, 3507 String="Te quiero muchisisisimo sis\n" Editor="Sleepy Astral", 2992 Amount=4, 3083 RemainingUses=150, 3054 RemainingUses=200, 2903}, 2857 Content={3483, 3492 Amount=33, 3492 Amount=100}, 2857 Content={3298 Amount=1, 3033 Amount=1}, 2869 Content={3577 Amount=8, 3578 Amount=15, 3582 Amount=3, 3583 Amount=4, 3606 Amount=4, 3607, 3590 Amount=7, 2881 ContainerLiquidType=12, 2874 ContainerLiquidType=9, 3588 Amount=42, 3592}, 2866 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3153 Charges=1, 3148 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=1, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 2853 Content={2854 Content={3160 Charges=1}, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3, 3164 Charges=3}}, 2872 Content={2920, 3104, 3104, 3104}, 2870 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3031 Amount=28, 3031 Amount=100, 3031 Amount=100, 3035 Amount=10}}}}

@@ -1,0 +1,56 @@
+ID              = 11359648
+Name            = "Smerf Leader"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,115-94-114-0)
+CurrentOutfit   = (128,115-94-114-0)
+LastLogin       = 1145537560
+LastLogout      = 1145537572
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32343,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,338123,0,368300,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,95974,3000,193600,1600)
+Skill = (2,129,500,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,11,140,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,995,995,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,46,0,10,0,0,0,0,0,0,0,31340,1100,33003,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,52,0,10,0,0,0,0,0,0,0,28317,1100,29620,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,25,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,24,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,382,1100,427,20)
+Skill = (14,0,1200,0,0,0,779,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(17,1),(18,1),(24,1),(28,1),(30,1),(32,1),(33,1),(34,1),(37,1),(59,1),(60,1),(61,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(106,1),(107,1),(113,1),(114,1),(125,1),(126,1),(190,1),(192,1),(206,1),(217,3),(224,1)}
+Murders     = {1145535479}
+
+Inventory   = {1 Content={3375},
+               2 Content={3083 RemainingUses=150},
+               3 Content={2868 Content={3031 Amount=51, 2854, 3582 Amount=3, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3271},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3271, 3577 Amount=20, 3301, 2973 KeyNumber=3520, 3031 Amount=14, 3349, 3075, 3504 Content={2854 Content={2667, 2667}, 3059, 3301, 3425, 3507 String="Smerf Leader\nthais\n" Editor="Saint The Angel"}, 3504 Content={2854, 3066, 3409, 3313, 3313, 3425, 3031 Amount=70, 3507 String="Smerf Leader\nthais" Editor="Saint The Angel"}, 3502}, 
+               1 Content={3026 Amount=3, 3349, 3481, 3147, 2902, 3504 Content={2866 Content={2955, 2854, 2870 Content={2659, 3504 Content={3147, 3147, 3147, 3147}, 3673}}, 3507 String="Smerf Leader\nCarlin" Editor="Smerf Vice-Leader"}, 2868, 2868 Content={3026 Amount=1, 2854, 3085 RemainingUses=200}, 2865 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3504 Content={2868 Content={3056 RemainingUses=200, 2854}, 3507 String="Smerf Leader\nCarlin\n" Editor="Lanryneczka"}, 2667, 2667, 2854 Content={2973 KeyNumber=3520, 2815 String="Tiger the fight Mesage me\n" Editor="Smerf Leader"}, 2469, 2853, 2868 Content={2853, 3293}, 2992 Amount=5, 2853 Content={2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3738 Amount=1}}, 2854 Content={2874, 3147, 3056 RemainingUses=200, 3308}, 2860 Content={2853 Content={3050 SavedExpireTime=1798, 3148 Charges=3, 3148 Charges=3, 2969 KeyNumber=4055, 2953}, 2969 KeyNumber=3033, 3736 Amount=1, 3658}, 2868 Content={2955, 2955, 3291, 2977, 3308}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

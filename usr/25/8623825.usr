@@ -1,0 +1,60 @@
+ID              = 8623825
+Name            = "Pargon"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,0-0-77-114)
+CurrentOutfit   = (129,0-0-77-114)
+LastLogin       = 1148204589
+LastLogout      = 1148204631
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32335,31785,7]
+PlayerkillerEnd = 0
+
+Skill = (0,46,0,1,0,0,0,0,0,0,1,1486885,0,1522600,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,596736,1400,618272,1600)
+Skill = (2,565,565,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,459,605,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,115,115,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1230,1230,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12725,1100,13420,100)
+Skill = (7,73,0,10,0,0,0,0,0,0,0,132259,1100,133437,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,91,1200,109,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,12,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,946,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3155,1100,3289,20)
+Skill = (14,0,1200,0,0,0,593,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,2,0,17,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,10,20,29,30,45,51,76,79,95}
+QuestValues = {(38,1),(59,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(113,1),(114,1),(116,1),(117,1),(118,1),(121,1),(129,1),(130,1),(131,1),(132,1),(133,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(190,1),(191,1),(192,1),(206,1),(217,3),(222,1),(225,1),(226,1),(257,1),(292,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3572},
+               3 Content={2871 Content={3577 Amount=1, 2872 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3578 Amount=9, 3003, 3483, 3457, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2868}}},
+               4 Content={3380},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3447 Amount=90}}
+
+Depots      = {0 Content={3504 Content={3723 Amount=100, 3507 String="Pargon\nThais" Editor="Lervin"}, 3605 Amount=100, 2872 Content={3446 Amount=14, 2868, 3504 Content={2853, 2854 Content={3298 Amount=4, 2974, 3031 Amount=19, 3050 SavedExpireTime=1774, 2973 KeyNumber=3520, 2867 Content={2867 Content={2868, 3503}, 2991, 2955, 2873}, 2854 Content={3148 Charges=3, 3148 Charges=3}, 2969 KeyNumber=3650, 2969 KeyNumber=4055, 2868 Content={2860, 3174 Charges=5, 3174 Charges=2, 3174 Charges=5, 3174 Charges=5}, 3287 Amount=7}, 3507 String="Pargon\nThais"}, 2872 Content={2867 Content={3287 Amount=14}, 2854 Content={3148 Charges=3}, 2856 Content={2969 KeyNumber=5000, 2906}, 3483, 3505}, 3504 Content={3054 RemainingUses=4, 2969 KeyNumber=4600, 2973 KeyNumber=3520, 3056 RemainingUses=200, 3504 Content={2867 Content={2857}, 3298 Amount=2, 3507 String="Osstattni Shadoowek\nCarlin"}, 2854 Content={2854 Content={2868 Content={2973 KeyNumber=3520, 2970 KeyNumber=4503}}}, 3507 String="pargon\nthais"}, 3504 Content={3507 String="pargon\nthais"}, 3504 Content={3507 String="Pargon\nThais"}, 3504, 2856, 3503, 3504 Content={2853}, 2868 Content={3298 Amount=1, 2906, 3507 String="Moje zeczy - nie na sprzedasz ", 3483, 3456}, 2469, 2869 Content={3507 String="Jedzenie\n"}, 2854 Content={3507 String="Puste plecaki\n" Editor="Pargon"}, 2861 Content={2920 SavedExpireTime=209, 2920 SavedExpireTime=290}, 2854 Content={3277 Amount=8, 2473 Content={2473 Content={2473 Content={2473, 2473, 2473}, 2473}}, 2471 Content={2906, 2906, 2906, 2471 Content={3504 Content={3507 String="knight of da sword\nthais\n"}}, 3504 Content={3507 String="Vedas\nThais" Editor="Pargon"}, 2471, 3504 Content={3507 String="knight of da sword\nthais\n"}, 3504 Content={3507 String="coursant\nthais"}}, 2906, 3336, 2869, 2854, 3456, 3457, 3457, 3456, 3483, 3483}}, 3502 Content={3504 Content={3507 String="xharena\nthais", 3093 SavedExpireTime=1788, 3093}, 3504 Content={3093, 3507 String="xharena\nthais"}, 2853, 2867, 2869 Content={3457, 3457, 3457}, 3504 Content={3456, 3457, 3031 Amount=8, 3507 String="sebastiano leon \nthais\n"}, 3505, 2854 Content={3504, 2867 Content={2868 Content={2854 Content={2866 Content={2854 Content={2854}}}, 2854 Content={2854 Content={2854 Content={2866}}}}, 3012}, 4285 Content={3268}, 3457, 3507 String="z pozdrowieniami od Romana Piormana :)", 3504 Content={3507 String="xharena\nthais"}, 2854 Content={2868, 2866, 2854, 2854, 2854}, 2854 Content={2854, 2868, 2865 Content={2871, 2869, 2854 Content={2854}, 2854, 2854, 2854}}, 2854 Content={2854, 2854, 2854 Content={2854 Content={2854}}, 2870 Content={2854 Content={2854, 2869}}, 2866 Content={2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2854 Content={2869, 2854}, 2854 Content={2854 Content={2854 Content={2854 Content={2854}}}}, 2854, 2854, 2854, 2854 Content={2854, 2866, 2854, 2854, 2854 Content={2867}, 2854}, 2854 Content={2854 Content={2867 Content={2854}}}}, 3577 Amount=3}}}, 
+               1 Content={2973 KeyNumber=3520, 3353, 3059, 2868 Content={3350, 3349, 3349, 3307, 3409, 2853 Content={3200 Charges=3, 3200 Charges=1, 3198 Charges=4, 3198 Charges=4}, 3457}, 2868 Content={3446 Amount=71, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3583 Amount=12, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3502 Content={2871 Content={3277 Amount=76, 3046 SavedExpireTime=1614}, 3198 Charges=4}}, 
+               2 Content={3504 Content={3507 String="pargon\nKazordoon" Editor="Pargon"}, 3502}, 
+               3 Content={2854 Content={2854 Content={2854}, 2854, 2853}, 3483, 2853 Content={3597 Amount=4, 3577 Amount=37, 3582 Amount=7}, 2854 Content={3447 Amount=18, 3350, 3350, 3350}, 2854, 3298 Amount=4, 3502}, 
+               4 Content={3502}, 
+               5 Content={2854 Content={3308, 3483, 3350, 3492 Amount=12, 3492 Amount=100, 3012, 2866 Content={2867 Content={2854 Content={2870}}}}, 3147, 2866 Content={3447 Amount=100, 3301, 3301, 3301}, 3504 Content={2659, 3353, 3353, 3598 Amount=4, 2853 Content={3588 Amount=53, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100, 3588 Amount=100}, 3507 String="pargon\ndarashia"}, 3502}, 
+               6 Content={3506 String="Pargon\nVenore\nWe are going to have a guild house.Please send 1-2k to Druid of Old Republic." Editor="Sharad-Waador", 3504 Content={3507 String="pargon\nvenore" Editor="Castor Reth"}, 3504 Content={3507 String="pargon\nvenore" Editor="Castor Reth"}, 3504 Content={3507 String="pargon\nvenore" Editor="Castor Reth"}, 3504 Content={3507 String="Pargon\nvenore" Editor="Murka Steell"}, 3504 Content={3507 String="pargon\nvenore\n" Editor="Chimera magoo"}, 3502}, 
+               7 Content={3031 Amount=2, 3031 Amount=100, 3198 Charges=1, 3572, 3504 Content={3351, 3444, 3507 String="Pargon\nAnkrahmun" Editor="Gemzis"}, 2866 Content={3447 Amount=8, 3446 Amount=100}, 3082 RemainingUses=15, 3504 Content={2870 Content={3277 Amount=7, 1781 Amount=30, 3042 Amount=2, 3039, 3066, 3059}, 2871 Content={3198 Charges=3, 3449 Amount=11, 3349, 3031 Amount=100, 3177 Charges=1, 3450 Amount=2, 2871 Content={3046, 3046, 3046, 3046}, 3349, 3349, 3349}, 3507 String="pargon\nankrahmun" Editor="Pargon"}, 2866 Content={2854 Content={2854}}, 3492 Amount=100, 3492 Amount=61, 3147, 3349, 3504 Content={2871 Content={2863, 2863, 2863, 2863, 2863, 2871, 2871, 2871, 2871, 2871}, 3507 String="pargon\nankrahmun" Editor="Dziutrix"}, 3504 Content={3507 String="Pargon\nAnkrahmun" Editor="Dziutrix"}, 3504 Content={3349, 3507 String="pargon\nankrahmun" Editor="Lord Xeons"}, 2970 KeyNumber=3303, 2970 KeyNumber=3301, 2969 KeyNumber=3302, 2972 KeyNumber=3304, 2868 Content={3349, 3349, 3349}, 3502 Content={3483, 3349, 2863, 2659, 2650}}, 
+               8 Content={3298 Amount=2, 3084 RemainingUses=250, 2854 Content={3492 Amount=22, 3587 Amount=88, 3586 Amount=27}, 3502 Content={}}}

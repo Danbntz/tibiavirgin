@@ -1,0 +1,60 @@
+ID              = 8481389
+Name            = "Neo Bafomet"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,44-66-29-112)
+CurrentOutfit   = (134,44-66-29-112)
+LastLogin       = 1146890449
+LastLogout      = 1146890722
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32915,32081,7]
+PlayerkillerEnd = 0
+
+Skill = (0,48,0,1,0,0,0,0,0,0,1,1644616,0,1734400,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,322055,3000,582400,1600)
+Skill = (2,785,785,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,214,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,117,117,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1470,1470,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,66,0,10,0,0,0,0,0,0,0,211919,1100,227761,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,95,1400,130,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,82,1100,105,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,51,1100,105,50)
+Skill = (10,71,0,10,0,0,0,0,0,0,0,175331,1100,183711,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,95,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2685,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(36,1),(46,1),(69,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(116,1),(117,1),(118,1),(133,1),(137,1),(151,1),(152,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2872 Content={3031 Amount=59, 3031 Amount=100, 3035 Amount=17, 3723 Amount=20, 2865 Content={3413, 3723 Amount=100, 3505, 3413, 3413, 2865 Content={2854 Content={2854}}}, 3003, 3457, 2854 Content={2866 Content={3092 SavedExpireTime=276, 3092 SavedExpireTime=746, 3092 SavedExpireTime=1562, 3505 String="neo bafomet hunting here\n" Editor="Martim Silkwood", 3092 SavedExpireTime=356, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}, 2867 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3381},
+               5 Content={3320},
+               6 Content={3434},
+               7 Content={3382},
+               8 Content={3552},
+               9 Content={3007}}
+
+Depots      = {0 Content={3504 Content={3507 String="neo bafomet\nthais"}, 2868 Content={2865}, 3502 Content={2854, 2865}}, 
+               1 Content={3003, 3457, 3502 Content={}}, 
+               2 Content={3504 Content={2853 Content={}, 3507 String="neo bafomet\nkazordoon"}, 3502 Content={}}, 
+               3 Content={3506 String="Neo Bafomet\nab'dendriel\n\nOie we ya pasame mis cosas we me dijiste una semana y ya paso una semana pasame no seas gacho we \n\n\nAtte: Oscar" Editor="Alex Qoz", 3506 String="Neo bafomet\nAb'Dendriel\n\nEstas cordialmente invitado al cumpleaños de Santiagoz ke se celebrara en el templo de Thais el viernes 15/sep/05 la fiesta sera a las 10:00 pm (hora tampico) (invitacion para 3 personas)", 3502}, 
+               4 Content={2659, 2659, 2659, 2667, 2659, 2667, 2659, 2659, 2659, 2656, 2659, 2667, 2659, 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 1 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1595 gold\nfor your house \"Wood Avenue 10b\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={}}, 
+               5 Content={3572, 3385, 3502 Content={}}, 
+               6 Content={2866 Content={2866 Content={3092, 3092 SavedExpireTime=1701, 3092 SavedExpireTime=1727, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1633, 3092 SavedExpireTime=1431, 3092 SavedExpireTime=1715, 3092 SavedExpireTime=1753}, 3042 Amount=19, 3035 Amount=80, 3035 Amount=100, 2853 Content={3017, 3017}}, 3302, 2853 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3380, 3415, 3384, 3383, 3557, 2869 Content={3301, 3367, 3367, 3367, 2853, 2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2866 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3350}, 2865 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2868 Content={3357}, 2868 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}}, 3504 Content={2854 Content={2868 Content={3577 Amount=80, 3577 Amount=100, 3492 Amount=29, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3582 Amount=100, 3578 Amount=100}, 2854 Content={2868, 2854, 2865, 2867, 2865, 2854, 2865, 2867}, 3507 String="neo bafomet\nvenore"}, 3502 Content={2865 Content={3301, 3301, 3301, 2865 Content={3046, 3039, 3039, 3046, 3046, 3046, 3046, 3046 SavedExpireTime=2999, 3046, 3046, 3046, 3046, 3046, 3046}, 3084 RemainingUses=250, 3384, 3384, 2855 Content={3283, 3012, 3470, 2856 Content={3282}, 3282}}, 3465, 2473 Content={2867 Content={2781, 3572, 3293, 3412, 2872 Content={3589 Amount=4, 3586 Amount=3, 3587 Amount=14}, 3421, 2970 KeyNumber=3142, 2866 Content={3318, 3269, 3313, 3317, 3298 Amount=1, 3323, 3327, 3316}, 2854 Content={3085 RemainingUses=169, 3008, 3077, 3097, 3097, 3097 SavedExpireTime=3595, 3097}, 2853 Content={3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3085 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3083 RemainingUses=150, 3012}, 2853 Content={3008, 3454, 3565, 3551, 2906, 3463, 2989}}, 2868 Content={2854 Content={2867, 2867, 2867, 2854, 2867, 2865, 2867, 2865, 2865, 2854, 2865, 2865, 2865, 2865, 2870, 2854, 2854, 2867, 2865 Content={2854 Content={2854, 2854}, 2469}, 2865 Content={2854, 2870}}, 2970 KeyNumber=3801, 2970 KeyNumber=3142, 2970 KeyNumber=3800, 2969 KeyNumber=4603, 2969 KeyNumber=5010, 2969 KeyNumber=5000, 3534 Amount=1, 2970 KeyNumber=3899, 2970 KeyNumber=4601, 2969 KeyNumber=3033}, 2865 Content={3456, 3330, 3565, 3012, 3012, 3350, 2914 SavedExpireTime=1994, 3457, 3310}, 2868 Content={3483, 3456, 3292, 3350, 3483, 3299, 3045 RemainingUses=200, 2868 Content={3507 String="neo bafomet\nab'dendriel", 3045 RemainingUses=200, 3004, 3008}, 3448 Amount=2, 3447 Amount=20, 3287 Amount=3, 2868}}}}, 
+               7 Content={3506 String="neo bafomet\nankrahmun\n\n\nte amo wei....:*********", 3330, 3502 Content={}}}

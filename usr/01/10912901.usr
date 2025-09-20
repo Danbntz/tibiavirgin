@@ -1,0 +1,56 @@
+ID              = 10912901
+Name            = "Mac'Stas"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,114-120-114-114)
+CurrentOutfit   = (130,114-120-114-114)
+LastLogin       = 1147784601
+LastLogout      = 1147784604
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32072,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,165606,0,179400,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,161093,1100,174690,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,485,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,25354,1500,25749,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,163,2000,210,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,34,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,20,2000,50,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,14548,2000,25550,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,152,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3402,1100,3638,20)
+Skill = (14,0,1200,0,0,0,40,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,7,8,9,10,16,20,22,27,29,44,45}
+QuestValues = {(18,1),(35,1),(46,1),(59,1),(72,1),(73,1),(74,1),(75,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(115,1),(125,1),(126,1),(190,1),(191,1),(192,1),(206,1),(217,3),(223,1),(224,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=191},
+               3 Content={2854 Content={3031 Amount=39, 3308, 3492 Amount=10, 3075, 3059, 2853 Content={3017, 3017, 3017, 3030 Amount=2, 3028 Amount=3}, 3031 Amount=100, 3031 Amount=100, 3456, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3577 Amount=2, 2853 Content={3164 Charges=1, 3174 Charges=3, 3174 Charges=5, 3198 Charges=3, 3174 Charges=2, 3174 Charges=4, 3174 Charges=5, 3174 Charges=4}, 3160 Charges=1, 3457}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3072},
+               7 Content={3372},
+               10 Content={3003}}
+
+Depots      = {0 Content={3503 Content={3507 String="Mac'Stas\nVenore" Editor="Mac'Stas"}, 3502}, 
+               1 Content={3504 Content={3507 String="Mac'Stas\nCarlin" Editor="Mac'Stas"}, 3504 Content={3507 String="Mac'Stas\nCarlin"}, 3502}, 
+               2 Content={3502}, 
+               3 Content={3503 Content={3507 String="Mac'Stas\nVenore" Editor="Mac'Stas"}, 3502}, 
+               6 Content={3316, 3031 Amount=28, 3147, 3147, 3035 Amount=3, 3031 Amount=100, 3031 Amount=100, 3492 Amount=15, 3483, 3367, 3367, 3031 Amount=100, 3031 Amount=100, 3031 Amount=37, 3578 Amount=34, 3505, 3600 Amount=12, 3504 Content={3507 String="Mac'Stas\nVenore" Editor="Mac'Stas"}, 2906, 3003, 3504 Content={2885, 2885, 2815, 2911 SavedExpireTime=2996, 3471}, 2853, 2920, 3504 Content={3462, 3448 Amount=1, 3507 String="Mac'Stas\nVenore", 2969 KeyNumber=5000, 3003}, 3502 Content={3031 Amount=56, 3603 Amount=68, 3504 Content={3483, 2901, 3447 Amount=100, 3056 RemainingUses=200, 3350, 3350, 3483, 3282, 3008, 3507 String="Mac'Stas\nAb'Dendriel" Editor="Mac'Stas"}, 3504 Content={2873, 3504 Content={3031 Amount=16, 3603 Amount=23, 3447 Amount=9, 3059, 3059, 3739 Amount=1, 2920 SavedExpireTime=208, 3077, 2906, 3483}, 2853 Content={2853, 3453, 2873, 3604 Amount=9}, 3074, 3410, 3374, 3378, 3305, 3264, 3507 String="Mac'Stas\nAb'Dendriel" Editor="Mac'Stas"}, 3031 Amount=100, 2853 Content={3505, 3505 String="\n", 3505, 3505, 3003, 3457, 3457, 3457}, 2853 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2853 Content={3004, 3601 Amount=2, 3585 Amount=4, 3586 Amount=2, 3577 Amount=6, 3588 Amount=60, 3599 Amount=7}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=10, 3035 Amount=100}, 2854 Content={2853 Content={3027 Amount=2, 3008, 3012, 3097, 3026 Amount=1, 3207 Amount=1}, 3483, 3483, 3085 RemainingUses=200, 3052, 3160 Charges=1, 3092 SavedExpireTime=1799, 3046 SavedExpireTime=2992, 3092 SavedExpireTime=1789, 3054 RemainingUses=200, 3054 RemainingUses=200, 3198 Charges=5, 3198 Charges=5, 3191 Charges=2, 3191 Charges=2, 3164 Charges=3, 3164 Charges=2}, 2869 Content={3358, 3349, 3071, 3349, 3377, 3349, 3318, 3421, 3456, 3375, 3375, 3308, 3308, 3308, 3269, 3275}, 3504 Content={3505 Editor="Mac'Stas", 3277 Amount=2, 2969 KeyNumber=3033, 3457, 3269, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3350, 3507 String="Mac'Stas\nVenore" Editor="Mac'Stas"}, 3367, 3367, 2914 SavedExpireTime=1927, 2969 KeyNumber=4055, 2857 Content={2853 Content={2991, 2953, 3572, 3050}, 3046, 3077, 3084 RemainingUses=250, 3098}, 3504 Content={3507 String="Mac'Stas\nVenore"}, 2981}}}

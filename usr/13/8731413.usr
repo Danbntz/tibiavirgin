@@ -1,0 +1,58 @@
+ID              = 8731413
+Name            = "Dark Aivin"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (137,0-95-114-114)
+CurrentOutfit   = (137,0-95-114-114)
+LastLogin       = 1148251863
+LastLogout      = 1148251905
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32386,32267,6]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,99527,0,116000,100)
+Skill = (1,26,0,0,0,0,0,0,0,0,0,181967,1100,193759,1600)
+Skill = (2,223,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,229,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17328,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,16,2000,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,7747,2000,12750,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,2,2000,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,377,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1674,1100,1769,20)
+Skill = (14,0,1200,0,0,0,739,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,7,8,9,10,13,17,19,20,21,29,38,44,45}
+QuestValues = {(19,1),(21,1),(22,1),(23,1),(35,1),(37,1),(55,1),(59,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(140,1),(141,1),(190,1),(191,1),(206,1),(217,3),(223,1),(333,1)}
+Murders     = {1146452616}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2868 Content={3483, 2874, 3003, 3198 Charges=3, 2874, 2968 KeyNumber=3940, 2874, 2874, 3492 Amount=10, 3198 Charges=1}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3072},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=4, 3174 Charges=5, 3174 Charges=1, 3174 Charges=5, 3174 Charges=2, 3174 Charges=5}}}
+
+Depots      = {0 Content={2854 Content={3415, 4315}, 3504 Content={3504 Content={3577 Amount=2, 3507 String="Dark Aivin\nthais" Editor="Felipe Ballester", 2853 Content={3046, 3008}, 3305, 3377, 3084 RemainingUses=249, 3085 RemainingUses=182, 3050, 3316, 3305}, 3410, 3286, 3291, 3504 Content={3425, 3507 String="dark aivin \nthais" Editor="Gustavo Ismanhoto"}, 3507 String="dark aivin\nthais" Editor="Dragon Square", 3286}, 3503 Content={3552, 2854 Content={2874 ContainerLiquidType=10, 3074, 2874, 2874, 2874, 2874, 2874}, 3410, 3410, 3410, 3410, 3507}, 2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3059, 2914 SavedExpireTime=1380, 2857 Content={2653, 3286, 2874 ContainerLiquidType=5, 2874 ContainerLiquidType=2, 3289, 2826 String="Tales of Tibia", 2653}, 3046 SavedExpireTime=2501, 3504 Content={3410, 3093, 3410, 3603 Amount=16, 2874, 3316, 3147}, 3505 String="hola me gusta Lona armor\n", 2839, 3453, 3738 Amount=1, 3505 String="Aqui esta mi parte we...\nSir rekien", 3505 String="oye we q hiciste con todo el money?¿?¿?", 3097 SavedExpireTime=3587, 3097, 3504 Content={2874, 3505 String="rafita devil estuvo aki...el qe lo lea esta hunted asi qe ya saben putostas\n\nPechel: calla perro\n", 2874, 3283, 3285, 3598 Amount=8}, 3045 RemainingUses=188, 2917 SavedExpireTime=2763, 3483, 3289, 3446 Amount=10, 2906, 3506 String="Dark Aivin\nThais\nCongratulations!!\nYou are one of the few selected free account players,\nfor the gift of a totally free 1 day of Premium account.\n", 3506 String="Darthmole\nthais\n\nCongratulations!!\nYou are one of the few selected free account players,\nfor the gift of a totally free 3 months of Premium account.\nWhy did Cipsoft decided to do this for Zaneran players?\nwe want for you to have a full experience of Tibia\nstarting from: explore new areas, beat new challenges\nand feel free to travel all around Tibia.\nSend us your account numer and password to the next\ndirection so we can activate your premium account:\ntibia-gamemasters@hotmail.com.\nyou only have chance to send it before 10/10/05 if not\nthe account will not be activated.\n\nCopyright by CipSoft GmbH. All rights reserved.", 3293, 3505 String="parik Hunt here!\n", 3502 Content={3457, 3031 Amount=39, 3031 Amount=100, 2953, 3033 Amount=2, 3008, 3534 Amount=1, 3504 Content={2874 ContainerLiquidType=11, 3050, 3084 RemainingUses=250, 3077, 2857, 3046, 2874, 2917, 3504 Content={3507 String="Dark Aivin\nThais"}}, 2469 Content={3505, 3505 String="Wrafty\nHere Msg Me Plx", 3505, 2400, 2905, 2905, 3130, 3483, 2469 Content={4285 Content={3503 Content={3507 String="felipe ballester\ncarlin" Editor="Dark Aivin"}, 2853}, 3598 Amount=4, 3147, 2906, 3483, 2991, 3658, 2973 KeyNumber=3520}}}}, 
+               1 Content={3504 Content={3507 String="Dark Aivin\nCarlin"}, 3502 Content={3425}}, 
+               2 Content={3502 Content={3122}}, 
+               3 Content={3502}, 
+               6 Content={3457, 3308, 2880, 2853, 3147, 3059, 2815 Editor="Dark Aivin", 3505 String="k kura -.-\n", 2911 SavedExpireTime=1905, 3308, 3502 Content={3031 Amount=35}}}

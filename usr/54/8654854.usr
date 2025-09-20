@@ -1,0 +1,57 @@
+ID              = 8654854
+Name            = "Andresin de'maniak"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-114-114-94)
+CurrentOutfit   = (128,116-114-114-94)
+LastLogin       = 1148256530
+LastLogout      = 1148257253
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32335,32210,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,625170,0,658000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,351992,1400,440480,1600)
+Skill = (2,455,455,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,124,440,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1010,1010,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,27048,1100,27102,100)
+Skill = (7,70,0,10,0,0,0,0,0,0,0,96843,1100,100178,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,1113,1200,1297,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,269,1200,372,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,124,1200,181,50)
+Skill = (11,21,0,10,0,0,0,0,0,0,0,1909,1200,1979,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,1998,1100,2183,20)
+Skill = (14,0,1200,0,0,0,919,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,86,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,11,20,29,30,42,44,45,49,51}
+QuestValues = {(14,1),(15,1),(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(55,1),(59,1),(67,1),(69,1),(70,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(130,1),(131,1),(137,1),(140,1),(141,1),(151,1),(152,1),(153,1),(190,1),(191,1),(213,1),(214,1),(217,3),(226,1),(253,1),(254,1),(332,1)}
+Murders     = {1147133015}
+
+Inventory   = {1 Content={3391},
+               2 Content={3085 RemainingUses=92},
+               3 Content={2854 Content={3447 Amount=100, 3350, 3447 Amount=61, 2868 Content={3066, 3421}, 3035 Amount=1, 3031 Amount=49, 3446 Amount=100, 3031 Amount=100, 3582 Amount=2, 3003, 2854 Content={3160 Charges=1, 3160 Charges=1, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2854 Content={3483}, 3457}},
+               4 Content={3370},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3446 Amount=40}}
+
+Depots      = {0 Content={3504 Content={3349, 3093, 3507 String="andresin de'maniak\nthais\n" Editor="Andresin de'maniak"}, 3504 Content={3507 String="Andresin de'maniak\nthais" Editor="Condri Paladina"}, 2469 Content={2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3308, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3147, 3147, 3147, 3147, 3147}}, 2853 Content={3377, 3367}, 2854 Content={2853 Content={2969 KeyNumber=3600, 2969 KeyNumber=3302, 2970 KeyNumber=3301, 3457}, 2854 Content={2970 KeyNumber=3800, 2968 KeyNumber=3940, 2969 KeyNumber=5000, 3483, 3483}}, 3279, 3285, 2853 Content={3271, 3384, 3351, 3384, 3351, 3351, 3351}}, 3504 Content={3457, 2870 Content={3277 Amount=6, 4871, 4871, 2970 KeyNumber=3801, 2970 KeyNumber=3800, 2970 KeyNumber=3800, 3548 Amount=1, 3548 Amount=1, 3003, 3456}, 2853 Content={3425, 2853 Content={3349, 2853 Content={3723 Amount=100, 2853 Content={3349, 3349, 3349, 2853 Content={3349, 3349}}}}}, 3507 String="andresin de'maniak\nthais" Editor="Arkangel Infernal"}, 2853 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3583 Amount=7, 3504 Content={3277 Amount=69, 3507 String="andresin de'maniak\nthais" Editor="Andresin de'maniak"}, 2469 Content={3504 Content={3457, 3503 Content={3507}, 2853 Content={3050, 3492 Amount=3, 3483}, 3507 String="andresin de'maniak\nthais\n" Editor="Andresin de'maniak"}}, 2469 Content={3285, 3285, 3456, 3287 Amount=19, 3504 Content={3350, 3277 Amount=20, 3425}}, 3456, 3492 Amount=65, 2853 Content={3093, 3092, 3093, 3085 RemainingUses=88, 3083 RemainingUses=150, 3083 RemainingUses=150, 3029 Amount=2, 3097}, 3506 String="Andresin de'maniak\nthais\n\nCongratulations You Won one Surprise Of Christhmas (Golden armor,Royal Helmet,Boots Of haste) You are Select Among more persons Add this Mesenger\nTibia_administrador@hotmail.com\n(Lenguage: Spanisñ and English)" Editor="Royal Snakex", 3502 Content={2853 Content={3349, 3349, 3349}, 3492 Amount=7, 3050 SavedExpireTime=1794}}, 
+               1 Content={3504 Content={3507 String="andresin de'maniak\ncarlin\n" Editor="Tiimmy Torner"}, 3502}, 
+               2 Content={3504 Content={3507 String="Andresin de'maniak\nkazordoon" Editor="Waterheal"}, 2853 Content={3349, 3349, 3349, 3349}, 2853 Content={3463, 2989}, 2853 Content={2874, 2874, 2874, 2874}, 3050 SavedExpireTime=1791, 3502}, 
+               3 Content={2857 Content={3504 Content={3507 String="andresin de'maniak\nab'dendriel"}}, 3483, 3457, 2853 Content={3483}, 3504 Content={3507 String="andresin de'maniak\nab'dendriel", 3504 Content={2853 Content={}, 3507 String="andresin de'maniak\nvenore"}}, 2970 KeyNumber=3800, 2970 KeyNumber=3801, 3077, 3046 SavedExpireTime=0, 3502 Content={}}, 
+               6 Content={3447 Amount=86, 2853, 3504 Content={3507 String="Andresin de'maniak\nvenore"}, 3502}}

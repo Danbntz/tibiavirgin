@@ -1,0 +1,61 @@
+ID              = 8460864
+Name            = "Sir alex knight of zanera"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,2-87-86-78)
+CurrentOutfit   = (134,2-87-86-78)
+LastLogin       = 1148254804
+LastLogout      = 1148254885
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32598,31790,5]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1405319,0,1423500,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,346894,3000,582400,1600)
+Skill = (2,726,740,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,214,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,114,114,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1395,1395,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,235129,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,29,1400,30,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,790,1100,796,50)
+Skill = (9,70,0,10,0,0,0,0,0,0,0,161628,1100,166964,50)
+Skill = (10,14,0,10,0,0,0,0,0,0,0,251,1100,305,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,738,1100,796,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,42,0,10,0,0,0,0,0,0,0,4066,1100,4445,20)
+Skill = (14,0,1200,0,0,0,686,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,60,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,80}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(23,1),(46,1),(49,1),(53,1),(54,1),(61,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(121,1),(125,1),(126,1),(137,1),(138,1),(139,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(213,1),(214,1),(215,1),(217,3),(253,1),(332,1)}
+Murders     = {1146355687,1146356208}
+
+Inventory   = {1 Content={3391},
+               2 Content={3055},
+               3 Content={2865 Content={3504, 3504, 3504, 2853 Content={3582 Amount=1, 3577 Amount=13, 3031 Amount=100, 3031 Amount=5, 3447 Amount=20, 3350}, 3052 SavedExpireTime=392, 3003, 2868 Content={3279, 3164 Charges=3, 3191 Charges=2}, 3046 SavedExpireTime=62, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3457}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3324},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3046 SavedExpireTime=1672}}
+
+Depots      = {0 Content={2865, 3504 Content={3507 String="sir alex knight of zanera\nthais"}, 3504 Content={3507 String="sir alex knight of zanera\nthais"}, 2867 Content={2853}, 3502 Content={3012}}, 
+               1 Content={3357, 2862 Content={3483, 3293, 3492 Amount=82, 3286, 3084 RemainingUses=250}, 3447 Amount=14, 3277 Amount=25, 3358, 3200 Charges=3, 3504 Content={3295, 3035 Amount=57, 3507 String="sir alex knight of zanera\ncarlin" Editor="Sir vars", 2856 Content={3279}}, 3492 Amount=100, 3483, 3456, 2853 Content={2853 Content={3282, 3282}, 3409}, 3046, 3059, 3504 Content={3017, 2969 KeyNumber=3033, 3507 String="sir alex knight of zanera\ncarlin" Editor="Sir alex knight of zanera"}, 3337, 3577 Amount=15, 3572, 2856 Content={3147, 3147, 3447 Amount=93, 3446 Amount=41}, 3483, 2854 Content={3585 Amount=1, 2865 Content={3723 Amount=1}, 2868, 3353, 3350, 3349, 3350, 2973 KeyNumber=3520, 2853 Content={3147, 3147, 3147}, 3008, 3083 RemainingUses=150, 3350, 2914 SavedExpireTime=1999, 3425}, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2868 Content={3373, 3583 Amount=2, 3349, 3449 Amount=4}, 3502 Content={3322, 3322, 3085 RemainingUses=200, 3447 Amount=100, 3447 Amount=97, 2872 Content={3350, 3046 SavedExpireTime=1146}, 2868 Content={3425, 3350, 3350, 3483}, 2865 Content={3601 Amount=4, 3586 Amount=3, 3046 SavedExpireTime=2778}}}, 
+               2 Content={3504 Content={3507 String="sir alex knight of zanera\nkazordoon", 2853 Content={2853 Content={2853}, 2853}}, 3504 Content={3507 String="sir alex knight of zanera\nkazordoon"}, 2853, 3502}, 
+               3 Content={3503 Content={3507 String="Sir alex knight of zanera\ncarlin" Editor="Sir alex knight of zanera"}, 3308, 3504 Content={3507 String="Sir alex knight of zanera\nab'dendriel" Editor="Iron Maidenus"}, 3502 Content={2865, 2865}}, 
+               4 Content={2868, 3412, 3293, 3502 Content={3507 String="sir alex knight of zanera \nhunt here plx respect\n" Editor="Sir alex knight of zanera", 3492 Amount=68}}, 
+               5 Content={3483, 3308, 3502}, 
+               6 Content={3504 Content={3504}, 3578 Amount=8, 3350, 3350, 3350, 3507 String="Sir alex knight of zanera\nvenore" Editor="Zarin Ariona", 3457, 3003, 2969 KeyNumber=5010, 2867, 3456, 3483, 3092, 3492 Amount=12, 2854 Content={2853 Content={3462, 3270, 3147, 3446 Amount=28, 3017, 3673}, 2920, 3004, 2853 Content={3083 RemainingUses=150}, 2854 Content={3673, 3299}, 3059}, 3723 Amount=2, 3584 Amount=5, 3412, 3732 Amount=1, 3598 Amount=66, 3602 Amount=10, 2853 Content={3059, 3059, 2839, 2969 KeyNumber=4600}, 3147, 3147, 3147, 3147, 3597 Amount=2, 3483, 3017, 3502}, 
+               7 Content={3483, 3492 Amount=1, 3504 Content={3507 String="sir alex knight of zanera\nankrahmun"}, 2853, 3502}, 
+               8 Content={3504, 3502}}

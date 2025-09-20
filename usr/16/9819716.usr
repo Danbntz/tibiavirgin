@@ -1,0 +1,54 @@
+ID              = 9819716
+Name            = "Mausin el Implakable"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,0-88-94-0)
+CurrentOutfit   = (129,0-88-94-0)
+LastLogin       = 1146446935
+LastLogout      = 1146447191
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32665,31702,7]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,84125,0,98800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,99621,1400,111701,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,200,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,33,0,10,0,0,0,0,0,0,0,8175,1100,8849,100)
+Skill = (7,51,0,10,0,0,0,0,0,0,0,14674,1100,16129,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,22,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,201,1200,268,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,117,1200,181,50)
+Skill = (11,16,0,10,0,0,0,0,0,0,0,538,1200,645,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,39,0,10,0,0,0,0,0,0,0,3135,1100,3289,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,8,10,11,15,20,29,30,42,44,48,51}
+QuestValues = {(21,1),(46,1),(72,1),(73,1),(96,1),(97,1),(98,1),(116,1),(117,1),(118,1),(134,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2867 Content={3447 Amount=61, 3003}},
+               4 Content={3357},
+               5 Content={3349},
+               7 Content={3557},
+               10 Content={3446 Amount=51}}
+
+Depots      = {0 Content={3504 Content={3507 String="Mausin el Implakable\nThais", 2968 KeyNumber=3940}, 3502 Content={}}, 
+               1 Content={3504 Content={3504 Content={3507 String="Mausin el Implakable\nCarlin"}, 3504 Content={3507 String="Mausin el Implakable\nCarlin"}, 3504 Content={3507 String="Mausin el Implakable\nCarlin"}, 3507 String="Mausin el Implakable\nCarlin"}, 3502 Content={}}, 
+               3 Content={3557, 2865 Content={3447 Amount=100, 3457, 3447 Amount=100, 3447 Amount=100, 2985}, 2482 Content={3507, 2916, 2867 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2914 SavedExpireTime=888, 2472 Content={3031 Amount=6, 3031 Amount=100, 3031 Amount=100, 3035 Amount=68}}, 2481 Content={3308, 3330, 3293, 3457, 3483, 2854 Content={3586 Amount=2, 3595 Amount=12, 3597 Amount=7, 3598 Amount=1, 3602 Amount=7, 3588 Amount=3, 3590 Amount=2, 3585 Amount=4, 3578 Amount=90, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3308, 3457, 3483}, 3504 Content={3503 Content={3503 Content={3507, 3507}, 3503 Content={3507 String="Mausin el Implakable\nab'dendriel"}}, 3505, 3505, 3535, 3535, 3505, 3505 String="\n", 3505 String="\n"}, 3502 Content={2865 Content={3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003, 3003}, 2854 Content={3374, 3425, 3425, 3425, 3425, 3425, 2920 SavedExpireTime=539, 3377, 3375, 3377, 3377, 2472 Content={3007, 3384, 3375, 2853 Content={3403, 3384, 3155 Charges=1, 3155 Charges=1, 3059, 3029 Amount=1, 3028 Amount=1, 3097}, 2949, 2955, 2952, 3506 String="Mausin el Implakable\nAb'Dendriel\n\nTE AMO:\nY LOVE YOU TE DIGO EN INGLES TI AMO EN ITALIANO PERO LO MUCHO KE TE KIERO TE LO DIGO EN CASTELLANO.\n\n\nTU NOVIA KE TE KIERE MUCHO: Kaotiko Anna\n                                                                             \nEres el mas guapo de todos los tibianos es decir del mundo tibia TE KIERO sobretodo amorcito que no se te olvide ke siempre te amare amorcito TE KIERO MUCHISIMO!!", 3050 SavedExpireTime=1786, 3034 Amount=1, 3058, 3298 Amount=5, 3357, 3351, 3317}, 3425, 3425, 3425, 2854 Content={3305, 3350, 3377, 3377, 3208, 3305, 3282, 3282, 3282, 3372, 3350, 3350, 3350, 3377, 3377, 3558, 3558, 3377, 3377}, 3425, 3375, 3277 Amount=58, 3148 Charges=3}, 2854 Content={3085 RemainingUses=200, 3056 RemainingUses=200, 3008, 3504 Content={3504 Content={3507 String="kibat sina\nab'dendriel"}, 3504, 3504, 3504, 3504, 3504 Content={3507 String="elemental feliz\nab'dendriel\n"}, 3504 Content={3507 String="lord villsku\nab'dendriel\n"}}, 3084 RemainingUses=250, 3085 RemainingUses=200, 3085 RemainingUses=200, 3008, 3027 Amount=2, 3026 Amount=2, 2867 Content={2872 Content={2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2667, 2659, 2667, 2650, 2667, 3572, 3415, 3658, 3658, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3483, 3658, 3658, 3507}, 2864 Content={3668, 3355, 3283, 3308}, 2865, 2868 Content={2868, 2868, 2868, 2868, 2868}, 2854 Content={2854, 2854, 2854}, 2867 Content={2867}}, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3054 RemainingUses=200, 3054 RemainingUses=200, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=3033, 3097}, 3503 Content={2920 SavedExpireTime=528, 2920 SavedExpireTime=538, 2920 SavedExpireTime=543, 2920 SavedExpireTime=534, 3457, 2873, 2857 Content={2920 SavedExpireTime=534, 3507, 3507, 3507, 3507, 3046, 3077, 3098}, 3266, 3465, 3275}, 2865 Content={3483, 3505 String="infakrs here me lo coji\n", 3308, 3469, 2981, 3469, 3470, 2815, 3605 Amount=12, 2473 Content={2950, 2952, 2955, 3658}, 3551, 2901, 2815, 3565, 3454, 2876}}}, 
+               6 Content={3502 Content={}}}

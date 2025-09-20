@@ -1,0 +1,54 @@
+ID              = 13486026
+Name            = "Shikito"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,2-21-21-2)
+CurrentOutfit   = (134,2-21-21-2)
+LastLogin       = 1148249474
+LastLogout      = 1148255957
+StartPosition   = [33194,32853,8]
+CurrentPosition = [33129,32834,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,381915,0,409000,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,322855,1100,355602,1600)
+Skill = (2,295,295,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,29,695,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,30545,1500,38723,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,7,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,801,1800,1118,50)
+Skill = (10,11,0,10,0,0,0,0,0,0,0,56,1800,140,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,243,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,14,1100,20,20)
+Skill = (14,0,1200,0,0,0,1083,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,91,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,11,14,20,38,39,42,81,84,88}
+QuestValues = {(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(115,1),(153,1),(190,1),(191,1),(333,1)}
+Murders     = {1147668572,1147830984}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2871 Content={3577 Amount=9, 3069, 2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3003, 3457, 2871 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3381},
+               5 Content={3419},
+               8 Content={3551},
+               10 Content={3046 SavedExpireTime=1808}}
+
+Depots      = {0 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={2854 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3504 Content={3507 String="shikito\nvenore" Editor="Pedorrigy"}, 3421, 3457, 3504, 3421, 3603 Amount=11, 3502 Content={3457}}, 
+               7 Content={2871 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3504 Content={3349, 3503 Content={3507}, 3503 Content={3507}, 3503 Content={3507 Editor="Astar Seya"}, 3503 Content={3507 Editor="Astar Seya"}, 3503 Content={3507 String="Skuga Slayer\nVenore" Editor="Astar Seya"}, 3507 String="shikito\nankrahmun" Editor="Astar Seya"}, 3017, 3030 Amount=2, 3028 Amount=3, 2920 SavedExpireTime=598, 2920 SavedExpireTime=278, 2920, 2920, 3502 Content={2869 Content={3031 Amount=63, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=29}, 2865 Content={3065, 3065, 3574, 3066}, 2867 Content={3577 Amount=10, 3600 Amount=5, 3585 Amount=3, 3592, 3601 Amount=3, 3607, 3588 Amount=6, 3578 Amount=4, 3582 Amount=10}, 2867 Content={2866, 2871 Content={2871 Content={2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871}, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871, 2871}, 2868 Content={2868}, 2867 Content={2867, 2867}}, 2867 Content={3425, 3351, 3357}, 2867 Content={3483, 3492 Amount=61, 2991, 2991, 2991, 3003, 3457}, 2867 Content={2854 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354, 2854 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367, 3354, 3354, 2871}}}, 2867 Content={3035 Amount=30, 3035 Amount=30, 3035 Amount=30, 3035 Amount=30, 3035 Amount=30, 3035 Amount=30, 3035 Amount=30, 3035 Amount=30}}}}

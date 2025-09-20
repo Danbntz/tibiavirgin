@@ -1,0 +1,60 @@
+ID              = 11567659
+Name            = "Fulix Thor"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (140,115-68-2-0)
+CurrentOutfit   = (140,115-68-2-0)
+LastLogin       = 1148255883
+LastLogout      = 1148256258
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32330,31762,5]
+PlayerkillerEnd = 0
+
+Skill = (0,45,0,1,0,0,0,0,0,0,1,1332994,0,1423500,100)
+Skill = (1,47,0,0,0,0,0,0,0,0,0,1467220,1100,1536275,1600)
+Skill = (2,342,370,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,9,1145,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,114,114,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,840,840,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,24,0,10,0,0,0,0,0,0,0,81425,1500,87378,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,218,2000,450,30)
+Skill = (8,16,0,10,0,0,0,0,0,0,0,5943,2000,6350,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,73,2000,150,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,203,2000,350,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,719,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3822,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,195,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,7,8,9,10,13,15,16,17,18,19,20,21,23,25,29,38,39,44,45,75,81,86,88,89,92}
+QuestValues = {(14,1),(15,1),(16,1),(17,1),(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(60,1),(61,1),(72,1),(73,1),(106,1),(107,1),(109,1),(125,1),(126,1),(137,1),(144,1),(151,1),(152,1),(153,1),(190,1),(191,1),(200,1),(201,1),(202,1),(223,1),(257,1),(278,3),(285,1),(286,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3057},
+               3 Content={2867 Content={2916, 3031 Amount=1, 2874, 2874, 2874, 3577 Amount=11, 3457, 3003, 2853 Content={3098 SavedExpireTime=438, 3073, 3507 String="Fulix Thor\nHunt here\nLarvas\nMsg me\n\nrespect plx\nty   :]" Editor="Fulix Thor", 3507 String="Fulix Thor\nHunt here\nin Larvas\nMsg me\n\nrespect plx\nty  :]" Editor="Fulix Thor", 3081 RemainingUses=5}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2870 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3180 Charges=3, 3165 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3360},
+               5 Content={3071},
+               6 Content={3420},
+               7 Content={3557},
+               8 Content={3079}}
+
+Depots      = {0 Content={3504 Content={3507 String="fulix thor\nthais" Editor="Gardian of Fenix"}, 3502}, 
+               1 Content={3502 Content={2473 Content={3577 Amount=30, 3582 Amount=100, 2864 Content={3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 3578 Amount=100, 2872 Content={2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2865 Content={2854 Content={3457, 3003}, 2868 Content={2868}, 2854}}, 3583 Amount=83, 2866 Content={3077, 3305, 3285, 3299, 3357, 3059, 3357, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Druids Retreat C\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 2868 Content={3457, 3003, 3483, 3291, 3277 Amount=5, 3003, 2973 KeyNumber=3520, 3483}, 3059, 2973 KeyNumber=3520, 2969 KeyNumber=3033, 3572, 2853 Content={3291, 3483, 3483, 3504}, 2991, 3084 RemainingUses=250}, 2867 Content={3046 SavedExpireTime=2997, 3059, 2857 Content={3372, 3077, 3084 RemainingUses=250}, 3008, 3097, 3076, 3290, 3316}, 3582 Amount=100}, 2868 Content={3084 RemainingUses=250, 3506 String="fulix thor\ncarlin\n\nHey fulix,\nI just wanted to remind you that I'd really love to have your house. Incase you want to sell it, please sell it to me :D\nI'll pay good I guess. Just message me about it later ;) Take care." Editor="Blinged", 3084 RemainingUses=250, 3483, 3492 Amount=26, 2854 Content={2874 ContainerLiquidType=8, 2874 ContainerLiquidType=8, 2874 ContainerLiquidType=8, 2874, 2874}, 3658, 3504 Content={3349}, 2911, 2968 KeyNumber=3940, 3153 Charges=1, 3375, 3008, 3056 RemainingUses=200, 2911 SavedExpireTime=997, 3008, 2973 KeyNumber=3520, 3008}, 2869 Content={2871 Content={2854 Content={3572, 3372, 2871 Content={3083 RemainingUses=138, 2854 Content={2867 Content={2872 Content={3277 Amount=10, 3492 Amount=40}, 2867 Content={2867 Content={2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656}}, 3591 Amount=11, 3591 Amount=100}, 2872 Content={3507 String="Oie minininha !!\nParabéns pela casa \n:D\n;**" Editor="Hur'Gran", 2868 Content={2866, 3290, 3425, 3425, 2973 KeyNumber=3520}}, 2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867 Content={2867}}}}}}}}}}}}, 2868, 2868, 2868, 2868, 2868, 2868, 2868, 2868}, 3289, 2857 Content={3032 Amount=4, 3033 Amount=1, 3030 Amount=2, 3028 Amount=2}, 3563, 3457, 2949, 2991, 2991, 2950, 3042 Amount=20, 3345, 3673, 2857, 2393, 3673, 3658}, 3301, 3301, 3557, 3557, 3071, 2973 KeyNumber=3520, 3305, 3406, 3556, 3557, 3557, 3557, 3445, 3061, 3299, 3425, 3322}, 2868 Content={2868 Content={2867}}, 2853}, 3318, 3017, 3507 String="fulix thor\ncarlin\n" Editor="Dufinin", 3054 RemainingUses=95, 3349, 3056 RemainingUses=200, 3097 SavedExpireTime=3538, 2871 Content={3289, 3003, 3285, 3457, 3289, 3289, 3289, 3289, 2854}, 2866 Content={3429, 3429, 3429, 3429}, 3085 RemainingUses=101, 3054 RemainingUses=63, 3066, 2856 Content={2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months."}, 3017, 2989, 3505 String="Fulix...\n\n\nOº,.,ºO\nBuUuuUuuUuU\n\nOooOOoOOoOOOoOoOOOOOOOO\n                BUGA   BUGA" Editor="Selvaman", 3054 RemainingUses=112, 3008, 3353}, 2867 Content={2856 Content={2970 KeyNumber=3801, 2970 KeyNumber=3800}, 3658, 3045 RemainingUses=168, 3076, 2853 Content={3447 Amount=6, 3447 Amount=100, 3447 Amount=100, 3448 Amount=13, 3287 Amount=16, 3277 Amount=45, 3447 Amount=100, 3449 Amount=100}, 2860 Content={3172 Charges=1, 3003, 3421, 2969 KeyNumber=3033, 2920}, 3084 RemainingUses=206, 3026 Amount=1, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!"}, 2865 Content={2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 3658, 2911, 3012, 3587 Amount=10, 3084 RemainingUses=250, 2835, 3077, 3097, 3097, 3097, 3097, 3050 SavedExpireTime=1783, 2901, 3050 SavedExpireTime=1793}, 2870 Content={2856 Content={2859, 3026 Amount=1, 2991, 2395, 3054 RemainingUses=93}, 3556, 3031 Amount=46, 3031 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 2854 Content={2911, 2992 Amount=3, 2970 KeyNumber=3899, 2853 Content={3004}, 2991, 3008, 3316}}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={2868}}, 
+               4 Content={3502}, 
+               5 Content={3502}, 
+               6 Content={3504 Content={3507 String="fulix thor\nvenore" Editor="Maxer Bump"}, 3504 Content={3507 String="fulix thor\nvenore" Editor="Maxer Bump"}, 3502}, 
+               7 Content={3502}, 
+               8 Content={3502}}

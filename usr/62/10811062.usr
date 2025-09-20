@@ -1,0 +1,56 @@
+ID              = 10811062
+Name            = "Lucky elo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,79-86-81-0)
+CurrentOutfit   = (129,79-86-81-0)
+LastLogin       = 1148235118
+LastLogout      = 1148239465
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32401,32153,12]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,628262,0,658000,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,271202,3000,582400,1600)
+Skill = (2,590,590,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,107,170,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1145,1145,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,76,0,10,0,0,0,0,0,0,0,570489,1100,592348,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,40,1400,71,30)
+Skill = (8,76,0,10,0,0,0,0,0,0,0,290369,1100,296174,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,37,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,10,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,51,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,347,1100,370,20)
+Skill = (14,0,1200,0,0,0,927,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,6,0,45,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(37,1),(58,1),(59,1),(67,1),(68,1),(69,1),(70,1),(71,1),(88,1),(89,1),(90,1),(91,1),(92,1),(190,1),(191,1),(192,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3582 Amount=15, 3031 Amount=59, 3583 Amount=3, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3153 Charges=1, 3003}},
+               4 Content={3360},
+               5 Content={3428},
+               6 Content={3291},
+               7 Content={3371},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3295}}
+
+Depots      = {0 Content={3281, 3503 Content={3504 Content={3504, 3504, 3504, 3504}, 3507}, 2970 KeyNumber=3800, 2970 KeyNumber=3802, 3457, 3446 Amount=14, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={2854 Content={2869 Content={3358, 2871}}}, 2854 Content={3384, 3297, 2872 Content={2853 Content={3003, 2853 Content={3277 Amount=4, 2920, 2920, 2920, 2920, 2920, 2920, 2920}}, 2854 Content={2868 Content={2869 Content={2868 Content={2853, 3174 Charges=1, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=4, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=1, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}}, 2854 Content={3299, 2870 Content={2853 Content={2853}, 2854 Content={3384, 3384, 3384, 3384}}, 2854 Content={3008, 3008, 3012, 3008, 3008, 2969 KeyNumber=4600, 2868 Content={3059, 3092, 2973 KeyNumber=3520, 2969 KeyNumber=4055, 3008, 3054 RemainingUses=195, 3097, 3097, 3092, 3054 RemainingUses=200, 3059}, 2969 KeyNumber=3033, 2970 KeyNumber=3303, 2970 KeyNumber=4601}, 2871 Content={2853}, 2853 Content={3591 Amount=9, 3590 Amount=5, 3592, 3592, 3504 Content={3586 Amount=1, 3585 Amount=1, 3584 Amount=1}}, 2865, 2853}}, 2950, 3050, 3085 RemainingUses=105, 3097 SavedExpireTime=3592, 3084 RemainingUses=250, 3017, 3083 RemainingUses=150, 3093, 2972 KeyNumber=3304, 3097, 3093}, 3504 Content={3507 String="Dragon lure\nab'dendriel" Editor="Dragon Lure", 2857 Content={3492 Amount=3, 3483, 2854 Content={2853 Content={2853, 2853 Content={3077, 3299, 2853}}}, 2472 Content={2664 RemainingExpireTime=408, 3506 String="Warning!\n\nThe monthly rent of 1820 gold\nfor your house \"Tunnel Gardens 2 \"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 2656, 3547 Amount=8, 2659, 2656, 2659, 2870 Content={3264, 2920 SavedExpireTime=250, 2854}}, 2992 Amount=2, 2853 Content={3504 Content={2989, 3507 String="dragon lure\nKazordoon" Editor="Wkurzony ziom", 2991, 2991}}, 2860 Content={3506 String="Warning!\n\nThe monthly rent of 1820 gold\nfor your house \"Tunnel Gardens 2 \"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house."}, 2853 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Tunnel Gardens 2 \".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3506 String="Warning!\n\nThe monthly rent of 1820 gold\nfor your house \"Tunnel Gardens 2 \"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2853}}, 2857 Content={2974, 3577 Amount=31, 3504 Content={3507 String="Dragon Lure\nCarlin" Editor="Dragon Lure", 2872 Content={2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872}, 2872 Content={2872, 2872, 2872, 2872, 2872, 2872, 2872, 2872}}, 2854 Content={2854 Content={2922 SavedExpireTime=142, 2920 SavedExpireTime=561, 2920 SavedExpireTime=584}, 2857, 2854 Content={2854}, 2854 Content={2868 Content={3003}}, 2854, 2854, 2854 Content={2920, 2920, 2920, 2920}, 2854, 2854, 2854, 2854}, 2854 Content={3506 String="Warning!\n\nThe monthly rent of 1820 gold\nfor your house \"Tunnel Gardens 2 \"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1820 gold\nfor your house \"Tunnel Gardens 2 \"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 2870, 2659}, 2857 Content={2857 Content={2857, 2857, 2857, 2857, 2857, 2857, 2857}}}, 2854 Content={2853}, 2854 Content={2854, 3350, 3448 Amount=7, 3447 Amount=79}, 3504 Content={2853, 2853 Content={2854 Content={2853, 2853 Content={2854 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}}, 3483, 3453, 2853}, 3507 String="Dragon Lure\nCarlin\n" Editor="Ogi Lure"}, 2868 Content={2864 Content={2864, 2864, 2864, 2864}}, 3504 Content={2872, 3507 String="Dragon Lure\nKazordoon" Editor="Leons Gakes"}, 2867 Content={3463, 3008, 3483, 2874}}, 3066, 3074, 3074, 3075, 3093, 3085 RemainingUses=200}, 3035 Amount=11, 3077}}, 
+               2 Content={2870 Content={2853}, 3502 Content={3092, 3092}}, 
+               6 Content={3504 Content={3507 String="lucky elo\nvenore" Editor="Lucky elo"}, 3502}}

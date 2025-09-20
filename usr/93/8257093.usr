@@ -1,0 +1,55 @@
+ID              = 8257093
+Name            = "Maximus Ricul"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1140289144
+LastLogout      = 1140289192
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31781,5]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,297081,0,330400,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,278220,1400,313485,1600)
+Skill = (2,385,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,145,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,43,0,10,0,0,0,0,0,0,0,22624,1100,24547,100)
+Skill = (7,64,0,10,0,0,0,0,0,0,0,51461,1100,56417,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,181,1200,268,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,741,1200,824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,955,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,49,0,10,0,0,0,0,0,0,0,8207,1100,8851,20)
+Skill = (14,0,1200,0,0,0,1116,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,88,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,29,30,42,48,49,51}
+QuestValues = {(14,1),(15,1),(37,1),(58,1),(61,1),(106,1),(107,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3008},
+               3 Content={2865 Content={2865, 3577 Amount=1, 2868 Content={3148 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3147, 3147}, 3198 Charges=1, 3582 Amount=20}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=7}}
+
+Depots      = {0 Content={3502 Content={3031 Amount=15, 3446 Amount=3, 3375}}, 
+               1 Content={2469 Content={3504 Content={3504 Content={3507 String="maximus ricul\ncarlin"}, 3300, 3430, 3507 String="maximus ricul\ncarlin"}, 3504 Content={3504 Content={3507 String="maximus ricul\ncarlin"}, 3507 String="maximus ricul\ncarlin"}, 3504 Content={3504, 3504 Content={3507 String="Gandalf Ricul \nCarlin"}, 2874, 3544, 3308, 3457, 3457, 3507 String="maximus ricul\ncarlin"}, 3504 Content={3507 String="maximus ricul\ncarlin"}, 3504 Content={2874, 2874, 2874, 3507 String="maximus ricul\ncarlin"}, 2853, 2853, 3504 Content={3430, 3362}}, 3059, 3502 Content={3008, 2868 Content={3191 Charges=2, 3200 Charges=2, 3191 Charges=2, 3200 Charges=3, 3191 Charges=2, 3200 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2}, 2854 Content={3031 Amount=63, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3003, 3457, 3003, 2857 Content={2865 Content={3492 Amount=89, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2865 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100}, 3483, 3003, 3457, 3483}, 3503 Content={3503 Content={3507 String="maximus ricul\ncarlin"}}, 2865 Content={2854 Content={3277 Amount=90, 1781 Amount=6, 1781 Amount=100}, 2472 Content={3377, 3425, 3425, 3357, 2854 Content={3425, 3084 RemainingUses=250, 3046, 3084 RemainingUses=250, 3077, 3097 SavedExpireTime=1105, 3054 RemainingUses=200, 3054 RemainingUses=200, 2969 KeyNumber=4600, 2973 KeyNumber=3520}, 3421, 3305, 3421, 3377}, 3308, 2854 Content={3350, 3350, 2854 Content={3447 Amount=100, 2854 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}}, 2868 Content={3446 Amount=77, 3446 Amount=100, 3349, 3349}, 2865 Content={3448 Amount=82, 3448 Amount=100, 3448 Amount=100}, 2867 Content={3449 Amount=25, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100, 3449 Amount=100}}, 2856 Content={3035 Amount=55, 3043 Amount=3, 2854 Content={2866, 2870, 2867, 2871, 2869, 2854, 2868, 2865}}, 2473 Content={3579 Amount=4, 3582 Amount=29, 3578 Amount=100, 3585 Amount=100, 2853 Content={3590 Amount=100, 3595 Amount=17, 3597 Amount=6, 3606 Amount=16, 3602 Amount=47, 3600 Amount=100, 3601 Amount=100, 3598 Amount=27}, 3723 Amount=100, 3588 Amount=100}, 2991, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 3003, 2469 Content={2870, 2868 Content={2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2854 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 2472 Content={2969 KeyNumber=4600, 3293, 2875, 3285, 3467, 2472 Content={3505, 3505, 3378, 2875, 2853 Content={3412, 3430, 3430, 2911 SavedExpireTime=2971, 2911 SavedExpireTime=1721, 2981, 2983, 3114 Amount=1}, 3003, 3003, 2473 Content={3452, 3468, 3509, 3455}, 3375, 3552, 3003, 3003, 3412}, 3457, 3457, 3456, 3457, 3457, 3456}}}, 
+               2 Content={3502 Content={3031 Amount=92, 2970 KeyNumber=3801, 2970 KeyNumber=3800}}, 
+               3 Content={3502 Content={}}}

@@ -1,0 +1,50 @@
+ID              = 11397234
+Name            = "Axarian"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-0-58-117)
+CurrentOutfit   = (128,114-0-58-117)
+LastLogin       = 1145093980
+LastLogout      = 1145093999
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32339,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,6,0,1,0,0,0,0,0,0,1,2225,0,2600,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,1092,3000,1600,1600)
+Skill = (2,155,155,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,25,25,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,75,75,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,420,420,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,17,0,10,0,0,0,0,0,0,0,988,1100,1143,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,24,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,19,0,10,0,0,0,0,0,0,0,743,1100,796,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,176,1100,232,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,9,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(17,1),(18,1),(20,1),(60,1),(61,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               4 Content={3378},
+               5 Content={3426},
+               6 Content={3276},
+               7 Content={3362}}
+
+Depots      = {0 Content={2667, 3577 Amount=4, 2920 SavedExpireTime=422, 3003, 2853 Content={3504 Content={3507 String="jezana luin\nthais" Editor="Knight xaroz"}, 3504 Content={3507 String="zeuz'crow\nthais" Editor="Thor'sir"}, 3504 Content={3504 Content={3507 String="zeuz'crow\nthais" Editor="Thor'sir"}, 3507 String="zeuz'crow\nthais" Editor="Thor'sir"}, 3504 Content={3507 String="zeuz'crow\nthais" Editor="Thor'sir"}, 3504 Content={3507 String="zeuz'crow\nthais" Editor="Thor'sir"}}, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 3502 Content={2911, 2906, 2906, 2906, 2992 Amount=5, 2906, 2911 SavedExpireTime=2812, 3114 Amount=1}}, 
+               1 Content={3502 Content={}}}

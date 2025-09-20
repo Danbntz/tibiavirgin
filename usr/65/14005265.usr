@@ -1,0 +1,53 @@
+ID              = 14005265
+Name            = "Yoko Babin"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-16-126-116)
+CurrentOutfit   = (128,114-16-126-116)
+LastLogin       = 1148250516
+LastLogout      = 1148251032
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32867,31947,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,58481,0,69700,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,7649,3000,20800,1600)
+Skill = (2,176,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,14,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,34,0,10,0,0,0,0,0,0,0,9376,1100,9834,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,8,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,77,1100,105,50)
+Skill = (9,39,0,10,0,0,0,0,0,0,0,7986,1100,8224,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,13,0,10,0,0,0,0,0,0,0,77,1100,92,20)
+Skill = (14,0,1200,0,0,0,1004,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,7,0,115,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(33,1),(34,1),(96,1),(97,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3012},
+               3 Content={2854 Content={3012, 3026 Amount=1, 3097, 3012, 3012, 3012, 3457, 3308, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3322},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3377, 2926 RemainingExpireTime=99, 2922 SavedExpireTime=147, 3378, 3374, 3502 Content={3559}}, 
+               6 Content={3502 Content={2867 Content={3035 Amount=18, 3031 Amount=65, 2854}, 2854 Content={3425, 3289, 3559, 3279, 3279, 3377, 3327, 2867 Content={3349, 3349, 3349, 3349, 3349, 3349, 3287 Amount=2, 3285, 3270, 3358, 3446 Amount=1, 3277 Amount=1, 3447 Amount=37, 3449 Amount=1, 3426}, 3410}, 2854 Content={2867 Content={3003, 3457, 3457, 3483, 3483, 3454, 3453, 3456, 3456, 3457, 3003, 3003, 3003, 3003}, 2854 Content={3012, 3082 RemainingUses=50, 3572, 3004, 3012, 3012}, 2854 Content={2991, 2969 KeyNumber=3600, 3541, 3536, 3536, 3538, 3535}, 2853 Content={2854 Content={2867 Content={3152 Charges=1, 3174 Charges=5, 3174 Charges=3}, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2853 Content={3308, 3308, 2853 Content={3308, 3308, 2853 Content={2853}}, 3308, 3308, 3308, 3308, 3308}, 2853 Content={2920, 2920, 2920, 2920 SavedExpireTime=61, 2920, 2920, 2920, 2853 Content={2853, 2920, 2920, 2920 SavedExpireTime=591, 2920, 2920, 2920, 2920}}, 2853 Content={2828 String="Year 10 in the reign of Harrah II\nThe baker Thahon claimed that the wife of the merchant Habthi was guilty of witchcraft. Thahon could not bring forth convincing proof of her guilt and was sentenced to ten blows on his bare feet. The crafter Ziril claimed that the beggar Aukohl stole a cake from his open window. Although no proof was found there was a general sense of agreement that no proof was necessary since everybody was convinced of the beggar's guilt. In a rare display of mercy the judge sentenced him to a mere three years of work in the salt mines. The widow Zehmahil claimed that the travelling bard Todd Ballory had promised here mariage in\nexchange for certain services that have not been further elaborated on in the court's documents. The foreigner was found guilty without trial and sentenced to three years of work in the salt mines. The footsoldier Kamahl claimed his father Indril was guilty of witchcraft. Several obscure texts were found beneath the accused person's bed. Indril was banished from the city and his property was equally divided between the pharaoh and his heirs. The foreigner Todd Ballory was pronounced guilty of killing the overseer Barnak, a father of sixteen children and a respectable member of the local whipcrackers' association. The aforementioned convict was sentenced to a rather spectacular final appearance in the local arena.", 3059}}, 2854 Content={3740 Amount=3, 3585 Amount=1, 3582 Amount=11, 3577 Amount=5, 3578 Amount=19, 3590 Amount=11, 3602 Amount=1, 3585 Amount=1}, 2867 Content={2874, 2874, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2875 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3}, 2854 Content={3492 Amount=82, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}}}}

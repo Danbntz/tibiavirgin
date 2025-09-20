@@ -1,0 +1,56 @@
+ID              = 9137426
+Name            = "Gandalf Greey"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,0-95-95-114)
+CurrentOutfit   = (129,0-95-95-114)
+LastLogin       = 1147888659
+LastLogout      = 1147888842
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32813,31937,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,179593,0,204800,100)
+Skill = (1,21,0,0,0,0,0,0,0,0,0,112762,1100,114244,1600)
+Skill = (2,254,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,454,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,17577,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,556,1800,593,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,276,1800,302,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,11,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,94,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,32,0,10,0,0,0,0,0,0,0,1589,1100,1590,20)
+Skill = (14,0,1200,0,0,0,921,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,38,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,10,16,20,29,38}
+QuestValues = {(15,1),(20,1),(21,1),(22,1),(23,1),(28,1),(29,1),(30,1),(35,1),(59,1),(96,1),(97,1),(98,1),(190,1),(191,1),(208,1),(223,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3084 RemainingUses=195},
+               3 Content={2867 Content={3352, 3031 Amount=21, 3352, 3275, 3084 RemainingUses=250, 3008, 3577 Amount=4, 3031 Amount=100, 3457, 3492 Amount=40, 3003}},
+               4 Content={3357},
+               5 Content={3418},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               2 Content={2854 Content={3446 Amount=46}, 3033 Amount=1, 2853 Content={3031 Amount=100, 3031 Amount=44, 3031 Amount=100, 3031 Amount=100, 3035 Amount=16}, 3492 Amount=4, 2973 KeyNumber=3520, 3492 Amount=100, 3152 Charges=1, 3050 SavedExpireTime=1625, 3483, 3492 Amount=100, 3502 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3483, 3492 Amount=96}}, 
+               6 Content={3504 Content={2870 Content={2970 KeyNumber=3801, 3598 Amount=27, 3349, 3349, 3349, 3031 Amount=75, 2853 Content={3446 Amount=100, 3446 Amount=66, 3446 Amount=100, 3446 Amount=100, 2853 Content={3358, 3358, 3286, 2853 Content={3358, 3358, 3358, 3358, 3358}, 3358, 3358}, 2853 Content={3358, 2853 Content={2853 Content={3358, 3358, 3358, 2853 Content={3358, 3349, 3349, 2853 Content={2853, 3377}, 3349, 3358, 3358}, 3358, 3358}}, 3286, 3286, 3264, 3286, 3264, 3358}}, 2853 Content={2853 Content={2853 Content={3358, 2853 Content={3358, 3358}, 3264, 3358, 3358}, 3264, 3358, 3264, 3264, 3358}, 3358, 3358}, 1781 Amount=14}, 3507 String="Gandalf Greey\nVenore" Editor="Gandalf Greey"}, 3436, 3352, 3003, 3457, 2871 Content={3425, 3275, 3410, 3353, 3285, 3059, 2969 KeyNumber=5010, 3327, 3410, 3285, 3065, 3286, 3384, 3285, 3266, 3275, 3269, 3269, 3269, 3349}, 3578 Amount=4, 3577 Amount=13, 2857 Content={3046, 3077, 3084 RemainingUses=250, 3098}, 2868 Content={3367, 3367, 3483, 2969 KeyNumber=5010, 3003, 3003, 3003, 3188 Charges=3, 3457, 3736 Amount=1, 3050 SavedExpireTime=1793, 3457, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 3598 Amount=7, 2969 KeyNumber=5000, 3083 RemainingUses=147, 3492 Amount=100, 3448 Amount=7, 3447 Amount=28, 3446 Amount=83}, 2854 Content={3031 Amount=100, 3031 Amount=18, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3031 Amount=100, 3035 Amount=92}, 3503 Content={3410, 3147, 3147, 3147, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3504 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 2469 Content={3264, 3264, 2991, 3316, 3359, 3367, 3367, 2469 Content={3066, 3413}}, 3502}}

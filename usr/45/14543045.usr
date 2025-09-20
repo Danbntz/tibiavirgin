@@ -1,0 +1,49 @@
+ID              = 14543045
+Name            = "Socelo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (137,79-81-79-81)
+CurrentOutfit   = (137,79-81-79-81)
+LastLogin       = 1148218348
+LastLogout      = 1148218461
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32679,31685,8]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,9423,0,13000,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,6627,3000,20800,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,20,45,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,30,0,10,0,0,0,0,0,0,0,6094,1100,6400,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,247,1100,305,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,32,0,10,0,0,0,0,0,0,0,3725,1100,3977,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,870,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,3,0,61,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(61,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2865},
+               4 Content={3378},
+               7 Content={3557}}
+
+Depots      = {1 Content={3502}, 
+               3 Content={3302, 3318, 3004, 3556, 3391, 3035 Amount=92, 3280, 3035 Amount=100, 3071, 3436, 3449 Amount=6, 3391, 3370, 2872, 2854 Content={2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3059, 2854 Content={3661, 3661, 3661}, 2854 Content={3078, 2991, 2991, 2992 Amount=23, 3563, 3077, 2950, 3077}, 2854 Content={3599 Amount=10, 3723 Amount=1, 3583 Amount=23, 3725 Amount=1, 3584 Amount=8, 3589 Amount=22, 3590 Amount=52, 3587 Amount=20, 3606 Amount=6, 3593, 3586 Amount=11, 3579 Amount=6, 3602 Amount=5, 3601 Amount=2, 3598 Amount=23, 3588 Amount=53, 3585 Amount=24, 3595 Amount=12, 2873 ContainerLiquidType=1, 3588 Amount=100}}, 2870 Content={3097 SavedExpireTime=3598, 2870 Content={3084 RemainingUses=250, 3045 RemainingUses=48, 3083 RemainingUses=150, 3008, 3012, 3084 RemainingUses=250, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3008, 3008, 3012, 3056 RemainingUses=200, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2870, 3093, 3050, 3097}, 2871, 2865 Content={2865 Content={2865 Content={3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572}, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572, 3572}}, 2867 Content={2867, 2867}, 2869 Content={2869}, 2868 Content={2865 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2868, 2860 Content={2969 KeyNumber=3033, 2970 KeyNumber=4601, 2969 KeyNumber=3033, 2969 KeyNumber=4055, 2973 KeyNumber=3520, 2973 KeyNumber=3520, 2969 KeyNumber=3033}, 2854 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=3, 3172 Charges=3}, 3736 Amount=3, 2868 Content={2865 Content={3661, 3130, 3661, 3130, 2882}, 2868 Content={3172 Charges=1, 3172 Charges=1, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2}, 2872 Content={3409, 3077, 3077, 2860 Content={3097, 3736 Amount=1, 3085 RemainingUses=200, 3056 RemainingUses=200, 3008, 3083 RemainingUses=87}, 3050 SavedExpireTime=1631, 3085 RemainingUses=195, 3083 RemainingUses=136, 3056 RemainingUses=200, 3050}, 3285, 3316, 3353, 3409, 3349, 3349, 2866 Content={3425, 3425, 3285, 3289, 3310, 3277 Amount=4, 3349, 3349, 3291}, 3413}, 4839, 2868 Content={3403, 3074, 3074, 3316, 3307, 3574, 3576, 3311, 3291, 3066, 3290, 3441, 3551}, 2868 Content={3446 Amount=10, 3447 Amount=7, 3287 Amount=12, 3350, 3350, 3350, 3349, 3277 Amount=10, 3448 Amount=15}}, 2866 Content={3031 Amount=100, 3017, 2392, 3030 Amount=2, 3061, 3042 Amount=1, 3032 Amount=1, 3026 Amount=2, 3033 Amount=3, 3028 Amount=2, 2866, 2866}, 3502 Content={3299, 3285, 3446 Amount=7, 3425, 3003, 3377, 3003}}}

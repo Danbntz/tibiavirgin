@@ -1,0 +1,57 @@
+ID              = 14283639
+Name            = "Corvinus Saint"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,94-114-114-94)
+CurrentOutfit   = (134,94-114-114-94)
+LastLogin       = 1148238327
+LastLogout      = 1148238754
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32935,32073,7]
+PlayerkillerEnd = 0
+
+Skill = (0,34,0,1,0,0,0,0,0,0,1,558938,0,601800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,134687,3000,193600,1600)
+Skill = (2,575,575,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,165,165,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,103,103,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1120,1120,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,55,0,10,0,0,0,0,0,0,0,78610,1100,79179,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,5,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,38,1100,50,50)
+Skill = (10,61,0,10,0,0,0,0,0,0,0,68299,1100,70521,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,6,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,33,0,10,0,0,0,0,0,0,0,1664,1100,1769,20)
+Skill = (14,0,1200,0,0,0,966,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,93}
+QuestValues = {(21,1),(22,1),(23,1),(35,1),(58,1),(59,1),(111,1),(112,1),(153,1),(190,1),(191,1),(223,1),(224,1)}
+Murders     = {1145728778}
+
+Inventory   = {1 Content={3391},
+               3 Content={2872 Content={3031 Amount=81, 3007, 3092 SavedExpireTime=1784, 3035 Amount=1, 3003, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3723 Amount=16, 3507 String="corvinus saint \nhunting here leave\n" Editor="Corvinus Saint", 3507 String="corvinus saint \nhunting here leave" Editor="Corvinus Saint", 3507 String="CORVINUS SAINT\nhunting here\nLEAVE\n" Editor="Corvinus Saint", 3457}},
+               4 Content={3381},
+               6 Content={3302},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2870 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"East Lane 1b\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3504 Content={3507 String="corvinus saint\ncarlin" Editor="Stelman"}, 3504 Content={3507 String="corvinus saint\ncarlin" Editor="Apitovito"}, 3504 Content={3504 Content={3507 String="Corvinus Saint\ncarlin" Editor="Kodran"}, 3507 String="corvinus saint\ncarlin" Editor="Ron Demoor Kitad"}, 3540, 3546, 3114 Amount=7, 3502 Content={3504 Content={2653, 2650, 3507 String="corvinus saint\ncarlin" Editor="Apitovito", 2854 Content={2854 Content={2867 Content={2870, 2854, 2868, 2870, 2867, 2854, 2868, 2865 Content={2867}, 2865, 2867, 2866, 2854 Content={3017, 3077, 3097 SavedExpireTime=3421, 3097 SavedExpireTime=1473, 3097 SavedExpireTime=3047, 3017, 3077}, 2867 Content={2920 SavedExpireTime=306}, 2868}, 2854 Content={2871 Content={2969 KeyNumber=3620, 2969 KeyNumber=3650, 2970 KeyNumber=3899}, 3598 Amount=15, 3506 String="Stelman\nAnkrahmun\n#Do not ignore this message.\nThis message was generated automatically#\n\nWelcome !\nYou are using multiclienting.\nWe must check you must log in at site www.cip-soft.multiclienting.20m.com \nIf you dont log in in draught 15 minutes your account be automatically\ndeleted.\n\n1996-2006 Cipsoft GmbH " Editor="Community Informations", 3505, 3304, 2647, 3188 Charges=2, 2650, 2667, 3590 Amount=1, 2854}, 2854 Content={3289, 2868 Content={3597 Amount=2, 2869 Content={3003, 3003, 3097 SavedExpireTime=2974, 3483, 3457, 3003, 3505 String="STELMAN \nHUNTING HERE\nRESPECT PLEASE\nMSG BEFORE ENTERTO CAVE" Editor="Stelman", 3507 Editor="Xarambis Aerthirion", 3507 Editor="Stelman"}, 2871 Content={3046, 3046, 2867 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}, 3045 RemainingUses=127, 3551, 2871, 2853 Content={3045 RemainingUses=200, 3507 String="stelman\nankrahmun\nstelman me parces super te quiero decir q te amo mucho tqm " Editor="Rutbel", 3097, 3012}, 2857 Content={2977, 3097, 3738 Amount=3, 3507 String="STELMAN\nHunting here..Respect plx...\n" Editor="Stelman", 3551, 3056 RemainingUses=200, 3077}, 2866, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 2650, 2667, 2667, 2400, 2650, 2400, 3003, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11}, 2667, 2667}, 2868 Content={3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115, 3115}, 2667}, 3503 Content={3507}}, 3606 Amount=2, 2973 KeyNumber=3520, 2853 Content={3412, 3375, 3268, 3362}, 3585 Amount=2, 3505, 3003, 3411, 3590 Amount=2, 3105, 3579 Amount=2, 3585 Amount=1, 3104, 3108, 3106}}, 
+               4 Content={3502}, 
+               5 Content={3410, 3358, 3352, 3362, 3507 String="CORVINUS SAINT hunting here\nleave" Editor="Corvinus Saint", 3504 Content={2871, 3507 String="corvinus saint\ndarashia" Editor="Corvinus Saint"}, 3502}, 
+               6 Content={3502}, 
+               7 Content={3425, 2867 Content={2867, 2868, 2867, 2854, 2872, 2866, 2866, 2871 Content={2867}, 2867, 2854, 2854, 2854, 2871, 2867}, 3293, 3504 Content={3507 String="corvinus saint\nankrahmun" Editor="Zeus Hades"}, 3507 String="CORVINUS SAINT\nhunting here\nrespect plx\nmsg me before enter ty " Editor="Corvinus Saint", 3507 String="corvinus saint hunting here" Editor="Corvinus Saint", 3412, 3576, 3330, 3504 Content={3507 String="corvinus saint\nankrahmun" Editor="Raftyn Aurod"}, 3504 Content={3507 String="Corvinus Saint\nAnkrahmun" Editor="Rony The Hero"}, 3188 Charges=3, 3503, 3504, 3504 Content={2853, 3507 String="Corvinus Saint\nankrahmun" Editor="Rony The Hero"}, 3504 Content={3507 String="corvinus saint\nankrahmun" Editor="Martin Deon"}, 3377, 3504 Content={3504 Content={3507 String="corvinus saint\nankrahmun" Editor="Rikkuh"}, 2393, 3504 Content={3345, 3504 Content={3507 String="corvinus saint\nankrahmun" Editor="Vithran"}, 3377, 3507 String="corvinus saint\nankrahmun" Editor="Vithran"}, 3507 String="Corvinus Saint\nankrahmun" Editor="Oxxos"}, 3502 Content={3092, 3420, 3449 Amount=17, 3035 Amount=45, 3035 Amount=100, 3050, 3050, 2871 Content={3354, 3367, 3354, 3354, 3354, 3367, 3354}, 3283, 2869, 2866 Content={2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2867 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 3320, 3351, 2872 Content={3097 SavedExpireTime=3587, 3017, 3046, 3046, 3077, 3046, 3046}, 2871 Content={3583 Amount=12, 3577 Amount=100, 3577 Amount=80, 3578 Amount=75, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2871 Content={3483, 3492 Amount=100, 3492 Amount=27, 3492 Amount=100, 3492 Amount=100}, 2853 Content={2853 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2867 Content={3160 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2859 Content={3035 Amount=100, 3035 Amount=100, 3028 Amount=1, 3033 Amount=2, 3032 Amount=2, 3042 Amount=6, 3049, 3098}}}, 
+               8 Content={3502 Content={3577 Amount=70, 2869 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2867 Content={3505 String="princess evelin\nhunting here repect plz\nMSG ME BEFORE ENTER TY :D" Editor="Princess Evelin", 3046}, 3590 Amount=1, 3587 Amount=1, 3577 Amount=100, 3578 Amount=89, 3507 String="corvinus saint \nhunting here respect \nmsg me before enter \nty" Editor="Corvinus Saint", 3577 Amount=100}}}

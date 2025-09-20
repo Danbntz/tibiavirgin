@@ -1,0 +1,59 @@
+ID              = 8495980
+Name            = "Koko Loco"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (129,40-50-38-50)
+CurrentOutfit   = (129,40-50-38-50)
+LastLogin       = 1146324163
+LastLogout      = 1146326236
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,46,0,1,0,0,0,0,0,0,1,1451059,0,1522600,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,517873,1400,618272,1600)
+Skill = (2,565,565,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,605,605,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,115,115,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1230,1230,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,67340,1100,71890,100)
+Skill = (7,76,0,10,0,0,0,0,0,0,0,176681,1100,177704,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,490,1200,496,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,4,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,20,0,10,0,0,0,0,0,0,0,1315,1200,1607,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7479,1100,8028,20)
+Skill = (14,0,1200,0,0,0,647,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,6,8,15,20,29,30,42,44,49,51,76,79,81}
+QuestValues = {(14,1),(15,1),(16,1),(20,1),(21,1),(22,1),(23,1),(35,1),(37,1),(40,1),(59,1),(72,1),(73,1),(74,1),(75,1),(84,1),(85,1),(88,1),(89,1),(90,1),(91,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(115,1),(116,1),(117,1),(118,1),(121,1),(124,1),(133,1),(137,1),(151,1),(152,1),(153,1),(190,1),(191,1),(222,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1),(257,1),(269,1),(278,2),(279,1),(280,2)}
+Murders     = {}
+
+Inventory   = {1 Content={3373},
+               2 Content={3085 RemainingUses=17},
+               3 Content={2865 Content={3447 Amount=47, 3577 Amount=6, 3031 Amount=1}},
+               4 Content={3380},
+               6 Content={3350},
+               7 Content={3557},
+               9 Content={3007},
+               10 Content={3447 Amount=81}}
+
+Depots      = {0 Content={3349, 2853 Content={3031 Amount=70, 3031 Amount=100}, 3003, 3457, 2868 Content={3506 String="Dear Muriel!\nMy apprentice behaves strange lately. \nI fear he has something evil in mind. \nHe must have stolen the books about \nnecromancy you were missing after \nour last visit but i have no prove yet. \nThank the gods he knows not about \nthe fountain of life and the caves of \ninferno yet. I will send Laira to town in \nsome days, since i think she's in danger \nif I'm right about Porgol. \n\nYour Friend, \nArcian", 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 3456, 3003, 3483, 2853 Content={2949, 3059, 3658, 3463, 3076}, 3017, 3457, 3003, 3003, 2854 Content={3350, 3350, 3384, 3327, 3384}, 2869 Content={2869, 2854, 2854, 2865, 2854, 2869, 2854, 2854, 2854, 2868, 2854}}, 2854 Content={3583 Amount=2, 3586 Amount=2, 3723 Amount=48, 3723 Amount=100, 3723 Amount=99, 3577 Amount=25, 3585 Amount=1, 3725 Amount=2, 3590 Amount=5}, 2869 Content={3421, 3552, 3327}, 2865 Content={3350, 3448 Amount=4, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 1781 Amount=1, 3298 Amount=6, 3287 Amount=13, 3277 Amount=10, 3448 Amount=100}, 2854 Content={3050, 2854 Content={2968 KeyNumber=3940, 2973 KeyNumber=3520, 2970 KeyNumber=3800, 2970 KeyNumber=4601, 2969 KeyNumber=3701, 2969 KeyNumber=3600, 2971 KeyNumber=3702, 3082 RemainingUses=50, 3004, 3084 RemainingUses=250, 3085 RemainingUses=200, 2854 Content={3078, 2991, 3045 RemainingUses=200, 3012, 3045 RemainingUses=200, 3045 RemainingUses=200, 3083 RemainingUses=150, 3056 RemainingUses=200, 3054 RemainingUses=1, 3012, 3054 RemainingUses=200, 3012, 3012, 3012, 3083 RemainingUses=147, 3045 RemainingUses=200, 3012}, 2854 Content={3052, 3052, 3052, 3097, 3007, 3007, 3007, 3097, 3007, 3007, 3007, 3097}}, 3208, 2991, 3034 Amount=1, 3211, 3078, 3077, 3017, 2957, 2989, 3576}, 2854 Content={2854 Content={3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046, 3046}}, 3502}, 
+               1 Content={3287 Amount=1, 3504 Content={3507 String="koko loco\ncarlin" Editor="Vikis"}, 2853 Content={3003, 2874, 2874, 3457, 3349, 3349, 3349}, 3502 Content={2868, 2871, 2853 Content={2854}, 3449 Amount=4}}, 
+               2 Content={2970 KeyNumber=3801, 2970 KeyNumber=3802, 2970 KeyNumber=3800, 3502 Content={}}, 
+               3 Content={3502}, 
+               4 Content={3003, 3483, 3457, 3502}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3035 Amount=8, 3031 Amount=75, 2865 Content={2865 Content={3031 Amount=7}, 2854, 2871, 2869, 2865}, 2854 Content={3349, 3350, 3447 Amount=100, 3447 Amount=100, 3447 Amount=71, 3091, 3287 Amount=2, 3298 Amount=2, 3147, 3147, 3147, 3147}, 3028 Amount=2, 3483, 3308, 3277 Amount=6, 3502 Content={3598 Amount=2}}, 
+               7 Content={2854 Content={3349, 3349, 3046, 3046, 3449 Amount=13, 3349, 3349, 3007, 3301, 3045 RemainingUses=200, 3285, 3298 Amount=1}, 3583 Amount=31, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n", 2821 String="So the seven were banished to the depths of seven cursed tombs. There they are waiting, imprisoned for eternity.\nOne was buried outside the city in the shadows of the south-eastern tower, close to the pharaoh yet forever banished from his grace.\nOne was buried in the ancient ruins far to the north, a tribute to her love for all that is old.\nOne was buried at the tar pits. Blackness engulfed his withering heart, and blackness shall engulf his final demise.\nOne was buried in the fields of stone. His will was as hard as a rock, so lifeless stone will cause his fall.\nOne was buried near the Mountain, between its eternal body and a small stony hill, so that his rest may be eternal and unrelenting like the mountain he loved so much.\nOne was buried somewhere on the peninsula to the south, so that his restless slumber might be soothed by the murmuring of the waves.\nOne was buried not far to the north of the oasis. He was the one who found it most difficult to part from this world.\nThe sands of the desert swallowed them all and sealed their fate. They are lost and yet they are denied the peace of true death.\nThis is the fate of those who draw the wrath of the pharaoh on themselves.", 2816 String="In ancient tombs beneath the burning endless sands\n\nWhere neither sunlight reaches nor the pale-faced moon\n\nThe whispers of the long deceased traitors dance\nBloodthirsty creatures screeching an unholy tune\n\nDark are the mysteries surrounded by doomed cries\n\nUncurtained to the warriors of righteous mind\n\nWho well-prepared with magic, sharpened blade and eyes\n\nStep through the doors and leave their mortal fear behind.", 3502}}

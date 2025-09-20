@@ -1,0 +1,60 @@
+ID              = 8832218
+Name            = "Lord Nall"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (133,79-79-76-79)
+CurrentOutfit   = (133,79-79-76-79)
+LastLogin       = 1148046075
+LastLogout      = 1148046256
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32681,31689,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,295235,0,330400,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,222784,1400,313485,1600)
+Skill = (2,338,385,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,245,335,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,88643,1100,96017,100)
+Skill = (7,68,0,10,0,0,0,0,0,0,0,82566,1100,82740,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,2,1200,50,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,231,1200,268,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,29,0,10,0,0,0,0,0,0,0,9147,1200,9334,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,59,0,10,0,0,0,0,0,0,0,22768,1100,23278,20)
+Skill = (14,0,1200,0,0,0,1124,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,93,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,6,8,10,29,42,76,79,81}
+QuestValues = {(20,1),(96,1),(97,1),(98,1),(106,1),(107,1),(111,1),(112,1),(115,1),(116,1),(117,1),(118,1),(121,1),(190,1),(191,1),(223,1),(226,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2872 Content={3607, 3592, 3585 Amount=1, 3446 Amount=60, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3160 Charges=1, 3160 Charges=1, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3049 SavedExpireTime=169, 3148 Charges=2, 3457, 3003}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3556},
+               9 Content={3004},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3502 Content={}}, 
+               1 Content={3502 Content={2868}}, 
+               3 Content={3582 Amount=4, 2854 Content={3031 Amount=100, 3031 Amount=24, 3031 Amount=100, 3031 Amount=100, 2853, 2969 KeyNumber=3033}, 2872 Content={2854 Content={2867}}, 3504 Content={3349, 3483}, 2473 Content={2868 Content={2868, 3736 Amount=1, 3034 Amount=1, 3039, 3061, 3077, 3076, 3658, 3740 Amount=1, 2992 Amount=4, 3287 Amount=4, 3042 Amount=4, 3017, 3050 SavedExpireTime=1118, 3017, 3330, 2389}, 2867 Content={3084 RemainingUses=250, 3077, 3046}, 2866 Content={3031 Amount=8}, 2853 Content={3483, 2868 Content={2869}}, 2871 Content={2853 Content={3083 RemainingUses=137, 3084 RemainingUses=157, 3483, 3092 SavedExpireTime=1365, 3054 RemainingUses=200}, 2865 Content={3449 Amount=25, 2853 Content={3409, 3409, 3409, 3409, 3409, 3409}, 2853 Content={3264, 3367, 3275, 3286}, 2853 Content={3301, 3301, 3301, 3301, 3301}, 3349, 3349, 3349, 3349, 3349, 3349}, 2868 Content={3008, 3008, 3097 SavedExpireTime=2436, 2969 KeyNumber=3033, 3097, 3739 Amount=1, 2659, 2656, 3208, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=598}, 3739 Amount=1, 3059, 3045 RemainingUses=200, 3147}, 2865}, 2869 Content={3504 Content={3507 String="lord nall \nedron\n", 2920 SavedExpireTime=551, 3307, 3421}, 3377, 3430, 3492 Amount=100, 3492 Amount=100, 3492 Amount=20, 2949, 3031 Amount=6, 3008, 3668}, 3502 Content={3148 Charges=3, 3084 RemainingUses=250, 2868 Content={2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2857 Content={3277 Amount=20}, 3583 Amount=3, 3582 Amount=29, 2854 Content={3446 Amount=27, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2854 Content={2991, 3449 Amount=14, 3384, 3351, 3265, 2865}, 3035 Amount=45, 3503 Content={3507 String="sir puas\nab'dendriel" Editor="Sir Puas"}}}, 
+               4 Content={3457, 3349, 3504 Content={3003, 3483, 3507 String="lord nall\nedron\n"}, 3502}, 
+               5 Content={2853 Content={3197 Charges=2, 3148 Charges=1}, 2869, 3446 Amount=100, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=46, 3583 Amount=7, 3357, 3031 Amount=100, 3050 SavedExpireTime=1795, 3050 SavedExpireTime=1796, 3351, 3031 Amount=100, 3738 Amount=1, 3447 Amount=38, 3350, 3372, 3050, 3056 RemainingUses=200, 3056 RemainingUses=200}}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="lord nall \nankrahmun"}, 3578 Amount=5, 3502 Content={3367}}, 
+               8 Content={2471 Content={3031 Amount=18, 3031 Amount=100}, 3483, 2866 Content={}, 2868 Content={3446 Amount=40}, 3504 Content={3593, 3723 Amount=47, 3586 Amount=4, 3492 Amount=13, 3589 Amount=30, 2853 Content={3582 Amount=28}, 3593, 3590 Amount=7, 3587 Amount=34, 3584 Amount=1}, 3502 Content={2866 Content={}, 3031 Amount=30, 3446 Amount=40, 3351, 3483, 3457, 3034 Amount=1, 3287 Amount=1, 3008}}}

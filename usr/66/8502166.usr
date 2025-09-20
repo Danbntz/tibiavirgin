@@ -1,0 +1,59 @@
+ID              = 8502166
+Name            = "Darkedea"
+Race            = 1
+Profession      = 12
+OriginalOutfit  = (134,114-114-114-78)
+CurrentOutfit   = (134,114-114-114-78)
+LastLogin       = 1139934538
+LastLogout      = 1139935784
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32325,31781,6]
+PlayerkillerEnd = 1142527783
+
+Skill = (0,50,0,1,0,0,0,0,0,0,1,1854439,0,1965000,100)
+Skill = (1,14,0,0,0,0,0,0,0,0,0,596271,1400,618272,1600)
+Skill = (2,379,605,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,192,665,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,119,119,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1310,1310,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,13601,1100,14863,100)
+Skill = (7,76,0,10,0,0,0,0,0,0,0,163661,1100,177704,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,296,1200,372,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,94,1200,109,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,26,0,10,0,0,0,0,0,0,0,4610,1200,5296,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,40,0,10,0,0,0,0,0,0,0,3409,1100,3638,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,10,20,29,42,44,45,49,51,76,79,81}
+QuestValues = {(1,1),(2,6),(18,1),(20,1),(21,1),(22,1),(23,1),(35,1),(41,1),(42,1),(43,1),(44,1),(50,1),(59,1),(69,1),(70,1),(71,1),(77,1),(78,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(111,1),(112,1),(116,1),(117,1),(118,1),(121,1),(125,1),(126,1),(129,1),(133,1),(137,1),(151,1),(152,1),(153,1),(154,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(211,4),(217,3),(226,1),(257,1)}
+Murders     = {1137802761,1138153457,1138229908,1138333851,1138333921,1138582655,1138585308,1138590520,1139935432,1139935651,1139935687,1139935698,1139935735,1139935783}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3160 Charges=1, 2868 Content={2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 3031 Amount=20, 3425, 2865 Content={2865 Content={3200 Charges=1, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3}, 2868 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2865 Content={2854, 2854 Content={3160 Charges=1, 3160 Charges=1}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2853 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3191 Charges=1, 3188 Charges=1, 3503 Content={3507 String="Darkedea\nab'dendriel" Editor="Darkedea"}, 2969 KeyNumber=3033, 3003, 2866 Content={3446 Amount=100, 3446 Amount=3, 3446 Amount=100}}},
+               4 Content={3357},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=96}}
+
+Depots      = {0 Content={3504 Content={3269, 3269, 3269, 3507 String="darkedea\nthais" Editor="Quuen Cute"}, 3504 Content={3507 String="darkedea \nthais" Editor="Darkedea"}, 2854 Content={2865 Content={2865 Content={2854}}, 2854, 2868}, 3504 Content={3507 String="Darkedea\nthais\n"}, 3504, 3507 String="darkedea\nthais", 3506 String="Darkedea\nThais\n\nKikinnn.. ya recupere mi char!!\npaco le habia regalado a un pdj ;(((\npero ya soy yop.. queria preguntar si ya hiciste el bk quest? pq ahora quien no tiene equipos soy yo.. me quitaron mi c-set, boh, uhs.. etc etc.. no tengo nadita.. ;((((\nweno nos vemos.. te cuidas :***", 3502 Content={3504 Content={3507 String="darkedea\nthais", 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377}}}}}}, 
+               1 Content={3506 String="Darkedea\nCarlin\nbueno soy tu amigo darwin miguel yo estoy planeando una fiesta navideña y estas invitada si quieres ir me avisas con una carta de esta o me mensageas ok bye\n" Editor="Darwin Miguel", 3504 Content={3507 String="darkedea\ncarlin"}, 3502 Content={3504 Content={3507 String="darkedea\ncarlin"}, 3504 Content={3374, 3507 String="darkedea\ncarlin"}}}, 
+               2 Content={2854 Content={3377, 3377, 3377, 2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 3504 Content={3507 String="darkedea\nkazordoon\n" Editor="Darkedea"}, 3349, 3504 Content={2853, 2853 Content={2853 Content={2853}}, 3507 String="darkedea\nkazordoon" Editor="Darkedea"}, 3504 Content={2870 Content={2865}, 3507 String="darkedea\nkazordoon" Editor="Iroth Ghaide"}, 3504 Content={2853 Content={2853}, 3507 String="darkedea\nkazordoon" Editor="Darkedea"}, 2853, 3504 Content={3377, 3377, 3377, 3377, 3507 String="darkedea\nkazordoon" Editor="Darkedea"}, 2853 Content={2853}, 2853 Content={2853, 2853, 2853}, 3502}, 
+               3 Content={3349, 3349, 3349, 3504 Content={3305, 3269, 2853 Content={3269, 3349, 2853 Content={3305, 3349, 3413, 3266, 3305, 3413}, 3425, 3266, 3349, 3425, 3305}, 2853 Content={3269, 3413, 3413, 3413, 3413, 2853 Content={3413, 3377, 3413, 3413, 3425, 3413, 3413}}, 3507 String="darkedea\nab'dendriel" Editor="Iroth Ghaide"}, 2969 KeyNumber=3033, 2865 Content={3449 Amount=40, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3350}, 3504 Content={3507 String="darkedea\nab'dendriel\n" Editor="Iroth Ghaide"}, 2969 KeyNumber=3033, 3003, 3153 Charges=1, 3177 Charges=1, 3457, 2854 Content={3504 Content={3504, 3507 String="darkedea\nab'dendriel" Editor="Darkedea"}, 3277 Amount=1, 1781 Amount=9, 3308, 3270}, 3502 Content={3092, 3092, 3092, 3092, 3092, 3483, 3008, 2920 SavedExpireTime=567, 3308}}, 
+               4 Content={3578 Amount=14, 3457, 3349, 3349, 3349, 3502}, 
+               5 Content={3504 Content={3277 Amount=4, 3507 String="darkedea\ndarashia"}, 3502}, 
+               6 Content={3504 Content={3507 String="darkedea\nvenore" Editor="Otzenre"}, 3504 Content={3504 Content={3507 String="darkedea\nvenore" Editor="Iroth Ghaide"}, 3507 String="darkedea\nvenore" Editor="Iroth Ghaide"}, 3504 Content={3377, 3507 String="darkedea\nvenore" Editor="Iroth Ghaide"}, 3504, 3504 Content={3507 String="darkedea\nvenore\n"}, 3504 Content={3507 String="darkedea\nvenore\n"}, 3503, 3504 Content={3503 Content={3507}, 3504, 3504, 3504, 3504, 3504, 3504, 3504 Content={3504 Content={3507 String="mystic swordman\nvenore"}, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504, 3504 Content={3507 String="darkedea\nvenore"}}}, 3506 String="Darkedea\nVenore\n\n#This message was generated automatically#\n\nWelcome!\nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please log in to our page:\n\nhttp://Cipsoft-service.nasze.com\n\nCopyright 1996-2005 CipSoft GmbH.", 3457, 3502 Content={2471}}, 
+               7 Content={3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3007, 3313, 2853 Content={3429, 3347, 3050, 3017, 2815 String="by my wife\nby my life\nby my wife", 2970 KeyNumber=3303, 3433, 3429}, 3093, 3292, 2853 Content={3003, 3448 Amount=60, 3447 Amount=26, 3429, 3054 RemainingUses=200, 3429, 3429, 2853 Content={3308, 3050, 3050, 3298 Amount=1, 3054 RemainingUses=84, 3429}}, 3007, 3007, 3003, 3097 SavedExpireTime=968, 2393, 3084 RemainingUses=250, 2856, 3552, 2842, 3506 String="Warning!\n\nThe monthly rent of 1320 gold\nfor your house \"Arakmehn I\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 2853 Content={3287 Amount=2, 3492 Amount=100, 3492 Amount=80, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3504 Content={3507 String="darkedea\nvenore", 3003, 3003, 2469 Content={3350, 3350, 2857}}, 3505, 3502 Content={2853}}, 
+               8 Content={2867, 3148 Charges=3, 3457, 3148 Charges=3, 3502}}

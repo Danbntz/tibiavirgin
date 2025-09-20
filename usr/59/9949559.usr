@@ -1,0 +1,56 @@
+ID              = 9949559
+Name            = "Irene Alhely"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (137,113-121-95-115)
+CurrentOutfit   = (137,113-121-95-115)
+LastLogin       = 1145378989
+LastLogout      = 1145378993
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32681,31681,7]
+PlayerkillerEnd = 0
+
+Skill = (0,15,0,1,0,0,0,0,0,0,1,40292,0,47000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,42937,1100,44759,1600)
+Skill = (2,220,220,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,245,245,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,84,84,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,540,540,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,13417,1500,17099,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,36,1800,84,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,125,1800,140,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7471,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,177,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,658,1100,718,20)
+Skill = (14,0,1200,0,0,0,414,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,5,8,10,15,29,42}
+QuestValues = {(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3577 Amount=4, 3582 Amount=1, 3723 Amount=10, 3189 Charges=3, 3160 Charges=1, 3198 Charges=5, 3198 Charges=5}},
+               4 Content={3357},
+               5 Content={3070},
+               6 Content={3425},
+               7 Content={3557},
+               10 Content={3003}}
+
+Depots      = {0 Content={3502 Content={3264, 3031 Amount=75, 3492 Amount=40, 3577 Amount=4, 2920 SavedExpireTime=0, 2920 SavedExpireTime=331, 3031 Amount=100}}, 
+               1 Content={3504 Content={3507 String="irene alhely\ncarlin", 3384, 3317, 3421, 3357, 3092 SavedExpireTime=146, 3097 SavedExpireTime=3596, 2871 Content={3077, 3059, 3045 RemainingUses=182, 3483, 3026 Amount=1, 2969 KeyNumber=4055, 3084 RemainingUses=12}}, 3504 Content={3358, 3421, 3507 String="irene alhely\ncarlin", 3026 Amount=1, 3384, 3372, 3323, 3092 SavedExpireTime=1791, 2867 Content={2867}}, 3502}, 
+               2 Content={3502 Content={3552, 3031 Amount=96, 3031 Amount=100, 3358, 3446 Amount=21}}, 
+               3 Content={3502 Content={3358, 3286, 3577 Amount=32, 3504 Content={3587 Amount=3, 3590 Amount=4, 3591 Amount=4, 3592, 3066, 2865 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3668, 3658, 3583 Amount=2, 3507 String="Irene Alhely\nab'dendriel\n\nhola como stas preciosa soy esteban escribeme ..:)" Editor="Irene Alhely"}, 3504 Content={3507 String="irene alhely\nab'dendriel\n" Editor="Irene Alhely", 2865 Content={3384, 3012, 3046 SavedExpireTime=2929, 3097 SavedExpireTime=3599, 2867 Content={3056 RemainingUses=200}, 3483, 3085 RemainingUses=182, 2865 Content={3492 Amount=96, 3492 Amount=80, 3372}, 3425, 3046 SavedExpireTime=585, 3056 RemainingUses=199, 3572, 3311, 3286}}, 3457, 3658, 2868 Content={3066, 3198 Charges=2, 3198 Charges=5, 3147, 3147, 3668, 3658, 3160 Charges=1, 3003, 3198 Charges=5, 3189 Charges=3, 3189 Charges=1, 3198 Charges=5, 3270, 3457}, 3492 Amount=32, 3483, 3457, 2874 ContainerLiquidType=1, 2472 Content={2853 Content={2853 Content={3031 Amount=6}, 3035 Amount=17}, 3409, 3357, 3311, 2854 Content={2853 Content={2853 Content={3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=3, 3189 Charges=2, 2853, 3189 Charges=3}}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=1, 3198 Charges=1, 3198 Charges=5, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3492 Amount=13, 2853 Content={3282, 3282, 3456, 3425}, 2853 Content={3492 Amount=13}, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 3129, 3129}}, 3362, 3377, 2853 Content={2920, 2920, 2920, 2920, 2920, 2920, 2920, 2920 SavedExpireTime=544}, 3367, 3661, 2981, 2984, 2981, 2983, 3374, 3003, 2853 Content={2992 Amount=5, 3577 Amount=1, 3582 Amount=9, 3723 Amount=12, 2853 Content={3597 Amount=2, 3595 Amount=1, 3585 Amount=2, 3590 Amount=3, 3587 Amount=5, 3591 Amount=2, 3588 Amount=5, 2853 Content={3668, 3658, 3668, 3668, 3658, 3658, 3658}}, 3578 Amount=21}, 2853 Content={3003, 3003, 3003, 3283, 3447 Amount=3, 3277 Amount=12, 3003, 3410}, 2853 Content={3308, 2853 Content={2920}, 3457, 3492 Amount=21, 3559, 2853}, 2853 Content={2853 Content={3031 Amount=70, 3446 Amount=16, 3273, 3410, 2920, 2920, 2920}, 2920, 2920, 2920, 2920, 2853 Content={2920 SavedExpireTime=590, 2920, 2920, 2920, 2920, 2920, 2920, 2920}, 2920}, 3552}}, 
+               6 Content={3502}}

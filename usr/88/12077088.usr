@@ -1,0 +1,51 @@
+ID              = 12077088
+Name            = "Scorpion Zenze"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,78-97-97-78)
+CurrentOutfit   = (128,78-97-97-78)
+LastLogin       = 1148249002
+LastLogout      = 1148249030
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32353,32228,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,199007,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,104212,3000,193600,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,76,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,68580,1100,71890,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,35,1400,71,30)
+Skill = (8,55,0,10,0,0,0,0,0,0,0,38599,1100,39589,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,107,1100,165,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,163,1100,189,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,81}
+QuestValues = {(18,1),(32,1),(33,1),(34,1),(35,1),(96,1),(97,1),(111,1),(112,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3031 Amount=47, 3003, 3457}},
+               5 Content={3425},
+               10 Content={3003}}
+
+Depots      = {0 Content={3504 Content={3507 String="Scorpion Zenze\nthais\n" Editor="Teofilin"}, 2868 Content={3372, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2857 Content={3291}, 3504 Content={2854 Content={3483, 2955}, 3507 String="Scorpion zenze\nthais\n" Editor="Scorpion Zenze"}, 2869 Content={3077, 3083 RemainingUses=149}, 2865 Content={2866 Content={2869 Content={2854 Content={2867 Content={2867 Content={2868 Content={2854 Content={2865 Content={2854 Content={2867 Content={2865 Content={2854 Content={2854 Content={2865 Content={2868 Content={2869 Content={2867 Content={2865 Content={2865 Content={2868}}}}}}}}}}}}}}}}}}}}, 3502 Content={2854 Content={3003, 2857, 3505 String="Scorpion Zenze\nHunting Here\nPLz Let me hunting on peace\n" Editor="Scorpion Zenze", 3276, 3276, 3003}, 2872, 2865 Content={3313, 2854 Content={3093 SavedExpireTime=1796, 3084 RemainingUses=250, 3559, 3421, 3148 Charges=1}, 3003, 2969 KeyNumber=3033, 3563}}}, 
+               1 Content={3504 Content={3507 String="Scorpion Zenze\nCarlin" Editor="Radical Cross"}, 3504 Content={3507 String="Scorpion Zenze\ncarlin\n" Editor="Padmme"}, 3504 Content={3507 String="Scorpion zenze\nCarlin" Editor="Samlee"}, 3504 Content={3507 String="Scorpion Zenze\nCarlin" Editor="Spider Zenze"}, 3502}, 
+               2 Content={3504 Content={3507 String="scorpion zenze\nkazordoon" Editor="Scorpion Zenze"}, 3502}, 
+               3 Content={3502 Content={3097}}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}, 3410, 3410, 3410}, 3410, 3410, 3358, 3410}}, 3277 Amount=1}, 3507 String="scorpion zenze\ndarashia" Editor="Scorpion Zenze"}, 3446 Amount=63, 3572, 3502 Content={3084 RemainingUses=250, 2866 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=45}}}

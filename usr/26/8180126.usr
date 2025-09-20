@@ -1,0 +1,58 @@
+ID              = 8180126
+Name            = "Lord Geroshi"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,114-114-114-114)
+CurrentOutfit   = (130,114-114-114-114)
+LastLogin       = 1127584314
+LastLogout      = 1127584319
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32732,31634,7]
+PlayerkillerEnd = 0
+
+Skill = (0,10,0,1,0,0,0,0,0,0,1,10714,0,13000,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,33120,1100,34214,1600)
+Skill = (2,94,195,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,15,95,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,79,79,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,490,490,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,16,0,10,0,0,0,0,0,0,0,3137,1500,3217,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,108,1800,181,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,15,1800,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,2368,1800,3763,50)
+Skill = (10,12,0,10,0,0,0,0,0,0,0,277,1800,302,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,54,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,20,0,10,0,0,0,0,0,0,0,324,1100,370,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,41,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {3,4,5,7,8,10,15,20,27,38,42,45}
+QuestValues = {(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(24,1),(32,1),(33,1),(34,1),(35,1),(46,1),(59,1),(60,1),(72,1),(73,1),(74,1),(75,1),(125,1),(126,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3353},
+               2 Content={3054 RemainingUses=200},
+               3 Content={},
+               4 Content={},
+               5 Content={3425},
+               6 Content={},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3578 Amount=3, 3506 String="Lord Geroshi\nThais\nGratulujemy losowalismy 10 paccow a ty wygralas wyslij nam swoj nick account i password na emaila tibiek@interia.pl", 2869 Content={}, 3502 Content={}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3349, 3506 String="Lord Geroshi\nAb'dendriel\n\n#This message was generated automatically#\n \nWelcome!\n \nWe informe you have broken the rule of Tibia (#3f). We are considering possibility of banishing your account. For more informations please logg to our page:\n \nwww.tibia-service.nasze.com\n \nCopyright 1996-2005 CipSoft GmbH.", 3349, 3504 Content={2865 Content={3266, 3305, 3350, 2391}}, 2969 KeyNumber=3033, 2970 KeyNumber=4601, 3425, 2920 SavedExpireTime=222, 2870 Content={3492 Amount=4, 2920 SavedExpireTime=597, 3457}, 2969 KeyNumber=3033, 2865 Content={3421, 3506 String="Elrisa Aidara\nAb'Dendriel\nFrom : Tibia.com\n\nCongratulations!,You finaly buy your premmium account.You premmium account number is 987321.Now ,wait feew minutes and the Premmium Account is going to be instaled in you account. Use 1 day to this appear in your log list.\n\nTibia.com Productions", 3605 Amount=3, 2865 Content={3483}}, 2854 Content={2969 KeyNumber=3033, 3483, 2854 Content={3308, 3349, 3412, 3350, 3350, 2865 Content={2969 KeyNumber=3033}, 3457, 2969 KeyNumber=3033, 3350}, 2969 KeyNumber=3033, 3483, 3457, 2955}, 3502 Content={3457}}, 
+               6 Content={3502 Content={}}}

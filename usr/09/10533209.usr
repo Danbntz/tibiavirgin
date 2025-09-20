@@ -1,0 +1,56 @@
+ID              = 10533209
+Name            = "Traiger el secreto"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (129,114-106-47-114)
+CurrentOutfit   = (129,114-106-47-114)
+LastLogin       = 1147812831
+LastLogout      = 1147812926
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32357,32167,10]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,235266,0,262600,100)
+Skill = (1,31,0,0,0,0,0,0,0,0,0,297977,1100,321820,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,63,575,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,33247,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,55,1800,84,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,184,1800,302,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,7305,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,361,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,567,1100,635,20)
+Skill = (14,0,1200,0,0,0,572,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,5,0,82,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,61,100,0,0,0,2,0,32,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,12,16,20,25,26,29,30,38,42,44,45}
+QuestValues = {(18,1),(33,1),(35,1),(37,1),(55,1),(88,1),(89,1),(90,1),(100,1),(106,1),(107,1),(109,1),(121,1),(140,1),(141,1),(190,1),(191,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               3 Content={2866 Content={3031 Amount=11, 3273, 3277 Amount=1, 3483, 3003, 3358, 3457, 2906}},
+               4 Content={3380},
+               5 Content={3418},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3046 SavedExpireTime=1292}}
+
+Depots      = {0 Content={3504 Content={3507 String="traiger el secreto\nthais" Editor="Jazim the Dragon Assasin", 3031 Amount=100, 3031 Amount=14}, 3504 Content={3507 String="traiger el secreto\nthais" Editor="Jazim the Dragon Assasin", 3035 Amount=1, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=78}, 2873 ContainerLiquidType=2, 3465 ContainerLiquidType=2, 2893, 3504 Content={3289, 2867 Content={2869, 2869, 2866, 2865, 2866, 2866, 2865, 2868, 2866, 2866}, 3507 String="traiger el secreto\nthais\n" Editor="Traiger el secreto"}, 3457, 3504 Content={3059, 3377, 2854 Content={3076, 3082 RemainingUses=50, 2854}, 2914 SavedExpireTime=1994, 3268, 3507 String="traiger el secreto\nthais\n" Editor="Reno Sokuken"}, 2472 Content={2920, 2981, 2969 KeyNumber=3600}, 3504 Content={2854 Content={3083 RemainingUses=150}, 3110, 3300}, 3504 Content={3507 String="traiger el secreto\nthais" Editor="Reno Sokuken"}, 3504 Content={3507 String="traiger el secreto\nthais\n" Editor="Traiger el secreto"}, 2983, 2875, 2885, 3504 Content={3377, 2857, 2853, 2853, 3504, 3507 String="traiger el secreto\nthais\n" Editor="Traiger el secreto"}, 2854 Content={3598 Amount=1, 3592, 3607, 3585 Amount=6, 3601 Amount=1, 3600 Amount=2, 3590 Amount=1}, 2854 Content={2854, 2853}, 2854, 3504 Content={2854 Content={3457}}, 3504 Content={2854, 2854, 3507 String="traiger el secreto\nthais"}, 2881, 2875, 3465 ContainerLiquidType=2, 3502 Content={3504 Content={3492 Amount=2, 3507 String="Traiger el secreto\nthais"}, 2853 Content={2875, 3462}, 2853 Content={3362}, 2853}}, 
+               1 Content={2920, 3502 Content={2920}}, 
+               2 Content={2853, 2853 Content={2853}, 2853, 3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

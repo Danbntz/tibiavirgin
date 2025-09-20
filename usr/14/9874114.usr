@@ -1,0 +1,54 @@
+ID              = 9874114
+Name            = "Chelita del gada"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (136,92-114-114-92)
+CurrentOutfit   = (136,92-114-114-92)
+LastLogin       = 1148068615
+LastLogout      = 1148068693
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33021,32050,7]
+PlayerkillerEnd = 0
+
+Skill = (0,28,0,1,0,0,0,0,0,0,1,304782,0,330400,100)
+Skill = (1,29,0,0,0,0,0,0,0,0,0,239464,1100,263190,1600)
+Skill = (2,285,285,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,244,635,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,97,97,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,670,670,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,24096,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,4,1800,30,30)
+Skill = (8,18,0,10,0,0,0,0,0,0,0,8388,1800,12334,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,9388,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,180,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,37,0,10,0,0,0,0,0,0,0,2500,1100,2684,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,1,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,4,5,8,9,10,12,16,18,20,25,26,28,29,33,42,44,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(69,1),(70,1),(71,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(99,1),(115,1),(125,1),(126,1),(190,1),(191,1),(217,3),(226,1),(332,1),(333,1)}
+Murders     = {}
+
+Inventory   = {2 Content={3572},
+               3 Content={2866 Content={3059, 3492 Amount=60, 3003, 3457, 3031 Amount=61, 3031 Amount=100, 2991}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3556},
+               10 Content={3483}}
+
+Depots      = {2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={2469 Content={3457, 3003, 3492 Amount=1, 3504 Content={2473 Content={2854 Content={3446 Amount=70}, 3584 Amount=1, 3586 Amount=1, 3597 Amount=1, 2473 Content={3591 Amount=1, 3585 Amount=1, 3738 Amount=5, 3582 Amount=48, 3723 Amount=83, 3723 Amount=100, 3577 Amount=15, 3599 Amount=1}}, 2865 Content={3147, 3147, 3147}, 2854 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3198 Charges=5, 3188 Charges=1, 3031 Amount=1}, 2865 Content={3308, 2854 Content={3372, 3198 Charges=3, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3425, 3425, 3425}}}, 3377, 3308}}}}, 3507 String="Chelita del gada\nvenore\n" Editor="Chelita del gada"}, 3507 String="Chelita del gada\nVenore\n" Editor="Chelita del gada"}, 2473 Content={3503 Content={3503 Content={2394, 3558, 2906, 2394, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 2394}, 3658}, 2853 Content={2853 Content={2853 Content={3275, 3425}, 3425, 3425, 3425, 3425, 3425, 3425}, 3277 Amount=2, 2853 Content={2853 Content={2853 Content={2853 Content={3377, 3377}, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 2853 Content={3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 2853 Content={3377, 2853 Content={3377, 2853 Content={3377, 2853 Content={3377, 2853 Content={3377, 2853 Content={2853 Content={3377, 2853 Content={3377, 3377, 3377, 3377, 2853 Content={3377, 3377, 3377, 3377, 3377, 3377}}}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377}}}, 3377, 3377, 3377, 3377, 3377, 3377}}}}}, 3502 Content={2469 Content={2659, 2659, 2656, 2656, 2667, 2667, 2667, 2866 Content={3076, 3076, 3076, 2659, 2656, 2667, 2667, 2667, 2667, 2667, 2667, 3046 SavedExpireTime=3000, 2955, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 3298 Amount=1, 3457, 3003}}, 2854 Content={2872, 2867, 2867, 2865, 2866, 2854, 2868, 2872}, 2473 Content={2955, 2992 Amount=10, 3083 RemainingUses=150, 3054 RemainingUses=200, 2469 Content={3483, 3350, 3350, 3350, 3350, 3350, 3483, 3483}, 2473 Content={2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483}, 3483, 3483, 3483, 3483}, 2473 Content={3447 Amount=10, 3448 Amount=34, 3287 Amount=13, 3350}, 3504 Content={2853 Content={2873 ContainerLiquidType=1, 2856 Content={2667, 2856 Content={3505 String="HOLA HEMOSHO PESHOSHO!! \nTE VOY A EXTRAÑAR MUSHO BB PESHOSHO, NO LO OLVIDES \n\nTAMBIEN TE EKRIBO PARA FELICITARTE POR NUESTRO ANIVERSARIO Y KIERO AGRADECERTE POR LOS 3 AÑOS K M HAS REGALÑADO JUNTO ATI\n\nTE AMO MI AMOR", 2659, 2667, 2659, 3289}, 2856, 2856, 2856 Content={2992 Amount=5, 3350, 3350}}, 2974, 3059}, 2991, 2991, 3504 Content={3046, 3046 SavedExpireTime=2995, 2955, 3084 RemainingUses=250, 3056 RemainingUses=200, 3504 Content={2969 KeyNumber=5000, 2969 KeyNumber=3033, 2969 KeyNumber=5000, 2973 KeyNumber=3520, 2969 KeyNumber=4600, 2969 KeyNumber=5010, 3504, 3463}, 3008, 3084 RemainingUses=250, 3054 RemainingUses=200, 3045 RemainingUses=199}, 3504 Content={3465, 3465, 3465, 3504 Content={3316, 3289, 2853 Content={2989, 2989, 2911 SavedExpireTime=2997, 2911 SavedExpireTime=645}}}, 3534 Amount=1, 3504 Content={3504 Content={3349, 3003, 2856 Content={2856 Content={3307, 2957, 3046 SavedExpireTime=2982, 3658}, 3308, 2815, 3509}}, 3003}}}, 2867 Content={3492 Amount=30, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2854 Content={2866, 2854, 2867, 2854, 2866, 2866, 2866, 2854, 2867, 2854, 2872, 2872, 2854, 2868, 2869, 2854, 2865, 2854, 2854, 2866}, 2868 Content={2867, 2866, 2866, 2868, 2868, 2868, 2868, 2868, 2867, 2867, 2867, 2867, 2867, 2869}}}}

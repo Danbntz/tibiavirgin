@@ -1,0 +1,60 @@
+ID              = 8726701
+Name            = "Blak Could"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,79-71-71-71)
+CurrentOutfit   = (134,79-71-71-71)
+LastLogin       = 1144298765
+LastLogout      = 1144298823
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,136423,0,156200,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,120890,1400,157982,1600)
+Skill = (2,235,325,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,19,245,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,750,750,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,38,0,10,0,0,0,0,0,0,0,14693,1100,14863,100)
+Skill = (7,57,0,10,0,0,0,0,0,0,0,28052,1100,28805,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,110,1200,181,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,28,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,809,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1377,1100,1428,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,6,8,29,42,51,76,79,81}
+QuestValues = {(14,1),(15,1),(17,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2865 Content={3003, 3031 Amount=93, 2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3492 Amount=4}},
+               4 Content={3383},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3551},
+               9 Content={3007},
+               10 Content={3447 Amount=26}}
+
+Depots      = {0 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2865, 3457, 3349, 3351}, 3425}}}}, 3507 String="Blak Could\nThais"}, 3502}, 
+               1 Content={3504 Content={2853 Content={3447 Amount=59, 3583 Amount=30, 3447 Amount=100, 3483, 3349}, 3507 String="blak could\ncarlin" Editor="Macon Crombie"}, 2854 Content={3286}, 3357, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3446 Amount=33, 3349, 2472 Content={3425, 3357, 3093, 3357, 3377, 2472 Content={3358, 3031 Amount=100, 3372, 3377, 3483, 3606 Amount=8, 3357, 3483, 3483, 3349, 2970 KeyNumber=3801, 2853 Content={3456, 2868 Content={3350}}}, 3504 Content={3030 Amount=2, 3658, 3606 Amount=21, 3658, 3277 Amount=17, 3031 Amount=100, 2983, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Theater Avenue 7, Flat 14\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3031 Amount=100}}, 3502 Content={3035 Amount=39, 3301, 3349, 3349, 2970 KeyNumber=3801, 3505 String="EY WEY NO GASTES MAS DINERO NAMAZ KASA Y YA NO COMPRES NADA.. LO BOY A ESTAR SHEKANDO EL MONO EN LA PAGINA NO TE BALLAN A MATAR YA WE Y NO GASTES NADA NI PASES LA CONTRASEÑA A NADIE Y TAMPOKO LA CAMBIES." Editor="Blak Could", 3504 Content={2970 KeyNumber=3800, 3411, 3283, 3507 String="blak could\ncarlin", 2856}}}, 
+               2 Content={3502 Content={3349, 2920 SavedExpireTime=77, 3446 Amount=11, 3349, 3483, 3093 SavedExpireTime=0, 3092 SavedExpireTime=0}}, 
+               3 Content={2868 Content={}, 3003, 3305, 3269, 3269, 3504 Content={3277 Amount=20, 3507 String="blak could\nab'dendriel", 3578 Amount=24}, 3502 Content={2854 Content={}}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={3502}, 
+               7 Content={3377, 3349, 3577 Amount=73, 3287 Amount=1, 3583 Amount=5, 3351, 3377, 3377, 3457, 3502 Content={3031 Amount=100, 3285, 2869 Content={3285}, 3031 Amount=100}}, 
+               8 Content={3502 Content={}}}

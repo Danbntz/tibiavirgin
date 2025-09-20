@@ -1,0 +1,60 @@
+ID              = 8504409
+Name            = "Helen Of Troya"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (142,79-0-114-0)
+CurrentOutfit   = (142,79-0-114-0)
+LastLogin       = 1148258008
+LastLogout      = 1148258205
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33246,32446,6]
+PlayerkillerEnd = 0
+
+Skill = (0,81,0,1,0,0,0,0,0,0,1,8239963,0,8540100,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,989769,3000,1748800,1600)
+Skill = (2,1280,1280,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,366,400,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,150,150,0,20,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,2295,2295,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,76,0,10,0,0,0,0,0,0,0,587805,1100,592348,100)
+Skill = (7,13,0,10,0,0,0,0,0,0,0,193,1400,213,30)
+Skill = (8,82,0,10,0,0,0,0,0,0,0,505409,1100,525076,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,86,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,43,1100,50,50)
+Skill = (11,36,0,10,0,0,0,0,0,0,0,5685,1100,6054,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,5073,1100,5420,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,80,81,93}
+QuestValues = {(1,1),(2,6),(3,1),(4,1),(5,1),(6,1),(7,1),(9,1),(10,1),(11,1),(12,1),(17,1),(19,1),(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(36,1),(37,1),(38,1),(41,1),(42,1),(43,1),(44,1),(49,1),(50,1),(54,1),(55,1),(56,1),(57,1),(59,1),(61,1),(62,2),(63,1),(64,1),(67,1),(68,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(79,1),(80,1),(81,1),(82,1),(83,1),(88,1),(89,1),(90,1),(91,1),(92,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(99,1),(101,1),(102,1),(103,3),(104,1),(105,1),(106,1),(107,1),(108,1),(109,1),(111,1),(112,1),(113,1),(114,1),(116,1),(117,1),(118,1),(121,1),(124,1),(125,1),(126,1),(127,1),(131,1),(133,1),(137,1),(140,1),(141,1),(142,1),(143,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(154,1),(155,1),(166,1),(167,1),(168,1),(169,1),(170,1),(171,1),(172,1),(174,1),(179,1),(180,1),(181,1),(185,1),(186,1),(190,1),(191,1),(193,1),(194,1),(195,1),(196,1),(197,1),(198,1),(200,1),(201,1),(202,1),(205,1),(208,1),(211,4),(216,1),(217,3),(222,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(253,1),(269,1)}
+Murders     = {1146187275}
+
+Inventory   = {1 Content={3392},
+               2 Content={3055},
+               3 Content={2872 Content={3052 SavedExpireTime=1017, 3291, 3503 Content={3507 String="helen of troya\nvenore\n" Editor="Helen Of Troya"}, 3503 Content={3507 String="helen of troya\n" Editor="Helen Of Troya"}, 3503 Content={3507 String="helen of troya\nvenore\n" Editor="Helen Of Troya"}, 3031 Amount=97, 3505 Editor="Helen Of Troya", 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}, 3275, 2973 KeyNumber=3520, 3308, 2872 Content={3446 Amount=21, 2866 Content={2872}}, 3003, 3457}},
+               4 Content={3386},
+               5 Content={3420},
+               7 Content={3371},
+               8 Content={3079},
+               10 Content={3281}}
+
+Depots      = {0 Content={3291, 2871 Content={2868 Content={2854, 2854, 2854, 2854, 2868, 2868, 2868, 2854}, 2854}, 3504 Content={3507 String="Helen Of Troya\nThais" Editor="Helen Of Troya", 2867}, 3504 Content={3507 String="Helen Of Troya\nThais" Editor="Helen Of Troya", 2854 Content={2871}}, 3492 Amount=87, 3502}, 
+               1 Content={3552, 2981, 2865, 3502 Content={2981, 3504 Content={3507 String="Helen Of Troya\nCarlin\n\n\nTE AMO BEBE!! =***" Editor="Nisky"}}}, 
+               2 Content={3035 Amount=27, 2866 Content={3092, 3092, 3092, 3092, 3092}, 3502 Content={3377, 3349, 3349, 3349, 3377, 3349, 3377, 3377}}, 
+               3 Content={3505 Editor="Helen Of Troya", 3505 String="\n\n" Editor="Helen Of Troya", 3506 String="Helen Of Troya\nAb'dendriel\n\n\nHolaa Amoooooooorrr!!! Solo keria decirte lo mucho ke te kiero!!! Aunke me imagino ke ya lo sabes, mi niña linda cuidese mucho.. Te Amo. \n\n                                       Atte:\n                 Alguien ke te adora un chingo..\n\n                                              ºNiskyº\n\n                                                " Editor="Thiminy", 2870, 3504 Content={3507 String="Helen Of Troya\nAb'dendriel", 2870, 2868, 2870, 2870}, 2869, 2867 Content={3003, 3559, 3412, 3376, 3378}, 2871 Content={2868, 3457, 2969 KeyNumber=5010, 3506 String="helen of troya \nab'dendriel\n\njeje jeje ya te mande una parcel con  otra parcel con uh's\ngrasias por el hat of the mad ;)\n\njejejejejejejejejejejejejjeejejejejje\n\n\nde Xelentin Oliste"}, 2871, 3502 Content={2869 Content={2866 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}}, 2856, 2867, 2854 Content={2865 Content={2969 KeyNumber=3033, 3012, 2969 KeyNumber=5000, 2969 KeyNumber=3033, 2970 KeyNumber=4503, 2973 KeyNumber=3520, 3012, 3056 RemainingUses=200, 3085 RemainingUses=200, 3056 RemainingUses=200, 2821 String="Surviving in the Swamp,\nby E. R. Grossom", 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2816 String="Wyrd Sisters\nby Terry P.", 3605 Amount=100, 3605 Amount=100}}}}, 
+               4 Content={2870 Content={2867, 2866}, 3425, 2872, 2854 Content={3050, 2969 KeyNumber=3650, 3308, 2969 KeyNumber=3620, 3092, 3093, 3091, 3091}, 2866 Content={3198 Charges=3, 3164 Charges=1, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3505 String="leave plx\nHelen Of Troya\nhut here" Editor="Helen Of Troya", 3074, 2871 Content={2854}, 3502}, 
+               5 Content={2866 Content={2866}, 2870 Content={2868 Content={3093 SavedExpireTime=130, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093, 3093}, 2867 Content={3093, 3093, 3093, 3051, 3051, 3093, 3051, 3093, 3097, 3093, 3050, 3051, 3097, 3051, 3051, 3093}}, 2872 Content={2871, 2871 Content={2854}}, 3412, 2948, 2969 KeyNumber=3302, 3658, 3502 Content={2872}}, 
+               6 Content={2871 Content={3349, 3349, 2853 Content={3349, 3349, 3349, 3349, 3349, 3349, 3349, 3349}, 2853 Content={3349, 3349, 3349}}, 3504 Content={2853 Content={3311, 3353, 3282}, 3507 String="Helen Of Troya\nvenore" Editor="Dragoon Wake"}, 3092, 3267, 2868 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3091 SavedExpireTime=1512, 2865 Content={3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425, 3425}, 2854 Content={2854 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 3502 Content={3035 Amount=73, 3357, 3384, 3192 Charges=1, 3192 Charges=2, 2856 Content={3446 Amount=75, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3192 Charges=2}, 2854 Content={2854, 2854, 3308}, 2866 Content={2867 Content={3092, 3092, 3092, 3092, 3092, 3092, 3092}, 2867, 2871 Content={3076, 3658, 3291, 3004, 3085 RemainingUses=200, 3051 SavedExpireTime=583, 3177 Charges=1, 3097, 3097 SavedExpireTime=2955}, 2869 Content={3155 Charges=1, 3172 Charges=2, 3198 Charges=5}, 2859 Content={2853 Content={2865 Content={2989, 3463, 3004, 3017}, 2821 String="This is the Journal of Krendorak, \nthe last of the Nightmare Knights:\n\nI tried to discover the secret of \nmy ancestors, but I failed. \nThe damned dragons tricked me! \nI escaped but I know I'm mortaly \nwounded. Even if I could get out off here, \nI will never make it to Knightwatch Tower \nto use its secret to resupply. Since \nnow that Camdrek is dead I will never be \nable to open it...\nIt is so hot, my sight is fading...\nMay the gods forgive my failing...\n"}, 3083 RemainingUses=150, 3059, 2949}, 3046 SavedExpireTime=2998, 2869 Content={3372, 3372, 3372, 3372, 3372, 3372, 3372}, 3093}, 2854 Content={2853 Content={3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}, 2853 Content={3276, 3276, 3276, 3276, 3276, 3276, 3276, 3276}}, 3583 Amount=32, 2869 Content={3093, 3093, 3060, 3085 RemainingUses=200}, 2854 Content={3483, 3483, 2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2853 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}}, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483}, 2872 Content={2866, 2867 Content={2867}, 2854, 2866, 2867 Content={2870, 2870}, 2866, 2866, 2870, 2865, 2871, 2872}}}, 
+               7 Content={3061, 3061, 3502 Content={2854 Content={2871, 2867, 2867}}}, 
+               8 Content={3502}}

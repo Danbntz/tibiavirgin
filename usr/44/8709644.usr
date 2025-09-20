@@ -1,0 +1,55 @@
+ID              = 8709644
+Name            = "Cieple Czango"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,114-114-114-114)
+CurrentOutfit   = (128,114-114-114-114)
+LastLogin       = 1147446355
+LastLogout      = 1147446395
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32936,32079,7]
+PlayerkillerEnd = 0
+
+Skill = (0,35,0,1,0,0,0,0,0,0,1,633657,0,658000,100)
+Skill = (1,13,0,0,0,0,0,0,0,0,0,402065,1400,440480,1600)
+Skill = (2,450,450,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,430,430,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,104,104,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1000,1000,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,54,0,10,0,0,0,0,0,0,0,66980,1100,71890,100)
+Skill = (7,69,0,10,0,0,0,0,0,0,0,86186,1100,91044,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,60,1200,109,50)
+Skill = (9,31,0,10,0,0,0,0,0,0,0,12555,1200,13551,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,3,1200,50,50)
+Skill = (11,17,0,10,0,0,0,0,0,0,0,682,1200,824,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,41,0,10,0,0,0,0,0,0,0,3789,1100,4022,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,12,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,15,20,30,45,51}
+QuestValues = {(32,1),(33,1),(34,1),(72,1),(73,1),(74,1),(75,1),(91,1),(92,1),(93,1),(94,1),(96,1),(97,1),(98,1),(99,1),(106,1),(107,1),(109,1),(115,1),(125,1),(126,1),(151,1),(152,1),(153,1),(190,1),(191,1),(217,3),(223,1),(226,1),(253,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3084 RemainingUses=138},
+               3 Content={2854 Content={2874, 3578 Amount=23, 3457, 3446 Amount=52, 3446 Amount=100, 3446 Amount=100, 3003, 2868 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3200 Charges=3, 3198 Charges=3, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}},
+               4 Content={3381},
+               6 Content={3349},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3446 Amount=99}}
+
+Depots      = {0 Content={3502 Content={3447 Amount=78, 3447 Amount=100, 3308, 3003, 3035 Amount=7, 3031 Amount=100, 3031 Amount=100, 2992 Amount=5}}, 
+               1 Content={3502}, 
+               3 Content={3502 Content={}}, 
+               6 Content={3502 Content={2472 Content={3359, 2874, 2874, 2874, 2874, 2874, 2874, 3605 Amount=11}, 2867 Content={3031 Amount=94, 3031 Amount=100}, 2866 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3147, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2868, 2867 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}, 2854 Content={3188 Charges=2, 3188 Charges=3}, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 2870 Content={3483, 3308, 3457, 3456, 3504 Content={3059, 3673, 3658, 3658, 2867 Content={2653, 3003, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653, 2653}}, 3293}, 2854 Content={2854, 2867 Content={2868 Content={2867}, 2854 Content={2867, 2867}}, 3045 RemainingUses=200, 3299, 3349, 2853 Content={3336}, 2853 Content={3285, 3285, 3285}, 2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 2853 Content={3367, 3367, 3367, 3367, 3367}}, 2818 String=">>>sell : warr hammer / dragon hammer / morning star / battle hammer (only venore) <<<<   buy small stone"}, 3504 Content={1781 Amount=100, 2870 Content={3446 Amount=100, 2854 Content={3446 Amount=100}, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 3349, 1781 Amount=8, 2867 Content={3447 Amount=10, 3447 Amount=100, 3446 Amount=48, 3446 Amount=100, 3449 Amount=64}}, 2867 Content={3734 Amount=1, 2970 KeyNumber=3142, 2969 KeyNumber=5010, 3030 Amount=2, 3026 Amount=1, 3027 Amount=2, 3028 Amount=5, 3029 Amount=4, 2902, 2854 Content={3093 SavedExpireTime=1763, 3093, 3097 SavedExpireTime=2107, 2853 Content={3085 RemainingUses=175, 3054 RemainingUses=200, 3008}, 3045 RemainingUses=200, 3083 RemainingUses=150, 3084 RemainingUses=250, 3093, 3092 SavedExpireTime=1433, 3097 SavedExpireTime=3599, 3097 SavedExpireTime=3593, 3092, 3097, 3050, 3097, 3050}, 3077, 2989, 3469, 3463, 2969 KeyNumber=4600}, 2865 Content={3583 Amount=4, 3588 Amount=100, 3598 Amount=3, 3592, 3595 Amount=11, 3590 Amount=17, 3586 Amount=3, 3597 Amount=3, 3607, 3593, 3585 Amount=1, 3601 Amount=2, 3598 Amount=2, 3602 Amount=6, 3725 Amount=2, 3724 Amount=6, 3723 Amount=57, 3735 Amount=1}, 2867 Content={3289, 3147, 3147, 3147, 3349, 3371, 3504 Content={3504 Content={3286, 3286, 3504 Content={3264, 3286, 3264, 3286, 3286}, 3286, 3286, 3286, 3264, 3286, 3264}, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3299, 3349, 3350, 3350, 3291}}}}

@@ -1,0 +1,54 @@
+ID              = 10603914
+Name            = "Liklef"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (140,79-77-114-77)
+CurrentOutfit   = (140,79-77-114-77)
+LastLogin       = 1148230112
+LastLogout      = 1148230757
+StartPosition   = [32957,32076,7]
+CurrentPosition = [33191,32508,7]
+PlayerkillerEnd = 1150662860
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,187911,0,204800,100)
+Skill = (1,28,0,0,0,0,0,0,0,0,0,224810,1100,237809,1600)
+Skill = (2,186,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,285,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,12344,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,14,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,665,1800,1118,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,540,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,150,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,16,0,10,0,0,0,0,0,0,0,174,1100,189,20)
+Skill = (14,0,1200,0,0,0,629,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,8,0,89,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,197,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,8,9,10,11,16,20,30,38,39,42,44,84}
+QuestValues = {(18,1),(39,1),(49,1),(54,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(112,1),(115,1),(121,1),(143,1),(145,1),(146,1),(147,1),(153,1),(190,1),(191,1),(208,1),(226,1),(253,1)}
+Murders     = {1146525229,1146525236,1146525252,1146525267,1146525334,1146525850,1147221731,1147222291,1147223264,1147379472,1147832988,1147833341,1147833699,1148070860}
+
+Inventory   = {4 Content={3377},
+               7 Content={3559},
+               10 Content={3504 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3031 Amount=16}}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={3507 String="Liklef \nVenore" Editor="Liklef"}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               5 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3352}}, 3352, 3354, 3354}}, 3354}, 3507 String="Liklef\nDarashia\n" Editor="Liklef"}, 3504 Content={3507 String="Liklef\nDarashia" Editor="Harry'macklay"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={3354, 3352}}, 3352}, 3354}, 3354}, 3354}, 3354, 3354}, 3354, 3352}, 3354, 3354}, 3507 String="Liklef\nDarashia\n" Editor="Liklef"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 2853, 3507 String="Liklef\nDarashia" Editor="Liklef"}, 3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}, 3507 String="Liklef\nVenore\n" Editor="Liklef"}, 3507 String="Liklef\nVenore\n" Editor="Liklef"}, 3507 String="Liklef\nDarashia\n" Editor="Liklef"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}, 3276, 3276, 3349, 3276}}}}, 3276}, 3276, 3349}}, 3349, 3276}}}, 3507 String="Liklef\nDarashia\n" Editor="Liklef"}, 3502}, 
+               6 Content={3093 SavedExpireTime=1799, 3046 SavedExpireTime=2998, 2656, 3502 Content={3092 SavedExpireTime=1796, 3505, 2969 KeyNumber=5010, 3505}}, 
+               7 Content={3502}, 
+               8 Content={3504 Content={3507 String="Liklef\nPort Hope" Editor="Ian mun hue"}, 3502}}

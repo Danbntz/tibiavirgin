@@ -1,0 +1,59 @@
+ID              = 7941689
+Name            = "Apollyion Dementor"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,0-88-114-115)
+CurrentOutfit   = (134,0-88-114-115)
+LastLogin       = 1147537650
+LastLogout      = 1147537680
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32681,31683,7]
+PlayerkillerEnd = 0
+
+Skill = (0,30,0,1,0,0,0,0,0,0,1,369442,0,409000,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,112800,3000,193600,1600)
+Skill = (2,515,515,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,47,145,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,99,99,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,1020,1020,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,51,0,10,0,0,0,0,0,0,0,51864,1100,53763,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,29,1400,30,30)
+Skill = (8,57,0,10,0,0,0,0,0,0,0,46145,1100,48008,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,48,0,10,0,0,0,0,0,0,0,7629,1100,8028,20)
+Skill = (14,0,1200,0,0,0,1026,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,20,29,76,81}
+QuestValues = {(17,1),(18,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(58,1),(59,1),(69,1),(84,1),(85,1),(86,1),(87,1),(111,1),(112,1),(125,1),(126,1),(190,1),(191,1),(223,1),(224,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3374},
+               2 Content={3083 RemainingUses=150},
+               3 Content={2867 Content={3586 Amount=3, 3504, 3504 Content={3507 String="thanal\nthais" Editor="Thorfar"}, 3504 Content={3507 String="Sharyztim Mortem\nThais" Editor="Sir Wyfex"}, 3504, 3031 Amount=18, 2869 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3358},
+               5 Content={3308},
+               6 Content={3409},
+               8 Content={3551},
+               10 Content={3483}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3503 Content={3507 String=""}, 3590 Amount=11, 3503 Content={3507 String=""}, 3446 Amount=3, 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3411, 3056 RemainingUses=200, 2866 Content={3350}, 2867, 3266, 3409, 3502 Content={3035 Amount=70, 3456, 3483, 2992 Amount=4, 3043 Amount=1, 3291, 3412, 3605 Amount=8, 3310}}, 
+               4 Content={3578 Amount=50, 3449 Amount=2, 3350, 3578 Amount=100, 3285, 3446 Amount=9, 3035 Amount=40, 3577 Amount=10, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3430, 3426, 2969 KeyNumber=4600, 2857 Content={3046 SavedExpireTime=0, 3077, 3084 RemainingUses=250, 3098 SavedExpireTime=0}, 3595 Amount=2, 3412, 3590 Amount=3, 3035 Amount=100, 2969 KeyNumber=3033, 2992 Amount=12, 2874 ContainerLiquidType=9, 3606 Amount=2, 3502 Content={}}, 
+               5 Content={3504 Content={3507 String="apollyion dementor\ndarashia"}, 3502 Content={2969 KeyNumber=3033, 3050 SavedExpireTime=0, 3056 RemainingUses=200}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3577 Amount=20, 3300, 3578 Amount=100, 3578 Amount=100, 3578 Amount=50, 3265, 3577 Amount=100, 2868 Content={}, 3502 Content={}}}

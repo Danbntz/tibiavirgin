@@ -1,0 +1,60 @@
+ID              = 8592935
+Name            = "Princesa Valerie"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (139,79-132-132-132)
+CurrentOutfit   = (139,79-132-132-132)
+LastLogin       = 1148149136
+LastLogout      = 1148149903
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32352,32233,8]
+PlayerkillerEnd = 0
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,741951,0,780700,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,251915,3000,582400,1600)
+Skill = (2,361,620,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,16,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,1195,1195,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,67,0,10,0,0,0,0,0,0,0,230434,1100,250637,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,13,1400,30,30)
+Skill = (8,68,0,10,0,0,0,0,0,0,0,137390,1100,137900,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,48,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,9,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,69,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,23,0,10,0,0,0,0,0,0,0,496,1100,559,20)
+Skill = (14,0,1200,0,0,0,972,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,1,0,2,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29,81}
+QuestValues = {(1,1),(2,6),(14,1),(15,1),(16,1),(20,1),(22,1),(23,1),(27,1),(36,1),(37,1),(41,1),(42,1),(43,1),(44,1),(55,1),(60,1),(61,1),(69,1),(70,1),(71,1),(72,1),(73,1),(74,1),(75,1),(86,1),(87,1),(88,1),(89,1),(90,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(121,1),(125,1),(126,1),(134,1),(140,1),(141,1),(151,1),(152,1),(190,1),(191,1),(211,4),(224,1),(253,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3008},
+               3 Content={2854},
+               4 Content={3381},
+               5 Content={3281},
+               7 Content={3371},
+               8 Content={3552},
+               10 Content={2854 Content={3003, 3577 Amount=2}}}
+
+Depots      = {0 Content={3502 Content={3582 Amount=7, 2854 Content={3275, 3599 Amount=4, 3661, 3412, 3415, 3446 Amount=4, 3377, 3377}, 2854 Content={3031 Amount=14, 3035 Amount=51, 3035 Amount=100}, 2854 Content={2854 Content={2853 Content={3093 SavedExpireTime=1679, 3083 RemainingUses=150, 3093, 3012, 3012, 3092, 3289, 3310}, 2853 Content={3092, 3092, 3077, 3033 Amount=1, 3093, 3093, 3093 SavedExpireTime=1787, 2969 KeyNumber=3600}}, 2854 Content={2854, 2854}, 2870, 3492 Amount=28, 3003, 3056 RemainingUses=200, 2991}}}, 
+               1 Content={3504 Content={3507 String="princesa valerie\ncarlin\n", 3357}, 3502}, 
+               2 Content={3502 Content={3008, 3291, 2469 Content={3114 Amount=6, 3593, 3587 Amount=2, 3589 Amount=5}, 2469 Content={3582 Amount=3, 3605 Amount=7, 3457, 2970 KeyNumber=3802, 3483, 3483}, 2469 Content={3012, 3299, 3012, 3457, 2970 KeyNumber=3801}}}, 
+               3 Content={3502 Content={3031 Amount=67, 3447 Amount=3, 3446 Amount=2, 2868 Content={2874}, 3074}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={2853 Content={3551, 2853 Content={3059 String="", 3059 String="", 3059 String=""}, 3551, 3551, 2901 ContainerLiquidType=0, 3003, 3003}, 2469 Content={2469 Content={}, 3503 Content={3503 Content={}}, 2469 Content={}, 2469 Content={}}, 2469 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3191 Charges=2, 3198 Charges=3, 3198 Charges=4, 3198 Charges=2, 3198 Charges=3, 3198 Charges=4}, 2857 Content={3035 Amount=96, 3457, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100, 3035 Amount=100}, 2854 Content={3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3483, 3582 Amount=54, 3582 Amount=100, 3582 Amount=100, 3577 Amount=100}, 2858 Content={2858 Content={2835 String="Please Be Nice and leave the shovel where it is, use it on the hole then put it back, thank you", 3349, 3350, 3012, 3353, 3147, 3147, 3147}, 2853 Content={3377, 3377}}, 2870 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=2, 3172 Charges=2}}, 2469 Content={2869 Content={3737 Amount=4, 3046 SavedExpireTime=2091, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=2999, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3032 Amount=1, 3026 Amount=1, 3033 Amount=3, 3027 Amount=2, 3674, 3674, 3674, 3738 Amount=12, 3736 Amount=1}, 2872 Content={2872 Content={3449 Amount=2, 3446 Amount=52, 3448 Amount=22, 3447 Amount=19, 3447 Amount=100, 2970 KeyNumber=3899, 3017, 3017, 3042 Amount=6, 3034 Amount=27, 3287 Amount=14, 3446 Amount=100}}, 2868 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3327, 3327, 3327, 3327, 3308}}, 2871 Content={2393, 3563, 2854 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 2870 Content={3077, 3077, 3077, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3097 SavedExpireTime=0, 3092 SavedExpireTime=0, 3092 SavedExpireTime=0, 3093 SavedExpireTime=0, 3053 SavedExpireTime=0, 3098 SavedExpireTime=447, 3098 SavedExpireTime=0, 3098 SavedExpireTime=0, 3050 SavedExpireTime=0, 3050 SavedExpireTime=0, 3049 SavedExpireTime=0, 3049 SavedExpireTime=0, 3052 SavedExpireTime=0}, 2854 Content={3083 RemainingUses=150, 3083 RemainingUses=150, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=11, 3045 RemainingUses=200, 3085 RemainingUses=200, 3008, 3008, 3082 RemainingUses=27, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 2871 Content={3056 RemainingUses=194, 3029 Amount=3, 3028 Amount=1, 3076, 3082 RemainingUses=50, 3565, 3565, 3012, 3012, 3012, 3012, 3012}, 2659, 2659, 2659, 2667, 2667, 3200 Charges=1, 2955, 3330, 3330, 3572}, 3668, 3658}, 2865 Content={2871 Content={3602 Amount=1, 3601 Amount=3, 3598 Amount=24, 3595 Amount=2, 3588 Amount=14, 3590 Amount=5, 3586 Amount=4, 3596 Amount=3, 3595 Amount=3, 3601 Amount=2, 3583 Amount=1, 3605 Amount=8, 2870 Content={3578 Amount=50, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}}, 3603 Amount=10}, 2866 Content={3291, 3492 Amount=100, 3457, 3316, 3316, 2853 Content={2828 String="... were sealed with powerful magic. Only those were allowed to pass who sacrificed one of the peculiar coins that in ancient times were paid by those who came to visit their beloved dead. For this was the way of the Ritual of Sealing. Behind the seal, the mighty traitors were trapped forever. Such was their hatred and their lust for revenge that the very walls and stones became imbued with them and the lower tombs turned into places of utter doom, places where no mortal should venture to go. And to this day one of the traitors lurks in each of these tombs, surrounded by vicious traps and by powerful minions that serve both to protect them and to hold them captive. Woe to the fools who dare challenge the traitors in their prisons! For torturing and killing intruders is the only amusement that is left to these tortured souls.", 3310, 3351, 3271, 3385, 3279, 3357, 3299}, 2868 Content={2865 Content={2865 Content={}}, 2870 Content={2870 Content={}, 2870 Content={}}, 2866 Content={2866 Content={2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}, 2866 Content={}}, 2869 Content={2869 Content={}, 2869 Content={}}, 2868 Content={2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}, 2868 Content={}}, 2867 Content={2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}, 2867 Content={}}, 2854 Content={2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}, 2854 Content={}}}, 2867 Content={2969 KeyNumber=3600, 2969 KeyNumber=5010, 2970 KeyNumber=3801, 2970 KeyNumber=3899, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=3620, 3740 Amount=1, 3316, 3316, 3327, 3327, 3327, 3327}}}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3457, 3447 Amount=18}}, 
+               8 Content={3502 Content={3593, 3586 Amount=5, 3031 Amount=25, 3031 Amount=100, 3035 Amount=5, 2866 Content={}}}}

@@ -1,0 +1,56 @@
+ID              = 9336782
+Name            = "Reed flam"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,94-114-94-114)
+CurrentOutfit   = (130,94-114-94-114)
+LastLogin       = 1146699874
+LastLogout      = 1146699888
+StartPosition   = [32732,31634,7]
+CurrentPosition = [32654,32344,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,203804,0,204800,100)
+Skill = (1,24,0,0,0,0,0,0,0,0,0,145940,1100,157355,1600)
+Skill = (2,230,265,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,150,515,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,630,630,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,24463,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,17,0,10,0,0,0,0,0,0,0,5739,1800,6824,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,13,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,66,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,297,1100,318,20)
+Skill = (14,0,1200,0,0,0,802,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,3,3,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,104,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,3,5,8,9,10,16,18,20,28,29,44,45}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(46,1),(67,1),(70,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(113,1),(114,1),(115,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(226,1),(333,1)}
+Murders     = {1145055770}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2868 Content={2920, 3031 Amount=91, 2920, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3069},
+               6 Content={3415},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2920 SavedExpireTime=135}}
+
+Depots      = {0 Content={3502 Content={3351, 3031 Amount=100, 3059, 3031 Amount=100, 3031 Amount=100, 3031 Amount=92, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2868 Content={3410, 3316, 3483, 3289, 3269, 3305, 3413, 3421, 3083 RemainingUses=150, 3093, 3384, 3377, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               1 Content={3502 Content={3421, 3297, 3052, 3052 SavedExpireTime=1191, 3035 Amount=66, 3031 Amount=73, 3077, 3052, 3084 RemainingUses=250, 3028 Amount=1, 3084 RemainingUses=250, 3066, 3362}}, 
+               3 Content={2865 Content={3172 Charges=3, 3351, 3282}, 3031 Amount=59, 3045 RemainingUses=200, 3065, 2853 Content={3275, 3074, 3265, 3425, 3425, 3425, 3377}, 2853 Content={2969 KeyNumber=5000, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 2824 String="Herbs and Plants of the Swamp, Volume II\n\nBlood Herb (herba budinia)\nA plant with large, dark red-colored blossoms. \nIt is nearly extinct due to its lack of strength - the herb can only survive in the shade, and often only by draining nitrates from trees, which die in the process. Therefore, those plants can been found near or sometimes even on the inside of dead trees.\n\nGoat Grass (flos capre)\nA low, nearly always four-leaved plant with yellow blossoms that grows in warm climate. It used to be the main source of food for the goats of the continent. However, later it was discovered to have a previously totally unknown poisenous long-term effect on the animals, and all goats died within two months.", 3017, 3017, 3030 Amount=2, 3028 Amount=3}, 2854 Content={3003, 3425, 3310, 3070, 3305, 3279, 3172 Charges=1, 3377, 3372, 3372, 3265, 3282, 3372, 3282, 3351, 3425, 3558, 3349, 3266}, 2853 Content={3308, 3269, 2839, 3305, 3425, 3425}, 3059, 2857 Content={3351, 3266, 3266, 3266, 3046, 3077, 3084 RemainingUses=250, 3098}, 3035 Amount=74, 3035 Amount=100, 2853 Content={3266, 3425, 3425, 3425, 3425, 3264, 3410, 3286}, 2868 Content={2867 Content={3093 SavedExpireTime=1518}, 2868, 2868, 2854 Content={2920}}, 2843, 3483, 3463, 2989, 3502 Content={2991, 3017, 3300, 2920, 2920, 2854 Content={3425, 3147, 3147, 3147, 3147, 3147, 3147, 2854 Content={3457, 3457, 3350, 3350, 3350, 3287 Amount=3, 3349, 3350, 3449 Amount=3, 3447 Amount=40}, 3425, 2854 Content={3092, 3004, 3083 RemainingUses=148, 3056 RemainingUses=200, 3004, 3050 SavedExpireTime=1793, 3093 SavedExpireTime=1795, 3008, 3056 RemainingUses=200, 3012, 3097, 3012, 3085 RemainingUses=200, 3008, 3012, 3008, 3012}, 3155 Charges=1}, 3409, 3353, 3375, 3305, 3409, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3301}}, 
+               6 Content={2853 Content={3411, 3411}, 3502 Content={3031 Amount=100, 3031 Amount=43, 3031 Amount=100, 3035 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3409}}}

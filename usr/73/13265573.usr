@@ -1,0 +1,59 @@
+ID              = 13265573
+Name            = "Chololo Slayer"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (133,116-95-76-91)
+CurrentOutfit   = (133,116-95-76-91)
+LastLogin       = 1148254800
+LastLogout      = 1148254816
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32532,31730,9]
+PlayerkillerEnd = 1148528571
+
+Skill = (0,37,0,1,0,0,0,0,0,0,1,751388,0,780700,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,328077,1100,355602,1600)
+Skill = (2,330,330,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,905,905,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,106,106,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,760,760,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,47630,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1073,2000,1550,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,7,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,31,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,502,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,9,10,20,29,30,39,44,75,76,78,81,87,88,89}
+QuestValues = {(14,1),(137,1),(190,1),(191,1),(224,1),(324,1),(333,1)}
+Murders     = {1145932047,1145933155,1145936571,1146190675}
+
+Inventory   = {1 Content={3351},
+               2 Content={3008},
+               3 Content={2867 Content={3578 Amount=22, 3503 Content={3507 String="Chololo slayer\nvenore\n" Editor="Chololo Slayer"}, 3035 Amount=27, 2867 Content={3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3003, 3457}},
+               4 Content={3377},
+               5 Content={3411},
+               6 Content={3072},
+               8 Content={3552},
+               10 Content={3031 Amount=25}}
+
+Depots      = {0 Content={3322, 3502}, 
+               1 Content={3502}, 
+               2 Content={3504 Content={2853 Content={2870 Content={2853, 2853, 2853, 2853, 2853}}, 2853 Content={2853, 2853}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}, 2853 Content={2870 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}}, 2853 Content={2853 Content={2853 Content={2866 Content={2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853, 2853}}}}, 2853 Content={2853 Content={2853 Content={2853}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}, 2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}}}}, 2853 Content={2871 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}}}, 3507 String="Chololo Slayer\nKazordoon" Editor="Chololo Slayer"}, 3502 Content={3297, 3279, 2871 Content={3413}}}, 
+               3 Content={3502}, 
+               4 Content={3502}, 
+               5 Content={3504 Content={3507 String="Chololo slayer\ndarashia\n" Editor="Chololo Slayer"}, 3492 Amount=100, 2853, 3502}, 
+               6 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3092, 2870 Content={2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870}, 3504 Content={2870 Content={4331 RemainingExpireTime=27, 2870 Content={2870 Content={2870 Content={2870 Content={2870}}}}}, 2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870}}}}}}}}, 2870 Content={2870}, 3507 String="Chololo Slayer\nVenore" Editor="Chololo Slayer"}, 3502 Content={2870 Content={3075, 3356}}}, 
+               7 Content={2871, 3074, 2970 KeyNumber=3800, 3313, 3483, 2857 Content={3092, 3092, 3092, 3505 String="Quest que me faltan de hacer :\n- Devil Helmet\n- Paradox\n- Crown Helmet y Noble armor\n- Orc Fortress\n- Naginata\nx))" Editor="Chololo Slayer", 3046 SavedExpireTime=2999, 3077}, 3504 Content={3504 Content={3507 String="chololo slayer\nthais\n" Editor="Acko Bokiz"}, 3507 String="Chololo Slayer\nAnkrahmun" Editor="Chololo Slayer"}, 3502 Content={3349, 3349, 3456, 2871, 3349, 3375}}}

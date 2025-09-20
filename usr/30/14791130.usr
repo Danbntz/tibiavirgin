@@ -1,0 +1,54 @@
+ID              = 14791130
+Name            = "City bull"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,80-114-114-81)
+CurrentOutfit   = (129,80-114-114-81)
+LastLogin       = 1148232912
+LastLogout      = 1148234185
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32836,31940,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,33903,0,37800,100)
+Skill = (1,1,0,0,0,0,0,0,0,0,0,5280,3000,6400,1600)
+Skill = (2,265,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,42,65,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11002,1100,12109,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,205,1100,232,50)
+Skill = (9,40,0,10,0,0,0,0,0,0,0,8824,1100,9097,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,11,0,10,0,0,0,0,0,0,0,33,1100,42,20)
+Skill = (14,0,1200,0,0,0,986,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,1,0,81,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(32,1),(33,1),(34,1),(35,1),(59,1),(96,1),(97,1),(98,1),(223,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               3 Content={2867 Content={3031 Amount=6, 3031 Amount=10, 3577 Amount=1, 3577 Amount=1, 3031 Amount=11}},
+               4 Content={3380},
+               5 Content={3322},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3267}}
+
+Depots      = {1 Content={3502}, 
+               2 Content={3502}, 
+               6 Content={3421, 3736 Amount=1, 3279, 2854 Content={3097, 3012, 3008, 3008, 3008, 3008, 3008, 3012, 3012, 3084 RemainingUses=250, 3084 RemainingUses=250, 3084 RemainingUses=250}, 3425, 3337, 3337, 2819 String="Note to any late arrivers:\n\nThis island was officially abandoned by the Royal Army after the Commander's newly-built house sunk into the swamp after the Gods suddenly shook the earth.\n\nThe Commander himself was apparently in the cellar of the house at that time, and did not make it out of the sinking structure in time. We deeply regret the loss of this great man, our leader - may he rest in peace!\n\nBe aware, the area is unstable! The islands in the swamp will most likely not carry heavy weights like full beercasks or horses.", 3483, 3286, 3097, 3504 Content={3507 String="city bull\nvenore" Editor="Hevret"}, 2859 Content={3277 Amount=1, 3097 SavedExpireTime=3598, 3552, 3377, 3483}, 2854 Content={2874, 3031 Amount=20, 3031 Amount=100, 3035 Amount=51, 3003, 3308, 3457}, 3503 Content={3504 Content={3507 String="city bull \nvenore\n" Editor="Pablo Grzes"}, 3507}, 2871 Content={3003, 3552, 2853 Content={3504 Content={3507 String="Barixix\nvenore\n" Editor="Michalbariozzo"}, 3504 Content={3507 String="barixix\nvenore" Editor="Imran Xala"}, 3504}, 3003, 3003, 3003, 3003, 3457, 3457, 3457, 3003, 3003, 3003, 3003, 3003}, 2868 Content={3492 Amount=67, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3578 Amount=1, 3577 Amount=13}, 2867 Content={3003, 3285, 3425, 3061, 2969 KeyNumber=5000, 2906, 3453, 3066, 3448 Amount=8, 3447 Amount=10, 3070}, 2853 Content={3559, 3097 SavedExpireTime=3562, 3362}, 2969 KeyNumber=4600, 3502 Content={2818 String="Identification Card\n\n  Sir Fred Mothbone\n\n  Royal Explorer for the Kingdom of Tibia\n  under HRH Tibianus II.\n\nSigned:\nMaldir, town guard", 2969 KeyNumber=4600, 3736 Amount=1, 3673}}}

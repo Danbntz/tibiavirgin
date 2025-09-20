@@ -1,0 +1,59 @@
+ID              = 12040731
+Name            = "Grovy"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (134,10-114-114-124)
+CurrentOutfit   = (134,10-114-114-124)
+LastLogin       = 1148241927
+LastLogout      = 1148241972
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32570,31939,7]
+PlayerkillerEnd = 0
+
+Skill = (0,24,0,1,0,0,0,0,0,0,1,183632,0,204800,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,84300,3000,193600,1600)
+Skill = (2,425,425,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,76,115,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,93,93,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,870,870,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,60,0,10,0,0,0,0,0,0,0,124042,1100,128129,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,201,1100,232,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,183,1100,232,50)
+Skill = (10,61,0,10,0,0,0,0,0,0,0,67298,1100,70521,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,2,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,733,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,75,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(59,1),(84,1),(85,1),(96,1),(97,1),(98,1),(112,1),(190,1),(191,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={2922 SavedExpireTime=268, 3293, 3412, 3031 Amount=33, 3003, 3582 Amount=1, 3457, 3507 String="grovy hunt here..no down" Editor="Grovy"}},
+               4 Content={3377},
+               5 Content={3415},
+               6 Content={3318},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {1 Content={3502 Content={3552, 2853}}, 
+               2 Content={3504 Content={3582 Amount=30, 3507 String="grovy\nkazordoon" Editor="Grovy"}, 3504 Content={2853 Content={2853 Content={3286, 3425, 3266, 2853 Content={3358, 3358, 3358, 2853 Content={3286, 3582 Amount=3, 3286}, 3358, 3358, 3358, 3358}, 3286, 3358, 3358, 3266}, 2853 Content={3264, 2853 Content={3286, 3276, 3372, 3286, 2853 Content={2853 Content={3285, 3264, 3264, 3286, 3286}, 3286, 3264, 3264, 3286, 3264, 3286, 3264}, 3264}, 3264, 3264, 3286, 3286, 3286, 2853 Content={3264, 3286, 3286, 3264, 3286, 3264}}, 3286, 3286, 3266, 3358, 3358, 3358}, 3504 Content={3425, 3425, 3266, 3286, 3286, 3558, 3504}, 3504 Content={3286, 3286, 3264, 3286, 3504 Content={3349, 3504 Content={3504}, 3349, 3350, 3349, 3349, 3349, 3349}, 3507 String="grovy\nkazordoon" Editor="Albondiga Macabra"}, 3275, 3507 String="Grovy\nkazordoon\n" Editor="Grovy"}, 3502 Content={3504 Content={3723 Amount=59, 3723 Amount=100, 3723 Amount=100, 2868 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=1, 3504 Content={3504}, 3316, 3378, 3447 Amount=8, 3353, 3008, 3293, 3425, 3425, 3425}}, 2868 Content={3504 Content={3092, 3097, 3097 SavedExpireTime=3573, 2857 Content={3026 Amount=1, 3734 Amount=1, 3027 Amount=2, 3052 SavedExpireTime=743, 3046, 3077, 3084 RemainingUses=250, 3098}}, 2867 Content={3031 Amount=56, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 2854 Content={2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=40}}}}, 
+               3 Content={3502 Content={3266, 3269, 3275}}, 
+               4 Content={3504 Content={3507 String="grovy\nedron" Editor="Albondiga Macabra", 3316}, 3504 Content={3358, 3507 String="grovy\nedron" Editor="Grimma Sankethongue"}, 3502 Content={3372, 3266, 3409, 3031 Amount=28, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               5 Content={3502 Content={3446 Amount=4, 3413, 3097}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={2853 Content={3286, 3286, 2853 Content={2853 Content={3286, 3377, 3286, 3286, 3286, 3367}, 3286, 3286, 3354, 3286, 3367}, 3354, 3354, 3377, 3354, 3377}}}}

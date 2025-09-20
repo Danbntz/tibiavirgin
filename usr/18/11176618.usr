@@ -1,0 +1,50 @@
+ID              = 11176618
+Name            = "Ga Bo Ma Lu Co"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (134,78-69-58-76)
+CurrentOutfit   = (134,78-69-58-76)
+LastLogin       = 1147409507
+LastLogout      = 1147409514
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32338,31778,6]
+PlayerkillerEnd = 0
+
+Skill = (0,8,0,1,0,0,0,0,0,0,1,4203,0,6400,100)
+Skill = (1,0,0,0,0,0,0,0,0,0,0,0,1100,1600,1600)
+Skill = (2,185,185,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,35,35,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,77,77,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,470,470,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,15,0,10,0,0,0,0,0,0,0,1782,1500,2078,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1024,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,5,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {}
+QuestValues = {(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3367},
+               3 Content={2853 Content={3042 Amount=3, 2659, 3590 Amount=3, 3577 Amount=9, 3031 Amount=54, 3003, 3585 Amount=1}},
+               4 Content={3379},
+               5 Content={3286},
+               6 Content={3411},
+               7 Content={3559}}
+
+Depots      = {1 Content={2398, 3588 Amount=6, 2973 KeyNumber=3520, 2659, 2388, 3042 Amount=23, 2970 KeyNumber=3899, 2659, 3448 Amount=5, 2388, 3032 Amount=3, 2659, 2386, 3039, 2659, 2398, 2972 KeyNumber=3304, 2659, 2386, 3033 Amount=11, 2659, 2388, 3037, 3031 Amount=65, 2659, 2388, 2968 KeyNumber=3940, 2659, 2388, 3026 Amount=14, 2659, 3448 Amount=1, 2386, 3588 Amount=1, 3042 Amount=3, 3029 Amount=10, 2393, 2955, 3590 Amount=10, 3725 Amount=39, 3590 Amount=10, 3198 Charges=2, 3049, 3277 Amount=1, 3590 Amount=10, 3160 Charges=1, 2469 Content={2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469, 2469}, 3590 Amount=10, 3007, 2867 Content={3039, 3732 Amount=3, 2969 KeyNumber=3033, 2969 KeyNumber=4603, 3093, 2973 KeyNumber=3520, 3085 RemainingUses=200, 3008, 2867 Content={3093, 3093, 3092 SavedExpireTime=919, 3092 SavedExpireTime=1792, 3092 SavedExpireTime=1775, 3092, 3092, 3092, 3092, 3092 SavedExpireTime=1798, 3092, 3092, 3092}, 2970 KeyNumber=3142, 2857 Content={3027 Amount=2, 3046, 3084 RemainingUses=250}, 3077}, 3590 Amount=10, 3098, 2667, 3590 Amount=10, 3091, 3557, 2653, 3588 Amount=5, 3590 Amount=10, 3147, 3051, 2667, 2398, 3588 Amount=5, 3590 Amount=10, 3051 SavedExpireTime=5, 3337, 2653, 3507 String="aston druid \ncarlin", 3590 Amount=92, 3287 Amount=1, 2667, 2398, 3588 Amount=5, 3590 Amount=10, 3092, 3589 Amount=2, 3093, 3091, 3590 Amount=10, 3061, 2653, 3588 Amount=5, 3590 Amount=10, 2667, 2398, 3588 Amount=5, 3590 Amount=10, 3093, 2865 Content={3413, 3413, 3367, 3286, 2868 Content={3351, 3351, 3351, 3351}, 2854 Content={3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269, 3269}, 2868 Content={2869 Content={3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413}, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413, 3413}, 2868 Content={3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377, 3377}, 2868 Content={2867 Content={3411, 3358, 2853 Content={3425, 3425, 3305, 3305, 3425, 3349, 3349, 3349}, 3275, 3349, 3305, 3305, 3358, 3349, 3358, 3266, 3349, 3266, 3349, 3349, 3411, 3350, 3330, 3552, 3430}, 3267, 3384, 3384, 3305, 3384, 3358, 3275, 3425, 3425, 3349, 3358, 3349, 3349, 3367, 3358, 3305, 3305, 3358}}, 3590 Amount=10, 2667, 2398, 3588 Amount=5, 3590 Amount=10, 3093, 3049, 3093 SavedExpireTime=1391, 2653, 3588 Amount=5, 3590 Amount=24, 3092 SavedExpireTime=840, 3449 Amount=13, 3450 Amount=2, 3572, 3007, 3357, 3097, 3590 Amount=10, 2972 KeyNumber=3304, 2854 Content={3003, 3003, 2854 Content={2868}, 3483, 2853 Content={3505 String="Raven Nambat\nhunting there\nleave plz\n", 3267, 3457, 3003}, 3456, 3456, 3457, 3457, 3457, 3308, 3457}, 3590 Amount=10, 3091, 2866 Content={2854 Content={2868 Content={2869 Content={2868 Content={2868 Content={3578 Amount=52, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 3577 Amount=100, 3577 Amount=100, 3598 Amount=6, 3582 Amount=33, 3723 Amount=76}, 3590 Amount=10, 3593, 3093, 3049 SavedExpireTime=582, 3416, 3449 Amount=10, 3450 Amount=3, 3504 Content={3507 String="ga bo ma lu co\ncarlin"}, 3506 String="Warning!\n\nThe monthly rent of 1700 gold\nfor your house \"Northern Street 7\"\nis payable. Have it available\nwithin 4 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1700 gold\nfor your house \"Northern Street 7\"\nis payable. Have it available\nwithin 5 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1700 gold\nfor your house \"Northern Street 7\"\nis payable. Have it available\nwithin 6 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 1700 gold\nfor your house \"Northern Street 7\"\nis payable. Have it available\nwithin 7 days, or you will\nlose this house.", 3502 Content={3035 Amount=55}}}

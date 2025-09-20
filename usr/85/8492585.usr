@@ -1,0 +1,54 @@
+ID              = 8492585
+Name            = "Darck Gabo"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (129,115-113-114-0)
+CurrentOutfit   = (129,115-113-114-0)
+LastLogin       = 1148232873
+LastLogout      = 1148233366
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31788,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,134351,0,135100,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,78361,3000,193600,1600)
+Skill = (2,355,380,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,8,100,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,795,795,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,57,0,10,0,0,0,0,0,0,0,87533,1100,96017,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,25,1400,30,30)
+Skill = (8,29,0,10,0,0,0,0,0,0,0,2691,1100,2863,50)
+Skill = (9,57,0,10,0,0,0,0,0,0,0,44011,1100,48008,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,4,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,30,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,277,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(35,1),(59,1),(61,1),(72,1),(73,1),(125,1),(126,1),(190,1),(191,1),(223,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3054 RemainingUses=132},
+               3 Content={2868 Content={3003, 3457, 3198 Charges=5}},
+               4 Content={3370},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={3503 Content={3056 RemainingUses=200, 3411, 3413, 3289, 2906, 3147}, 3504 Content={2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 3148 Charges=1}, 3446 Amount=9, 3070, 3559, 2973 KeyNumber=3520, 3059, 3413}, 3277 Amount=1, 3285, 2868 Content={3377, 3504, 3504 Content={2853 Content={3293, 3300, 3300, 3294, 3308}, 2853 Content={3003}}, 2853, 2868, 3483, 3349, 3056 RemainingUses=200, 3054 RemainingUses=47, 3300, 2920, 3003, 2920}, 3285, 2820 String="Dear Gesnar!\n\nThe minos are reliable mercanaries. Your advice to hire them proves right. My treasures are well guarded now. Last but not least I have enforced the treasure doors by magic.\n\nAlawar, Warlock of Senja", 2854 Content={2955, 3483, 3097 SavedExpireTime=3594, 3279, 3059, 3457}, 2853, 2472 Content={3324, 3279, 3270, 3285, 3449 Amount=4, 3349, 2857 Content={3098 SavedExpireTime=448, 3046, 3077, 3084 RemainingUses=250}, 3451, 3586 Amount=1, 3723 Amount=7}, 2472 Content={3056 RemainingUses=200, 3483, 3012, 3492 Amount=100, 3451, 3085 RemainingUses=200, 2656, 2969 KeyNumber=4603}, 2472 Content={3416, 3586 Amount=2, 2393, 3289, 3307, 3565}, 2472 Content={3322, 3077, 3350, 3056 RemainingUses=200, 3050 SavedExpireTime=1741}, 3504 Content={3551, 2911 SavedExpireTime=2817, 3456, 2973 KeyNumber=3520, 2911 SavedExpireTime=2967, 3299}, 3504 Content={3062}}}, 
+               3 Content={3502 Content={3035 Amount=1, 3031 Amount=100}}, 
+               6 Content={3502}}

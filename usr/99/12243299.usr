@@ -1,0 +1,56 @@
+ID              = 12243299
+Name            = "Prinsipito"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,94-114-88-128)
+CurrentOutfit   = (128,94-114-88-128)
+LastLogin       = 1147130886
+LastLogout      = 1147130923
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32346,32231,8]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,68958,0,69700,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,62668,1400,78644,1600)
+Skill = (2,272,275,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,10,170,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,650,650,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11766,1100,12109,100)
+Skill = (7,52,0,10,0,0,0,0,0,0,0,16787,1100,17772,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,73,1200,109,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,279,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,461,1200,496,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,638,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,10,15,29,42,51}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(53,1),(59,1),(99,1),(113,1),(114,1),(217,3)}
+Murders     = {}
+
+Inventory   = {1 Content={3376},
+               3 Content={2854 Content={2911}},
+               4 Content={3377},
+               5 Content={3425},
+               6 Content={3277 Amount=7},
+               7 Content={3559},
+               8 Content={3552},
+               10 Content={2911 SavedExpireTime=2998}}
+
+Depots      = {0 Content={3003, 3504 Content={3507 String="prinsipito\nthais" Editor="Drailon Anesa"}, 3492 Amount=49, 3483, 3457, 3582 Amount=2, 3504, 2471, 3301, 3504 Content={3507 String="Prinsipito\nThais" Editor="Prinsipito"}, 3457, 2893, 3502}, 
+               1 Content={2853 Content={2853 Content={2955, 2920}}, 2824 String="Herbs and Plants of the Swamp, Volume I\n\nOrange Star (stella flava)\nA rarely found star-shaped orange-colored flower of amazing beauty. Commonly seen as a symbol of love.\n\nMushrooms\nMushrooms come in many different colors and shapes, at least ten different kinds are known.\nThey are documented in the newly published booklet \"Mushrooms, nature's little jewels\".", 3504 Content={2472 Content={3066}, 3507 String="Prinsipito\nCarlin" Editor="Prinzipito"}, 3504 Content={3504 Content={3507 String="Prinsipito\nThais" Editor="Prinsipito"}, 2471, 3507 String="Prinsipito\nCarlin" Editor="Prinsipito"}, 3270, 2868 Content={3378, 3285, 3270, 3552, 2911 SavedExpireTime=2942, 2920 SavedExpireTime=366, 3430, 3003, 3298 Amount=12, 3374}, 2472, 2868 Content={3492 Amount=50, 3492 Amount=100, 3492 Amount=100}, 3502 Content={2650, 2659}}, 
+               2 Content={3492 Amount=5, 2924 SavedExpireTime=294, 2969 KeyNumber=4600, 3507 String="Prinsipito\nKazordoon" Editor="Prinsipito", 3502}, 
+               3 Content={3504 Content={3507 String="Prinsipito\nAb'dendriel\n" Editor="Son Of Markus Sidious"}, 2969 KeyNumber=3033, 3504 Content={3507 String="Prinsipito\nAB'Dendriel" Editor="Lord treeko"}, 3457, 2920 SavedExpireTime=113, 2920 SavedExpireTime=89, 3308, 3655, 3375, 3502 Content={2920 SavedExpireTime=142, 2920, 2920}}, 
+               6 Content={3565, 3031 Amount=1, 3308, 3736 Amount=1, 2922 SavedExpireTime=64, 3031 Amount=1, 3012, 3012, 3092, 3411, 3410, 3012, 3012, 3483, 2911, 3456, 3349, 3502 Content={3046, 2874, 2874, 3504 Content={3350, 2868 Content={3447 Amount=100, 3483}, 2868 Content={3447 Amount=73, 1781 Amount=80, 1781 Amount=100, 1781 Amount=100, 3447 Amount=71, 3492 Amount=23, 3003, 3457}, 2854 Content={2853 Content={3097 SavedExpireTime=3596, 3056 RemainingUses=200, 3084 RemainingUses=250}, 3003, 3457}, 3507 String="Prinsipito\nVenore" Editor="Prinsipito"}}}}

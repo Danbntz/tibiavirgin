@@ -1,0 +1,56 @@
+ID              = 8159077
+Name            = "Don Ritsoun"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,95-114-95-79)
+CurrentOutfit   = (128,95-114-95-79)
+LastLogin       = 1145681071
+LastLogout      = 1145681078
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32347,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,160190,0,179400,100)
+Skill = (1,11,0,0,0,0,0,0,0,0,0,162880,1400,222775,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,170,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,47,0,10,0,0,0,0,0,0,0,33330,1100,36404,100)
+Skill = (7,59,0,10,0,0,0,0,0,0,0,34476,1100,34917,30)
+Skill = (8,19,0,10,0,0,0,0,0,0,0,1126,1200,1297,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,25,0,10,0,0,0,0,0,0,0,3767,1200,4372,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,45,0,10,0,0,0,0,0,0,0,5793,1100,5982,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,96,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,8,20,29,42,49,51}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(27,1),(37,1),(59,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3572},
+               3 Content={2870 Content={3578 Amount=9, 3492 Amount=11, 3031 Amount=27, 2920 SavedExpireTime=107, 2854 Content={3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3003, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147}}},
+               4 Content={3357},
+               5 Content={3415},
+               6 Content={3297},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {0 Content={3350, 2920, 2868, 2869 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2854 Content={2853 Content={3012, 3012, 3084 RemainingUses=250, 3097, 3085 RemainingUses=196}, 2920, 2920, 2920 SavedExpireTime=217, 3285, 3349, 3287 Amount=2, 3349, 3277 Amount=10, 3273, 3412, 3456, 3453, 3457}, 2865 Content={3483, 2854 Content={3425, 3350, 3350, 3425, 2853}, 2853 Content={2853 Content={3354}, 3372, 3354, 3354, 3410, 3410, 3410}, 3483, 3003}, 2854 Content={3447 Amount=26, 3447 Amount=100, 3447 Amount=100, 3449 Amount=5, 3446 Amount=29, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 2854}, 2853 Content={3031 Amount=16, 3031 Amount=100, 3031 Amount=100, 3035 Amount=19, 2853}, 3059, 3502 Content={3492 Amount=1, 3723 Amount=30, 3590 Amount=2, 3598 Amount=3, 3600 Amount=100, 3603 Amount=8, 3582 Amount=22, 3578 Amount=100}}, 
+               1 Content={3502 Content={}}, 
+               2 Content={2853 Content={3277 Amount=8, 2853 Content={}}, 2920 SavedExpireTime=0, 3582 Amount=2, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               3 Content={3031 Amount=100, 3035 Amount=4, 2853 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3449 Amount=70, 3277 Amount=5, 3008, 3448 Amount=5, 3350, 2853 Content={3375, 3375, 3375, 2853 Content={2853 Content={3375, 3375}, 3375, 3375, 3375, 3375, 3375, 3375, 3375}, 3375, 3375, 3375, 3375}, 3502 Content={}}}

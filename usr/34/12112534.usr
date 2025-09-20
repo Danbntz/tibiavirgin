@@ -1,0 +1,49 @@
+ID              = 12112534
+Name            = "Lord Toy"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,39-76-67-95)
+CurrentOutfit   = (128,39-76-67-95)
+LastLogin       = 1141801565
+LastLogout      = 1141801592
+StartPosition   = [32649,31925,11]
+CurrentPosition = [32645,31915,8]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,33380,0,37800,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,17525,3000,20800,1600)
+Skill = (2,275,275,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,65,65,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,35,0,10,0,0,0,0,0,0,0,10027,1100,10918,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (10,38,0,10,0,0,0,0,0,0,0,6813,1100,7431,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,423,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(17,1),(46,1),(125,1),(126,1),(217,3),(224,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2853},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502 Content={2472 Content={2854 Content={3285, 3276}, 2992 Amount=5, 2911 SavedExpireTime=1, 2868, 2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3056 RemainingUses=200, 3050, 3093}, 2472 Content={2860 Content={3582 Amount=60, 3587 Amount=1, 3585 Amount=1}, 2860, 2860, 2860 Content={3293, 3268, 3412, 3316}, 2860 Content={3447 Amount=25, 3446 Amount=12, 3350, 3350, 3350, 3350, 3349}}, 2472 Content={3031 Amount=5, 3031 Amount=100, 3035 Amount=20, 3046 SavedExpireTime=2996}}}, 
+               2 Content={3502}, 
+               3 Content={3502}}

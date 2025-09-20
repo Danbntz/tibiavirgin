@@ -1,0 +1,58 @@
+ID              = 11974360
+Name            = "Blood revolver"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (134,97-114-114-114)
+CurrentOutfit   = (134,97-114-114-114)
+LastLogin       = 1148257986
+LastLogout      = 1148258034
+StartPosition   = [33217,31814,8]
+CurrentPosition = [33188,31866,6]
+PlayerkillerEnd = 1149037531
+
+Skill = (0,29,0,1,0,0,0,0,0,0,1,330875,0,368300,100)
+Skill = (1,40,0,0,0,0,0,0,0,0,0,739410,1100,780562,1600)
+Skill = (2,290,290,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,645,665,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,98,98,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,680,680,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,22987,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1244,1800,2063,50)
+Skill = (9,15,0,10,0,0,0,0,0,0,0,2054,1800,2063,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,39,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,31,0,10,0,0,0,0,0,0,0,1395,1100,1428,20)
+Skill = (14,0,1200,0,0,0,1019,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,56,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,6,8,9,10,12,15,16,20,25,29,39,42,44,78,81,84,88,89}
+QuestValues = {(18,1),(20,1),(35,1),(108,1),(112,1),(190,1),(191,1),(217,3),(223,1),(257,1),(333,1)}
+Murders     = {1146444923,1146444985,1146445023,1146445531}
+
+Inventory   = {1 Content={3210},
+               2 Content={3084 RemainingUses=248},
+               3 Content={2869 Content={3582 Amount=2, 2874, 2854 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2869 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}},
+               4 Content={3377},
+               5 Content={3425},
+               7 Content={3557},
+               10 Content={3583 Amount=3}}
+
+Depots      = {0 Content={3504 Content={3507 String="Blood revolver\nthais" Editor="Blood revolver"}, 3504 Content={3507 String="Blood revolver\nthais" Editor="Abraxdark"}, 3502 Content={3504 Content={3507 String="Blood revolver\nthais" Editor="Slazha"}, 3504 Content={3507 String="blood revolver\nthais" Editor="Abraxdark"}}}, 
+               1 Content={3502}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               4 Content={3447 Amount=32, 3506 String="Warning!\n\nThe monthly rent of 680 gold\nfor your house \"Stonehome Village 3\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 680 gold\nfor your house \"Stonehome Village 3\"\nis payable. Have it available\nwithin 1 day, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 680 gold\nfor your house \"Stonehome Village 3\"\nis payable. Have it available\nwithin 2 days, or you will\nlose this house.", 3506 String="Warning!\n\nThe monthly rent of 680 gold\nfor your house \"Stonehome Village 3\"\nis payable. Have it available\nwithin 3 days, or you will\nlose this house.", 3502 Content={2469 Content={3059, 2853 Content={2853 Content={2853 Content={3425, 2853 Content={3377, 3377, 3377}}}, 2853 Content={3410, 3425, 3425}}}, 2469 Content={3375, 3017}, 2473 Content={3003, 3377, 2853}, 2473 Content={2853 Content={2920 SavedExpireTime=263, 2920 SavedExpireTime=264, 2920 SavedExpireTime=264}, 2853}}}, 
+               5 Content={3504 Content={3507 String="blood revolver\ndarashia" Editor="Eruditho"}, 3502 Content={2469 Content={3551, 3327, 3409}, 3504 Content={3504 Content={3504 Content={3507 String="Small-miguel\nab'dendriel" Editor="Madam Nayeli"}, 3504 Content={3507 String="Blood revolver\ndarashia" Editor="Abraxdark"}, 3507 String="blood revolver\ndarashia" Editor="Eruditho"}, 3504 Content={3507 String="Blood revolver\ndarashia" Editor="Infernal'Masther"}, 3504 Content={3507 String="Blood revolver\ndarashia" Editor="Taxicora"}, 3504 Content={3507 String="blood revolver\ndarashia" Editor="Abraxdark"}, 3504 Content={3507 String="Blood revolver\nDarashia" Editor="Blood revolver"}, 3504 Content={3507 String="Blood revolver\nDarashia" Editor="Slider Jonathan"}, 3504 Content={3507 String="Xaks\nDarashia"}, 3504 Content={3507 String="Xaks\nDarashia"}, 3504 Content={3507 String="xaks\ndarashia"}, 3507 String="Blood Revolver\nDarashia" Editor="Eruditho"}, 2473, 2858 Content={2857}, 3504 Content={2867 Content={3003, 2856, 3273, 3456, 3207 Amount=1, 3114 Amount=3, 3003, 3457, 3457, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 3268, 3457, 3457, 3003, 2920, 2920 SavedExpireTime=15, 3468, 3467}}}}, 
+               6 Content={3502 Content={2866 Content={2922 SavedExpireTime=74, 3003, 3457}, 2854 Content={3012}, 3504 Content={3507 String="blood revolver\nvenore" Editor="Deathforall"}, 2473 Content={2992 Amount=5, 3552, 3507, 2853 Content={3559, 3411, 3504 Content={3507 String="blood revolver\nvenore"}, 3504 Content={3507 String="blood revolver\nvenore"}, 2853, 2853}, 2853}, 2853 Content={2853}, 3504}}, 
+               7 Content={3502 Content={3492 Amount=42, 3492 Amount=100}}}

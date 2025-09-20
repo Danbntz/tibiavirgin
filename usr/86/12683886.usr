@@ -1,0 +1,55 @@
+ID              = 12683886
+Name            = "Gallis Falaya"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,38-94-114-114)
+CurrentOutfit   = (130,38-94-114-114)
+LastLogin       = 1147252708
+LastLogout      = 1147252740
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31785,6]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,75783,0,83400,100)
+Skill = (1,23,0,0,0,0,0,0,0,0,0,130419,1100,141595,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,144,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,15392,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,797,1800,1118,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1008,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,15,0,10,0,0,0,0,0,0,0,735,1500,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2744,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,10,12,15,20,29,42,44}
+QuestValues = {(18,1),(125,1),(126,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               2 Content={3056 RemainingUses=200},
+               3 Content={2868 Content={3031 Amount=2, 3590 Amount=2, 3577 Amount=2, 3003, 2853 Content={3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}}},
+               4 Content={3357},
+               5 Content={3070},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3457}}
+
+Depots      = {1 Content={3504, 3003, 3352, 3352, 3367, 3470, 3307, 2955, 3453, 2973 KeyNumber=3520, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3066, 3293, 3274, 3504 Content={2920, 3507 String="Gallis Falaya\nCarlin" Editor="Yomy Eardyn"}, 3603 Amount=2, 3504 Content={3507 String="Gallis Falaya\nCarlin" Editor="Yomy Eardyn"}, 3504 Content={3507 String="Gallis Falaya\nCarlin" Editor="Yomy Eardyn"}, 3504 Content={3507 String="Gallis Falaya\nCarlin" Editor="Yomy Eardyn"}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={2867}, 2868 Content={3277 Amount=15, 3012, 3008, 3349, 3349, 3349, 3349, 3349, 3349, 3446 Amount=100, 3446 Amount=48, 3350, 3350, 3447 Amount=20, 3350, 3350}, 2853 Content={2853, 2853, 2853 Content={2853 Content={2853 Content={2853}}}, 2853}, 3069, 2865 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2853 Content={2853 Content={2853 Content={2853}}}}, 3059, 3003, 2868 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2868 Content={2853 Content={3286, 3286, 3286, 3286, 3286, 3286}, 2853 Content={3411, 3410, 3409}, 2853 Content={3277 Amount=43, 3277 Amount=100}, 2853 Content={2853 Content={2853 Content={3273, 3273, 3273, 3273, 3273, 3273, 3294, 3273}, 3273, 3273, 3294, 3273, 3273, 3294, 3273}, 3273, 3273, 3273, 3273, 3273, 3273, 3273}, 2853 Content={3358, 3358, 3358, 3358, 3358, 3361, 3361, 3377}, 3457, 2853 Content={2853 Content={3367, 3352, 3375, 3375}, 3375, 3375, 3375, 3375, 3375, 3375, 3375}, 2853 Content={2920, 2920, 2920 SavedExpireTime=32, 2920, 2920, 2920 SavedExpireTime=563}, 2853 Content={3285, 3285, 3285}, 2853 Content={3316, 3316}, 2853 Content={3447 Amount=2, 3447 Amount=100, 1781 Amount=100, 1781 Amount=50, 3350, 3350, 3287 Amount=1, 3446 Amount=4}, 2853 Content={3457, 3362, 3123, 3457, 3362, 2875, 3430}, 2853 Content={3274, 2973 KeyNumber=3520, 2885, 3337}}, 2853 Content={3003, 3003, 3003, 3003, 3003, 3003}, 2853 Content={3492 Amount=8, 3483, 3492 Amount=100, 3492 Amount=100, 3483}, 2853 Content={3661, 3661, 3736 Amount=1, 3661}, 2853 Content={3084 RemainingUses=112, 2853 Content={3097, 3097, 3056 RemainingUses=200, 3056 RemainingUses=200}, 3050, 3030 Amount=1, 3008, 3012, 3012, 3012}, 2853 Content={2853 Content={3536, 3543, 3535, 3535, 2853 Content={2853 Content={2853 Content={3541, 3537, 3542, 3536, 3538, 2853 Content={3535}, 3538, 3535}, 3535, 3535, 3541, 3544, 3540, 3544, 3537}, 3541, 3539, 3541, 3537, 3535, 3535, 3541}, 3543, 3546, 3536}, 3541, 3542, 3545, 3542, 3535, 3533 Amount=2, 3534 Amount=12}, 2853 Content={3457, 2911 SavedExpireTime=2998, 2911, 2911 SavedExpireTime=2990, 3457, 3456, 3293, 3463}, 2853 Content={3607, 2853 Content={3147, 3577 Amount=45, 3588 Amount=56, 3602 Amount=49}, 2853 Content={3585 Amount=97, 3577 Amount=100, 3602 Amount=100, 3578 Amount=100, 3601 Amount=57, 3600 Amount=53, 3592, 3723 Amount=69}, 3588 Amount=100, 3590 Amount=11, 3595 Amount=28, 3582 Amount=44, 3577 Amount=100}, 2853 Content={3031 Amount=97, 3035 Amount=28}, 2853 Content={3504 Content={3504 Content={3507 String="Contrabandista Sorridente\nCarlin" Editor="Royal Zingu"}}, 3504 Content={3507 String="andres of druid\ncarlin"}, 3504 Content={3507 String="contrabandista sorridente\ncarlin" Editor="Asama Blago"}, 3504 Content={3504 Content={3507 String="contrabandista sorridente\ncarlin" Editor="Asama Blago"}, 3507 String="Azakura\ncarlin" Editor="Zakuritha"}, 3504, 3504, 3504 Content={2853, 3507 String="Cesalex Zeus\nCarlin" Editor="Cesar Skywalker"}, 3504 Content={3504 Content={3507 String="Oldous\ncarlin" Editor="Achillides"}}}}}, 
+               2 Content={3502 Content={3377}}, 
+               3 Content={3502 Content={3272}}}

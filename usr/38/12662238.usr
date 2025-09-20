@@ -1,0 +1,49 @@
+ID              = 12662238
+Name            = "Menton Hazorbolt"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (128,116-10-114-76)
+CurrentOutfit   = (128,116-10-114-76)
+LastLogin       = 1148140558
+LastLogout      = 1148142195
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32348,32216,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,122571,0,135100,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,103660,1400,111701,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,230,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,45,0,10,0,0,0,0,0,0,0,27790,1100,29912,100)
+Skill = (7,58,0,10,0,0,0,0,0,0,0,29194,1100,31715,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,28,0,10,0,0,0,0,0,0,0,7347,1200,7736,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,19,0,10,0,0,0,0,0,0,0,1249,1200,1297,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2159,1100,2183,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,77,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,20,29,42,51}
+QuestValues = {(17,1),(60,1),(61,1),(125,1),(126,1),(190,1),(191,1),(217,3)}
+Murders     = {}
+
+Inventory   = {3 Content={2854 Content={3577 Amount=1, 3582 Amount=1, 3446 Amount=56, 3446 Amount=100, 3031 Amount=9, 3483, 3003, 2868, 2857 Content={3492 Amount=100}, 3457, 2868 Content={3160 Charges=1, 3160 Charges=1}}},
+               6 Content={3349},
+               10 Content={3446 Amount=100}}
+
+Depots      = {0 Content={3350, 3572, 3277 Amount=17, 3425, 3385, 3404, 3372, 3552, 3504 Content={3507 String="menton hazorbolt\nthais" Editor="Maketech", 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3504 Content={3031 Amount=100, 3035 Amount=52}, 3502 Content={3447 Amount=7, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}}, 
+               1 Content={3504 Content={3507 String="menton hazorbolt\ncarlin" Editor="Maketech", 2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 1781 Amount=32, 3582 Amount=6, 3577 Amount=9, 3277 Amount=21, 3446 Amount=86, 3350, 3084 RemainingUses=250, 2973 KeyNumber=3520, 2868 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3350}, 3502 Content={3425, 3425, 3425, 3098, 3084 RemainingUses=250, 3077, 3046, 3723 Amount=60, 2868 Content={3035 Amount=50, 3034 Amount=12, 3595 Amount=17, 3585 Amount=7}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 2955}}, 
+               3 Content={3035 Amount=10, 3504 Content={3507 String="menton hazorbolt\nab'dendriel" Editor="Menton Hazorbolt"}, 3275, 2991, 3658, 3463, 3502 Content={3031 Amount=28, 3447 Amount=80, 3031 Amount=100, 3031 Amount=100, 3046 SavedExpireTime=86, 3056 RemainingUses=200, 3050, 3003, 3457, 3585 Amount=2, 3359}}}

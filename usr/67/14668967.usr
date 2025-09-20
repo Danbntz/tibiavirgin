@@ -1,0 +1,53 @@
+ID              = 14668967
+Name            = "Kelthzard"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (130,3-95-114-115)
+CurrentOutfit   = (130,3-95-114-115)
+LastLogin       = 1147294369
+LastLogout      = 1147296084
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32163,31659,6]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,35755,0,37800,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,23536,1100,25499,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,140,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,7801,1500,11333,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,90,2000,210,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,1299,2000,1550,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,737,2000,750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,470,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10}
+QuestValues = {(59,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3384},
+               3 Content={2854 Content={2969 KeyNumber=5000, 3031 Amount=81, 3492 Amount=78, 2854 Content={3031 Amount=100}, 3457, 3003}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3425},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3483}}
+
+Depots      = {1 Content={3502 Content={1781 Amount=6}}, 
+               6 Content={3031 Amount=100, 3035 Amount=2, 3031 Amount=100, 3578 Amount=22, 3367, 3483, 3367, 3074, 3492 Amount=11, 3367, 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 3354, 3502 Content={3483, 3483, 3483, 3483, 2821 String="This most holy book of most smart swamptrolls is! \nNot use it on troilet, don't!\nIs book of holy thingy that came from heaven while me spying on big living place of mean humans. \nBlack and white thingy gift from gods must be! \nWill make humans tremble soon.\nWe whorship thingy and give sacrifice!"}}}

@@ -1,0 +1,56 @@
+ID              = 12635049
+Name            = "Sirion da Oz"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (130,77-79-79-114)
+CurrentOutfit   = (130,77-79-79-114)
+LastLogin       = 1148252858
+LastLogout      = 1148259195
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32335,31791,7]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,169492,0,179400,100)
+Skill = (1,32,0,0,0,0,0,0,0,0,0,341830,1100,355602,1600)
+Skill = (2,260,260,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,180,485,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,620,620,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,16818,1500,17099,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,89,1800,181,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,247,1800,302,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,1034,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,171,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,29,0,10,0,0,0,0,0,0,0,1098,1100,1145,20)
+Skill = (14,0,1200,0,0,0,977,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,20,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,11,12,15,16,20,25,26,29,38,42,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(27,1),(32,1),(33,1),(34,1),(36,1),(38,1),(46,1),(54,1),(60,1),(61,1),(67,1),(68,1),(70,1),(71,1),(96,1),(97,1),(98,1),(106,1),(125,1),(126,1),(190,1),(191,1),(217,3),(223,1),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3405},
+               2 Content={3572},
+               3 Content={2870 Content={3147, 3147, 3147, 3147, 3003, 2869 Content={3189 Charges=2, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3147, 3147, 3147, 3147}, 3457, 3582 Amount=2, 2866 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}},
+               4 Content={3357},
+               5 Content={3416},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3070}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2867 Content={2867 Content={3053 SavedExpireTime=12, 2854 Content={3046 SavedExpireTime=740, 3457}}}, 2969 KeyNumber=3650, 3504 Content={2854 Content={2969 KeyNumber=3033, 3074, 3471, 2865 Content={2854 Content={2866 Content={2473 Content={3279, 2859 Content={2870 Content={2865}}}, 2867, 2865 Content={3008, 3050 SavedExpireTime=1783, 3056 RemainingUses=197, 3050, 3056 RemainingUses=200, 3056 RemainingUses=200, 3093, 3050, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=17, 3054 RemainingUses=200, 3054 RemainingUses=58, 3056 RemainingUses=200, 3085 RemainingUses=200}, 2853 Content={3658, 3028 Amount=3}, 2854 Content={3327, 3308, 3359, 2868 Content={3349, 3349, 3349}, 2867}}, 3736 Amount=1, 3457, 3483, 3483, 2854 Content={2868 Content={2854 Content={2854}}}, 2868 Content={3483}}, 2865 Content={3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3, 3172 Charges=3}, 2868 Content={2868 Content={3177 Charges=1}}, 2854 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}}, 2854 Content={3059}}, 3059}, 3504 Content={3083 RemainingUses=150, 3056 RemainingUses=199, 2867 Content={3031 Amount=60, 3097, 2473 Content={3003, 2853 Content={3003, 3492 Amount=9, 3291, 3003}, 3509, 3454, 2916, 2893, 2893, 2481 Content={2875, 2875, 2882, 2880, 2880, 2880, 2880, 2873}}, 3286, 3409, 2989, 3027 Amount=2, 3026 Amount=1, 3457}, 2473 Content={2472 Content={3504 Content={3504 Content={3504 Content={3507 String="Magna Thor\nCarlin" Editor="Wilder Kam"}, 3504 Content={2853, 3507 String="Talix Adrus\ncarlin" Editor="Talix Adrus"}}, 3504 Content={3504, 3504}, 3504 Content={2473 Content={2473}}, 3504, 3504 Content={3504, 3504}, 3504 Content={3507 String="Rodweeno Zephy\n" Editor="Fire"}, 3504 Content={3504}, 3504 Content={3504 Content={3507 String="druid of old rebublic\nab´dendriel" Editor="Nigon Gala"}, 3504 Content={3507 String="Sir Colima\nCarlin" Editor="Sir Colima"}, 3507 String="sentella de zanera\ncarlin" Editor="Abigi Than"}}, 2472 Content={2955, 3483, 3097 SavedExpireTime=1702}, 2828 String="The secret of the high mask of the ancients was thought to be lost in time forever. But with the coming of the undying pharaoh its secrets were snatched away from the scarabs and the sands. Once more, masks were forged that contained the secret energies of lost aeons. Their true powers remained a mystery, but from the little that showed at first glance it was clear that they were most powerful indeed. Unfortunately, the pharaoh decreed that their powers were not meant for ordinary mortals, and ordered them to be destroyed. It is said that it was necessary to combine the powers of different ancient idols in order to create those legendary artifacts.", 2969 KeyNumber=3033, 3030 Amount=1, 3467, 3468, 3457, 3003, 2853 Content={3533 Amount=29, 3483, 3456, 3541}, 3661, 3123, 3130}}, 2872 Content={3056 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200}, 2868 Content={3430, 3449 Amount=1, 3349, 3349, 3349, 3350, 3425, 3074, 3551, 3561, 3289}, 2868 Content={3483, 3504 Content={3507 String="Vrolok\nCarlin" Editor="Keeps"}, 2973 KeyNumber=3520, 2920 SavedExpireTime=58, 2920}}, 3502 Content={3446 Amount=8}}, 
+               3 Content={3502 Content={2858 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3447 Amount=17, 3031 Amount=74, 3287 Amount=1, 3078, 3031 Amount=100, 3031 Amount=100, 3492 Amount=54, 3031 Amount=100}}, 
+               6 Content={3502}}

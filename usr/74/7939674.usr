@@ -1,0 +1,51 @@
+ID              = 7939674
+Name            = "Harzorth"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (133,59-114-114-114)
+CurrentOutfit   = (133,59-114-114-114)
+LastLogin       = 1147191796
+LastLogout      = 1147191833
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32920,32069,7]
+PlayerkillerEnd = 0
+
+Skill = (0,17,0,1,0,0,0,0,0,0,1,64762,0,69700,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,26865,3000,64000,1600)
+Skill = (2,320,320,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,80,80,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,86,86,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,695,695,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,15479,1100,16449,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,11,0,10,0,0,0,0,0,0,0,60,1100,105,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,7,1100,50,50)
+Skill = (10,41,0,10,0,0,0,0,0,0,0,9807,1100,10056,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,461,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29,76,81}
+QuestValues = {(19,1),(20,1),(21,1),(22,1),(23,1),(25,1),(26,1),(27,1),(32,1),(33,1),(34,1),(35,1),(59,1),(67,1),(84,1),(85,1),(86,1),(87,1),(98,1),(99,1),(100,1),(106,1),(107,1),(190,1),(191,1),(208,1),(223,1)}
+Murders     = {}
+
+Inventory   = {5 Content={3425},
+               6 Content={3317}}
+
+Depots      = {1 Content={3502 Content={}}, 
+               3 Content={3502 Content={3308, 3031 Amount=34, 3031 Amount=100, 3031 Amount=100}}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3502 Content={}}, 
+               6 Content={2867, 2865 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3266, 3421, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Salvation Street 3\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3054 RemainingUses=200, 2853 Content={3008, 3008, 3377, 3585 Amount=5}, 3412, 3375, 3268, 2867 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3502 Content={2867, 3483, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2854 Content={2853 Content={3425, 3097, 3446 Amount=17, 3367, 3375, 3299}, 2857 Content={3046, 3077, 3084 RemainingUses=250}, 3092, 3046}, 2969 KeyNumber=5010, 3003, 3457}}, 
+               7 Content={3502 Content={}}}

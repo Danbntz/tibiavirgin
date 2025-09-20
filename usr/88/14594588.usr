@@ -1,0 +1,60 @@
+ID              = 14594588
+Name            = "Rikimaru'Botcha"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (133,114-114-0-114)
+CurrentOutfit   = (133,114-114-0-114)
+LastLogin       = 1148241660
+LastLogout      = 1148244621
+StartPosition   = [33217,31814,8]
+CurrentPosition = [32570,31782,5]
+PlayerkillerEnd = 0
+
+Skill = (0,25,0,1,0,0,0,0,0,0,1,208767,0,232500,100)
+Skill = (1,31,0,0,0,0,0,0,0,0,0,309361,1100,321820,1600)
+Skill = (2,259,270,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,412,545,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,94,94,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,640,640,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,25959,1500,38723,100)
+Skill = (7,12,0,10,0,0,0,0,0,0,0,96,1800,181,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,729,1800,1118,50)
+Skill = (9,13,0,10,0,0,0,0,0,0,0,565,1800,593,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,51,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,534,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,6,9,10,16,20,29,39,44,77,81,84,87,88,89}
+QuestValues = {(14,1),(15,1),(16,1),(46,1),(67,1),(68,1),(71,1),(96,1),(97,1),(98,1),(115,1),(190,1),(191,1),(226,1),(253,1),(332,1),(333,1)}
+Murders     = {1148157626}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2869 Content={2821 String="<you recognize a torn diary of some sort>\n... Now I have the information I needed so much. It cost me a fortune, but my love is with it. The evil Minz hid my beloved Caramellia in a tower in the femur hills, I will travel ...\n... almost killed me but i made it to the tower. Sadly the druid enchanted the area with some nature-magic and the grass is almost impassable ... \n... met a wandering elf and bought a machete. Now I will be able ... \n... not possible! I am not trained enough to cut the fast growing grass away quick enough to clear a path to the tower ... \n... will hide for the night in a nearby cave I have spotted this morning while passing by and will tomorrow travel to the town to improve my grass-cutting-skill. I am sure if I am more familiar with that I will make it!", 3031 Amount=9, 3031 Amount=100, 2854, 3031 Amount=100, 3027 Amount=2, 3026 Amount=1, 3582 Amount=4, 2868 Content={3198 Charges=1, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3003}},
+               4 Content={3370},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={2853, 3503 Content={3507 String="darashia\nrikimaru'botcha" Editor="Rikimaru'Botcha"}, 3504 Content={3507 String="rikimaru'botcha\ncarlin\n" Editor="Rikimaru'Botcha"}, 3504 Content={2991, 3507 String="rikimaru'botcha\ncarlin\n" Editor="Guardian Arcanist"}, 3502}, 
+               2 Content={3083 RemainingUses=150, 3097, 2969 KeyNumber=5000, 3059, 2870 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3504 Content={3430, 3507 String="rikimaru'botcha\nkazordoon" Editor="Lain'Albeniz"}, 3349, 3349, 3349, 3502 Content={3035 Amount=30, 3035 Amount=100, 2853 Content={2970 KeyNumber=3801, 2970 KeyNumber=3802, 2969 KeyNumber=3033, 2970 KeyNumber=3800}}}, 
+               3 Content={2854 Content={3031 Amount=50, 3349, 3349, 3031 Amount=100}, 3503 Content={3507 String="rikimaru'botcha \nab'dendriel" Editor="Sir Fulgor"}, 2853 Content={2853 Content={2853, 2853 Content={2853 Content={3377, 3291, 3292, 3377, 3377, 2853 Content={3349, 3349, 3349, 2853}}}}}, 3502 Content={2969 KeyNumber=3033, 2870, 2854 Content={3457}, 2870 Content={3074, 3147, 3147, 3147, 3147}}}, 
+               4 Content={3504 Content={3031 Amount=20, 3507 String="rikimaru'botcha\nedron" Editor="Dark'Masther"}, 3502}, 
+               5 Content={3457, 3502 Content={3070, 3066, 2853 Content={2970 KeyNumber=3800, 2970 KeyNumber=3801, 2970 KeyNumber=3802}, 3054 RemainingUses=152, 3084 RemainingUses=250}}, 
+               6 Content={3502}, 
+               7 Content={3502 Content={3042 Amount=1}}, 
+               8 Content={3502}}

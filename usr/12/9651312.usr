@@ -1,0 +1,57 @@
+ID              = 9651312
+Name            = "Buublet"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (133,114-76-95-114)
+CurrentOutfit   = (133,114-76-95-114)
+LastLogin       = 1143114064
+LastLogout      = 1143114088
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32353,32265,7]
+PlayerkillerEnd = 0
+
+Skill = (0,21,0,1,0,0,0,0,0,0,1,134302,0,135100,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,86543,1400,111701,1600)
+Skill = (2,315,315,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,30,230,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,90,90,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,730,730,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,29,0,10,0,0,0,0,0,0,0,5291,1100,5727,100)
+Skill = (7,60,0,10,0,0,0,0,0,0,0,37613,1100,38438,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,151,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1200,50,50)
+Skill = (11,23,0,10,0,0,0,0,0,0,0,2892,1200,2959,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,98,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,8,10,20,29,42,49,51,79}
+QuestValues = {(54,1),(72,1),(73,1),(74,1),(75,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(109,1),(125,1),(126,1),(134,1),(190,1),(191,1),(208,1),(217,3),(223,1),(225,1),(257,1),(292,1)}
+Murders     = {1141784756}
+
+Inventory   = {1 Content={3374},
+               4 Content={3377},
+               5 Content={3349},
+               7 Content={3362},
+               10 Content={3446 Amount=3}}
+
+Depots      = {0 Content={3502 Content={3505 String="Hey bro,\nIm moving back to eternia again.. :(\nHere is your skull staff thanks alot for letting me borrow it :)\nAnd I will be making some visits~ C ya later brother", 3505 String="Hey uzze khoop dat je dit read kben retired want ben doodgegaan :(!\nals je online komt ff Sir calimero msgen hijs mijn rl bro hij kan mij vertellen wanneer je weer onlinne bent want kheb nog vraag aan je", 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Upper Swamp Lane 8\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}, 
+               1 Content={3502 Content={3504 Content={3507 String="Buublet\ncarlin"}, 3504 Content={3507 String="Buublet\ncarlin"}}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={3502 Content={3504 Content={3507 String="Buublet\nedron"}}}, 
+               5 Content={3502 Content={2870, 3003, 3583 Amount=2, 2920, 3457, 3504 Content={3507 String="Buublet\ndarashia"}, 2920, 2920, 2920 SavedExpireTime=501}}, 
+               6 Content={3502}, 
+               7 Content={3502}, 
+               8 Content={3502 Content={}}}

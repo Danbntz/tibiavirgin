@@ -1,0 +1,59 @@
+ID              = 13362219
+Name            = "Shano Aberis"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,97-21-38-49)
+CurrentOutfit   = (134,97-21-38-49)
+LastLogin       = 1148233147
+LastLogout      = 1148233188
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32332,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,416437,0,452600,100)
+Skill = (1,36,0,0,0,0,0,0,0,0,0,497684,1100,528063,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,700,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,23409,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,18,2000,50,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,6,2000,50,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,683,2000,750,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,25,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,27,0,10,0,0,0,0,0,0,0,883,1100,911,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,7,8,9,10,16,17,18,19,20,22,23,25,29,38,39,44,76,78,81,87,88,89}
+QuestValues = {(39,1),(88,1),(89,1),(90,1),(91,1),(92,1),(109,1),(111,1),(112,1),(143,1),(145,1),(146,1),(147,1),(190,1),(191,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               2 Content={3572},
+               3 Content={2866 Content={3003, 3031 Amount=5, 3155 Charges=1, 3155 Charges=1, 3457, 2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2868 Content={2872 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}},
+               4 Content={3567},
+               5 Content={3075},
+               6 Content={3419},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3073}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3425, 3504 Content={3507 String="Shano Aberis\ncarlin\n" Editor="Mivervi Wymiralana"}, 3356, 3504 Content={3359, 3353, 3507 String="shano aberis\ncarlin" Editor="Mivervi Wymiralana"}, 3054 RemainingUses=200, 3147, 3147, 3298 Amount=1, 2472, 3504 Content={2868 Content={3071, 3425, 2866 Content={3287 Amount=1}, 3349, 3092, 2868 Content={2869 Content={3449 Amount=1, 3448 Amount=100, 3448 Amount=100, 3449 Amount=100}, 3017}, 3046, 3042 Amount=5, 3046, 3350, 2866}, 2858 Content={3147, 3409, 3082 RemainingUses=14, 3277 Amount=10, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 3504 Content={3353, 3147, 3042 Amount=1, 2853 Content={2854 Content={3425, 3425, 3425, 2920, 2920}, 2853 Content={3349, 3147}, 3425}}, 3507 String="shano aberis\ncarlin\n" Editor="Shano Aberis"}, 2854 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502}, 
+               3 Content={3502}, 
+               4 Content={2854, 2857, 3447 Amount=4, 3502}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3007, 3502}}

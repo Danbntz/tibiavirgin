@@ -1,0 +1,58 @@
+ID              = 8186029
+Name            = "Giant Kenock"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (130,114-19-19-76)
+CurrentOutfit   = (130,114-19-19-76)
+LastLogin       = 1123781091
+LastLogout      = 1123781101
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 0
+
+Skill = (0,22,0,1,0,0,0,0,0,0,1,152832,0,156200,100)
+Skill = (1,4,0,0,0,0,0,0,0,0,0,83760,3000,193600,1600)
+Skill = (2,395,395,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,45,105,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,91,91,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,53,0,10,0,0,0,0,0,0,0,59760,1100,65264,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1400,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (9,54,0,10,0,0,0,0,0,0,0,34732,1100,35945,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,1,1100,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,50,0,10,0,0,0,0,0,0,0,9664,1100,9757,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,11,20,29}
+QuestValues = {(20,1),(84,1),(85,1),(86,1),(87,1),(190,1),(191,1),(254,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2854 Content={3035 Amount=6, 3483, 3457, 3003}},
+               4 Content={3357},
+               5 Content={},
+               6 Content={3279},
+               7 Content={3372},
+               8 Content={3552},
+               9 Content={},
+               10 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}
+
+Depots      = {2 Content={3502 Content={}}, 
+               4 Content={3054 RemainingUses=200, 3054 RemainingUses=200, 3083 RemainingUses=150, 3336, 3502 Content={}}, 
+               5 Content={3035 Amount=20, 3578 Amount=54, 2853 Content={2853 Content={3305, 3264, 3286, 3286, 3286, 3286}, 3286, 3264, 3264, 3264, 3352, 3358, 3264}, 2854 Content={2857 Content={2854 Content={3579 Amount=4, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2866 Content={3578 Amount=73, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100}, 2854 Content={}}, 2866 Content={3050 SavedExpireTime=0, 3349, 3446 Amount=87, 3077, 2869 Content={3191 Charges=2}, 2869 Content={3155 Charges=1, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3035 Amount=2, 3031 Amount=62, 3031 Amount=100}, 3504 Content={3308, 3003, 3457, 3503 Content={}, 3504 Content={}, 3504 Content={3457, 3003}, 3504 Content={2853 Content={}}, 3504 Content={}}, 3271, 3046 SavedExpireTime=0, 3503 Content={3084 RemainingUses=250, 3286, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Darashia 8, Flat 12\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!"}}, 3031 Amount=71}, 3502 Content={3031 Amount=100, 3031 Amount=100, 3367, 3031 Amount=2, 3367, 3504 Content={3042 Amount=1, 3425, 3311, 3286, 3412, 3336}, 2869 Content={3031 Amount=35, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3502 Content={}}}

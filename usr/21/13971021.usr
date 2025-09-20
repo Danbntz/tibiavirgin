@@ -1,0 +1,51 @@
+ID              = 13971021
+Name            = "Taro Vizrek"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,77-77-77-96)
+CurrentOutfit   = (128,77-77-77-96)
+LastLogin       = 1148239070
+LastLogout      = 1148240832
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32224,7]
+PlayerkillerEnd = 0
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,34252,0,37800,100)
+Skill = (1,12,0,0,0,0,0,0,0,0,0,38726,1100,39236,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,18,0,10,0,0,0,0,0,0,0,6588,1500,7488,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,2000,30,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,867,2000,1550,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,212,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,92,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,6,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,20,29}
+QuestValues = {(33,1),(35,1),(55,1),(140,1),(141,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               3 Content={2854 Content={2853 Content={3003, 3577 Amount=3, 3582 Amount=1}}},
+               4 Content={3359},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3372},
+               8 Content={3551}}
+
+Depots      = {0 Content={3502 Content={3588 Amount=50, 2857 Content={3031 Amount=22, 3457, 3350}, 2901, 3577 Amount=10, 3582 Amount=5, 3504 Content={3557, 3357, 3351, 3504 Content={3504, 3504 Content={3507 String="telcan storm\nthais" Editor="Telcan Storm"}, 3504 Content={3367, 3504 Content={3504 Content={3507 String="Armando Pitudo\nThais" Editor="Syanx"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3507 String="Tossalots Bish\nThais" Editor="Lord Tosser"}, 3504 Content={3504, 3504 Content={2471, 3504 Content={3504 Content={3507 String="warrior justicier\nthais" Editor="Asmos Mard"}, 3504 Content={3507 String="Lunnie\nThais" Editor="Hell Zide"}}, 3507 String="Vulcan Blader\nThais" Editor="Vulcan Blader"}, 3504 Content={3504 Content={2853, 3507 String="Slal\nThais" Editor="Slal"}, 2853, 3504 Content={3507 String="sir everth\nthais\n" Editor="Compirriano"}, 3507 String="Rana Kusso\nThais\n" Editor="Rana Kusso", 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}, 3507 String="Tossalots Bish\nThais" Editor="Lord Tosser"}, 3507 String="Tossalots Bish\nthais\n"}, 3507 String="Alma Del Phoenix\nThais" Editor="Armed Naiz"}, 3504, 3507 String="gaia lancaster master oz\nthais" Editor="Boricua-Soldier"}, 3504, 3504 Content={3507 String="boldemox\nthais" Editor="Boldemox"}, 3504 Content={3507 String="undead bodom\nThais" Editor="Undead Bodom"}, 3504 Content={3507 String="Druid Pether\nthais\n" Editor="Druid Pether"}, 3504, 3507 String="Vulcan Blader\nThais" Editor="Vulcan Blader"}, 3504 Content={3507 String="Cosas de Telcan storm" Editor="Shipou"}, 3504 Content={3504 Content={3504 Content={3507 String="Anubis Dark\nthais\n" Editor="Anubis Dark"}, 3507 String="gdarius\nthais" Editor="Gdarius"}, 3504 Content={3504, 3504, 3504 Content={3507 String="artemis'olbaid\nthais" Editor="Artemis'Olbaid"}}}, 3504 Content={3504 Content={3507 String="blod cid\nthais" Editor="Lord-Saint"}, 3504 Content={3507 String="Revorgos Ayon\nthais" Editor="Dark Magiccion Of Shadow Riky"}, 3507 String="lucky elo\nthais\n" Editor="Lucky elo"}, 3507 String="lucky elo\nthais" Editor="Lucky elo"}}, 3075, 2473 Content={3359, 3377, 3504 Content={3074, 3031 Amount=9, 2853 Content={3504 Content={3504 Content={3504 Content={3504 Content={3504, 3503 Content={3507 String="lord matheu ibema\nthais" Editor="Serial Mell"}}, 3507 String="cormag the knight \nthais" Editor="Cormag the knight"}, 3504 Content={2853 Content={3003, 3374, 2853}, 3507 String="Venus de'montecristo\nthais" Editor="Venus de'montecristo"}, 3507 String="Armed Naiz\nThais" Editor="Armed Naiz"}, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="lapanda\nthais" Editor="Lapanda"}, 3507 String="Madame Sazu\nThais\n" Editor="Mount Daniel"}, 3504 Content={3504 Content={3504 Content={3507 String="Vulcan Blader\nthais" Editor="Vulcan Blader"}, 3507 String="Vulcan Blader\nthais" Editor="Vulcan Blader"}, 3507 String="pakoibanez\nthais" Editor="Pakoibanez"}}, 3504 Content={3504 Content={3507 String="Chris Kenned\nThais" Editor="Max Sider"}, 3507 String="piotrek-najemnik\nthais" Editor="Sconio"}, 3504 Content={3507 String="neftiz\nthais\n" Editor="Dhaddy Trol"}, 3504, 3504 Content={3507 String="Bellfast\nThais" Editor="Bellfast"}, 2853, 3504 Content={3507 String="Bellfast\nThais" Editor="Bellfast"}, 3504 Content={2853}, 3507 String="Bellfast\nThais" Editor="Bellfast"}}}}}}}}

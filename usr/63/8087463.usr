@@ -1,0 +1,52 @@
+ID              = 8087463
+Name            = "Elderzu"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (139,0-94-77-114)
+CurrentOutfit   = (139,0-94-77-114)
+LastLogin       = 1148035076
+LastLogout      = 1148035113
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32348,32226,7]
+PlayerkillerEnd = 0
+
+Skill = (0,7,0,1,0,0,0,0,0,0,1,4122,0,4200,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,75280,1100,81854,1600)
+Skill = (2,76,180,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,5,5,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,76,76,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,460,460,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,14,0,10,0,0,0,0,0,0,0,854,1500,1318,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,9,1800,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,9,1800,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,792,1800,1118,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,55,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,24,0,10,0,0,0,0,0,0,0,603,1100,635,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {5,8,12,25,26,27,42}
+QuestValues = {(17,1),(18,1),(20,1),(32,1),(33,1),(34,1),(224,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3355},
+               5 Content={3031 Amount=51},
+               6 Content={3504},
+               7 Content={3372}}
+
+Depots      = {0 Content={3504 Content={3003, 2854 Content={3380, 3433, 2865 Content={2853 Content={2971 KeyNumber=3702, 2842, 2842, 2471 Content={2968 KeyNumber=3940, 3308, 3277 Amount=2, 2854 Content={3198 Charges=4}}, 3097, 3097, 3083 RemainingUses=150}, 2870 Content={3083 RemainingUses=92, 3062, 2854 Content={2854 Content={2870 Content={2853 Content={2853 Content={2853 Content={2853 Content={2866 Content={2865 Content={2854 Content={2870 Content={2870 Content={2867 Content={2870 Content={2870}}}}}}}}}}}}, 3078, 3012, 2868 Content={2867, 2867}, 2854}, 2471 Content={2867 Content={3277 Amount=10, 2471 Content={2867 Content={2854 Content={3031 Amount=15, 2853, 3003, 3457}}, 2870 Content={2869 Content={2871 Content={2869}}}, 2853, 2970 KeyNumber=4503, 2854}, 3483, 3307, 2865, 2854 Content={3301, 2854 Content={2854}}, 3552, 3012, 2853 Content={2870 Content={2870 Content={2870 Content={2870 Content={2870}}}}}, 2853, 3449 Amount=3}, 2854, 2868 Content={2868 Content={2865 Content={2868}}}, 2868 Content={2870 Content={2870}}, 2854, 2868 Content={2853}, 2870 Content={2868 Content={2853}}, 3056 RemainingUses=200, 2868 Content={2867, 3457, 3003, 3723 Amount=4, 3031 Amount=80, 2868, 3107, 3003}, 2867, 2868 Content={2868, 3031 Amount=1, 3003}, 2854, 3078}, 2854 Content={2867, 2865 Content={2869 Content={2865 Content={2869}}}}, 2854, 2870, 3446 Amount=1}, 3277 Amount=14, 3283, 2972 KeyNumber=3304, 2970 KeyNumber=3303, 2853 Content={2854 Content={3017, 2969 KeyNumber=3600, 3148 Charges=3, 3083 RemainingUses=150, 3085 RemainingUses=200, 2969 KeyNumber=3610, 3457}}, 2853 Content={2854 Content={2874, 2874, 3003}, 2854 Content={2854 Content={2854 Content={3174 Charges=4, 3174 Charges=1, 3003}}}}, 2853, 3017, 2969 KeyNumber=5010}, 2868 Content={2857, 2853 Content={2868 Content={2867}}, 3384, 2868 Content={2853}, 2854 Content={2854}, 2866 Content={2868 Content={2868 Content={2868}}}, 2865}, 3076, 3012, 2865 Content={2859 Content={2867}}, 2846, 2933, 2854 Content={2469 Content={2865 Content={3372, 3552, 2853 Content={2868 Content={2866}, 3572, 2853 Content={2853 Content={2853}}, 3147}, 2853, 2853, 2867, 2869, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3138, 3559}, 2868 Content={3211, 2469 Content={2471 Content={2471, 2471, 2471, 2471, 3031 Amount=1, 3017, 3492 Amount=69}, 3208, 2906}, 2471, 3061, 3012, 3504 Content={3353, 3350, 2859 Content={3061, 2853}, 2867 Content={3413, 3358, 2867}, 2865 Content={3305, 3266}, 2865 Content={3483, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 3507 String="Blazer legend\nVenore"}, 3077, 3008, 2853 Content={2853 Content={3354, 3372, 2853 Content={3012, 3012, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200}, 2853 Content={3017, 3017, 3017, 3056 RemainingUses=200, 3008}}, 3353, 3353, 3353, 3093 SavedExpireTime=1251, 3046, 3077, 3308}}}}, 3058, 3077, 2991}, 2854 Content={3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1, 3177 Charges=1}, 2865 Content={3348, 3450 Amount=89, 3419, 2854 Content={3324, 3386, 3295, 3323, 3556, 3361, 3039, 2865 Content={3063, 3243, 3574, 2865 Content={3039}, 3007, 2852, 3323, 3557}, 3318}, 3369, 3279, 3044 Amount=2}, 3457}, 3574, 3507 String="Elderzu\nThais" Editor="Akrix"}, 3504 Content={3507 String="Elderzu\nThais"}, 3504 Content={3507 String="Elderzu\nThais"}, 3504 Content={3507 String="Elderzu\nThais"}, 3504 Content={3507 String="Elderzu\nThais"}, 3504 Content={3507 String="Elderzu\nThais"}, 3504 Content={3507 String="Elderzu\nThais"}, 3003, 3457, 3504 Content={3507 String="Elderzu\nThais"}, 3447 Amount=50, 3502}, 
+               1 Content={2856 Content={}, 2853 Content={3578 Amount=4, 3457, 2853 Content={3447 Amount=10, 3448 Amount=4}}, 3350, 3502 Content={}}, 
+               2 Content={3031 Amount=100, 3031 Amount=31, 3035 Amount=3, 3502 Content={}}, 
+               3 Content={2981, 3357, 3507 String="Elderzu\nAb'dendriel", 3372, 3311, 3447 Amount=84, 2853 Content={3147, 3147}, 3350, 3502}, 
+               6 Content={3502}}

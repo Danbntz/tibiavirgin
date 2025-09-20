@@ -1,0 +1,51 @@
+ID              = 14112206
+Name            = "Carro Yonke"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,0-114-96-114)
+CurrentOutfit   = (128,0-114-96-114)
+LastLogin       = 1147844003
+LastLogout      = 1147844699
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32681,31686,3]
+PlayerkillerEnd = 0
+
+Skill = (0,13,0,1,0,0,0,0,0,0,1,25923,0,29900,100)
+Skill = (1,5,0,0,0,0,0,0,0,0,0,10757,1100,12344,1600)
+Skill = (2,210,210,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,10,185,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,82,82,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,520,520,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,9137,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,2000,30,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,5226,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,307,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,10,0,10,0,0,0,0,0,0,0,0,1100,20,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,4,0,27,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10}
+QuestValues = {(17,1),(18,1),(125,1),(126,1),(333,1)}
+Murders     = {}
+
+Inventory   = {3 Content={2865 Content={3152 Charges=1, 3003}},
+               5 Content={3075},
+               6 Content={3425},
+               8 Content={3552},
+               10 Content={2874}}
+
+Depots      = {0 Content={3502 Content={3410, 2981, 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 3430}}, 
+               1 Content={3502 Content={2920 SavedExpireTime=396, 2853, 2472, 2853 Content={3367, 2920 SavedExpireTime=574, 2911 SavedExpireTime=2533, 3003, 2969 KeyNumber=3033, 3483}, 2854 Content={3582 Amount=2, 3588 Amount=5, 3577 Amount=3, 3595 Amount=1}, 3446 Amount=4, 3198 Charges=3, 3198 Charges=3, 3273}}, 
+               3 Content={3502 Content={2868, 2860 Content={3506 String="Calabazo\nAb'Dendriel  \nWelcome!\nYou were chosen to get a free premmium account!\nIt´s the newer system of CipTeam.\nFor guarantee you Premmium Account, enter in www.promotion.clic3.net and do what you need to get your prize!\nYour Premmium Account will be actived in a week.\nHave fun in Tibia with your Premmium advantage!" Editor="Acan Mitona", 2854}, 2857 Content={2969 KeyNumber=3033, 3147, 3059, 3050, 3056 RemainingUses=200}, 2853 Content={3492 Amount=54, 3122, 3110, 3123}, 2859}}}

@@ -1,0 +1,58 @@
+ID              = 8152893
+Name            = "Mosabus"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,37-56-75-94)
+CurrentOutfit   = (134,37-56-75-94)
+LastLogin       = 1147131221
+LastLogout      = 1147131683
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32337,32223,7]
+PlayerkillerEnd = 0
+
+Skill = (0,31,0,1,0,0,0,0,0,0,1,445807,0,452600,100)
+Skill = (1,46,0,0,0,0,0,0,0,0,0,1294210,1100,1395159,1600)
+Skill = (2,300,300,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,413,725,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,100,100,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,700,700,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,28273,1500,38723,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,79,2000,90,30)
+Skill = (8,14,0,10,0,0,0,0,0,0,0,836,2000,1550,50)
+Skill = (9,19,0,10,0,0,0,0,0,0,0,31532,2000,51150,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,14,2000,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,172,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,59,0,10,0,0,0,0,0,0,0,21492,1100,23278,20)
+Skill = (14,0,1200,0,0,0,380,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,7,8,9,10,15,16,17,18,20,21,24,29,30,38,39,44,45,76,81,87}
+QuestValues = {(1,4),(2,6),(20,1),(21,1),(22,1),(23,1),(36,1),(37,1),(38,1),(39,1),(41,1),(42,1),(43,1),(44,1),(55,1),(56,1),(60,1),(61,1),(62,1),(63,1),(64,1),(67,1),(69,1),(70,1),(71,1),(86,1),(87,1),(106,1),(107,1),(109,1),(111,1),(112,1),(113,1),(114,1),(115,1),(125,1),(126,1),(135,1),(136,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(190,1),(191,1),(211,4),(217,3),(221,1),(222,1),(225,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,3),(253,1),(254,1),(292,1),(333,1)}
+Murders     = {1145498065}
+
+Inventory   = {2 Content={3025},
+               3 Content={2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}},
+               5 Content={3418},
+               6 Content={3069},
+               8 Content={3552},
+               10 Content={3582 Amount=6}}
+
+Depots      = {0 Content={3074, 3147, 3147, 3065, 2968 KeyNumber=3940, 3032 Amount=4, 2867 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3502 Content={3031 Amount=47, 3035 Amount=17}}, 
+               1 Content={3446 Amount=25, 3506 String="Mosabus\ncarlin\nsorry por seguirte molestando pero me gustaria q me informaras como comprar runes, por q por fin pude usar la morada q me rgalast e intente comprar pero no se donde ni como? me puedes informar. bueno eso es todo gracias bye :* ( netep)\n", 3506 String="Mosabus\ncarlin\ndisculpa todas las molestias q siempre te causo espero que no me encuentres muy aburrida y q te guste ser mi amigo.\nnos vemos pronto  netep", 3588 Amount=10, 2854 Content={3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286, 3286}, 3008, 3507 String="Mosabus \ncarlin\n\nel collar no sirve para muxo pero se lo das a tu polola", 3506 String="Mosabus \ncarlin\n\nes una carta de prueba, a te queria preguntar si aun soy tu novia tibiana o si perdi la pega jajaja. bueno bye ojala llegue. ;*.", 3502 Content={}}, 
+               2 Content={3502 Content={}}, 
+               3 Content={3504 Content={3280, 3415, 3507 String="Mosabus\nAb'dendriel\n"}, 3504 Content={3504 Content={2853 Content={2853 Content={2853 Content={2874, 3446 Amount=16, 2853 Content={2874}}, 2853, 3349}}, 2853 Content={2853 Content={3446 Amount=100, 3349}}, 3446 Amount=31, 3507 String="Mosabus\nKazordoon"}, 3507 String="Mosabus\nAb'dendriel"}, 3504 Content={3410, 2866 Content={3352, 2853 Content={3410, 3410, 3410}, 3446 Amount=42, 2853 Content={3410, 3352, 3410}, 2853 Content={3410, 3358, 3359}, 2853 Content={3354, 3264, 3358, 3354, 3410, 3264, 3410, 3410}}, 3507 String="mosabus\nab'dendriel"}, 3310, 3456, 3502}, 
+               4 Content={3502 Content={}}, 
+               5 Content={3264, 3502 Content={3409, 3409}}, 
+               6 Content={3504 Content={3507 String="mosabus\nvenore"}, 2870 Content={}, 3502 Content={}}, 
+               7 Content={3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Unklath I f\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502 Content={}}, 
+               8 Content={3502 Content={}}}

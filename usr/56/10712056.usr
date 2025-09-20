@@ -1,0 +1,52 @@
+ID              = 10712056
+Name            = "Buceador"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,97-113-0-113)
+CurrentOutfit   = (129,97-113-0-113)
+LastLogin       = 1144812248
+LastLogout      = 1144813142
+StartPosition   = [32957,32076,7]
+CurrentPosition = [32901,32058,6]
+PlayerkillerEnd = 0
+
+Skill = (0,23,0,1,0,0,0,0,0,0,1,161974,0,179400,100)
+Skill = (1,9,0,0,0,0,0,0,0,0,0,103164,1400,111701,1600)
+Skill = (2,335,335,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,260,260,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,92,92,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,770,770,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,32,0,10,0,0,0,0,0,0,0,7675,1100,7954,100)
+Skill = (7,64,0,10,0,0,0,0,0,0,0,54720,1100,56417,30)
+Skill = (8,23,0,10,0,0,0,0,0,0,0,2862,1200,2959,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,329,1200,372,50)
+Skill = (10,21,0,10,0,0,0,0,0,0,0,1707,1200,1979,50)
+Skill = (11,27,0,10,0,0,0,0,0,0,0,5517,1200,6405,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,462,1100,490,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,10,15,20,29,30,42,44,48,51}
+QuestValues = {(35,1),(49,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(115,1),(121,1),(190,1),(191,1),(217,3),(223,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3356},
+               2 Content={3084 RemainingUses=95},
+               3 Content={2859 Content={2969 KeyNumber=5010, 3003}},
+               4 Content={3357},
+               5 Content={3349},
+               7 Content={3557},
+               10 Content={3446 Amount=67}}
+
+Depots      = {0 Content={3504 Content={3504 Content={3504 Content={3507 String="Buceador\nThais" Editor="Druid Buceador"}}, 3504, 3504 Content={3507 String="Hell Zide\nThais\n" Editor="Azraehl"}, 3504, 3504 Content={3507 String="nuggeteer\nthais" Editor="Nuggeteer"}, 3504 Content={3507 String="launo\nthais" Editor="Cason Pan"}, 3504, 3504 Content={3504 Content={3507 String="lord ardilla\nthais" Editor="Juan Bodoque"}, 3504 Content={3507 String="yesay leonheart\nthais" Editor="Delta'Pox"}, 3507 String="lord ardilla\nthais\n" Editor="Lord Ardilla"}, 3504, 3504}, 3502}, 
+               6 Content={3504 Content={2868 Content={2867 Content={3031 Amount=2, 3031 Amount=49, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003, 2969 KeyNumber=3033, 3188 Charges=2, 3188 Charges=3, 3188 Charges=2}, 2853 Content={3504 Content={2853 Content={3286, 3286}, 3276, 2853 Content={3577 Amount=1}, 2853 Content={2853 Content={3358, 3358}}, 3358, 3358, 3264, 3264, 3358, 2853 Content={3358, 2853, 3358, 3358, 3358, 3358, 3358, 3358}}, 3264, 3264, 3264, 3264, 3264, 3264, 3286}, 3003, 3031 Amount=32, 3266, 3266, 3349, 3349, 3349, 3349, 3349}, 3507 String="Buceador\nvenore" Editor="Buceador"}, 3503 Content={2868 Content={3031 Amount=91, 3031 Amount=100, 3035 Amount=24}, 2853 Content={2867 Content={2854 Content={3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 2865 Content={3447 Amount=80, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2854 Content={3599 Amount=8, 2867 Content={3093, 3097 SavedExpireTime=3585, 3097, 3097, 3097, 3097 SavedExpireTime=2507}, 3026 Amount=1, 2854 Content={3446 Amount=23, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}, 2867 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 2867 Content={3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100}, 3367, 3353, 3353, 3353, 3353, 3353, 3354}, 3066, 3582 Amount=20, 3277 Amount=16, 3277 Amount=100}, 2867 Content={3574, 3279, 3035 Amount=3, 3449 Amount=2, 3070, 3017, 3069, 3030 Amount=2, 3042 Amount=1, 3065, 3028 Amount=3, 3557, 3017, 4871, 3384, 3075, 3322, 3279, 3065}, 3031 Amount=96, 3403, 3557, 2853 Content={3380, 3568, 3383, 3357, 3351, 3155 Charges=1, 3188 Charges=2}}, 2867 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}}, 3502}}

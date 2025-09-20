@@ -1,0 +1,55 @@
+ID              = 13413667
+Name            = "Ramio Azrika"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (128,114-119-0-94)
+CurrentOutfit   = (128,114-119-0-94)
+LastLogin       = 1148232982
+LastLogout      = 1148236105
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32233,8]
+PlayerkillerEnd = 0
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,85030,0,98800,100)
+Skill = (1,16,0,0,0,0,0,0,0,0,0,59555,1100,64871,1600)
+Skill = (2,240,240,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,365,365,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,580,580,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,20,0,10,0,0,0,0,0,0,0,14678,1500,17099,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,1,2000,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,2834,2000,3150,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,224,2000,350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,101,1500,125,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,18,0,10,0,0,0,0,0,0,0,229,1100,271,20)
+Skill = (14,0,1200,0,0,0,785,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,11,20,25,29,44}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(37,1),(55,1),(59,1),(100,1),(140,1),(141,1),(223,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3056 RemainingUses=197},
+               3 Content={2854 Content={3286, 3273, 3273, 3031 Amount=100, 2924 SavedExpireTime=260, 2853 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=11}, 3052 SavedExpireTime=727, 3003, 3457}},
+               4 Content={3357},
+               5 Content={3425},
+               6 Content={3075},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3160 Charges=1}}
+
+Depots      = {0 Content={2854 Content={3072, 3031 Amount=23, 3059, 3282, 3031 Amount=100, 3035 Amount=12}, 3535, 2854 Content={3188 Charges=3, 3504 Content={3377, 2853 Content={3507 String="ramio azrika\nthais" Editor="Tandaron Asty", 3083 RemainingUses=150, 3070, 3429, 3551, 3003}, 3507 String="corrut knight\nthais\n" Editor="Corrut knight"}, 2853 Content={3492 Amount=58, 3492 Amount=100, 3483, 3578 Amount=18}, 3367, 2856, 2854 Content={2853 Content={3147, 3188 Charges=3, 3147}, 2853, 2853, 3504}, 2920 SavedExpireTime=538}, 3275, 3504 Content={3507 String="sir calimero\nthais" Editor="Sir Calimero"}, 3504 Content={3083 RemainingUses=150, 3583 Amount=2, 3074, 3410, 3377, 3572, 3507 String="Ramio Azrika\nthais" Editor="Fert Nekos"}, 3502 Content={2858 Content={3572, 2969 KeyNumber=4600, 2969 KeyNumber=3600}, 3504 Content={3507 String="Ramio Azrika\nthais" Editor="Elchs"}, 2854 Content={3350, 2914 SavedExpireTime=1670, 3551, 3551, 3456, 3046 SavedExpireTime=2947, 3300, 3308, 3300, 3276, 3411, 3374, 3367}, 2854 Content={3574, 3457, 3308, 2924 SavedExpireTime=49, 3551, 3375, 3177 Charges=1, 3189 Charges=2, 3307, 3425, 3375, 3074, 3574}}}, 
+               1 Content={3502}}

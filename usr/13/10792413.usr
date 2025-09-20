@@ -1,0 +1,60 @@
+ID              = 10792413
+Name            = "Konki"
+Race            = 1
+Profession      = 13
+OriginalOutfit  = (134,116-95-79-76)
+CurrentOutfit   = (134,116-95-79-76)
+LastLogin       = 1148245687
+LastLogout      = 1148246178
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32308,32116,7]
+PlayerkillerEnd = 0
+
+Skill = (0,43,0,1,0,0,0,0,0,0,1,1207513,0,1238400,100)
+Skill = (1,45,0,0,0,0,0,0,0,0,0,1210639,1100,1266872,1600)
+Skill = (2,360,360,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,1059,1085,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,112,112,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,820,820,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,46272,1500,58185,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,50,2000,90,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,156,2000,350,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,7434,2000,12750,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,16,2000,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,459,1500,659,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,44,0,10,0,0,0,0,0,0,0,4927,1100,5420,20)
+Skill = (14,0,1200,0,0,0,781,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,72,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,7,8,9,10,11,13,16,18,20,21,25,27,29,38,39,44,45,55,76,81,86,87,88,89}
+QuestValues = {(14,1),(15,1),(20,1),(21,1),(22,1),(23,1),(24,1),(35,1),(37,1),(38,1),(39,1),(55,1),(57,1),(72,1),(73,1),(74,1),(75,1),(77,1),(78,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(109,1),(111,1),(112,1),(113,1),(114,1),(128,1),(133,1),(134,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(148,1),(149,1),(150,1),(151,1),(152,1),(153,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(209,1),(213,1),(214,1),(215,1),(217,3),(222,1),(223,1),(226,1),(227,5),(228,2),(229,3),(230,21),(231,2),(232,1),(233,10),(234,7),(235,1),(236,1),(237,1),(238,1),(239,1),(240,1),(241,1),(242,1),(243,1),(244,2),(245,2),(246,1),(247,1),(248,1),(249,5),(250,5),(251,1),(253,1),(254,1),(257,1),(278,2),(279,1),(280,2),(281,1),(324,1),(333,1)}
+Murders     = {1145699102,1145715949}
+
+Inventory   = {1 Content={3392},
+               2 Content={3084 RemainingUses=73},
+               3 Content={2868 Content={3577 Amount=36, 2867 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3031 Amount=79, 3572, 3003, 3083 RemainingUses=150}},
+               4 Content={3567},
+               5 Content={3071},
+               6 Content={3420},
+               7 Content={3557},
+               8 Content={3552}}
+
+Depots      = {0 Content={3585 Amount=7, 3003, 3502 Content={3725 Amount=6, 3043 Amount=3, 3035 Amount=56, 2821 String="The riddle\n\nOnce upon a time, there have been a knight, a druid, a paladin and a sorcerer that survived the great battle upon the fields of glory. Some of them were wounded, some not. All were deadly tired. They had to escape from a hord of orcs, a whole tribe with more then 35 fighters. Late in the night, they came to a huge bridge, or at least the rest of a once mighty bridge. It was small and seemed to be not very save. The sorcerer screamed some loud and mighty words and for a second the bridge glew in a blue light.\n \"I see\"  the sorcerer said, \"that this bridge will break down and fall into the water within 60 minutes. So we have to hurry up. It will only hold two of us at the same time and it is a long bridge. The wounded knight will need 25 minutes to go over the bridge, and it will take me 20. The paladin can go faster, so he will be on the other side within 10 minutes.\" \nPointing at the druid he said: \"And you can use your spell to move faster. You will need only 5 minutes.\"\n \"Ok then, let´s go! Don´t waste time\" shouted the knight and started to go. But then he stopped. \"I can´t see anything. The bridge is dangerous. We will need your magic light wand to cross it. Without light we will fall down in the cold and deep water. So always someone has to return to bring back the wand of light to the others.\"\n \"What shall we do now?\" asked the paladin \"How can we all reach the other side before the evil orcs will get us? I have no arrow left and we can´t fight them! In which order we have to pass the bridge? Who should go first?\"\nThe druid started to grumbel: \"Let me say k for knight, d for druid, s for sorcerer, p for paladin. hmmm.... and now let me thing: \n\ndk-d-dp- \n\nand hmmmm nonono.\n\n\nHmmmmmmmmmmmmmmmmmmm.\"\n\"Got it!\" the sorcerer screamed. \"Let´s run!\"\n\n", 2969 KeyNumber=3650, 3081 RemainingUses=5, 3014, 2969 KeyNumber=3667, 3210, 3483, 3504 Content={3507 String="Sir-Kevinn\nThais" Editor="Smiechu of Konin"}, 2874 ContainerLiquidType=7, 2874 ContainerLiquidType=7, 3492 Amount=88, 2969 KeyNumber=3004, 3469, 3483, 3457, 2853 Content={3577 Amount=40}, 2868 Content={3405, 3310, 3311}, 3059}}, 
+               1 Content={3504 Content={3507 String="Konki\nCarlin"}, 3502}, 
+               2 Content={3504 Content={3507 String="Konki\nKazordoon" Editor="Konki", 3425, 3425, 3425, 3425, 3425}, 3502 Content={3483, 3492 Amount=100, 3492 Amount=59, 2970 KeyNumber=3800, 2970 KeyNumber=3801}}, 
+               3 Content={3502}, 
+               4 Content={3504 Content={3349, 3507 String="Konki\nEdron" Editor="Konki"}, 3502 Content={3425, 3425, 3603 Amount=4}}, 
+               5 Content={3502}, 
+               6 Content={3502}, 
+               7 Content={3504 Content={3507 String="konki\nankrahmun" Editor="Kuldan Azielmak"}, 3504 Content={3507 String="konki\nankrahmun\n" Editor="Kuldan Azielmak"}, 3504 Content={3507 String="Konki\nAnkrahmun" Editor="Telfir Nailo"}, 3092, 2969 KeyNumber=3610, 3506 String="Konki\nankrahmun\n\nNara ziom. PIsze to rano wlasnie wyjezdzam :P:P:P....Kurwa tydzien bez tibi.\n\nPs.tylko mnie nie przegon\n\nBartin Pallek <master zanery i król paladinów <tylko royal> =]" Editor="Bartin pallek", 3502 Content={3003, 2969 KeyNumber=5000, 3483, 3084 RemainingUses=47, 3045 RemainingUses=200}}, 
+               8 Content={3502 Content={2854 Content={3031 Amount=2, 3740 Amount=1}, 2871 Content={3191 Charges=2, 3191 Charges=2}, 3448 Amount=2, 3308}}}

@@ -1,0 +1,59 @@
+ID              = 10538636
+Name            = "Kakina Deron"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (140,39-18-0-18)
+CurrentOutfit   = (140,39-18-0-18)
+LastLogin       = 1147888204
+LastLogout      = 1147888526
+StartPosition   = [33194,32853,8]
+CurrentPosition = [32660,32771,6]
+PlayerkillerEnd = 0
+
+Skill = (0,32,0,1,0,0,0,0,0,0,1,485993,0,499200,100)
+Skill = (1,42,0,0,0,0,0,0,0,0,0,933079,1100,947841,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,46,755,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,101,101,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,23,0,10,0,0,0,0,0,0,0,57393,1500,58185,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,21,0,10,0,0,0,0,0,0,0,44933,1800,72239,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,121,1800,140,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,16,1800,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,257,1500,406,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,35,0,10,0,0,0,0,0,0,0,2000,1100,2183,20)
+Skill = (14,0,1200,0,0,0,1077,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,196,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,4,5,7,8,9,10,12,14,15,16,18,25,27,29,30,31,32,38,39,42,44,45,77,78,84,87,88,89}
+QuestValues = {(20,1),(21,1),(22,1),(23,1),(35,1),(54,1),(59,1),(93,1),(94,1),(95,1),(96,1),(97,1),(98,1),(115,1),(153,1),(190,1),(191,1),(217,3),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3369},
+               2 Content={3045 RemainingUses=183},
+               3 Content={2867 Content={3147, 3147, 3308, 3046 SavedExpireTime=243, 2866 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=4, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 3582 Amount=1, 3577 Amount=5, 3003, 3457}},
+               4 Content={3567},
+               5 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3007},
+               10 Content={3428}}
+
+Depots      = {0 Content={3502}, 
+               1 Content={3502}, 
+               4 Content={3504 Content={3507 String="Kakina Deron\nEdron\n" Editor="Belleza Astral"}, 3502}, 
+               5 Content={3504 Content={3507 String="Kakina Deron\nDarashia" Editor="Kakina Deron"}, 3504 Content={3504 Content={2853}}, 3502}, 
+               6 Content={2853 Content={2853 Content={2853}}, 3504, 3502}, 
+               7 Content={3504 Content={3504 Content={3507 String="kakina deron\nankrahmun" Editor="Aragorn casas"}, 2853 Content={3377, 2853}, 3504 Content={3507 String="Kakina Deron\nAnkrahmun" Editor="Sepsi Astral"}, 3504 Content={3507 String="kakina deron\nankrahmun" Editor="Macaquito Blanco"}}, 3502 Content={2869 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 2871 Content={3507 String="KAKINA DERON\nHunt here..\nLEAVE PLZ\nam in larvas and scarabs\nDO NOT ENTER\n" Editor="Kakina Deron", 2854 Content={2853 Content={3367, 3367, 3367}, 2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}, 2853 Content={3367, 3367, 3367, 3367, 3367, 3367, 3367, 3367}}, 2854 Content={2853 Content={3354, 3354, 3354, 3354}, 2853 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 2853 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}, 2853 Content={3354, 3354, 3354, 3354, 3354, 3354, 3354, 3354}}}, 2867 Content={2871 Content={2871}, 2863 Content={3147, 3147, 3147, 3147}, 2853 Content={3046 SavedExpireTime=2999, 3046 SavedExpireTime=2229, 3046}, 2853 Content={3177 Charges=1, 3177 Charges=1, 3291, 3177 Charges=1}, 3059}, 2868 Content={2863 Content={3505 String="                   FELIZ CUMPLE!!!!!\n\nA lo mejor no seamos hermanos de sangre pero yo te siento como una hermana de alma.\nEste es mi humilde pero sincero regalo\nGrasias por ser tan buena persona con migo.\nMi hermana ojala hoy lo pases super bien, con tus seres queridos ,hoy una estrella a cumplido un año mas de su nacimiento.\nbueno que mas te puedo desir q eres super simpatica,amable y comprensiva\nal igual q toda nuestra hermosa y loca familia.\n«·´`·.(*·.¸(`·.¸¸.·´)¸.·*).·´`·» . ~«·´¨*·.¸¸...Besote...¸¸.·*¨`·»~ . «·´`·.(¸.·´(¸.·**·.¸)`·.¸).·´`»\nCon cariños ,el noble Aragorn" Editor="Aragorn casas", 3655, 3655, 3735 Amount=1, 2985, 3668, 3658, 3658}, 3507 String="Kakina Deron hunts here plz respect\n" Editor="Kakina Deron", 3372, 3377, 3357, 3447 Amount=65, 3456, 3410, 3066, 3065, 2977, 2853 Content={3313, 3308, 3308, 3457, 2853 Content={3285, 3297, 3301}}, 2857 Content={3045 RemainingUses=200, 3045 RemainingUses=200, 3012, 3097, 3012, 2969 KeyNumber=5000, 3097, 3077}, 2853 Content={3045 RemainingUses=200, 3298 Amount=1, 3045 RemainingUses=200, 3045 RemainingUses=200, 3045 RemainingUses=200, 3291, 2853 Content={3447 Amount=1, 3008, 3008, 3336, 3008, 3008, 2970 KeyNumber=4503, 3505 String="no pues nadamas para que sepas ke pss  te mando esto para saldar cuentas contigo por lo de ke te robe tu bag jejeje perdoname porfavor y pss aki siempre tendras un amigo en quien confiar y cuando tengas algun problema solo llamame ok......bye  S2 =) "}, 3734 Amount=1}, 2911 SavedExpireTime=2771}, 2865 Content={2859 Content={2853 Content={3017, 3017, 3017, 3017}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 2860 Content={3035 Amount=59}, 2853 Content={3032 Amount=1, 3027 Amount=2, 3042 Amount=21, 3004}}}, 2871 Content={2871 Content={2870 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2865 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 2872 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 2920, 2920, 2920, 2920 SavedExpireTime=599, 2920 SavedExpireTime=598, 2920, 2920, 2920, 2920, 2920}, 2871 Content={3578 Amount=74, 3578 Amount=100, 3590 Amount=1, 3585 Amount=2, 3592, 3595 Amount=1, 3598 Amount=13, 2992 Amount=5, 3723 Amount=5, 2853 Content={3492 Amount=100}, 3586 Amount=8, 3587 Amount=8, 3589 Amount=3}}}, 
+               8 Content={3503 Content={3507, 3507}, 3504 Content={3507 String="Kakina Deron\nPort Hope" Editor="Chikarita"}, 3502 Content={2872 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2853 Content={3586 Amount=14, 3587 Amount=4, 3589 Amount=20, 3740 Amount=4, 3738 Amount=1}, 3505 String="Kakina Deron hunts here\nplz respect\n" Editor="Kakina Deron", 2853 Content={3492 Amount=40, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483, 3492 Amount=100}, 2853 Content={3372, 2911 SavedExpireTime=1776, 3372, 3411, 3378, 3367, 3207 Amount=1}, 3505 String="KAKINA DERON\nHunt here...\n \n\nplease respect and leave" Editor="Mami Astral", 2853 Content={2853 Content={3031 Amount=25}, 2853 Content={3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3035 Amount=21, 3062, 3039}}}}

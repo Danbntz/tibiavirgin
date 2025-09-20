@@ -1,0 +1,56 @@
+ID              = 10398333
+Name            = "Capitan Main"
+Race            = 1
+Profession      = 1
+OriginalOutfit  = (128,114-91-114-0)
+CurrentOutfit   = (128,114-91-114-0)
+LastLogin       = 1148251679
+LastLogout      = 1148251688
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31778,7]
+PlayerkillerEnd = 0
+
+Skill = (0,26,0,1,0,0,0,0,0,0,1,248962,0,262600,100)
+Skill = (1,3,0,0,0,0,0,0,0,0,0,54153,3000,64000,1600)
+Skill = (2,175,455,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,17,125,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,95,95,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,920,920,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,44,0,10,0,0,0,0,0,0,0,24810,1100,27102,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,39,1400,71,30)
+Skill = (8,50,0,10,0,0,0,0,0,0,0,23749,1100,24392,50)
+Skill = (9,11,0,10,0,0,0,0,0,0,0,75,1100,105,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,18,1100,50,50)
+Skill = (11,11,0,10,0,0,0,0,0,0,0,69,1100,105,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,14,0,10,0,0,0,0,0,0,0,109,1100,122,20)
+Skill = (14,0,1200,0,0,0,759,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,10,20,29}
+QuestValues = {(14,1),(15,1),(18,1),(35,1),(54,1),(55,1),(59,1),(60,1),(61,1),(96,1),(97,1),(98,1),(100,1),(125,1),(126,1),(140,1),(141,1),(190,1),(191,1),(208,1),(217,3),(223,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3045 RemainingUses=170},
+               3 Content={2868 Content={3503, 3583 Amount=1}},
+               4 Content={3370},
+               5 Content={3280},
+               6 Content={3425},
+               7 Content={3372},
+               10 Content={3003}}
+
+Depots      = {0 Content={3577 Amount=14, 2667, 2659, 2656, 3738 Amount=11, 3465, 3502 Content={3457, 3078, 2969 KeyNumber=3600, 2992 Amount=5, 3483, 3003, 3457}}, 
+               1 Content={2853 Content={3074, 3003, 2853}, 3483, 3492 Amount=11, 2868 Content={2853 Content={3410, 3264, 3352, 3264, 3264}}, 2854 Content={3425, 2866 Content={2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874, 2874}, 2854 Content={3031 Amount=67, 3577 Amount=2, 3160 Charges=1, 2906, 3003, 3457}, 3425}, 2854 Content={3147, 2955, 2973 KeyNumber=3520}, 3504 Content={3504 Content={3504, 3504, 3504, 3504 Content={3507 String="yo macho alfa\ncarlin" Editor="Veckter Gambler"}}, 3504 Content={3504, 3504 Content={3507 String="sadika \ncarlin" Editor="Piojo lopez"}, 3504 Content={3507 String="gatinho loiro\ncarlin" Editor="Lord massimos"}, 3504 Content={3507 String="dragon of legendary\ncarlin" Editor="Remin Glon"}, 3504 Content={3507 String="dragon of legendary\ncarlin" Editor="Ravena Stars"}, 3504 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853 Content={2853}}}}}}}, 3507 String="Reincidente Of Zanera\ncarlin" Editor="Reincidente Of Zanera"}, 3504 Content={3507 String="gottick\ncarlin" Editor="Daniel perro"}, 3504, 3504, 3504 Content={3504, 3507 String="elizabeth elita\ncarlin" Editor="Brocholas Kitad"}}, 3507 String="capitan main\ncarlin\n" Editor="Sir Celular"}, 3349, 3349, 3457, 3502 Content={2866 Content={3077, 2970 KeyNumber=4503, 2969 KeyNumber=3033, 2973 KeyNumber=3520, 2969 KeyNumber=4600}, 2866 Content={2973 KeyNumber=3520, 2970 KeyNumber=4503, 3198 Charges=5}, 2854 Content={3572, 3059, 3054 RemainingUses=22, 3054 RemainingUses=135, 3050 SavedExpireTime=555, 3723 Amount=10, 3077, 3046 SavedExpireTime=2981, 3084 RemainingUses=250, 2874, 3059, 3457}, 2866 Content={3035 Amount=10, 3031 Amount=100, 3031 Amount=20, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 2854 Content={3066, 3457}, 2869 Content={3457, 3003, 3074, 3205, 3077}, 2868 Content={2991, 3004, 3147, 3093, 3084 RemainingUses=250, 3147, 3147, 3147, 3147, 3147}}}}, 
+               2 Content={3502 Content={2970 KeyNumber=3801, 2970 KeyNumber=3800, 3446 Amount=4}}, 
+               3 Content={3035 Amount=3, 3504 Content={2853 Content={3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3}, 3078, 3507 String="CAPITAN MAIN\nab'DENDRIEL"}, 3502 Content={2853 Content={2914 SavedExpireTime=1996, 3598 Amount=27}, 3447 Amount=5, 3441, 3456}}, 
+               6 Content={3502 Content={3031 Amount=98, 2854 Content={3350, 3350, 3350, 3350, 1781 Amount=19, 3572, 3349, 3349, 2867, 2867 Content={3492 Amount=2, 3492 Amount=100, 3483, 3492 Amount=100, 3492 Amount=100}}, 3031 Amount=100, 2950, 2869 Content={2872 Content={2872, 2872, 2872, 2872}, 3147, 2854 Content={3457, 2869 Content={3308, 3148 Charges=1, 3447 Amount=75, 3003}, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3448 Amount=9, 3350, 3447 Amount=32}, 3012, 3003, 2853 Content={3410, 3353, 3469, 2902, 2902, 3463, 2969 KeyNumber=5010, 3008}, 3446 Amount=4, 2868 Content={2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2819 String="What I thought to be digging men are in fact strange green creatures with many arms or eyestalks, who can dig very fast. I they are called \"Beholders\".\nThey did not attack me yet, although I am sure they can sense me. Who knows, maybe they have no interest in me, and I can use their tunnels to get out of here? I will not attack them, unless I have to defend myself.\nI stopped counting the days, because I lost all feeling for time down here.\n\nOh, how I long to see humans again!", 2819 String="Day 5\nI can't dig to the surface! I'm afraid that if I dig in the wrong place the swamp water will flood my tunnel and I will drown instantly! I'll try to dig a little further to the east before I try it again. Luckily the natural caves I found help me a lot.", 2819 String="Day 9\nI think I hear someone else digging somewhere here. I hope it's my men, coming to rescue me... I will dig the direction of the sound.\nMy water supply is low.", 3008, 2876, 2819 String="Day 1\nThere was an earthquake today, and it seems that the house sunk into the swamp. All people left in panic - there's noone left to open the locked cellar door for me and let me out! I tried yelling for help and smashing the door, but to no avail...\nI decided to try to dig a tunnel to the surface.. luckily there are food and water supplies here, so I can survive for a few weeks. I hope I can make it.", 2902}, 3456}}}

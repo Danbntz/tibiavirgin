@@ -1,0 +1,60 @@
+ID              = 8232679
+Name            = "Romyn'Thyx"
+Race            = 1
+Profession      = 11
+OriginalOutfit  = (134,121-79-87-0)
+CurrentOutfit   = (134,121-79-87-0)
+LastLogin       = 1148179378
+LastLogout      = 1148179875
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32339,31791,7]
+PlayerkillerEnd = 0
+
+Skill = (0,93,0,1,0,0,0,0,0,0,1,12834141,0,12985900,100)
+Skill = (1,6,0,0,0,0,0,0,0,0,0,1289765,3000,1748800,1600)
+Skill = (2,1460,1460,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (3,143,460,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (4,162,162,0,0,0,0,0,10,10,1,0,0,0,0)
+Skill = (5,2595,2595,0,0,0,0,0,0,0,25,0,0,0,0)
+Skill = (6,79,0,10,0,0,0,0,0,0,0,728535,1100,788746,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,31,1400,71,30)
+Skill = (8,85,0,10,0,0,0,0,0,0,0,691375,1100,699042,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,23,1100,50,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1100,50,50)
+Skill = (11,14,0,10,0,0,0,0,0,0,0,265,1100,305,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2795,1100,2972,20)
+Skill = (14,0,1200,0,0,0,926,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,125,125,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,200,200,0,0,0,0,0,15,15,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,6,10,11,20,29,76,80,81,93}
+QuestValues = {(3,1),(4,1),(6,1),(9,1),(14,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(39,1),(49,1),(50,1),(55,1),(59,1),(62,2),(63,1),(64,1),(69,1),(77,1),(78,1),(79,1),(80,1),(81,1),(82,1),(83,1),(88,1),(89,1),(90,1),(91,1),(92,1),(96,1),(97,1),(98,1),(106,1),(107,1),(109,1),(111,1),(112,1),(116,1),(117,1),(118,1),(119,1),(122,1),(123,1),(127,1),(133,1),(137,1),(140,1),(141,1),(143,1),(145,1),(146,1),(147,1),(151,1),(152,1),(153,1),(154,1),(155,1),(166,1),(167,1),(168,1),(169,1),(170,1),(171,1),(172,1),(174,1),(175,1),(176,1),(177,1),(178,1),(179,1),(180,1),(190,1),(191,1),(200,1),(201,1),(202,1),(208,1),(214,1),(217,3),(225,1),(278,2),(279,1),(280,1),(292,1),(324,1),(325,2),(332,1)}
+Murders     = {1146620407,1147367116,1147832334}
+
+Inventory   = {1 Content={3392},
+               2 Content={3572},
+               3 Content={2871 Content={3578 Amount=75, 3031 Amount=40, 3434, 3280, 3003, 2866 Content={2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2866 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2868 Content={2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}}, 2867 Content={2871 Content={3188 Charges=2, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}, 2871 Content={3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3, 3188 Charges=3}}, 2854 Content={2871 Content={2871 Content={2854 Content={2854 Content={2871 Content={2854}}}, 3031 Amount=34}}}, 3457}},
+               4 Content={3370},
+               5 Content={3281},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={2872 Content={3029 Amount=5, 2872 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 2871 Content={2871 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}}}}}
+
+Depots      = {0 Content={3287 Amount=1, 2821 String="Diary of Hengis Wulfson\n...\nI can only hope I can escape the \ncyclopes someday. For now I have \noccupied their chief with an attempt \nto learn to read and write, but for \nhow long?\nI'm so desperate. \nWhat a foolish idea to travel here to \nsearch the famous treasures of this \nancient, knightly order. \nI wish I had never heard about it. \nI wish I never had sung thant song. \nNo clue how many unfortunate souls I have lured to death with it.\n", 3502 Content={2866 Content={2868}}}, 
+               1 Content={2874, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Park Lane 3a\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3505 String="12k\nSelvaman!!!\n=P" Editor="Selvaman", 3502 Content={3035 Amount=34, 3081 RemainingUses=5, 3032 Amount=3, 3033 Amount=7, 3029 Amount=5, 3075, 3043 Amount=13, 3449 Amount=100, 3449 Amount=100}}, 
+               2 Content={3502}, 
+               3 Content={3502 Content={2853 Content={2853}}}, 
+               4 Content={3504 Content={3507 String="Romyn'Thyx\nedron\n" Editor="Djkan Tensor"}, 3003, 3359, 3359, 2874, 3085 RemainingUses=200, 3563, 3658, 2949, 3572, 2949, 2853 Content={2914, 2914, 2914 SavedExpireTime=213, 3058, 3563, 3563, 2949}, 2868 Content={3004, 3308, 2854 Content={3147}, 2868 Content={2868 Content={2868}}}, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Cormaya 11\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3502}, 
+               5 Content={3504 Content={3507 String="Romyn'Thyx\ndarashia" Editor="Soul of Vampire"}, 3032 Amount=6, 3033 Amount=3, 3377, 3504 Content={2853 Content={3377, 3377, 3377, 3377, 2853 Content={3377, 2853 Content={3377, 3377, 3377, 3377}}}, 3507 String="romyn'thyx\ndarashia\n" Editor="Romyn'Thyx"}, 3502 Content={3081 RemainingUses=5, 3098 SavedExpireTime=208, 3081 RemainingUses=5, 3029 Amount=2, 3032 Amount=1, 3033 Amount=1, 3557, 3572, 3385, 3436}}, 
+               6 Content={3504 Content={3291, 3507 String="Romyn'Thyx\nVenore" Editor="Neguim do Pastoreio"}, 2656, 2656, 2656, 3504 Content={2656, 2656, 2656, 2656, 3507 String="Romyn'Thyx\nVenore" Editor="Kalavera Koa'Ska"}, 3504 Content={3077, 2656, 2656, 2656, 3507 String="romyn'thyx\nvenore\n\n\n\nManda a grana ein vagabundo xD brinks ^^ bye bye =*****" Editor="Jeffrey'spree"}, 3502 Content={2865 Content={2865, 3207 Amount=1, 2656, 2656, 2656, 2656, 2656, 3077, 2957, 3576}, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 2656, 3384, 2865 Content={2865 Content={2865 Content={2865 Content={2865}}}}, 2969 KeyNumber=5010}}, 
+               7 Content={3504 Content={3507 String="Romyn'Thyx\nankrahmun" Editor="Son Saissu"}, 3504 Content={3507 String="Romyn'Thyx\nAnkrahmun" Editor="Yks Slot"}, 3502}, 
+               8 Content={2469 Content={3313, 3313, 3313, 2991, 2991, 2991}, 2853 Content={3582 Amount=63, 3577 Amount=71, 3577 Amount=100, 3583 Amount=96}, 2854 Content={2853 Content={3492 Amount=52, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100}, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3316, 3492 Amount=76, 3492 Amount=100, 3483}, 3502}}

@@ -1,0 +1,60 @@
+ID              = 7939056
+Name            = "Zarthoz"
+Race            = 1
+Profession      = 14
+OriginalOutfit  = (128,77-77-77-77)
+CurrentOutfit   = (128,77-77-77-77)
+LastLogin       = 1124735318
+LastLogout      = 1124735328
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32369,32241,7]
+PlayerkillerEnd = 1127176582
+
+Skill = (0,14,0,1,0,0,0,0,0,0,1,30258,0,37800,100)
+Skill = (1,22,0,0,0,0,0,0,0,0,0,118480,1100,127268,1600)
+Skill = (2,215,215,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,215,215,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,83,83,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,8669,1500,11333,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,0,1800,30,30)
+Skill = (8,13,0,10,0,0,0,0,0,0,0,584,1800,593,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,6351,1800,6824,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,143,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,12,0,10,0,0,0,0,0,0,0,57,1100,66,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,3,5,6,16,20,25,29,42,88}
+QuestValues = {(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(59,1),(61,1),(84,1),(85,1),(86,1),(87,1),(121,1),(190,1),(191,1),(223,1),(224,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={},
+               6 Content={},
+               7 Content={3559},
+               8 Content={3552},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3504 Content={3425, 3384, 3297, 3027 Amount=2, 2853 Content={3031 Amount=32, 3035 Amount=2, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3003, 2865 Content={2869 Content={3198 Charges=2, 3198 Charges=2, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1, 3155 Charges=1}, 3504 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3507 String="Zarthoz\nthais"}}, 3507 String="Zarthoz\nthais"}, 3031 Amount=79, 3031 Amount=100, 3031 Amount=100, 2853 Content={3031 Amount=72, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={2870 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 3031 Amount=55, 3031 Amount=100, 2920 SavedExpireTime=0, 3457, 3003}, 2865 Content={}, 3507 String="Zunther\ndarashia"}, 3504 Content={2868 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3507 String="Zarthoz\nThais"}, 3035 Amount=5, 3502 Content={}}, 
+               1 Content={3504 Content={3507 String="Zarthoz\ncarlin", 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}, 3504 Content={3147, 3507 String="Zarthoz\ncarlin"}, 3504 Content={3507 String="Zarthoz\ncarlin"}, 3504 Content={3507 String="Zarthoz\ncarlin"}, 3031 Amount=18, 2853 Content={3147, 3147, 3147, 3147, 3147}, 3502 Content={}}, 
+               3 Content={3502 Content={}}, 
+               4 Content={2866 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}, 3031 Amount=30, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3502 Content={}}, 
+               5 Content={3577 Amount=1, 3505 String="Dexei uma mina caçando na cave ate a gente voltar\nquando tu logar pede a ela pra sair pq eu combinei com ela ...\n\n\nViado safado, 2 ja me deixaram na mao hoje, vc e o karluz, to aki passando mal pq vcs nao logaram seus putos...\n\nfalei pra mina q vo dormi um pouco\n\n\nkero ve por o lv 60\nviado!!!", 3503 Content={3503 Content={}, 3503 Content={}}, 3046 SavedExpireTime=0, 3042 Amount=1, 3502 Content={}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={3504 Content={3279, 2869 Content={2920 SavedExpireTime=0, 3457, 3003}, 2854 Content={2854 Content={3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1, 3160 Charges=1}}, 3507 String="Zarthoz\nankrahmun"}, 3504 Content={}, 3504 Content={}, 3147, 3504 Content={3507 String="Zarthoz\nankrahmun"}, 2854 Content={}, 3504 Content={3507 String="Zarthoz\nAnkrahmun"}, 3147, 3147, 3147, 3147, 3504 Content={3507 String="Zarthoz\nankrahmun"}, 3026 Amount=1, 2970 KeyNumber=3142, 2973 KeyNumber=3520, 3483, 3077, 3425, 3031 Amount=6, 3583 Amount=4, 2871 Content={3577 Amount=84, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100, 3577 Amount=100}, 2871 Content={3147, 3098 SavedExpireTime=0, 3098 SavedExpireTime=0, 3098 SavedExpireTime=0}, 3502 Content={}}}

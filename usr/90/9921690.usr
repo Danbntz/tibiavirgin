@@ -1,0 +1,58 @@
+ID              = 9921690
+Name            = "Darkalukard"
+Race            = 1
+Profession      = 4
+OriginalOutfit  = (128,0-0-0-0)
+CurrentOutfit   = (128,0-0-0-0)
+LastLogin       = 1148255223
+LastLogout      = 1148255464
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32362,32157,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,112037,0,116000,100)
+Skill = (1,25,0,0,0,0,0,0,0,0,0,173142,1100,174690,1600)
+Skill = (2,245,245,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,374,395,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,1,1,1,0,0,0,0)
+Skill = (5,590,590,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,21,0,10,0,0,0,0,0,0,0,20219,1500,25749,100)
+Skill = (7,10,0,10,0,0,0,0,0,0,0,7,1800,30,30)
+Skill = (8,15,0,10,0,0,0,0,0,0,0,1718,1800,2063,50)
+Skill = (9,18,0,10,0,0,0,0,0,0,0,9599,1800,12334,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,49,1800,50,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,226,1500,237,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,22,0,10,0,0,0,0,0,0,0,471,1100,490,20)
+Skill = (14,0,1200,0,0,0,964,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,61,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,4,5,8,16,20,29,42,44}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(37,1),(59,1),(72,1),(73,1),(74,1),(75,1),(96,1),(97,1),(98,1),(100,1),(115,1),(125,1),(126,1),(128,1),(190,1),(191,1),(217,3),(226,1),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3391},
+               2 Content={3572},
+               3 Content={2854 Content={3577 Amount=3, 3265, 3031 Amount=70, 2868 Content={2874, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10, 2874 ContainerLiquidType=10}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}, 3003}},
+               4 Content={3381},
+               5 Content={3419},
+               6 Content={3069},
+               7 Content={3557},
+               8 Content={3552},
+               9 Content={3004},
+               10 Content={3046 SavedExpireTime=1782}}
+
+Depots      = {0 Content={3066, 3266, 2991, 2991, 3504 Content={3084 RemainingUses=250, 3077, 3046, 3046, 3077, 3084 RemainingUses=250, 2854 Content={3298 Amount=1, 2868 Content={3093 SavedExpireTime=437, 3050 SavedExpireTime=1593, 3077, 3092, 3077, 3097 SavedExpireTime=3593, 3093 SavedExpireTime=1798, 3050 SavedExpireTime=1333, 3098, 3083 RemainingUses=150, 3012, 3097, 3097 SavedExpireTime=3596, 3045 RemainingUses=200, 3097 SavedExpireTime=3560, 3097 SavedExpireTime=3599, 3054 RemainingUses=200, 3084 RemainingUses=207, 3084 RemainingUses=250, 3056 RemainingUses=200}, 3148 Charges=3, 3148 Charges=3, 3148 Charges=3, 3003}, 3507 String="Darkalukard\nthais\n" Editor="Darthfato"}, 3502 Content={2869 Content={3050 SavedExpireTime=1793, 3056 RemainingUses=200, 3056 RemainingUses=200, 2969 KeyNumber=4600, 2970 KeyNumber=3012, 2970 KeyNumber=4503, 2969 KeyNumber=3008, 2973 KeyNumber=3520}, 2872 Content={3349, 3349}, 2868, 3503 Content={3059, 3059}, 2865, 2868 Content={3273, 3264, 3273}, 2866 Content={3031 Amount=29, 3031 Amount=100, 3035 Amount=27, 3017, 3007, 3017, 3030 Amount=2, 3035 Amount=100, 3028 Amount=5, 3351, 3322}, 2854 Content={3602 Amount=4, 3723 Amount=1, 3585 Amount=13, 3588 Amount=10, 3590 Amount=1}, 2854, 2854 Content={2969 KeyNumber=5000, 3108, 3452, 3337, 3457, 2955, 2949}}}, 
+               1 Content={2983, 3130, 3502 Content={3003}}, 
+               2 Content={3502}, 
+               3 Content={3502}, 
+               6 Content={3502}}

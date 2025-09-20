@@ -1,0 +1,59 @@
+ID              = 8729529
+Name            = "Elrak Aagma"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (130,94-94-94-94)
+CurrentOutfit   = (130,94-94-94-94)
+LastLogin       = 1132101066
+LastLogout      = 1132101070
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32360,31782,7]
+PlayerkillerEnd = 1134260972
+
+Skill = (0,19,0,1,0,0,0,0,0,0,1,94871,0,98800,100)
+Skill = (1,7,0,0,0,0,0,0,0,0,0,48320,1400,55031,1600)
+Skill = (2,90,295,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,0,200,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,88,88,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,690,690,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,36,0,10,0,0,0,0,0,0,0,11726,1100,12109,100)
+Skill = (7,53,0,10,0,0,0,0,0,0,0,18406,1100,19579,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,128,1200,181,50)
+Skill = (9,12,0,10,0,0,0,0,0,0,0,115,1200,181,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,27,1200,50,50)
+Skill = (11,18,0,10,0,0,0,0,0,0,0,918,1200,1039,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,21,0,10,0,0,0,0,0,0,0,425,1100,427,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,6,8,29,42,51,76,81}
+QuestValues = {(18,1),(20,1),(21,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(62,2),(63,1),(64,1),(190,1),(191,1),(221,1),(225,1)}
+Murders     = {}
+
+Inventory   = {1 Content={},
+               2 Content={},
+               3 Content={},
+               4 Content={},
+               5 Content={},
+               6 Content={2983},
+               7 Content={},
+               8 Content={},
+               9 Content={},
+               10 Content={}}
+
+Depots      = {0 Content={3046 SavedExpireTime=2997, 2857 Content={3582 Amount=2, 3577 Amount=21, 3098 SavedExpireTime=72, 3077}, 3505 String="", 3457, 2853 Content={3552, 3503 Content={3083 RemainingUses=137, 3003, 3003}}, 3502 Content={2871 Content={3425, 3457, 3446 Amount=71, 2853 Content={}}, 2854 Content={2854 Content={3198 Charges=5, 3198 Charges=5, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}}, 2871 Content={3359}, 2868 Content={3350, 3031 Amount=30, 3046 SavedExpireTime=2995, 3349, 3449 Amount=4}}}, 
+               1 Content={3502 Content={}}, 
+               3 Content={2854 Content={1781 Amount=16, 3582 Amount=3}, 3504 Content={3286, 3286}, 3502 Content={3031 Amount=21, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100}}, 
+               5 Content={3502 Content={2854 Content={}, 3003, 3147, 3147, 3412, 2969 KeyNumber=3350, 3504 Content={}}}, 
+               6 Content={3502 Content={}}, 
+               7 Content={2871 Content={3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=2999}, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=2998, 2865 Content={}, 3046 SavedExpireTime=0, 2827 String="Cursed be the Akh, for it diverts our attention to things that are but trivial and transitory! Too many fail in their quests for ascension because they give in to their akhs' temptations. If only they knew that ascension holds the key to all our grievances! Only by ascending can we redeem the akh from its mortal bounds and free the Rah and the Uthun to strive for divinity. For each mortal creature holds the key to divinity, to be a god of his own right. \nUnfortunately, the so-called gods are jealous. They do not want the mortals to take what they think is rightfully theirs. It is because of this that they have instructed their followers to condemn the sacred state which they call undead. Brothers and sisters, unite! See through the deceptions of the akh! Shed your mortal shells and embrace the death-that-is-not-death! Ascend and be reborn!", 3046 SavedExpireTime=0, 3050 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3046 SavedExpireTime=0, 3287 Amount=5, 2829 String="By the powers that remain and the powers of old, \nby the wisdom of the scarab and the kiss of the scorpion, \nby the infinity of the sand and the eternity of the mountains, \nby the life-giving powers of water and air, \nby the death-bringing powers of fire and lightning, \nby the blessing of death and the revelations of undeath, \nthis corpse shall rise from the grave, \nthis corpse shall break the shackles of life, \nthis corpse shall seek wisdom, \nthis corpse shall serve the one. \nPraised be our pharaoh!", 3287 Amount=5, 2869 Content={}, 3097 SavedExpireTime=0, 3338, 3441, 3465 ContainerLiquidType=0, 3598 Amount=5, 3198 Charges=5, 3198 Charges=4, 3598 Amount=3, 3301, 3198 Charges=1, 3598 Amount=3, 3008, 2824 String="Time is of no importance to the dead. To understand the concept of time is to understand the cruel trick the gods played on all mortals. Just because it pleased them to do so they stripped all living creatures of their immortality, thus turning anything they hope to achieve into futile ambition. For what is left to hope for if you know the sands of time are moving relentlessly in your hourglass, and that death will be the end of all? Whatever a mortal can hope to achieve time will take from him eventually, and all his hardships and his glorious achievements will be just a distant memory in an indifferent world.", 3265, 3046 SavedExpireTime=0, 3355, 3409, 3506 String="Welcome!\n\nCongratulations on your choice\nfor house \"Othehothep II e\".\nThe rent for the first month\nhas already been debited to your\ndepot. The next rent will be\npayable in thirty days.\nHave a good time in your new home!", 3147, 3502 Content={2866 Content={3298 Amount=1, 3413, 3353, 3265, 3283, 3409, 3277 Amount=12}, 2854 Content={3277 Amount=1, 3446 Amount=1, 3558}, 2868 Content={3046 SavedExpireTime=0}, 2868 Content={3483, 3483}}}}

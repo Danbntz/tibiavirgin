@@ -1,0 +1,55 @@
+ID              = 12589041
+Name            = "Zakos Sion"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,115-116-114-115)
+CurrentOutfit   = (129,115-116-114-115)
+LastLogin       = 1148087127
+LastLogout      = 1148087579
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32336,31780,7]
+PlayerkillerEnd = 0
+
+Skill = (0,11,0,1,0,0,0,0,0,0,1,13154,0,17600,100)
+Skill = (1,2,0,0,0,0,0,0,0,0,0,5290,1400,6975,1600)
+Skill = (2,213,215,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,60,80,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,80,80,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,530,530,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,22,0,10,0,0,0,0,0,0,0,2364,1100,2452,100)
+Skill = (7,30,0,10,0,0,0,0,0,0,0,1845,1100,1920,30)
+Skill = (8,23,0,10,0,0,0,0,0,0,0,2757,1200,2959,50)
+Skill = (9,10,0,10,0,0,0,0,0,0,0,31,1200,50,50)
+Skill = (10,13,0,10,0,0,0,0,0,0,0,216,1200,268,50)
+Skill = (11,12,0,10,0,0,0,0,0,0,0,145,1200,181,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,19,0,10,0,0,0,0,0,0,0,288,1100,318,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,10,20,29}
+QuestValues = {(15,1),(16,1),(18,1),(20,1),(32,1),(33,1),(34,1),(35,1),(59,1),(60,1),(61,1),(125,1),(126,1),(223,1),(224,1),(325,2),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3375},
+               2 Content={3012},
+               3 Content={2868 Content={2893, 3264, 3492 Amount=6, 3003, 3457, 2920, 2920}},
+               4 Content={3358},
+               5 Content={3349},
+               7 Content={3558},
+               8 Content={3552},
+               10 Content={3446 Amount=66}}
+
+Depots      = {1 Content={3003, 3003, 2868 Content={2854 Content={2858}}, 2874 ContainerLiquidType=2, 2873 ContainerLiquidType=3, 3430, 3430, 3378, 3504 Content={3375, 3504 Content={3504 Content={3504 Content={3504 Content={3507 String="Yoda maestro yedi\nCarlin" Editor="Yoda maestro yedi"}}, 3504 Content={3507 String="Darminz\ncarlin" Editor="Angel Of'Glory"}}}, 3504 Content={3507 Editor="Yoda maestro yedi"}}, 3457, 2874, 2874, 2911 SavedExpireTime=2917, 2882, 2854, 2920, 3483, 2917 SavedExpireTime=1701, 2471 Content={3264, 3285}, 2858 Content={3552, 3551}, 3505, 2818 String="lol eres tola grax\npor el lavl lol dad >_<" Editor="Zakos Sion", 3509, 3503 Content={3054 RemainingUses=54, 3012, 3012, 3375, 3056 RemainingUses=200, 3054 RemainingUses=200, 3056 RemainingUses=200, 3056 RemainingUses=200, 2853 Content={3552, 3456, 3375, 3454}, 3050 SavedExpireTime=1742}, 3551, 2955, 3551, 3504 Content={3003, 3316, 3504 Content={3593, 3606 Amount=5, 3587 Amount=2, 3598 Amount=24, 3602 Amount=5, 3577 Amount=24, 3492 Amount=13, 3471, 3723 Amount=6, 3468}, 3559}, 3003, 3502 Content={2854 Content={3066, 3066}, 3457, 3378, 3119, 2815 Editor="Culados", 3308, 3447 Amount=1, 2922 SavedExpireTime=225, 2955, 3289, 2969 KeyNumber=3033, 4871, 3456, 2911 SavedExpireTime=1504, 2868 Content={3504 Content={3504 Content={3504, 3504 Content={3507 String="Kamar Il\nCarlin\n" Editor="Berkyt"}}, 3504 Content={3507 String="Slim shadiy\ncarlin" Editor="Zocale zer"}}, 3504 Content={3504 Content={3668, 2981, 2983, 2981, 3504 Content={2983, 2983, 2983, 3661, 2981, 3661, 2983, 2983, 2983, 2983}, 3504 Content={2983, 2983, 3661, 2983, 2981, 2981, 2981, 2983, 2983, 2983}, 2853 Content={2981, 2985, 2985, 2981, 2983, 2981, 2981, 2981}, 2955, 2853 Content={2985, 2983, 2983, 3655, 3655, 3655, 2983, 3655}, 2853 Content={2983, 2983, 2981, 2983, 2983, 2983, 2985, 2983}}, 3658, 2985, 2983, 2983, 2983, 2985, 2981, 3379, 2985}, 2853 Content={3563}, 2922 SavedExpireTime=1, 2816 String="This was a bad day! \n\nI lost my key to the crypts below while I was fishing in the port. This is especially bad because those trolls hid my precious trumpet somewhere down there.", 2922 SavedExpireTime=124, 2911 SavedExpireTime=726, 3456, 3375, 2920, 3003}, 3459, 3430, 3003, 2868 Content={3353, 3411, 3031 Amount=3, 3454, 3454, 3504 Content={2874 ContainerLiquidType=7, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2875 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2873 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2873 ContainerLiquidType=2, 3504 Content={2893, 2875, 2885, 2885, 2875, 2882 ContainerLiquidType=2, 2874 ContainerLiquidType=2, 2874 ContainerLiquidType=3, 2874 ContainerLiquidType=3, 2873 ContainerLiquidType=3}}, 3316, 3316, 2969 KeyNumber=4600, 3504 Content={3457, 3483, 2858 Content={3349, 3350, 3349, 3350, 3349}, 3430, 2854 Content={2858, 2858, 2858, 3430, 3003}, 2859 Content={3446 Amount=100, 3446 Amount=100, 3504 Content={3447 Amount=82, 2815, 3448 Amount=5, 3449 Amount=1, 3507 String="Zakos Sion\nCarlin" Editor="Zocale zer"}}, 3507 String="Zakos Sion\nCarlin\n" Editor="Zocale zer"}, 2969 KeyNumber=3033, 2854 Content={3421, 3297, 3383, 3574, 3384, 3035 Amount=4, 3372, 2920, 3578 Amount=9, 2906, 2906, 2906}, 3451}}}, 
+               2 Content={3502 Content={3446 Amount=48, 2970 KeyNumber=3801, 2970 KeyNumber=3802, 3349, 3362, 2870}}, 
+               3 Content={3502}, 
+               6 Content={3502 Content={2911 SavedExpireTime=2302}}}

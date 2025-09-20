@@ -1,0 +1,54 @@
+ID              = 12430117
+Name            = "Kakashi elite ninja leaf clan"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (129,77-78-77-0)
+CurrentOutfit   = (129,77-78-77-0)
+LastLogin       = 1148229891
+LastLogout      = 1148229900
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32344,32221,6]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,106404,0,116000,100)
+Skill = (1,10,0,0,0,0,0,0,0,0,0,114554,1400,157982,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,203,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,37,0,10,0,0,0,0,0,0,0,12786,1100,13420,100)
+Skill = (7,52,0,10,0,0,0,0,0,0,0,16776,1100,17772,30)
+Skill = (8,27,0,10,0,0,0,0,0,0,0,6087,1200,6405,50)
+Skill = (9,17,0,10,0,0,0,0,0,0,0,770,1200,824,50)
+Skill = (10,18,0,10,0,0,0,0,0,0,0,1004,1200,1039,50)
+Skill = (11,24,0,10,0,0,0,0,0,0,0,3171,1200,3601,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,25,0,10,0,0,0,0,0,0,0,665,1100,718,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,83,83,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,8,8,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,10,10,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,120,120,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,92,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,3,10,15,20,29,44,51}
+QuestValues = {(17,1),(18,1),(20,1),(22,1),(23,1),(32,1),(33,1),(34,1),(35,1),(37,1),(59,1),(60,1),(96,1),(97,1),(98,1),(100,1),(106,1),(107,1),(142,1),(190,1),(191,1),(217,3),(223,1),(253,1),(332,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               3 Content={2854 Content={3577 Amount=15, 3031 Amount=23, 3003}},
+               4 Content={3380},
+               5 Content={3350},
+               7 Content={3557},
+               8 Content={3551},
+               10 Content={3447 Amount=90}}
+
+Depots      = {0 Content={3605 Amount=58, 3502 Content={2865 Content={3031 Amount=43, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=71, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3031 Amount=100, 3035 Amount=100, 3043 Amount=1}, 2867 Content={2857 Content={3059, 3007, 3077, 3084 RemainingUses=250}, 3046, 2831 String="The Djinn Wars III - The Great Battle, Pt. 3\n\nAt last even Baa'leal, who led the Efreet in battle, had to admit that the Marid and their despised human allies fought valiantly. However, despite the heavy losses he was determined to decide the war there and now. He summoned the most powerful Efreet wizards and ordered them to unleash a huge column of magic fire onto Ankrahmun in order to render the city and all those in it to cinders. The Efreet wizards' followed his orders and soon a wall of devastating fire rose up to the sky. However, when they tried to move it onto Ankrahmun they soon realised that it did not move into the desired direction. The Marid had soon seen through Baa'leals plan, and Fa'hradin and his fellow Marid mages used their own magic to turn the devastating flames against their creators. A fierce battle of wills ensued between the mages from both sides, and the whole battle came to a halt when the two armies watched in horrified fascination as the terrible pile of flames wandered seemingly undecided to and fro. But then, all of a sudden, the pile made a sudden leap to the north, and within seconds those who had summoned it from the sky were reduced to smouldering ashes. That was the turning point of the great battle.", 2842, 2871 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2867 Content={3093 SavedExpireTime=1082, 4290, 3017, 3050, 3097 SavedExpireTime=3567, 3046 SavedExpireTime=1925, 3054 RemainingUses=200, 3056 RemainingUses=200, 3084 RemainingUses=250, 3045 RemainingUses=200, 3083 RemainingUses=150, 3027 Amount=3, 3093, 3097 SavedExpireTime=3279, 3030 Amount=2, 3029 Amount=1, 3026 Amount=1, 3017, 3054 RemainingUses=200, 3056 RemainingUses=200}, 2854 Content={3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5, 3198 Charges=5}, 2854 Content={3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2854 Content={3188 Charges=2, 3188 Charges=2, 2874 ContainerLiquidType=11, 3059, 3046 SavedExpireTime=2999, 3164 Charges=3}, 2854 Content={3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1, 3152 Charges=1}}, 2854 Content={3577 Amount=10, 3587 Amount=2, 3577 Amount=100, 3578 Amount=94, 3599 Amount=7, 3583 Amount=5, 3578 Amount=100, 3577 Amount=100, 3577 Amount=100, 3598 Amount=8, 3582 Amount=53, 3590 Amount=3, 3595 Amount=3, 3597 Amount=4, 3600 Amount=55, 3585 Amount=26, 3578 Amount=100, 3577 Amount=100}, 2870 Content={3297, 3418, 3357, 3307, 3074, 3275, 3311, 3066, 3301, 3316, 2870 Content={3425, 3416, 3313}, 3307, 3299, 2854 Content={2854, 2867, 2866, 2870, 2869, 2868, 2871, 2865}}, 2854 Content={3492 Amount=55, 3492 Amount=100, 3492 Amount=100, 3492 Amount=100, 3483, 3457}, 2868 Content={2854 Content={3446 Amount=64, 3446 Amount=100, 3349, 3448 Amount=25, 3447 Amount=1, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3447 Amount=100, 3287 Amount=3, 3449 Amount=16, 3277 Amount=77, 3447 Amount=100, 3446 Amount=100, 2864 Content={3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100, 3446 Amount=100}}, 1781 Amount=75}}}, 
+               1 Content={3502}, 
+               2 Content={3502 Content={4871, 3003, 1781 Amount=21, 2857 Content={3031 Amount=7, 3031 Amount=100}, 3375}}, 
+               6 Content={3502}}

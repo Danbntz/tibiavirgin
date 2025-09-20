@@ -1,0 +1,55 @@
+ID              = 8201411
+Name            = "Rowley"
+Race            = 1
+Profession      = 2
+OriginalOutfit  = (134,79-114-114-114)
+CurrentOutfit   = (134,79-114-114-114)
+LastLogin       = 1147607038
+LastLogout      = 1147607057
+StartPosition   = [32369,32241,7]
+CurrentPosition = [32343,32219,7]
+PlayerkillerEnd = 0
+
+Skill = (0,20,0,1,0,0,0,0,0,0,1,99708,0,116000,100)
+Skill = (1,8,0,0,0,0,0,0,0,0,0,57500,1400,78644,1600)
+Skill = (2,305,305,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (3,137,215,0,0,0,0,0,0,0,15,0,0,0,0)
+Skill = (4,89,89,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,710,710,0,0,0,0,0,0,0,20,0,0,0,0)
+Skill = (6,39,0,10,0,0,0,0,0,0,0,15799,1100,16449,100)
+Skill = (7,55,0,10,0,0,0,0,0,0,0,22415,1100,23753,30)
+Skill = (8,10,0,10,0,0,0,0,0,0,0,24,1200,50,50)
+Skill = (9,14,0,10,0,0,0,0,0,0,0,358,1200,372,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,40,1200,50,50)
+Skill = (11,13,0,10,0,0,0,0,0,0,0,191,1200,268,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,47,0,10,0,0,0,0,0,0,0,7006,1100,7280,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,3,3,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (22,95,100,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {2,8,20,51}
+QuestValues = {(27,1),(109,1),(224,1),(257,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3351},
+               2 Content={3572},
+               3 Content={2870 Content={2854 Content={3160 Charges=1, 3160 Charges=1}, 3578 Amount=28, 3447 Amount=10, 3447 Amount=59, 3035 Amount=1, 2920, 3457, 3003}},
+               4 Content={3357},
+               6 Content={3350},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3447 Amount=100}}
+
+Depots      = {0 Content={3308, 3172 Charges=2, 3425, 3384, 2868, 3349, 3502}, 
+               3 Content={3085 RemainingUses=200, 3085 RemainingUses=200, 3026 Amount=1, 3027 Amount=1, 3042 Amount=2, 3045 RemainingUses=200, 3035 Amount=60, 3447 Amount=74, 3350, 3031 Amount=60, 3277 Amount=9, 3350, 3507 String="Rowley here, leave or msg b4 coming down", 3046 SavedExpireTime=0, 3502 Content={3085 RemainingUses=200, 3349, 3446 Amount=19, 2920 SavedExpireTime=0}}, 
+               5 Content={3350, 3502 Content={}}, 
+               7 Content={3447 Amount=17, 3578 Amount=1, 3505 String="Rowley hunting here.\n\nLeave or msg me.\n\n~*~[R]o[W]L[e]Y~*~", 3507 String="ZAITOO  y  HUTARUS estan cazando aqui xD\n message me before u go down", 3031 Amount=4, 3504 Content={3507 String="Rowley\nAnkrahmun"}, 3504 Content={3507 String="rowley\nankrahmun"}, 3504 Content={3507 String="rowley\n ankrahmun"}, 3502 Content={3578 Amount=73, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3578 Amount=100, 3286, 3046 SavedExpireTime=0, 3286, 2820 String="Researchpaper 44-33 C\nThe divination spell designed to specify the gender of an unborn child has been completed successfully after several tests using other divination spells. The lack of worthwhile studies in divination magic hampered our efforts considerably, but I'm convinced this spell will provide future researchers in the field with invaluable information to work on. We plan to use the techniques we have developed in order to detect the presence of hostile creatures and to recognise signs of life in the area of the spell's effect.", 2829 String="Suns and Stars, Part I\nIt stands to reason that the stars and the suns influence the flow of magic. The astral patterns wax and wane like the tides, and it is not possible to perform certain summonings on inappropriate days, to give but one example. The study of astrology is pointing at further influences that go well beyond summoning creatures, though. For instance, the influence of the stars and the suns seems to increase with the power level of the performed incantation or ritual. The more mana is used in a spell the more it is susceptible to extratibian influence. For this reason it seems quite safe to assume that certain powerful rituals are only possible when the stars are correctly aligned. We consequently hope to achieve through close observation and through careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. This would explain why all our previous attempts to achieve these effects were doomed to fail.", 2820 String="Researchpaper 02-56 A\nThe work on the cat-eye spell is progressing well. Soon we will be able to reproduce this spell that is used by several of the elder races. Once this has been accomplished we will finally be able to see in the dark without attracting unwanted attention. The problem is to stabilise the spell so it can be maintained during a predictable period of time. Also, the hurtful effect of sudden light to the spell caster must be palliated."}}}

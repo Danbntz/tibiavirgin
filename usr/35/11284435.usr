@@ -1,0 +1,54 @@
+ID              = 11284435
+Name            = "Solid Gary"
+Race            = 1
+Profession      = 3
+OriginalOutfit  = (129,48-118-74-101)
+CurrentOutfit   = (129,48-118-74-101)
+LastLogin       = 1140912755
+LastLogout      = 1140912852
+StartPosition   = [32360,31782,7]
+CurrentPosition = [32334,31784,8]
+PlayerkillerEnd = 0
+
+Skill = (0,18,0,1,0,0,0,0,0,0,1,72889,0,83400,100)
+Skill = (1,18,0,0,0,0,0,0,0,0,0,77848,1100,81854,1600)
+Skill = (2,235,235,0,0,0,0,0,0,0,5,0,0,0,0)
+Skill = (3,335,335,0,0,0,0,0,0,0,30,0,0,0,0)
+Skill = (4,87,87,0,0,0,0,0,0,0,1,0,0,0,0)
+Skill = (5,570,570,0,0,0,0,0,0,0,10,0,0,0,0)
+Skill = (6,19,0,10,0,0,0,0,0,0,0,11060,1500,11333,100)
+Skill = (7,11,0,10,0,0,0,0,0,0,0,30,2000,90,30)
+Skill = (8,12,0,10,0,0,0,0,0,0,0,224,2000,350,50)
+Skill = (9,16,0,10,0,0,0,0,0,0,0,4999,2000,6350,50)
+Skill = (10,10,0,10,0,0,0,0,0,0,0,0,2000,50,50)
+Skill = (11,10,0,10,0,0,0,0,0,0,0,26,1500,50,50)
+Skill = (12,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (13,38,0,10,0,0,0,0,0,0,0,2805,1100,2972,20)
+Skill = (14,0,1200,0,0,0,0,0,0,0,0,0,0,0,0)
+Skill = (15,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (16,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (17,0,2147483647,0,0,0,0,0,0,0,0,0,50,2147483647,2147483647)
+Skill = (18,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (19,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (20,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (21,0,2147483647,0,0,0,0,0,200,200,0,0,1000,2147483647,2147483647)
+Skill = (22,100,100,0,0,0,0,0,120,120,0,0,0,0,0)
+Skill = (23,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+Skill = (24,0,2147483647,0,0,0,0,0,0,0,0,0,1000,2147483647,2147483647)
+
+Spells      = {1,2,7,8,10,15,19,25,27,29,44}
+QuestValues = {(24,1),(113,1),(114,1),(125,1),(126,1),(217,3),(333,1)}
+Murders     = {}
+
+Inventory   = {1 Content={3385},
+               3 Content={2868 Content={3598 Amount=8, 3277 Amount=1, 3031 Amount=5, 3174 Charges=5, 3164 Charges=2, 3174 Charges=4, 3174 Charges=5}},
+               4 Content={3357},
+               5 Content={3075},
+               6 Content={3416},
+               7 Content={3557},
+               8 Content={3552},
+               10 Content={3003}}
+
+Depots      = {1 Content={3502 Content={3084 RemainingUses=250, 3457, 3031 Amount=55, 3367, 3367, 3354, 2853 Content={3031 Amount=98, 3035 Amount=8, 3031 Amount=100}, 2868 Content={2881, 3492 Amount=20, 2874, 3446 Amount=43, 3483, 3492 Amount=100, 3492 Amount=100, 3409, 3074, 3301, 3097, 3003}, 2472 Content={3577 Amount=5, 2853 Content={3188 Charges=3, 3147, 3147, 3147, 3147}}, 3059, 2868 Content={3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147, 3147}, 2853 Content={2868 Content={3189 Charges=1, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2, 3189 Charges=2}, 2868 Content={3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=3, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5, 3174 Charges=5}}, 2853 Content={2853 Content={3506 String="Solid Gary\nCarlin\n\nSó pra testar amigo!!!!" Editor="Caio Aniquilador Of Zanera", 3506 String="Solid Gary\nCarlin\n\nE ai amigo, passei pro lvl 12, comprei uma Serpente Sword e to muito melhor, fui matar dwarf e dwarf soldier, e rot e minha exp subiu muito, ai depois, quando eu entrar, talvez eu entre no dia de semana, a gente se conversa e mais e caça mais... Hj é pq já to saindo, joguei bem e talz, ai mano. Flw!!!\n\nCCGPIRADO !!!!!!!!!!!!!\n\nObS: foi divertido e muito doido a gente ficar la quando fomos picados pelo scorpion, só espero nunca mais passar por aquilo :D\nFlw!!!!" Editor="Caio Aniquilador Of Zanera"}, 3505, 2992 Amount=5, 3505 Editor="Solid Gary", 3505 Editor="Solid Gary", 3505}, 2865 Content={3003, 3286, 3425, 3425, 3425, 3425, 3425}, 2853 Content={3559, 2875, 3056 RemainingUses=200, 2853 Content={3377, 3377, 3377}, 3559, 3056 RemainingUses=200}}}, 
+               2 Content={3504 Content={3507 String="Solid Gary\nKazordoon" Editor="Solid Gary"}, 3502}, 
+               3 Content={3502 Content={3504 Content={3507 String="Solid Gary\nAb'Dendriel" Editor="Solid Gary"}}}}
